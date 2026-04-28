@@ -66,7 +66,7 @@ corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): P000197. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps: []
-opposes: "[[_Donald Trump Master Profile]]"
+opposes: "[[Donald Trump]]"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Congressional Leadership Fund]]"
 wikidata-id: Q170581
 wikipedia-url: https://en.wikipedia.org/wiki/Nancy_Pelosi

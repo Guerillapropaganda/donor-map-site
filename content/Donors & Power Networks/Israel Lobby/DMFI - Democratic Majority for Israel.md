@@ -2,7 +2,7 @@
 title: DMFI - Democratic Majority for Israel
 type: pac
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Israel Lobby
@@ -28,26 +28,20 @@ politicians-opposed:
 issues:
   - Israel & Foreign Policy
   - Democratic Primary Intervention
-ein: '833298146'
+ein: "833298146"
 nonprofit-status: 501(c)(4)
-last-enriched: '2026-04-07'
+last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 source-types:
   - FEC
 known-gaps:
-  - >-
-    IRS 990 auto-block shows 0 filings on record (EIN 833298146, 501c4). Need to
-    verify filing status.
+  - IRS 990 auto-block shows 0 filings on record (EIN 833298146, 501c4). Need to verify filing status.
   - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
 related: ">- · [[AIPAC and the Progressive Purge]] · [[Sean Casten]] · [[Wesley Bell]] · [[Shontel Brown]] · [[Glenn Ivey]] · [[George Latimer]] · [[Bernie Sanders]] · [[John Fetterman]] · [[United Democracy Project - UDP]] · [[Summer Lee]] · [[Nina Turner]] · [[Ilhan Omar]] · [[Miriam Adelson]] · [[Mark Mellman]] · [[Fairshake PAC]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Think Big AI PAC]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[House Majority PAC]]"
-opposes: '[[Jamaal Bowman Master Profile]]'
+opposes: "[[Jamaal Bowman]]"
 cross-vault-triangulation-count: 17
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  FEC data is missing entirely. This profile was promoted to ready without ever
-  having fec enrichment run on it. The needs-reenrichment flag has been set. The
-  next scheduled pipeline run will pick it up automatically.
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
   - DMFI PAC
 checklist-na:

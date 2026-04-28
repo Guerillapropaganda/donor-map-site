@@ -2,7 +2,7 @@
 title: Majority Forward
 type: pac
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -11,34 +11,30 @@ politicians-funded:
   - Chuck Schumer
 issues:
   - Dark Money & Campaign Finance
-ein: '833690373'
+ein: "833690373"
 nonprofit-status: 501(c)(4)
-last-enriched: '2026-04-09'
+last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Josh Hawley]] · [[Chuck Schumer]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[Emilys List]] · [[Elect Chicago Women PAC]] · [[Democratic Senatorial Campaign Committee]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]]"
 court-cases: 36
 court-jurisdictions:
   - Court of Appeals for the Fourth Circuit
-  - 'District Court, E.D. North Carolina'
-  - 'District Court, E.D. Virginia'
-  - 'District Court, M.D. Georgia'
-  - 'District Court, N.D. Georgia'
-opposes: '[[Josh Hawley Master Profile]]'
+  - District Court, E.D. North Carolina
+  - District Court, E.D. Virginia
+  - District Court, M.D. Georgia
+  - District Court, N.D. Georgia
+opposes: "[[Josh Hawley]]"
 cross-vault-triangulation-count: 9
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  FEC data is missing entirely. This profile was promoted to ready without ever
-  having fec enrichment run on it. The needs-reenrichment flag has been set. The
-  next scheduled pipeline run will pick it up automatically.
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
   - MAJORITY FORWARD
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
-total-political-spend: "$201.8M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2021, 2022, 2023"
+total-political-spend: $201.8M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2021, 2022, 2023
 ---
 
 

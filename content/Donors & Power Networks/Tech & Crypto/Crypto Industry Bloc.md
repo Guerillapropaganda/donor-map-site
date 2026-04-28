@@ -2,8 +2,8 @@
 title: Crypto Industry Bloc
 type: corporation
 content-readiness: draft
-central-thesis: "The crypto industry bought a regulatory framework from scratch in a single election cycle, then purchased the president and his family as direct business partners, erasing the distinction between the industry it lobbies and the government that regulates it."
-last-updated: 2026-04-19
+central-thesis: The crypto industry bought a regulatory framework from scratch in a single election cycle, then purchased the president and his family as direct business partners, erasing the distinction between the industry it lobbies and the government that regulates it.
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, filled formal Class Analysis (4 paragraphs), added Analytical Patterns. Profile stays at draft pending LDA pipeline reenrichment (LDA domain migration gap until June 2026 sunset per CLAUDE.md). Editorial is ready-tier; data gap only."
 source-tier: 1
 parent: null
@@ -18,20 +18,18 @@ related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Bi
 cross-vault-triangulation-count: 32
 needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-opposes: "[[Elizabeth Warren Master Profile]]"
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+opposes: "[[Elizabeth Warren]]"
 urls-first-triaged: "2026-04-15"
 source-types:
   - USASpending
 known-gaps:
-  - "No SEC corporate filings"
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No SEC corporate filings
+  - No FEC contribution data
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

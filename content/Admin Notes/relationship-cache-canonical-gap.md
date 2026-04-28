@@ -15,14 +15,14 @@ Phase A of the librarian-rewrite plan (ADR-0026 follow-up).
 
 This report compares frontmatter relationship caches (`donors:`, `opposes:`, `politicians-funded:`) against the canonical relationships graph. Generated automatically; re-run `node scripts/relationship-cache-canonical-gap.cjs --report` to refresh.
 
-**Audit scope:** 3246 profiles, 236279 graph edges, 1553ms.
+**Audit scope:** 3246 profiles, 236279 graph edges, 2058ms.
 
 ## Headline numbers
 
 | Field | Profiles with data | Profiles with gap | Total entries | Exact match | Alias drift | Frontmatter-only | Graph-only |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | **donors** | 1203 | 1110 (92.3%) | 55791 | 43886 (78.7%) | 12 (0.0%) | 3011 (5.4%) | 8882 (15.9%) |
-| **opposes** | 175 | 156 (89.1%) | 431 | 79 (18.3%) | 34 (7.9%) | 63 (14.6%) | 255 (59.2%) |
+| **opposes** | 178 | 141 (79.2%) | 443 | 127 (28.7%) | 7 (1.6%) | 40 (9.0%) | 269 (60.7%) |
 | **politicians_funded** | 1273 | 1142 (89.7%) | 88385 | 34898 (39.5%) | 23 (0.0%) | 9680 (11.0%) | 43784 (49.5%) |
 
 ## Categories explained
@@ -46,18 +46,18 @@ These pairs appear repeatedly across profiles. Each one represents the same enti
 
 These are entries the editor put in frontmatter that have no corresponding `political-opposition` edge in the graph. The Wesley-Bell pattern (donor of primary opponent → opposer of original) is the most common case — frontmatter captures editorial intent the graph can't infer today.
 
-- **Sfa Fund, Inc** — `Ron DeSantis`
-- **The Sentinel Action Fund** — `Mark Kelly`
-- **Congressional Leadership Fund** — `Kyrsten Sinema Master Profile`
-- **NRA Political Victory Fund** — `George W. Bush`
-- **Senate Leadership Fund** — `Raphael Warnock Master Profile`, `Mark Kelly`, `John Fetterman Master Profile`, `Catherine Cortez Masto`
-- **Senate Majority PAC** — `Shelley Moore Capito`
 - **Don Lemon** — `Fox Corp - Rupert Murdoch`
 - **Mehdi Hasan** — `Fox Corp - Rupert Murdoch`
-- **Alexandria Ocasio-Cortez Master Profile** — `_Donald Trump Master Profile`, `AIPAC - American Israel Public Affairs Committee`
+- **Alexandria Ocasio-Cortez Master Profile** — `Donald Trump`, `AIPAC - American Israel Public Affairs Committee`
 - **Ayanna Pressley Master Profile** — `Predatory lenders`, `Private prison industry`
-- **Cori Bush** — `AIPAC`, `Mainstream Democrats PAC`, `Wesley Bell`
-- **Hakeem Jeffries Master Profile** — `Progressive caucus insurgents (via gatekeeping mechanisms)`
+- **Cori Bush** — `AIPAC`, `Mainstream Democrats PAC`
+- **Hakeem Jeffries Master Profile** — `Progressive caucus insurgents`
+- **Ilhan Omar** — `AIPAC`, `United Democracy Project`, `Don Samuels`
+- **Nina Turner** — `DMFI PAC`
+- **Pramila Jayapal** — `Amazon`, `Microsoft`, `Tech industry self-regulation`
+- **Rashida Tlaib** — `AIPAC`, `United Democracy Project`, `DMFI PAC`
+- **Ro Khanna** — `Silicon Valley tech executives`, `Defense contractors`, `Ethan Agarwal`
+- **Summer Lee** — `DMFI PAC`, `AIPAC`
 
 ## Graph-only `opposes` examples (backfill candidates)
 
@@ -68,7 +68,7 @@ These are `political-opposition` edges in the graph that aren't reflected in the
 - **Freedom Partners Chamber of Commerce** — `Catherine Cortez Masto`
 - **Judicial Crisis Network** — `Sheldon Whitehouse`
 - **Marathon Petroleum** — `Rashida Tlaib`
-- **DMFI - Democratic Majority for Israel** — `Summer Lee`, `Nina Turner`, `Rashida Tlaib`
+- **DMFI - Democratic Majority for Israel** — `Summer Lee`, `Nina Turner`, `Rashida Tlaib`, `Bernie Sanders`, `Cori Bush`
 - **AFSCME - American Federation of State County and Municipal Employees** — `Linda McMahon`
 - **UA Political Action Committee** — `Ashley Hinson`
 - **Leonard Leo** — `Sheldon Whitehouse`

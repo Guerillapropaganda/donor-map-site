@@ -1,42 +1,38 @@
 ---
-title: "Senate Leadership Fund"
+title: Senate Leadership Fund
 type: pac
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 politicians-funded:
-  - "Mitch McConnell"
+  - Mitch McConnell
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 31
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, D. Maine"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
+  - District Court, D. Maine
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, D. Delaware
 sec-filings: 2
 sec-form-types:
-  - "ARS"
-  - "DEF 14A"
+  - ARS
+  - DEF 14A
 ein: "862883453"
-nonprofit-status: "527 (Super PAC)"
+nonprofit-status: 527 (Super PAC)
 related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Priorities USA Action]] · [[House Majority PAC]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Americans for Prosperity]] · [[Emilys List]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Bernie Moreno]] · [[Majority Forward]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Dan Osborn]] · [[Raphael Warnock]] · [[John Hickenlooper]] · [[John Fetterman]] · [[Sherrod Brown]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[Elect Chicago Women PAC]] · [[Think Big AI PAC]] · [[Affordable Chicago Now PAC]] · [[Georgia 2026 Senate Race]] · [[2026 Senate Primary Races]] · [[Elliott Management]] · [[Koch Industries]] · [[American Petroleum Institute]] · [[Trump Donor Coalition]] · [[Republican Party Apparatus]] · [[GEO Group - Private Prison Industrial Complex]]"
-opposes: "[[Raphael Warnock Master Profile]] · [[Mark Kelly]] · [[John Fetterman Master Profile]] · [[Catherine Cortez Masto]]"
+opposes: "[[Raphael Warnock]] · [[Mark Kelly]] · [[John Fetterman]] · [[Catherine Cortez Masto]]"
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"

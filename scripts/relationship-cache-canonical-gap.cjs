@@ -149,7 +149,8 @@ function looseMatch(a, b) {
 
 function indexEdges(edges) {
   const monetaryByTo = new Map()      // titleLower → Set of source titles
-  const opposeByTo = new Map()        // titleLower → Set of source titles
+  const opposeByTo = new Map()        // titleLower → Set of source titles (PACs that oppose this politician)
+  const opposeByFrom = new Map()      // titleLower → Set of target titles (politicians this PAC opposes)
   const monetaryByFrom = new Map()    // titleLower → Set of target titles
   for (const e of edges) {
     if (!e.from || !e.to) continue
@@ -164,9 +165,11 @@ function indexEdges(edges) {
     } else if (e.type === "political-opposition") {
       if (!opposeByTo.has(toKey)) opposeByTo.set(toKey, new Set())
       opposeByTo.get(toKey).add(e.from)
+      if (!opposeByFrom.has(fromKey)) opposeByFrom.set(fromKey, new Set())
+      opposeByFrom.get(fromKey).add(e.to)
     }
   }
-  return { monetaryByTo, opposeByTo, monetaryByFrom }
+  return { monetaryByTo, opposeByTo, opposeByFrom, monetaryByFrom }
 }
 
 // ─── Compare two name lists, categorize each entry ───────────────────
@@ -223,7 +226,7 @@ function main() {
   const t0 = Date.now()
   const profiles = loadProfiles()
   const edges = loadEdges()
-  const { monetaryByTo, opposeByTo, monetaryByFrom } = indexEdges(edges)
+  const { monetaryByTo, opposeByTo, opposeByFrom, monetaryByFrom } = indexEdges(edges)
 
   // Per-field aggregates
   const stats = {
@@ -278,8 +281,16 @@ function main() {
     }
 
     // ── opposes: ──────────────────────────────────────────────────
+    // Schema convention varies by profile type:
+    //   politician profile: opposes lists "PACs that oppose me" → graph edges TO me
+    //   PAC/donor profile:  opposes lists "politicians I oppose" → graph edges FROM me
+    // Rather than guess from profile.type, we union both directions —
+    // any active political-opposition edge touching this entity counts.
     const fmOpposes = extractEntityList(p.data.opposes)
-    const graphOpposes = [...(opposeByTo.get(titleKey) || new Set())]
+    const graphOpposes = [
+      ...(opposeByTo.get(titleKey) || new Set()),
+      ...(opposeByFrom.get(titleKey) || new Set()),
+    ]
     if (fmOpposes.length > 0 || graphOpposes.length > 0) {
       stats.opposes.profilesWithField++
       const cat = categorize(fmOpposes, graphOpposes)

@@ -2,17 +2,21 @@
 /**
  * rebuild-relationship-caches.cjs — sync frontmatter caches from canonical store
  *
- * Rule 10 in CLAUDE.md: "data/relationships.jsonl" is the canonical source.
- * Frontmatter fields (related, donors, top-donors, politicians-funded, opposes,
- * stories) are read-caches that should be rebuilt from the store.
+ * Rule 1 in CLAUDE.md: "data/relationships.jsonl" is the canonical source.
+ * Frontmatter relationship fields are read-caches rebuilt from the store.
  *
  * This script ADDS missing canonical links to frontmatter.
  * It does NOT remove stale links (to avoid erasing data not yet in the store).
  *
- * Scope:
+ * Scope (CURRENT IMPLEMENTATION — verified by grep 2026-04-28):
  *   - monetary edges → donors / top-donors on politician profiles
  *                    → politicians-funded on donor profiles
  *   - related edges  → related field (bidirectional)
+ *
+ * NOT YET HANDLED (per Phase B-1 of ADR-0026 follow-up):
+ *   - political-opposition edges → opposes field
+ *     (255 graph-only opposes entries observed 2026-04-28)
+ *   - story-link edges → stories field
  *
  * Run: node scripts/rebuild-relationship-caches.cjs [--write] [--dry-run] [--verbose]
  *      --write    : actually modify files (default is dry-run)

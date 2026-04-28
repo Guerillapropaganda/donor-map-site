@@ -2,7 +2,7 @@
 title: Fairshake PAC
 type: pac
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Tech & Crypto
@@ -30,31 +30,26 @@ related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion W
 source-types:
   - FEC
 known-gaps:
-  - '70+ source URLs marked UNVERIFIED, need browser verification by Code Claude'
+  - 70+ source URLs marked UNVERIFIED, need browser verification by Code Claude
   - Only 1 Tier 1 source type (FEC). Need second Tier 1 for verified promotion.
   - OpenSecrets URLs in sources need archiving per Vault Rules
 cross-vault-triangulation-count: 26
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  FEC data is missing entirely. This profile was promoted to ready without ever
-  having fec enrichment run on it. • No last-enriched date is set. The pipelines
-  have never touched this file. The needs-reenrichment flag has been set. The
-  next scheduled pipeline run will pick it up automatically.
-opposes: '[[Elizabeth Warren Master Profile]]'
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+opposes: "[[Elizabeth Warren]]"
 aliases:
-  - "FAIRSHAKE"
-  - "FF PAC"
-  - "Fairshake"
-  - "Fairshake PAC - Crypto Super PAC"
+  - FAIRSHAKE
+  - FF PAC
+  - Fairshake
+  - Fairshake PAC - Crypto Super PAC
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 total-raised: 9719342
 total-spent: 7367222
 cash-on-hand: 2355043
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

@@ -2,7 +2,7 @@
 title: Priorities USA Action
 type: pac
 content-readiness: draft
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Super PACs
@@ -10,20 +10,16 @@ entity-type: PAC
 issues:
   - Dark Money & Campaign Finance
 related: ">- · [[John Fetterman]] · [[Winning for Women PAC]] · [[Mitt Romney]] · [[Doug Burgum]] · [[Josh Hawley]] · [[Donald Trump]] · [[Preserve America]] · [[WinRed]] · [[Trump Victory]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[Emilys List]] · [[Elect Chicago Women PAC]] · [[DonorsTrust]] · [[Democratic Senatorial Campaign Committee]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]]"
-ein: '833099604'
+ein: "833099604"
 nonprofit-status: 501(c)(3)
-last-enriched: '2026-04-09'
+last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 total-revenue: 226709
 total-assets: 108753
-opposes: '[[Josh Hawley Master Profile]]'
+opposes: "[[Josh Hawley]]"
 cross-vault-triangulation-count: 11
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  FEC data is missing entirely. This profile was promoted to ready without ever
-  having fec enrichment run on it. The needs-reenrichment flag has been set. The
-  next scheduled pipeline run will pick it up automatically.
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
   - PRIORITIES USA ACTION
 checklist-na:

@@ -38,7 +38,7 @@ top-donors:
   - Google
   - Apple
 fec-candidate-id: S6CA00808
-opposes: "[[Donald Trump Master Profile]]"
+opposes: "[[Donald Trump]]"
 stories: "[[Pharmaceutical: The PhRMA Deal]] · [[Civil Rights: The Ceiling]] · [[Infrastructure: The Shovel-Ready Betrayal]] · [[Education: Race to the Top]] · [[Climate: All of the Above Betrayal]] · [[The Drone Presidency - Seven Countries Bombed and the Peace Prize Paradox]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The HAMP Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[ACA and the Insurance Industry Negotiation]] · [[Dodd-Frank and the Wall Street Bailout]] · [[DACA and the Limits of Executive Action]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[Barack Obama Executive Orders Timeline]] · [[Barack Obama Donor Network - The Full Map]] · [[Organizing for Action]] · [[Term 1 vs Term 2 - Obama Comparison]]"
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
