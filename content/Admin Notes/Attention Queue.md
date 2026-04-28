@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: urgent
 status: open
-last-updated: '2026-04-27'
+last-updated: '2026-04-28'
 generated-by: scripts/lib/attention-queue.cjs
 ---
 
@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **53** editorial decisions · **40** background cleanup
+**32** blocking · **53** editorial decisions · **42** background cleanup
 
 ---
 
@@ -281,16 +281,25 @@ Ready profile contains 11 em dashes in body. These hard rules block ship — em 
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### vault-audit: harness-self-audit — 10 findings
+### vault-audit: role-empty-monetary-edges — 138753 findings
 
-Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 10 stalled-producer
+Continuous regression detection for the Bowman/Fairshake bug class. Monetary edges should always have an explicit role (direct-contribution / ie-support / ie-oppose / etc.). Empty role lets consumers silently miscount IE-oppose as donations. findings_count stable/dropping = healthy; rising = an ingester regressed. — 138753 role-empty monetary edge(s) (fec-indiv-by-committee:138753). Layer 3 skips 
 
 - **Where:** `/system-health`
-- **Cost:** ~15 min
+- **Cost:** ~5 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `vault-audit`
 
-### vault-audit: type-specific-a-plus — 1322 findings
+### vault-audit: dispatcher-alive — 1 finding
+
+Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `vault-audit`
+
+### vault-audit: type-specific-a-plus — 1323 findings
 
 Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank — 446 scanned, 0 pass, 446 fail. By type: donor 0/266, corporation 0/6, politician 0/164, state-politician 0/7, local-politician 0/1, think-tank 0/2.
 
@@ -618,11 +627,11 @@ Ready profile has "$1.7 billion" in the Who He Is section with no source link in
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Cori Bush has United Democracy Project in both donors and opposes
+### Sherrod Brown has Donald Trump in both donors and opposes
 
-United Democracy Project appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+Donald Trump appears as both a funder and an adversary of Sherrod Brown. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
 
-- **Where:** `content/Story Seeds/both-sides-cori-bush-has-united-democracy-project-in-both-donors-and-opposes.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `contradiction-miner`
@@ -631,25 +640,25 @@ United Democracy Project appears as both a funder and an adversary of Cori Bush.
 
 Fairshake PAC appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
 
-- **Where:** `content/Story Seeds/both-sides-cori-bush-has-fairshake-pac-in-both-donors-and-opposes.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `contradiction-miner`
 
-### Cori Bush has Mainstream Democrats PAC in both donors and opposes
+### Cori Bush has United Democracy Project - UDP in both donors and opposes
 
-Mainstream Democrats PAC appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
+United Democracy Project - UDP appears as both a funder and an adversary of Cori Bush. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.
 
-- **Where:** `content/Story Seeds/both-sides-cori-bush-has-mainstream-democrats-pac-in-both-donors-and-opposes.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `contradiction-miner`
 
 ### ADM - Archer Daniels Midland funds both major parties
 
-ADM - Archer Daniels Midland appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited 
+ADM - Archer Daniels Midland appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault, with librarian-backed monetary edges to each. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills e
 
-- **Where:** `content/Story Seeds/cross-party-adm-archer-daniels-midland-funds-both-major-parties.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
@@ -658,16 +667,16 @@ ADM - Archer Daniels Midland appears in the politicians-funded / related lists o
 
 Amgen Inc shows up in the donor lists of 43 different Agriculture/HELP committee members: Adam Gray, Alma S. Adams, Andrea Salinas, David Scott, Debbie Wasserman Schultz and 38 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Amgen Inc's sector, and write t
 
-- **Where:** `content/Story Seeds/committee-capture-amgen-inc-funds-43-agriculture-help-committee-members.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### Agricultural Labor Vulnerability Donors funds both major parties
+### Cargill funds both major parties
 
-Agricultural Labor Vulnerability Donors appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that
+Cargill appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault, with librarian-backed monetary edges to each. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician
 
-- **Where:** `content/Story Seeds/cross-party-agricultural-labor-vulnerability-donors-funds-both-major-parties.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
@@ -676,16 +685,16 @@ Agricultural Labor Vulnerability Donors appears in the politicians-funded / rela
 
 Julia Brownley shows up in the donor lists of 22 different Agriculture/HELP committee members: Adam Gray, Andrea Salinas, Angie Craig, Chellie Pingree, Donald G. Davis and 17 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Julia Brownley's sector, and writ
 
-- **Where:** `content/Story Seeds/committee-capture-julia-brownley-funds-22-agriculture-help-committee-members.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### CA Farm Bureau Federation funds both major parties
+### Fanjul Family - Florida Crystals funds both major parties
 
-CA Farm Bureau Federation appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited CA 
+Fanjul Family - Florida Crystals appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault, with librarian-backed monetary edges to each. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bil
 
-- **Where:** `content/Story Seeds/cross-party-ca-farm-bureau-federation-funds-both-major-parties.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
@@ -694,7 +703,7 @@ CA Farm Bureau Federation appears in the politicians-funded / related lists of b
 
 Nancy Pelosi shows up in the donor lists of 36 different Agriculture/HELP committee members: Adam Gray, Alma S. Adams, Andrea Salinas, Angie Craig, April McClain Delaney and 31 more. That's coordinated capture of an entire regulatory body. Pull FEC totals per member, cross-reference committee votes on bills affecting Nancy Pelosi's sector, and writ
 
-- **Where:** `content/Story Seeds/committee-capture-nancy-pelosi-funds-36-agriculture-help-committee-members.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
@@ -712,7 +721,7 @@ Two distinct vault profiles representing the same non-politician entity — dono
 
 Barbara Lee lists "Environmental Protection" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.
 
-- **Where:** `content/Story Seeds/issue-contradiction-barbara-lee-climate-vs-fossil-fuels-contradiction.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
@@ -721,7 +730,7 @@ Barbara Lee lists "Environmental Protection" as a tracked issue, but their donor
 
 Southern Company is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Bahamas corporate registry. Linked jurisdictions: Malta. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a c
 
-- **Where:** `content/Story Seeds/offshore-exposure-southern-company-appears-in-icij-offshore-leaks-18-records-7-l.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
@@ -730,7 +739,7 @@ Southern Company is a politically-active vault entity that ALSO appears in the I
 
 Marcia Fudge has sponsored 11 bills in the "Health" policy area. Their top donors include: Pfizer Inc. (Pharma & Healthcare), Amgen Inc (Pharma & Healthcare). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interests. Pull the bill list (query Ask with `subject: bills, sponsor_bioguide: F
 
-- **Where:** `content/Story Seeds/policy-capture-sponsorship-marcia-fudge-sponsored-11-health-bills-top-donors-inc.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
@@ -739,16 +748,16 @@ Marcia Fudge has sponsored 11 bills in the "Health" policy area. Their top donor
 
 Frank Pallone lists "Environmental Protection" as a tracked issue, but their donor list includes PG&E - Pacific Gas and Electric. Document the dollar amounts and the dates of their public stance vs. the dates of the donations. The contradiction is the story.
 
-- **Where:** `content/Story Seeds/issue-contradiction-frank-pallone-climate-vs-fossil-fuels-contradiction.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### Apple appears in ICIJ Offshore Leaks (17 records, 6 leaks)
+### Heritage Foundation appears in ICIJ Offshore Leaks (87 records, 7 leaks)
 
-Apple is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Appleby. Linked jurisdictions: Panama. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants a closer look. Query Ask with `s
+Heritage Foundation is a politically-active vault entity that ALSO appears in the ICIJ Offshore Leaks Database across: Panama Papers, Offshore Leaks, Paradise Papers - Appleby. Linked jurisdictions: Panama, Bahamas, Bermuda. Appearing in these files does not imply wrongdoing — but the combination of political spending + offshore footprint warrants 
 
-- **Where:** `content/Story Seeds/offshore-exposure-apple-appears-in-icij-offshore-leaks-17-records-6-leaks.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
@@ -757,14 +766,14 @@ Apple is a politically-active vault entity that ALSO appears in the ICIJ Offshor
 
 Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. Their top donors include: McDonalds Corporation (Restaurant & Food), National Restaurant Association (Restaurant & Food), Monsanto - Bayer (Agriculture). This is the classic policy-capture-by-money pattern — legislator acts as a direct channel for donor industry interest
 
-- **Where:** `content/Story Seeds/policy-capture-sponsorship-marcia-fudge-sponsored-14-agriculture-and-food-bills-.md`
+- **Where:** `ops/stories`
 - **Cost:** ~25 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
 ### vault-audit: reconciliation-framework-tier-1 — 60 findings
 
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 60 error, 5180 warn (5240 findings total).
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 60 error, 5787 warn (5847 findings total).
 
 - **Where:** `/system-health`
 - **Cost:** ~45 min
@@ -773,7 +782,7 @@ Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans �
 
 ### vault-audit: frontmatter-schema — 232 findings
 
-Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2958 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3082 info (proposed-required backfill per ADR-0023 Phase C/D).
+Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2955 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3085 info (proposed-required backfill per ADR-0023 Phase C/D).
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min
@@ -783,6 +792,15 @@ Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-req
 ## 🟢 Background Cleanup
 
 *Cleanup that makes everything else easier. Batch these when you have a slow moment.*
+
+### vault-audit: worktree-data-mirror — 2 findings
+
+Detects silent data divergence between worktree and main repo data/derived/. Catches the class of bug found 2026-04-29 where detectors ran on incomplete data without warning. — 0 missing, 2 size-mismatched. Remediate: node scripts/bootstrap-worktree-data.cjs
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `vault-audit`
 
 ### Build stub: AT&T - WarnerMedia
 
@@ -919,9 +937,9 @@ Referenced by 88 other vault profiles but has no file yet. Building a stub unloc
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### vault-audit: leftover-artifacts — 66 findings
+### vault-audit: story-pages-integrity — 25 findings
 
-Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 66 transient file(s) not gitignored (dedup backups, temp files, stray logs)
+Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings. — 25 integrity issue(s): 0 broken-ref, 1 stale, 24 duplicate
 
 - **Where:** `/system-health`
 - **Cost:** ~5 min
@@ -930,11 +948,20 @@ Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope r
 
 ### vault-audit: class-tag-staleness — 8 findings
 
-Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation. — 8 reconciled proposals need human eye (2 conflict + 6 augmentation), oldest 11d. See ops /class-tags pag
+Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation. — 8 reconciled proposals need human eye (2 conflict + 6 augmentation), oldest 13d. See ops /class-tags pag
 
 - **Where:** `/system-health`
 - **Cost:** ~5 min
 - **Leverage:** ★★☆☆☆
+- **Surfaced by:** `vault-audit`
+
+### vault-audit: librarian-gap-audit — 323 findings
+
+Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 323 high-leverage gap(s) (≥10 appearances) — 3688 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3524 alias-cand
+
+- **Where:** `/system-health`
+- **Cost:** ~30 min
+- **Leverage:** ★★★★☆
 - **Surfaced by:** `vault-audit`
 
 ### vault-audit: pathless-stub-entities — 13 findings
@@ -1137,7 +1164,7 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 
 ### vault-audit: pipeline-janitor — 225 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3268 profiles. 225 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3270 profiles. 225 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min

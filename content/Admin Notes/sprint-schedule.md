@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-28-evening-bowman-shape-bug-class-fully-closed-cc_p3_143-148'
+last-updated: '2026-04-29-evening-system-tightening-14-commits'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -3359,6 +3359,118 @@ phase_3_tasks:
       commits: "3b8929bcc"
       notes: "Deprecated 518 over-cap role-null edges (status=deprecated with audit-trail evidence; matches earlier Fairshake-5 deprecation pattern). Fixed harness check to skip non-active edges. Result: 16,495 → 0 active role-empty monetary edges (-100%). Bowman-shape bug class fully closed with 3-layer verification loop in place."
 
+    - id: cc_p3_149
+      task: "/relationships/orphans nav surfaced (sidebar entry + page header button)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "af5cc842e"
+      notes: "Added Sidebar.tsx entry under Analyze→Relationships→Orphan Triage; added header-row link on /relationships page. Closes the next-session-priority gap from the 2026-04-28 EVENING handoff."
+
+    - id: cc_p3_150
+      task: "Detector librarian-gating refactor (contradiction-miner + story-pages-integrity)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "74cc5724e, 116b18308"
+      notes: "Per ADR-0024 + Rule 4. Extracted loadMonetaryPairs into scripts/lib/librarian-monetary-pairs.cjs (shared by 3 detectors). contradiction-miner: every both-sides/cross-party/issue-contradiction/committee-capture/offshore finding now requires librarian backing. story-pages-integrity: bothSidesStillHolds asks librarian, not frontmatter. Initial run dropped 14 ghost both-sides + 175 ghost cross-party. Stale stories went 6→3."
+
+    - id: cc_p3_151
+      task: "Rulebook drift audit vs ADRs 0017/0022/0024"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "db0bd507d"
+      notes: "Three drifts confirmed with spot-checks: Rule 9 invents 'Tier 1 source + mapped relationships' criteria not in ADR-0017; Rule 9 silent on ADR-0022 type-specific bars; ADR-0024 itself stale (says deferred but lib/donor-map/ shipped + 34 scripts use the CJS twin). Editorial fix per drift recommended in content/Admin Notes/rulebook-audit-2026-04-29.md."
+
+    - id: cc_p3_152
+      task: "sprint-task-update.cjs helper + session-save skill wired"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "b8422e358"
+      notes: "Programmatic --mark-done / --list editor for sprint-schedule.md. Bumps frontmatter last-updated, swaps footer date prefix preserving rich tail, validates fenced YAML. session-save skill updated to call this instead of hand-editing YAML. First real-world test is this very session-save."
+
+    - id: cc_p3_153
+      task: "Dispatcher install script honesty fix + AtStartup gotcha documented"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "85dd372e0, 322f0de24"
+      notes: "AtStartup install attempt failed with 0x80070005 even from elevated PowerShell (boot triggers need SYSTEM or S4U, not regular user). schtasks /Delete killed PID 40280 dispatcher mid-attempt; restored AtLogOn-only via inline cmdlets. Patched install script to refuse Running-task delete without -Force. Memory note at project_dispatcher_atstartup_blocked.md documents the SYSTEM/S4U paths if revisited."
+
+    - id: cc_p3_154
+      task: "Verify cleanup: PAS2 regen + worktree mirror + Bush-pattern false-stale recovery"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "79ab8ea8a, 772f176ce"
+      notes: "Discovered fec-pas2.jsonl was missing on disk (yesterday's PAS2 regen claim was actually dry-run only). Re-ran aggregate-pas2-to-edges.cjs --write — 122,074 edges back, 2,270 ie-oppose. Mirrored fec-indiv-by-committee.jsonl from main repo (138K edges the worktree was silently missing). Pair index 35,486 → 133,202 unique sources. story-integrity --write persisted; stale 6→3 (5 of 6 were PAS2-affected false-stales). Full incident chain at content/Admin Notes/librarian-data-gaps-2026-04-29.md."
+
+    - id: cc_p3_155
+      task: "worktree-data-mirror harness check + bootstrap-worktree-data.cjs fix script"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "5184834a8"
+      notes: "Closes the silent-data-divergence class of bug. New harness check (#30) compares main repo's data/derived/ against current worktree, flags missing + size-mismatched files. Companion bootstrap script copies main → worktree on demand (--dry-run, --force flags). Detection-only by design. Caught 2 size mismatches immediately."
+
+    - id: cc_p3_156
+      task: "Operator Commands cheatsheet at /docs (discoverability layer)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "fb63bb28a"
+      notes: "content/Operator Commands.md with 10 sections covering today's known fixes (worktree drift, dispatcher dead, stories integrity, sprint-task-update, orphan triage, PAS2 regen, cache rebuild, full harness, deploy, dispatcher restart). Wired into ops/src/app/api/docs/route.ts so it shows up at Build→Reference. Memory note reminds future sessions to keep it current."
+
+    - id: cc_p3_157
+      task: "Resolver fix: actually read entity.aliases (TS + CJS in lockstep)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "bee83a03c"
+      notes: "Both lib/donor-map/resolver.ts and scripts/lib/canonical-name-resolver.cjs were silently ignoring the aliases array on entity records. Bush's 'George W Bush' alias had been sitting unread. Two-line patch in each, kept in lockstep. librarian-parity-test passes. Stale stories 3→1 (only legitimate Warren/CryptoBloc remains)."
+
+    - id: cc_p3_158
+      task: "Reconciliation 60 errors traced (FEC self-loops, not a regression)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "840293130"
+      notes: "60 errors that appeared after PAS2 regen are pre-existing FEC self-loop edges (Steyer self-funding $317M, etc.). Always there, only newly visible because worktree had been missing fec-indiv-by-committee.jsonl. NOT a regression from today. Documented action items at content/Admin Notes/reconciliation-self-loops-2026-04-29.md (self-loop filter at consumer level, profile-creation backlog, rename-alias rule)."
+
+    - id: cc_p3_159
+      task: "PAS2 deletion forensics + structural fix (auto-regen on branch switch)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "840293130"
+      notes: "No script in repo unlinks fec-pas2.jsonl. Likely manual rm or git clean -fdx. Better than forensics: added the file to scripts/ensure-derived-artifacts.cjs ARTIFACTS list. Post-checkout / post-merge git hooks now auto-regenerate it whenever missing (~8s when external CSVs exist). Whoever deletes it next, it heals."
+
+    - id: cc_p3_160
+      task: "Pathless ghost-stub aliases (10 committee → 7 politician entities)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "8dd31ad83"
+      notes: "Added 10 FEC committee names as aliases on canonical politician entities (Trump, Carey, Osborn ×3, Stratton, Gillen ×2, Biss, Fields). Resolver now resolves 'OSBORN FOR SENATE 2024' → Dan Osborn etc. Ghost entity records remain (full edge migration deferred — touches 315 edges). 3 unprofiled stubs flagged for editorial (Whatley ×2, Carol Miller). Triage at content/Admin Notes/pathless-stub-triage-2026-04-29.md."
+
+    - id: cc_p3_161
+      task: "Duplicate-entity-profile triage (11 groups → A/B/C buckets)"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "fd053531c"
+      notes: "Pure editorial doc — no code changes. 11 duplicate groups categorized: 5 dash-prefix ingest artifacts (WSPA, Walmart, PG&E, CoreCivic, Anthem); 2 same-FEC-different-treatment (Club for Growth, NRL); 4 likely-incorrect-shared-IDs (Citadel/Griffin EIN, Trump's two PACs sharing EIN, Walmart/Walton Foundation). Suggested action per group at content/Admin Notes/duplicate-entity-profiles-triage-2026-04-29.md."
+
+    - id: cc_p3_162
+      task: "Document 138K role-empty edges in fec-indiv-by-committee.jsonl"
+      status: done
+      completed_date: 2026-04-29
+      added_adhoc: true
+      commits: "322f0de24"
+      notes: "role-empty-monetary-edges harness jumped 0→138,753 after worktree mirror. Root cause: aggregate-indiv-to-edges.cjs was patched April 21 to set role=direct-contribution but the file was never re-aggregated since. Yesterday's '16,495→0' victory undercount didn't include this file. Real-impact: AOC's $45M small-dollar base reads as $54K. NOT fixed automatically — needs coordinated deprecate-then-regenerate (138K records). Full plan at content/Admin Notes/role-empty-fec-indiv-by-committee-2026-04-29.md awaiting David approval."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -3529,6 +3641,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
+**Schedule last updated: 2026-04-29 EVENING (Code Claude — SYSTEM TIGHTENING + STRUCTURAL FIXES + LIBRARIAN BUG. 18 commits merged to v4 across one long session. cc_p3_149 /relationships/orphans nav (af5cc842e) — sidebar entry under Analyze→Relationships→Orphan Triage + header button; closes the next-session-priority gap from yesterday's handoff. cc_p3_150 detector librarian-gating (74cc5724e + 116b18308) — extracted scripts/lib/librarian-monetary-pairs.cjs as shared lib; contradiction-miner + story-pages-integrity + relationship-overlap all gate findings through hasMonetaryEdge per Rule 4 + ADR-0024; first run dropped 14 ghost both-sides + 175 cross-party. cc_p3_151 rulebook drift audit (db0bd507d) — 3 confirmed drifts vs ADRs 0017/0022/0024 (Rule 9 invents Tier-1+mapped-relationships not in 0017; Rule 9 silent on type-specific bars from 0022; ADR-0024 itself stale, says deferred but lib/donor-map/ shipped + 34 scripts use the CJS twin). cc_p3_152 sprint-task-update.cjs helper (b8422e358) — programmatic --mark-done / --list editor for sprint-schedule.md; bumps frontmatter, swaps footer date prefix preserving rich tail, validates fenced YAML; session-save skill wired to call this. cc_p3_153 dispatcher install honesty (85dd372e0 + 322f0de24) — AtStartup attempt failed with 0x80070005 (Windows boot triggers need SYSTEM or S4U not regular user); schtasks /Delete killed PID 40280 dispatcher mid-attempt; restored AtLogOn-only via inline cmdlets; install script now refuses Running-task delete without -Force. cc_p3_154 verify cleanup + PAS2 regen (79ab8ea8a + 772f176ce) — discovered fec-pas2.jsonl was missing despite yesterday's claim; re-ran aggregator (122,074 edges + 2,270 ie-oppose); mirrored fec-indiv-by-committee.jsonl 138K edges into worktree; pair index 35,486 → 133,202; story-integrity --write persisted (stale 6→3, 5 of 6 PAS2-affected false-stales recovered). cc_p3_155 worktree-data-mirror harness check + bootstrap (5184834a8) — new check #30 detects silent worktree↔main-repo data divergence; companion bootstrap-worktree-data.cjs copies on demand; caught 2 size mismatches immediately. cc_p3_156 Operator Commands cheatsheet (fb63bb28a) — content/Operator Commands.md with 10 sections covering today's known fixes; wired into /docs at Build→Reference; memory note reminds future sessions to keep current. cc_p3_157 RESOLVER FIX (bee83a03c) — both TS librarian + CJS twin were silently ignoring entity.aliases array; 2-line patch in lockstep; librarian-parity-test passes; stale stories 3→1 (only legit Warren remains). cc_p3_158 reconciliation 60 errors traced (840293130) — pre-existing FEC self-loop edges (Steyer self-funding $317M etc.), NOT a regression; always there but only newly visible from worktree post-mirror; documented at content/Admin Notes/reconciliation-self-loops-2026-04-29.md. cc_p3_159 PAS2 deletion forensics + structural fix (840293130) — no script unlinks the file; likely manual rm or git clean -fdx; added to scripts/ensure-derived-artifacts.cjs ARTIFACTS list so post-checkout / post-merge git hooks auto-regenerate it whenever missing. cc_p3_160 pathless ghost-stub aliases (8dd31ad83) — 10 FEC committees aliased to 7 canonical politicians (Trump, Carey, Osborn ×3, Stratton, Gillen ×2, Biss, Fields); resolver verified; ghost records remain (full edge migration deferred); 3 unprofiled stubs flagged for editorial. cc_p3_161 duplicate-entity triage doc (fd053531c) — 11 groups categorized A/B/C (5 dash-prefix duplicates / 2 same-FEC / 4 likely-incorrect-shared-IDs); pure editorial doc, your call per group. cc_p3_162 138K role-empty edges flagged (322f0de24) — role-empty-monetary-edges harness jumped 0→138,753 after worktree mirror; root cause aggregate-indiv-to-edges.cjs patched April 21 to set role=direct-contribution but data never re-aggregated; AOC's $45M small-dollar reads $54K because of this; needs coordinated deprecate-then-regen, awaiting David approval at content/Admin Notes/role-empty-fec-indiv-by-committee-2026-04-29.md. NEXT SESSION PRIORITIES: (1) **138K role-empty re-aggregate** — highest-impact data integrity fix, plan in admin note. (2) Editorial decisions waiting: 11 duplicate-entity groups, 3 unprofiled pathless stubs (Whatley + Carol Miller), 3 rulebook drifts. (3) Capital_type Path B batch-tagger (~3-4hr, fresh chat). (4) Money Trail rebuild (own session). (5) librarian-gap-audit 323 + type-specific-a-plus 1,323 + frontmatter-schema 232 + url-domain-policy 121 — at-scale editorial backlogs. (6) Stash cleanup in main repo (4-5 dispatcher-mid-merge stashes accumulated). CRITICAL CONTEXT: pipelines paused except RSS+Auto-Connection (Rule 3); dispatcher PID 40912 RUNNING (restored from PID 40280 death this morning) — DO NOT Ctrl+C; worktree's data/derived/ now mirrors main repo's (fec-pas2 78MB + fec-indiv-by-committee 63MB); Bush alias bug uncovered a real librarian regression that's now fixed; 5 admin notes shipped today documenting open items.)**
 **Schedule last updated: 2026-04-28 EVENING (Code Claude — BOWMAN-SHAPE BUG CLASS FULLY CLOSED. 13 commits this session, 21 cumulative for the day. cc_p3_143 FEC committee-stub-resolution (aed29c154) — 371 stubs → 0 via fec-committee-stub-audit.cjs auto-resolving 368/371 by exact-name match against entities; stub-audit registered in vault-audit.cjs as continuous prevention. cc_p3_144 Layer 3 throw on roleless monetary edges (dbc7be608) — edge-taxonomy.ts + CJS twin throw on type=monetary + role=empty/null/undefined; consumers wrap in try/catch and skip; permanent prevention against silent miscount class. cc_p3_145 Phase A re-ingest + aggregator registry fallback (de83a77f0) — re-ingested 2020/2022/2024/2026 PAS2 zips; patched aggregate-pas2-to-edges to consult fec-committee-registry.json as fallback; +294 cmte mappings; upsert dedup healed 11,406 of 14,294 legacy fec-bulk role=null edges automatically (-80%). cc_p3_146 IRS 990 ingester fix + 6 registry repoints + full re-aggregate (1a02ea6a6) — ingest-990-grants-to-edges now tags role=direct-contribution (auto-upgrades to PHILANTHROPIC_GRANT), 2,201→103 role=undefined (-95%); 3 registry repoints (NRSC/DSCC/Fairshake to canonical) + 3 unmaps; re-aggregated all 24 cycles 1980-2026 (122k edges); Fairshake → Bowman correctly classified ie-oppose \\$2,078,023. cc_p3_147 fec-bulk ingester fix + migration + regression harness (5a4a96eae) — bucketToRole now writes direct-contribution; migrated 2,346 legacy edges in place; new role-empty-monetary-check.cjs registered. cc_p3_148 Final close (3b8929bcc) — deprecated 518 over-cap role-null edges with audit-trail evidence; status-filter on harness check; result 16,495 → 0 active role-empty monetary edges (-100%). NEXT SESSION PRIORITIES: (1) /relationships/orphans page is unreachable — page exists at ops/src/app/relationships/orphans/page.tsx but no sidebar link in Sidebar.tsx and no link from /relationships page. Add navigation. (2) Editorial follow-ups: 22 frontmatter-only opposes review, 156 class-tag proposals, 13 reconciled rows. (3) Refactor remaining detectors (contradiction-miner, story-pages-integrity) to use librarian per ADR-0024. (4) Architecture carry-overs: AtStartup dispatcher trigger, Capital_type Path B batch-tagger, Calendar/sprint-schedule auto-wiring, Rulebook audit, Money Trail rebuild. CRITICAL CONTEXT: pipelines paused except RSS+Auto-Connection (Rule 3); dispatcher PID 40280 running from earlier task install — don't Ctrl+C; 525 deprecated fec-bulk edges sit invisible to active reads but kept for traceability; verification loop fully in place: Layer A (edge-taxonomy throw), Layer B (role-empty-monetary harness check, 15-min cadence), Layer C (/relationships/orphans + apply-approved P3).)**
 **Schedule last updated: 2026-04-28 PM (Code Claude — STORY-CARD RECEIPT BUTTONS + ADR-0027 FRONTMATTER CACHE PRUNE MODE + LIBRARIAN GAP AUDIT + ALIAS RULES. 8 commits merged to v4 across the evening. cc_p3_135 Story-card receipt buttons (fc9ded696) — 💰 money / 🔗 evidence / ✍️ draft from evidence per /stories card; new ops/src/lib/story-evidence.ts shared lib classifies edges via lib/donor-map/edge-taxonomy; brief writer assembles receipts only with editorial framing placeholders per Rule 4; verified live with Padilla/PG&E. cc_p3_136 relationship-overlap harness check + Crypto Industry Bloc/Warren ghost fix (ca2330046) — first triage of new buttons surfaced 5/5 very-high frontmatter-only ghost; new check finds 4 ghosts vault-wide, 61 monetary-backed real both-sides correctly distinguished. cc_p3_137 ADR-0027 proposed (11e5841c7) — rebuild-relationship-caches.cjs is additive-only; aggressive auto-prune rejected (Bowman/Fairshake librarian-gap proves the rule wrong); decision is editor-in-the-loop diff-report mode. cc_p3_138 ADR-0027 P1 shipped (15be5255f) — --report-orphans flag, new canonical store data/frontmatter-orphan-candidates.jsonl (8,848 records first scan), helper + harness check + sentinel guard; NO frontmatter writes yet. cc_p3_139 librarian-gap-audit harness check (1b4a57984) — classifies every guarded-field wikilink into 5 gap classes; first scan 11,244 unique wikilinks, priority queue at content/Admin Notes/librarian-gap-audit.md; findings_count scoped to high-leverage (≥10 appearances). cc_p3_140 Resolver auto-alias rules (a39a04cea + 3c1fe872f) — both `_Foo Master Profile` variants + bare profile-path stem auto-alias; closes AT&T-WarnerMedia/Raytheon/Honeywell/iHeartMedia; TS resolver + CJS twin + gap-audit kept in lockstep. cc_p3_141 Editorial alias batch (4d2a216f1) — 12 FEC-edge variants on entities.jsonl (Bank of America/Emily's List/iHeartMedia/etc.); false positives skipped (Pelosi/Mace, Blackstone/BlackRock). cc_p3_142 cumulative gap-audit drop — unresolvable 7,128 → 436 appearances (-94%). NEXT SESSION PRIORITIES: (1) Refactor gap-audit + orphan-check to use librarian's resolver per ADR-0024 (so alias additions reflect in counts) ~2hr; (2) ADR-0027 P2 ops UI for /relationships/orphans ~2hr; (3) ADR-0027 P3 --apply-approved ~1hr; (4) FEC committee-stub-resolution ~10hr multi-session; (5) more alias-candidate review (top remaining unresolvable: The Daily Wire 57, Breaking Points 50, Donor-Network suffix cases, Fairshake-Crypto-Super-PAC duplicate-profile merge). CRITICAL CONTEXT FOR INCOMING CHAT: dispatcher daemon PID 40280 still running from earlier session — do not Ctrl+C; pipeline state unchanged (all paused except RSS+Auto-Connection on GitHub Actions); the Bloc/Warren story is now flagged stale, will auto-archive next tick.)**
 **Schedule last updated: 2026-04-27 evening (Code Claude — LIVE /BUGS BOARD + CAPITOL TRADES DATES + EDITOR BROWSE + SPONSORSHIP SIGNALS + FINANCE-CAPITAL + ORPHAN DIAGNOSTIC + MONEY TRAIL FIXES. 10 commits merged to v4 across the afternoon (25 total for the day across both sessions). cc_p3_117 /bugs live truth board (62da4d583) — bug-queue-parser filters noisy kinds + re-verifies source state at parse time + scheduled as daily dispatcher producer; 436 → 82 actionable items. cc_p3_118 systematic /bugs triage to zero (e7bea4ac5) — walked all 82 items in phase-2 / phase-2.75 / phase-6 exit-criteria, applied honest verdict (auto-verified vs accepted-with-reason); TOTAL OPEN 436 → 0. cc_p3_119 Capitol Trades dates fix #1 (20f6b7ac6) — fmtDate full 4-digit year + isValidTxDate filter at API. cc_p3_120 Editor browse panel (0cbc22afa) — type/readiness/A-Z/grid parity with /profile, +189 lines. cc_p3_121 /policies sponsorship signals + finance-capital bulk tag (f9657f143) — 'Who's pushing for it' section symmetric to blocking; 25 institutional Wall Street entities tagged finance-capital; student_debt empty table → 10 finance donors (Fidelity $6.5B). cc_p3_122 Restart button wrapper launch entry + clearer tooltip (6a863b6a4) — new ops-dev-wrapper-3333 entry runs scripts/ops-dev-loop.bat. cc_p3_123 /relationships orphan-candidates Light diagnostic (e09ea8fa7) — token-based scan over 236K edges; surfaces alias gaps vs ingest gaps. cc_p3_124 Money Trail fix #1 (f100d252e) — duplicate drag handler removed (was the 'satellites heavier and heavier' cause), viewBox + preserveAspectRatio for centering, sim.tick(50) removed in favor of pre-place + sim.alpha(1).restart(). cc_p3_125 Money Trail fix #2 (53294e561) — container max-height calc(100vh - 220px) caps the SVG so centering works in viewport; animationFrameRef cancels stale animation loops. cc_p3_126 Capitol Trades dates fix #2 (6b660c530) — 3 PDF/OCR-misread 2027 records dropped (Maloney 01/01/2027 + 08/01/2027 + DelBene 01/01/2027 — all in 2016 filings, structurally impossible). NEXT SESSION PRIORITIES: (1) STORIES IMPLEMENTATION (#9) — RECOMMENDED FRESH CHAT; design seed at content/Admin Notes/stories-as-data-design-thinking-2026-04-27.md; ~4 sessions. (2) Relationships orphan-merge Medium (~3-4hr) — one-click alias-merge action. (3) Capital_type Path B heuristic batch-tagger (~3-4hr) — covers 1,400 untagged entities; pushes coverage 17% → 60-80%. (4) /bugs auto-resolver Layer A (~1hr) — predicate-based; items declare auto-resolve-when or harness-check linkage. (5-9) Yesterday's known-issues backlog: capitol-trades freshness check (~1hr), calendar/sprint-schedule auto-wiring (~2hr), rulebook audit vs ADRs (~1-2hr), /api/connections cache (~1hr), Money Trail 'actually about money' rebuild (its own session). EDITORIAL LANE: 156 pending class-tag proposals (slightly smaller after today's finance-capital bulk), 13 reconciled rows pending review. POLLING REFRESH (#7) — David said 'not yet'; deferred until API enrichment unfreezes. CRITICAL CONTEXT: David asked to explain everything in laymens terms (memory feedback_laymens_terms.md). Worktree's ops/node_modules is a Windows junction → main repo's. Pre-push gate now flake-resilient with debug log + OOM detection. /bugs at 0 is delicate; daily dispatcher keeps it honest, anyone flipping a [x] back to [ ] in any phase exit-criteria will show up at /bugs within 24 hours.)**
