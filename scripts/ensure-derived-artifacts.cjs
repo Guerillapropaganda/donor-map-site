@@ -46,6 +46,14 @@ const ARTIFACTS = [
     args: [],
     why: 'imported by quartz/components/DiscoveryPanel.tsx + ProfileWidget.tsx',
   },
+  {
+    path: 'data/derived/fec-pas2.jsonl',
+    builder: 'scripts/aggregate-pas2-to-edges.cjs',
+    args: ['--write'],
+    // Requires C:/donor-map-data/fec/ external bulk; will fail
+    // gracefully on machines without it. ~8s when inputs exist.
+    why: 'ie-support / ie-oppose / direct-donor monetary edges (~122K). Discovered missing 2026-04-29 — added so any future deletion auto-recovers on next branch switch.',
+  },
 ];
 
 let failures = 0;
