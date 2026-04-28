@@ -72,6 +72,15 @@ const NO_QUEUE = args.includes('--no-queue');
 
 const CHECKS = [
   {
+    name: 'role-empty-monetary-edges',
+    description:
+      "Continuous regression detection for the Bowman/Fairshake bug class. Monetary edges should always have an explicit role (direct-contribution / ie-support / ie-oppose / etc.). Empty role lets consumers silently miscount IE-oppose as donations. findings_count stable/dropping = healthy; rising = an ingester regressed.",
+    cmd: ['node', 'scripts/role-empty-monetary-check.cjs', '--json'],
+    parse: parseRoleEmptyMonetary,
+    timeout_ms: 60000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
+  },
+  {
     name: 'fec-committee-stub-audit',
     description:
       "FEC committee_ids referenced on edges that aren't mapped in fec-committee-registry.json. Resolved 2026-04-28 PM (371 → 0). This check stays at 0 going forward; if a future FEC ingest introduces new stubs, findings_count > 0 and they need a registry entry. Run audit with --apply to auto-resolve exact-name matches.",
@@ -349,6 +358,28 @@ function parseNoteAutoResolver(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'Resolver parse failed.' };
+  }
+}
+
+function parseRoleEmptyMonetary(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const total = j.findings_count || 0;
+    const bySrc = j.by_source || {};
+    const sources = Object.entries(bySrc)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 3)
+      .map(([k, n]) => `${k}:${n}`)
+      .join(', ');
+    return {
+      findings_count: total,
+      notes:
+        total === 0
+          ? 'Clean — every monetary edge has an explicit role.'
+          : `${total} role-empty monetary edge(s)${sources ? ' (' + sources + ')' : ''}. Layer 3 skips at consumer; rising count = ingester regressed.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'role-empty-monetary parse failed' };
   }
 }
 
