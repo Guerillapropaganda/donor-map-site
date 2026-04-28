@@ -33,20 +33,22 @@ export function profilePathToWikilinkAlias(profile_path: string | null): string[
   if (!profile_path) return []
   const slash = profile_path.lastIndexOf("/")
   const stem = (slash === -1 ? profile_path : profile_path.slice(slash + 1)).replace(/\.md$/i, "")
-  // Two conventions observed in the wild:
-  //   `_Foo Master Profile` (politician master files, the formal convention)
-  //   `Foo Master Profile`  (editor-typed wikilink without the leading _)
-  // Both should resolve to the same entity. Other stems (donor / corp /
-  // policy) typically equal the entity name already and don't need synthetic
-  // aliases.
-  if (!/^_?.+ Master Profile$/.test(stem)) return []
-  const aliases = [stem]
-  // Also register the leading-underscore variant if the stem doesn't already
-  // have one. Mirrored in CJS resolver and gap-audit.
-  if (!stem.startsWith("_")) aliases.push("_" + stem)
-  // And the no-underscore variant if it does.
-  else aliases.push(stem.replace(/^_/, ""))
-  return aliases
+  if (!stem) return []
+  const aliases = new Set<string>()
+  // Always register the bare file stem as an alias. Donor / corp / org
+  // profiles often have stems that diverge from the canonical entity
+  // name — e.g. profile `AT&T - WarnerMedia.md` vs entity name `AT&T`,
+  // or `ALEC - American Legislative Exchange Council.md` vs entity
+  // `ALEC`. Editors wikilink the stem; the resolver should pick it up.
+  aliases.add(stem)
+  // Politician master-file conventions: `_Foo Master Profile` and
+  // `Foo Master Profile` (editors write both). Add the variant the
+  // stem doesn't already have.
+  if (/^_?.+ Master Profile$/.test(stem)) {
+    if (stem.startsWith("_")) aliases.add(stem.replace(/^_/, ""))
+    else aliases.add("_" + stem)
+  }
+  return [...aliases]
 }
 
 /** Build a stable NodeId. Prefer entity_id; fall back to slugified profile_path or name. */

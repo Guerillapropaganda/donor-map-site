@@ -115,11 +115,13 @@ function profilePathToWikilinkAlias(profilePath) {
   if (!profilePath) return [];
   const slash = String(profilePath).lastIndexOf('/');
   const stem = (slash === -1 ? profilePath : profilePath.slice(slash + 1)).replace(/\.md$/i, '');
-  if (!/^_?.+ Master Profile$/.test(stem)) return [];
-  const aliases = [stem];
-  if (!stem.startsWith('_')) aliases.push('_' + stem);
-  else aliases.push(stem.replace(/^_/, ''));
-  return aliases;
+  if (!stem) return [];
+  const aliases = new Set([stem]);
+  if (/^_?.+ Master Profile$/.test(stem)) {
+    if (stem.startsWith('_')) aliases.add(stem.replace(/^_/, ''));
+    else aliases.add('_' + stem);
+  }
+  return [...aliases];
 }
 
 /**
