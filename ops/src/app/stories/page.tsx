@@ -361,6 +361,31 @@ export default function StoriesPage() {
     stateCounts[s.state] = (stateCounts[s.state] || 0) + 1
   }
   const integrityWarnings = stories.filter(s => s.integrity_status && s.integrity_status !== "ok").length
+  const duplicateFlagged = stories.filter(s => s.integrity_status === "duplicate").length
+
+  /**
+   * One-click cleanup: walks duplicate clusters server-side, keeps the
+   * highest-confidence story in each, archives the rest with reason
+   * "auto-archived as duplicate of story_X" + writes the false-positive
+   * log so the detector won't re-create them.
+   */
+  const autoArchiveDuplicates = async () => {
+    if (duplicateFlagged === 0) return
+    if (!confirm(`Auto-archive duplicate stories?\n\nWalks ${duplicateFlagged} flagged duplicate stories, groups by subject + counterparty + detector type, keeps the highest-confidence story in each cluster, archives the rest. Each archive writes to false-positive log.\n\nDraft/ready stories are protected — they won't be auto-archived even if duplicates exist.`)) return
+    try {
+      const res = await fetch("/api/stories/auto-archive-duplicates", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ dry_run: false }),
+      })
+      if (!res.ok) throw new Error(await res.text())
+      const data = await res.json()
+      alert(`Auto-archived ${data.archived_count} duplicates across ${data.clusters_found} clusters. Reloading...`)
+      fetchStories()
+    } catch (e: unknown) {
+      alert(`Auto-archive failed: ${e instanceof Error ? e.message : String(e)}`)
+    }
+  }
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100">
@@ -458,6 +483,23 @@ export default function StoriesPage() {
             {filtered.length} shown
           </span>
         </div>
+
+        {/* Auto-archive duplicates banner — appears when duplicate-flagged stories exist */}
+        {duplicateFlagged > 0 && selected.size === 0 && (
+          <div className="bg-yellow-950/40 border border-yellow-800 rounded p-3 flex items-center gap-3 text-sm">
+            <span className="text-yellow-300">
+              <strong>⚠ {duplicateFlagged} duplicate stories detected</strong>
+              {" — "}same subject+counterparty pair appears multiple times. The integrity check (every 15 min) flagged these.
+            </span>
+            <button
+              className="ml-auto text-xs px-3 py-1.5 bg-yellow-900 hover:bg-yellow-800 rounded text-yellow-200 flex-shrink-0"
+              onClick={autoArchiveDuplicates}
+              title="Walks duplicate clusters, keeps highest-confidence story in each, archives the rest. Draft/ready stories are protected. Writes false-positive log entries so the detector won't re-create archived duplicates."
+            >
+              🪄 auto-archive duplicates
+            </button>
+          </div>
+        )}
 
         {/* Bulk action bar — appears when 1+ rows are selected */}
         {selected.size > 0 && (
