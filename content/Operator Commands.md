@@ -115,6 +115,45 @@ node scripts/aggregate-pas2-to-edges.cjs --write
 
 ---
 
+## Calibration drift — `calibration-drift` alarm
+
+**You see:** the harness reports `calibration-drift` findings; an ops page or `vault-audit` summary lists `<profile>/<bucket>` entries.
+
+**What it means:** A curated top-N fact ("Pfizer top-15 must include Clyburn, McCarthy, Hoyer") no longer holds in `data/relationships-per-profile.json`. Catches the structural class of bug behind the 2026-04-28 cascade — stale artifact, role-tag drift, classifier regression all surface here.
+
+**Fix (most common cause first):**
+```bash
+# 1. Rebuild the artifact (handles stale-artifact case — 90% of fires)
+node scripts/build-relationships-per-profile.cjs
+
+# 2. Re-run the check
+node scripts/calibration-drift-check.cjs
+
+# 3. If still failing, the underlying data really has drifted.
+#    Inspect the failing profile's bucket:
+node -e "console.log(JSON.stringify(require('./data/relationships-per-profile.json')['<PROFILE>']['<BUCKET>'].slice(0,5),null,2))"
+```
+
+**Fixture lives at:** `data/calibration-fixture.jsonl`. To add a fact, append a JSONL line: `{"profile":"…","bucket":"monetary-detail","top_n":15,"must_include":[…],"snapshot_date":"…","note":"…"}`. Re-snapshot after deliberate editorial changes.
+
+---
+
+## Per-profile artifact stale — panels show wrong top recipients
+
+**You see:** a profile's data-panel block lists implausible top-N (e.g. random freshmen instead of the senator you'd expect; tiny dollar amounts where you expect $50K+).
+
+**What it means:** `data/relationships-per-profile.json` was generated from older relationship data, and `build-profile-data-panels` consumed the stale artifact.
+
+**Fix:**
+```bash
+node scripts/build-relationships-per-profile.cjs   # ~10s
+node scripts/build-profile-data-panels.cjs --write # ~1.5s, updates ~3K profiles
+```
+
+The artifact regenerates daily at 3:25 AM (changed from weekly 2026-04-28 after the Pfizer/ADM/AOC cascade). If it's still showing stale, the dispatcher may be paused or the daily run failed — check `content/Admin Notes/.attention-dispatcher.log`.
+
+---
+
 ## Rebuild relationship caches (after editorial frontmatter edits)
 
 **You see:** you hand-edited a profile's `donors:` / `opposes:` / `politicians-funded:` frontmatter and want the librarian to pick it up.
