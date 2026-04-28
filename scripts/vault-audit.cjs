@@ -72,6 +72,15 @@ const NO_QUEUE = args.includes('--no-queue');
 
 const CHECKS = [
   {
+    name: 'librarian-gap-audit',
+    description:
+      "Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage.",
+    cmd: ['node', 'scripts/librarian-gap-audit.cjs', '--json'],
+    parse: parseLibrarianGapAudit,
+    timeout_ms: 120000,
+    queue: { bucket: 'compounding', leverage: 4, cost_min: 30 },
+  },
+  {
     name: 'frontmatter-orphan-candidates',
     description:
       "ADR-0027 P1: profiles where a name in `politicians-funded` has no librarian backing. Editor-in-the-loop review queue. Findings count = state=candidate (not yet triaged). Approved-prune entries get stripped on next rebuilder --apply-approved run; kept/blocked-by-librarian-gap stay visible.",
@@ -331,6 +340,28 @@ function parseNoteAutoResolver(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'Resolver parse failed.' };
+  }
+}
+
+function parseLibrarianGapAudit(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const c = j.by_class || {};
+    const high = j.high_leverage_count || 0;
+    const totalGaps = j.total_gap_count || 0;
+    const u = c.unresolvable?.count || 0;
+    const ni = c['node-isolated']?.count || 0;
+    const fec = c['fec-committee-suspect']?.count || 0;
+    const ali = c['alias-candidate']?.count || 0;
+    return {
+      findings_count: high,
+      notes:
+        `${high} high-leverage gap(s) (≥${j.high_leverage_threshold || 10} appearances) — ${totalGaps} total: ` +
+        `${u} unresolvable, ${ni} node-isolated, ${fec} fec-committee-suspect, ${ali} alias-candidate. ` +
+        `See content/Admin Notes/librarian-gap-audit.md.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'gap-audit parse failed' };
   }
 }
 
