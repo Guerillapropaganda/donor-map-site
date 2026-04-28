@@ -1,24 +1,25 @@
 ---
-title: "Andy Beshear"
+title: Andy Beshear
 type: politician
 content-readiness: data-complete
 central-thesis: "Andy Beshear's success as a Democrat in deep-red Kentucky is real , and the donor-first analysis explains how. He wins by suppressing ideological contrast: off-year elections that reduce Trump turnout, crisis governance (COVID, tornadoes) that ope..."
-last-updated: 2026-03-24
+last-updated: 2026-03-24T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "Kentucky"
-state-abbr: "KY"
+party: Democrat
+chamber: Governor
+state: Kentucky
+state-abbr: KY
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
 related: "[[_Kamala Harris Master Profile]]"
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+opposes: "[[Donald Trump]]"
 ---
 
 

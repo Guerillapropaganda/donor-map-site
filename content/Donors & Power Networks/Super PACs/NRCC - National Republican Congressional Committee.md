@@ -12,8 +12,8 @@ aliases:
   - NRCC
   - NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
@@ -35,6 +35,7 @@ employee-donor-count: 27
 politicians-funded: "[[_Ben Cline Master Profile]], [[Carlos Gimenez]], [[Laura Gillen]], [[Eric Sorensen]], [[David Schweikert]], [[Ryan Zinke]], [[Derrick van Orden]], [[Mike Carey]], [[Anna Paulina Luna]], [[Maria Elvira Salazar]], [[Seth Magaziner]], [[Josh Riley]], [[Kristen McDonald Rivet]], [[Ryan Mackenzie]], [[Aaron Bean]], [[Vicente Gonzalez]], [[_Doug Burgum Master Profile]], [[RNC - Republican National Committee]], [[Scott Perry]], [[Nicole Malliotakis]], [[Mariannette Miller-Meeks]], [[Cory Mills]], [[Marcy Kaptur]], [[WinRed]], [[Brad Finstad]], [[Bryan Steil]], [[Michael Lawler]], [[Monica de la Cruz]], [[_Chrissy Houlahan Master Profile]], [[George Whitesides]], [[Young Kim]], [[ActBlue]], [[Summer Lee]], [[Patrick Ryan]], [[NRCC - National Republican Congressional Committee]], [[Randy Fine]], [[John James]], [[Kamala Harris]], [[Ken Calvert]], [[VIEW PAC - Value in Electing Women]], [[Marie Gluesenkamp Perez]], [[Mike Flood]], [[Jahana Hayes]], [[Adam Gray]], [[Donald Trump]], [[Josh Harder]], [[Trump Victory]], [[Henry Cuellar]], [[Greg Landsman]], [[Kim Schrier]], [[Celeste Maloy]], [[Chrissy Houlahan]], [[Ben Cline]], [[Doug Burgum]], [[Sam Graves]], [[Mario Diaz-Balart]], [[Brian Mast]], [[Cathy McMorris Rodgers]]"
 source-types:
   - FEC
+opposes: "[[Kyrsten Sinema]]"
 ---
 
 

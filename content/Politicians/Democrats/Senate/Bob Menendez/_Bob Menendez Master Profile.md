@@ -22,7 +22,7 @@ known-gaps:
   - No voting record data
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[Brady Campaign]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Working Families Party PAC]], [[CASTRO FOR CONGRESS]], [[Meta - Facebook]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[Amgen Inc]], [[DONALD NORCROSS FOR CONGRESS]], [[Juan Vargas]], [[Bacardi - Bacardi USA]], [[Pfizer Inc.]], [[Harry Reid]], [[Xavier Becerra]], [[AbbVie]], [[AFL-CIO]], [[National Education Association]], [[Akin Gump Strauss Hauer & Feld]], [[Sierra Club Political Committee]], [[AT&T]], [[Giffords PAC]], [[Gilead Sciences]], [[BARRAGAN FOR CONGRESS]], [[Tyson Foods]], [[Google - Alphabet]], [[Donald S. Beyer]], [[Protect Progress]], [[McDonalds Corporation]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[Frank Pallone]], [[National Restaurant Association]], [[Democratic Senatorial Campaign Committee]], [[American Gaming Association]], [[ROBERT GARCIA FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Planned Parenthood Action Fund INC]], [[Richard Neal]], [[CVS Health - Aetna]], [[HIMES FOR CONGRESS]], [[Ben Ray Lujan]], [[AIPAC - American Israel Public Affairs Committee]], [[Amy Klobuchar]], [[Environment America INC]], [[American College of Radiology Association PAC]], [[NANCY PELOSI FOR CONGRESS]], [[National Right to Life PAC]], [[Protect Our Future PAC]], [[Protecting Our Vote Pac]], [[Gerry Connolly]], [[Ro Khanna]], [[Sylvia R. Garcia]], [[League of Conservation Voters]], [[MBNA Corporation]], [[Steny H. Hoyer]], [[Humana]], [[DARREN SOTO FOR CONGRESS]], [[MENENDEZ FOR CONGRESS]], [[WinSenate]], [[PETE AGUILAR FOR CONGRESS]], [[Hakeem Jeffries]], [[Eric Swalwell]], [[Tzedek PAC]], [[Blue Shield of California]], [[Dina Titus]], [[TED LIEU FOR CONGRESS]], [[Adriano Espaillat]], [[Jim Himes]], [[Bonnie Watson Coleman]], [[Pete Aguilar]], [[Ted Lieu]], [[Nancy Pelosi]], [[Robert Garcia]], [[Robert Menendez]], [[Nanette Diaz Barragan]]"
 urls-first-triaged: "2026-04-15"
@@ -30,9 +30,8 @@ bills-sponsored: 75
 bills-cosponsored: 263
 bills-enacted: 3
 top-policy-area: International Affairs
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+opposes: "[[Donald Trump]]"
 ---
 
 

@@ -17,14 +17,15 @@ top-donors:
   - Citigroup
   - George Soros
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_JB Pritzker Master Profile]] · [[_Andy Beshear Master Profile]] · [[Goldman Sachs]] · [[George Soros]]"
 donors: "[[Insurance Industry]] · [[Conservative Partnership Institute]] · [[Brady Campaign]] · [[Citigroup]] · [[George Soros]] · [[Goldman Sachs]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 source-types:
   - Congress
+opposes: "[[Donald Trump]]"
 ---
 
 

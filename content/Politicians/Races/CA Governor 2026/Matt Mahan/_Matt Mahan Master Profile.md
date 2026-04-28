@@ -14,13 +14,14 @@ issues:
   - Technology
 top-donors: "[[Peter Thiel]], [[Marc Andreessen & Horowitz]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Gavin Newsom Master Profile]] · [[_Katie Porter Master Profile]]"
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+opposes: "[[Donald Trump]]"
 ---
 
 

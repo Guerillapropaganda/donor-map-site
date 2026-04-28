@@ -49,6 +49,7 @@ known-gaps:
   - No voting record data
 total-raised: $10.0M
 career-total-source: FEC weball summary (cycles 1992, 1994, 1996, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+opposes: "[[Donald Trump]]"
 ---
 
 

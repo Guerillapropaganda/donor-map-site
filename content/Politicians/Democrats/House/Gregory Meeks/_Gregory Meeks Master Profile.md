@@ -40,6 +40,7 @@ related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American 
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21T00:00:00.000Z
+opposes: "[[Donald Trump]]"
 ---
 
 

@@ -37,6 +37,7 @@ bills-enacted: 2
 top-policy-area: International Affairs
 total-raised: $53.2M
 career-total-source: FEC weball summary (cycles 2002, 2004, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+opposes: "[[Donald Trump]]"
 ---
 
 

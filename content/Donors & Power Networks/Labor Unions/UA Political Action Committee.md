@@ -11,8 +11,8 @@ aliases:
   - UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)
   - UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -23,9 +23,10 @@ cash-on-hand: 11187188
 individual-contributions: 5420550
 contributions-to-committees: 784000
 politicians-funded: "[[Vicente Gonzalez]], [[Jason Crow]], [[Sharice Davids]], [[Pete Aguilar]], [[James Lankford]], [[Adriano Espaillat]], [[Seth Magaziner]], [[Ted Lieu]], [[Brian Mast]], [[Greg Landsman]], [[Kim Schrier]], [[Bryan Steil]], [[Marcy Kaptur]], [[Dan Goldman]], [[Hakeem Jeffries]], [[Shomari Figures]], [[Dina Titus]], [[Patrick Ryan]], [[Greg Stanton]], [[Shontel Brown]], [[Tammy Baldwin]], [[Mark Pocan]], [[Sean Casten]], [[Bobby Scott]], [[Tim Burchett]], [[Adam Smith]], [[Morgan McGarvey]], [[Mario Diaz-Balart]], [[Lauren Underwood]], [[Jared Moskowitz]], [[Robert Garcia]], [[Lois Frankel]], [[Eric Sorensen]], [[Nicole Malliotakis]], [[Steven Horsford]], [[Julia Brownley]], [[Rick Larsen]], [[Emanuel Cleaver]], [[Raja Krishnamoorthi]], [[Grace Meng]], [[Ritchie Torres]], [[Brendan Boyle]], [[Mike Quigley]], [[Donald Norcross]], [[George Whitesides]], [[Yassamin Ansari]], [[Teresa Leger Fernandez]], [[Joaquin Castro]], [[Ron Wyden]], [[Markwayne Mullin]], [[Brittany Pettersen]], [[Marilyn Strickland]], [[Mike Levin]], [[Nikki Budzinski]], [[Frank Pallone]], [[Kweisi Mfume]], [[Pramila Jayapal]], [[Brad Sherman]], [[Joe Manchin]], [[Jake Auchincloss]], [[Catherine Cortez Masto]], [[Richard Neal]], [[Diana Degette]], [[Dan Osborn]], [[John Fetterman]], [[Mark DeSaulnier]], [[Juan Vargas]], [[Veronica Escobar]], [[Chrissy Houlahan]], [[Derek Tran]], [[Dwight Evans]], [[Sarah Elfreth]], [[Ayanna Pressley]], [[Josh Harder]], [[Sydney Kamlager-Dove]], [[Joseph Morelle]], [[Darren Soto]], [[Rosa DeLauro]], [[Sherrod Brown]], [[Peter Welch]], [[Gwen Moore]], [[Eric Swalwell]], [[Maxine Dexter]], [[Jimmy Panetta]], [[Kristen McDonald Rivet]], [[Debbie Wasserman Schultz]], [[Lori Trahan]], [[Adam Schiff]], [[Henry Cuellar]], [[Nydia Velazquez]], [[Mark Kelly]], [[Nancy Pelosi]], [[Debbie Dingell]], [[Darin Lahood]], [[Amy Klobuchar]], [[Kelly Morrison]], [[Madeleine Dean]], [[Cory Booker]], [[Alex Padilla]], [[Lisa Murkowski]], [[Suhas Subramanyam]], [[Pete Stauber]], [[Lisa Blunt Rochester]], [[Kathy Castor]], [[Andrea Salinas]], [[Jimmy Patronis]], [[Laura Friedman]], [[Kamala Harris]], [[David Rouzer]], [[Dave Min]], [[Troy Balderson]], [[Jahana Hayes]], [[Josh Gottheimer]], [[Kevin Mullin]], [[Sheldon Whitehouse]], [[Lloyd Doggett]], [[Andre Carson]], [[Brad Finstad]], [[Laura Gillen]], [[Raphael Warnock]], [[Hillary Clinton]]"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
+opposes: "[[Ashley Hinson]]"
 ---
 
 

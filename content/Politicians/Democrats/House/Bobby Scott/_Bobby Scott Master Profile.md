@@ -57,6 +57,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - No FEC contribution data
+opposes: "[[Donald Trump]]"
 ---
 
 

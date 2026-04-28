@@ -34,7 +34,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: "[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]]"
+opposes: "[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]] · [[Congressional Leadership Fund]] · [[DefendArizona]] · [[American Future Fund]] · [[NRCC - National Republican Congressional Committee]]"
 related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 total-raised: $17,050,976
 total-spent: $12,945,617

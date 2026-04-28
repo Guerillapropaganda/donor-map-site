@@ -36,6 +36,7 @@ committees:
 total-raised: $7.1M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
 bills-sponsored: 30
+opposes: "[[THE DEMOCRATIC ACTION PAC]], [[Donald Trump]], [[Nina Turner]], [[The Democratic Action PAC]]"
 ---
 
 

@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - GEORGIANS FOR STRONG FAMILIES, INC.
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -19,11 +19,12 @@ urls-first-triaged: "2026-04-15"
 total-spent: 7450
 contributions-to-committees: 3950
 politicians-funded: "[[Marjorie Taylor Greene]]"
-last-enriched: 2026-04-21
-total-political-spend: "$150K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $150K
+spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), cycles 2022
 source-types:
   - FEC
+opposes: "[[Marjorie Taylor Greene]]"
 ---
 
 

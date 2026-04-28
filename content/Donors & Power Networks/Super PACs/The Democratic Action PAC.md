@@ -5,13 +5,13 @@ content-readiness: data-complete
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00764977
 aliases:
   - THE DEMOCRATIC ACTION PAC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 politicians-funded: "[[Nina Turner]], [[Shontel Brown]]"
 related: "[[Shontel Brown]] · [[Nina Turner]]"
 checklist-na:
@@ -24,7 +24,8 @@ independent-expenditures: 526000
 individual-contributions: 441004
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+opposes: "[[Shontel Brown]]"
 ---
 
 

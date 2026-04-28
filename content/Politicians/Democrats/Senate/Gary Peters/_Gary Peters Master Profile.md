@@ -51,6 +51,7 @@ top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-20T00:00:00.000Z
 total-raised: $70.3M
 career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+opposes: "[[Donald Trump]]"
 ---
 
 

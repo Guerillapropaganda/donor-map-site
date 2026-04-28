@@ -22,6 +22,7 @@ last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - Congress
 top-donors: "[[Wilson,Elser,Moskowitz,Edelman  Dicker LLP PAC]]"
+opposes: "[[Donald Trump]]"
 ---
 
 

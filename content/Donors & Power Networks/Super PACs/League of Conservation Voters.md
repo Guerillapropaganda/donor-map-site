@@ -76,11 +76,9 @@ corroboration-count: 4
 known-gaps:
   - No FEC contribution data
 cross-vault-triangulation-count: 5
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 aliases:
   - LEAGUE OF CONSERVATION VOTERS ACTION FUND
   - LCV VICTORY FUND
@@ -99,6 +97,7 @@ contributions-to-committees: 228522
 employee-contributions: 314
 employee-contributions-total: 142359
 employee-donor-count: 69
+opposes: "[[Linda McMahon]]"
 ---
 
 

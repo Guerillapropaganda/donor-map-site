@@ -35,6 +35,7 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 politicians-funded: "[[Marco Rubio]], [[Todd Young]]"
+opposes: "[[Catherine Cortez Masto]]"
 ---
 
 

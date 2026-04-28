@@ -15,14 +15,14 @@ Phase A of the librarian-rewrite plan (ADR-0026 follow-up).
 
 This report compares frontmatter relationship caches (`donors:`, `opposes:`, `politicians-funded:`) against the canonical relationships graph. Generated automatically; re-run `node scripts/relationship-cache-canonical-gap.cjs --report` to refresh.
 
-**Audit scope:** 3246 profiles, 236279 graph edges, 2058ms.
+**Audit scope:** 3246 profiles, 236279 graph edges, 2084ms.
 
 ## Headline numbers
 
 | Field | Profiles with data | Profiles with gap | Total entries | Exact match | Alias drift | Frontmatter-only | Graph-only |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | **donors** | 1203 | 1110 (92.3%) | 55791 | 43886 (78.7%) | 12 (0.0%) | 3011 (5.4%) | 8882 (15.9%) |
-| **opposes** | 178 | 141 (79.2%) | 443 | 127 (28.7%) | 7 (1.6%) | 40 (9.0%) | 269 (60.7%) |
+| **opposes** | 178 | 41 (23.0%) | 425 | 347 (81.6%) | 0 (0.0%) | 22 (5.2%) | 56 (13.2%) |
 | **politicians_funded** | 1273 | 1142 (89.7%) | 88385 | 34898 (39.5%) | 23 (0.0%) | 9680 (11.0%) | 43784 (49.5%) |
 
 ## Categories explained
@@ -50,29 +50,29 @@ These are entries the editor put in frontmatter that have no corresponding `poli
 - **Mehdi Hasan** — `Fox Corp - Rupert Murdoch`
 - **Alexandria Ocasio-Cortez Master Profile** — `Donald Trump`, `AIPAC - American Israel Public Affairs Committee`
 - **Ayanna Pressley Master Profile** — `Predatory lenders`, `Private prison industry`
-- **Cori Bush** — `AIPAC`, `Mainstream Democrats PAC`
 - **Hakeem Jeffries Master Profile** — `Progressive caucus insurgents`
-- **Ilhan Omar** — `AIPAC`, `United Democracy Project`, `Don Samuels`
-- **Nina Turner** — `DMFI PAC`
-- **Pramila Jayapal** — `Amazon`, `Microsoft`, `Tech industry self-regulation`
-- **Rashida Tlaib** — `AIPAC`, `United Democracy Project`, `DMFI PAC`
-- **Ro Khanna** — `Silicon Valley tech executives`, `Defense contractors`, `Ethan Agarwal`
-- **Summer Lee** — `DMFI PAC`, `AIPAC`
+- **Jamaal Bowman** — `UNITED DEMOCRACY PROJECT`
+- **Catherine Cortez Masto** — `[[FREEDOM PARTNERS ACTION FUND`, `INC.]]`
+- **Katie Porter Master Profile** — `Fairshake PAC`, `Coinbase`, `Andreessen Horowitz`, `Ripple Labs`
+- **Ron DeSantis** — `[[Sfa Fund`, `Inc]]`
+- **Marjorie Taylor Greene** — `[[GEORGIANS FOR STRONG FAMILIES`, `INC.]]`
+- **George W. Bush** — `NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE`
+- **Ashley Hinson Master Profile** — `UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)`, `HOUSE MAJORITY PAC`, `DCCC`
 
 ## Graph-only `opposes` examples (backfill candidates)
 
 These are `political-opposition` edges in the graph that aren't reflected in the profile's frontmatter `opposes:` field. Running `node scripts/rebuild-relationship-caches.cjs --write` should pick these up if the script is configured to handle the opposes field (currently it handles only monetary edges).
 
-- **Americans for Tax Reform - Grover Norquist** — `Raul Grijalva`
 - **Federalist Society** — `Sheldon Whitehouse`
-- **Freedom Partners Chamber of Commerce** — `Catherine Cortez Masto`
 - **Judicial Crisis Network** — `Sheldon Whitehouse`
 - **Marathon Petroleum** — `Rashida Tlaib`
 - **DMFI - Democratic Majority for Israel** — `Summer Lee`, `Nina Turner`, `Rashida Tlaib`, `Bernie Sanders`, `Cori Bush`
 - **AFSCME - American Federation of State County and Municipal Employees** — `Linda McMahon`
-- **UA Political Action Committee** — `Ashley Hinson`
 - **Leonard Leo** — `Sheldon Whitehouse`
 - **Koch Network - Charles Koch** — `Sheldon Whitehouse`, `Rashida Tlaib`
+- **Club for Growth** — `Catherine Cortez Masto`, `Mark Kelly`
+- **DonorsTrust** — `Sheldon Whitehouse`
+- **Emilys List** — `Josh Hawley`
 
 ## Graph-only `donors` examples (most extreme cases)
 

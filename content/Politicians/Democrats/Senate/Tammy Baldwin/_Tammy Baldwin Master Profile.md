@@ -60,6 +60,7 @@ committees:
   - Telecommunications and Media
 total-raised: $108.6M
 career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+opposes: "[[Donald Trump]]"
 ---
 
 

@@ -58,6 +58,7 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 top-policy-area: International Affairs
 total-raised: $23.0M
 career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+opposes: "[[Donald Trump]]"
 ---
 
 

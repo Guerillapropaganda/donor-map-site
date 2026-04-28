@@ -37,6 +37,7 @@ bills-enacted: 0
 top-policy-area: Health
 total-raised: $29.8M
 career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+opposes: "[[Donald Trump]]"
 ---
 
 

@@ -111,40 +111,58 @@ function main() {
   // Build name-indexed edge maps
   const monetaryByTo = new Map(); // politician name (lowercase) → donor names
   const monetaryByFrom = new Map(); // donor name (lowercase) → politician names
+  // Phase B-1 (ADR-0026): opposes-cache feeds. Schema convention:
+  //   politician profile opposes:[X] = "X opposes me" → graph edges TO=me
+  //   PAC profile      opposes:[X] = "I oppose X"   → graph edges FROM=me
+  const opposeByTo = new Map();   // target (politician) → opposers (PACs/politicians)
+  const opposeByFrom = new Map(); // opposer (PAC/politician) → targets (politicians)
 
   for (const e of edges) {
-    if (e.type !== 'monetary') continue;
-    // Skip independent-expenditure OPPOSITION edges — those are spending
-    // AGAINST the target (attack ads), not donations. Writing them into
-    // frontmatter `donors` mis-labelled anti-Trump super PACs as "donors
-    // of Trump." They belong in the opposition view instead, which reads
-    // from the canonical edge store directly (not from frontmatter).
-    if (e.role === 'ie-oppose') continue;
     const from = e.from;
     const to = e.to;
     if (!from || !to) continue;
 
-    // Type-aware caching (added 2026-04-25). Without these gates the
-    // PAS2 aggregator's recipient_cmte_id resolution started routing money
-    // to FEC committee stubs (e.g. "MCCAUL FOR CONGRESS, INC"), which
-    // then leaked into politicians-funded as raw committee names. Keep
-    // the politicians-funded cache to vault politicians, and the donors
-    // cache to actual donor/corporation entities.
-    if (e.to_type === 'politician') {
-      const toKey = to.toLowerCase();
-      if (!monetaryByTo.has(toKey)) monetaryByTo.set(toKey, new Set());
-      monetaryByTo.get(toKey).add(from);
+    if (e.type === 'monetary') {
+      // Skip independent-expenditure OPPOSITION edges — those are spending
+      // AGAINST the target (attack ads), not donations. Writing them into
+      // frontmatter `donors` mis-labelled anti-Trump super PACs as "donors
+      // of Trump." They belong in the opposition view instead, which reads
+      // from the canonical edge store directly (not from frontmatter).
+      if (e.role === 'ie-oppose') continue;
 
-      if (e.from_type === 'donor' || e.from_type === 'corporation') {
-        const fromKey = from.toLowerCase();
-        if (!monetaryByFrom.has(fromKey)) monetaryByFrom.set(fromKey, new Set());
-        monetaryByFrom.get(fromKey).add(to);
+      // Type-aware caching (added 2026-04-25). Without these gates the
+      // PAS2 aggregator's recipient_cmte_id resolution started routing money
+      // to FEC committee stubs (e.g. "MCCAUL FOR CONGRESS, INC"), which
+      // then leaked into politicians-funded as raw committee names. Keep
+      // the politicians-funded cache to vault politicians, and the donors
+      // cache to actual donor/corporation entities.
+      if (e.to_type === 'politician') {
+        const toKey = to.toLowerCase();
+        if (!monetaryByTo.has(toKey)) monetaryByTo.set(toKey, new Set());
+        monetaryByTo.get(toKey).add(from);
+
+        if (e.from_type === 'donor' || e.from_type === 'corporation') {
+          const fromKey = from.toLowerCase();
+          if (!monetaryByFrom.has(fromKey)) monetaryByFrom.set(fromKey, new Set());
+          monetaryByFrom.get(fromKey).add(to);
+        }
       }
+    } else if (e.type === 'political-opposition') {
+      // Both directions are populated so each profile gets the right cache
+      // regardless of whether it's the opposer side or the opposed side.
+      const toKey = to.toLowerCase();
+      const fromKey = from.toLowerCase();
+      if (!opposeByTo.has(toKey)) opposeByTo.set(toKey, new Set());
+      opposeByTo.get(toKey).add(from);
+      if (!opposeByFrom.has(fromKey)) opposeByFrom.set(fromKey, new Set());
+      opposeByFrom.get(fromKey).add(to);
     }
   }
 
   console.log(`  ${monetaryByTo.size} profiles have incoming monetary edges`);
   console.log(`  ${monetaryByFrom.size} profiles have outgoing monetary edges`);
+  console.log(`  ${opposeByTo.size} profiles have incoming political-opposition edges`);
+  console.log(`  ${opposeByFrom.size} profiles have outgoing political-opposition edges`);
   console.log();
 
   // Walk vault
@@ -203,6 +221,35 @@ function main() {
               console.log(`  + ${title} (donor): adding ${missingFunded.length} politicians to politicians-funded`);
               for (const p of missingFunded) console.log(`      + [[${p}]]`);
             }
+          }
+        }
+      }
+    }
+
+    // ── opposes: cache from political-opposition edges ──
+    // Skip when --monetary-only.
+    if (!MONETARY_ONLY) {
+      // Pick the right edge direction by profile type. politicians read
+      // incoming opposition (PACs that oppose them); PAC/donor profiles
+      // read outgoing opposition (politicians they oppose).
+      let canonicalOpposes = null;
+      if (profileType === 'politician') {
+        canonicalOpposes = opposeByTo.get(titleLower);
+      } else if (profileType === 'donor' || profileType === 'corporation') {
+        canonicalOpposes = opposeByFrom.get(titleLower);
+      }
+
+      if (canonicalOpposes && canonicalOpposes.size > 0) {
+        const existingField = fm.opposes || '';
+        const existingNames = extractWikilinks(existingField);
+        const missing = [...canonicalOpposes].filter(o => !existingNames.has(o));
+        if (missing.length > 0) {
+          const allNames = new Set([...existingNames, ...canonicalOpposes]);
+          newFm.opposes = buildWikilinkString(allNames, fm.opposes);
+          changed = true;
+          if (VERBOSE) {
+            console.log(`  + ${title} (${profileType}): adding ${missing.length} entries to opposes`);
+            for (const o of missing) console.log(`      + [[${o}]]`);
           }
         }
       }

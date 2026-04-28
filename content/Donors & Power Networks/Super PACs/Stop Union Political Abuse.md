@@ -1,23 +1,24 @@
 ---
-title: "Stop Union Political Abuse"
+title: Stop Union Political Abuse
 type: donor
 content-readiness: draft
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "STOP UNION POLITICAL ABUSE (SUPA)"
+  - STOP UNION POLITICAL ABUSE (SUPA)
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+opposes: "[[Hillary Clinton]]"
 ---
 
 
