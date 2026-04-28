@@ -1108,8 +1108,13 @@ export default function RelationshipsPage() {
           warnWithinDays: 7,
         }}
       />
-      <div className="flex items-center justify-end mb-4">
-        <div className="hidden">{/* spacing ghost */}</div>
+      <div className="flex items-center justify-end gap-2 mb-4">
+        <a
+          href="/relationships/orphans"
+          className="px-3 py-2 rounded-lg text-xs border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:border-[var(--color-steel)]/40 transition-colors"
+        >
+          🔎 Orphan Triage →
+        </a>
         <button
           onClick={async () => {
             setSaving(true)
