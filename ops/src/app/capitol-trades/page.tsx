@@ -133,9 +133,19 @@ function Explainer({ children }: { children: React.ReactNode }) {
   )
 }
 
+interface SourceFreshness {
+  current: boolean
+  historical: boolean
+  historicalYears: number[]
+  lastUpdated: string | null
+  ageMinutes: number | null
+  stale: boolean
+}
+
 export default function CapitolTradesPage() {
   const [trades, setTrades] = useState<Trade[]>([])
   const [stats, setStats] = useState<Stats | null>(null)
+  const [sourceFreshness, setSourceFreshness] = useState<SourceFreshness | null>(null)
   const [topTickers, setTopTickers] = useState<TopTicker[]>([])
   const [topTraders, setTopTraders] = useState<TopTrader[]>([])
   const [cryptoStats, setCryptoStats] = useState<CryptoStats | null>(null)
@@ -175,6 +185,7 @@ export default function CapitolTradesPage() {
       .then(data => {
         setTrades(data.trades || [])
         setStats(data.stats || null)
+        setSourceFreshness(data.sources || null)
         setTopTickers(data.topTickers || [])
         setTopTraders(data.topTraders || [])
         setCryptoStats(data.crypto || null)
@@ -331,6 +342,44 @@ export default function CapitolTradesPage() {
           warnWithinDays: 3,
         }}
       />
+
+      {/* Pipeline source-freshness banner — distinct from the file-mtime
+          chip above. This surfaces the pipeline's SEMANTIC lastUpdated
+          (stats.lastUpdated written by financial-disclosures-pipeline.cjs
+          each run). Daily 06:00 UTC cadence; flagged stale at >36h. */}
+      {sourceFreshness?.lastUpdated && (() => {
+        const ageMin = sourceFreshness.ageMinutes ?? 0
+        const ageHr = Math.floor(ageMin / 60)
+        const ageDay = Math.floor(ageHr / 24)
+        const ageLabel =
+          ageDay >= 2 ? `${ageDay}d ago` :
+          ageHr >= 2  ? `${ageHr}h ago`  :
+          ageMin >= 2 ? `${ageMin}m ago` :
+                        "just now"
+        const stale = sourceFreshness.stale
+        return (
+          <div className={`mb-3 px-3 py-2 rounded text-xs flex items-center gap-2 ${
+            stale
+              ? "bg-yellow-950/40 border border-yellow-800 text-yellow-300"
+              : "bg-gray-900 border border-gray-800 text-gray-400"
+          }`}>
+            <span>{stale ? "⚠" : "🕒"}</span>
+            <span>
+              <strong>STOCK Act pipeline last scraped {ageLabel}</strong>
+              {" — "}
+              <span className="text-gray-500">
+                {new Date(sourceFreshness.lastUpdated).toLocaleString()}
+              </span>
+            </span>
+            {stale && (
+              <span className="ml-auto text-yellow-200">
+                Pipeline runs daily at 06:00 UTC; over 36h old. Check
+                <code className="bg-black/30 px-1 ml-1 rounded">scripts/financial-disclosures-pipeline.cjs</code>.
+              </span>
+            )}
+          </div>
+        )
+      })()}
 
       {/* Saved-views bar (deferred audit item #10). Snapshot covers tab,
           all filters, table sort, and active crypto tiers. */}
