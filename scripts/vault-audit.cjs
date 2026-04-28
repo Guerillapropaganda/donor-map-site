@@ -72,6 +72,15 @@ const NO_QUEUE = args.includes('--no-queue');
 
 const CHECKS = [
   {
+    name: 'relationship-overlap',
+    description:
+      "Profiles where the same name appears in BOTH a funding frontmatter field (politicians-funded / donors / top-donors) AND `opposes` on the same profile. Splits via librarian: monetary-backed = real both-sides (leave); frontmatter-only = editorial typo or librarian gap (David reviews). Findings count = frontmatter-only only.",
+    cmd: ['node', 'scripts/relationship-overlap-check.cjs', '--json'],
+    parse: parseRelationshipOverlap,
+    timeout_ms: 60000,
+    queue: { bucket: 'deciding', leverage: 3, cost_min: 5 },
+  },
+  {
     name: 'pipeline-janitor',
     description: 'Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles',
     cmd: ['node', 'scripts/pipeline-janitor.cjs', '--tier=a-plus', '--cohort'],
@@ -313,6 +322,26 @@ function parseNoteAutoResolver(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'Resolver parse failed.' };
+  }
+}
+
+function parseRelationshipOverlap(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const fmOnly = j.findings_count || 0;
+    const backed = j.monetary_backed_count || 0;
+    const top = (j.frontmatter_only || [])
+      .slice(0, 3)
+      .map((r) => `${r.subject} ↔ ${r.overlap_name}`)
+      .join('; ');
+    return {
+      findings_count: fmOnly,
+      notes:
+        `${fmOnly} frontmatter-only overlap(s)${top ? ' (' + top + ')' : ''}; ` +
+        `${backed} monetary-backed (real both-sides, ignored).`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'overlap parse failed' };
   }
 }
 
