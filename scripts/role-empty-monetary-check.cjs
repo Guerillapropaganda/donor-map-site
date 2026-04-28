@@ -56,6 +56,10 @@ function main() {
   for (const e of edges) {
     if (e.type !== 'monetary') continue;
     if (e.role && e.role !== '') continue;
+    // Skip deprecated edges. loadEdges() returns all statuses; consumers
+    // filter to active by default. Deprecated edges don't reach
+    // classifyEdge in normal use, so they're not regression risk.
+    if (e.status && e.status !== 'active') continue;
     total++;
     const src = e.source || '?';
     bySourceAndType[src] = (bySourceAndType[src] || 0) + 1;
