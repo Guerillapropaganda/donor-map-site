@@ -1,7 +1,117 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-28
+last-updated: 2026-04-29
+---
+
+## HANDOFF — 2026-04-29 EVENING (System tightening + librarian bug — 18 commits)
+
+**Context:** Code Claude. Worktree `claude/great-varahamihira-d861ce`, Opus 4.7 (1M context). One long session that started with "Lets go down the list" against the next-session-priority list from yesterday's handoff and ended up uncovering a real librarian bug, two structural fixes, and 5 admin notes documenting open items.
+
+### THE ARC
+
+**(1) Item #1: orphans nav (af5cc842e).** Closed yesterday's "page exists but unreachable" gap. Sidebar entry under Analyze→Relationships→Orphan Triage + a header-row link on /relationships pointing at it.
+
+**(2) Item #3: detector librarian-gating (74cc5724e + 116b18308).** Refactored contradiction-miner + story-pages-integrity to gate every finding through the canonical relationship graph per Rule 4 + ADR-0024. Extracted `scripts/lib/librarian-monetary-pairs.cjs` as a shared library used by 3 detectors. First run dropped 14 ghost both-sides + 175 ghost cross-party candidates.
+
+**(3) Item #4 sub-1: rulebook audit (db0bd507d).** Cross-referenced CLAUDE.md against ADRs 0017/0022/0024. 3 confirmed drifts: Rule 9 invents data-complete criteria not in ADR-0017; Rule 9 silent on ADR-0022's type-specific bars; ADR-0024 itself is stale (claims "deferred" but `lib/donor-map/` is shipped + 34 scripts use the CJS twin). Recommended fix order in `content/Admin Notes/rulebook-audit-2026-04-29.md`.
+
+**(4) Item #4 sub-2: sprint-task-update.cjs helper (b8422e358).** Programmatic `--mark-done` / `--list` editor for sprint-schedule.md. Bumps frontmatter, swaps footer date prefix preserving the rich session-summary tail, validates fenced YAML re-parses. Wired into the session-save skill — first real-world test was this very session-save.
+
+**(5) AtStartup attempt → dispatcher death incident (85dd372e0 + 322f0de24).** Tried installing AtStartup trigger on the dispatcher scheduled task. Failed with `0x80070005 Access denied` even from elevated PowerShell — Windows boot triggers need SYSTEM or S4U logon, not a regular user. The install script's `schtasks /Delete` step killed the running PID 40280 dispatcher. Restored AtLogOn-only via inline cmdlets. Patched install script to refuse Running-task delete without `-Force`. AtStartup gotcha documented at `~/.claude/projects/.../memory/project_dispatcher_atstartup_blocked.md`.
+
+**(6) Verify cleanup uncovers PAS2 missing (79ab8ea8a + 772f176ce).** End-to-end harness verification surfaced that `data/derived/fec-pas2.jsonl` was missing on disk despite yesterday's session handoff claiming PAS2 re-aggregation. Re-ran `aggregate-pas2-to-edges.cjs --write` from main repo: 122,074 edges back, 2,270 ie-oppose. Mirrored `fec-indiv-by-committee.jsonl` (66 MB, 138K monetary edges) from main repo into worktree — pair index went 35,486 → 133,202 unique sources. story-pages-integrity --write persisted; stale 6→3 (5 of 6 were PAS2-affected false-stales).
+
+**(7) worktree-data-mirror harness check + bootstrap (5184834a8).** Closes the silent-data-divergence class of bug. New harness check (#30 of 30) compares main repo's `data/derived/` against current worktree, flags missing + size-mismatched files. Companion `bootstrap-worktree-data.cjs` copies on demand. Detection-only by design.
+
+**(8) Operator Commands cheatsheet (fb63bb28a).** `content/Operator Commands.md` with 10 sections covering today's known fixes. Wired into ops `/docs` so it's discoverable at Build → Reference. Memory note reminds future sessions to keep it current as new harness checks ship.
+
+**(9) RESOLVER BUG: alias field was silently ignored (bee83a03c).** Started with "add Bush alias to fix 2 stale stories." Discovered the alias was already in entities.jsonl — but **both the TS librarian and its CJS twin were never reading the `aliases` array**. Two-line patch in each, kept in lockstep. librarian-parity-test passes. Stale stories 3 → 1 (only legitimate Warren remains). Every entity's `aliases` field is now load-bearing instead of decorative.
+
+**(10) Reconciliation 60 errors traced (840293130).** Pre-existing FEC self-loop edges (Tom Steyer self-funding $317M, McMahon's $68M Senate self-funds, etc.) — NOT a regression from today. Always there but only newly visible because the worktree finally has fec-indiv-by-committee.jsonl loaded. Documented at `content/Admin Notes/reconciliation-self-loops-2026-04-29.md`.
+
+**(11) PAS2 deletion forensics + structural fix (840293130).** No script in the repo unlinks the file. Likely manual `rm` or `git clean -fdx`. Better than forensics: added `data/derived/fec-pas2.jsonl` to `scripts/ensure-derived-artifacts.cjs` ARTIFACTS list. Post-checkout / post-merge git hooks now auto-regenerate it whenever missing (~8s). Whoever deletes it next, it heals.
+
+**(12) Pathless ghost-stub aliases (8dd31ad83).** 13 FEC candidate-committee stubs (e.g. "OSBORN FOR SENATE 2024"). 10 aliased to 7 existing politician entities — resolver verified. 3 unprofiled flagged for editorial (Whatley ×2, Carol Miller). Edge migration (315 edges) deferred to its own session.
+
+**(13) Duplicate-entity triage (fd053531c).** Pure editorial doc — 11 duplicate-entity-profile groups categorized A (5 dash-prefix duplicates) / B (2 same-FEC) / C (4 likely-incorrect-shared-IDs).
+
+**(14) 138,753 role-empty edges flagged (322f0de24).** `role-empty-monetary-edges` harness jumped 0 → 138,753 after worktree mirror. Root cause: `aggregate-indiv-to-edges.cjs` was patched April 21 to set `role: 'direct-contribution'` but the file was never re-aggregated. **AOC's $45M small-dollar base reads as $54K** because of this. NOT fixed automatically — needs coordinated deprecate-then-regen pass. Plan at `content/Admin Notes/role-empty-fec-indiv-by-committee-2026-04-29.md` awaiting David approval.
+
+### Commits this session (14 in chain, 18 total to v4 after merges)
+
+- `af5cc842e` — orphans nav (sidebar + page button)
+- `74cc5724e` — contradiction-miner librarian-gated + shared lib extracted
+- `116b18308` — story-pages-integrity librarian-gated
+- `db0bd507d` — rulebook drift audit report
+- `b8422e358` — sprint-task-update.cjs helper + skill wired
+- `85dd372e0` — dispatcher install honesty fix
+- `79ab8ea8a` — PAS2 regen + worktree mirror + gaps doc
+- `772f176ce` — stories integrity --write persisted
+- `5184834a8` — worktree-data-mirror check + bootstrap
+- `fb63bb28a` — Operator Commands cheatsheet at /docs
+- `bee83a03c` — RESOLVER FIX (entity.aliases now read)
+- `840293130` — reconciliation note + PAS2 ensure-artifacts
+- `8dd31ad83` — pathless-stub aliases (10 → 7)
+- `fd053531c` — duplicate-entity triage doc
+- `322f0de24` — 138K role-empty finding doc
+
+### State of the system
+
+**Harness (30 checks):**
+```
+role-empty-monetary-edges:  ⚠ 138,753 (NEW — needs re-aggregate, full plan in admin note)
+worktree-data-mirror:       △ 2 (fec-bulk + irs-990-bulk drift; cosmetic)
+dispatcher-alive:           △ 1 (worktree log path quirk; PID 40912 actually alive)
+librarian-gap-audit:        △ 323 (alias work backlog)
+pipeline-janitor:           △ 225 (demote candidates)
+type-specific-a-plus:       △ 1,323 (per-type bar work)
+url-domain-policy:          △ 121 (URL editorial)
+frontmatter-schema:         △ 232 (ADR-0023 backfill)
+reconciliation-tier-1:      △ 60 (FEC self-loops, pre-existing — see admin note)
+story-pages-integrity:      △ 25 (1 stale + 24 dup; archive in /stories ops UI)
+pathless-stub-entities:     △ 13 (10 aliased; 3 unprofiled need editorial)
+duplicate-entity-profiles:  △ 11 (triage doc shipped)
+class-tag-staleness:        △ 8 (editorial)
+fec-committee-stub-audit:   ✓ 0
+frontmatter-orphan-cands:   ✓ 0
+relationship-overlap:       ✓ 0
++ 14 other clean checks
+```
+
+**Dispatcher: PID 40912 ALIVE** (replaced PID 40280 which died at 14:16 UTC during the AtStartup install attempt). Writing to `content/Admin Notes/.attention-dispatcher.log` in main repo.
+
+**Worktree data state:**
+- `data/derived/fec-pas2.jsonl` 78 MB (mirrored from main)
+- `data/derived/fec-indiv-by-committee.jsonl` 63 MB (mirrored from main)
+- Pair index: 133,202 unique sources
+
+### Known issues
+
+1. **138,753 role-empty edges** in `fec-indiv-by-committee.jsonl` (top priority) — needs coordinated deprecate-then-regen
+2. **Bush alias bug uncovered a real regression**: every existing entity.aliases entry is now load-bearing; some prior entries that were assumed-ignored may suddenly become active. No reports of bad behavior, but worth a sweep in next session.
+3. **5 dispatcher-mid-merge stashes accumulating** in main repo — drop or cherry-pick during next session-save
+4. **Bush alias gap** — 2 Bush stale story findings closed, but the underlying lesson is that contradiction-miner stores subject names from frontmatter titles which can drift from canonical entity names. Future fix: canonicalize at seed time.
+
+### NEXT-SESSION PRIORITIES
+
+1. **138K role-empty re-aggregate** — highest-impact data integrity fix. Full plan in `content/Admin Notes/role-empty-fec-indiv-by-committee-2026-04-29.md`. Affects every politician's individual-donor panel. Needs David approval before running.
+2. **Editorial decisions waiting**: 11 duplicate-entity groups, 3 unprofiled pathless stubs (Whatley + Carol Miller), 3 rulebook drifts (David's lane).
+3. **Capital_type Path B batch-tagger** (~3-4hr, fresh chat) — covers ~1,400 untagged entities, pushes coverage 17% → 60-80%.
+4. **Money Trail rebuild** (own session) — flagged by yesterday's session as "actually about money."
+5. **At-scale editorial backlogs**: librarian-gap-audit 323, type-specific-a-plus 1,323, frontmatter-schema 232, url-domain-policy 121.
+6. **Stash cleanup in main repo** during next /session-save (4-5 accumulated dispatcher writes).
+
+### Critical context for incoming chat
+
+- **Pipelines paused** except RSS + Auto-Connection (Rule 3 unchanged).
+- **Dispatcher PID 40912 RUNNING — DO NOT Ctrl+C** without deliberate restart. Started this morning to replace PID 40280 which died during the AtStartup install attempt.
+- **Worktree data is now mirrored from main repo.** If you start a fresh worktree, run `node scripts/bootstrap-worktree-data.cjs` first or the new `worktree-data-mirror` harness check will fire.
+- **`entity.aliases` field is now load-bearing** in both TS + CJS resolvers (previously silently ignored). Adding aliases to entities.jsonl actually does something now.
+- **Operator Commands cheatsheet** lives at `content/Operator Commands.md`, surfaced at ops `/docs`. When you ship a new harness check or fix script, add a section there.
+- **Main repo has accumulating stashes** from dispatcher-mid-merge collisions. Harmless but worth cleaning during /session-save.
+- **AtStartup dispatcher trigger remains unfixed** — needs SYSTEM or S4U logon path. Memory note has the details if revisited.
+
 ---
 
 ## HANDOFF — 2026-04-28 EVENING (Bowman-shape bug class fully closed — 13 commits)

@@ -4,13 +4,13 @@ type: admin-note
 note-type: data
 priority: normal
 status: open
-last-updated: '2026-04-27'
+last-updated: '2026-04-28'
 generated-by: scripts/pipeline-janitor.cjs
 ---
 
 # Pipeline Janitor Report
 
-Generated: 2026-04-27T22:00:01.376Z
+Generated: 2026-04-28T22:49:05.920Z
 Mode: DRY RUN (report only)
 
 ## Pipeline Status
@@ -24,16 +24,16 @@ Findings below are split into three buckets:
 
 ## Summary
 
-- Profiles scanned: 3268
+- Profiles scanned: 3270
 - Profiles at ready/verified audited: 225
 - Profiles with issues: **225**
-- Total issues: 492
+- Total issues: 491
 
 ### By category
 
 - Fixable now (CSV bulk or demote): **0**
 - Blocked on paused pipeline: **0**
-- Editorial / advisory (no auto-fix): **492**
+- Editorial / advisory (no auto-fix): **491**
 
 ### By issue kind
 
@@ -42,22 +42,11 @@ Findings below are split into three buckets:
 - `a-plus-legal-review`: 64 (64 advisory)
 - `a-plus-committee-cross-ref`: 36 (36 advisory)
 - `a-plus-source-floor`: 14 (14 advisory)
-- `a-plus-both-sides`: 8 (8 advisory)
+- `a-plus-both-sides`: 7 (7 advisory)
 
 ## Findings — Editorial / Advisory
 
 _A+ findings — David or Research Claude action required. Never auto-demoted (ADR-0025)._
-
-### Sheldon Whitehouse
-
-- **Path:** `Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md`
-- **Current readiness:** `ready`
-- **Type:** `politician`
-- **Issues (4):**
-  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: courtlistener, doj-press. Judiciary committee oversees DOJ and federal courts — must cross-ref litigation + enforcement. → **courtlistener: BLOCKED: CourtListener API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | doj-press: BLOCKED: DOJ Press API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
-  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: - [Senator Whitehouse: The Scheme 30 — Update on Captured Supreme Court](https:/ | - [Senator Whitehouse: The Scheme 18 — Leonard Leo's $1.6 Billion Payday](https: → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
-  - `a-plus-both-sides` — entities appear in both donors: and opposes: — Judicial Crisis Network → **Research Claude should reconcile or document the both-sides pattern**
-  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### American Farm Bureau Federation
 
@@ -739,6 +728,16 @@ _A+ findings — David or Research Claude action required. Never auto-demoted (A
   - `a-plus-both-sides` — entities appear in both donors: and opposes: — AMERICAN CROSSROADS, PEACHTREE PAC, NRSC → **Research Claude should reconcile or document the both-sides pattern**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
+### Sheldon Whitehouse
+
+- **Path:** `Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: courtlistener, doj-press. Judiciary committee oversees DOJ and federal courts — must cross-ref litigation + enforcement. → **courtlistener: BLOCKED: CourtListener API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | doj-press: BLOCKED: DOJ Press API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: - [Senator Whitehouse: The Scheme 30 — Update on Captured Supreme Court](https:/ | - [Senator Whitehouse: The Scheme 18 — Leonard Leo's $1.6 Billion Payday](https: → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
 ### Chip Roy Master Profile
 
 - **Path:** `Politicians/Republicans/House/Chip Roy/_Chip Roy Master Profile.md`
@@ -766,7 +765,7 @@ _A+ findings — David or Research Claude action required. Never auto-demoted (A
 - **Type:** `politician`
 - **Issues (3):**
   - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | 2026-01-14 | S.3643-119 | Government Operations and Politics | Special Inspect → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
-  - `a-plus-both-sides` — entities appear in both donors: and opposes: — PATRIOTS PREVAIL PAC → **Research Claude should reconcile or document the both-sides pattern**
+  - `a-plus-both-sides` — entities appear in both donors: and opposes: — PATRIOTS PREVAIL PAC, Patriots Prevail PAC → **Research Claude should reconcile or document the both-sides pattern**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Rick Scott
@@ -1568,7 +1567,7 @@ _A+ findings — David or Research Claude action required. Never auto-demoted (A
 - **Current readiness:** `ready`
 - **Type:** `politician`
 - **Issues (2):**
-  - `a-plus-both-sides` — entities appear in both donors: and opposes: — United Democracy Project, Fairshake PAC, Mainstream Democrats PAC → **Research Claude should reconcile or document the both-sides pattern**
+  - `a-plus-both-sides` — entities appear in both donors: and opposes: — Fairshake PAC, United Democracy Project - UDP → **Research Claude should reconcile or document the both-sides pattern**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Frank Pallone
@@ -1631,7 +1630,7 @@ _A+ findings — David or Research Claude action required. Never auto-demoted (A
 - **Current readiness:** `ready`
 - **Type:** `politician`
 - **Issues (2):**
-  - `a-plus-both-sides` — entities appear in both donors: and opposes: — United Democracy Project → **Research Claude should reconcile or document the both-sides pattern**
+  - `a-plus-both-sides` — entities appear in both donors: and opposes: — UNITED DEMOCRACY PROJECT (UDP), United Democracy Project - UDP → **Research Claude should reconcile or document the both-sides pattern**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Zoe Lofgren
@@ -1685,7 +1684,7 @@ _A+ findings — David or Research Claude action required. Never auto-demoted (A
 - **Current readiness:** `ready`
 - **Type:** `politician`
 - **Issues (2):**
-  - `a-plus-both-sides` — entities appear in both donors: and opposes: — KENTUCKIANS FOR STRONG LEADERSHIP → **Research Claude should reconcile or document the both-sides pattern**
+  - `a-plus-both-sides` — entities appear in both donors: and opposes: — KENTUCKIANS FOR STRONG LEADERSHIP, Kentuckians for Strong Leadership → **Research Claude should reconcile or document the both-sides pattern**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Maria Cantwell
@@ -1730,7 +1729,7 @@ _A+ findings — David or Research Claude action required. Never auto-demoted (A
 - **Current readiness:** `ready`
 - **Type:** `politician`
 - **Issues (2):**
-  - `a-plus-both-sides` — entities appear in both donors: and opposes: — DEFENDARIZONA, AMERICAN FUTURE FUND → **Research Claude should reconcile or document the both-sides pattern**
+  - `a-plus-both-sides` — entities appear in both donors: and opposes: — DEFENDARIZONA, AMERICAN FUTURE FUND, DefendArizona → **Research Claude should reconcile or document the both-sides pattern**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Carlos Gimenez
@@ -1856,7 +1855,7 @@ _A+ findings — David or Research Claude action required. Never auto-demoted (A
 - **Current readiness:** `ready`
 - **Type:** `politician`
 - **Issues (2):**
-  - `a-plus-both-sides` — entities appear in both donors: and opposes: — AMERICAN JOBS AND GROWTH PAC → **Research Claude should reconcile or document the both-sides pattern**
+  - `a-plus-both-sides` — entities appear in both donors: and opposes: — AMERICAN JOBS AND GROWTH PAC, American Jobs and Growth PAC → **Research Claude should reconcile or document the both-sides pattern**
   - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ### Charles Koch
