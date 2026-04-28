@@ -361,7 +361,8 @@ export default function StoriesPage() {
     stateCounts[s.state] = (stateCounts[s.state] || 0) + 1
   }
   const integrityWarnings = stories.filter(s => s.integrity_status && s.integrity_status !== "ok").length
-  const duplicateFlagged = stories.filter(s => s.integrity_status === "duplicate").length
+  const duplicateFlagged = stories.filter(s => s.integrity_status === "duplicate" && s.state !== "archived").length
+  const staleFlagged = stories.filter(s => s.integrity_status === "stale" && s.state === "candidate").length
 
   /**
    * One-click cleanup: walks duplicate clusters server-side, keeps the
@@ -369,6 +370,29 @@ export default function StoriesPage() {
    * "auto-archived as duplicate of story_X" + writes the false-positive
    * log so the detector won't re-create them.
    */
+  /**
+   * Stale = the underlying both-sides pattern no longer holds in the
+   * source profile. Conservative: only candidates auto-archived; draft/
+   * ready/published stay put.
+   */
+  const autoArchiveStale = async () => {
+    if (staleFlagged === 0) return
+    if (!confirm(`Auto-archive stale stories?\n\nWalks ${staleFlagged} flagged stale stories — those whose underlying pattern no longer holds in the source profile data (counterparty was edited away from donors+opposes). Only candidate-state stories are archived; draft/ready stay protected.\n\nEach archive writes to false-positive log so the detector won't re-create.`)) return
+    try {
+      const res = await fetch("/api/stories/auto-archive-stale", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ dry_run: false }),
+      })
+      if (!res.ok) throw new Error(await res.text())
+      const data = await res.json()
+      alert(`Auto-archived ${data.archived_count} stale stor${data.archived_count === 1 ? "y" : "ies"}. ${data.skipped_count > 0 ? `Skipped ${data.skipped_count} (editorial work in progress).` : ""} Reloading...`)
+      fetchStories()
+    } catch (e: unknown) {
+      alert(`Auto-archive failed: ${e instanceof Error ? e.message : String(e)}`)
+    }
+  }
+
   const autoArchiveDuplicates = async () => {
     if (duplicateFlagged === 0) return
     if (!confirm(`Auto-archive duplicate stories?\n\nWalks ${duplicateFlagged} flagged duplicate stories, groups by subject + counterparty + detector type, keeps the highest-confidence story in each cluster, archives the rest. Each archive writes to false-positive log.\n\nDraft/ready stories are protected — they won't be auto-archived even if duplicates exist.`)) return
@@ -484,7 +508,8 @@ export default function StoriesPage() {
           </span>
         </div>
 
-        {/* Auto-archive duplicates banner — appears when duplicate-flagged stories exist */}
+        {/* Auto-archive banners — appear when integrity-flagged candidates exist
+            and nothing is selected (avoid conflicting with the bulk-action bar). */}
         {duplicateFlagged > 0 && selected.size === 0 && (
           <div className="bg-yellow-950/40 border border-yellow-800 rounded p-3 flex items-center gap-3 text-sm">
             <span className="text-yellow-300">
@@ -497,6 +522,22 @@ export default function StoriesPage() {
               title="Walks duplicate clusters, keeps highest-confidence story in each, archives the rest. Draft/ready stories are protected. Writes false-positive log entries so the detector won't re-create archived duplicates."
             >
               🪄 auto-archive duplicates
+            </button>
+          </div>
+        )}
+
+        {staleFlagged > 0 && selected.size === 0 && (
+          <div className="bg-yellow-950/40 border border-yellow-800 rounded p-3 flex items-center gap-3 text-sm">
+            <span className="text-yellow-300">
+              <strong>⚠ {staleFlagged} stale stories detected</strong>
+              {" — "}the both-sides pattern no longer holds in the source profile. The counterparty has been edited away from either donors or opposes since the candidate was detected.
+            </span>
+            <button
+              className="ml-auto text-xs px-3 py-1.5 bg-yellow-900 hover:bg-yellow-800 rounded text-yellow-200 flex-shrink-0"
+              onClick={autoArchiveStale}
+              title="Archives stale candidates whose underlying pattern no longer holds. Draft/ready stories are protected. Writes false-positive log so the detector won't re-create."
+            >
+              🪄 auto-archive stale
             </button>
           </div>
         )}
