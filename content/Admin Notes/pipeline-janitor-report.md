@@ -10,7 +10,7 @@ generated-by: scripts/pipeline-janitor.cjs
 
 # Pipeline Janitor Report
 
-Generated: 2026-04-28T22:49:05.920Z
+Generated: 2026-04-28T23:45:30.250Z
 Mode: DRY RUN (report only)
 
 ## Pipeline Status
@@ -24,7 +24,7 @@ Findings below are split into three buckets:
 
 ## Summary
 
-- Profiles scanned: 3270
+- Profiles scanned: 3284
 - Profiles at ready/verified audited: 225
 - Profiles with issues: **225**
 - Total issues: 491

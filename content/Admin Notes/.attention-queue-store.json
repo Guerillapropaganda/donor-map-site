@@ -1053,7 +1053,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 268
       }
@@ -1066,7 +1066,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 238
       }
@@ -1079,7 +1079,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 212
       }
@@ -1092,7 +1092,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 184
       }
@@ -1105,7 +1105,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 171
       }
@@ -1118,7 +1118,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 161
       }
@@ -1131,7 +1131,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 136
       }
@@ -1144,7 +1144,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 129
       }
@@ -1157,7 +1157,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 126
       }
@@ -1170,7 +1170,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 117
       }
@@ -1183,7 +1183,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 114
       }
@@ -1196,7 +1196,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 107
       }
@@ -1209,7 +1209,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 106
       }
@@ -1222,7 +1222,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 89
       }
@@ -1235,7 +1235,7 @@
       "cost_min": 10,
       "leverage": 5,
       "source": "missing-profile-detector",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "refCount": 88
       }
@@ -1386,23 +1386,9 @@
   "narrative-drift-detector": [],
   "vault-audit": [
     {
-      "bucket": "blocking",
-      "what": "vault-audit: role-empty-monetary-edges — 138753 findings",
-      "why": "Continuous regression detection for the Bowman/Fairshake bug class. Monetary edges should always have an explicit role (direct-contribution / ie-support / ie-oppose / etc.). Empty role lets consumers silently miscount IE-oppose as donations. findings_count stable/dropping = healthy; rising = an ingester regressed. — 138753 role-empty monetary edge(s) (fec-indiv-by-committee:138753). Layer 3 skips ",
-      "where": "/system-health",
-      "cost_min": 5,
-      "leverage": 5,
-      "source": "vault-audit",
-      "created": "2026-04-28",
-      "metadata": {
-        "check": "role-empty-monetary-edges",
-        "findings_count": 138753
-      }
-    },
-    {
       "bucket": "compounding",
-      "what": "vault-audit: librarian-gap-audit — 323 findings",
-      "why": "Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 323 high-leverage gap(s) (≥10 appearances) — 3688 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3524 alias-cand",
+      "what": "vault-audit: librarian-gap-audit — 355 findings",
+      "why": "Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 355 high-leverage gap(s) (≥10 appearances) — 3734 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3570 alias-cand",
       "where": "/system-health",
       "cost_min": 30,
       "leverage": 4,
@@ -1410,13 +1396,13 @@
       "created": "2026-04-28",
       "metadata": {
         "check": "librarian-gap-audit",
-        "findings_count": 323
+        "findings_count": 355
       }
     },
     {
       "bucket": "compounding",
       "what": "vault-audit: pipeline-janitor — 225 findings",
-      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3270 profiles. 225 had issues.",
+      "why": "Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3284 profiles. 225 had issues.",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1425,6 +1411,20 @@
       "metadata": {
         "check": "pipeline-janitor",
         "findings_count": 225
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "vault-audit: harness-self-audit — 2 findings",
+      "why": "Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 2 stalled-producer",
+      "where": "/system-health",
+      "cost_min": 15,
+      "leverage": 5,
+      "source": "vault-audit",
+      "created": "2026-04-28",
+      "metadata": {
+        "check": "harness-self-audit",
+        "findings_count": 2
       }
     },
     {
@@ -1457,8 +1457,8 @@
     },
     {
       "bucket": "deciding",
-      "what": "vault-audit: reconciliation-framework-tier-1 — 60 findings",
-      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 60 error, 5787 warn (5847 findings total).",
+      "what": "vault-audit: reconciliation-framework-tier-1 — 1 finding",
+      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 1 error, 5687 warn (5688 findings total).",
       "where": "/system-health",
       "cost_min": 45,
       "leverage": 4,
@@ -1466,7 +1466,21 @@
       "created": "2026-04-28",
       "metadata": {
         "check": "reconciliation-framework-tier-1",
-        "findings_count": 60
+        "findings_count": 1
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "vault-audit: leftover-artifacts — 65 findings",
+      "why": "Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 65 transient file(s) not gitignored (dedup backups, temp files, stray logs)",
+      "where": "/system-health",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "vault-audit",
+      "created": "2026-04-28",
+      "metadata": {
+        "check": "leftover-artifacts",
+        "findings_count": 65
       }
     },
     {
@@ -1495,34 +1509,6 @@
       "metadata": {
         "check": "frontmatter-schema",
         "findings_count": 232
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "vault-audit: dispatcher-alive — 1 finding",
-      "why": "Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.",
-      "where": "/system-health",
-      "cost_min": 5,
-      "leverage": 5,
-      "source": "vault-audit",
-      "created": "2026-04-28",
-      "metadata": {
-        "check": "dispatcher-alive",
-        "findings_count": 1
-      }
-    },
-    {
-      "bucket": "compounding",
-      "what": "vault-audit: worktree-data-mirror — 2 findings",
-      "why": "Detects silent data divergence between worktree and main repo data/derived/. Catches the class of bug found 2026-04-29 where detectors ran on incomplete data without warning. — 0 missing, 2 size-mismatched. Remediate: node scripts/bootstrap-worktree-data.cjs",
-      "where": "/system-health",
-      "cost_min": 5,
-      "leverage": 4,
-      "source": "vault-audit",
-      "created": "2026-04-28",
-      "metadata": {
-        "check": "worktree-data-mirror",
-        "findings_count": 2
       }
     },
     {
@@ -1577,7 +1563,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 25.64,
@@ -1602,7 +1588,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 24.29,
@@ -1627,7 +1613,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 24.2,
@@ -1652,7 +1638,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 24.2,
@@ -1677,7 +1663,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.94,
@@ -1702,7 +1688,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.86,
@@ -1727,7 +1713,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.72,
@@ -1752,7 +1738,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.69,
@@ -1777,7 +1763,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.28,
@@ -1802,7 +1788,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.28,
@@ -1827,7 +1813,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.1,
@@ -1852,7 +1838,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.05,
@@ -1877,7 +1863,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.04,
@@ -1902,7 +1888,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 23.02,
@@ -1927,7 +1913,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.95,
@@ -1952,7 +1938,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.91,
@@ -1977,7 +1963,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.78,
@@ -2002,7 +1988,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.59,
@@ -2027,7 +2013,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.27,
@@ -2052,7 +2038,7 @@
       "cost_min": 90,
       "leverage": 5,
       "source": "story-candidate-scorer",
-      "created": "2026-04-27",
+      "created": "2026-04-28",
       "metadata": {
         "strategy": "dark_money_network",
         "score": 22.21,

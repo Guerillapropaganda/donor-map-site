@@ -4,13 +4,13 @@ type: admin-note
 note-type: data
 priority: normal
 status: open
-last-updated: '2026-04-27'
+last-updated: '2026-04-28'
 generated-by: scripts/missing-profile-detector.cjs
 ---
 
 # Missing Profiles
 
-470 entities are referenced via wikilinks from 3+ other profiles but don't have their own profile file yet. Ranked by how many unique profiles reference them — the ones at the top are the highest-leverage builds.
+468 entities are referenced via wikilinks from 3+ other profiles but don't have their own profile file yet. Ranked by how many unique profiles reference them — the ones at the top are the highest-leverage builds.
 
 ## Top 50
 
@@ -52,7 +52,7 @@ generated-by: scripts/missing-profile-detector.cjs
 | 34 | **DEBORAH ROSS FOR CONGRESS** | 60 | Adam Gray, Andrea Salinas, Angie Craig _(+57 more)_ |
 | 35 | **HIMES FOR CONGRESS** | 60 | Adam Gray, Adam Smith, Ami Bera _(+57 more)_ |
 | 36 | **DOGGETT FOR U S CONGRESS COMMITTEE** | 59 | Deb Haaland, Sherrod Brown, Tim Walz _(+56 more)_ |
-| 37 | **PhRMA** | 57 | ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector _(+54 more)_ |
+| 37 | **PhRMA** | 58 | ALEC - American Legislative Exchange Council, American Action Network, Healthcare Sector _(+55 more)_ |
 | 38 | **DIANA DEGETTE FOR CONGRESS** | 55 | Tim Walz, Alma S. Adams, Ami Bera _(+52 more)_ |
 | 39 | **ROBERT GARCIA FOR CONGRESS** | 55 | Adam Gray, Andrea Salinas, Angie Craig _(+52 more)_ |
 | 40 | **ROBERT ADERHOLT FOR CONGRESS** | 55 | Aaron Bean, Andrew Ogles, Andrew R. Garbarino _(+52 more)_ |
@@ -67,7 +67,7 @@ generated-by: scripts/missing-profile-detector.cjs
 | 49 | **STRICKLAND FOR WASHINGTON** | 49 | Adam Gray, Andrea Salinas, Chris Pappas _(+46 more)_ |
 | 50 | **JAKE ELLZEY FOR CONGRESS** | 49 | Aaron Bean, Andrew Ogles, Andrew R. Garbarino _(+46 more)_ |
 
-_...and 420 more below the fold._
+_...and 418 more below the fold._
 
 ## How to resolve
 

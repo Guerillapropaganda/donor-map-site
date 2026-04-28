@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**32** blocking · **53** editorial decisions · **42** background cleanup
+**31** blocking · **53** editorial decisions · **42** background cleanup
 
 ---
 
@@ -281,21 +281,12 @@ Ready profile contains 11 em dashes in body. These hard rules block ship — em 
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### vault-audit: role-empty-monetary-edges — 138753 findings
+### vault-audit: harness-self-audit — 2 findings
 
-Continuous regression detection for the Bowman/Fairshake bug class. Monetary edges should always have an explicit role (direct-contribution / ie-support / ie-oppose / etc.). Empty role lets consumers silently miscount IE-oppose as donations. findings_count stable/dropping = healthy; rising = an ingester regressed. — 138753 role-empty monetary edge(s) (fec-indiv-by-committee:138753). Layer 3 skips 
-
-- **Where:** `/system-health`
-- **Cost:** ~5 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `vault-audit`
-
-### vault-audit: dispatcher-alive — 1 finding
-
-Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.
+Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 2 stalled-producer
 
 - **Where:** `/system-health`
-- **Cost:** ~5 min
+- **Cost:** ~15 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `vault-audit`
 
@@ -771,9 +762,9 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### vault-audit: reconciliation-framework-tier-1 — 60 findings
+### vault-audit: reconciliation-framework-tier-1 — 1 finding
 
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 60 error, 5787 warn (5847 findings total).
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 1 error, 5687 warn (5688 findings total).
 
 - **Where:** `/system-health`
 - **Cost:** ~45 min
@@ -792,15 +783,6 @@ Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-req
 ## 🟢 Background Cleanup
 
 *Cleanup that makes everything else easier. Batch these when you have a slow moment.*
-
-### vault-audit: worktree-data-mirror — 2 findings
-
-Detects silent data divergence between worktree and main repo data/derived/. Catches the class of bug found 2026-04-29 where detectors ran on incomplete data without warning. — 0 missing, 2 size-mismatched. Remediate: node scripts/bootstrap-worktree-data.cjs
-
-- **Where:** `/system-health`
-- **Cost:** ~5 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `vault-audit`
 
 ### Build stub: AT&T - WarnerMedia
 
@@ -937,6 +919,15 @@ Referenced by 88 other vault profiles but has no file yet. Building a stub unloc
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
+### vault-audit: leftover-artifacts — 65 findings
+
+Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 65 transient file(s) not gitignored (dedup backups, temp files, stray logs)
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `vault-audit`
+
 ### vault-audit: story-pages-integrity — 25 findings
 
 Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings. — 25 integrity issue(s): 0 broken-ref, 1 stale, 24 duplicate
@@ -955,9 +946,9 @@ Reconciled class-tag proposals (augmentation + conflict) that need human review.
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `vault-audit`
 
-### vault-audit: librarian-gap-audit — 323 findings
+### vault-audit: librarian-gap-audit — 355 findings
 
-Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 323 high-leverage gap(s) (≥10 appearances) — 3688 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3524 alias-cand
+Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 355 high-leverage gap(s) (≥10 appearances) — 3734 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3570 alias-cand
 
 - **Where:** `/system-health`
 - **Cost:** ~30 min
@@ -1164,7 +1155,7 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 
 ### vault-audit: pipeline-janitor — 225 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3270 profiles. 225 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3284 profiles. 225 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min
