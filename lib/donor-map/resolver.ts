@@ -16,6 +16,39 @@ import { DuplicateBioguideError, FecRegistryConflictError, UnresolvableError } f
 import type { RawCanonicalStores, RawEntity, RawLegislator, RawFecRegistryEntry } from "./loader"
 import type { Node, NodeId, NodeType, ResolveArg, ResolveInput } from "./types"
 
+/**
+ * Derive the editorial wikilink alias from a profile path.
+ *
+ * The vault's politician master files use `_Foo Master Profile.md` stems
+ * and editors write wikilinks as `[[_Foo Master Profile]]`. The canonical
+ * entity `name` is just `Foo`. Auto-registering the wikilink form as an
+ * alias closes ~1,500 unresolvable references in one rule.
+ *
+ * Returns null when the path doesn't match the convention (donor / corp
+ * profiles whose stem already equals the entity name don't need this).
+ *
+ * Mirrored in scripts/lib/canonical-name-resolver.cjs — keep in lockstep.
+ */
+export function profilePathToWikilinkAlias(profile_path: string | null): string[] {
+  if (!profile_path) return []
+  const slash = profile_path.lastIndexOf("/")
+  const stem = (slash === -1 ? profile_path : profile_path.slice(slash + 1)).replace(/\.md$/i, "")
+  // Two conventions observed in the wild:
+  //   `_Foo Master Profile` (politician master files, the formal convention)
+  //   `Foo Master Profile`  (editor-typed wikilink without the leading _)
+  // Both should resolve to the same entity. Other stems (donor / corp /
+  // policy) typically equal the entity name already and don't need synthetic
+  // aliases.
+  if (!/^_?.+ Master Profile$/.test(stem)) return []
+  const aliases = [stem]
+  // Also register the leading-underscore variant if the stem doesn't already
+  // have one. Mirrored in CJS resolver and gap-audit.
+  if (!stem.startsWith("_")) aliases.push("_" + stem)
+  // And the no-underscore variant if it does.
+  else aliases.push(stem.replace(/^_/, ""))
+  return aliases
+}
+
 /** Build a stable NodeId. Prefer entity_id; fall back to slugified profile_path or name. */
 function nodeIdFor(entity: RawEntity | null, name: string, profile_path: string | null): NodeId {
   if (entity?.id) return entity.id
@@ -298,6 +331,17 @@ export class Resolver {
     if (node.ids.entity_id) this.byEntityId.set(node.ids.entity_id, node.id)
     if (node.profile_path) this.byProfilePath.set(node.profile_path, node.id)
     this.addAlias(node, node.name)
+    // Auto-alias: profile-path-derived wikilinks. The vault's politician
+    // master files use `_Foo Master Profile.md` file stems, and editorial
+    // wikilinks appear as both `[[_Foo Master Profile]]` and the no-
+    // underscore variant `[[Foo Master Profile]]`. The canonical entity
+    // `name` is `Foo`. Without these aliases ~5,500 wikilinks fail to
+    // resolve. Driven by gap-audit 2026-04-28 finding.
+    for (const profileAlias of profilePathToWikilinkAlias(node.profile_path)) {
+      if (profileAlias.toLowerCase() !== node.name.toLowerCase()) {
+        this.addAlias(node, profileAlias)
+      }
+    }
   }
 
   private addAlias(node: Node, alias: string | null | undefined): void {

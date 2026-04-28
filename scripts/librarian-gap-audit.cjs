@@ -106,6 +106,23 @@ function normalize(s) {
 }
 
 /**
+ * Mirror of lib/donor-map/resolver.ts → profilePathToWikilinkAlias().
+ * The `_Foo Master Profile` wikilink form is auto-aliased to the entity
+ * via this rule. Closes ~1,500 unresolvable references in one rule.
+ * Stays in lockstep with the TS resolver and canonical-name-resolver.cjs.
+ */
+function profilePathToWikilinkAlias(profilePath) {
+  if (!profilePath) return [];
+  const slash = String(profilePath).lastIndexOf('/');
+  const stem = (slash === -1 ? profilePath : profilePath.slice(slash + 1)).replace(/\.md$/i, '');
+  if (!/^_?.+ Master Profile$/.test(stem)) return [];
+  const aliases = [stem];
+  if (!stem.startsWith('_')) aliases.push('_' + stem);
+  else aliases.push(stem.replace(/^_/, ''));
+  return aliases;
+}
+
+/**
  * Looks like an FEC committee name? Heuristic: more than half the chars
  * are uppercase letters AND the string is long enough to have committee
  * shape. Catches "AMERICAN CROSSROADS", "MITCH MCCONNELL FOR SENATE",
@@ -179,11 +196,27 @@ function buildNameIndex(entities, edges) {
   // them as ambiguous, but for gap-audit purposes we only care that the
   // name maps to at least one entity.
   const entityNames = new Map();
-  for (const e of entities) {
-    if (!e.name) continue;
-    const k = normalize(e.name);
+  function indexEntity(name, e) {
+    if (!name) return;
+    const k = normalize(name);
     if (!entityNames.has(k)) entityNames.set(k, []);
     entityNames.get(k).push(e);
+  }
+  for (const e of entities) {
+    indexEntity(e.name, e);
+    // Mirror of lib/donor-map/resolver.ts auto-alias rule: profile-path
+    // stems matching `_Foo Master Profile` register as a wikilink alias.
+    // Without this, the gap-audit's count doesn't reflect the resolver
+    // change and we get false-positive `unresolvable` for editor-correct
+    // wikilinks. Helper inlined to avoid coupling to canonical-name-resolver
+    // (which spawns the full registry; gap-audit needs the rule, not the load).
+    for (const a of profilePathToWikilinkAlias(e.profile_path)) {
+      indexEntity(a, e);
+    }
+    // Also index any explicit aliases declared on the entity record itself.
+    if (Array.isArray(e.aliases)) {
+      for (const a of e.aliases) indexEntity(a, e);
+    }
   }
 
   // edgeNames: every from/to string ever mentioned in an edge. Used to
@@ -243,9 +276,25 @@ function findSimilar(name, similarPrefix) {
 
 function classify(name, idx) {
   const k = normalize(name);
-  const inEntities = idx.entityNames.has(k);
-  const outCount = idx.edgeOut.get(k) || 0;
-  const inCount = idx.edgeIn.get(k) || 0;
+  const matchingEntities = idx.entityNames.get(k);
+  const inEntities = !!matchingEntities;
+
+  // When the wikilink resolves to one or more entity records, the edges
+  // are keyed under the entity's canonical `name` (e.g. "Donald Trump"),
+  // not the alias the editor typed (e.g. "_Donald Trump Master Profile").
+  // Probe edge counts under every candidate canonical name and the input.
+  const namesToProbe = new Set([k]);
+  if (matchingEntities) {
+    for (const e of matchingEntities) {
+      if (e.name) namesToProbe.add(normalize(e.name));
+    }
+  }
+  let outCount = 0;
+  let inCount = 0;
+  for (const probe of namesToProbe) {
+    outCount += idx.edgeOut.get(probe) || 0;
+    inCount += idx.edgeIn.get(probe) || 0;
+  }
   const totalEdges = outCount + inCount;
   const fecShape = looksLikeFecCommittee(name);
 
