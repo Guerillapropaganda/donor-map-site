@@ -47,8 +47,11 @@ const CASES: Array<{ name: string; edge: ClassifiableEdge }> = [
   { name: "monetary operating-expense", edge: { type: "monetary", role: "operating-expense", amount: 83000000 } },
   { name: "monetary 527-expenditure", edge: { type: "monetary", role: "527-expenditure" } },
   { name: "monetary 527-contribution", edge: { type: "monetary", role: "527-contribution" } },
-  { name: "monetary roleless fec-bulk", edge: { type: "monetary", source: "fec-bulk", amount: 5000 } },
-  { name: "monetary roleless irs-990-bulk", edge: { type: "monetary", source: "irs-990-bulk", amount: 800000 } },
+  // Roleless monetary edges previously defaulted silently to direct-contribution.
+  // 2026-04-28 PM: that silent default was removed (Bowman/Fairshake case
+  // surfaced 14,294 fec-bulk + 2,201 irs-990-bulk edges that were mis-read
+  // as donations). Now both TS and CJS throw on roleless monetary edges —
+  // see the explicit throws-test below.
   { name: "government-contract", edge: { type: "government-contract" } },
   { name: "federal-grant", edge: { type: "federal-grant" } },
   { name: "related (wikilink)", edge: { type: "related" } },
@@ -92,6 +95,18 @@ describe("edge-taxonomy parity (TS vs CJS)", () => {
   it("classifyEdge throws identically on unknown monetary role", () => {
     assert.throws(() => classifyTs({ type: "monetary", role: "xxx" }), /unknown monetary role/)
     assert.throws(() => cjs.classifyEdge({ type: "monetary", role: "xxx" }), /unknown monetary role/)
+  })
+
+  it("classifyEdge throws identically on roleless monetary edges (2026-04-28)", () => {
+    // No silent default to direct-contribution. Empty/null role on
+    // monetary throws so consumers can't accidentally count IE-oppose
+    // as a donation. Bowman/Fairshake $2.08M case was the catalyst.
+    assert.throws(() => classifyTs({ type: "monetary" }), /empty role/)
+    assert.throws(() => cjs.classifyEdge({ type: "monetary" }), /empty role/)
+    assert.throws(() => classifyTs({ type: "monetary", role: "" }), /empty role/)
+    assert.throws(() => cjs.classifyEdge({ type: "monetary", role: "" }), /empty role/)
+    assert.throws(() => classifyTs({ type: "monetary", role: null }), /empty role/)
+    assert.throws(() => cjs.classifyEdge({ type: "monetary", role: null }), /empty role/)
   })
 
   it("classifyEdge throws identically on unknown top-level type", () => {
