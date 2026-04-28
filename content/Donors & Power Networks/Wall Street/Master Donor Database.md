@@ -1,12 +1,12 @@
 ---
-title: "Master Donor Database"
+title: Master Donor Database
 type: reference
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-related: "[[Senate Majority PAC]] · [[_VAULT_INDEX]] · [[Financial Services Donors]] · [[Democratic Donor Network]] · [[Trump Donor Coalition]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[Eli Lilly]] · [[AFL-CIO]] · [[Blue Cross Blue Shield Association]] · [[Koch Industries]] · [[Donor Registry - Master Index]] · [[Stand Together]]"
+sector: Wall Street
+related: "[[Senate Majority PAC]] · [[Financial Services Donors]] · [[Democratic Donor Network]] · [[Trump Donor Coalition]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[Eli Lilly]] · [[AFL-CIO]] · [[Blue Cross Blue Shield Association]] · [[Koch Industries]] · [[Donor Registry - Master Index]] · [[Stand Together]]"
 urls-first-triaged: "2026-04-15"
 ---
 #master-donor-database #reference #index #methodology

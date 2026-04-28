@@ -1,8 +1,8 @@
 ---
-title: "2026-03-27 API Briefing"
+title: 2026-03-27 API Briefing
 type: daily-update
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-03-27T00:00:00.000Z
 source-tier: 1
 parent: null
 source-types:
@@ -11,8 +11,8 @@ source-types:
   - USASpending
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
-related: "[[Donors & Power Networks Index]] · [[_VAULT_INDEX]]"
+  - No mapped relationships
+related: "[[Donors & Power Networks Index]]"
 checklist-na:
   - "regulatory: auto: entity type \"daily-update\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"daily-update\" does not typically hold federal contracts (2026-04-15)"

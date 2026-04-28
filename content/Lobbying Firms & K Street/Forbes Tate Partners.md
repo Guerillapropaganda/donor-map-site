@@ -1,36 +1,32 @@
 ---
-title: "Forbes Tate Partners"
+title: Forbes Tate Partners
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-annual-revenue: "$26.4M"
+annual-revenue: $26.4M
 lobbyist-count: 33
-revolving-door-pct: "63.6%"
-fara-status: "registrant"
+revolving-door-pct: 63.6%
+fara-status: registrant
 fara-records: 2
 fara-countries:
-  - "JAPAN"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Holland & Knight]] · [[Invariant]]"
+  - JAPAN
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[Thorn Run Partners]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Holland & Knight]] · [[Invariant]]"
 court-cases: 6
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. California"
-  - "United States Bankruptcy Court, N.D. California"
+  - Court of Appeals for the Eleventh Circuit
+  - District Court, District of Columbia
+  - District Court, N.D. Alabama
+  - District Court, N.D. California
+  - United States Bankruptcy Court, N.D. California
 cross-vault-triangulation-count: 20
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"

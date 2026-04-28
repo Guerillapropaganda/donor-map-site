@@ -1,12 +1,10 @@
 ---
-title: "Think Tank Index"
+title: Think Tank Index
 type: index
 content-readiness: draft
-last-updated: 2026-04-01
-
+last-updated: 2026-04-01T00:00:00.000Z
 source-tier: null
 parent: null
-related: "[[_Think Tank Framework]] · [[_VAULT_INDEX]]"
 urls-first-triaged: "2026-04-15"
 ---
 

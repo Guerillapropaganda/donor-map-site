@@ -1,11 +1,11 @@
 ---
-title: "The Both-Sides Illusion (Media Edition) , Shared Infrastructure Behind Opposing Voices"
+title: The Both-Sides Illusion (Media Edition) , Shared Infrastructure Behind Opposing Voices
 type: story
 content-readiness: ready
-last-updated: 2026-04-01
+last-updated: 2026-04-01T00:00:00.000Z
 source-tier: 2
 parent: null
-related: "[[_Media Pipeline Framework|Media Pipeline Framework]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media|Shared Sponsor Map]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline|Revolving Door (Media)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts|Both-Sides Illusion (Politicians)]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+related: "[[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media|Shared Sponsor Map]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline|Revolving Door (Media)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts|Both-Sides Illusion (Politicians)]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 checklist-na:
   - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"

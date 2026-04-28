@@ -1,11 +1,11 @@
 ---
-title: "Think Tank & Policy Infrastructure Framework"
+title: Think Tank & Policy Infrastructure Framework
 type: methodology
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: null
 parent: null
-related: "[[_Media Pipeline Framework]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Research Methodology and Data Sources]] · [[_VAULT_INDEX]] · [[Media & Influence Pipeline Framework]] · [[Lobbying Firms & K Street Framework]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Research Methodology and Data Sources]] · [[Media & Influence Pipeline Framework]] · [[Lobbying Firms & K Street Framework]]"
 urls-first-triaged: "2026-04-15"
 ---
 

@@ -1,37 +1,33 @@
 ---
-title: "BGR Group"
+title: BGR Group
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-annual-revenue: "$71.5M"
+annual-revenue: $71.5M
 lobbyist-count: 36
-revolving-door-pct: "86.1%"
+revolving-door-pct: 86.1%
 court-cases: 20
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, D. Maryland"
-  - "District Court, D. Nevada"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Texas"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. Mississippi"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, S.D. Indiana"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackrock]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Donald Trump Master Profile]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
+  - District Court, D. Maryland
+  - District Court, D. Nevada
+  - District Court, District of Columbia
+  - District Court, E.D. Texas
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. Texas
+  - District Court, S.D. Mississippi
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, S.D. Indiana
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackrock]] · [[Comcast - NBCUniversal|Comcast]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Donald Trump Master Profile]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
 cross-vault-triangulation-count: 20
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"

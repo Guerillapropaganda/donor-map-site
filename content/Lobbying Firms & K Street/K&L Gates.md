@@ -1,62 +1,58 @@
 ---
-title: "K&L Gates"
+title: K&L Gates
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-annual-revenue: "$20.8M (2025)"
+annual-revenue: $20.8M (2025)
 lobbyist-count: 44
-revolving-door-pct: "63.6%"
+revolving-door-pct: 63.6%
 ein: "387169824"
-nonprofit-status: "501(c)(9)"
+nonprofit-status: 501(c)(9)
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 3025110
 total-assets: 74501
-fara-status: "registrant"
+fara-status: registrant
 fara-records: 3
 fara-countries:
-  - "ISRAEL"
-  - "JAPAN"
-lei: "984500BYEBE6DF7F5U39"
-lei-jurisdiction: "GB"
-related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[Ballard Partners]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Holland & Knight]] · [[Invariant]]"
+  - ISRAEL
+  - JAPAN
+lei: 984500BYEBE6DF7F5U39
+lei-jurisdiction: GB
+related: "[[Fossil Fuel Bloc]] · [[Ballard Partners]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Holland & Knight]] · [[Invariant]]"
 sec-filings: 10000
 sec-form-types:
-  - "8-K"
-  - "CORRESP"
-  - "EX-11"
-  - "EX-12"
-  - "EX-16"
-  - "EX-25"
-  - "EX-5"
-  - "EX-5.1"
-  - "EX-5.2"
-  - "EX-99"
-  - "EX-99.(1)(2)"
-  - "EX-99.(12)"
-  - "EX-99.(12)(A)"
-  - "EX-99.(12)(B)"
-  - "EX-99.(I)(2)"
-  - "EX-99.(I)(3)"
-  - "EX-99.(L)"
-  - "EX-99.12"
-  - "EX-99.14(B)"
-  - "EX-99.L.1"
-  - "EX-99.L.3"
-  - "EX-99.N.1"
-  - "EX-99.N.2"
-  - "POS EX"
+  - 8-K
+  - CORRESP
+  - EX-11
+  - EX-12
+  - EX-16
+  - EX-25
+  - EX-5
+  - EX-5.1
+  - EX-5.2
+  - EX-99
+  - EX-99.(1)(2)
+  - EX-99.(12)
+  - EX-99.(12)(A)
+  - EX-99.(12)(B)
+  - EX-99.(I)(2)
+  - EX-99.(I)(3)
+  - EX-99.(L)
+  - EX-99.12
+  - EX-99.14(B)
+  - EX-99.L.1
+  - EX-99.L.3
+  - EX-99.N.1
+  - EX-99.N.2
+  - POS EX
 cross-vault-triangulation-count: 18
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"

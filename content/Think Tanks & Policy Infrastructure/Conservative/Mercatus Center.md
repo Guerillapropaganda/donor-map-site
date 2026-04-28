@@ -1,37 +1,37 @@
 ---
-title: "Mercatus Center"
+title: Mercatus Center
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
+related: "[[Koch Network - Charles Koch]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
 court-cases: 146
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the Federal Circuit"
-  - "District Court, D. Maryland"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "United States Court of International Trade"
+  - Court of Appeals for the Federal Circuit
+  - District Court, D. Maryland
+  - District Court, N.D. California
+  - District Court, S.D. New York
+  - United States Court of International Trade
 ein: "541436224"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 39392965
 total-assets: 36765270
 federal-register-mentions: 81
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Centers for Medicare & Medicaid Services"
-  - "Children and Families Administration"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Federal Aviation Administration"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Internal Revenue Service"
-  - "Justice Department"
+  - Antitrust Division
+  - Centers for Medicare & Medicaid Services
+  - Children and Families Administration
+  - Employee Benefits Security Administration
+  - Energy Department
+  - Federal Aviation Administration
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Internal Revenue Service
+  - Justice Department
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
