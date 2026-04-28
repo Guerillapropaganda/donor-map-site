@@ -160,16 +160,19 @@ const PRODUCERS = [
     timeout_ms: 60_000,
   },
   // Congressional financial disclosures (STOCK Act PTR filings).
-  // Daily at 6am — scrapes Senate EFDS + House Clerk for the latest
-  // 90 days of periodic transaction reports. Writes parsed JSON to
-  // data/financial-disclosures.json (overwrite, no accumulation).
-  // 5-minute timeout — needs to download + parse PDFs from the House.
-  {
-    name: 'financial-disclosures',
-    schedule: '0 6 * * *',
-    script: 'scripts/financial-disclosures-pipeline.cjs',
-    timeout_ms: 300_000,
-  },
+  // PAUSED 2026-04-28 per David's "all pipelines local-runs only" call.
+  // Was: daily at 6am scraping Senate EFDS + House Clerk for the latest
+  // 90 days of PTRs. The only dispatcher producer that hits external APIs;
+  // CSV-only phase (Rule 3) extends to this too going forward. To resume:
+  //   1. Update data/enrichment-state.json (clear local_pipelines_paused)
+  //   2. Re-enable this entry below
+  //   3. Re-enable scripts/capitol-trades-freshness-check.cjs in vault-audit
+  // {
+  //   name: 'financial-disclosures',
+  //   schedule: '0 6 * * *',
+  //   script: 'scripts/financial-disclosures-pipeline.cjs',
+  //   timeout_ms: 300_000,
+  // },
   // Top-N donors / politicians funded — recompute the ranked lists in
   // entity signals from the canonical edges. Populates both:
   //   signals.top_politicians_funded  (on donor/corp/nonprofit)

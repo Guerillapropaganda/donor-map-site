@@ -141,6 +141,8 @@ interface SourceFreshness {
   lastUpdated: string | null
   ageMinutes: number | null
   stale: boolean
+  paused?: boolean
+  pausedReason?: string | null
 }
 
 export default function CapitolTradesPage() {
@@ -343,10 +345,10 @@ export default function CapitolTradesPage() {
         }}
       />
 
-      {/* Pipeline source-freshness banner — distinct from the file-mtime
-          chip above. This surfaces the pipeline's SEMANTIC lastUpdated
-          (stats.lastUpdated written by financial-disclosures-pipeline.cjs
-          each run). Daily 06:00 UTC cadence; flagged stale at >36h. */}
+      {/* Pipeline source-freshness banner. Three states:
+          - paused (intentional, per data/enrichment-state.json) → gray "paused" indicator
+          - stale (over 36h, NOT paused) → yellow warning
+          - fresh                                                → gray "scraped X ago" */}
       {sourceFreshness?.lastUpdated && (() => {
         const ageMin = sourceFreshness.ageMinutes ?? 0
         const ageHr = Math.floor(ageMin / 60)
@@ -356,22 +358,39 @@ export default function CapitolTradesPage() {
           ageHr >= 2  ? `${ageHr}h ago`  :
           ageMin >= 2 ? `${ageMin}m ago` :
                         "just now"
+        const paused = sourceFreshness.paused === true
         const stale = sourceFreshness.stale
+        const tone = paused
+          ? "bg-gray-900 border border-gray-700 text-gray-400"
+          : stale
+            ? "bg-yellow-950/40 border border-yellow-800 text-yellow-300"
+            : "bg-gray-900 border border-gray-800 text-gray-400"
         return (
-          <div className={`mb-3 px-3 py-2 rounded text-xs flex items-center gap-2 ${
-            stale
-              ? "bg-yellow-950/40 border border-yellow-800 text-yellow-300"
-              : "bg-gray-900 border border-gray-800 text-gray-400"
-          }`}>
-            <span>{stale ? "⚠" : "🕒"}</span>
+          <div className={`mb-3 px-3 py-2 rounded text-xs flex items-center gap-2 ${tone}`}>
+            <span>{paused ? "⏸" : stale ? "⚠" : "🕒"}</span>
             <span>
-              <strong>STOCK Act pipeline last scraped {ageLabel}</strong>
-              {" — "}
-              <span className="text-gray-500">
-                {new Date(sourceFreshness.lastUpdated).toLocaleString()}
-              </span>
+              {paused ? (
+                <>
+                  <strong>STOCK Act pipeline paused</strong>
+                  {" — "}
+                  <span className="text-gray-500">data shown is from {new Date(sourceFreshness.lastUpdated).toLocaleDateString()} ({ageLabel})</span>
+                </>
+              ) : (
+                <>
+                  <strong>STOCK Act pipeline last scraped {ageLabel}</strong>
+                  {" — "}
+                  <span className="text-gray-500">
+                    {new Date(sourceFreshness.lastUpdated).toLocaleString()}
+                  </span>
+                </>
+              )}
             </span>
-            {stale && (
+            {paused && sourceFreshness.pausedReason && (
+              <span className="ml-auto text-gray-500 text-[11px] italic max-w-2xl truncate" title={sourceFreshness.pausedReason}>
+                {sourceFreshness.pausedReason.slice(0, 120)}{sourceFreshness.pausedReason.length > 120 ? "…" : ""}
+              </span>
+            )}
+            {!paused && stale && (
               <span className="ml-auto text-yellow-200">
                 Pipeline runs daily at 06:00 UTC; over 36h old. Check
                 <code className="bg-black/30 px-1 ml-1 rounded">scripts/financial-disclosures-pipeline.cjs</code>.

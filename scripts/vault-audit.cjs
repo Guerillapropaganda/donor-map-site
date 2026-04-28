@@ -191,14 +191,18 @@ const CHECKS = [
     timeout_ms: 60000,  // walks content/ to build profile index
     queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
   },
-  {
-    name: 'capitol-trades-freshness',
-    description: 'STOCK Act pipeline (financial-disclosures-pipeline.cjs) freshness check. Reads stats.lastUpdated from data/financial-disclosures.json; flags if >36h old (pipeline cron is daily 06:00 UTC). Catches silent pipeline failures so /capitol-trades doesn\'t serve increasingly stale data unnoticed.',
-    cmd: ['node', 'scripts/capitol-trades-freshness-check.cjs', '--json'],
-    parse: parseCapitolTradesFreshness,
-    timeout_ms: 10000,
-    queue: { bucket: 'compounding', leverage: 1, cost_min: 5 },
-  },
+  // PAUSED 2026-04-28 alongside the STOCK Act pipeline. While the pipeline
+  // is intentionally not running, this freshness check would flag every
+  // run as a finding — pure noise. Re-enable when financial-disclosures
+  // is unpaused in attention-dispatcher.cjs.
+  // {
+  //   name: 'capitol-trades-freshness',
+  //   description: 'STOCK Act pipeline freshness check. Flags >36h old data.',
+  //   cmd: ['node', 'scripts/capitol-trades-freshness-check.cjs', '--json'],
+  //   parse: parseCapitolTradesFreshness,
+  //   timeout_ms: 10000,
+  //   queue: { bucket: 'compounding', leverage: 1, cost_min: 5 },
+  // },
   {
     name: 'frontmatter-schema',
     description: 'Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired)',
