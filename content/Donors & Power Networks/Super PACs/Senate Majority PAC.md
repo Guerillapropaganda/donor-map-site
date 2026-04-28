@@ -1,48 +1,44 @@
 ---
-title: "Senate Majority PAC"
+title: Senate Majority PAC
 type: pac
 ein: "272896127"
 content-readiness: draft
-last-updated: 2026-04-17
+last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 politicians-funded:
-  - "Chuck Schumer"
-  - "Bernie Sanders"
-  - "Mitch McConnell"
+  - Chuck Schumer
+  - Bernie Sanders
+  - Mitch McConnell
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 38
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Eleventh Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Alabama"
-  - "District Court, N.D. Alabama"
-  - "District Court, N.D. Florida"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
+  - Court of Appeals for the Eleventh Circuit
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, M.D. Alabama
+  - District Court, N.D. Alabama
+  - District Court, N.D. Florida
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, D. Delaware
 related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Majority Forward]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Priorities USA Action]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[Emilys List]] · [[One Nation]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Bernie Sanders]] · [[Thom Tillis]] · [[2026 Senate Primary Races]] · [[Mark Kelly]] · [[Adam Schiff]] · [[George Soros]] · [[Ohio Democratic Party]] · [[DonorsTrust]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[ActBlue]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[Elect Chicago Women PAC]] · [[Think Big AI PAC]] · [[Affordable Chicago Now PAC]]"
 sec-filings: 4
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
-opposes: "[[Shelley Moore Capito]] · [[Thom Tillis Master Profile]]"
+opposes: "[[Shelley Moore Capito]] · [[Thom Tillis]]"
 cross-vault-triangulation-count: 19
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 aliases:
-  - "SMP"
+  - SMP
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"

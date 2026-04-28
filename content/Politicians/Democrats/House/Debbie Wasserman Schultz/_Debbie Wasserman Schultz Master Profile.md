@@ -54,6 +54,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - No voting record data
+opposes: "[[Donald Trump]]"
 ---
 
 

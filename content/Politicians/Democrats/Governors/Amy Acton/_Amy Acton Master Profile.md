@@ -16,11 +16,12 @@ source-types:
   - DOJ
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · [[EMILY's List]] · [[UAW - United Auto Workers|UAW]] · [[AFGE - American Federation of Government Employees|AFGE]] · [[Ohio AFL-CIO]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Amy Acton Master Profile]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[The COVID Tenure and the Political Fallout]] · [[The Healthcare Platform and the Insurance Industry Question]] · [[The Labor Coalition and What Unions Expect]] · [[Ohio 2026 Governor Race - The Structural Landscape]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
+opposes: "[[Donald Trump]]"
 ---
 
 

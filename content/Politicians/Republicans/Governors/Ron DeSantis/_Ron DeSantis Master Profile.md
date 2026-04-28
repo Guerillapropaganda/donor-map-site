@@ -26,7 +26,7 @@ known-gaps:
   - No voting record data
 executive-actions: 25
 last-enriched: "2026-04-10"
-opposes: "[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]"
+opposes: "[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[MAGA Inc]] · [[Sfa Fund, Inc]]"
 related: ">- · [[Florida 2026 Special Senate Election]] · [[Ready to Win]] · [[Ken Griffin]]"
 total-raised: $375,129
 total-spent: $375,129

@@ -42,7 +42,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - No FEC contribution data
-opposes: "[[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE MAJORITY PAC]] · [[NEA ADVOCACY FUND]]"
+opposes: "[[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE MAJORITY PAC]] · [[NEA ADVOCACY FUND]] · [[Senate Majority PAC]] · [[Democratic Senatorial Campaign Committee]] · [[NEA Advocacy Fund]]"
 related: "[[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 total-raised: $8,072,231
 total-spent: $5,232,134

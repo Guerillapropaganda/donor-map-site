@@ -36,6 +36,7 @@ donors: "[[Sam Bankman-Fried]] · [[Bill Gates]] · [[California Farm Bureau Fed
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-20T00:00:00.000Z
+opposes: "[[Donald Trump]]"
 ---
 
 

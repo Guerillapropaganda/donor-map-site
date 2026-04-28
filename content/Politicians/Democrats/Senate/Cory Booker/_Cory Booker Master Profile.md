@@ -84,6 +84,7 @@ committees:
   - the Constitution
 total-raised: $66.4M
 career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+opposes: "[[Donald Trump]]"
 ---
 
 

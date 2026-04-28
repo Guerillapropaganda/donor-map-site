@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
@@ -32,6 +32,7 @@ employee-donor-count: 159
 politicians-funded: "[[_Adriano Espaillat Master Profile]], [[_Jimmy Gomez Master Profile]], [[_Debbie Wasserman Schultz Master Profile]], [[Democratic Party of Virginia]], [[Catherine Cortez Masto]], [[_Deb Haaland Master Profile]], [[WinRed]], [[_Summer Lee Master Profile]], [[_Jim Jordan Master Profile]], [[_Cory Booker Master Profile]], [[_Gabe Amo Master Profile]], [[Emily's List]], [[_Josh Riley Master Profile]], [[_Kamala Harris Master Profile]], [[ActBlue]], [[Kamala Harris]], [[_Kweisi Mfume Master Profile]], [[_Tammy Baldwin Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Bonnie Watson Coleman Master Profile]], [[Brendan Boyle]], [[Donald Trump]], [[Chrissy Houlahan]], [[Lisa Blunt Rochester]], [[Summer Lee]], [[Bob Casey]], [[DNC - Democratic National Committee]], [[Jamie Raskin]], [[_Marco Rubio Master Profile]], [[MAGA Inc]], [[Debbie Wasserman Schultz]], [[Tammy Baldwin]], [[Gabe Amo]], [[Cory Booker]], [[Kweisi Mfume]], [[Adriano Espaillat]], [[Bonnie Watson Coleman]], [[Deb Haaland]], [[Jimmy Gomez]], [[Marco Rubio]], [[Jim Jordan]], [[Josh Riley]]"
 source-types:
   - FEC
+opposes: "[[George W. Bush]]"
 ---
 
 

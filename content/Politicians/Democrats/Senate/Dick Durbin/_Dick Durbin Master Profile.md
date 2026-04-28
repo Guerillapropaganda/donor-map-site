@@ -23,14 +23,12 @@ donors: "[[ADM - Archer Daniels Midland]], [[Legal Sector Donors]], [[Financial 
 related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]] · [[Legal Sector Donors]] · [[Pharmaceutical Industry]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Joe Biden Master Profile|Biden]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Patty Murray Master Profile|Murray]] · [[Juliana Stratton]]"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20T00:00:00.000Z
+opposes: "[[Donald Trump]]"
 ---
 
 

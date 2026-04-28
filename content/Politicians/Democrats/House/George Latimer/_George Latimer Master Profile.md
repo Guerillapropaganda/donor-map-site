@@ -37,6 +37,7 @@ committees:
 total-raised: $7.1M
 career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 6
+opposes: "[[Donald Trump]]"
 ---
 
 

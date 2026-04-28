@@ -26,6 +26,7 @@ donors: "[[Democratic Senatorial Campaign Committee]], [[FRIENDS OF MARIA]], [[M
 urls-first-triaged: "2026-04-15"
 total-raised: $126K
 career-total-source: FEC weball summary (cycles 1994)
+opposes: "[[Donald Trump]]"
 ---
 
 

@@ -30,6 +30,7 @@ urls-first-triaged: "2026-04-15"
 total-raised: 85000
 total-spent: 53596
 cash-on-hand: 46130
+opposes: "[[Donald Trump]]"
 ---
 
 

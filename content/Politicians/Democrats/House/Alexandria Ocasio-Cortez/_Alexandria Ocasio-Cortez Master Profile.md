@@ -1,39 +1,39 @@
 ---
-title: "Alexandria Ocasio-Cortez Master Profile"
+title: Alexandria Ocasio-Cortez Master Profile
 type: politician
 content-readiness: ready
-central-thesis: "AOC represents the donor class's nightmare AND its containment strategy. Her small-dollar funding model proves that politicians don't need corporate money — a demonstration effect that terrifies every institution that depends on the funding chokeh..."
-last-updated: 2026-04-18
+central-thesis: AOC represents the donor class's nightmare AND its containment strategy. Her small-dollar funding model proves that politicians don't need corporate money — a demonstration effect that terrifies every institution that depends on the funding chokeh...
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "14"
 issues:
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Families"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Health"
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Education
+  - Energy
+  - Environmental Protection
+  - Families
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Health
 top-donors:
-  - "Small Dollar Donors (ActBlue)"
-  - "Google employees"
-  - "NYC Dept of Education employees"
+  - Small Dollar Donors (ActBlue)
+  - Google employees
+  - NYC Dept of Education employees
 govtrack-id: 412804
-bioguide-id: "O000172"
+bioguide-id: O000172
 bills-sponsored: 71
 bills-cosponsored: 1608
-website: "https://ocasio-cortez.house.gov"
-phone: "202-225-3965"
-total-received: "$27,733,215"
-fec-candidate-id: "H8NY15148"
+website: https://ocasio-cortez.house.gov
+phone: 202-225-3965
+total-received: $27,733,215
+fec-candidate-id: H8NY15148
 source-types:
   - Congress
   - FEC
@@ -42,23 +42,21 @@ corroboration-count: 3
 known-gaps:
   - 5 sources tagged (URL NEEDED) — Times of Israel, Daily Free Press, Current Affairs, Democratic Left, Fox News. Prevents verified promotion.
   - Committee assignments data needs verification (auto-block pipeline)
-opposes: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
+opposes: "[[Donald Trump]] · [[AIPAC - American Israel Public Affairs Committee]]"
 related: "[[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]"
 needs-reenrichment: true
-reenrich-reason: "run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-18"
 committees:
-  - "House Committee on Energy and Commerce"
-total-raised: "$23,658,045"
-total-spent: "$13,983,781"
+  - House Committee on Energy and Commerce
+total-raised: $23,658,045
+total-spent: $13,983,781
 cash-on-hand: "13408910.09"
 fec-cycle: 2026
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Health"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Health
 ---
 
 

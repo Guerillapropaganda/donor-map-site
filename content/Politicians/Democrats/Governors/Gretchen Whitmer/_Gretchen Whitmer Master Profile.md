@@ -1,23 +1,24 @@
 ---
-title: "Gretchen Whitmer"
+title: Gretchen Whitmer
 type: politician
 content-readiness: data-complete
-central-thesis: "Whitmer is the donor class's ideal 2028 vehicle , progressive branding (reproductive rights, infrastructure, 'Fix the Damn Roads') layered over a pro-business, auto industry-aligned governing record. Michigan's EV manufacturing subsidies are simul..."
-last-updated: 2026-04-16
+central-thesis: Whitmer is the donor class's ideal 2028 vehicle , progressive branding (reproductive rights, infrastructure, 'Fix the Damn Roads') layered over a pro-business, auto industry-aligned governing record. Michigan's EV manufacturing subsidies are simul...
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "Michigan"
-state-abbr: "MI"
+party: Democrat
+chamber: Governor
+state: Michigan
+state-abbr: MI
 last-enriched: "2026-04-08"
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Pete Buttigieg Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[United Auto Workers]] · [[Koch Network - Charles Koch]] · [[General Motors]] · [[Ford Motor Company]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 urls-first-triaged: "2026-04-15"
+opposes: "[[Donald Trump]]"
 ---
 
 

@@ -15,9 +15,7 @@ issues:
   - Israel & Foreign Policy
   - Labor
 related: "[[_Bernie Sanders Master Profile]] · [[_Shontel Brown Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[Third Way]]"
-opposes:
-  - DMFI PAC
-  - Shontel Brown
+opposes: "[[Donald Trump]], [[DMFI - Democratic Majority for Israel]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
@@ -26,7 +24,7 @@ known-gaps:
   - No pipeline enrichment
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+reenrich-reason: no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)
 total-received: $7,693,038
 fec-candidate-id: H2OH11151
 top-donors: "[[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]] · [[The Democratic Action PAC]]"
@@ -34,10 +32,7 @@ donors: "[[The Democratic Action PAC]] · [[Wfp Ie Committee]] · [[THE DEMOCRAT
 urls-first-triaged: "2026-04-15"
 total-raised: $7.7M
 career-total-source: FEC weball summary (cycles 2012, 2020, 2022)
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

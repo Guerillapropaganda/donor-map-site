@@ -1,66 +1,62 @@
 ---
-title: "Democratic Senatorial Campaign Committee"
+title: Democratic Senatorial Campaign Committee
 type: pac
 content-readiness: draft
-last-updated: 2026-04-17
+last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Super PACs"
-entity-type: "PAC"
+sector: Super PACs
+entity-type: PAC
 federal-register-mentions: 33
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Federal Election Commission"
-  - "Postal Regulatory Commission"
-  - "Securities and Exchange Commission"
+  - Federal Election Commission
+  - Postal Regulatory Commission
+  - Securities and Exchange Commission
 related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]] · [[One Nation]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Linda McMahon]] · [[Majority Forward]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[DonorsTrust]] · [[Thom Tillis]] · [[Roger Wicker]] · [[Sheldon Whitehouse]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[Elect Chicago Women PAC]] · [[Think Big AI PAC]] · [[Affordable Chicago Now PAC]]"
 sec-filings: 145
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10KSB"
-  - "20-F"
-  - "424B4"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "EX-99.(P)(11)"
-  - "EX-99.(P)(35)"
-  - "EX-99.(P)(II)"
-  - "EX-99.(P)(VII)"
-  - "EX-99.(P)1.125"
-  - "EX-99.1"
-  - "EX-99.B(P)(17)"
-  - "EX-99.P CODE ETH"
-  - "N-2"
-  - "PRE 14A"
-  - "PRER14A"
-  - "S-1"
-  - "S-1/A"
-  - "U-13-60"
-opposes: "[[Linda McMahon Master Profile]] · [[Thom Tillis Master Profile]]"
+  - 10-K
+  - 10-K/A
+  - 10KSB
+  - 20-F
+  - 424B4
+  - 8-K
+  - ARS
+  - DEF 14A
+  - EX-99.(P)(11)
+  - EX-99.(P)(35)
+  - EX-99.(P)(II)
+  - EX-99.(P)(VII)
+  - EX-99.(P)1.125
+  - EX-99.1
+  - EX-99.B(P)(17)
+  - EX-99.P CODE ETH
+  - N-2
+  - PRE 14A
+  - PRER14A
+  - S-1
+  - S-1/A
+  - U-13-60
+opposes: "[[Linda McMahon]] · [[Thom Tillis]]"
 court-cases: 218
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Third Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Massachusetts"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. North Carolina"
-  - "District Court, N.D. Florida"
-  - "District Court, S.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Third Circuit
+  - District Court, D. Arizona
+  - District Court, D. Massachusetts
+  - District Court, District of Columbia
+  - District Court, E.D. North Carolina
+  - District Court, N.D. Florida
+  - District Court, S.D. Texas
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
@@ -70,7 +66,7 @@ source-types:
   - SEC
 corroboration-count: 3
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 ---
 
 

@@ -16,14 +16,15 @@ top-donors:
   - Michael Bloomberg
   - AIPAC - American Israel Public Affairs Committee
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [[_JB Pritzker Master Profile]] · [[Gretchen Whitmer]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 donors: "[[Jeffrey Yass]], [[AIPAC - American Israel Public Affairs Committee]], [[Michael Bloomberg]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-20
+last-enriched: 2026-04-20T00:00:00.000Z
 source-types:
   - Congress
+opposes: "[[Donald Trump]]"
 ---
 
 

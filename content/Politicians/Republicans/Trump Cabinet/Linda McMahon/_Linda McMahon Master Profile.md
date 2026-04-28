@@ -23,7 +23,7 @@ source-types:
 known-gaps:
   - No voting record data
 last-enriched: "2026-04-09"
-opposes: "[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E]] · [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]]"
+opposes: "[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E]] · [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Majority PAC]] · [[League of Conservation Voters]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E]] · [[Democratic Senatorial Campaign Committee]]"
 related: "[[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]] · [[US Chamber of Commerce]]"
 donors: "[[Brady Campaign]] · [[MAGA Inc]] · [[America First Policy Institute]] · [[US CHAMBER OF COMMERCE]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E]] · [[US Chamber of Commerce]] · [[Majority PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Linda McMahon]] · [[William R. Keating]] · [[ANDRE CARSON FOR CONGRESS]] · [[FreedomWorks for America]] · [[Revere America]] · [[Democratic Senatorial Campaign Committee]] · [[National Right to Life PAC]] · [[Americans for Responsible Leadership]] · [[Senate Majority PAC]] · [[Clay Cope for Congress]]"
 urls-first-triaged: "2026-04-15"

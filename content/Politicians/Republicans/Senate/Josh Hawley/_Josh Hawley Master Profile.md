@@ -23,7 +23,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-opposes: "[[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]] · [[PRIORITIES USA ACTION]]"
+opposes: "[[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]] · [[PRIORITIES USA ACTION]] · [[Majority Forward]] · [[Emilys List]] · [[Priorities USA Action]] · [[Patriots Prevail PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]"
 last-enriched: "2026-04-10"
 govtrack-id: 405245

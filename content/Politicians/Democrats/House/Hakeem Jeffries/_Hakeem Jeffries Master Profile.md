@@ -1,35 +1,35 @@
 ---
-title: "Hakeem Jeffries Master Profile"
+title: Hakeem Jeffries Master Profile
 type: politician
 content-readiness: ready
-central-thesis: "Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don..."
-last-updated: 2026-04-15
+central-thesis: Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "8"
-bioguide-id: "J000294"
+bioguide-id: J000294
 issues:
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-  - "Labor and Employment"
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Congress
+  - Crime and Law Enforcement
+  - Education
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+  - Labor and Employment
 top-donors:
-  - "Real Estate Industry ($365K 2022 cycle)"
-  - "Wall Street / Finance ($600K+ 2022 cycle)"
-  - "AIPAC and affiliated networks ($1.3M+ career)"
-fec-committee-id: "C00481488"
-total-received: "$10,327,241"
-fec-candidate-id: "H2NY10092"
+  - Real Estate Industry ($365K 2022 cycle)
+  - Wall Street / Finance ($600K+ 2022 cycle)
+  - AIPAC and affiliated networks ($1.3M+ career)
+fec-committee-id: C00481488
+total-received: $10,327,241
+fec-candidate-id: H2NY10092
 source-types:
   - FEC
 corroboration-count: 1
@@ -38,36 +38,34 @@ known-gaps:
   - No auto:congress-legislation, auto:govtrack, auto:voting-record blocks. Needs pipeline enrichment when GitHub Actions re-enabled.
   - AIPAC $1.3M career figure needs direct FEC cross-check (currently cited via Sludge Tier 2)
 opposes:
-  - "Progressive caucus insurgents (via gatekeeping mechanisms)"
+  - Progressive caucus insurgents
 donors:
-  - "Real estate developers / landlords"
-  - "Wall Street / Finance"
-  - "AIPAC network"
-  - "Corporate PAC network (via Team Blue PAC)"
+  - Real estate developers / landlords
+  - Wall Street / Finance
+  - AIPAC network
+  - Corporate PAC network (via Team Blue PAC)
 editorial-notes: "Promoted draft→ready. Strong editorial content (4 analytical patterns, donor class map, central thesis on gentrification dynamics, Pelosi-to-Jeffries institutional continuity table), but ONLY 1 Tier 1 source type (FEC). Does NOT qualify for verified-candidate status — needs Congress.gov member profile + House.gov leadership page before verified sign-off. FIXED: moved OpenSecrets from Tier 1 to Archived per Vault Rules. FIXED: removed inline dataview markers (donors::, profile-status::) per frontmatter-only rule. FIXED: removed duplicate ---. Zero A000383 contamination. Zero (URL NEEDED) tags. Re-review for verified after Congress.gov and House leadership sources added."
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Team Blue PAC]] · [[Jobs, Education and Family First]] · [[Real Estate Industry]]"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run congress pipeline
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-15"
-total-raised: "$10,327,241"
-total-spent: "$9,417,063"
+total-raised: $10,327,241
+total-spent: $9,417,063
 cash-on-hand: "5864742.02"
 fec-cycle: 2026
-wikidata-id: "Q5640425"
-wikipedia-url: "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
-wikipedia-extract: "Hakeem Sekou Jeffries is an American politician and attorney who has served as House minority leader and leader of the House Democratic Caucus since 2023."
+wikidata-id: Q5640425
+wikipedia-url: https://en.wikipedia.org/wiki/Hakeem_Jeffries
+wikipedia-extract: Hakeem Sekou Jeffries is an American politician and attorney who has served as House minority leader and leader of the House Democratic Caucus since 2023.
 born: "1970-08-04"
 govtrack-id: 412561
 bills-sponsored: 133
 bills-cosponsored: 1582
-website: "https://jeffries.house.gov"
-phone: "202-225-5936"
+website: https://jeffries.house.gov
+phone: 202-225-5936
 bills-enacted: 0
-bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
-top-policy-area: "Civil Rights and Liberties, Minority Issues"
+bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
+top-policy-area: Civil Rights and Liberties, Minority Issues
 ---
 
 

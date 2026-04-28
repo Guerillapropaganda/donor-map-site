@@ -3,7 +3,7 @@ title: Gavin Newsom
 type: politician
 content-readiness: data-complete
 central-thesis: "Newsom is the perfect specimen of the donor-class Democrat: genuinely progressive on social and cultural issues (immigration, LGBTQ rights, abortion, gun control), reliably capital-aligned on economic structure (taxes on wealth, corporate subsidie..."
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -25,8 +25,8 @@ top-donors:
   - Lennar Corporation
   - National Association of Realtors
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 executive-actions: 10
 last-enriched: "2026-04-09"
 related: ">- · [[Alex Padilla]] · [[CalPERS]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]] · [[Kamala Harris]] · [[Nancy Pelosi]]"
@@ -34,6 +34,7 @@ donors: "[[CalSTRS - California State Teachers' Retirement System]] · [[CalPERS
 urls-first-triaged: "2026-04-15"
 source-types:
   - Congress
+opposes: "[[Donald Trump]]"
 ---
 
 

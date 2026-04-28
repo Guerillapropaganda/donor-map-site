@@ -20,11 +20,9 @@ donors: "[[Tech Industry]] · [[Booz Allen Hamilton]] · [[Chris van Hollen]] ·
 related: "[[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 last-enriched: "2026-04-15"
 issues:
   - Agriculture and Food
@@ -43,6 +41,7 @@ bills-cosponsored: 4563
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+opposes: "[[Donald Trump]]"
 ---
 
 

@@ -45,6 +45,7 @@ bioguide-id: L000560
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Armed Forces and National Security
+opposes: "[[Donald Trump]]"
 ---
 
 

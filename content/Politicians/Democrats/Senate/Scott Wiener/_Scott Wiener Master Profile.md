@@ -26,12 +26,11 @@ known-gaps:
   - No voting record data
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+reenrich-reason: no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)
 total-raised: $3.5M
 career-total-source: FEC weball summary (cycles 2026)
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+opposes: "[[Donald Trump]]"
 ---
 
 

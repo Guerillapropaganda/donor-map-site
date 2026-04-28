@@ -16,11 +16,12 @@ top-donors: "[[California Apartment Association]], [[California Building and Con
 source-types:
   - Congress
 known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
+  - No FEC contribution data
+  - No voting record data
 related: "[[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+opposes: "[[Donald Trump]]"
 ---
 
 

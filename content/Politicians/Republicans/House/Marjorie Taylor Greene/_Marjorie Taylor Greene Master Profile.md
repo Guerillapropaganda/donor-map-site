@@ -20,19 +20,17 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]"
+opposes: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]] · [[The Lincoln Project]] · [[VIEW PAC - Value in Electing Women]] · [[Georgians for Strong Families]] · [[A Great America PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[The Lincoln Project]] · [[THE LINCOLN PROJECT]] · [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[MAGA Small Dollar Base]] · [[A Great America PAC]] · [[DRAIN THE DC SWAMP PAC]] · [[Drain the DC Swamp PAC]] · [[Save America PAC]] · [[Let America Vote PAC]] · [[Jim Jordan]] · [[MAJORITY PAC]] · [[WinRed]] · [[VIEW PAC - Value in Electing Women]] · [[Ben Cline]] · [[Really American Pac]] · [[Everytown for Gun Safety Victory Fund]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[National Rifle Association]] · [[Votevets]] · [[Majority PAC]] · [[Georgians for Strong Families]] · [[JIM JORDAN FOR CONGRESS]] · [[FRIENDS OF MATT GAETZ]] · [[Koch Industries]] · [[NRA Political Victory Fund]] · [[Gun Owners of America]] · [[MARY MILLER FOR CONGRESS]] · [[BEN CLINE FOR CONGRESS, INC.]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[Mary E. Miller]] · [[Matt Gaetz]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-20T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
+reenrich-reason: no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)
 total-raised: $24.2M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024)
 bills-sponsored: 35
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

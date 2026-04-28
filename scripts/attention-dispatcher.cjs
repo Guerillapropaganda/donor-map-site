@@ -123,6 +123,24 @@ const PRODUCERS = [
     args: ['--write'],
     timeout_ms: 120_000,
   },
+  // Rebuild relationship caches — keep frontmatter relationship fields
+  // (donors, top-donors, politicians-funded, opposes) in sync with the
+  // canonical relationships graph. Per Rule 1, those fields are caches
+  // derived from data/relationships.jsonl + data/derived/*.jsonl. Without
+  // a scheduled cadence the caches drift; the 2026-04-28 audit found
+  // 269 graph-only opposes entries on top of the existing donor gaps
+  // because nothing automated was running this script.
+  // Schedule: every 6 hours at :53 (staggered away from other writers).
+  // Touches profile frontmatter, so the canonical-store-sentinel will
+  // permit commits where this script's output and frontmatter changes
+  // are staged together.
+  {
+    name: 'rebuild-relationship-caches',
+    schedule: '53 */6 * * *',
+    script: 'scripts/rebuild-relationship-caches.cjs',
+    args: ['--write'],
+    timeout_ms: 180_000,
+  },
   // Phase 3 Part 4b: bidirectional normalizer + per-profile artifact rebuild.
   // Runs weekly on Sundays at :23 (low frequency — new asymmetries only
   // appear when Research Claude adds one-way related: links). Chains two

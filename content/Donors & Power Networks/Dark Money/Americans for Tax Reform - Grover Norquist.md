@@ -11,7 +11,7 @@ issues:
   - Dark Money & Campaign Finance
 related: American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[ALEC - American Legislative Exchange Council]] · [[Council for National Policy]] · [[American Enterprise Institute]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Heritage Foundation]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Finance and Tech Bundler Network]] · [[Federalist Society]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Donors Capital Fund]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Demand Justice]] · [[Conservative Partnership Institute]]
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 aliases:
   - AMERICANS FOR TAX REFORM
 checklist-na:
@@ -24,12 +24,11 @@ employee-donor-count: 10
 politicians-funded: "[[WinRed]], [[Trump Victory]], [[_Mark Green Master Profile]], [[Mark Green]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: no fec-committee-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+opposes: "[[Raul Grijalva]]"
 ---
 
 

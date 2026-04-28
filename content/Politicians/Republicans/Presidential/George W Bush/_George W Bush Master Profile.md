@@ -22,17 +22,14 @@ presidential-memoranda: 131
 proclamations: 942
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
-opposes: "[[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]]"
+reenrich-reason: no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)
+opposes: "[[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]] · [[DNC - Democratic National Committee]] · [[NRA Political Victory Fund]] · [[National Rifle Association]] · [[National Right to Life PAC]]"
 donors: "[[REPUBLICAN NATIONAL COMMITTEE]] · [[REPUBLICAN PARTY OF FLORIDA]] · [[NRA Political Victory Fund]] · [[Republican Party of Florida]] · [[RNC - Republican National Committee]] · [[National Right to Life PAC]] · [[Ray LaHood]] · [[JOE WILSON FOR CONGRESS]] · [[KAY GRANGER CAMPAIGN FUND]] · [[CVS Health - Aetna]] · [[AFL-CIO]] · [[John R. Carter]] · [[Occidental Petroleum]] · [[Michael R. Turner]] · [[Southern Company]] · [[Marsha Blackburn]] · [[Right to Life of Michigan Political Action Committee]] · [[Ken Calvert]] · [[ADM - Archer Daniels Midland]] · [[PETE SESSIONS FOR CONGRESS]] · [[MBNA Corporation]] · [[Associated General Contractors of America Political Action Committee]] · [[Mississippi Republican Party]] · [[ISSA FOR CONGRESS]] · [[CoreCivic]] · [[Sinclair Broadcast Group]] · [[Michael K. Simpson]] · [[Akin Gump Strauss Hauer & Feld]] · [[MARIO DIAZ-BALART FOR CONGRESS]] · [[Kevin Cramer]] · [[Republican Jewish Coalition]] · [[Bacardi - Bacardi USA]] · [[John Thune]] · [[Tyson Foods]] · [[Campaign for Working Families]] · [[Mike Rogers]] · [[Koch Industries]] · [[Hospital Corporation of America - HCA]] · [[National Cattlemen's Beef Association]] · [[Mitch McConnell]] · [[GREEN FOR CONGRESS]] · [[Sam Graves]] · [[Nucor Corporation]] · [[GEO Group - Private Prison Industrial Complex]] · [[DANIEL WEBSTER PAC]] · [[Dan Coats]] · [[Monsanto - Bayer]] · [[Pete Sessions]] · [[Mario Diaz-Balart]] · [[Darrell Issa]] · [[Joe Wilson]] · [[Mark Green]] · [[Kay Granger]]"
 wikidata-id: Q207
 wikipedia-url: https://en.wikipedia.org/wiki/George_W._Bush
 wikipedia-extract: George Walker Bush is an American politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009.
 born: "1946-07-06"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

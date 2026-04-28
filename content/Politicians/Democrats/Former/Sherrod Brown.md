@@ -23,11 +23,9 @@ known-gaps:
   - No source-types detected
 needs-reenrichment: true
 reenrich-reason: demote to draft
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • The profile's own known-gaps field says it needs a fresh pipeline run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 total-raised: $14,356,451
 total-spent: $4,456,809
 cash-on-hand: "9899641.92"
@@ -53,6 +51,7 @@ born: "1952-11-09"
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+opposes: "[[Fairshake PAC]], [[Donald Trump]]"
 ---
 
 
