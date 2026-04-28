@@ -12,7 +12,7 @@ aliases:
 known-gaps:
   - No lobbying disclosure data
 opposes: "[[Josh Hawley]]"
-politicians-funded: "[[Josh Hawley]], [[DATA FOR PROGRESS]], [[LEFT RISING]], [[CREST STRATEGIES LLC]], [[SHOW ME RESEARCH]]"
+politicians-funded: "[[DATA FOR PROGRESS]], [[LEFT RISING]], [[CREST STRATEGIES LLC]], [[SHOW ME RESEARCH]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

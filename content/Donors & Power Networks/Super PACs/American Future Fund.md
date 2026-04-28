@@ -11,18 +11,18 @@ source-tier: 1
 aliases:
   - AMERICAN FUTURE FUND
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 opposes: "[[Kyrsten Sinema]]"
-politicians-funded: "[[Rick Larsen]], [[Kyrsten Sinema]], [[Martin Heinrich]], [[Donors Trust]]"
+politicians-funded: "[[Rick Larsen]], [[Martin Heinrich]], [[Donors Trust]]"
 related: "[[Martin Heinrich]] · [[Rick Larsen]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-21
-total-political-spend: "$200K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $200K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020
 ---
 
 

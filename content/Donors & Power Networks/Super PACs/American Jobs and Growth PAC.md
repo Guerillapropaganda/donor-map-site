@@ -12,7 +12,7 @@ aliases:
 known-gaps:
   - No lobbying disclosure data
 opposes: "[[Michael Waltz]]"
-politicians-funded: "[[Michael Waltz]], [[Donald Trump]], [[JBA CONSULTING]], [[CYGNAL]], [[THE TARRANCE GROUP]], [[RED MAVERICK MEDIA LLC]], [[NICHOLS, MATT]], [[CAPITAL CORNERED, LLC]], [[QUINCY STRATEGIES, LLC]], [[Stephanie I. Bice]], [[Susan Collins]]"
+politicians-funded: "[[Donald Trump]], [[JBA CONSULTING]], [[CYGNAL]], [[THE TARRANCE GROUP]], [[RED MAVERICK MEDIA LLC]], [[NICHOLS, MATT]], [[CAPITAL CORNERED, LLC]], [[QUINCY STRATEGIES, LLC]], [[Stephanie I. Bice]], [[Susan Collins]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

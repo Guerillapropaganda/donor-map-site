@@ -12,7 +12,7 @@ aliases:
 known-gaps:
   - No lobbying disclosure data
 opposes: "[[Kyrsten Sinema]] · [[Mark Kelly]]"
-politicians-funded: "[[Kyrsten Sinema]], [[Mark Kelly]], [[DMM MEDIA]], [[LOVAS CO, LLC]], [[PUBLIC OPINION STRATEGIES, LLC]], [[HOLTZMAN VOGEL JOSEFIAK TORCHINSKY PLLC]], [[MARSON MEDIA]], [[Freedom Partners Chamber of Commerce]], [[THREE ARBOR INSURANCE]], [[OPN SESAME]], [[TARGETPOINT CONSULTING, INC.]]"
+politicians-funded: "[[DMM MEDIA]], [[LOVAS CO, LLC]], [[PUBLIC OPINION STRATEGIES, LLC]], [[HOLTZMAN VOGEL JOSEFIAK TORCHINSKY PLLC]], [[MARSON MEDIA]], [[Freedom Partners Chamber of Commerce]], [[THREE ARBOR INSURANCE]], [[OPN SESAME]], [[TARGETPOINT CONSULTING, INC.]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

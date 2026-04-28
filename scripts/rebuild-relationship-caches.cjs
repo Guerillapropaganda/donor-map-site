@@ -39,6 +39,7 @@ const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 const MONETARY_ONLY = process.argv.includes('--monetary-only');
 const REPORT_ORPHANS = process.argv.includes('--report-orphans');
+const APPLY_APPROVED = process.argv.includes('--apply-approved');
 
 // ─── Load canonical edges ─────────────────────────────────────────────────
 // Uses the relationships-store library (see scripts/lib/relationships-store.cjs)
@@ -465,8 +466,120 @@ function reportOrphans() {
   console.log();
 }
 
+// ─── ADR-0027 P3: --apply-approved ────────────────────────────────────
+//
+// Walks data/frontmatter-orphan-candidates.jsonl, finds records in
+// state=approved-prune (set by editor via /relationships/orphans), and
+// strips the orphan name from the corresponding profile's frontmatter
+// field. Then flips the record state to resolved.
+//
+// This is the WRITE half of ADR-0027. P1 (--report-orphans) finds
+// orphans, P2 (ops UI) lets editor mark approved-prune, P3 (this) does
+// the actual frontmatter mutation.
+//
+// Runs in dry-run by default. Pass --write to persist:
+//   node scripts/rebuild-relationship-caches.cjs --apply-approved
+//   node scripts/rebuild-relationship-caches.cjs --apply-approved --write
+
+function applyApproved() {
+  const orphanStore = require('./lib/frontmatter-orphan-candidates-store.cjs');
+  console.log('═══ rebuild-relationship-caches --apply-approved ═══');
+  console.log(`  mode: ${WRITE ? 'WRITE' : 'DRY RUN'}`);
+  console.log();
+
+  const allRecords = orphanStore.loadAll();
+  const approved = allRecords.filter((r) => r.state === 'approved-prune');
+  if (approved.length === 0) {
+    console.log('  no records in state=approved-prune — nothing to do.');
+    return;
+  }
+  console.log(`  ${approved.length} approved-prune record(s) queued for application`);
+
+  // Group by profile_path so we touch each file once.
+  const byProfile = new Map();
+  for (const r of approved) {
+    const p = path.join(ROOT, r.profile_path);
+    if (!byProfile.has(p)) byProfile.set(p, []);
+    byProfile.get(p).push(r);
+  }
+
+  let filesEdited = 0;
+  let recordsApplied = 0;
+  const failures = [];
+  const now = new Date().toISOString();
+  const idsToResolve = new Set();
+
+  for (const [filePath, records] of byProfile) {
+    if (!fs.existsSync(filePath)) {
+      for (const r of records) failures.push({ id: r.id, reason: 'profile_path missing on disk' });
+      continue;
+    }
+    const content = fs.readFileSync(filePath, 'utf-8');
+    const fm = parseFrontmatter(content);
+    if (!fm) {
+      for (const r of records) failures.push({ id: r.id, reason: 'frontmatter parse failed' });
+      continue;
+    }
+
+    const newFm = { ...fm };
+    let changedThisFile = false;
+
+    for (const r of records) {
+      const field = r.field;
+      const before = newFm[field];
+      const beforeNames = extractWikilinks(before);
+      if (!beforeNames.has(r.name)) {
+        // Already not present — auto-resolve and skip.
+        idsToResolve.add(r.id);
+        continue;
+      }
+      // Build a new wikilink string with r.name removed
+      const remaining = [...beforeNames].filter((n) => n.toLowerCase() !== r.name.toLowerCase());
+      if (remaining.length === 0) {
+        delete newFm[field];
+      } else {
+        newFm[field] = buildWikilinkString(new Set(remaining), before);
+      }
+      changedThisFile = true;
+      recordsApplied++;
+      idsToResolve.add(r.id);
+      if (VERBOSE) console.log(`  − [[${r.name}]] from ${r.profile_path} (${field})`);
+    }
+
+    if (changedThisFile && WRITE) {
+      const newContent = replaceFrontmatter(content, newFm);
+      fs.writeFileSync(filePath, newContent, 'utf-8');
+      filesEdited++;
+    } else if (changedThisFile) {
+      filesEdited++; // count for dry-run reporting
+    }
+  }
+
+  // Flip resolved records' state
+  if (WRITE && idsToResolve.size > 0) {
+    const resolveSet = new Set(idsToResolve);
+    const updated = allRecords.map((r) => {
+      if (!resolveSet.has(r.id)) return r;
+      return { ...r, state: 'resolved', resolved_at: now, last_seen: now };
+    });
+    orphanStore.persistAll(updated);
+  }
+
+  console.log();
+  console.log(`  files ${WRITE ? 'edited' : 'would edit'}: ${filesEdited}`);
+  console.log(`  records ${WRITE ? 'applied' : 'would apply'}: ${recordsApplied}`);
+  console.log(`  records auto-resolved (already absent): ${idsToResolve.size - recordsApplied}`);
+  if (failures.length > 0) {
+    console.log(`  failures: ${failures.length}`);
+    for (const f of failures) console.log(`    ${f.id}: ${f.reason}`);
+  }
+  if (!WRITE) console.log('\n  DRY RUN — re-run with --write to apply.');
+}
+
 if (REPORT_ORPHANS) {
   reportOrphans();
+} else if (APPLY_APPROVED) {
+  applyApproved();
 } else {
   main();
 }
