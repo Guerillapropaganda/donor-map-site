@@ -32,6 +32,7 @@ const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
 const { upsertEdges } = require('./lib/relationships-store.cjs');
+const { computeEdgeId } = require('./lib/relationship-edge-validator.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
 const GRANTS = 'C:\\donor-map-data\\fec\\nonprofit-grants.jsonl';
@@ -127,9 +128,19 @@ async function* streamJsonl(filePath) {
     const cycle = String(row.year);
     // id is computed by the store from (from, to, type, cycle) — we set a
     // placeholder and the validator's expectedId check is run by upsertEdges.
-    const crypto = require('crypto');
-    const parts = [row.from, row.to, 'monetary', cycle];
-    const id = crypto.createHash('sha1').update(parts.join('|'), 'utf8').digest('hex').slice(0, 16);
+    // Use computeEdgeId from the validator so ID matches what upsertEdges
+    // expects after role was added 2026-04-28. Local hash here used to
+    // produce IDs without role; the validator includes role when it's set.
+    // After the role addition, the local hash diverged and upsertEdges
+    // rejected every update with "expected X, got Y" errors.
+    const edgeShape = {
+      from: row.from,
+      to: row.to,
+      type: 'monetary',
+      cycle,
+      role: 'direct-contribution',
+    };
+    const id = computeEdgeId(edgeShape);
 
     edges.push({
       id,
@@ -138,6 +149,14 @@ async function* streamJsonl(filePath) {
       from_type: row.from_type,
       to_type: row.to_type,
       type: 'monetary',
+      // role=direct-contribution. The edge-taxonomy classifier's
+      // applySourceUpgrade() rule promotes (DIRECT_CONTRIBUTION,
+      // source=irs-990-bulk) → PHILANTHROPIC_GRANT, which is the
+      // correct category for IRS 990 Schedule I grants. Previously
+      // role was unset (undefined) and Layer 3 throws on roleless
+      // monetary edges, so consumers were skipping all 2,201 grant
+      // edges instead of classifying them as grants. 2026-04-28 fix.
+      role: 'direct-contribution',
       direction: 'directed',
       amount: row.amount,
       cycle,
