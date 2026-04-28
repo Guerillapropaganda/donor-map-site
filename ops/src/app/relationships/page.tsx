@@ -4,7 +4,7 @@ import { useState, useEffect, useRef, useCallback, useMemo } from "react"
 import { PageHeader } from "@/components/PageHeader"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
-import { fetchVault } from "@/lib/vault-cache"
+import { fetchVault, fetchConnections } from "@/lib/vault-cache"
 import {
   forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
   select, zoom as d3Zoom, zoomIdentity, drag as d3Drag,
@@ -726,7 +726,7 @@ export default function RelationshipsPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/api/connections").then((r) => r.json()),
+      fetchConnections(),
       fetchVault(),
     ]).then(([connData, vaultData]) => {
       setConnections(connData.connections || [])
@@ -825,7 +825,7 @@ export default function RelationshipsPage() {
         body: JSON.stringify({ sourcePath: selected.path, targetTitle, relationshipType: toType }),
       })
       showToast(`Changed: ${targetTitle} → ${REL_LABELS[toType]}`)
-      const connData = await fetch("/api/connections").then((r) => r.json())
+      const connData = await fetchConnections()
       setConnections(connData.connections || [])
       setTopConnected(connData.topConnected || [])
       setBreakdown(connData.breakdown || breakdown)
@@ -848,7 +848,7 @@ export default function RelationshipsPage() {
       if (data.error) showToast(data.error)
       else {
         showToast(`Removed: ${selected.title} × ${targetTitle}`)
-        const connData = await fetch("/api/connections").then((r) => r.json())
+        const connData = await fetchConnections()
         setConnections(connData.connections || [])
         setTopConnected(connData.topConnected || [])
         setBreakdown(connData.breakdown || breakdown)
@@ -874,7 +874,7 @@ export default function RelationshipsPage() {
       else {
         showToast(`Connected: ${selected.title} → ${targetTitle}`)
         setTargetSearch("")
-        const connData = await fetch("/api/connections").then((r) => r.json())
+        const connData = await fetchConnections()
         setConnections(connData.connections || [])
         setTopConnected(connData.topConnected || [])
         setBreakdown(connData.breakdown || breakdown)

@@ -445,6 +445,28 @@ export async function GET(request: Request) {
     } catch {}
   }
 
+  // Source freshness — read stats from financial-disclosures.json directly.
+  // The pipeline writes stats.lastUpdated on each scrape; we surface it so
+  // the UI can show a timestamp + a stale warning when the pipeline hasn't
+  // run on schedule. Pipeline cron is daily 06:00 UTC; we treat >36h as stale.
+  let sourceLastUpdated: string | null = null
+  let sourceStale = false
+  let sourceAgeMinutes: number | null = null
+  if (currentExists) {
+    try {
+      const raw = JSON.parse(fs.readFileSync(CURRENT_FILE, "utf-8"))
+      const ts = raw?.stats?.lastUpdated
+      if (typeof ts === "string") {
+        sourceLastUpdated = ts
+        const ageMs = Date.now() - new Date(ts).getTime()
+        if (Number.isFinite(ageMs) && ageMs >= 0) {
+          sourceAgeMinutes = Math.round(ageMs / 60000)
+          sourceStale = sourceAgeMinutes > 36 * 60  // 36h threshold
+        }
+      }
+    } catch {}
+  }
+
   // Crypto top tickers
   const topCryptoTickers = Object.entries(cryptoTickers)
     .map(([ticker, data]) => ({ ticker, ...data, total: data.buys + data.sells, volume: data.buyAmt + data.sellAmt }))
@@ -491,6 +513,9 @@ export async function GET(request: Request) {
       current: currentExists,
       historical: historicalExists,
       historicalYears,
+      lastUpdated: sourceLastUpdated,
+      ageMinutes: sourceAgeMinutes,
+      stale: sourceStale,
     },
   })
 }

@@ -192,6 +192,14 @@ const CHECKS = [
     queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
   },
   {
+    name: 'capitol-trades-freshness',
+    description: 'STOCK Act pipeline (financial-disclosures-pipeline.cjs) freshness check. Reads stats.lastUpdated from data/financial-disclosures.json; flags if >36h old (pipeline cron is daily 06:00 UTC). Catches silent pipeline failures so /capitol-trades doesn\'t serve increasingly stale data unnoticed.',
+    cmd: ['node', 'scripts/capitol-trades-freshness-check.cjs', '--json'],
+    parse: parseCapitolTradesFreshness,
+    timeout_ms: 10000,
+    queue: { bucket: 'compounding', leverage: 1, cost_min: 5 },
+  },
+  {
     name: 'frontmatter-schema',
     description: 'Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired)',
     cmd: ['node', 'scripts/frontmatter-schema-validator.cjs', '--json'],
@@ -553,6 +561,18 @@ function parseStoryPagesIntegrity(stdout, _stderr, _exit) {
     return {
       findings_count: j.findings_count || 0,
       notes: j.notes || `${j.stories_scanned || 0} stories scanned`,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseCapitolTradesFreshness(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    return {
+      findings_count: j.findings_count || 0,
+      notes: j.notes || 'capitol trades freshness',
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
