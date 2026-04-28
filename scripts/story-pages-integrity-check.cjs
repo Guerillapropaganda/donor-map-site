@@ -43,10 +43,28 @@
 
 const fs = require("fs")
 const path = require("path")
+const { createCanonicalNameResolver } = require("./lib/canonical-name-resolver.cjs")
+const {
+  loadMonetaryPairs,
+  hasMonetaryEdge,
+} = require("./lib/librarian-monetary-pairs.cjs")
 
 const ROOT = path.resolve(__dirname, "..")
 const STORIES_FILE = path.join(ROOT, "data", "stories.jsonl")
 const CONTENT_DIR = path.join(ROOT, "content")
+
+// Per ADR-0024: integrity checks consult the librarian, not raw
+// frontmatter. Staleness asks "does the canonical relationship graph
+// still back this story?" not "does this profile's frontmatter cache
+// still list both names?"
+let _librarian = null
+function getLibrarian() {
+  if (_librarian) return _librarian
+  const resolver = createCanonicalNameResolver()
+  const pairs = loadMonetaryPairs(resolver)
+  _librarian = { resolver, pairs }
+  return _librarian
+}
 
 const JSON_OUT = process.argv.includes("--json")
 const WRITE = process.argv.includes("--write")
@@ -104,87 +122,54 @@ function buildProfileIndex() {
 
 function resolveProfile(ref) {
   // ref can be "[[Wikilink]]", a plain name, or "ent_xxx".
-  // We only resolve wikilinks + plain names here (entity refs are
-  // resolved separately if needed; for the integrity check, we just
-  // care that something exists for that reference).
+  // Per ADR-0024 we ask the librarian's resolver first — it understands
+  // alias forms (e.g. `_Foo Master Profile` → `Foo`) the bare file-index
+  // would miss. Only when the resolver has no entity AND no file matches
+  // do we report broken-ref.
   if (typeof ref !== "string" || !ref.trim()) return null
   let cleaned = ref.trim()
   const wikiMatch = cleaned.match(/^\[\[(.+?)\]\]$/)
   if (wikiMatch) cleaned = wikiMatch[1]
-  // Skip ent_xxx — we don't resolve those here
   if (/^ent_[a-z0-9_]+$/i.test(cleaned)) return "entity-ref-skipped"
+  // Librarian-first
+  const { resolver } = getLibrarian()
+  const ent = resolver.entityFor(cleaned)
+  if (ent) return ent.profile_path || "librarian-resolved"
+  // Fallback: filename index (catches profiles the librarian hasn't
+  // indexed yet — e.g. a fresh draft without a canonical entity record).
   const idx = buildProfileIndex()
   return idx.get(cleaned.toLowerCase()) || null
 }
 
-function parseFrontmatter(text) {
-  const m = text.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)/)
-  if (!m) return null
-  // Lazy-load js-yaml only if we have something to parse
-  let yaml
-  try { yaml = require("js-yaml") } catch { return null }
-  try { return yaml.load(m[1]) } catch { return null }
+function stripWikilink(s) {
+  const m = String(s || "").match(/^\[\[(.+?)\]\]$/)
+  return m ? m[1].trim() : String(s || "").trim()
 }
 
 /**
- * Re-validate a both-sides finding against the current profile data.
- * Returns true if the counterparty still appears in BOTH donors+opposes.
+ * Re-validate a both-sides finding against the canonical relationship
+ * graph (ADR-0024). The candidate is stale when the librarian no longer
+ * shows a monetary edge between subject and counterparty — at that point
+ * the claim has no source to trace back to (Rule 4) and should be
+ * archived.
+ *
+ * Pre-refactor this read both endpoints' frontmatter caches; that meant
+ * an editor pruning a frontmatter typo would falsely "stale" a story
+ * that was librarian-backed all along, and a stale frontmatter cache
+ * would keep a librarian-orphaned story alive. Both modes are gone now.
  */
 function bothSidesStillHolds(story) {
-  // subject is wikilinked; counterparty is plain name (per backfill format)
   const subjectEntry = (story.linked_entities || []).find((e) => e.role === "subject")
   const counterpartyEntry = (story.linked_entities || []).find((e) => e.role === "counterparty")
-  if (!subjectEntry || !counterpartyEntry) return null  // can't check
-
-  const profilePath = resolveProfile(subjectEntry.ref)
-  if (!profilePath || profilePath === "entity-ref-skipped") return null  // can't check
-
-  let text
-  try { text = fs.readFileSync(profilePath, "utf-8") } catch { return null }
-  const data = parseFrontmatter(text)
-  if (!data) return null
-
-  // Normalize: lowercase + trim + collapse whitespace
-  const normalize = (s) => String(s).toLowerCase().trim().replace(/\s+/g, " ")
-  const target = normalize(counterpartyEntry.ref)
-
-  const donors = new Set([
-    ...extractEntityList(data.donors),
-    ...extractEntityList(data["top-donors"]),
-  ].map(normalize))
-  const opposes = new Set(extractEntityList(data.opposes).map(normalize))
-
-  return donors.has(target) && opposes.has(target)
-}
-
-/**
- * Pull entity names out of a frontmatter field that may be either a
- * YAML array OR a single delimited string. Vault schema inconsistency:
- *   - Some profiles: donors: ["Name A", "Name B"]
- *   - Some profiles: donors: "[[Name A]] · [[Name B]]"
- * Strips wikilink brackets.
- */
-function extractEntityList(field) {
-  if (!field) return []
-  if (Array.isArray(field)) {
-    return field
-      .filter((x) => typeof x === "string")
-      .map(stripWikilink)
-      .filter((s) => s.trim().length > 0)
-  }
-  if (typeof field === "string") {
-    return field
-      .split(/\s+[·,;|]\s+/g)
-      .map((s) => s.trim())
-      .filter((s) => s.length > 0)
-      .map(stripWikilink)
-  }
-  return []
-}
-
-function stripWikilink(s) {
-  const m = s.match(/^\[\[(.+?)\]\]$/)
-  return m ? m[1].trim() : s.trim()
+  if (!subjectEntry || !counterpartyEntry) return null
+  const subjectName = stripWikilink(subjectEntry.ref)
+  const counterpartyName = stripWikilink(counterpartyEntry.ref)
+  if (!subjectName || !counterpartyName) return null
+  // Skip when either endpoint is an entity-ref (ent_xxx) — that path is
+  // handled by the entities store, not the name-keyed monetary index.
+  if (/^ent_[a-z0-9_]+$/i.test(subjectName) || /^ent_[a-z0-9_]+$/i.test(counterpartyName)) return null
+  const { resolver, pairs } = getLibrarian()
+  return hasMonetaryEdge(pairs, subjectName, counterpartyName, resolver)
 }
 
 function dedupKey(story) {
@@ -234,7 +219,7 @@ function checkStory(story, dedupCounts) {
     if (holds === false) {
       return {
         status: "stale",
-        note: "Counterparty no longer appears in both donors and opposes of the source profile. The pattern that triggered this candidate has been edited away.",
+        note: "Librarian no longer shows a monetary edge between subject and counterparty. The relationship-graph backing for this candidate is gone — archive (or re-investigate if the edge should exist).",
       }
     }
   }
