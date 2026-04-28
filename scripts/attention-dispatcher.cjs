@@ -141,12 +141,21 @@ const PRODUCERS = [
     args: ['--write'],
     timeout_ms: 180_000,
   },
-  // Phase 3 Part 4b: bidirectional normalizer + per-profile artifact rebuild.
-  // Runs weekly on Sundays at :23 (low frequency — new asymmetries only
-  // appear when Research Claude adds one-way related: links). Chains two
-  // scripts: first the normalizer creates mirror edges, then the
-  // per-profile artifact is rebuilt so the Quartz build picks up the
-  // latest state.
+  // Phase 3 Part 4b + 2026-04-28 schedule fix.
+  //
+  // The normalizer mirrors one-way related: links (low-frequency churn
+  // from Research Claude editorial work) so it stays weekly Sundays at :23.
+  //
+  // The per-profile-artifact MOVED from weekly to DAILY at 3:25 AM after a
+  // structural regression cascade discovered 2026-04-28. build-profile-data-panels
+  // runs daily at 4 AM and consumes data/relationships-per-profile.json.
+  // With the artifact regenerating only weekly, 6 days out of 7 the data-panels
+  // rebuilt from a stale artifact and produced systematic top-N drift across
+  // politician + corporate profiles (Pfizer's $91K Clyburn vanishing, ADM's
+  // Durbin dropping out, AOC's NEA collapsing). Daily artifact regen + 35-min
+  // lead before data-panels closes the propagation gap. Timeout bumped from
+  // 60s to 90s — the librarian-driven build takes ~10s normally but spikes
+  // higher during dispatcher overlap.
   {
     name: 'bidirectional-normalizer',
     schedule: '23 3 * * 0',
@@ -155,9 +164,9 @@ const PRODUCERS = [
   },
   {
     name: 'per-profile-artifact',
-    schedule: '25 3 * * 0',
+    schedule: '25 3 * * *',
     script: 'scripts/build-relationships-per-profile.cjs',
-    timeout_ms: 60_000,
+    timeout_ms: 90_000,
   },
   // Congressional financial disclosures (STOCK Act PTR filings).
   // PAUSED 2026-04-28 per David's "all pipelines local-runs only" call.

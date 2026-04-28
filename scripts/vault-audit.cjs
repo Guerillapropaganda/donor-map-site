@@ -328,6 +328,14 @@ const CHECKS = [
     timeout_ms: 10000,
     queue: { bucket: 'compounding', leverage: 2, cost_min: 5 },
   },
+  {
+    name: 'calibration-drift',
+    description: "Semantic regression detector. Loads data/calibration-fixture.jsonl (curated top-N facts: 'Pfizer top-15 must include Clyburn, McCarthy, Hoyer') and verifies the current data/relationships-per-profile.json artifact still satisfies them. Fires within the dispatcher cycle when any fixture's must_include names drop out of the actual top-N. Catches the structural class of bug behind the 2026-04-28 cascade (stale artifact -> bad data-panels) regardless of upstream cause: role-tag drift, propagation gap, classifier change, librarian rewiring all surface the same way. Add fixtures by appending JSONL lines.",
+    cmd: ['node', 'scripts/calibration-drift-check.cjs', '--json'],
+    parse: parseCalibrationDrift,
+    timeout_ms: 30000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -636,6 +644,17 @@ function parseClassTagStaleness(stdout, _stderr, _exit) {
   try {
     const j = JSON.parse(stdout);
     return { findings_count: j.findings_count || 0, notes: j.notes };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseCalibrationDrift(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const failed = j.findings || [];
+    const note = `${j.fixtures_passed || 0}/${j.fixtures_total || 0} fixtures pass${failed.length ? '. Failing: ' + failed.slice(0, 3).map((f) => `${f.profile}/${f.bucket}`).join(', ') + (failed.length > 3 ? ` +${failed.length - 3} more` : '') : ''}`;
+    return { findings_count: j.findings_count || 0, notes: note };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
   }
