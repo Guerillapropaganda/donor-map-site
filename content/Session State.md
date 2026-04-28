@@ -4,6 +4,97 @@ type: system
 last-updated: 2026-04-28
 ---
 
+## HANDOFF — 2026-04-28 EVENING (Bowman-shape bug class fully closed — 13 commits)
+
+**Context:** Code Claude. Worktree `claude/sleepy-snyder-346eee`, Opus 4.7 (1M context). Continuation from earlier 2026-04-28 PM session. One user question — *"Fairshake spent $2 million on ads opposing Jamaal Bowman. Is that what we are seeing?"* — opened a structural investigation that traced a misclassification class across the librarian and closed it end-to-end.
+
+### THE ARC (7 phases)
+
+**(1) Story-card receipt buttons (commit `fc9ded696`)** — Started session by adding 💰 money / 🔗 evidence / ✍️ draft from evidence buttons per /stories card. Powered by `ops/src/lib/story-evidence.ts`. Bowman/Fairshake question surfaced when David spot-checked the buttons.
+
+**(2) FEC committee-stub-resolution (commit `aed29c154`)** — Wrote `scripts/fec-committee-stub-audit.cjs`. Found 371 unregistered committee_ids in FEC edges (13,818 edges total). 368/371 (99.2%) auto-matched existing entities by exact `fec_name`; 3 manual mappings (Markey×2, Tenney). Originally framed as ~10hr multi-session project; actually closed in 30 minutes once an audit ran. Stub-audit registered in `vault-audit.cjs` so future ingests can't reintroduce stubs silently.
+
+**(3) Architectural diagnosis** — Mapped the bug to three layers: Layer 1 (FEC zip data) not buggy, Layer 2 (ingest with stale role=null output), Layer 3 (consumer silent default). Two distinct bugs to fix.
+
+**(4) Layer 3 throw (commit `dbc7be608`)** — `lib/donor-map/edge-taxonomy.ts` + CJS twin no longer silently default empty/null roles on monetary edges to direct-contribution. They throw. Consumers (story-evidence, cache rebuilder) wrap classifyEdge in try/catch — bad edges get SKIPPED instead of miscounted. Permanent prevention against the failure mode.
+
+**(5) Phase A: re-ingest + aggregator registry fallback (commit `de83a77f0`)** — Re-ingested 4 cycles (2020/2022/2024/2026) of FEC PAS2 zips through `ingest-fec-pas2-bulk.cjs`. Patched `aggregate-pas2-to-edges.cjs` to consult `fec-committee-registry.json` as fallback when entity signals don't have committee_id set. cmte index 2,645 → 2,939 (+294 from registry fallback). 30,695 new properly-tagged edges. Upsert dedup healed 11,406 of the 14,294 legacy fec-bulk role=null edges automatically (-80%).
+
+**(6) IRS 990 ingester fix + 6 registry repoints + full re-aggregate (commit `1a02ea6a6`)** — `scripts/ingest-990-grants-to-edges.cjs` was writing edges with no role field; now tags `role: 'direct-contribution'` (which auto-upgrades to PHILANTHROPIC_GRANT via source-upgrade). Used `computeEdgeId` from validator to avoid ID divergence. 2,201 → 103 role=undefined irs-990 edges (-95%). Audited 6 broken registry mappings (registry → vault_profile pointed at non-existent entities); applied 3 repoints (NRSC, DSCC, Fairshake to canonical) + 3 unmaps (Medicare for All, DOGE PAC, Leading the Future — no matching entity). Re-ingested all 24 PAS2 cycles (1980-2026): 122k edges, 1,763 ie-oppose. **Fairshake → Bowman now correctly classified as `role: ie-oppose`, `amount: $2,078,023`, `source: fec-pas2`.**
+
+**(7) Final close (commits `5a4a96eae`, `3b8929bcc`)** — Patched `ingest-fec-bulk.cjs` `bucketToRole` to write `direct-contribution` (was returning null for direct-donor — broken under Layer 3). Migrated 2,346 fec-bulk role=null edges in place (amount ≤ $10k → direct-contribution + recompute IDs); held 542 over-cap edges back. Added new harness check `scripts/role-empty-monetary-check.cjs` registered in vault-audit.cjs — continuous regression detection for the bug class. Deprecated the 518 over-cap role-null edges (status=deprecated with audit-trail evidence; matches earlier Fairshake-5 deprecation pattern). **Result: 16,495 → 0 active role-empty monetary edges (-100%).**
+
+### Commits this session (13 in chain)
+
+- `fc9ded696` — /stories: 💰/🔗/✍️ buttons per card (story-evidence shared lib)
+- `ca2330046` — relationship-overlap harness check + Crypto Industry Bloc/Warren ghost fix (16 ghosts cleaned)
+- `11e5841c7` — ADR-0027 proposed (frontmatter cache prune mode)
+- `15be5255f` — ADR-0027 P1 shipped (orphan-candidates store + harness)
+- `1b4a57984` — librarian-gap-audit harness check
+- `a39a04cea` — Resolver auto-alias `_Foo Master Profile`
+- `3c1fe872f` — Resolver bare profile-stem auto-alias
+- `4d2a216f1` — 12 FEC-edge alias entries on entities.jsonl
+- `aed29c154` — FEC committee-stub-resolution (371 stubs → 0)
+- `dbc7be608` — Layer 3: classifyEdge throws on roleless monetary
+- `de83a77f0` — Phase A: re-ingest PAS2 + aggregator reads registry
+- `1a02ea6a6` — 990 ingester + 6 registry repoints + 1980-2026 re-aggregate
+- `5a4a96eae` — fec-bulk ingester fix + migration + regression harness
+- `3b8929bcc` — Final close: deprecate 518 + status-filter on harness
+
+### State of the repo
+
+**Bowman-shape bug class fully closed** with 3-layer verification:
+- **Prevention:** `edge-taxonomy.ts` throws on roleless monetary edges (no silent miscounts possible)
+- **Detection:** `role-empty-monetary-edges` harness check runs every 15 min; rises = ingester regressed
+- **Repair:** `/relationships/orphans` ops UI + apply-approved P3 (editor-in-the-loop)
+
+**Harness state (5/6 surface-clean):**
+```
+role-empty-monetary-edges:        ✓ 0
+fec-committee-stub-audit:         ✓ 0
+frontmatter-orphan-candidates:    ✓ 0
+relationship-overlap:             ✓ 0
+harness-self-audit:               ✓ 0
+librarian-gap-audit:              △ 107  (alias work, separate domain)
+```
+
+**Cumulative across two sessions today (21 commits total):**
+- librarian unresolvable wikilinks: 7,128 → 178 appearances (-97.5%)
+- FEC committee stubs: 371 → 0
+- role-empty active monetary edges: 16,495 → 0
+- 16 ghost donations cleaned via apply-approved (P3 round-trip proven)
+- 525 historical edges deprecated with audit-trail evidence
+- Three new harness checks running continuously
+- ADR-0027 fully shipped (P1 + P2 + P3)
+
+### Known issues / NEXT-SESSION PRIORITIES
+
+1. **`/relationships/orphans` ops page is unreachable from navigation.** Page exists at `ops/src/app/relationships/orphans/page.tsx` (shipped today as ADR-0027 P2) and the API works at `/api/relationships/orphans`. But: (a) no sidebar link in `ops/src/components/Sidebar.tsx`, (b) no link/button on the existing `/relationships` page pointing at it. Has to be typed manually. **Fix:** add a sidebar entry under ANALYZE → Relationships → Orphans (or similar nesting), AND/OR add a tab/button on `/relationships/page.tsx` linking to it. Probably 15-20 min. Also worth checking which local server you're hitting — worktree's ops dev (port 3334+ via `ops-dashboard-bypass`) vs main repo's ops dev. The worktree has a Windows junction at `ops/node_modules` → main repo's so both run; just make sure you're on the one with today's commits.
+
+2. **Editorial follow-ups still open from earlier sessions:**
+   - 22 frontmatter-only opposes entries (Wesley-Bell-pattern, concept-level) — David's lane
+   - 156 pending class-tag proposals
+   - 13 reconciled rows pending review
+   - DOGE PAC entity has no profile_path — could create a stub if a profile is wanted
+
+3. **Refactor non-frontmatter audits to use the librarian (per ADR-0024).** Today's audit refactor (commit `5e6142226`) covered librarian-gap-audit, frontmatter-orphan-check, and relationship-overlap-check. There may be other detectors (contradiction-miner, story-pages-integrity, etc.) still reading frontmatter directly. ADR-0026 tracks this as architectural debt. Worth a sweep when alias work isn't urgent.
+
+4. **Architecture follow-ups carried from earlier:**
+   - AtStartup trigger on dispatcher task (needs elevated PowerShell)
+   - Capital_type Path B batch-tagger (~3-4hr)
+   - Calendar / sprint-schedule auto-wiring (~2hr)
+   - Rulebook audit (~1-2hr) vs ADRs 0017/0022/0024
+   - Money Trail "actually about money" rebuild (own session)
+
+### Critical context for incoming chat
+
+- Pipeline state unchanged: ALL pipelines paused except RSS Intelligence + Auto-Connection Engine (manual GitHub Actions). Local CSV bulk scripts in `data/bulk/` are explicitly allowed (Rule 3) and were used heavily this session.
+- Dispatcher daemon **PID 40280 still running** from earlier today's task install. Don't Ctrl+C without deliberate restart.
+- 6 of 6 harness checks now have explicit roles in the regression-detection loop. The Layer 3 throw is the structural backstop; if anyone re-introduces the bug class via a new ingest path, the throw + the role-empty-monetary harness check will surface it within 15 min.
+- 525 deprecated fec-bulk edges (status=deprecated, role=null) sit in `data/derived/fec-bulk.jsonl` with audit-trail evidence. They're invisible to active reads but kept for traceability. If/when you want to re-classify them with proper ie-support/ie-oppose tags, that requires re-ingesting source FEC zips with txn_tp codes preserved (own session, ~1hr).
+
+---
+
 ## HANDOFF — 2026-04-28 PM (Story-card buttons + ADR-0027 frontmatter cache prune mode + librarian gap audit + alias rules — 8 commits)
 
 **Context:** Code Claude. Worktree `claude/sleepy-snyder-346eee`, Opus 4.7 (1M context). Continuation from earlier 2026-04-28 session — fresh chat opened to riff on Stories triage UX. Single user question ("why is the card so spartan?") opened an arc that found a load-bearing architectural asymmetry, shipped P1 of a new ADR, and produced the librarian-gap priority queue with the first two items closed.
