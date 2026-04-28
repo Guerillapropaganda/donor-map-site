@@ -288,6 +288,20 @@ const PRODUCERS = [
   // entries where the source line is now `[x]` or has line-drifted. Result:
   // /bugs page is a live truth board, not a stale 2026-04-15 snapshot.
   // Established 2026-04-27 as part of the /bugs live-truth-board refactor.
+  // Bugs auto-resolver — Layer A predicate-based auto-resolution.
+  // Runs at 04:24 (one minute BEFORE bug-queue-parser at 04:25) so its
+  // resolutions land in time for the parser's daily manifest rebuild.
+  // Items in phase exit-criteria can declare auto-resolve-when comments
+  // pointing at a harness-check, regex-on-file, file-exists, or jsonl-empty
+  // predicate; this script evaluates them and flips `[ ]` → `[x]` when
+  // satisfied. Closes the /bugs-stays-at-zero loop.
+  {
+    name: 'bugs-auto-resolver',
+    schedule: '24 4 * * *',
+    script: 'scripts/bugs-auto-resolver.cjs',
+    args: ['--write'],
+    timeout_ms: 60_000,
+  },
   {
     name: 'bug-queue-parser',
     schedule: '25 4 * * *',
