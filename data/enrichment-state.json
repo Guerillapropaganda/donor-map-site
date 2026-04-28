@@ -15,5 +15,11 @@
     "RSS Intelligence Pipeline",
     "Auto-Connection Engine"
   ],
-  "to_resume": "Set paused: false here, then: gh workflow enable <id> --repo Guerillapropaganda/donor-map-engine for each workflow you want back. Raise GitHub spending limit first if still capped."
+  "local_pipelines_paused": true,
+  "local_pipelines_paused_since": "2026-04-28",
+  "local_pipelines_paused_reason": "David's 'all pipelines local-runs only' call (2026-04-28). Extends the API-pipeline pause to dispatcher producers that also hit external APIs. Currently the only such producer is financial-disclosures (Senate EFDS + House Clerk scraper). It has been commented out in scripts/attention-dispatcher.cjs. The capitol-trades-freshness harness check is also commented out so it doesn't flag noise while paused.",
+  "local_pipelines_paused_producers": [
+    "financial-disclosures (scripts/financial-disclosures-pipeline.cjs)"
+  ],
+  "to_resume": "Set paused: false here, then: gh workflow enable <id> --repo Guerillapropaganda/donor-map-engine for each workflow you want back. Raise GitHub spending limit first if still capped. To resume local pipelines, ALSO set local_pipelines_paused: false and uncomment the corresponding entries in scripts/attention-dispatcher.cjs and scripts/vault-audit.cjs CHECKS array."
 }

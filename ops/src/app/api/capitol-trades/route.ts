@@ -446,12 +446,28 @@ export async function GET(request: Request) {
   }
 
   // Source freshness — read stats from financial-disclosures.json directly.
-  // The pipeline writes stats.lastUpdated on each scrape; we surface it so
-  // the UI can show a timestamp + a stale warning when the pipeline hasn't
-  // run on schedule. Pipeline cron is daily 06:00 UTC; we treat >36h as stale.
+  // Also check enrichment-state.json to know if the pipeline is intentionally
+  // paused; if so, the UI shows a "paused" indicator instead of a stale
+  // warning. Pipeline (when active) cron is daily 06:00 UTC; >36h = stale.
   let sourceLastUpdated: string | null = null
   let sourceStale = false
   let sourceAgeMinutes: number | null = null
+  let pipelinePaused = false
+  let pipelinePausedReason: string | null = null
+
+  // Check pause flag (enrichment-state.json holds GitHub Actions state +
+  // local_pipelines_paused for the dispatcher producers we manually paused)
+  try {
+    const stateFile = path.join(ROOT, "data", "enrichment-state.json")
+    if (fs.existsSync(stateFile)) {
+      const state = JSON.parse(fs.readFileSync(stateFile, "utf-8"))
+      if (state?.local_pipelines_paused === true || state?.paused === true) {
+        pipelinePaused = true
+        pipelinePausedReason = state.local_pipelines_paused_reason || state.reason || "pipelines paused"
+      }
+    }
+  } catch {}
+
   if (currentExists) {
     try {
       const raw = JSON.parse(fs.readFileSync(CURRENT_FILE, "utf-8"))
@@ -461,7 +477,9 @@ export async function GET(request: Request) {
         const ageMs = Date.now() - new Date(ts).getTime()
         if (Number.isFinite(ageMs) && ageMs >= 0) {
           sourceAgeMinutes = Math.round(ageMs / 60000)
-          sourceStale = sourceAgeMinutes > 36 * 60  // 36h threshold
+          // Don't flag as "stale" if the pipeline is intentionally paused —
+          // staleness then is expected, not a bug.
+          sourceStale = !pipelinePaused && sourceAgeMinutes > 36 * 60
         }
       }
     } catch {}
@@ -516,6 +534,8 @@ export async function GET(request: Request) {
       lastUpdated: sourceLastUpdated,
       ageMinutes: sourceAgeMinutes,
       stale: sourceStale,
+      paused: pipelinePaused,
+      pausedReason: pipelinePausedReason,
     },
   })
 }
