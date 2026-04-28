@@ -356,22 +356,29 @@ function entityForms(name, entityIndex) {
 
 function reportOrphans() {
   const store = require('./lib/frontmatter-orphan-candidates-store.cjs');
+  const { createCanonicalNameResolver } = require('./lib/canonical-name-resolver.cjs');
   console.log('═══ rebuild-relationship-caches --report-orphans ═══');
   console.log('  Scope: politicians-funded only (P1 per ADR-0027)');
   console.log();
 
-  const entityIndex = buildEntityFormsIndex();
-  console.log(`  ${entityIndex.size} entity name forms indexed (canonical + aliases + path-stems)`);
+  // Per ADR-0024: route every name lookup through the librarian's
+  // resolver. Today's alias additions (entities.jsonl) and FEC committee
+  // mappings (fec-committee-registry.json) flow through automatically —
+  // no need for the local entityForms index that was the previous
+  // workaround. Edges with fec_name forms canonicalize to entity names
+  // before the orphan probe runs, so e.g. edges from "BANK OF AMERICA,NA"
+  // unify with "Bank of America" edges, and the 13,818-edge FEC stub
+  // resolution sweep done 2026-04-28 PM is reflected in counts.
+  const resolver = createCanonicalNameResolver();
 
   const edges = loadEdges();
   console.log(`  ${edges.length} active canonical edges loaded`);
 
-  // Index outgoing monetary edges from each entity. We sum counts so the
-  // candidate record can carry a non-zero `librarian_monetary_edges` if any
-  // edge exists, matching the field semantic ("any backing edge counts").
-  const monetaryOut = new Map();          // fromKey → Map<toKey, count>
-  const oppositionOut = new Map();        // fromKey → Map<toKey, count>
-  const oppositionInRev = new Map();      // toKey   → Map<fromKey, count>
+  // Edge maps keyed by CANONICAL name (resolver-resolved). Variant forms
+  // collapse into one bucket per entity.
+  const monetaryOut = new Map();          // canonicalFrom → Map<canonicalTo, count>
+  const oppositionOut = new Map();
+  const oppositionInRev = new Map();
   function bump(map, k1, k2) {
     if (!map.has(k1)) map.set(k1, new Map());
     const inner = map.get(k1);
@@ -379,8 +386,10 @@ function reportOrphans() {
   }
   for (const e of edges) {
     if (!e.from || !e.to) continue;
-    const fk = e.from.toLowerCase();
-    const tk = e.to.toLowerCase();
+    const fromCanon = resolver.resolve(e.from);
+    const toCanon = resolver.resolve(e.to);
+    const fk = String(fromCanon || e.from).toLowerCase();
+    const tk = String(toCanon || e.to).toLowerCase();
     if (e.type === 'monetary' && e.role !== 'ie-oppose') {
       bump(monetaryOut, fk, tk);
     } else if (e.type === 'monetary' && e.role === 'ie-oppose') {
@@ -416,46 +425,20 @@ function reportOrphans() {
     const opposesNames = extractWikilinks(fm.opposes);
     const opposesLower = new Set([...opposesNames].map((n) => n.toLowerCase()));
 
-    // Alias-aware probe per ADR-0024: edges may be keyed by the subject's
-    // canonical name OR any of its declared aliases (entities.jsonl
-    // `aliases` field) OR a profile-path-derived stem. Walk every form
-    // so an alias-form edge isn't silently treated as missing.
-    const subjectForms = entityForms(subject, entityIndex);
-    function probeSubjectMap(map, name) {
-      const k = name.toLowerCase();
-      let total = 0;
-      for (const form of subjectForms) {
-        const inner = map.get(form);
-        if (inner) total += (inner.get(k) || 0);
-      }
-      return total;
-    }
+    // Resolver-based probe per ADR-0024: edges are now keyed by canonical
+    // entity names (resolver canonicalized them at index-build time), so
+    // a single resolve(subject) → canonical key probe sees every alias /
+    // FEC-committee variant of subject's edges.
+    const subjectCanon = (resolver.resolve(subject) || subject).toLowerCase();
 
     for (const name of fundedNames) {
-      // Same alias-aware probe on the politician side.
-      const targetForms = entityForms(name, entityIndex);
-      function sumByTarget(map) {
-        let total = 0;
-        for (const form of subjectForms) {
-          const inner = map.get(form);
-          if (!inner) continue;
-          for (const tf of targetForms) total += (inner.get(tf) || 0);
-        }
-        return total;
-      }
-      const monEdges = sumByTarget(monetaryOut);
+      const targetCanon = (resolver.resolve(name) || name).toLowerCase();
+      const monEdges = (monetaryOut.get(subjectCanon)?.get(targetCanon) || 0);
       // Opposition edges in EITHER direction count as "real relationship,
       // even though no $ flowed for-side." That's the librarian-gap signal:
       // we know they're connected, just not monetarily.
-      const oppEdgesOut = sumByTarget(oppositionOut);
-      // Opposition-In: the politician's name is the from, subject is the to.
-      // Build the symmetric probe by swapping roles.
-      let oppEdgesIn = 0;
-      for (const tf of targetForms) {
-        const inner = oppositionInRev.get(tf);
-        if (!inner) continue;
-        for (const sf of subjectForms) oppEdgesIn += (inner.get(sf) || 0);
-      }
+      const oppEdgesOut = (oppositionOut.get(subjectCanon)?.get(targetCanon) || 0);
+      const oppEdgesIn = (oppositionInRev.get(targetCanon)?.get(subjectCanon) || 0);
       const oppEdges = oppEdgesOut + oppEdgesIn;
 
       if (monEdges > 0) continue; // backed — not an orphan

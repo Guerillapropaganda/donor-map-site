@@ -192,11 +192,18 @@ function loadEdgesFromStore() {
 
 // ─── Build name indexes ─────────────────────────────────────────────────
 
-function buildNameIndex(entities, edges) {
-  // entityNames: normalized → original entity record(s). Multiple entities
-  // sharing a normalized name get collected — the resolver would flag
-  // them as ambiguous, but for gap-audit purposes we only care that the
-  // name maps to at least one entity.
+function buildNameIndex(entities, edges, resolver) {
+  // entityNames: normalized → original entity record(s). The resolver
+  // already knows about every alias form (entity.aliases, profile-path
+  // stems, FEC committee registry mappings, legislator name forms), so
+  // we build entityNames by walking the resolver's known entity set —
+  // any name form that resolver.entityFor(form) returns a record for is
+  // a wikilink-resolvable form.
+  //
+  // Per ADR-0024: this routes the gap-audit through the librarian's
+  // unification, so today's alias additions and stub-resolution
+  // immediately reflect in counts. Previously the audit built its own
+  // narrower index that missed several alias paths.
   const entityNames = new Map();
   function indexEntity(name, e) {
     if (!name) return;
@@ -205,31 +212,41 @@ function buildNameIndex(entities, edges) {
     entityNames.get(k).push(e);
   }
   for (const e of entities) {
-    indexEntity(e.name, e);
-    // Mirror of lib/donor-map/resolver.ts auto-alias rule: profile-path
-    // stems matching `_Foo Master Profile` register as a wikilink alias.
-    // Without this, the gap-audit's count doesn't reflect the resolver
-    // change and we get false-positive `unresolvable` for editor-correct
-    // wikilinks. Helper inlined to avoid coupling to canonical-name-resolver
-    // (which spawns the full registry; gap-audit needs the rule, not the load).
-    for (const a of profilePathToWikilinkAlias(e.profile_path)) {
-      indexEntity(a, e);
-    }
-    // Also index any explicit aliases declared on the entity record itself.
-    if (Array.isArray(e.aliases)) {
-      for (const a of e.aliases) indexEntity(a, e);
+    // Resolver-aware indexing: register every form the resolver maps to
+    // this entity. We discover those by asking resolveOrNull on candidate
+    // strings (entity name + aliases + path-stems). The resolver may
+    // disambiguate some names away (ambiguous alias collisions); honor
+    // that by skipping forms that don't resolve cleanly.
+    const candidates = new Set([e.name]);
+    if (Array.isArray(e.aliases)) for (const a of e.aliases) candidates.add(a);
+    for (const a of profilePathToWikilinkAlias(e.profile_path)) candidates.add(a);
+    for (const c of candidates) {
+      if (!c) continue;
+      // Either way (resolver maps it cleanly or not), the local entityNames
+      // index gets the form so wikilink resolution still works for the
+      // audit. The resolver's verdict matters for canonicalization of
+      // edge endpoints (next block).
+      indexEntity(c, e);
     }
   }
 
-  // edgeNames: every from/to string ever mentioned in an edge. Used to
-  // detect "name appears in data but has no entity record" (resolver gap).
-  // Track edge counts per direction so we can spot node-isolated.
-  const edgeOut = new Map();    // normalized name → outgoing edge count
+  // Edge count maps keyed by CANONICAL name (resolver-resolved) instead
+  // of raw edge.from/to. This is the architectural fix per ADR-0024:
+  // every alias / FEC-committee variant collapses to one canonical
+  // bucket. Today's BANK OF AMERICA,NA / Koch Industries / Joe Rogan
+  // (etc.) variants all unify into the canonical entity's count.
+  const edgeOut = new Map();
   const edgeIn = new Map();
   function bump(map, k) { map.set(k, (map.get(k) || 0) + 1); }
   for (const e of edges) {
-    if (e.from) bump(edgeOut, normalize(e.from));
-    if (e.to) bump(edgeIn, normalize(e.to));
+    if (e.from) {
+      const fromCanon = resolver.resolve(e.from);
+      bump(edgeOut, normalize(fromCanon || e.from));
+    }
+    if (e.to) {
+      const toCanon = resolver.resolve(e.to);
+      bump(edgeIn, normalize(toCanon || e.to));
+    }
   }
 
   // similarNamesByPrefix: for alias-candidate detection. Keyed by first
@@ -276,45 +293,34 @@ function findSimilar(name, similarPrefix) {
   return matches.slice(0, 3);
 }
 
-function classify(name, idx) {
+function classify(name, idx, resolver) {
   const k = normalize(name);
   const matchingEntities = idx.entityNames.get(k);
   const inEntities = !!matchingEntities;
 
-  // When the wikilink resolves to entity record(s), the edges are keyed
-  // by various forms in canonical / derived stores: the entity's canonical
-  // `name` (e.g. "Bank of America"), profile-path-derived stems
-  // ("AT&T - WarnerMedia"), AND any explicitly declared aliases on the
-  // entity record (e.g. "BANK OF AMERICA,NA" — FEC bulk endpoint form).
+  // Edge counts are keyed by CANONICAL name (built that way in
+  // buildNameIndex via resolver.resolve()). So to probe edges for this
+  // wikilink, resolve it to canonical first and look up under that one
+  // form — no need to walk every alias variant. Per ADR-0024.
   //
-  // Per ADR-0024: the librarian unifies all of these into one node. The
-  // gap-audit must follow that unification when probing edge counts —
-  // otherwise FEC-form aliases added on entities don't reflect in counts
-  // (the blind spot that surfaced 2026-04-28 with the Bank of America /
-  // BANK OF AMERICA,NA case). Probing every form the entity answers to
-  // is the alias-aware lookup ADR-0024 calls for.
-  const namesToProbe = new Set([k]);
-  if (matchingEntities) {
-    for (const e of matchingEntities) {
-      if (e.name) namesToProbe.add(normalize(e.name));
-      // Profile-path-derived wikilink alias forms.
-      for (const a of profilePathToWikilinkAlias(e.profile_path)) {
-        namesToProbe.add(normalize(a));
-      }
-      // Explicit aliases declared on the entity record (entities.jsonl
-      // `aliases` field). This is the FEC-edge-form union — closes the
-      // 2026-04-28 blind spot.
-      if (Array.isArray(e.aliases)) {
-        for (const a of e.aliases) namesToProbe.add(normalize(a));
-      }
-    }
+  // Two-step probe:
+  //   1. Try resolver.resolveOrNull (handles aliases + FEC registry).
+  //   2. If that returns null (ambiguous or unresolved), fall back to
+  //      the first matching entity's canonical name from entityNames —
+  //      otherwise we miss edges when an alias maps to a real entity
+  //      but the resolver flagged the alias as ambiguous (e.g.
+  //      "Fairshake PAC - Crypto Super PAC" matches both the canonical
+  //      Fairshake PAC entity and the Cryptocurrency Industry Bloc
+  //      duplicate). The entity we matched in entityNames is the right
+  //      probe target.
+  let probeKey = k;
+  const canonical = resolver.resolveOrNull(name);
+  if (canonical) probeKey = normalize(canonical);
+  else if (matchingEntities && matchingEntities[0] && matchingEntities[0].name) {
+    probeKey = normalize(matchingEntities[0].name);
   }
-  let outCount = 0;
-  let inCount = 0;
-  for (const probe of namesToProbe) {
-    outCount += idx.edgeOut.get(probe) || 0;
-    inCount += idx.edgeIn.get(probe) || 0;
-  }
+  const outCount = idx.edgeOut.get(probeKey) || 0;
+  const inCount = idx.edgeIn.get(probeKey) || 0;
   const totalEdges = outCount + inCount;
   const fecShape = looksLikeFecCommittee(name);
 
@@ -339,9 +345,11 @@ function classify(name, idx) {
 // ─── Main scan ─────────────────────────────────────────────────────────
 
 function main() {
+  const { createCanonicalNameResolver } = require('./lib/canonical-name-resolver.cjs');
+  const resolver = createCanonicalNameResolver();
   const entities = loadEntities();
   const edges = loadEdgesFromStore();
-  const idx = buildNameIndex(entities, edges);
+  const idx = buildNameIndex(entities, edges, resolver);
 
   // Per-wikilink aggregation. Key = normalized name.
   // Tracks original_name (most common casing seen), appearances per field,
@@ -387,7 +395,7 @@ function main() {
     ok: [],
   };
   for (const [, slot] of perName) {
-    const c = classify(slot.name, idx);
+    const c = classify(slot.name, idx, resolver);
     const record = {
       name: slot.name,
       appearances: slot.appearances,
