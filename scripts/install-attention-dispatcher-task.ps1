@@ -4,24 +4,28 @@
 # producer on its own schedule (voice-drift every 30min, promotion
 # queue hourly, top-N weekly, etc).
 #
-# Task configuration (revised 2026-04-28):
-#   - Three triggers for resilience:
-#       1. AtLogOn  — start when user logs in
-#       2. AtStartup — start when machine boots (covers reboots without
-#          user logon, e.g. update-driven restarts)
-#       3. Daily at 04:00 — auto-restart so node-cron's known >24h-uptime
-#          quirk (which silently skips daily ticks) gets a clean reset
+# Task configuration (verified working 2026-04-29):
+#   - One trigger: AtLogOn — start when user logs in
 #   - Working directory: main repo at C:\Users\third\donor-map-site
 #     (NOT this worktree; the worktree disappears between sessions)
 #   - Restart on failure every 5 minutes, up to 3 times
-#   - Runs under current user, no elevated privileges needed
+#   - Runs under current user, RunLevel Limited, no elevation needed
 #
-# Why three triggers: the previous AtLogOn-only config left the task
-# dormant whenever the user-mode session existed but the dispatcher
-# died (Ctrl+C, crash). LastTaskResult 0xC000013A on 2026-04-25
-# documented exactly this — the dispatcher exited and stayed dead until
-# next logoff/logon. AtStartup catches reboots; the daily restart
-# covers the cron-state-stale case.
+# !! AtStartup attempted 2026-04-28 + 2026-04-29 — does NOT work !!
+# Register-ScheduledTask returns 0x80070005 (Access denied) when an
+# AtStartup trigger is combined with a -User <regular_user> task, even
+# from elevated PowerShell. Boot-time triggers fire before any user
+# session exists, so Windows requires either:
+#   - `-User "SYSTEM"` (runs as SYSTEM at boot — different user PATH;
+#     verify the dispatcher's writes still land in the right places)
+#   - `-LogonType S4U` (still your user, no password — needs "Log on as
+#     a batch job" right granted in local security policy first)
+# Neither has been validated. See:
+#   ~/.claude/projects/.../memory/project_dispatcher_atstartup_blocked.md
+#
+# Practical impact: the gap is "machine reboots without user logon
+# soon after." Rare in practice. The currently-running dispatcher
+# process survives task-definition edits — only fresh boots are at risk.
 #
 # Run once to install, re-run to reinstall with latest config.
 # Uninstall with:  schtasks /Delete /TN "DonorMap Attention Dispatcher" /F
@@ -45,19 +49,11 @@ $action = New-ScheduledTaskAction `
     -Argument "--max-old-space-size=4096 `"$Script`"" `
     -WorkingDirectory $MainRepo
 
-# Two triggers — AtLogOn (existing) + AtStartup (new 2026-04-28).
-# AtStartup catches the case where the OS reboots without a user logon
-# (Windows Update auto-restart). Previously the task was AtLogOn-only,
-# which left the daemon dormant after Ctrl+C until next manual logoff.
-#
-# A daily auto-restart trigger was considered for the node-cron 24h
-# uptime quirk, but Windows Task Scheduler can't kill an existing
-# long-lived task instance via the PowerShell cmdlet's enum (the
-# raw XML supports StopExisting, but the cmdlet doesn't). Manual
-# restart of the dispatcher handles cron-staleness when needed.
-$triggerLogon = New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME
-$triggerStartup = New-ScheduledTaskTrigger -AtStartup
-$triggers = @($triggerLogon, $triggerStartup)
+# AtLogOn only. AtStartup was attempted twice and failed both times
+# — see header docstring + memory note for the full story. If you want
+# to revisit, the change is to switch -User / -LogonType in the
+# Register-ScheduledTask call below; the trigger array is the easy part.
+$triggers = @(New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME)
 
 # Restart 3 times at 5-min intervals if the process crashes; keep
 # running indefinitely between logons. No time limit.
@@ -76,7 +72,7 @@ Register-ScheduledTask `
     -Action $action `
     -Trigger $triggers `
     -Settings $settings `
-    -Description "DonorMap attention-queue producers. Triggers: AtLogon + AtStartup + Daily 4am restart (cron-state reset)." `
+    -Description "DonorMap attention-queue producers. Trigger: AtLogOn (AtStartup deferred — Windows rejects under -User regular_user; needs SYSTEM or S4U)." `
     -User $env:USERNAME `
     -RunLevel Limited | Out-Null
 
