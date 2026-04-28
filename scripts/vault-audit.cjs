@@ -72,6 +72,15 @@ const NO_QUEUE = args.includes('--no-queue');
 
 const CHECKS = [
   {
+    name: 'fec-committee-stub-audit',
+    description:
+      "FEC committee_ids referenced on edges that aren't mapped in fec-committee-registry.json. Resolved 2026-04-28 PM (371 → 0). This check stays at 0 going forward; if a future FEC ingest introduces new stubs, findings_count > 0 and they need a registry entry. Run audit with --apply to auto-resolve exact-name matches.",
+    cmd: ['node', 'scripts/fec-committee-stub-audit.cjs', '--json'],
+    parse: parseFecCommitteeStubAudit,
+    timeout_ms: 90000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
+  },
+  {
     name: 'librarian-gap-audit',
     description:
       "Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage.",
@@ -340,6 +349,24 @@ function parseNoteAutoResolver(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'Resolver parse failed.' };
+  }
+}
+
+function parseFecCommitteeStubAudit(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const stubs = j.findings_count || 0;
+    const total = j.total_stubs || 0;
+    const resolvable = j.resolved_by_exact_name || 0;
+    return {
+      findings_count: stubs,
+      notes:
+        stubs === 0
+          ? 'Clean — all FEC committee_ids in edges have registry mappings.'
+          : `${stubs} unregistered committee_id(s); ${resolvable} resolvable by exact name (run --apply); ${total} total.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'fec-stub-audit parse failed' };
   }
 }
 
