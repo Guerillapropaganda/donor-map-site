@@ -188,8 +188,12 @@ function stripWikilink(s) {
 }
 
 function dedupKey(story) {
-  // Used for duplicate detection — same subject + counterparty + type = duplicate
-  const subj = (story.linked_entities || []).find((e) => e.role === "subject")?.ref || ""
+  // Used for duplicate detection — same subject + counterparty + type = duplicate.
+  // Returns null when subject is missing — stories without a subject can't be
+  // meaningfully clustered (would otherwise group all empty-subject stories
+  // of the same detector_type as "duplicates of each other," which is wrong).
+  const subj = (story.linked_entities || []).find((e) => e.role === "subject")?.ref
+  if (!subj) return null
   const cp = (story.linked_entities || []).find((e) => e.role === "counterparty")?.ref || ""
   return `${story.detector_type}|${subj.toLowerCase()}|${cp.toLowerCase()}`
 }
@@ -244,6 +248,7 @@ function main() {
   for (const s of stories) {
     if (s.state === "archived") continue  // archived doesn't compete for dedup
     const k = dedupKey(s)
+    if (!k) continue  // skip stories that can't form a cluster key (no subject)
     dedupCounts.set(k, (dedupCounts.get(k) || 0) + 1)
   }
 
