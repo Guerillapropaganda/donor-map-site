@@ -9194,10 +9194,11 @@
     "party": "REP",
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/NRSC - National Republican Senatorial Committee.md",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/National Republican Senatorial Committee.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-28T14:46:59.414Z",
+    "mapping_reason": " [repointed 2026-04-28 PM: previous target was a profile without an entity record; canonical entity exists at the new path]"
   },
   "C00028787": {
     "committee_id": "C00028787",
@@ -9306,10 +9307,11 @@
     "party": "DEM",
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/DSCC - Democratic Senatorial Campaign Committee.md",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Democratic Senatorial Campaign Committee.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-28T14:46:59.414Z",
+    "mapping_reason": " [repointed 2026-04-28 PM: previous target was a profile without an entity record; canonical entity exists at the new path]"
   },
   "C00043489": {
     "committee_id": "C00043489",
@@ -14287,10 +14289,11 @@
     "party": null,
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Politicians/Independent/Senate/Bernie Sanders/Medicare for All - The Policy That Broke the Party.md",
-    "status": "mapped",
+    "vault_profile": null,
+    "status": "unresolved-no-entity",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-28T14:46:59.414Z",
+    "mapping_reason": " [unmapped 2026-04-28 PM: previous target was not an entity (policy/story page). No matching vault entity exists yet — leave unmapped until one is created.]"
   },
   "C00687103": {
     "committee_id": "C00687103",
@@ -16147,11 +16150,12 @@
     "party": null,
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/Fairshake PAC - Crypto Super PAC.md",
+    "vault_profile": "content/Donors & Power Networks/Tech & Crypto/Fairshake PAC.md",
     "status": "mapped",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-23T16:57:12.650Z",
-    "display_name": "Fairshake PAC"
+    "updated": "2026-04-28T14:46:59.414Z",
+    "display_name": "Fairshake PAC",
+    "mapping_reason": " [repointed 2026-04-28 PM: previous target was a profile without an entity record; canonical entity exists at the new path]"
   },
   "C00836767": {
     "committee_id": "C00836767",
@@ -16881,10 +16885,11 @@
     "party": null,
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Politicians/Republicans/Presidential/Donald Trump/DOGE/DOGE - The Billionaires Government.md",
-    "status": "mapped",
+    "vault_profile": null,
+    "status": "unresolved-no-entity",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-28T14:46:59.414Z",
+    "mapping_reason": " [unmapped 2026-04-28 PM: previous target was not an entity (policy/story page). No matching vault entity exists yet — leave unmapped until one is created.]"
   },
   "C00893271": {
     "committee_id": "C00893271",
@@ -17137,10 +17142,11 @@
     "party": null,
     "aliases": [],
     "source": "fec-committee-master-bulk",
-    "vault_profile": "content/Stories/Published/Investigations/AI Deregulation Super PAC - Leading the Future.md",
-    "status": "mapped",
+    "vault_profile": null,
+    "status": "unresolved-no-entity",
     "added": "2026-04-16T01:43:28.086Z",
-    "updated": "2026-04-16T01:43:28.086Z"
+    "updated": "2026-04-28T14:46:59.414Z",
+    "mapping_reason": " [unmapped 2026-04-28 PM: previous target was not an entity (policy/story page). No matching vault entity exists yet — leave unmapped until one is created.]"
   },
   "C00917542": {
     "committee_id": "C00917542",
