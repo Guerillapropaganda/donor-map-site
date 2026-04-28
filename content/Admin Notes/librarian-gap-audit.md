@@ -47,43 +47,32 @@ one of five buckets:
 
 5. **`ok`** — Name resolves cleanly to a node with edges. Not a gap.
 
-## Latest snapshot (2026-04-28)
+## Latest snapshot (2026-04-28, post `_Master Profile` alias rule)
 
 ```
 11,244 unique wikilinks across guarded fields
-   7,463  ok
+   7,931  ok                       ↑ +468 (was 7,463)
    3,090  alias-candidate
-     655  unresolvable
+     187  unresolvable             ↓ −468 (was 655)
       18  node-isolated
       18  fec-committee-suspect
 ```
 
+**`_Master Profile` alias rule landed 2026-04-28.** Both `_Foo Master
+Profile` and `Foo Master Profile` wikilink forms now auto-alias to the
+canonical entity via `lib/donor-map/resolver.ts → profilePathToWikilinkAlias`
+(mirrored in `scripts/lib/canonical-name-resolver.cjs`). One rule closed
+**468 unique wikilinks / 5,924 appearances** of the dominant gap class.
+high_leverage findings count dropped 274 → 118.
+
 **Top closable buckets by appearance volume:**
 
-### 1. The `_Foo Master Profile` wikilink convention (~1,500 appearances)
+### 1. ✅ The `_Foo Master Profile` wikilink convention — RESOLVED 2026-04-28
 
-Quartz's file naming convention is `_Politician Master Profile.md`. Many
-profiles wikilink the file stem (`[[_Donald Trump Master Profile]]`)
-instead of the canonical name (`[[Donald Trump]]`). The librarian's
-resolver uses the entity's `name` field, which doesn't include the
-`_Master Profile` prefix. Top offenders:
-
-```
-306  _Donald Trump Master Profile
-150  _Jon Ossoff Master Profile
-141  _Marco Rubio Master Profile
-127  _Gavin Newsom Master Profile
-120  _Ted Cruz Master Profile
-116  _Nancy Pelosi Master Profile
-106  _Kamala Harris Master Profile
- 92  _Tim Scott Master Profile
-... (40+ more)
-```
-
-**Fix shape:** Either (a) add an alias resolution rule in
-`scripts/lib/canonical-name-resolver.cjs` that strips leading `_` and
-trailing ` Master Profile`, OR (b) sweep the vault and rewrite the
-wikilinks to the canonical form. Aliasing is cheaper and reversible.
+Closed by adding `profilePathToWikilinkAlias()` to the resolver. Both
+`_Foo Master Profile` and `Foo Master Profile` wikilink forms now
+auto-resolve to the canonical entity. **468 unique names / 5,924
+appearances** moved from `unresolvable` → `ok`.
 
 ### 2. Real entities aliased to FEC variants (~3,000 appearances)
 
@@ -165,14 +154,15 @@ to `data/fec-committee-registry.json`, then re-runs FEC ingestion.
 
 ## Priority order (recommended)
 
-| # | Action | Effort | Closes |
-|---|--------|--------|--------|
-| 1 | Add `_Foo Master Profile` alias rule in resolver | ~1hr | ~1,500 appearances |
-| 2 | Sweep `_VAULT_INDEX` and similar system noise from `related:` | ~30min | ~10 |
-| 3 | Add aliases for top-20 by-volume alias-candidates (Emily's List → Emilys List, etc.) | ~2hr | ~2,500 appearances |
-| 4 | FEC committee-stub-resolution (separate ~10hr project) | ~10hr | ~80 + journalistic accuracy on Fairshake-shape stories |
-| 5 | Run Media & Influence Pipeline on node-isolated outlets | ~2hr | ~600 |
-| 6 | Editorial review of remaining alias-candidates (false-positive screening) | ongoing | ~500+ |
+| # | Action | Effort | Closes | Status |
+|---|--------|--------|--------|--------|
+| 1 | Add `_Foo Master Profile` alias rule in resolver | ~1hr | 5,924 appearances | ✅ done 2026-04-28 |
+| 2 | Sweep `_VAULT_INDEX` and similar system noise from `related:` | ~30min | ~10 | open |
+| 3 | Add aliases for top-20 by-volume alias-candidates (Emily's List → Emilys List, etc.) | ~2hr | ~2,500 appearances | open |
+| 4 | FEC committee-stub-resolution (separate ~10hr project) | ~10hr | ~80 + Fairshake-shape stories | open |
+| 5 | Add aliases / entity records for top remaining `unresolvable` (AT&T, Raytheon, Honeywell — 700+ appearances) | ~1-2hr | ~700 appearances | open |
+| 6 | Run Media & Influence Pipeline on node-isolated outlets | ~2hr | ~600 | open |
+| 7 | Editorial review of remaining alias-candidates (false-positive screening) | ongoing | ~500+ | open |
 
 ## What auto-resolves vs needs manual work
 

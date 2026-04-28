@@ -48,6 +48,28 @@ function readJsonlLines(filePath) {
 }
 
 /**
+ * Mirror of lib/donor-map/resolver.ts → profilePathToWikilinkAlias().
+ *
+ * The vault's politician master files use `_Foo Master Profile.md` stems
+ * and editors write wikilinks as `[[_Foo Master Profile]]`. The canonical
+ * entity `name` is just `Foo`. Auto-registering the wikilink form as an
+ * alias closes ~1,500 unresolvable references in one rule.
+ *
+ * Returns null when the path doesn't match the convention. Stays in
+ * lockstep with the TS resolver — change one, change the other.
+ */
+function profilePathToWikilinkAlias(profilePath) {
+  if (!profilePath) return []
+  const slash = String(profilePath).lastIndexOf("/")
+  const stem = (slash === -1 ? profilePath : profilePath.slice(slash + 1)).replace(/\.md$/i, "")
+  if (!/^_?.+ Master Profile$/.test(stem)) return []
+  const aliases = [stem]
+  if (!stem.startsWith("_")) aliases.push("_" + stem)
+  else aliases.push(stem.replace(/^_/, ""))
+  return aliases
+}
+
+/**
  * Replicate Resolver.legislatorNameForms() from lib/donor-map/resolver.ts.
  *
  * Build all plausible name forms a PTR / FEC / vault editor might use
@@ -106,6 +128,12 @@ function buildResolver() {
   // 1. Seed from entities.jsonl
   for (const e of entities) {
     register(e.name, e)
+    // Auto-alias the editorial wikilink forms (`_Foo Master Profile` and
+    // `Foo Master Profile`) per lib/donor-map/resolver.ts. Closes ~5,500
+    // unresolvable wikilinks across both conventions.
+    for (const a of profilePathToWikilinkAlias(e.profile_path)) {
+      register(a, e)
+    }
     const declaredBio = e.signals && e.signals.bioguide_id
     if (declaredBio) byBioguide.set(declaredBio, e)
     const declaredFec =
