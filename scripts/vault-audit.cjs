@@ -265,6 +265,14 @@ const CHECKS = [
     queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
   },
   {
+    name: 'worktree-data-mirror',
+    description: 'Detects silent data divergence between worktree and main repo data/derived/. Catches the class of bug found 2026-04-29 where detectors ran on incomplete data without warning.',
+    cmd: ['node', 'scripts/worktree-data-mirror-check.cjs', '--json'],
+    parse: parseWorktreeDataMirror,
+    timeout_ms: 10000,
+    queue: { bucket: 'compounding', leverage: 4, cost_min: 5 },
+  },
+  {
     name: 'enrichment-freshness',
     description: 'Enrichment pipeline freshness — flags if API Enrichment Bot has not committed in >3 days',
     cmd: ['node', 'scripts/enrichment-freshness-check.cjs', '--json'],
@@ -664,6 +672,26 @@ function parseDispatcherAlive(stdout, _stderr, _exit) {
     return {
       findings_count: j.findings_count || 0,
       notes: j.message,
+    };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseWorktreeDataMirror(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    if (j.status === 'main-repo' || j.status === 'skipped' || j.status === 'no-main-derived-dir') {
+      return { findings_count: 0, notes: j.message || j.status };
+    }
+    if (j.status === 'in-sync') {
+      return { findings_count: 0, notes: `worktree mirrors main repo (${j.main_file_count} file(s))` };
+    }
+    const missing = (j.findings || []).filter((f) => f.kind === 'missing').length;
+    const drift = (j.findings || []).filter((f) => f.kind === 'size-mismatch').length;
+    return {
+      findings_count: j.findings_count || 0,
+      notes: `${missing} missing, ${drift} size-mismatched. Remediate: node scripts/bootstrap-worktree-data.cjs`,
     };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
