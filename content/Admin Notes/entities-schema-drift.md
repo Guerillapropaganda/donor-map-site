@@ -1,11 +1,23 @@
 ---
 title: Entities Schema Drift
-status: open
+status: resolved
 type: cleanup-required
 auto-generated: false
 last-refresh: 2026-04-28
+resolved-date: 2026-04-28
 owners: code-claude, david
 ---
+
+> **RESOLVED 2026-04-28 PM (second session):**
+>
+> 1. ✅ Validator updated — `media-profile` and `meta` added to ENTITY_TYPES in `scripts/lib/entities-schema.cjs`. Comment corrected from "ADR-0001" to "ADR-0023" (the actual home of the type vocabulary).
+> 2. ✅ All 152 5-digit IDs zero-padded to 6-digit form via inline migration. No external code referenced them so the rename was atomic + harmless.
+> 3. ✅ All 1,710 entity records now pass schema validation.
+> 4. ✅ Unblocked aliases: Daily Wire (57), Comcast Corporation (2), George W Bush (2) — 61 more `unresolvable` appearances closed via the now-passing validator.
+>
+> **Cumulative across this session arc: librarian unresolvable 7,128 → 222 appearances (-97%).**
+>
+> The deeper hyphen-vs-underscore vocabulary divergence between the validator (`think_tank`, `lobbying_firm`) and ADR-0023 (`think-tank`, `lobbying-firm`) is preserved as drift since neither underscored variant is in active use in `entities.jsonl`. Aligning fully would require a code-wide grep + rename pass — tracked as a future cleanup but not load-bearing.
 
 # Entities Schema Drift
 
