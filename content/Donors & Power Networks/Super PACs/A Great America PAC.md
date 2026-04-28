@@ -10,17 +10,16 @@ source-tier: 1
 aliases:
   - A GREAT AMERICA PAC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 opposes: "[[Marjorie Taylor Greene]]"
-politicians-funded: "[[Marjorie Taylor Greene]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 total-spent: 1755
-last-enriched: 2026-04-21
-total-political-spend: "$65K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $65K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020
 source-types:
   - FEC
 ---
