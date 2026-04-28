@@ -25,7 +25,22 @@
  *   POLITICIAN_FIELDS     → for mirror vocabulary records
  */
 
-// ─── Locked vocabulary from ADR-0001 ───────────────────────────────────
+// ─── Locked vocabulary aligned with ADR-0023 (Frontmatter Schema) ─────
+//
+// The vault's frontmatter `type` field (governed by ADR-0023) uses the
+// authoritative content-type vocabulary. The entity_type field in
+// entities.jsonl mirrors that vocabulary with one drift caveat:
+// historical underscored forms (`think_tank`, `lobbying_firm`) are
+// retained alongside ADR-0023's hyphenated forms (`think-tank`,
+// `lobbying-firm`) since underscored variants are referenced in older
+// queries. Aligning to ADR-0023's hyphenated convention is tracked as
+// a follow-up cleanup in content/Admin Notes/entities-schema-drift.md.
+//
+// Added 2026-04-28: `media-profile` (97 records in current corpus) +
+// `meta` (4 records). Both were in active use without validator support
+// — surfaced when the orphan-check session blocked on the Daily Wire
+// alias. Adding them brings the validator into truth with the data and
+// unblocks alias work for media-figure entities.
 
 const ENTITY_TYPES = Object.freeze([
   "donor",
@@ -36,6 +51,8 @@ const ENTITY_TYPES = Object.freeze([
   "nonprofit",
   "think_tank",
   "lobbying_firm",
+  "media-profile",
+  "meta",
   "other",
 ])
 
