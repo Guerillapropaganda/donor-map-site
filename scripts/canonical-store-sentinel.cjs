@@ -153,6 +153,7 @@ function main() {
     /^scripts\/lib\/frontmatter-orphan-candidates-store\.cjs$/,
     /^scripts\/frontmatter-orphan-check\.cjs$/,
     /^ops\/src\/app\/api\/relationships\/orphans\//,
+    /^ops\/src\/app\/relationships\/orphans\//,
   ]
   if (staged.includes(ORPHAN_STORE)) {
     const hasAuthority = staged.some((f) => ORPHAN_AUTHORITY_PATHS.some((re) => re.test(f)))
