@@ -49,6 +49,25 @@ const { addEntries, clearSource } = require('./lib/attention-queue.cjs');
 const { getRejectedPatterns } = require('./lib/false-positive-log.cjs');
 const { detectBothSidesEntities, normalizeEntityList, normalizeEntityName } = require('./lib/checklist-helpers.cjs');
 const { addOrFindStory } = require('./lib/stories-store.cjs');
+const { createCanonicalNameResolver } = require('./lib/canonical-name-resolver.cjs');
+const {
+  loadMonetaryPairs,
+  hasMonetaryEdge,
+  hasAnyMonetaryEdge,
+} = require('./lib/librarian-monetary-pairs.cjs');
+
+// Librarian-backed gate — every detector that derives a story candidate
+// from frontmatter MUST verify the implied monetary claim against the
+// canonical relationship graph (ADR-0024 + Rule 4). Lazy-built once per
+// run via getLibrarian().
+let _librarian = null;
+function getLibrarian() {
+  if (_librarian) return _librarian;
+  const resolver = createCanonicalNameResolver();
+  const pairs = loadMonetaryPairs(resolver);
+  _librarian = { resolver, pairs };
+  return _librarian;
+}
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const SOURCE_NAME = 'contradiction-miner';
@@ -84,7 +103,9 @@ function loadAllProfiles() {
  * Confidence 5/5 because the match is structural, not inferential.
  */
 function mineBothSides(profiles) {
+  const { resolver, pairs } = getLibrarian();
   const findings = [];
+  let frontmatterOnlyDropped = 0;
   for (const p of profiles) {
     const overlap = detectBothSidesEntities({
       donors: p.data.donors,
@@ -92,6 +113,15 @@ function mineBothSides(profiles) {
     });
     if (overlap.length === 0) continue;
     for (const entity of overlap) {
+      // Per Rule 4 + ADR-0024: only emit a both-sides candidate when
+      // the librarian backs the implied monetary relationship. Pure
+      // frontmatter overlaps (Crypto Industry Bloc / Warren pattern)
+      // are caught by relationship-overlap-check + the orphan-triage
+      // queue, not surfaced as story candidates.
+      if (!hasMonetaryEdge(pairs, p.data.title, entity, resolver)) {
+        frontmatterOnlyDropped++;
+        continue;
+      }
       findings.push({
         type: 'both-sides',
         confidence: 5,
@@ -101,6 +131,9 @@ function mineBothSides(profiles) {
         angle: `${entity} appears as both a funder and an adversary of ${p.data.title}. Investigate whether this is a transactional both-sides play (LLC layering, PAC vs entity distinction, timing arbitrage) or a genuine contradiction. Either way it's a story — the vault has the connection, nobody else does.`,
       });
     }
+  }
+  if (frontmatterOnlyDropped > 0) {
+    console.log(`[miner] both-sides: dropped ${frontmatterOnlyDropped} frontmatter-only overlap(s) (no librarian backing)`);
   }
   return findings;
 }
@@ -120,13 +153,23 @@ function mineCrossPartyDonors(profiles) {
     }
   }
 
+  const { resolver, pairs } = getLibrarian();
   const findings = [];
+  let frontmatterOnlyDropped = 0;
   for (const p of profiles) {
     if (p.data.type !== 'donor' && p.data.type !== 'corporation' && p.data.type !== 'pac') continue;
     const funded = normalizeEntityList(p.data['politicians-funded'] || p.data.related);
     if (funded.length < 2) continue;
+    // Per ADR-0024: only count "funded" relationships the librarian backs
+    // with a monetary edge. Frontmatter alone is a read-cache; a name in
+    // politicians-funded without a backing edge is editorial residue.
+    const backedFunded = funded.filter((name) => hasMonetaryEdge(pairs, p.data.title, name, resolver));
+    if (backedFunded.length < 2) {
+      if (funded.length >= 2) frontmatterOnlyDropped++;
+      continue;
+    }
     const parties = new Set();
-    for (const name of funded) {
+    for (const name of backedFunded) {
       const party = partyOf.get(normalizeEntityName(name));
       if (party) parties.add(party);
     }
@@ -136,9 +179,12 @@ function mineCrossPartyDonors(profiles) {
         confidence: 4,
         profile: p,
         headline: `${p.data.title} funds both major parties`,
-        angle: `${p.data.title} appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited ${p.data.title}'s sector.`,
+        angle: `${p.data.title} appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault, with librarian-backed monetary edges to each. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited ${p.data.title}'s sector.`,
       });
     }
+  }
+  if (frontmatterOnlyDropped > 0) {
+    console.log(`[miner] cross-party: dropped ${frontmatterOnlyDropped} profile(s) — frontmatter ≥2 funded but <2 librarian-backed`);
   }
   return findings;
 }
@@ -157,6 +203,7 @@ const ISSUE_OPPOSING_PAIRS = [
 ];
 
 function mineIssueContradictions(profiles) {
+  const { resolver, pairs } = getLibrarian();
   const findings = [];
   for (const p of profiles) {
     if (p.data.type !== 'politician') continue;
@@ -167,8 +214,11 @@ function mineIssueContradictions(profiles) {
     for (const pair of ISSUE_OPPOSING_PAIRS) {
       const hasIssueA = issueList.some(i => pair.a.test(String(i)));
       if (!hasIssueA) continue;
-      // Check donor names against pattern B
-      const opposingDonors = donors.filter(d => pair.b.test(d));
+      // Check donor names against pattern B AND require librarian-backed
+      // edge from the donor → this politician (per ADR-0024).
+      const opposingDonors = donors
+        .filter(d => pair.b.test(d))
+        .filter(d => hasMonetaryEdge(pairs, p.data.title, d, resolver));
       if (opposingDonors.length > 0) {
         findings.push({
           type: 'issue-contradiction',
@@ -216,11 +266,16 @@ function mineCommitteeCaptures(profiles) {
   const findings = [];
   for (const [committee, members] of byCommittee) {
     if (members.length < 3) continue;
-    // Count donor occurrences across members
+    // Count donor occurrences across members. Per ADR-0024: only count
+    // a (donor, member) pair when the librarian backs it with a monetary
+    // edge — frontmatter cache without an edge is editorial residue, not
+    // evidence of capture.
+    const { resolver, pairs } = getLibrarian();
     const donorCounts = new Map();
     for (const m of members) {
       const donors = normalizeEntityList(m.data.donors || m.data['top-donors']);
       for (const d of donors) {
+        if (!hasMonetaryEdge(pairs, m.data.title, d, resolver)) continue;
         const norm = normalizeEntityName(d);
         if (!donorCounts.has(norm)) donorCounts.set(norm, { display: d, members: [] });
         donorCounts.get(norm).members.push(m.data.title);
@@ -415,11 +470,12 @@ function mineOffshoreFlags(profiles) {
   for (const [vaultName, recs] of byLinked) {
     const p = profByTitle.get(vaultName);
     if (!p) continue;
-    // Only flag vault entities that ALSO have political exposure
-    // (donations, contracts, opposition edges — i.e. are politically
-    // relevant to our analysis). Everyone else is just noise.
-    const hasPoliticalFootprint = !!(p.data.donors?.length || p.data['top-donors']?.length || p.data['politicians-funded']?.length || p.data.opposes?.length);
-    if (!hasPoliticalFootprint) continue;
+    // Only flag vault entities that ALSO have political exposure. Per
+    // ADR-0024 we ask the librarian (any monetary edge in the canonical
+    // graph) instead of trusting frontmatter caches that may include
+    // unbacked names.
+    const { resolver, pairs } = getLibrarian();
+    if (!hasAnyMonetaryEdge(pairs, p.data.title, resolver)) continue;
 
     const leakSet = new Set(recs.map((r) => r.sourceID).filter(Boolean));
     const jurisdictions = [...new Set(recs.map((r) => r.jurisdiction).filter(Boolean))];
