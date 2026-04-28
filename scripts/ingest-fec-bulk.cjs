@@ -35,12 +35,20 @@ const {
 const { classifyTransaction } = require('./lib/fec-txn-types.cjs')
 
 // Map classifyTransaction() bucket → edge.role field.
-// Direct donations stay role=null. IE buckets get explicit ie-support /
-// ie-oppose so downstream consumers (ask, query, leaderboards) can
-// distinguish them from actual donations without re-deriving from txn codes.
+//
+// 2026-04-28: bucketToRole previously returned null for direct-donor.
+// Layer 3 throw on roleless monetary edges (committed earlier today)
+// meant consumers silently skipped these — legitimate direct
+// contributions became invisible in money panels. Now writes
+// 'direct-contribution' explicitly, mirroring the 990-grants-to-edges
+// fix shipped earlier (commit 1a02ea6a6). All five emitted buckets
+// now have explicit role tags.
 function bucketToRole(bucket) {
   if (bucket === 'ie-support') return 'ie-support'
   if (bucket === 'ie-oppose') return 'ie-oppose'
+  if (bucket === 'direct-donor') return 'direct-contribution'
+  if (bucket === 'party-support') return 'party-coordinated'
+  if (bucket === 'conduit-aggregation') return 'direct-contribution'
   return null
 }
 
