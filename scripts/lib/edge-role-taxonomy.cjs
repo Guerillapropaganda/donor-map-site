@@ -140,11 +140,20 @@ function lookupCategory(type, rawRole) {
     if (role === "operating-expense") return C.CAMPAIGN_EXPENDITURE
     if (role === "527-expenditure") return C.EXPENDITURE_527
     if (role === "527-contribution") return C.CONTRIBUTION_527
-    if (role === "") return C.DIRECT_CONTRIBUTION
-    // ^ roleless monetary edges are legacy fec-bulk + irs-990-bulk.
-    // fec-bulk are PAC→candidate contributions (direct). irs-990-bulk
-    // are foundation grants — caller should check source and upgrade
-    // to PHILANTHROPIC_GRANT explicitly.
+    // Empty role on monetary edges throws — was previously silently
+    // defaulting to DIRECT_CONTRIBUTION, which let pre-classifier legacy
+    // fec-bulk edges (14,294 with role=null) read as donations when many
+    // were actually IE-oppose. Surfaced 2026-04-28 PM by the
+    // Bowman/Fairshake case ($2.08M IE-oppose mis-read as donation).
+    // Throwing gives consumers a clean signal to skip; they already
+    // wrap classifyEdge in try/catch. Mirror of TS resolver.
+    if (role === "") {
+      throw new Error(
+        `monetary edge has empty role — refusing to default to direct-contribution. ` +
+          `Likely a pre-classifier legacy ingest (e.g. fec-bulk role=null). ` +
+          `Either re-ingest with the current classifier-aware path, or tag role explicitly.`,
+      )
+    }
     throw new Error(`unknown monetary role: "${rawRole}" (normalized: "${role}")`)
   }
 
