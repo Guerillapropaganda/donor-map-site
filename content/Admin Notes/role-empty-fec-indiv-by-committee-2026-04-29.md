@@ -1,11 +1,15 @@
 ---
 title: 138,753 role-empty edges in fec-indiv-by-committee.jsonl — needs coordinated re-aggregate
 type: admin-note
-status: open
+status: resolved
 priority: high
 tags: [code, librarian, ingester-bug, data-integrity]
-last-updated: 2026-04-29
+last-updated: 2026-04-28
 ---
+
+> **RESOLVED 2026-04-28.** Truncate-then-regenerate executed. Aggregator wrote 134,731 role-tagged edges (42 self-loops correctly rejected — same FEC self-funding pattern as the open reconciliation note). `role-empty-monetary-edges` harness count: 138,753 → 0. Downstream `relationships-per-profile.json` rebuilt; `rebuild-relationship-caches.cjs --write` updated 156 frontmatters.
+>
+> **AOC $45M claim was overstated.** Investigation found the source file `C:/donor-map-data/fec/indiv-by-committee.jsonl` contains 188K lines covering only 617 committees — a partial dataset, not comprehensive individual-donor history. AOC's regenerated artifact has 46 monetary-detail entries (max $8K). The fix is real and meaningful for harness correctness, but does NOT unblock $45M of small-dollar visibility — that requires a full upstream FEC bulk ingest pass (separate session). The "$54K" symptom on AOC's profile was reflecting both the role-empty bug AND the source-data thinness; only the former is fixed.
 
 # 138,753 role-empty monetary edges — pre-existing, newly visible
 

@@ -54,6 +54,14 @@ const ARTIFACTS = [
     // gracefully on machines without it. ~8s when inputs exist.
     why: 'ie-support / ie-oppose / direct-donor monetary edges (~122K). Discovered missing 2026-04-29 — added so any future deletion auto-recovers on next branch switch.',
   },
+  {
+    path: 'data/derived/fec-indiv-by-committee.jsonl',
+    builder: 'scripts/aggregate-indiv-to-edges.cjs',
+    args: ['--write'],
+    // Same shape as fec-pas2: gitignored derived file, requires
+    // C:/donor-map-data/fec/indiv-by-committee.jsonl input. ~7s.
+    why: 'direct-contribution monetary edges from individual donors to candidate committees (~134K). Added 2026-04-28 alongside the role-empty truncate-then-regenerate fix; without auto-heal, branch switches lose role tags on every regeneration.',
+  },
 ];
 
 let failures = 0;
