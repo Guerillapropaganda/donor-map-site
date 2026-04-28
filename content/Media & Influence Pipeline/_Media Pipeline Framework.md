@@ -1,11 +1,11 @@
 ---
-title: "Media & Influence Pipeline Framework"
+title: Media & Influence Pipeline Framework
 type: methodology
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: null
 parent: null
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Research Methodology and Data Sources]] · [[_VAULT_INDEX]] · [[Think Tank & Policy Infrastructure Framework]] · [[Lobbying Firms & K Street Framework]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Research Methodology and Data Sources]] · [[Think Tank & Policy Infrastructure Framework]] · [[Lobbying Firms & K Street Framework]]"
 urls-first-triaged: "2026-04-15"
 ---
 

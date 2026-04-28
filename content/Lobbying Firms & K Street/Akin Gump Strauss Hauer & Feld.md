@@ -1,61 +1,57 @@
 ---
-title: "Akin Gump Strauss Hauer & Feld"
+title: Akin Gump Strauss Hauer & Feld
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-annual-revenue: "$65.4M"
+annual-revenue: $65.4M
 lobbyist-count: 74
-revolving-door-pct: "55.4%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Donald Trump Master Profile]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
+revolving-door-pct: 55.4%
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Donald Trump Master Profile]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
 sec-filings: 10000
 sec-form-types:
-  - "8-K"
-  - "CORRESP"
-  - "COVER"
-  - "EX-5"
-  - "EX-5.(C)"
-  - "EX-5.1"
-  - "EX-8"
-  - "EX-8.1"
-  - "EX-8.2"
-  - "EX-8.A"
-  - "EX-99.2"
-  - "POSASR"
-  - "S-8"
-fara-status: "registrant"
+  - 8-K
+  - CORRESP
+  - COVER
+  - EX-5
+  - EX-5.(C)
+  - EX-5.1
+  - EX-8
+  - EX-8.1
+  - EX-8.2
+  - EX-8.A
+  - EX-99.2
+  - POSASR
+  - S-8
+fara-status: registrant
 fara-records: 10
 fara-countries:
-  - "CAMBODIA"
-  - "COSTA RICA"
-  - "JAPAN"
-  - "KOREA SOUTH"
-  - "MARSHALL ISLANDS"
-  - "MOROCCO"
-  - "PALAU"
-  - "UNITED ARAB EMIRATES"
-  - "UZBEKISTAN"
+  - CAMBODIA
+  - COSTA RICA
+  - JAPAN
+  - KOREA SOUTH
+  - MARSHALL ISLANDS
+  - MOROCCO
+  - PALAU
+  - UNITED ARAB EMIRATES
+  - UZBEKISTAN
 federal-register-mentions: 7
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Energy Department"
-  - "Export Administration Bureau"
-  - "Federal Communications Commission"
-  - "Justice Department"
-  - "Nuclear Regulatory Commission"
+  - Antitrust Division
+  - Commerce Department
+  - Energy Department
+  - Export Administration Bureau
+  - Federal Communications Commission
+  - Justice Department
+  - Nuclear Regulatory Commission
 cross-vault-triangulation-count: 25
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"

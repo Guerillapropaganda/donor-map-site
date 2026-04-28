@@ -1,18 +1,18 @@
 ---
-title: "The Idea Laundering Pipeline , How Think Tank Research Becomes Law"
+title: The Idea Laundering Pipeline , How Think Tank Research Becomes Law
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
 category: cross-comparison
 tax-status: null
-related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Mercatus Center]] · [[Manhattan Institute]] · [[Economic Policy Institute]] · [[Brookings Institution]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Atlantic Council]] · [[Aspen Institute]]"
+related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Mercatus Center]] · [[Manhattan Institute]] · [[Economic Policy Institute]] · [[Brookings Institution]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Atlantic Council]] · [[Aspen Institute]]"
 known-gaps:
-  - "No FEC contribution data"
+  - No FEC contribution data
 checklist-na:
   - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
-last-enriched: 2026-04-15
+last-enriched: 2026-04-15T00:00:00.000Z
 ---
 
 

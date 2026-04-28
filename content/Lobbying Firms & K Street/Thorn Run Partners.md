@@ -1,39 +1,34 @@
 ---
-title: "Thorn Run Partners"
+title: Thorn Run Partners
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-annual-revenue: "$32.3M (2025)"
+annual-revenue: $32.3M (2025)
 lobbyist-count: 37
-revolving-door-pct: "62.9%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Holland & Knight]] · [[Invariant]]"
+revolving-door-pct: 62.9%
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Holland & Knight]] · [[Invariant]]"
 sec-filings: 15
 sec-form-types:
-  - "10-K"
-  - "424B4"
-  - "DRS"
-  - "EX-99"
-  - "PX14A6G"
-  - "S-1"
-  - "S-1/A"
+  - 10-K
+  - 424B4
+  - DRS
+  - EX-99
+  - PX14A6G
+  - S-1
+  - S-1/A
 cross-vault-triangulation-count: 19
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run lda pipeline; run pipelines
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
-last-enriched: 2026-04-15
+last-enriched: 2026-04-15T00:00:00.000Z
 ---
 
 

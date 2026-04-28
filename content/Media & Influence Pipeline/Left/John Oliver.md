@@ -1,13 +1,13 @@
 ---
-title: "John Oliver"
+title: John Oliver
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-17T00:00:00.000Z
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[_Media Pipeline Framework]] · [[Kyle Kulinski]] · [[David Pakman]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Pod Save America]] · [[Hasan Piker]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]] · [[Glenn Greenwald]] · [[Ezra Klein]] · [[Chris Wallace]] · [[Chris Cuomo]] · [[Breaking Points with Krystal and Saagar]] · [[Bari Weiss]] · [[Anderson Cooper]] · [[Ana Kasparian]] · [[Abby Phillip]]"
+related: "[[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[David Pakman]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Pod Save America]] · [[Hasan Piker]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]] · [[Glenn Greenwald]] · [[Ezra Klein]] · [[Chris Wallace]] · [[Chris Cuomo]] · [[Breaking Points with Krystal and Saagar]] · [[Bari Weiss]] · [[Anderson Cooper]] · [[Ana Kasparian]] · [[Abby Phillip]]"
 donors: "[]"
 checklist-na:
   - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"

@@ -1,35 +1,31 @@
 ---
-title: "Squire Patton Boggs"
+title: Squire Patton Boggs
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
-annual-revenue: "$23.5M"
+annual-revenue: $23.5M
 lobbyist-count: 54
-revolving-door-pct: "64.8%"
-fara-status: "registrant"
+revolving-door-pct: 64.8%
+fara-status: registrant
 fara-records: 9
 fara-countries:
-  - "ANGOLA"
-  - "BENIN"
-  - "KAZAKHSTAN"
-  - "KOREA SOUTH"
-  - "PALESTINE"
-related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Donald Trump Master Profile]] · [[Ballard Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Invariant]] · [[Holland & Knight]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
-lei: "259400PVBJ4RB4LUZ721"
-lei-jurisdiction: "PL"
+  - ANGOLA
+  - BENIN
+  - KAZAKHSTAN
+  - KOREA SOUTH
+  - PALESTINE
+related: "[[Boeing]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Donald Trump Master Profile]] · [[Ballard Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Invariant]] · [[Holland & Knight]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+lei: 259400PVBJ4RB4LUZ721
+lei-jurisdiction: PL
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"

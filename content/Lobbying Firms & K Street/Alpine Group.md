@@ -1,75 +1,71 @@
 ---
-title: "Alpine Group"
+title: Alpine Group
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-annual-revenue: "$19.7M"
+annual-revenue: $19.7M
 lobbyist-count: 18
-revolving-door-pct: "72.2%"
+revolving-door-pct: 72.2%
 ein: "830411414"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 316336
 total-assets: 148627
-related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
+related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Squire Patton Boggs]] · [[Invariant]] · [[Holland & Knight]]"
 sec-filings: 1293
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
+  - 10-K
+  - 10-K/A
+  - 10-Q
   - "3"
-  - "3/A"
+  - 3/A
   - "4"
-  - "8-A12B/A"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "EX-10.(GGG)"
-  - "EX-10.(HHH)"
-  - "EX-10.(LL)"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-10.JJ"
-  - "EX-23.(A)"
-  - "EX-23.A"
-  - "EX-4.(D)"
-  - "EX-4.1"
-  - "EX-99"
-  - "EX-99.(A)"
-  - "EX-99.(A)-7"
-  - "EX-99.(A)8"
-  - "EX-99.(C)"
-  - "EX-99.(D)"
-  - "EX-99.(E)"
-  - "EX-99.(F)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.I"
-  - "LETTER"
-  - "PRE 14A"
-  - "PRER14A"
-  - "S-2"
-  - "S-2/A"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G/A"
-  - "SC TO-I"
-  - "SC TO-I/A"
-lei: "549300SK16NJD6MI4436"
-lei-jurisdiction: "VI"
+  - 8-A12B/A
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - EX-10.(GGG)
+  - EX-10.(HHH)
+  - EX-10.(LL)
+  - EX-10.1
+  - EX-10.2
+  - EX-10.3
+  - EX-10.JJ
+  - EX-23.(A)
+  - EX-23.A
+  - EX-4.(D)
+  - EX-4.1
+  - EX-99
+  - EX-99.(A)
+  - EX-99.(A)-7
+  - EX-99.(A)8
+  - EX-99.(C)
+  - EX-99.(D)
+  - EX-99.(E)
+  - EX-99.(F)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.I
+  - LETTER
+  - PRE 14A
+  - PRER14A
+  - S-2
+  - S-2/A
+  - SC 13D
+  - SC 13D/A
+  - SC 13G/A
+  - SC TO-I
+  - SC TO-I/A
+lei: 549300SK16NJD6MI4436
+lei-jurisdiction: VI
 cross-vault-triangulation-count: 21
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"
