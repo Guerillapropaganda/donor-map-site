@@ -39,6 +39,27 @@ $LogDir   = "$MainRepo\content\Admin Notes"
 if (-not (Test-Path $NodeExe))   { Write-Error "Node.exe not found at $NodeExe"; exit 1 }
 if (-not (Test-Path $Script))    { Write-Error "Dispatcher script missing: $Script"; exit 1 }
 
+# Side-effect warning: schtasks /Delete kills any *running* instance of
+# the named task (along with the task definition). We learned this the
+# hard way 2026-04-29 when a failed reinstall left the dispatcher dead
+# for 3.5 hours. Warn explicitly and require -Force to proceed when
+# there's a live instance.
+$existingTask = Get-ScheduledTask -TaskName $TaskName -ErrorAction SilentlyContinue
+if ($existingTask) {
+    $isRunning = ($existingTask.State -eq "Running")
+    if ($isRunning -and -not $args.Contains("-Force")) {
+        Write-Host ""
+        Write-Host "WARNING: Task '$TaskName' is currently RUNNING." -ForegroundColor Yellow
+        Write-Host "Reinstalling will kill the running dispatcher process. If the new" -ForegroundColor Yellow
+        Write-Host "Register-ScheduledTask call fails (e.g. permissions issue), the" -ForegroundColor Yellow
+        Write-Host "dispatcher will stay dead until you manually restart it via:" -ForegroundColor Yellow
+        Write-Host "  Start-Process -FilePath '$NodeExe' -ArgumentList '$Script' -WorkingDirectory '$MainRepo'" -ForegroundColor Yellow
+        Write-Host ""
+        Write-Host "Re-run with -Force to proceed anyway." -ForegroundColor Yellow
+        exit 2
+    }
+}
+
 # Remove existing task if present (silent on missing)
 schtasks /Delete /TN $TaskName /F 2>$null | Out-Null
 
