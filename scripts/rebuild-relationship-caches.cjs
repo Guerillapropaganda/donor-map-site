@@ -38,6 +38,7 @@ const CONTENT_DIR = path.join(ROOT, 'content');
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 const MONETARY_ONLY = process.argv.includes('--monetary-only');
+const REPORT_ORPHANS = process.argv.includes('--report-orphans');
 
 // ─── Load canonical edges ─────────────────────────────────────────────────
 // Uses the relationships-store library (see scripts/lib/relationships-store.cjs)
@@ -277,4 +278,120 @@ function main() {
   else console.log('\n  ✓ Done');
 }
 
-main();
+// ─── ADR-0027: --report-orphans mode ─────────────────────────────────────
+//
+// Walks every donor/corporation profile, computes the set of names in
+// `politicians-funded` that have NO librarian backing (no monetary edge from
+// this entity to that name), writes orphan candidates to
+// data/frontmatter-orphan-candidates.jsonl via the canonical store helper.
+//
+// P1 scope: politicians-funded only. donors/top-donors/opposes deferred to
+// later phases — those fields are pipeline-driven and likely tens of
+// thousands of orphans, which would overwhelm the editor-in-the-loop review
+// flow before we have UX to triage at scale.
+//
+// No frontmatter writes. The actual prune happens later via --apply-approved.
+
+function reportOrphans() {
+  const store = require('./lib/frontmatter-orphan-candidates-store.cjs');
+  console.log('═══ rebuild-relationship-caches --report-orphans ═══');
+  console.log('  Scope: politicians-funded only (P1 per ADR-0027)');
+  console.log();
+
+  const edges = loadEdges();
+  console.log(`  ${edges.length} active canonical edges loaded`);
+
+  // Index outgoing monetary edges from each entity. We sum counts so the
+  // candidate record can carry a non-zero `librarian_monetary_edges` if any
+  // edge exists, matching the field semantic ("any backing edge counts").
+  const monetaryOut = new Map();          // fromKey → Map<toKey, count>
+  const oppositionOut = new Map();        // fromKey → Map<toKey, count>
+  const oppositionInRev = new Map();      // toKey   → Map<fromKey, count>
+  function bump(map, k1, k2) {
+    if (!map.has(k1)) map.set(k1, new Map());
+    const inner = map.get(k1);
+    inner.set(k2, (inner.get(k2) || 0) + 1);
+  }
+  for (const e of edges) {
+    if (!e.from || !e.to) continue;
+    const fk = e.from.toLowerCase();
+    const tk = e.to.toLowerCase();
+    if (e.type === 'monetary' && e.role !== 'ie-oppose') {
+      bump(monetaryOut, fk, tk);
+    } else if (e.type === 'monetary' && e.role === 'ie-oppose') {
+      bump(oppositionOut, fk, tk);
+      bump(oppositionInRev, tk, fk);
+    } else if (e.type === 'political-opposition') {
+      bump(oppositionOut, fk, tk);
+      bump(oppositionInRev, tk, fk);
+    }
+  }
+  console.log(`  ${monetaryOut.size} entities have outgoing monetary edges`);
+  console.log(`  ${oppositionOut.size} entities have outgoing opposition edges`);
+  console.log();
+
+  const profiles = walkProfiles(CONTENT_DIR);
+  const scanned = [];
+  let inspected = 0;
+
+  for (const filePath of profiles) {
+    const content = fs.readFileSync(filePath, 'utf-8');
+    const fm = parseFrontmatter(content);
+    if (!fm) continue;
+    const profileType = fm.type;
+    if (profileType !== 'donor' && profileType !== 'corporation') continue;
+
+    const subject = fm.title || path.basename(filePath, '.md');
+    const subjectKey = subject.toLowerCase();
+    const profileRel = path.relative(ROOT, filePath).replace(/\\/g, '/');
+
+    const fundedNames = extractWikilinks(fm['politicians-funded']);
+    if (fundedNames.size === 0) continue;
+    inspected++;
+
+    const opposesNames = extractWikilinks(fm.opposes);
+    const opposesLower = new Set([...opposesNames].map((n) => n.toLowerCase()));
+
+    const monOut = monetaryOut.get(subjectKey);
+    const oppOut = oppositionOut.get(subjectKey);
+    const oppIn = oppositionInRev.get(subjectKey);
+
+    for (const name of fundedNames) {
+      const nameKey = name.toLowerCase();
+      const monEdges = (monOut?.get(nameKey) || 0);
+      // Opposition edges in EITHER direction count as "real relationship,
+      // even though no $ flowed for-side." That's the librarian-gap signal:
+      // we know they're connected, just not monetarily.
+      const oppEdgesOut = (oppOut?.get(nameKey) || 0);
+      const oppEdgesIn = (oppIn?.get(nameKey) || 0);
+      const oppEdges = oppEdgesOut + oppEdgesIn;
+
+      if (monEdges > 0) continue; // backed — not an orphan
+
+      scanned.push({
+        profile_path: profileRel,
+        subject,
+        field: 'politicians-funded',
+        name,
+        in_opposes: opposesLower.has(nameKey),
+        librarian_monetary_edges: 0,
+        librarian_opposition_edges: oppEdges,
+      });
+    }
+  }
+
+  console.log(`  ${inspected} donor/corporation profile(s) had non-empty politicians-funded`);
+  console.log(`  ${scanned.length} orphan signals (no backing monetary edge)`);
+
+  const result = store.reconcile(scanned);
+  console.log();
+  console.log(`  store: +${result.added} new candidate(s), ${result.updated} updated, ${result.resolved} auto-resolved`);
+  console.log(`  ${result.total} total record(s) in ${path.relative(ROOT, store.STORE_FILE)}`);
+  console.log();
+}
+
+if (REPORT_ORPHANS) {
+  reportOrphans();
+} else {
+  main();
+}

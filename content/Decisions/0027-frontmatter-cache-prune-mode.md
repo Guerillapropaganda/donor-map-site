@@ -1,7 +1,7 @@
 ---
 title: "ADR-0027: Frontmatter Cache Prune Mode"
 type: adr
-status: proposed
+status: accepted
 date: 2026-04-28
 relates-to: 0024, 0026
 amends: null
@@ -11,10 +11,36 @@ amends: null
 
 ## Status
 
-Proposed 2026-04-28. Not yet implemented. Surfaces a load-bearing
-asymmetry in `scripts/rebuild-relationship-caches.cjs` that produces
-false-positive story candidates and lets editorial errors persist
-indefinitely. Implementation gated on this ADR being accepted.
+**Accepted 2026-04-28. Phase 1 shipped same day.** Surfaces a
+load-bearing asymmetry in `scripts/rebuild-relationship-caches.cjs`
+that produces false-positive story candidates and lets editorial
+errors persist indefinitely.
+
+**P1 implementation:**
+- `scripts/rebuild-relationship-caches.cjs` gained `--report-orphans`
+- New canonical store: `data/frontmatter-orphan-candidates.jsonl`
+- New helper: `scripts/lib/frontmatter-orphan-candidates-store.cjs`
+- New harness check: `scripts/frontmatter-orphan-check.cjs` (registered in `vault-audit.cjs`)
+- `canonical-store-sentinel.cjs` extended to guard the new store
+
+**P1 first-scan results (politicians-funded scope only):**
+- 8,848 total candidates across 684 donor/corporation profiles
+- 16 strong-signal (in_opposes=true + librarian opposition edges) —
+  these surface as `findings_count` for the attention queue
+- 575 medium-signal (librarian sees a relationship but not as funding)
+- 8,257 no-signal (likely alias mismatches and librarian gaps —
+  e.g. "ADM ↛ ActBlue" where the connection is real but the
+  librarian doesn't resolve the wikilink to the canonical FEC
+  committee). Stored for P2 ops UI review; do NOT count toward queue.
+
+The strong-signal split is intentional. Reporting all 8,848 as
+findings_count would dominate the queue and make every other check
+invisible. The 16 strong-signal are the highest-confidence editorial
+typos worth manually reviewing first.
+
+**P2 (ops UI) and P3 (--apply-approved) deferred to subsequent
+sessions** per the "recommend new chat at breakpoints" rule —
+shipping P1 alone is a clean breakpoint.
 
 ## Context
 
