@@ -88,11 +88,17 @@ function normalize(name) {
  * they confirm the relationship is materially real, not a frontmatter
  * artifact.
  */
-function loadMonetaryPairs() {
+function loadMonetaryPairs(resolver) {
   const pairs = new Map();
   function record(from, to) {
-    const fk = normalize(from);
-    const tk = normalize(to);
+    // Per ADR-0024: canonicalize edge endpoints through the resolver so
+    // alias / FEC-committee / legislator-name variants collapse into one
+    // pair entry. Today's alias additions and stub-resolution flow
+    // through automatically — no need to probe variants downstream.
+    const fromCanon = resolver.resolve(from);
+    const toCanon = resolver.resolve(to);
+    const fk = normalize(fromCanon || from);
+    const tk = normalize(toCanon || to);
     if (!fk || !tk) return;
     if (!pairs.has(fk)) pairs.set(fk, new Set());
     pairs.get(fk).add(tk);
@@ -143,16 +149,20 @@ function loadMonetaryPairs() {
   return pairs;
 }
 
-function hasMonetaryEdge(pairs, a, b) {
-  const ak = normalize(a);
-  const bk = normalize(b);
+function hasMonetaryEdge(pairs, a, b, resolver) {
+  // Probe by canonical name so the lookup matches the canonical-keyed
+  // pair index built in loadMonetaryPairs.
+  const ak = normalize(resolver.resolve(a) || a);
+  const bk = normalize(resolver.resolve(b) || b);
   return pairs.get(ak)?.has(bk) || pairs.get(bk)?.has(ak) || false;
 }
 
 // ─── Main scan ─────────────────────────────────────────────────────────
 
 function main() {
-  const monetaryPairs = loadMonetaryPairs();
+  const { createCanonicalNameResolver } = require('./lib/canonical-name-resolver.cjs');
+  const resolver = createCanonicalNameResolver();
+  const monetaryPairs = loadMonetaryPairs(resolver);
   const monetaryBacked = [];
   const frontmatterOnly = [];
 
@@ -181,7 +191,7 @@ function main() {
     if (overlap.size === 0) continue;
 
     for (const overlapName of overlap) {
-      const backed = hasMonetaryEdge(monetaryPairs, subjectName, overlapName);
+      const backed = hasMonetaryEdge(monetaryPairs, subjectName, overlapName, resolver);
       const record = {
         profile: path.relative(REPO_ROOT, file).replace(/\\/g, '/'),
         subject: subjectName,
