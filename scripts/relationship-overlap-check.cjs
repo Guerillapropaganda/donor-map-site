@@ -68,94 +68,14 @@ function extractWikilinkNames(field) {
   return out;
 }
 
-function normalize(name) {
-  return String(name || '').toLowerCase().trim().replace(/\s+/g, ' ');
-}
-
-// ─── Librarian load (canonical + derived) ──────────────────────────────
-
-/**
- * Build a Map<fromKey, Map<toKey, hasMonetary>>.
- *
- * "Monetary" here = any edge with type 'monetary' (regardless of role) OR
- * any edge with a non-null finite amount field. Both are evidence of real
- * money moving between the pair, which is what makes a both-sides claim
- * factually defensible.
- *
- * IE-oppose edges count as monetary (it's still real money, just spent
- * against rather than for) — they're exactly what makes a "both-sides
- * play" story honest. We do NOT use them as fund-FOR signal here, but
- * they confirm the relationship is materially real, not a frontmatter
- * artifact.
- */
-function loadMonetaryPairs(resolver) {
-  const pairs = new Map();
-  function record(from, to) {
-    // Per ADR-0024: canonicalize edge endpoints through the resolver so
-    // alias / FEC-committee / legislator-name variants collapse into one
-    // pair entry. Today's alias additions and stub-resolution flow
-    // through automatically — no need to probe variants downstream.
-    const fromCanon = resolver.resolve(from);
-    const toCanon = resolver.resolve(to);
-    const fk = normalize(fromCanon || from);
-    const tk = normalize(toCanon || to);
-    if (!fk || !tk) return;
-    if (!pairs.has(fk)) pairs.set(fk, new Set());
-    pairs.get(fk).add(tk);
-  }
-  function readJsonl(file) {
-    if (!fs.existsSync(file)) return;
-    const fd = fs.openSync(file, 'r');
-    try {
-      const size = fs.fstatSync(fd).size;
-      const READ_CHUNK = 64 * 1024 * 1024;
-      let offset = 0;
-      let carry = '';
-      while (offset < size) {
-        const len = Math.min(READ_CHUNK, size - offset);
-        const buf = Buffer.alloc(len);
-        fs.readSync(fd, buf, 0, len, offset);
-        offset += len;
-        const chunk = carry + buf.toString('utf-8');
-        const lines = chunk.split(/\r?\n/);
-        carry = lines.pop() ?? '';
-        for (const line of lines) processLine(line);
-      }
-      if (carry.trim()) processLine(carry);
-    } finally {
-      fs.closeSync(fd);
-    }
-  }
-  function processLine(line) {
-    if (!line.trim()) return;
-    let r;
-    try { r = JSON.parse(line); } catch { return; }
-    if (r.status && r.status !== 'active') return;
-    const isMoney =
-      r.type === 'monetary' ||
-      (typeof r.amount === 'number' && Number.isFinite(r.amount) && r.amount > 0);
-    if (!isMoney) return;
-    record(r.from, r.to);
-    // Symmetric record so caller can probe either direction without caring
-    // who's "from" — both-sides patterns can be expressed either way.
-    record(r.to, r.from);
-  }
-  readJsonl(RELATIONSHIPS_FILE);
-  if (fs.existsSync(DERIVED_DIR)) {
-    for (const f of fs.readdirSync(DERIVED_DIR)) {
-      if (f.endsWith('.jsonl')) readJsonl(path.join(DERIVED_DIR, f));
-    }
-  }
-  return pairs;
-}
-
-function hasMonetaryEdge(pairs, a, b, resolver) {
-  // Probe by canonical name so the lookup matches the canonical-keyed
-  // pair index built in loadMonetaryPairs.
-  const ak = normalize(resolver.resolve(a) || a);
-  const bk = normalize(resolver.resolve(b) || b);
-  return pairs.get(ak)?.has(bk) || pairs.get(bk)?.has(ak) || false;
-}
+// Librarian-backed monetary-pair index extracted into a shared lib so
+// detectors gating on "is there real money behind this pair?" all use
+// the same canonical implementation (per ADR-0024 + Rule 4).
+const {
+  loadMonetaryPairs,
+  hasMonetaryEdge,
+  normalize,
+} = require('./lib/librarian-monetary-pairs.cjs');
 
 // ─── Main scan ─────────────────────────────────────────────────────────
 
