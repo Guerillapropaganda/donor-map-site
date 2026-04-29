@@ -1,7 +1,7 @@
 ---
 title: Jim Risch
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Jim Risch chairs the committee that oversees arms sales, foreign aid, and international diplomacy — and his top donors include General Atomics (a major defense contractor and nuclear technology company), defense industry PACs, and pro-Israel organ...
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1

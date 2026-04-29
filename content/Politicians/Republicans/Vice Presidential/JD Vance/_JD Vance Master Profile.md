@@ -1,7 +1,7 @@
 ---
 title: "JD Vance Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Vance is not an organic politician. He is an explicitly designed artifact created by Peter Thiel to serve three objectives:"
 last-updated: 2026-04-13
 source-tier: 1

@@ -1,7 +1,7 @@
 ---
 title: Stephen Miller
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null

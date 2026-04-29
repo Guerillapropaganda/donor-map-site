@@ -1,7 +1,7 @@
 ---
 title: Samuel Alito
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Samuel Alito is the quieter version of the Thomas model , fewer gifts, the same structural capture. His 2008 Alaska fishing trip with Paul Singer was arranged by Leonard Leo, the same architect who secured Alito's nomination after engineering Harr...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1

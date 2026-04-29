@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: urgent
 status: open
-last-updated: '2026-04-28'
+last-updated: '2026-04-29'
 generated-by: scripts/lib/attention-queue.cjs
 ---
 
@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **53** editorial decisions · **42** background cleanup
+**31** blocking · **53** editorial decisions · **280** background cleanup
 
 ---
 
@@ -784,6 +784,2139 @@ Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-req
 
 *Cleanup that makes everything else easier. Batch these when you have a slow moment.*
 
+### InfluenceMap: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/InfluenceMap.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### State Policy Network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/State Policy Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ryan Zinke: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Ryan Zinke/_Ryan Zinke Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Rick Perry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Rick Perry/_Rick Perry Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Pompeo: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Mike Pompeo/_Mike Pompeo Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jeff Sessions: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Jeff Sessions/_Jeff Sessions Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dan Coats: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Dan Coats/_Dan Coats Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ben Carson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Ben Carson/_Ben Carson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Alexander Acosta: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Alexander Acosta/_Alexander Acosta Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tommy Tuberville: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Tommy Tuberville/_Tommy Tuberville Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Todd Young: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Todd Young/_Todd Young Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ted Budd: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Ted Budd/_Ted Budd Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Steve Daines: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Steve Daines/_Steve Daines Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pete Ricketts: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Pete Ricketts/_Pete Ricketts Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marsha Blackburn: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Marsha Blackburn/_Marsha Blackburn Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kevin Cramer: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Kevin Cramer/_Kevin Cramer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John R. Curtis: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/John R. Curtis/_John R. Curtis Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jim Inhofe: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Jim Inhofe/_Jim Inhofe Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jim Banks: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Jim Banks/_Jim Banks Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### James C. Justice: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/James C. Justice/_James C. Justice Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Eric Schmitt: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Eric Schmitt/_Eric Schmitt Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David McCormick: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/David McCormick/_David McCormick Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dan Sullivan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Dan Sullivan/_Dan Sullivan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cynthia M. Lummis: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Cynthia M. Lummis/_Cynthia M. Lummis Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cindy Hyde-Smith: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Cindy Hyde-Smith/_Cindy Hyde-Smith Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chuck Grassley: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Chuck Grassley/_Chuck Grassley Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Alan Armstrong: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Senate/Alan Armstrong/_Alan Armstrong Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### George W. Bush: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Presidential/George W Bush/_George W Bush Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Donald Trump: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Presidential/Donald Trump/_Donald Trump Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ray LaHood: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Obama Cabinet/Ray LaHood/_Ray LaHood Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chuck Hagel: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Obama Cabinet/Chuck Hagel/_Chuck Hagel Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Zachary Nunn: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Zachary Nunn/_Zachary Nunn Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Young Kim: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Young Kim/_Young Kim Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### William R. Timmons: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/William R. Timmons/_William R. Timmons Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Wesley Hunt: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Wesley Hunt/_Wesley Hunt Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Warren Davidson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Warren Davidson/_Warren Davidson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### W. Gregory Steube: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/W. Gregory Steube/_W. Gregory Steube Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Vince Fong: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Vince Fong/_Vince Fong Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Victoria Spartz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Victoria Spartz/_Victoria Spartz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Vern Buchanan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Vern Buchanan/_Vern Buchanan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Troy E. Nehls: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Troy E. Nehls/_Troy E. Nehls Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Troy Balderson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Troy Balderson/_Troy Balderson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Trent Kelly: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Trent Kelly/_Trent Kelly Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tracey Mann: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Tracey Mann/_Tracey Mann Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tony Wied: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Tony Wied/_Tony Wied Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tony Gonzales: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Tony Gonzales/_Tony Gonzales Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tom McClintock: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Tom McClintock/_Tom McClintock Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tom Emmer: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Tom Emmer/_Tom Emmer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tom Barrett: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Tom Barrett/_Tom Barrett Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tim Burchett: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Tim Burchett/_Tim Burchett Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Thomas P. Tiffany: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Thomas P. Tiffany/_Thomas P. Tiffany Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Thomas Massie: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Thomas Massie/_Thomas Massie Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Thomas H. Kean: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Thomas H. Kean/_Thomas H. Kean Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Steve Womack: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Steve Womack/_Steve Womack Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Stephanie I. Bice: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Stephanie I. Bice/_Stephanie I. Bice Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Scott Perry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Scott Perry/_Scott Perry Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Scott Franklin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Scott Franklin/_Scott Franklin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Scott Fitzgerald: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Scott Fitzgerald/_Scott Fitzgerald Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Scott Desjarlais: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Scott Desjarlais/_Scott Desjarlais Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Russell Fry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Russell Fry/_Russell Fry Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Russ Fulcher: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Russ Fulcher/_Russ Fulcher Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Rudy Yakym: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Rudy Yakym/_Rudy Yakym Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ronny Jackson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Ronny Jackson/_Ronny Jackson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ron Estes: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Ron Estes/_Ron Estes Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert P. Bresnahan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Robert P. Bresnahan/_Robert P. Bresnahan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert J. Wittman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Robert J. Wittman/_Robert J. Wittman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert F. Onder: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Robert F. Onder/_Robert F. Onder Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert E. Latta: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Robert E. Latta/_Robert E. Latta Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert B. Aderholt: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Robert B. Aderholt/_Robert B. Aderholt Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Riley M. Moore: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Riley M. Moore/_Riley M. Moore Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Rick W. Allen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Rick W. Allen/_Rick W. Allen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Richard McCormick: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Richard McCormick/_Richard McCormick Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Richard Hudson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Richard Hudson/_Richard Hudson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Randy K. Weber: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Randy K. Weber/_Randy K. Weber Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Randy Feenstra: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Randy Feenstra/_Randy Feenstra Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ralph Norman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Ralph Norman/_Ralph Norman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pete Stauber: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Pete Stauber/_Pete Stauber Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pete Sessions: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Pete Sessions/_Pete Sessions Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Paul A. Gosar: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Paul A. Gosar/_Paul A. Gosar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pat Fallon: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Pat Fallon/_Pat Fallon Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nicole Malliotakis: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Nicole Malliotakis/_Nicole Malliotakis Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nick Lalota: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Nick Lalota/_Nick Lalota Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nicholas J. Begich: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Nicholas J. Begich/_Nicholas J. Begich Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nicholas A. Langworthy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Nicholas A. Langworthy/_Nicholas A. Langworthy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Neal P. Dunn: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Neal P. Dunn/_Neal P. Dunn Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nathaniel Moran: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Nathaniel Moran/_Nathaniel Moran Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Morgan Luttrell: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Morgan Luttrell/_Morgan Luttrell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Monica de la Cruz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Monica de la Cruz/_Monica de la Cruz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Kelly: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mike Kelly/_Mike Kelly Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Flood: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mike Flood/_Mike Flood Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Ezell: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mike Ezell/_Mike Ezell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Carey: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mike Carey/_Mike Carey Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Bost: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mike Bost/_Mike Bost Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michelle Fischbach: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michelle Fischbach/_Michelle Fischbach Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michael T. McCaul: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michael T. McCaul/_Michael T. McCaul Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michael R. Turner: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michael R. Turner/_Michael R. Turner Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michael Lawler: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michael Lawler/_Michael Lawler Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michael K. Simpson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michael K. Simpson/_Michael K. Simpson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michael Guest: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michael Guest/_Michael Guest Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michael Cloud: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michael Cloud/_Michael Cloud Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michael A. Rulli: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Michael A. Rulli/_Michael A. Rulli Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Max L. Miller: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Max L. Miller/_Max L. Miller Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Matt van Epps: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Matt van Epps/_Matt van Epps Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mary E. Miller: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mary E. Miller/_Mary E. Miller Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marlin A. Stutzman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Marlin A. Stutzman/_Marlin A. Stutzman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mark E. Amodei: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mark E. Amodei/_Mark E. Amodei Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mark B. Messmer: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mark B. Messmer/_Mark B. Messmer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mark Alford: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mark Alford/_Mark Alford Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marjorie Taylor Greene: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Marjorie Taylor Greene/_Marjorie Taylor Greene Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mariannette Miller-Meeks: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Mariannette Miller-Meeks/_Mariannette Miller-Meeks Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lloyd Smucker: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Lloyd Smucker/_Lloyd Smucker Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lisa C. McClain: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Lisa C. McClain/_Lisa C. McClain Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Laurel M. Lee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Laurel M. Lee/_Laurel M. Lee Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lance Gooden: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Lance Gooden/_Lance Gooden Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kevin Kiley: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Kevin Kiley/_Kevin Kiley Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kevin Hern: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Kevin Hern/_Kevin Hern Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Keith Self: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Keith Self/_Keith Self Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kat Cammack: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Kat Cammack/_Kat Cammack Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Julia Letlow: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Julia Letlow/_Julia Letlow Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Josh Brecheen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Josh Brecheen/_Josh Brecheen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John W. Rose: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/John W. Rose/_John W. Rose Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John R. Moolenaar: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/John R. Moolenaar/_John R. Moolenaar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John R. Carter: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/John R. Carter/_John R. Carter Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John Joyce: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/John Joyce/_John Joyce Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John James: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/John James/_John James Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John J. McGuire: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/John J. McGuire/_John J. McGuire Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John H. Rutherford: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/John H. Rutherford/_John H. Rutherford Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Joe Wilson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Joe Wilson/_Joe Wilson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jennifer A. Kiggans: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Jennifer A. Kiggans/_Jennifer A. Kiggans Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jefferson van Drew: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Jefferson van Drew/_Jefferson van Drew Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jeff Hurd: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Jeff Hurd/_Jeff Hurd Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jay Obernolte: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Jay Obernolte/_Jay Obernolte Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### James R. Baird: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/James R. Baird/_James R. Baird Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### James C. Moylan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/James C. Moylan/_James C. Moylan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jake Ellzey: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Jake Ellzey/_Jake Ellzey Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jack Bergman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Jack Bergman/_Jack Bergman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### J. French Hill: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/J. French Hill/_J. French Hill Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Harriet M. Hageman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Harriet M. Hageman/_Harriet M. Hageman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Harold Rogers: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Harold Rogers/_Harold Rogers Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### H. Morgan Griffith: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/H. Morgan Griffith/_H. Morgan Griffith Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Guy Reschenthaler: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Guy Reschenthaler/_Guy Reschenthaler Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gus M. Bilirakis: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Gus M. Bilirakis/_Gus M. Bilirakis Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gregory F. Murphy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Gregory F. Murphy/_Gregory F. Murphy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Glenn Grothman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Glenn Grothman/_Glenn Grothman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gary J. Palmer: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Gary J. Palmer/_Gary J. Palmer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gabe Evans: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Gabe Evans/_Gabe Evans Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Erin Houchin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Erin Houchin/_Erin Houchin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Eric Burlison: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Eric Burlison/_Eric Burlison Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Elijah Crane: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Elijah Crane/_Elijah Crane Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Earl L. Buddy Carter: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Earl L. Buddy Carter/_Earl L. Buddy Carter Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dusty Johnson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Dusty Johnson/_Dusty Johnson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Don Bacon: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Don Bacon/_Don Bacon Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Diana Harshbarger: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Diana Harshbarger/_Diana Harshbarger Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Derrick van Orden: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Derrick van Orden/_Derrick van Orden Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David Schweikert: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/David Schweikert/_David Schweikert Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David Rouzer: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/David Rouzer/_David Rouzer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David P. Joyce: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/David P. Joyce/_David P. Joyce Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David Kustoff: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/David Kustoff/_David Kustoff Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David J. Taylor: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/David J. Taylor/_David J. Taylor Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David G. Valadao: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/David G. Valadao/_David G. Valadao Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Darrell Issa: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Darrell Issa/_Darrell Issa Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Darin Lahood: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Darin Lahood/_Darin Lahood Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Daniel Webster: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Daniel Webster/_Daniel Webster Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Daniel Meuser: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Daniel Meuser/_Daniel Meuser Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dan Newhouse: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Dan Newhouse/_Dan Newhouse Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dale W. Strong: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Dale W. Strong/_Dale W. Strong Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Craig A. Goldman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Craig A. Goldman/_Craig A. Goldman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cory Mills: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Cory Mills/_Cory Mills Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cliff Bentz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Cliff Bentz/_Cliff Bentz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Clay Higgins: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Clay Higgins/_Clay Higgins Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Claudia Tenney: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Claudia Tenney/_Claudia Tenney Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chuck Edwards: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Chuck Edwards/_Chuck Edwards Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Christopher H. Smith: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Christopher H. Smith/_Christopher H. Smith Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Charles J. Chuck Fleischmann: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Charles J. Chuck Fleischmann/_Charles J. Chuck Fleischmann Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Celeste Maloy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Celeste Maloy/_Celeste Maloy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Carol D. Miller: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Carol D. Miller/_Carol D. Miller Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Byron Donalds: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Byron Donalds/_Byron Donalds Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Burgess Owens: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Burgess Owens/_Burgess Owens Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Brian K. Fitzpatrick: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Brian K. Fitzpatrick/_Brian K. Fitzpatrick Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Brad Finstad: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Brad Finstad/_Brad Finstad Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Blake D. Moore: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Blake D. Moore/_Blake D. Moore Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bill Huizenga: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Bill Huizenga/_Bill Huizenga Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Beth van Duyne: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Beth van Duyne/_Beth van Duyne Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ben Cline: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Ben Cline/_Ben Cline Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Barry Moore: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Barry Moore/_Barry Moore Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Barry Loudermilk: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Barry Loudermilk/_Barry Loudermilk Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Austin Scott: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Austin Scott/_Austin Scott Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Aumua Amata Coleman Radewagen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Aumua Amata Coleman Radewagen/_Aumua Amata Coleman Radewagen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### August Pfluger: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/August Pfluger/_August Pfluger Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Anna Paulina Luna: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Anna Paulina Luna/_Anna Paulina Luna Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ann Wagner: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Ann Wagner/_Ann Wagner Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andy Harris: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Andy Harris/_Andy Harris Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andy Biggs: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Andy Biggs/_Andy Biggs Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andy Barr: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Andy Barr/_Andy Barr Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andrew S. Clyde: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Andrew S. Clyde/_Andrew S. Clyde Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andrew R. Garbarino: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Andrew R. Garbarino/_Andrew R. Garbarino Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andrew Ogles: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Andrew Ogles/_Andrew Ogles Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Adrian Smith: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Adrian Smith/_Adrian Smith Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Addison P. McDowell: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Addison P. McDowell/_Addison P. McDowell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Abraham J. Hamadeh: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Abraham J. Hamadeh/_Abraham J. Hamadeh Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Aaron Bean: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/House/Aaron Bean/_Aaron Bean Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Vivek Ramaswamy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Races/OH Governor 2026/Vivek Ramaswamy/_Vivek Ramaswamy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Steve Hilton: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Races/CA Governor 2026/Steve Hilton.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Xavier Becerra Master Profile: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Races/CA Governor 2026/Xavier Becerra/_Xavier Becerra Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Betty Yee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Races/CA Governor 2026/Betty Yee/_Betty Yee Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bezalel Smotrich: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/International/Bezalel Smotrich.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Itamar Ben-Gvir: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/International/Itamar Ben-Gvir.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Volodymyr Zelenskyy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/International/Volodymyr Zelenskyy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chris Christie: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Independent/Chris Christie.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Angus S. King: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Independent/Senate/Angus S. King/_Angus S. King Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert F. Kennedy Jr: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Independent/Presidential/Robert F. Kennedy Jr/_Robert F. Kennedy Jr Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dan Osborn: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Independent/Dan Osborn/_Dan Osborn Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bob Casey: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Bob Casey.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tina Smith: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Tina Smith/_Tina Smith Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tim Kaine: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Tim Kaine/_Tim Kaine Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Scott Wiener: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Scott Wiener/_Scott Wiener Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ruben Gallego: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Ruben Gallego/_Ruben Gallego Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Richard J. Durbin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Richard J. Durbin/_Richard J. Durbin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Peter Welch: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Peter Welch/_Peter Welch Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mazie K. Hirono: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Mazie K. Hirono/_Mazie K. Hirono Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Margaret Wood Hassan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Margaret Wood Hassan/_Margaret Wood Hassan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lisa Blunt Rochester: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Lisa Blunt Rochester/_Lisa Blunt Rochester Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kirsten E. Gillibrand: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Kirsten E. Gillibrand/_Kirsten E. Gillibrand Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jacky Rosen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Jacky Rosen/_Jacky Rosen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Graham Platner Master Profile: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Graham Platner/_Graham Platner Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Elissa Slotkin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Elissa Slotkin/_Elissa Slotkin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chris van Hollen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Chris van Hollen/_Chris van Hollen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ben Ray Lujan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Ben Ray Lujan/_Ben Ray Lujan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Angela D. Alsobrooks: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Angela D. Alsobrooks/_Angela D. Alsobrooks Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andy Kim: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Andy Kim/_Andy Kim Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Abdul El-Sayed Master Profile: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Senate/Abdul El-Sayed/_Abdul El-Sayed Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Rahm Emanuel: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Obama Cabinet/Rahm Emanuel/_Rahm Emanuel Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ken Salazar: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Obama Cabinet/Ken Salazar/_Ken Salazar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Julian Castro: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Obama Cabinet/Julian Castro/_Julian Castro Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John Kerry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Obama Cabinet/John Kerry/_John Kerry Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Hilda Solis: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Obama Cabinet/Hilda Solis/_Hilda Solis Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gary Locke: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Obama Cabinet/Gary Locke/_Gary Locke Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
 ### Build stub: AT&T - WarnerMedia
 
 Referenced by 268 other vault profiles but has no file yet. Building a stub unlocks 268 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AT&T, News Corp - Fox Corporation, Telecom Industry.
@@ -945,6 +3078,15 @@ Reconciled class-tag proposals (augmentation + conflict) that need human review.
 - **Cost:** ~5 min
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `vault-audit`
+
+### Bill Pulte: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Bill Pulte/_Bill Pulte Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
 
 ### vault-audit: librarian-gap-audit — 355 findings
 

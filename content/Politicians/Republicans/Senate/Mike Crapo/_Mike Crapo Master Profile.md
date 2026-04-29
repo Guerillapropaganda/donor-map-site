@@ -1,7 +1,7 @@
 ---
 title: Mike Crapo
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him authorship over the entire federal tax code, and the financial services industry that benefits most from that code is his dominant donor class. Over 50% of his campaign fun...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1

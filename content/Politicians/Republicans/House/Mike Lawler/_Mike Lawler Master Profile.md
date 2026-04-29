@@ -1,7 +1,7 @@
 ---
 title: "Mike Lawler Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Mike Lawler is a crucial swing seat Republican in a district Harris won in 2020 and 2024, where his vulnerability makes him a priority target for donor networks seeking influence over House Republicans. His donor profile reveals a coalition of fin..."
 last-updated: 2026-03-24
 source-tier: 1

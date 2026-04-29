@@ -1,7 +1,7 @@
 ---
 title: "Eric Swalwell Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Eric Swalwell is the media profile candidate — his visibility derives from cable news appearances (MSNBC, CNN, Fox News) and his prominent role in Trump impeachment proceedings, not from legislative accomplishment. His political brand is 'anti-Tru..."
 last-updated: 2026-04-08
 source-tier: 1

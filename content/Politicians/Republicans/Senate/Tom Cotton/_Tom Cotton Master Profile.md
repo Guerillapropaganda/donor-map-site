@@ -1,7 +1,7 @@
 ---
 title: "Tom Cotton Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: "Tom Cotton is the neoconservative donor class's most successful product. His 2014 Senate campaign was funded by Bill Kristol's Emergency Committee for Israel ($960K), Paul Singer's Elliott Management (#2 donor, content-readiness: ready65K+), Sheldon Adelson (content-readiness: ready00K+ fun..."
 last-updated: 2026-04-13
 source-tier: 1

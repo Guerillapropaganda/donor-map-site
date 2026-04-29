@@ -1,7 +1,7 @@
 ---
 title: Jim Jordan
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: Jim Jordan's career is the institutional architecture of performative aggression in service of donor-class protection. The Freedom Caucus exists to block legislation that threatens the Koch/Club for Growth deregulation agenda. The Judiciary Commit...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1

@@ -1,7 +1,7 @@
 ---
 title: French Hill
 type: politician
-content-readiness: draft
+content-readiness: ready
 central-thesis: French Hill exists to translate Wall Street's regulatory wish list into committee action. His entire professional biography , commercial banking analyst, Senate Banking Committee staffer, Treasury Department official, community bank founder and CE...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1

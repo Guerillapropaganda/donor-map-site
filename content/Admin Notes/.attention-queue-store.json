@@ -2055,5 +2055,4054 @@
         "news_multiplier": 2
       }
     }
+  ],
+  "mechanical-readiness-stuck": [
+    {
+      "bucket": "compounding",
+      "what": "InfluenceMap: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/InfluenceMap.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "State Policy Network: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/State Policy Network.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ryan Zinke: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Ryan Zinke/_Ryan Zinke Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rick Perry: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Rick Perry/_Rick Perry Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Pompeo: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Mike Pompeo/_Mike Pompeo Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jeff Sessions: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Jeff Sessions/_Jeff Sessions Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dan Coats: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Dan Coats/_Dan Coats Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bill Pulte: 2 gaps away from ready (noTier1, noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Bill Pulte/_Bill Pulte Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noTier1",
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ben Carson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Ben Carson/_Ben Carson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Alexander Acosta: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Alexander Acosta/_Alexander Acosta Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tommy Tuberville: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Tommy Tuberville/_Tommy Tuberville Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Todd Young: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Todd Young/_Todd Young Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ted Budd: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Ted Budd/_Ted Budd Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Steve Daines: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Steve Daines/_Steve Daines Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Pete Ricketts: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Pete Ricketts/_Pete Ricketts Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Marsha Blackburn: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Marsha Blackburn/_Marsha Blackburn Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kevin Cramer: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Kevin Cramer/_Kevin Cramer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John R. Curtis: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/John R. Curtis/_John R. Curtis Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jim Inhofe: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Jim Inhofe/_Jim Inhofe Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jim Banks: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Jim Banks/_Jim Banks Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "James C. Justice: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/James C. Justice/_James C. Justice Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Eric Schmitt: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Eric Schmitt/_Eric Schmitt Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David McCormick: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/David McCormick/_David McCormick Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dan Sullivan: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Dan Sullivan/_Dan Sullivan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cynthia M. Lummis: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Cynthia M. Lummis/_Cynthia M. Lummis Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cindy Hyde-Smith: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Cindy Hyde-Smith/_Cindy Hyde-Smith Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chuck Grassley: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Chuck Grassley/_Chuck Grassley Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Alan Armstrong: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Senate/Alan Armstrong/_Alan Armstrong Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "George W. Bush: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Presidential/George W Bush/_George W Bush Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Donald Trump: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Presidential/Donald Trump/_Donald Trump Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ray LaHood: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Obama Cabinet/Ray LaHood/_Ray LaHood Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chuck Hagel: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/Obama Cabinet/Chuck Hagel/_Chuck Hagel Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Zachary Nunn: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Zachary Nunn/_Zachary Nunn Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Young Kim: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Young Kim/_Young Kim Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "William R. Timmons: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/William R. Timmons/_William R. Timmons Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Wesley Hunt: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Wesley Hunt/_Wesley Hunt Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Warren Davidson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Warren Davidson/_Warren Davidson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "W. Gregory Steube: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/W. Gregory Steube/_W. Gregory Steube Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Vince Fong: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Vince Fong/_Vince Fong Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Victoria Spartz: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Victoria Spartz/_Victoria Spartz Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Vern Buchanan: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Vern Buchanan/_Vern Buchanan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Troy E. Nehls: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Troy E. Nehls/_Troy E. Nehls Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Troy Balderson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Troy Balderson/_Troy Balderson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Trent Kelly: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Trent Kelly/_Trent Kelly Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tracey Mann: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Tracey Mann/_Tracey Mann Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tony Wied: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Tony Wied/_Tony Wied Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tony Gonzales: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Tony Gonzales/_Tony Gonzales Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tom McClintock: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Tom McClintock/_Tom McClintock Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tom Emmer: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Tom Emmer/_Tom Emmer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tom Barrett: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Tom Barrett/_Tom Barrett Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tim Burchett: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Tim Burchett/_Tim Burchett Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Thomas P. Tiffany: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Thomas P. Tiffany/_Thomas P. Tiffany Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Thomas Massie: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Thomas Massie/_Thomas Massie Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Thomas H. Kean: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Thomas H. Kean/_Thomas H. Kean Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Steve Womack: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Steve Womack/_Steve Womack Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Stephanie I. Bice: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Stephanie I. Bice/_Stephanie I. Bice Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Scott Perry: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Scott Perry/_Scott Perry Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Scott Franklin: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Scott Franklin/_Scott Franklin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Scott Fitzgerald: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Scott Fitzgerald/_Scott Fitzgerald Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Scott Desjarlais: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Scott Desjarlais/_Scott Desjarlais Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Russell Fry: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Russell Fry/_Russell Fry Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Russ Fulcher: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Russ Fulcher/_Russ Fulcher Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rudy Yakym: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Rudy Yakym/_Rudy Yakym Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ronny Jackson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Ronny Jackson/_Ronny Jackson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ron Estes: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Ron Estes/_Ron Estes Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Robert P. Bresnahan: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Robert P. Bresnahan/_Robert P. Bresnahan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Robert J. Wittman: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Robert J. Wittman/_Robert J. Wittman Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Robert F. Onder: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Robert F. Onder/_Robert F. Onder Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Robert E. Latta: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Robert E. Latta/_Robert E. Latta Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Robert B. Aderholt: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Robert B. Aderholt/_Robert B. Aderholt Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Riley M. Moore: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Riley M. Moore/_Riley M. Moore Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rick W. Allen: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Rick W. Allen/_Rick W. Allen Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Richard McCormick: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Richard McCormick/_Richard McCormick Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Richard Hudson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Richard Hudson/_Richard Hudson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Randy K. Weber: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Randy K. Weber/_Randy K. Weber Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Randy Feenstra: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Randy Feenstra/_Randy Feenstra Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ralph Norman: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Ralph Norman/_Ralph Norman Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Pete Stauber: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Pete Stauber/_Pete Stauber Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Pete Sessions: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Pete Sessions/_Pete Sessions Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Paul A. Gosar: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Paul A. Gosar/_Paul A. Gosar Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Pat Fallon: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Pat Fallon/_Pat Fallon Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Nicole Malliotakis: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Nicole Malliotakis/_Nicole Malliotakis Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Nick Lalota: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Nick Lalota/_Nick Lalota Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Nicholas J. Begich: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Nicholas J. Begich/_Nicholas J. Begich Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Nicholas A. Langworthy: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Nicholas A. Langworthy/_Nicholas A. Langworthy Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Neal P. Dunn: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Neal P. Dunn/_Neal P. Dunn Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Nathaniel Moran: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Nathaniel Moran/_Nathaniel Moran Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Morgan Luttrell: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Morgan Luttrell/_Morgan Luttrell Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Monica de la Cruz: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Monica de la Cruz/_Monica de la Cruz Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Kelly: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mike Kelly/_Mike Kelly Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Flood: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mike Flood/_Mike Flood Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Ezell: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mike Ezell/_Mike Ezell Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Carey: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mike Carey/_Mike Carey Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Bost: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mike Bost/_Mike Bost Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michelle Fischbach: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michelle Fischbach/_Michelle Fischbach Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael T. McCaul: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michael T. McCaul/_Michael T. McCaul Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael R. Turner: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michael R. Turner/_Michael R. Turner Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael Lawler: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michael Lawler/_Michael Lawler Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael K. Simpson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michael K. Simpson/_Michael K. Simpson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael Guest: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michael Guest/_Michael Guest Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael Cloud: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michael Cloud/_Michael Cloud Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael A. Rulli: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Michael A. Rulli/_Michael A. Rulli Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Max L. Miller: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Max L. Miller/_Max L. Miller Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Matt van Epps: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Matt van Epps/_Matt van Epps Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mary E. Miller: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mary E. Miller/_Mary E. Miller Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Marlin A. Stutzman: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Marlin A. Stutzman/_Marlin A. Stutzman Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mark E. Amodei: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mark E. Amodei/_Mark E. Amodei Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mark B. Messmer: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mark B. Messmer/_Mark B. Messmer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mark Alford: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mark Alford/_Mark Alford Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Marjorie Taylor Greene: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Marjorie Taylor Greene/_Marjorie Taylor Greene Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mariannette Miller-Meeks: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Mariannette Miller-Meeks/_Mariannette Miller-Meeks Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lloyd Smucker: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Lloyd Smucker/_Lloyd Smucker Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lisa C. McClain: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Lisa C. McClain/_Lisa C. McClain Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Laurel M. Lee: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Laurel M. Lee/_Laurel M. Lee Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lance Gooden: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Lance Gooden/_Lance Gooden Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kevin Kiley: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Kevin Kiley/_Kevin Kiley Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kevin Hern: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Kevin Hern/_Kevin Hern Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Keith Self: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Keith Self/_Keith Self Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kat Cammack: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Kat Cammack/_Kat Cammack Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Julia Letlow: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Julia Letlow/_Julia Letlow Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Josh Brecheen: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Josh Brecheen/_Josh Brecheen Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John W. Rose: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/John W. Rose/_John W. Rose Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John R. Moolenaar: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/John R. Moolenaar/_John R. Moolenaar Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John R. Carter: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/John R. Carter/_John R. Carter Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Joyce: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/John Joyce/_John Joyce Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John James: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/John James/_John James Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John J. McGuire: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/John J. McGuire/_John J. McGuire Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John H. Rutherford: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/John H. Rutherford/_John H. Rutherford Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Joe Wilson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Joe Wilson/_Joe Wilson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jennifer A. Kiggans: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Jennifer A. Kiggans/_Jennifer A. Kiggans Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jefferson van Drew: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Jefferson van Drew/_Jefferson van Drew Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jeff Hurd: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Jeff Hurd/_Jeff Hurd Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jay Obernolte: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Jay Obernolte/_Jay Obernolte Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "James R. Baird: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/James R. Baird/_James R. Baird Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "James C. Moylan: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/James C. Moylan/_James C. Moylan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jake Ellzey: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Jake Ellzey/_Jake Ellzey Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jack Bergman: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Jack Bergman/_Jack Bergman Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "J. French Hill: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/J. French Hill/_J. French Hill Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Harriet M. Hageman: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Harriet M. Hageman/_Harriet M. Hageman Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Harold Rogers: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Harold Rogers/_Harold Rogers Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "H. Morgan Griffith: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/H. Morgan Griffith/_H. Morgan Griffith Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Guy Reschenthaler: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Guy Reschenthaler/_Guy Reschenthaler Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Gus M. Bilirakis: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Gus M. Bilirakis/_Gus M. Bilirakis Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Gregory F. Murphy: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Gregory F. Murphy/_Gregory F. Murphy Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Glenn Grothman: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Glenn Grothman/_Glenn Grothman Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Gary J. Palmer: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Gary J. Palmer/_Gary J. Palmer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Gabe Evans: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Gabe Evans/_Gabe Evans Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Erin Houchin: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Erin Houchin/_Erin Houchin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Eric Burlison: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Eric Burlison/_Eric Burlison Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Elijah Crane: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Elijah Crane/_Elijah Crane Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Earl L. Buddy Carter: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Earl L. Buddy Carter/_Earl L. Buddy Carter Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dusty Johnson: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Dusty Johnson/_Dusty Johnson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Don Bacon: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Don Bacon/_Don Bacon Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Diana Harshbarger: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Diana Harshbarger/_Diana Harshbarger Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Derrick van Orden: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Derrick van Orden/_Derrick van Orden Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David Schweikert: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/David Schweikert/_David Schweikert Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David Rouzer: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/David Rouzer/_David Rouzer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David P. Joyce: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/David P. Joyce/_David P. Joyce Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David Kustoff: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/David Kustoff/_David Kustoff Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David J. Taylor: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/David J. Taylor/_David J. Taylor Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David G. Valadao: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/David G. Valadao/_David G. Valadao Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Darrell Issa: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Darrell Issa/_Darrell Issa Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Darin Lahood: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Darin Lahood/_Darin Lahood Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Daniel Webster: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Daniel Webster/_Daniel Webster Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Daniel Meuser: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Daniel Meuser/_Daniel Meuser Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dan Newhouse: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Dan Newhouse/_Dan Newhouse Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dale W. Strong: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Dale W. Strong/_Dale W. Strong Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Craig A. Goldman: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Craig A. Goldman/_Craig A. Goldman Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cory Mills: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Cory Mills/_Cory Mills Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cliff Bentz: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Cliff Bentz/_Cliff Bentz Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Clay Higgins: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Clay Higgins/_Clay Higgins Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Claudia Tenney: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Claudia Tenney/_Claudia Tenney Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chuck Edwards: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Chuck Edwards/_Chuck Edwards Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Christopher H. Smith: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Christopher H. Smith/_Christopher H. Smith Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Charles J. Chuck Fleischmann: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Charles J. Chuck Fleischmann/_Charles J. Chuck Fleischmann Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Celeste Maloy: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Celeste Maloy/_Celeste Maloy Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Carol D. Miller: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Carol D. Miller/_Carol D. Miller Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Byron Donalds: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Byron Donalds/_Byron Donalds Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Burgess Owens: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Burgess Owens/_Burgess Owens Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brian K. Fitzpatrick: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Brian K. Fitzpatrick/_Brian K. Fitzpatrick Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brad Finstad: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Brad Finstad/_Brad Finstad Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Blake D. Moore: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Blake D. Moore/_Blake D. Moore Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bill Huizenga: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Bill Huizenga/_Bill Huizenga Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Beth van Duyne: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Beth van Duyne/_Beth van Duyne Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ben Cline: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Ben Cline/_Ben Cline Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Barry Moore: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Barry Moore/_Barry Moore Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Barry Loudermilk: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Barry Loudermilk/_Barry Loudermilk Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Austin Scott: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Austin Scott/_Austin Scott Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Aumua Amata Coleman Radewagen: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Aumua Amata Coleman Radewagen/_Aumua Amata Coleman Radewagen Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "August Pfluger: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/August Pfluger/_August Pfluger Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Anna Paulina Luna: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Anna Paulina Luna/_Anna Paulina Luna Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ann Wagner: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Ann Wagner/_Ann Wagner Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Andy Harris: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Andy Harris/_Andy Harris Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Andy Biggs: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Andy Biggs/_Andy Biggs Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Andy Barr: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Andy Barr/_Andy Barr Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Andrew S. Clyde: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Andrew S. Clyde/_Andrew S. Clyde Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Andrew R. Garbarino: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Andrew R. Garbarino/_Andrew R. Garbarino Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Andrew Ogles: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Andrew Ogles/_Andrew Ogles Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Adrian Smith: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Adrian Smith/_Adrian Smith Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Addison P. McDowell: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Addison P. McDowell/_Addison P. McDowell Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Abraham J. Hamadeh: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Abraham J. Hamadeh/_Abraham J. Hamadeh Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Aaron Bean: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Republicans/House/Aaron Bean/_Aaron Bean Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Vivek Ramaswamy: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Races/OH Governor 2026/Vivek Ramaswamy/_Vivek Ramaswamy Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Steve Hilton: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Races/CA Governor 2026/Steve Hilton.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Xavier Becerra Master Profile: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Races/CA Governor 2026/Xavier Becerra/_Xavier Becerra Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Betty Yee: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Races/CA Governor 2026/Betty Yee/_Betty Yee Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bezalel Smotrich: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/International/Bezalel Smotrich.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Itamar Ben-Gvir: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/International/Itamar Ben-Gvir.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Volodymyr Zelenskyy: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/International/Volodymyr Zelenskyy.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chris Christie: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Independent/Chris Christie.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Angus S. King: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Independent/Senate/Angus S. King/_Angus S. King Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Robert F. Kennedy Jr: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Independent/Presidential/Robert F. Kennedy Jr/_Robert F. Kennedy Jr Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dan Osborn: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Independent/Dan Osborn/_Dan Osborn Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bob Casey: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Bob Casey.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tina Smith: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Tina Smith/_Tina Smith Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tim Kaine: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Tim Kaine/_Tim Kaine Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Scott Wiener: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Scott Wiener/_Scott Wiener Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ruben Gallego: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Ruben Gallego/_Ruben Gallego Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Richard J. Durbin: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Richard J. Durbin/_Richard J. Durbin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Peter Welch: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Peter Welch/_Peter Welch Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mazie K. Hirono: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Mazie K. Hirono/_Mazie K. Hirono Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Margaret Wood Hassan: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Margaret Wood Hassan/_Margaret Wood Hassan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lisa Blunt Rochester: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Lisa Blunt Rochester/_Lisa Blunt Rochester Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kirsten E. Gillibrand: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Kirsten E. Gillibrand/_Kirsten E. Gillibrand Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jacky Rosen: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Jacky Rosen/_Jacky Rosen Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Graham Platner Master Profile: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Graham Platner/_Graham Platner Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Elissa Slotkin: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Elissa Slotkin/_Elissa Slotkin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chris van Hollen: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Chris van Hollen/_Chris van Hollen Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ben Ray Lujan: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Ben Ray Lujan/_Ben Ray Lujan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Angela D. Alsobrooks: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Angela D. Alsobrooks/_Angela D. Alsobrooks Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Andy Kim: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Andy Kim/_Andy Kim Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Abdul El-Sayed Master Profile: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Senate/Abdul El-Sayed/_Abdul El-Sayed Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rahm Emanuel: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Obama Cabinet/Rahm Emanuel/_Rahm Emanuel Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ken Salazar: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Obama Cabinet/Ken Salazar/_Ken Salazar Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Julian Castro: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Obama Cabinet/Julian Castro/_Julian Castro Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Kerry: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Obama Cabinet/John Kerry/_John Kerry Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Hilda Solis: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Obama Cabinet/Hilda Solis/_Hilda Solis Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Gary Locke: one gap away from ready (noConnections)",
+      "why": "Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.",
+      "where": "content/Politicians/Democrats/Obama Cabinet/Gary Locke/_Gary Locke Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "mechanical-readiness-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "draft",
+        "to_state": "ready",
+        "gap_reasons": [
+          "noConnections"
+        ]
+      }
+    }
   ]
 }
