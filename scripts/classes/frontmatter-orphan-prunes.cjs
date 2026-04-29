@@ -75,11 +75,19 @@ pipeline.register({
     // and handles edge cases (multi-name fields, escaping, etc.) correctly.
     // For the pipeline's accounting, we mark resolved AFTER the script
     // succeeds.
+    // --write is critical: without it, rebuild-relationship-caches.cjs runs
+    // in dry-run mode and does NOT mutate the profile frontmatter. The
+    // orphan record would still flip to resolved (via pipeline.transition
+    // below), creating a state divergence where the record claims pruned
+    // but the name persists in frontmatter. The --report-orphans pipeline
+    // would then re-surface the same orphan on the next tick. Always pass
+    // --write here so approve = applied.
     const result = spawnSync(
       process.execPath,
       [
         path.join(ROOT, 'scripts/rebuild-relationship-caches.cjs'),
         '--apply-approved',
+        '--write',
         '--orphan-id', rec.id,
       ],
       { cwd: ROOT, encoding: 'utf-8', maxBuffer: 16 * 1024 * 1024 }

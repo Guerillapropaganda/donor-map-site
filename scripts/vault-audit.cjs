@@ -108,6 +108,15 @@ const CHECKS = [
     queue: { bucket: 'deciding', leverage: 3, cost_min: 5 },
   },
   {
+    name: 'frontmatter-prune-pending',
+    description:
+      "ADR-0027 P3: records stuck in state=approved-prune. Steady state is 0 — under normal flow the rebuilder runs synchronously on David's approve click. Findings count = records aged >1h in approved-prune (likely silent failure of the apply path). Investigate any positive count.",
+    cmd: ['node', 'scripts/frontmatter-prune-pending-check.cjs', '--json'],
+    parse: parseFrontmatterPrunePending,
+    timeout_ms: 30000,
+    queue: { bucket: 'compounding', leverage: 4, cost_min: 10 },
+  },
+  {
     name: 'relationship-overlap',
     description:
       "Profiles where the same name appears in BOTH a funding frontmatter field (politicians-funded / donors / top-donors) AND `opposes` on the same profile. Splits via librarian: monetary-backed = real both-sides (leave); frontmatter-only = editorial typo or librarian gap (David reviews). Findings count = frontmatter-only only.",
@@ -495,6 +504,24 @@ function parseFrontmatterOrphan(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'orphan-check parse failed' };
+  }
+}
+
+function parseFrontmatterPrunePending(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const overOneHour = j.over_one_hour || 0;
+    const total = j.pending_total || 0;
+    const overOneDay = j.over_one_day || 0;
+    if (total === 0) {
+      return { findings_count: 0, notes: 'no records in approved-prune (steady state).' };
+    }
+    return {
+      findings_count: overOneHour,
+      notes: `${total} approved-prune record(s); ${overOneHour} over 1h, ${overOneDay} over 24h. Apply path likely failed for the aged ones.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'prune-pending check parse failed' };
   }
 }
 

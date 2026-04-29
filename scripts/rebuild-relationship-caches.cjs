@@ -41,6 +41,13 @@ const MONETARY_ONLY = process.argv.includes('--monetary-only');
 const REPORT_ORPHANS = process.argv.includes('--report-orphans');
 const APPLY_APPROVED = process.argv.includes('--apply-approved');
 
+// --orphan-id <id>: when --apply-approved spawns from the
+// frontmatter-orphan-prunes pipeline class (one record at a time), filter
+// to only that record. Without this flag --apply-approved processes ALL
+// records in state=approved-prune (the original CLI mode is unchanged).
+const ORPHAN_ID_IDX = process.argv.indexOf('--orphan-id');
+const ORPHAN_ID = ORPHAN_ID_IDX >= 0 ? process.argv[ORPHAN_ID_IDX + 1] : null;
+
 // ─── Load canonical edges ─────────────────────────────────────────────────
 // Uses the relationships-store library (see scripts/lib/relationships-store.cjs)
 // which reads BOTH data/relationships.jsonl AND every .jsonl under data/derived/.
@@ -485,10 +492,28 @@ function applyApproved() {
   const orphanStore = require('./lib/frontmatter-orphan-candidates-store.cjs');
   console.log('═══ rebuild-relationship-caches --apply-approved ═══');
   console.log(`  mode: ${WRITE ? 'WRITE' : 'DRY RUN'}`);
+  if (ORPHAN_ID) console.log(`  scope: --orphan-id ${ORPHAN_ID}`);
   console.log();
 
   const allRecords = orphanStore.loadAll();
-  const approved = allRecords.filter((r) => r.state === 'approved-prune');
+  let approved = allRecords.filter((r) => r.state === 'approved-prune');
+  if (ORPHAN_ID) {
+    approved = approved.filter((r) => r.id === ORPHAN_ID);
+    if (approved.length === 0) {
+      // Could be: id not in approved-prune state (already resolved, or
+      // was rejected), or id doesn't exist. Both are no-ops from this
+      // script's perspective. Print specific diagnostic and exit 0 —
+      // the pipeline class spawns this and we don't want to fail its
+      // applyApproved loop just because the record state moved on.
+      const target = allRecords.find((r) => r.id === ORPHAN_ID);
+      if (!target) {
+        console.log(`  --orphan-id ${ORPHAN_ID} not found in store — nothing to do.`);
+      } else {
+        console.log(`  --orphan-id ${ORPHAN_ID} is in state=${target.state}, not 'approved-prune' — nothing to do.`);
+      }
+      return;
+    }
+  }
   if (approved.length === 0) {
     console.log('  no records in state=approved-prune — nothing to do.');
     return;
