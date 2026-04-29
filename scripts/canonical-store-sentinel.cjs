@@ -139,12 +139,15 @@ function main() {
     }
   }
 
-  // ─── ADR-0027: orphan-candidates store guard ─────────────────────
+  // ─── ADR-0027 + ADR-0029: orphan-candidates store guard ──────────
   //
   // data/frontmatter-orphan-candidates.jsonl is itself a canonical store
   // (Rule 1 applies). It MUST be edited only via:
   //   - scripts/rebuild-relationship-caches.cjs (--report-orphans / --apply-approved)
   //   - scripts/lib/frontmatter-orphan-candidates-store.cjs (the helper)
+  //   - scripts/lib/editorial-decision-pipeline.cjs (ADR-0029 pipeline)
+  //   - scripts/classes/frontmatter-orphan-prunes.cjs (pipeline class registration)
+  //   - scripts/migrate-pre-adr-0029-provenance.cjs (one-time backfill)
   //   - ops/src/app/api/relationships/orphans/* (P2 ops API, not yet built)
   // Any other commit touching this file is blocked.
   const ORPHAN_STORE = "data/frontmatter-orphan-candidates.jsonl"
@@ -152,6 +155,10 @@ function main() {
     /^scripts\/rebuild-relationship-caches\.cjs$/,
     /^scripts\/lib\/frontmatter-orphan-candidates-store\.cjs$/,
     /^scripts\/frontmatter-orphan-check\.cjs$/,
+    /^scripts\/lib\/editorial-decision-pipeline\.cjs$/,
+    /^scripts\/classes\/frontmatter-orphan-prunes\.cjs$/,
+    /^scripts\/migrate-pre-adr-0029-provenance\.cjs$/,
+    /^scripts\/calibration-auto-revert\.cjs$/,
     /^ops\/src\/app\/api\/relationships\/orphans\//,
     /^ops\/src\/app\/relationships\/orphans\//,
   ]
@@ -162,10 +169,76 @@ function main() {
       console.log("[x] canonical-store-sentinel blocked the commit")
       console.log("")
       console.log(`  You edited ${ORPHAN_STORE} but did not stage an authorized writer.`)
-      console.log("  Authorized writers (per ADR-0027):")
+      console.log("  Authorized writers (per ADR-0027 + ADR-0029):")
       console.log("    scripts/rebuild-relationship-caches.cjs (--report-orphans / --apply-approved)")
       console.log("    scripts/lib/frontmatter-orphan-candidates-store.cjs")
+      console.log("    scripts/lib/editorial-decision-pipeline.cjs (ADR-0029 pipeline)")
+      console.log("    scripts/classes/frontmatter-orphan-prunes.cjs (pipeline class)")
+      console.log("    scripts/migrate-pre-adr-0029-provenance.cjs (one-time)")
+      console.log("    scripts/calibration-auto-revert.cjs (auto-revert hook)")
       console.log("    ops/src/app/api/relationships/orphans/* (P2)")
+      console.log("")
+      console.log("  Emergency bypass: SKIP_HOOKS=1 git commit ...")
+      console.log("")
+      process.exit(1)
+    }
+  }
+
+  // ─── ADR-0029: librarian-gap-decisions store guard ───────────────
+  //
+  // data/librarian-gap-decisions.jsonl is a canonical store. Authorized
+  // writers all live in the ADR-0029 editorial-decision-pipeline.
+  const LIBRARIAN_GAP_STORE = "data/librarian-gap-decisions.jsonl"
+  const LIBRARIAN_GAP_AUTHORITY_PATHS = [
+    /^scripts\/librarian-gap-propose\.cjs$/,
+    /^scripts\/lib\/librarian-gap-decisions-store\.cjs$/,
+    /^scripts\/lib\/editorial-decision-pipeline\.cjs$/,
+    /^scripts\/classes\/librarian-gap-aliases\.cjs$/,
+    /^scripts\/calibration-auto-revert\.cjs$/,
+    /^scripts\/migrate-pre-adr-0029-provenance\.cjs$/,
+  ]
+  if (staged.includes(LIBRARIAN_GAP_STORE)) {
+    const hasAuthority = staged.some((f) => LIBRARIAN_GAP_AUTHORITY_PATHS.some((re) => re.test(f)))
+    if (!hasAuthority) {
+      console.log("")
+      console.log("[x] canonical-store-sentinel blocked the commit")
+      console.log("")
+      console.log(`  You edited ${LIBRARIAN_GAP_STORE} but did not stage an authorized writer.`)
+      console.log("  Authorized writers (per ADR-0029):")
+      console.log("    scripts/librarian-gap-propose.cjs (the propose pipeline)")
+      console.log("    scripts/lib/librarian-gap-decisions-store.cjs")
+      console.log("    scripts/lib/editorial-decision-pipeline.cjs")
+      console.log("    scripts/classes/librarian-gap-aliases.cjs")
+      console.log("    scripts/calibration-auto-revert.cjs")
+      console.log("")
+      console.log("  Emergency bypass: SKIP_HOOKS=1 git commit ...")
+      console.log("")
+      process.exit(1)
+    }
+  }
+
+  // ─── ADR-0029: editorial-pipeline-freeze.json guard ──────────────
+  //
+  // data/editorial-pipeline-freeze.json controls Tier 1 auto-apply.
+  // Hand-edits would silently re-enable runaway predicates; only the
+  // pipeline lib + freeze CLI may write.
+  const FREEZE_STORE = "data/editorial-pipeline-freeze.json"
+  const FREEZE_AUTHORITY_PATHS = [
+    /^scripts\/lib\/editorial-decision-pipeline\.cjs$/,
+    /^scripts\/editorial-pipeline-freeze\.cjs$/,
+    /^scripts\/claude-decision-volume-check\.cjs$/,  // auto-freeze on hard limit
+  ]
+  if (staged.includes(FREEZE_STORE)) {
+    const hasAuthority = staged.some((f) => FREEZE_AUTHORITY_PATHS.some((re) => re.test(f)))
+    if (!hasAuthority) {
+      console.log("")
+      console.log("[x] canonical-store-sentinel blocked the commit")
+      console.log("")
+      console.log(`  You edited ${FREEZE_STORE} but did not stage an authorized writer.`)
+      console.log("  Authorized writers (per ADR-0029):")
+      console.log("    scripts/lib/editorial-decision-pipeline.cjs")
+      console.log("    scripts/editorial-pipeline-freeze.cjs (CLI)")
+      console.log("    scripts/claude-decision-volume-check.cjs (auto-freeze on hard limit)")
       console.log("")
       console.log("  Emergency bypass: SKIP_HOOKS=1 git commit ...")
       console.log("")

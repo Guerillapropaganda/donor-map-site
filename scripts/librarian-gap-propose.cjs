@@ -344,6 +344,19 @@ async function modeTier1() {
   // only — covers formatting/case variants, blocks edit-distance neighbors
   // that could be different people.
   const result = await pipeline.runTier1('librarian-gap-aliases');
+  if (result.skipped === 'pipeline-frozen') {
+    console.log('  ⏸ pipeline frozen — skipping Tier 1 auto-apply');
+    console.log(`     frozen_at: ${result.frozen_at}`);
+    console.log(`     frozen_by: ${result.frozen_by}`);
+    console.log(`     reason: ${result.reason}`);
+    console.log('');
+    console.log('  Lift via: node scripts/editorial-pipeline-freeze.cjs --clear --reason "<note>"');
+    return;
+  }
+  if (result.skipped) {
+    console.log(`  skipped: ${result.skipped}`);
+    return;
+  }
   console.log(`  candidates seen: ${result.candidates_seen}`);
   console.log(`  matched predicate: ${result.matched}`);
   console.log(`  transitioned to approve-state: ${result.transitioned_to_approve}`);

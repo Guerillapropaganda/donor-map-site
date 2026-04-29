@@ -69,6 +69,51 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..', '..');
 const CALIBRATION_FIXTURE = path.join(ROOT, 'data', 'calibration-fixture.jsonl');
+const FREEZE_FILE = path.join(ROOT, 'data', 'editorial-pipeline-freeze.json');
+
+// ─── freeze (Phase 2 — auto-freeze on volume hard alarm) ───────────
+
+function readFreezeState() {
+  if (!fs.existsSync(FREEZE_FILE)) return { frozen: false };
+  try { return JSON.parse(fs.readFileSync(FREEZE_FILE, 'utf-8')); }
+  catch { return { frozen: false, error: 'freeze file unreadable — treating as unfrozen' }; }
+}
+
+function writeFreezeState(state) {
+  const tmp = FREEZE_FILE + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(state, null, 2) + '\n', 'utf-8');
+  fs.renameSync(tmp, FREEZE_FILE);
+}
+
+function setFreeze(reason, by = 'claude-auto') {
+  const cur = readFreezeState();
+  const history = Array.isArray(cur.history) ? cur.history : [];
+  if (cur.frozen) {
+    history.push({ at: new Date().toISOString(), event: 'freeze-extended', by, reason });
+  } else {
+    history.push({ at: new Date().toISOString(), event: 'frozen', by, reason });
+  }
+  writeFreezeState({
+    frozen: true,
+    frozen_at: cur.frozen ? cur.frozen_at : new Date().toISOString(),
+    frozen_by: by,
+    reason,
+    history,
+  });
+}
+
+function clearFreeze(by = 'david', note = null) {
+  const cur = readFreezeState();
+  const history = Array.isArray(cur.history) ? cur.history : [];
+  history.push({ at: new Date().toISOString(), event: 'unfrozen', by, note });
+  writeFreezeState({
+    frozen: false,
+    frozen_at: null,
+    frozen_by: null,
+    reason: null,
+    history,
+  });
+}
 
 // ─── module-level registry ─────────────────────────────────────────
 
@@ -319,6 +364,19 @@ async function runTier1(className, options = {}) {
   }
   const dryRun = !!options.dry_run;
 
+  // Phase 2: respect the auto-freeze. The volume check sets this when
+  // the hard limit (200 claude-auto/hr) is breached. Bypass requires
+  // manual clearFreeze (intentional friction).
+  const freezeState = readFreezeState();
+  if (freezeState.frozen && !options.bypass_freeze) {
+    return {
+      skipped: 'pipeline-frozen',
+      frozen_at: freezeState.frozen_at,
+      frozen_by: freezeState.frozen_by,
+      reason: freezeState.reason,
+    };
+  }
+
   const records = cls.store.loadAll();
   const candidates = records.filter((r) => r.state === 'candidate');
 
@@ -560,6 +618,10 @@ module.exports = {
   stats,
   statsAll,
   sampleTier1Decisions,
+  // freeze controls
+  readFreezeState,
+  setFreeze,
+  clearFreeze,
   // exposed for tests + introspection
   _registry: REGISTRY,
   _loadCalibrationFixtureProfiles: loadCalibrationFixtureProfiles,

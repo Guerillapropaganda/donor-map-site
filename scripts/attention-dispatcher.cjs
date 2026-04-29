@@ -77,6 +77,19 @@ const PRODUCERS = [
     args: ['--quiet'],
     timeout_ms: 120_000,
   },
+  // ADR-0029 Phase 2: closes the safety loop. Runs after vault-audit
+  // every 15 min (offset by 5 min) so calibration findings are fresh.
+  // Inspects each registered editorial-decision class for claude-auto
+  // decisions in the blast radius of failing fixtures and reverts them
+  // to state=candidate with reverted_reason set. Does NOT undo external
+  // side effects — the decision-record state revert is the signal,
+  // human re-review applies the actual fix.
+  {
+    name: 'calibration-auto-revert',
+    schedule: '5,20,35,50 * * * *',
+    script: 'scripts/calibration-auto-revert.cjs',
+    timeout_ms: 60_000,
+  },
   { name: 'voice-drift-detector',       schedule: '*/30 * * * *', script: 'scripts/voice-drift-detector.cjs' },
   { name: 'hallucination-catcher',      schedule: '0 * * * *',    script: 'scripts/hallucination-catcher.cjs' },
   { name: 'promotion-candidate-queue',  schedule: '15 * * * *',   script: 'scripts/promotion-candidate-queue.cjs' },

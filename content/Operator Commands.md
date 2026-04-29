@@ -138,6 +138,57 @@ node -e "console.log(JSON.stringify(require('./data/relationships-per-profile.js
 
 ---
 
+## Pipeline frozen — `pipeline-frozen` state in Tier 1 output
+
+**You see:** running `--tier1` returns `⏸ pipeline frozen — skipping Tier 1 auto-apply`.
+
+**What it means:** Either the volume hard limit (200 claude-auto decisions/hour) was breached and the pipeline auto-froze, or someone froze it manually. Until lifted, every `pipeline.runTier1()` call returns `{ skipped: 'pipeline-frozen' }`. New candidates accumulate but nothing auto-applies. The propose --apply-decisions + --apply-approved flow still works for human-decided records.
+
+**Inspect:**
+```bash
+node scripts/editorial-pipeline-freeze.cjs --status
+```
+Shows the freeze state, who set it, and the recent history.
+
+**Lift after investigating the cause:**
+```bash
+node scripts/editorial-pipeline-freeze.cjs --clear --reason "<note explaining why it's safe>"
+```
+
+**Manually freeze (rare; usually auto-freeze handles it):**
+```bash
+node scripts/editorial-pipeline-freeze.cjs --set --reason "<why>"
+```
+
+The history list in the freeze JSON is append-only; it survives unfreezes for audit.
+
+---
+
+## Calibration auto-revert — Claude's Tier 1 mistake gets caught
+
+**You see:** the `auto-revert-pending` harness reports findings; or you check on a profile and notice a record sitting in `state=candidate` with `reverted_reason: calibration-drift:<fixture>` set.
+
+**What it means:** Claude auto-applied a Tier 1 decision recently. The calibration harness flagged that one of the protected fixtures (Pfizer top-N, ADM top-N, AOC top-N, etc.) broke. The auto-revert hook walked the registered classes, identified claude-auto decisions in the fixture's blast radius from the last 24h, and reverted them to candidate state. The decision is now flagged for human re-review.
+
+**The auto-revert does NOT undo the external side effect** (alias appended to entities.jsonl, frontmatter modified). It only signals. To re-review:
+
+```bash
+# Find which records were reverted
+node scripts/auto-revert-pending-check.cjs
+
+# Inspect a specific record
+node -e "const fs=require('fs');const j=fs.readFileSync('data/<store>.jsonl','utf-8').split('\n').filter(Boolean).map(JSON.parse).find(r=>r.id==='<id>');console.log(JSON.stringify(j,null,2))"
+```
+
+Three resolutions:
+- **Calibration was a false positive** — re-snapshot the fixture, manually re-approve the decision via the review-list workflow. The class's `apply_decision` re-runs.
+- **Predicate was wrong** — tighten the Tier 1 predicate in `scripts/classes/<class>.cjs` so this record class won't match next time. Mark this record `rejected`.
+- **Decision genuinely was wrong** — leave reverted. The reverted_reason captures audit trail.
+
+**Schedule:** runs every 15 min at offset minutes (5, 20, 35, 50) — slightly after the calibration check at 0/15/30/45.
+
+---
+
 ## Editorial decision pipeline — Claude-auto vs David-approved (ADR-0029)
 
 **Concept:** mechanical editorial decisions (alias merges, dedup, frontmatter-orphan triage, mechanical readiness promotion) flow through a tiered pipeline. Tier 1 is auto-applied with calibration safety net. Tier 2 is Claude-recommended, you batch-approve. Tier 3 stays David-only.
