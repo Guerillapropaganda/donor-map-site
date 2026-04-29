@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+# post-commit hook — append the just-landed commit to data/change-log.jsonl.
+# Non-blocking: any failure is logged to stderr but the commit stands.
+node "$(git rev-parse --show-toplevel)/scripts/change-log-record.cjs" || true

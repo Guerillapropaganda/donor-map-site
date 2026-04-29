@@ -90,6 +90,39 @@ const PRODUCERS = [
     script: 'scripts/calibration-auto-revert.cjs',
     timeout_ms: 60_000,
   },
+  // 2026-04-29 logging gap fix: scan the latest vault-audit artifact for
+  // genuinely-crashed checks (error || exit===null || timed_out) and
+  // auto-file bug-queue entries via scripts/lib/bugs-store.cjs. Each
+  // entry carries an `auto-resolve-when: harness-check=<name>` predicate
+  // so the existing bugs-auto-resolver closes the bug when the next run
+  // reports the check clean. Idempotent: re-runs find existing entries
+  // by hash and don't duplicate. Surfaces on the /bugs ops page.
+  // Schedule: 7 minutes after vault-audit so findings are fresh.
+  {
+    name: 'auto-bug-harness-crashes',
+    schedule: '7,22,37,52 * * * *',
+    script: 'scripts/auto-bug-harness-crashes.cjs',
+    timeout_ms: 30_000,
+  },
+  // Phase 2B-A of ADR-0029: seed the duplicate-entity-merges canonical
+  // store from harness output so newly-detected duplicates surface on
+  // /audit-claude-decisions automatically. Existing records' editorial
+  // state (David's calls) is preserved across re-runs.
+  {
+    name: 'duplicate-entity-merges-seed',
+    schedule: '12,42 * * * *',
+    script: 'scripts/duplicate-entity-merges-seed.cjs',
+    timeout_ms: 60_000,
+  },
+  // Phase 2B-B of ADR-0029: same shape as 2B-A but for pathless-stub
+  // ghost entities. Surfaces 13 known ghosts on /audit-claude-decisions
+  // for David's per-stub decision (merge / create-profile / accept-pathless).
+  {
+    name: 'pathless-stub-aliases-seed',
+    schedule: '17,47 * * * *',
+    script: 'scripts/pathless-stub-aliases-seed.cjs',
+    timeout_ms: 60_000,
+  },
   { name: 'voice-drift-detector',       schedule: '*/30 * * * *', script: 'scripts/voice-drift-detector.cjs' },
   { name: 'hallucination-catcher',      schedule: '0 * * * *',    script: 'scripts/hallucination-catcher.cjs' },
   { name: 'promotion-candidate-queue',  schedule: '15 * * * *',   script: 'scripts/promotion-candidate-queue.cjs' },

@@ -75,7 +75,12 @@ export function ActivityFeed() {
 
   return (
     <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
-      <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">Recent Activity</h3>
+      <div className="flex items-center justify-between mb-3">
+        <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)]">Recent Activity</h3>
+        <a href="/change-log" className="text-[9px] text-[var(--color-text-dim)] hover:text-[var(--color-steel)] transition-colors">
+          full log →
+        </a>
+      </div>
 
       {/* Filter pills */}
       <div className="flex flex-wrap gap-1 mb-3">

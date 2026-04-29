@@ -140,6 +140,40 @@ pipeline.register({
     return true;
   },
 
+  // Manual revert hook (called by pipeline.revertDecision via the ops
+  // audit page). Strips the alias from entities.jsonl so the record-state
+  // revert and the side-effect undo stay in sync. Idempotent: if the alias
+  // is already absent, returns success.
+  revert_decision: async (rec, _store, _records) => {
+    const target = rec.approved_alias_target;
+    if (!target) {
+      // No target recorded — nothing to undo on the entity side.
+      return { skipped: 'no approved_alias_target on record' };
+    }
+    const entities = loadEntities();
+    const targetEntity = entities.find(
+      (e) => e.name && e.name.toLowerCase() === target.toLowerCase()
+    );
+    if (!targetEntity) {
+      // Target entity gone (renamed / deleted); nothing to strip.
+      return { skipped: `target entity "${target}" not in entities.jsonl` };
+    }
+    if (!Array.isArray(targetEntity.aliases) || targetEntity.aliases.length === 0) {
+      return { skipped: `target entity "${target}" has no aliases` };
+    }
+    const aliasLower = (rec.name || '').toLowerCase();
+    const before = targetEntity.aliases.length;
+    targetEntity.aliases = targetEntity.aliases.filter(
+      (a) => (a || '').toLowerCase() !== aliasLower
+    );
+    const after = targetEntity.aliases.length;
+    if (before !== after) {
+      persistEntities(entities);
+      return { ok: true, stripped: rec.name, from: target, aliases_before: before, aliases_after: after };
+    }
+    return { skipped: `alias "${rec.name}" not found on "${target}"` };
+  },
+
   // Blast-radius mapper for auto-revert. Given a calibration fixture that
   // failed (e.g. Pfizer top-N broke), return claude-auto decisions plausibly
   // implicated. Conservative: if the fixture profile name ever appeared as

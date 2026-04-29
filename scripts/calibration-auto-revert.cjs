@@ -160,6 +160,38 @@ for (const fail of failingFixtures) {
 
 const totalReverted = summary.reverts.reduce((acc, r) => acc + (r.reverted || 0), 0);
 
+// 2026-04-29 logging gap fix: when calibration drift fires, also auto-file
+// a bug. Pre-existing behavior already moved decisions back to candidate;
+// the gap was that the regression event itself wasn't recorded anywhere
+// David sees. /bugs auto-shows it; bug closes itself when the next harness
+// run reports the fixture clean (calibration-drift findings_count=0).
+if (!dryRun && failingFixtures.length > 0) {
+  try {
+    const { addBug } = require('./lib/bugs-store.cjs');
+    for (const fail of failingFixtures) {
+      const fixtureReverts = summary.reverts.filter((r) => r.fixture === fail.profile && !r.skipped);
+      const fixtureReverted = fixtureReverts.reduce((a, r) => a + (r.reverted || 0), 0);
+      addBug({
+        producer: 'calibration-drift',
+        key: `${fail.profile}::${fail.bucket}`,
+        title: `Calibration drift: ${fail.profile} (${fail.bucket}) failed fixture`,
+        severity: 'high',
+        where: `data/calibration-fixture.jsonl + scripts/calibration-auto-revert.cjs`,
+        what: `Fixture "${fail.profile}" (bucket=${fail.bucket}) started failing — auto-reverted ${fixtureReverted} claude-auto decision(s) in blast radius. The fixture comparison says the data shape diverged from what we expect; review and re-validate before unfreezing.`,
+        predicate: `harness-check=calibration-drift`,
+        metadata: {
+          'fixture': fail.profile,
+          'bucket': fail.bucket,
+          'reverted-count': String(fixtureReverted),
+          'last-failure': new Date().toISOString(),
+        },
+      });
+    }
+  } catch (err) {
+    console.warn(`  ⚠ auto-bug filing failed: ${err.message}`);
+  }
+}
+
 if (asJson) {
   console.log(JSON.stringify({ ...summary, reverted_total: totalReverted, dry_run: dryRun }));
   process.exit(0);

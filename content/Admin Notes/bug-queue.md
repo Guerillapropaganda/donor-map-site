@@ -3,7 +3,7 @@ title: Bug Queue
 type: admin-note
 note-type: bug
 status: active
-last-updated: 2026-04-15
+last-updated: 2026-04-29
 note-kind: ticket
 ---
 
@@ -34,9 +34,20 @@ Claude will normalize it on the next visit.
 
 *(no open bugs — all clear)*
 
----
 
 ## resolved (archive)
+
+### bug-006: Smoke test bug entry
+<!-- auto-bug-key: 7f0b2a60b89a -->
+<!-- auto-resolve-when: file-exists=scripts/lib/this-file-does-not-exist.cjs -->
+- **reported:** 2026-04-29
+- **resolved:** 2026-04-29 (smoke test cleanup)
+- **severity:** low
+- **where:** scripts/lib/bugs-store.cjs
+- **what:** Just a smoke test — should auto-resolve when this file is gone
+- **producer:** test (auto-logged)
+
+---
 
 ### bug-001: Clerk dev-mode sign-in fails ("Couldn't find your account")
 - **reported:** 2026-04-15

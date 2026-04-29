@@ -204,6 +204,14 @@ Predicate-matched candidates auto-resolve with `decided_by: claude-auto`. Calibr
 node -e "const p=require('./scripts/lib/editorial-decision-pipeline.cjs'); require('./scripts/classes/index.cjs'); console.log(JSON.stringify(p.sampleTier1Decisions({limit:20}), null, 2))"
 ```
 
+**Or use the Ops audit page (Phase 3 of ADR-0029):**
+- `/audit-claude-decisions` — two-pane surface listing every decision across every registered class. Filter by class / decided_by / state / date / search. Detail panel shows the full `change_log[]` timeline. One-click revert (also strips alias from entities.jsonl for librarian-gap-aliases). Sample 20 button pulls random Tier 1 from last 7d for the weekly audit cadence. Filters live in the URL — bookmark or share specific views. Keyboard nav: j/k = nav, r = revert.
+
+**Manual revert from CLI (same path the Ops page uses):**
+```bash
+node scripts/audit-decisions-revert.cjs --class librarian-gap-aliases --id <gap_xxx>
+```
+
 **Audit harness (new in this ADR — runs every 15 min via dispatcher):**
 - `editorial-decision-provenance` — every non-candidate record has decided_by + decided_at
 - `tier1-fixture-coverage` — every Tier 1 class has fixture coverage (Rule 16)

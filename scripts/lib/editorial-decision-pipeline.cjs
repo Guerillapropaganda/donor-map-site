@@ -548,6 +548,81 @@ function autoRevert(className, options = {}) {
   };
 }
 
+// ─── manual revert (called by ops audit page) ──────────────────────
+
+/**
+ * Manually revert a single decision, with full side-effect undo if the
+ * class supplies a `revert_decision` helper. This is the "human pulled
+ * the trigger" path, distinct from `autoRevert` (calibration drift,
+ * conservative, record-state-only).
+ *
+ * Behavior:
+ *   1. Locate the record by id; bail if not found or already candidate.
+ *   2. If class.revert_decision is supplied, await it. If it returns
+ *      false, surface the failure — the record state is NOT changed
+ *      (so a partial undo doesn't get marked as if it succeeded).
+ *   3. Transition record back to 'candidate' with provenance noting the
+ *      manual revert, who triggered it, and the prior state.
+ *
+ * Per ADR-0029: every state change carries provenance. The `decided_by`
+ * for a manual revert is `david` by default (the audit page enforces
+ * admin auth before calling this).
+ */
+async function revertDecision(className, recordId, options = {}) {
+  const cls = getClass(className);
+  const records = cls.store.loadAll();
+  const rec = records.find((r) => r.id === recordId);
+  if (!rec) {
+    return { ok: false, error: `record ${recordId} not found in ${className}` };
+  }
+  if (rec.state === 'candidate') {
+    return { ok: false, error: `record ${recordId} already in candidate state` };
+  }
+
+  const priorState = rec.state;
+  const priorDecidedBy = rec.decided_by || null;
+
+  // Class-specific side-effect undo (e.g. strip alias from entities.jsonl).
+  // If the class doesn't supply revert_decision, that's fine — record-
+  // state revert only. The pipeline does NOT silently invent undo logic
+  // because half-undone external state is worse than no undo.
+  let sideEffect = { skipped: 'no revert_decision on class' };
+  if (typeof cls.revert_decision === 'function') {
+    try {
+      const result = await cls.revert_decision(rec, cls.store, records);
+      if (result === false) {
+        return {
+          ok: false,
+          error: `class ${className} revert_decision returned false — side-effect undo failed; record state NOT changed`,
+          record: rec,
+        };
+      }
+      sideEffect = result || { ok: true };
+    } catch (err) {
+      return {
+        ok: false,
+        error: `class ${className} revert_decision threw: ${err.message}`,
+        record: rec,
+      };
+    }
+  }
+
+  transition(className, records, recordId, 'candidate', {
+    decided_by: options.decided_by || 'david',
+    note: options.note || `manual revert via audit-claude-decisions (was ${priorState}, decided_by=${priorDecidedBy})`,
+  });
+  rec.reverted_reason = options.reason || 'manual-audit-revert';
+  cls.store.persistAll(records);
+
+  return {
+    ok: true,
+    record: rec,
+    prior_state: priorState,
+    prior_decided_by: priorDecidedBy,
+    side_effect: sideEffect,
+  };
+}
+
 // ─── stats ─────────────────────────────────────────────────────────
 
 function stats(className) {
@@ -615,6 +690,7 @@ module.exports = {
   runTier1,
   applyApproved,
   autoRevert,
+  revertDecision,
   stats,
   statsAll,
   sampleTier1Decisions,

@@ -18,9 +18,9 @@
 
 require('./librarian-gap-aliases.cjs');
 require('./frontmatter-orphan-prunes.cjs');
-// Phase 2B / future will add (each requires its own canonical store first):
-// require('./duplicate-entity-merges.cjs');
-// require('./pathless-stub-aliases.cjs');
+require('./duplicate-entity-merges.cjs');
+require('./pathless-stub-aliases.cjs');
+// Future will add (each requires its own canonical store first):
 // require('./mechanical-readiness-promotion.cjs');
 
 module.exports = {};

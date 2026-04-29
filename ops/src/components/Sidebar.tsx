@@ -68,6 +68,8 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/pipelines", label: "Pipelines", icon: "zap" },
       { href: "/source-hunter", label: "Source Hunter", icon: "search" },
       { href: "/operations", label: "Operations", icon: "shield" },
+      { href: "/audit-claude-decisions", label: "Audit Claude", icon: "check" },
+      { href: "/change-log", label: "Change Log", icon: "clipboard" },
       { href: "/bugs", label: "Bugs & Deferred", icon: "bell" },
       { href: "/docs", label: "Reference", icon: "book" },
     ],

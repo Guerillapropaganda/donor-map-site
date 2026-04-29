@@ -65,6 +65,13 @@
       "runtimeArgs": ["/c", "scripts\\ops-dev-loop.bat"],
       "port": 3333,
       "autoPort": false
+    },
+    {
+      "name": "ops-mainrepo-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd /d C:\\Users\\third\\donor-map-site\\ops && set OPS_AUTH_BYPASS=1&& npx next dev -p %PORT%"],
+      "port": 3335,
+      "autoPort": true
     }
   ]
 }
