@@ -41,7 +41,7 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 **3. CSV-only phase (2026-04-24, extended 2026-04-28).** All scheduled API pipelines are **paused**, including local-dispatcher pipelines that hit external APIs. Enrichment runs via local CSV bulk scripts in `data/bulk/` processed through `scripts/ingest-*-bulk.cjs` (FEC, USASpending, IRS 990, and the other gov CSVs — see `content/CSV Data Sources.md` for the full catalog). Two GitHub Actions workflows remain enabled on `donor-map-engine`: **RSS Intelligence Pipeline** (scheduled, feeds `content/Events/Digests/`) and **Auto-Connection Engine** (manual-trigger only). Seven workflows were disabled 2026-04-24 to stop the private-repo Actions-minutes bleed (see `data/enrichment-state.json` for the list + resume instructions). **STOCK Act PTRs (financial-disclosures-pipeline.cjs) was paused 2026-04-28** — previously dispatcher-scheduled daily, now commented out alongside its capitol-trades-freshness harness check. Run pipelines manually as one-shots when needed; nothing automated should hit external endpoints currently. Resume per `data/enrichment-state.json`.
 
-**4. AI translates, never generates.** Every factual claim must trace to a source record. AI explains, summarizes, synthesizes. AI never asserts a new fact. Stories (`data/stories.jsonl`) are narrative interpretations of relationship-graph patterns; they editorialize but do not assert facts. Every claim in a story traces back to a relationship edge or a `data/sources.jsonl` record. See "Stories vs Relationships" in the Reference section.
+**4. AI translates, never generates.** Every factual claim must trace to a source record. AI explains, summarizes, synthesizes. AI never asserts a new fact. Stories (`data/stories.jsonl`) are narrative interpretations of relationship-graph patterns; they editorialize but do not assert facts. Every claim in a story traces back to a relationship edge or a `data/sources.jsonl` record. See "Stories vs Relationships" in the Reference section. Per ADR-0029, mechanical editorial *classifications* (alias merges, dedup, frontmatter-orphan triage, mechanical readiness promotion) are NOT new facts — they apply already-discovered relationships to canonical names. Tier 1/2 auto-applied decisions in those classes do not violate this rule. *Asserting* a new factual claim about a person or organization remains Tier 3 / David's lane.
 
 ### Profile structure
 
@@ -55,7 +55,7 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 ### Readiness + publication
 
-**9. Readiness flow:** `raw → draft → ready → data-complete → verified` (ADR-0017). One authoritative script owns classification logic (`scripts/reclassify-readiness.cjs`). Never write new code that demotes content-readiness outside this script *without an ADR*. Carve-outs to date: ADR-0025 authorizes `pipeline-janitor.cjs` to demote on a closed set of mechanical issue kinds (zombie-block / missing-block / never-enriched / stale / known-gap-pipeline / internal-notes-pipeline). Advisory `a-plus-*` issues never demote. **Data-complete** requires: type-specific auto-sections populated, at least one Tier 1 source, mapped relationships, data freshness ≤90 days, zero blocking flags (URL NEEDED / UNVERIFIED / NEEDS REVIEW / defamation-sanitized). **Verified** additionally requires: template validator passes, 2+ Tier 1 source types, 3 editorial sections editor-signed-off, body length >500 chars, Class Analysis present.
+**9. Readiness flow:** `raw → draft → ready → data-complete → verified` (ADR-0017). One authoritative script owns classification logic (`scripts/reclassify-readiness.cjs`). Never write new code that demotes content-readiness outside this script *without an ADR*. Carve-outs: (a) ADR-0025 authorizes `pipeline-janitor.cjs` to demote on a closed set of mechanical issue kinds (zombie-block / missing-block / never-enriched / stale / known-gap-pipeline / internal-notes-pipeline). Advisory `a-plus-*` issues never demote. (b) ADR-0029 authorizes Tier 2 batch-approved promotions for `raw → draft` and `draft → ready` — Claude proposes, David batch-approves through the editorial-decision-pipeline. `ready → data-complete` and `data-complete → verified` remain Tier 3 (David-only). **Data-complete** requires: type-specific auto-sections populated, at least one Tier 1 source, mapped relationships, data freshness ≤90 days, zero blocking flags (URL NEEDED / UNVERIFIED / NEEDS REVIEW / defamation-sanitized). **Verified** additionally requires: template validator passes, 2+ Tier 1 source types, 3 editorial sections editor-signed-off, body length >500 chars, Class Analysis present.
 
 **10. Architecturally complete ≠ publication ready.** Building a feature into the codebase does not make its output publishable. Every public-facing route passes `scripts/publication-readiness-check.cjs` and the `content/Checklists/pre-publication.md` gate before exposure. Per ADR-0017 both `verified` and `data-complete` are publishable tiers — data-complete renders with an auto-generated banner ("not yet editorially reviewed — sources are federal disclosures"). Under-construction gating is the default. Public exposure is currently controlled per-route via `data/public-routes.json`; the mechanism for bulk-publishing data-complete profiles is pending a separate decision.
 
@@ -69,36 +69,42 @@ These are numbered, load-bearing, and cannot be silently violated. When a rule n
 
 **13. URL verification is Editor-only.** Neither Research Claude nor Code Claude fixes, hunts, replaces, or verifies source URLs in content. David handles all URL work. Claudes can verify a pipeline-supplied ID matches its named entity (e.g. FEC ID) before committing a citation. They cannot substitute, search for replacements, or run url-fixer.
 
-**14. Perplexity-first research protocol.** Before building any new pipeline, proposing new class_tag categories, calibrating the story scorer, or investigating legal precedent patterns, check `content/Admin Notes/perplexity-prompt-library.md` for a matching template and route research through David via Perplexity.
+**14. Perplexity-first research protocol.** Before building any new pipeline, proposing new class_tag categories, calibrating the story scorer, or investigating legal precedent patterns, check `content/Admin Notes/perplexity-prompt-library.md` for a matching template and route research through David via Perplexity. Class-tag *vocabulary* changes always go through this protocol. Class-tag *application* (which existing tag fits a given entity) is Tier 2 per ADR-0029 — Claude proposes from the fixed vocabulary, David batch-approves.
 
 **15. Vault on GitHub stays open-source.** Paid value is freshness + tooling + ongoing labor, not the facts. Facts are Feist-free under US law.
 
+**16. Calibration safety net required for Tier 1 auto-apply (ADR-0029).** Any class of editorial decision auto-applied at Tier 1 (no human in loop) MUST have at least one fixture in `data/calibration-fixture.jsonl` covering its blast radius. The `editorial-decision-pipeline` library refuses to register a Tier 1 class without verified fixture coverage. The `tier1-fixture-coverage` harness check enforces this continuously. **This rule mechanically prevents the failure mode where Claude is given write authority without a corresponding semantic safety check.** The rule binds Claude itself: writing a Tier 1 predicate is a power grant, and the calibration fixture is the cost.
+
 ## Lanes
 
-**Code Claude (you) owns:** pipelines, scripts, components, styling, deploys, schema, ops features, automation, sentinels, auth, data integrity.
+**Code Claude (you) owns:** pipelines, scripts, components, styling, deploys, schema, ops features, automation, sentinels, auth, data integrity. Per ADR-0029 also owns: Tier 1 auto-applied editorial mechanics (alias merges meeting confidence threshold + fixture-covered, frontmatter-orphan prune at zero-edges, pathless-stub aliases on 1:1 FEC committee mapping, mechanical readiness `raw → draft`) and Tier 2 batch-approved proposals (alias merges with ambiguous candidates, dedup merges with FEC ID match, class-tag application from fixed vocabulary, story candidate → draft, readiness `draft → ready`).
 
 **Research Claude owns:** profile body content, Class Analysis writing, narrative framing, editorial voice, the 3 manually-written template sections (Who They Are, Class Analysis, The Contradictions framing).
 
-**David owns:** URL verification, editorial sign-off, readiness promotion to verified, class-tag approval, sensitive-word editorial review, architecture decisions, anything involving money or legal risk.
+**David owns:** URL verification (Rule 13 — defamation exposure), editorial sign-off, promotion to `verified` and story `published` state, class-tag *vocabulary* changes (Rule 14), sensitive-word + defamation-prone language reviews, ADR-level architecture decisions, money / auth / security architecture, public-route exposure, anything involving a real person whose name's appearance Claude isn't certain of. Per ADR-0029, also: weekly sample-audit of Tier 1 auto-applied decisions via Ops `/audit-claude-decisions`.
 
 ## Code Claude autonomy
 
 ### Proceed without asking
 - Git commits and pushes (terse, substantive, Co-Authored-By footer)
 - File moves, renames, folder restructures within agreed taxonomy
-- Frontmatter field edits (except canonical-store-backed fields — rule 2)
+- Frontmatter field edits (except canonical-store-backed fields — rule 1)
 - SCSS/CSS changes, component edits, layout tweaks
 - Running scripts in `scripts/` root (not `scripts/_archive/`)
 - Building (`npx quartz build`) and deploying
 - Bug fixes with obvious root causes
 - Standard refactors when touching adjacent code
+- Tier 1 auto-applied editorial mechanics through the pipeline (ADR-0029) — alias merges meeting predicate, frontmatter-orphan prune at zero-edges, pathless-stub aliases on 1:1 mapping, mechanical readiness `raw → draft`. Required: fixture coverage in `data/calibration-fixture.jsonl` per Rule 16. Provenance: `decided_by: claude-auto`. Auto-revertible via calibration drift hook.
+- Tier 2 batch-approved proposals — Claude generates the review-list, David batch-approves. Surface via `editorial-decision-pipeline` library; never bypass by writing decisions directly to canonical stores.
 
 ### Stop and ask
 - Architecture changes (new top-level folders, layout rewrites, build system swaps, schema changes)
 - Deleting content (permanent removal of profiles, folders, components)
-- Taxonomy precedents (new frontmatter fields, folder categories, classification rules)
-- Crossing into Research Claude's lane (writing profile body prose, calibrating voice, editorial decisions)
+- Taxonomy precedents (new frontmatter fields, folder categories, classification rules) — including class-tag *vocabulary* changes (Rule 14)
+- Crossing into Research Claude's lane: writing profile *body prose*, Class Analysis narrative, Who They Are framing, Central Thesis writing, calibrating editorial voice. Editorial *mechanics* (alias / dedup / orphan triage) move to Tier 1/2 per ADR-0029 — those are NOT Research Claude's lane.
 - Money or security changes (API key handling, deploy target changes, auth architecture)
+- Tier 3 decisions: URL verification, defamation-prone language, sensitive-word reviews, promotion to `verified`, story `published`, public-route exposure, anything involving a real person whose name's appearance is uncertain.
+- Adding a new Tier 1 decision class without fixture coverage (Rule 16). The pipeline library will refuse, but the conversation needs to happen first to identify the right fixtures.
 
 ### Ask tightly when you do
 2-3 concrete options, recommend one, one sentence of reasoning. David moves fast. Keep up.
@@ -213,6 +219,7 @@ Load-bearing decisions that affect ongoing work. **Verified active ADRs:**
 - **ADR-0025** — Pipeline Janitor Mechanical-Demote Authority (carve-out from Rule 9: `pipeline-janitor.cjs --write` may demote on a closed set of mechanical issue kinds; advisory A+ findings still defer to editorial / `reclassify-readiness.cjs`)
 - **ADR-0026** — Stories as Narrative Layer (`data/stories.jsonl` editorializes relationship-graph patterns; never asserts facts; detectors should read the librarian, not frontmatter — rewrite tracked here. Schema, store, contradiction-miner graduation, ops UI, integrity harness check, Verify panel shipped 2026-04-27.)
 - **ADR-0027** — Frontmatter Cache Prune Mode (proposed 2026-04-28). `rebuild-relationship-caches.cjs` is additive-only — frontmatter relationship caches accumulate editorial-typo debt forever, and the contradiction-miner reads the drift and fires false-positive stories (Crypto Industry Bloc / Warren was the discovery case). Decision: rebuilder gains `--report-orphans` mode that writes prune candidates to a new canonical store; editor approves per case via `/relationships/orphans` ops UI; `--apply-approved` does the actual frontmatter writes. Aggressive auto-prune rejected — the librarian has known gaps (Fairshake FEC committee-stub mapping) and would erase real data. Phase 1 (rebuilder mode + harness check, no writes) gated on acceptance. Surfaced by `relationship-overlap-check.cjs` finding 4 frontmatter-only ghosts vault-wide.
+- **ADR-0029** — Editorial Automation Tiers (accepted 2026-04-28). Redraws the lane between Code Claude / Research Claude / David. Mechanical editorial decisions (alias merges, dedup, frontmatter-orphan triage, mechanical readiness promotion) move from "David approves each" to a three-tier model: Tier 1 auto-apply with calibration safety net (Rule 16); Tier 2 Claude-recommended batch-approved; Tier 3 David-only (URL verification, defamation, ADR-level decisions, `verified` promotion, story `published`, public exposure). Codifies the `editorial-decision-pipeline` library, four new harness checks (editorial-decision-provenance / tier1-fixture-coverage / claude-decision-volume / auto-revert-pending), `decided_by` provenance on every canonical-store decision, and the Ops `/audit-claude-decisions` weekly sample-check page. Phase 1 (this ADR + pipeline lib + librarian-gap refactor + 4 harness checks) shipped same day. Phase 2 (queue migrations + auto-revert hook) and Phase 3 (Ops audit page) follow in subsequent sessions.
 
 **ADRs pending verification** (see `content/Admin Notes/rule-sort-pass-2026-04-23.md`): 0004 (Policy Battles), 0014 (FEC Full Ingest), 0015 (Public Ask Backend), 0016 (Ask Labeled Breakdown), 0018 (Profile Rendering Architecture), 0019 (R2 Bulk Storage), 0020 (Enrichment Sprint Cadence). Each will be confirmed active, amended, or superseded in follow-up sessions.
 

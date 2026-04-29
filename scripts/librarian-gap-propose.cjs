@@ -39,7 +39,18 @@
  *   --apply-approved         For every approved-alias record, write the
  *                            alias to entities.jsonl[target].aliases.
  *                            Marks each record state=resolved with
- *                            resolved_at timestamp.
+ *                            resolved_at timestamp. Routes through the
+ *                            editorial-decision-pipeline so decided_by
+ *                            provenance + change_log are recorded.
+ *
+ *   --tier1                  ADR-0029 Tier 1 auto-apply. Runs the class
+ *                            tier1_predicate over candidates and applies
+ *                            high-confidence merges with decided_by=
+ *                            claude-auto. Tightened predicate as of
+ *                            2026-04-28: normalized-string-equality only
+ *                            (covers "Amgen Inc" vs "AMGEN INC.", does
+ *                            NOT cover edit-distance neighbors that
+ *                            could be different people).
  *
  *   --stats                  Print state distribution + top-N pending.
  *
@@ -53,6 +64,8 @@ const path = require('path');
 const { spawnSync } = require('child_process');
 
 const store = require('./lib/librarian-gap-decisions-store.cjs');
+const pipeline = require('./lib/editorial-decision-pipeline.cjs');
+require('./classes/index.cjs');  // self-registers librarian-gap-aliases
 
 const ROOT = path.resolve(__dirname, '..');
 const ENTITIES_PATH = path.join(ROOT, 'data', 'entities.jsonl');
@@ -266,14 +279,25 @@ function modeApplyDecisions() {
         console.warn(`  ⚠ ${currentId} approved-alias missing target — skipping`);
         continue;
       }
-      store.setState(records, currentId, 'approved-alias', { approved_alias_target: target });
+      pipeline.transition('librarian-gap-aliases', records, currentId, 'approved-alias', {
+        decided_by: 'claude-batch-approved',  // David batch-approved through the review file
+        payload: { approved_alias_target: target },
+        note: 'from review-list YAML decisions block',
+      });
       applied++;
     } else if (raw.startsWith('rejected:')) {
       const reason = raw.slice('rejected:'.length).trim() || '(no reason)';
-      store.setState(records, currentId, 'rejected', { rejected_reason: reason });
+      pipeline.transition('librarian-gap-aliases', records, currentId, 'rejected', {
+        decided_by: 'claude-batch-approved',
+        payload: { rejected_reason: reason },
+        note: 'from review-list YAML decisions block',
+      });
       applied++;
     } else if (raw.startsWith('needs-research')) {
-      store.setState(records, currentId, 'needs-research');
+      pipeline.transition('librarian-gap-aliases', records, currentId, 'needs-research', {
+        decided_by: 'claude-batch-approved',
+        note: 'from review-list YAML decisions block',
+      });
       applied++;
     } else {
       console.warn(`  ⚠ ${currentId} unknown decision: "${raw}" — skipping`);
@@ -291,58 +315,46 @@ function modeApplyDecisions() {
 
 // ─── --apply-approved ───────────────────────────────────────────────
 
-function modeApplyApproved() {
+async function modeApplyApproved() {
   console.log('--- librarian-gap-propose --apply-approved ---\n');
-  const records = store.loadAll();
-  const approved = records.filter((r) => r.state === 'approved-alias');
-  if (approved.length === 0) {
-    console.log('  no approved-alias records to apply.');
-    return;
+  // Routes through the editorial-decision-pipeline so the class's writer
+  // (scripts/classes/librarian-gap-aliases.cjs) handles the entities.jsonl
+  // mutation. The pipeline records provenance + change_log on every
+  // record. decided_by stays whatever set the approve state (typically
+  // claude-batch-approved from --apply-decisions, or claude-auto from
+  // --tier1).
+  const result = await pipeline.applyApproved('librarian-gap-aliases');
+  console.log(`  applied: ${result.applied} | skipped: ${result.skipped} | errors: ${result.errors.length}`);
+  if (result.errors.length > 0) {
+    for (const e of result.errors.slice(0, 5)) console.log(`    ✗ ${e.id}: ${e.error}`);
   }
-
-  const entities = loadEntities();
-  // Index by canonical name (case-insensitive) for fast lookup.
-  const byName = new Map();
-  for (const e of entities) {
-    if (e.name) byName.set(e.name.toLowerCase(), e);
+  if (result.applied > 0) {
+    console.log('');
+    console.log('  Next steps to propagate the new aliases:');
+    console.log('    node scripts/build-relationships-per-profile.cjs');
+    console.log('    node scripts/build-profile-data-panels.cjs --write');
   }
+}
 
-  let applied = 0;
-  let missingTarget = 0;
-  let alreadyAlias = 0;
+// ─── --tier1 ────────────────────────────────────────────────────────
 
-  for (const rec of approved) {
-    const target = rec.approved_alias_target;
-    const targetEntity = byName.get(target.toLowerCase());
-    if (!targetEntity) {
-      console.warn(`  ⚠ ${rec.id} target "${target}" not in entities.jsonl — skipping`);
-      missingTarget++;
-      continue;
-    }
-    if (!Array.isArray(targetEntity.aliases)) targetEntity.aliases = [];
-    const aliasLower = rec.name.toLowerCase();
-    const exists = targetEntity.aliases.some((a) => (a || '').toLowerCase() === aliasLower);
-    if (exists) {
-      // Already there from a prior run or a manual add — mark resolved.
-      alreadyAlias++;
-    } else {
-      targetEntity.aliases.push(rec.name);
-      applied++;
-    }
-    store.setState(records, rec.id, 'resolved');
+async function modeTier1() {
+  console.log('--- librarian-gap-propose --tier1 ---\n');
+  // ADR-0029 Tier 1 auto-apply. Predicate is normalized-string-equality
+  // only — covers formatting/case variants, blocks edit-distance neighbors
+  // that could be different people.
+  const result = await pipeline.runTier1('librarian-gap-aliases');
+  console.log(`  candidates seen: ${result.candidates_seen}`);
+  console.log(`  matched predicate: ${result.matched}`);
+  console.log(`  transitioned to approve-state: ${result.transitioned_to_approve}`);
+  console.log(`  writer applied (entities.jsonl): ${result.writer_applied}`);
+  console.log(`  errors: ${result.errors}`);
+  if (result.writer_applied > 0) {
+    console.log('');
+    console.log('  Next steps to propagate the new aliases:');
+    console.log('    node scripts/build-relationships-per-profile.cjs');
+    console.log('    node scripts/build-profile-data-panels.cjs --write');
   }
-
-  if (applied > 0) persistEntities(entities);
-  store.persistAll(records);
-
-  console.log(`  alias additions written to entities.jsonl: ${applied}`);
-  console.log(`  records marked resolved: ${approved.length}`);
-  console.log(`  already had the alias: ${alreadyAlias}`);
-  console.log(`  missing target entity: ${missingTarget}`);
-  console.log('');
-  console.log('  Next steps to propagate the new aliases:');
-  console.log('    node scripts/build-relationships-per-profile.cjs');
-  console.log('    node scripts/build-profile-data-panels.cjs --write');
 }
 
 // ─── --stats ────────────────────────────────────────────────────────
@@ -371,14 +383,17 @@ function modeStats() {
 
 // ─── dispatch ───────────────────────────────────────────────────────
 
-switch (mode) {
-  case '--report':           modeReport(); break;
-  case '--review-list':      modeReviewList(); break;
-  case '--apply-decisions':  modeApplyDecisions(); break;
-  case '--apply-approved':   modeApplyApproved(); break;
-  case '--stats':            modeStats(); break;
-  default:
-    console.error(`Unknown mode: ${mode}`);
-    console.error('Usage: --report | --review-list | --apply-decisions | --apply-approved | --stats');
-    process.exit(1);
-}
+(async () => {
+  switch (mode) {
+    case '--report':           modeReport(); break;
+    case '--review-list':      modeReviewList(); break;
+    case '--apply-decisions':  modeApplyDecisions(); break;
+    case '--apply-approved':   await modeApplyApproved(); break;
+    case '--tier1':            await modeTier1(); break;
+    case '--stats':            modeStats(); break;
+    default:
+      console.error(`Unknown mode: ${mode}`);
+      console.error('Usage: --report | --review-list | --apply-decisions | --apply-approved | --tier1 | --stats');
+      process.exit(1);
+  }
+})();
