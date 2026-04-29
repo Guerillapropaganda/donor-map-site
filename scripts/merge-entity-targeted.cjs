@@ -188,6 +188,7 @@ if (fs.existsSync(DERIVED_DIR)) {
 
 let edgesRewritten = 0;
 let edgesMerged = 0;
+let edgesDroppedSelfLoop = 0;
 const perFile = [];
 
 if (!DRY) {
@@ -211,6 +212,16 @@ if (!DRY) {
       if (changed) {
         e.id = computeEdgeId(e);
         fileHits++;
+      }
+      // Drop self-loops created by collapsing endpoints. The
+      // relationship-edge-sentinel rejects them on commit, and they
+      // carry no information ("CoreCivic donated to CoreCivic" is
+      // never a meaningful edge). Caught 2026-04-29 during the
+      // CoreCivic merge: pre-merge edge "CoreCivic - Private Prisons
+      // → CoreCivic" became "CoreCivic → CoreCivic" post-rename.
+      if (changed && e.from && e.to && e.from === e.to) {
+        edgesDroppedSelfLoop++;
+        continue;
       }
       if (e.id && out.has(e.id)) {
         const existing = out.get(e.id);
@@ -261,6 +272,7 @@ const result = {
   entities_after: newEntities.length,
   edges_rewritten: edgesRewritten,
   edges_merged: edgesMerged,
+  edges_dropped_self_loop: edgesDroppedSelfLoop,
   per_file: perFile,
 };
 
@@ -273,7 +285,7 @@ if (AS_JSON) {
   if (missingIds.length) console.log(`  missing:   ${missingIds.join(', ')}`);
   console.log(`  entities: ${entities.length} → ${newEntities.length}`);
   if (!DRY) {
-    console.log(`  edges rewritten: ${edgesRewritten}, merged on collision: ${edgesMerged}`);
+    console.log(`  edges rewritten: ${edgesRewritten}, merged on collision: ${edgesMerged}, dropped as self-loop: ${edgesDroppedSelfLoop}`);
     for (const p of perFile) {
       if (p.hits || p.merges) console.log(`    ${p.file}: ${p.hits} rewrites, ${p.merges} merges`);
     }

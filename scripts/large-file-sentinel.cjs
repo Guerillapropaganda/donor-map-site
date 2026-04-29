@@ -28,6 +28,11 @@ const thresholdIdx = process.argv.indexOf('--threshold-mb');
 const THRESHOLD_MB = thresholdIdx !== -1 ? parseInt(process.argv[thresholdIdx + 1], 10) : 50;
 const THRESHOLD_BYTES = THRESHOLD_MB * 1024 * 1024;
 
+// Hard ceiling — even already-tracked large files get blocked if they push
+// past this. GitHub rejects > 100MB; we leave a small margin.
+const HARD_CEILING_MB = 95;
+const HARD_CEILING_BYTES = HARD_CEILING_MB * 1024 * 1024;
+
 function stagedFiles() {
   try {
     const out = execSync('git diff --cached --name-only --diff-filter=ACMR', { encoding: 'utf-8' });
@@ -37,14 +42,37 @@ function stagedFiles() {
   }
 }
 
+/** Size of `path` at HEAD, or null if not tracked. */
+function headSize(path) {
+  try {
+    const out = execSync(`git cat-file -s HEAD:"${path}"`, { encoding: 'utf-8', stdio: ['pipe', 'pipe', 'ignore'] });
+    return parseInt(out.trim(), 10);
+  } catch {
+    return null;
+  }
+}
+
 const violations = [];
 for (const f of stagedFiles()) {
   if (!fs.existsSync(f)) continue;
   let size;
   try { size = fs.statSync(f).size; } catch { continue; }
-  if (size > THRESHOLD_BYTES) {
-    violations.push({ file: f, mb: (size / (1024 * 1024)).toFixed(1) });
+  if (size <= THRESHOLD_BYTES) continue;
+
+  // Hard ceiling — block regardless of history.
+  if (size > HARD_CEILING_BYTES) {
+    violations.push({ file: f, mb: (size / (1024 * 1024)).toFixed(1), reason: `> ${HARD_CEILING_MB}MB hard ceiling` });
+    continue;
   }
+
+  // Allow growth on files already tracked at >= the threshold. Canonical
+  // stores like data/relationships.jsonl grow naturally as the corpus
+  // expands; we don't want to block every commit that touches them.
+  // Only NEW large files or unexpected growth (was small, now huge) get blocked.
+  const baseline = headSize(f);
+  if (baseline !== null && baseline >= THRESHOLD_BYTES) continue;
+
+  violations.push({ file: f, mb: (size / (1024 * 1024)).toFixed(1), reason: baseline === null ? 'new file' : `grew from ${(baseline / (1024 * 1024)).toFixed(1)}MB` });
 }
 
 if (violations.length === 0) {
@@ -55,7 +83,7 @@ console.error('');
 console.error('[x] pre-commit blocked: ' + violations.length + ' staged file(s) exceed ' + THRESHOLD_MB + 'MB');
 console.error('');
 for (const v of violations) {
-  console.error('  ' + v.mb + ' MB  ' + v.file);
+  console.error('  ' + v.mb + ' MB  ' + v.file + (v.reason ? '  (' + v.reason + ')' : ''));
 }
 console.error('');
 console.error('  GitHub rejects pushes with files over 100MB. This sentinel blocks');
