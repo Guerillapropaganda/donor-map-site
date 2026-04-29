@@ -1,7 +1,104 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-29
+last-updated: 2026-04-28
+---
+
+## HANDOFF — 2026-04-28 EVENING (ADR-0029 editorial automation tiers — 6 commits + 5 v4 merges)
+
+**Context:** Code Claude. Worktree `claude/goofy-curran-abeaf2`, Opus 4.7 (1M context). Continuation from yesterday's 18-commit "system tightening + librarian bug" session. Started executing yesterday's #1 priority (138K role-empty fix) and ended up uncovering a structural regression class, designing the deepest-fix-possible architectural response (ADR-0029), and shipping it across two phases.
+
+### THE ARC
+
+**(1) cc_p3_163: 138K role-empty fix executed.** Truncate-then-regenerate `fec-indiv-by-committee.jsonl`. Aggregator wrote 134,731 role=direct-contribution edges. Harness 138,753 → 0. Added auto-heal pattern. Investigation revealed AOC `$45M` claim was overstated — source CSV is 188K lines covering only 617 committees, partial dataset. Admin note corrected.
+
+**(2) cc_p3_164: 1,677 profile data-panel cascade discovered + restored.** Pfizer's $91K Clyburn / ADM's $81K Durbin / AOC's $25K NEA all vanished from data-panels in main repo working tree. Root cause: stale `relationships-per-profile.json` artifact at the time of dispatcher's 17:58 UTC build-profile-data-panels run.
+
+**(3) cc_p3_165: Structural fix to prevent recurrence.** `per-profile-artifact` ran weekly Sundays 3:25 AM but `build-profile-data-panels` ran daily 4 AM. 6 days a week, panels rebuilt from stale artifact. Schedule changed weekly→daily. New `calibration-drift` harness (vault-audit check #31) with 10-fixture semantic safety net (Pfizer/ADM/AOC/Cortez Masto/Bowman/Mark Kelly/Lockheed/Exxon/Goldman/Cori Bush). Catches the same bug shape regardless of upstream cause.
+
+**(4) cc_p3_166: Librarian gap review pipeline.** Mirrored ADR-0027 frontmatter-orphan pattern for librarian-gap (350+ unresolvable wikilinks). New canonical store + 5-mode CLI + Obsidian-friendly review file + harness check #32. First run surfaced 72 high-leverage alias gaps. Top: IAFF PAC 416×, NEA 370×, NAR 353×.
+
+**(5) cc_p3_167: ADR-0029 Phase 1 — Editorial automation tiers.** David asked "How can we remove the editorial lane from me and put it into Claude's hands? The amount of work I would need to do is too much." Riffed on the framework, then executed.
+
+  Three-tier model:
+  - **Tier 1 auto-apply** with mechanically-enforced calibration safety net (Rule 16 NEW — pipeline.register refuses Tier 1 without fixture coverage)
+  - **Tier 2 Claude-recommended batch-approved** (the propose-list-approve pattern from cc_p3_166)
+  - **Tier 3 David-only** (URL verification, defamation, ADR-level, `verified` promotion, story `published`, public-route exposure)
+
+  Shipped: ADR-0029, CLAUDE.md amendments to Rules 4/9/14 + NEW Rule 16, `scripts/lib/editorial-decision-pipeline.cjs` (reusable abstraction), first registered class `librarian-gap-aliases`, 4 new harness checks (provenance / fixture-coverage / decision-volume / auto-revert-pending).
+
+  **Found a defamation-risk bug in my own predicate before deploy.** Initial Tier 1 was edit-distance ≤2; dry-run matched "Jim Jordan" → "Jim Gordon" (233×) and "Mark Kelly" → "Mark K Lay" (215×). Different real people. Tightened predicate to **normalized-string-equality only** (covers "Amgen Inc" vs "AMGEN INC.", blocks substantive character differences). Rule 16 working as designed — caught it pre-flight.
+
+**(6) cc_p3_168: ADR-0029 Phase 2 — closed the safety loop.**
+  - `calibration-auto-revert.cjs`: reads calibration findings, walks Tier 1 classes, reverts claude-auto decisions in failing fixture's blast radius (24h window, idempotent). Wired into dispatcher every 15 min.
+  - **Auto-freeze on volume hard alarm** (200 claude-auto/hr): `data/editorial-pipeline-freeze.json` + freeze CLI. End-to-end tested.
+  - **First queue migration**: frontmatter-orphan-prunes (8,848 records) registered to pipeline as Tier 2 only.
+  - **Provenance backfill**: one-time migration filled 3,924 pre-pipeline records with `decided_by: david` + `decided_at` from `resolved_at`. Provenance check 7,848 → 0.
+  - canonical-store-sentinel hardened with 3 new guards.
+
+### Commits this session (6 v4 merges, 6 worktree commits)
+
+- `ebf5fa6af` → merged `2c816fc65` — Role-empty fix + auto-heal wiring (cc_p3_163)
+- `5c7b29628` (main repo) → merged `ba5debd51` — Data panel rebuilds 1,677 profiles (cc_p3_164)
+- `958ae1c50` → merged into `1f42db9f9` — Schedule fix + calibration harness (cc_p3_165)
+- `7f05ed415` → merged into same — Librarian gap pipeline (cc_p3_166)
+- `6a8305248` → merged `76b80e293` — ADR-0029 Phase 1 (cc_p3_167)
+- `7302e66c2` → merged `dae55ebf3` — ADR-0029 Phase 2 (cc_p3_168)
+
+### State of the system
+
+**Harness (35 checks now, up from 30):**
+```
+calibration-drift:               ✓ 0 (10/10 fixtures pass)
+librarian-gap-decisions:         △ 71 (1 in approve-alias from Tier 1 dry-test)
+editorial-decision-provenance:   ✓ 0 (across 2 registered classes)
+tier1-fixture-coverage:          ✓ 0 (Rule 16 satisfied)
+claude-decision-volume:          ✓ 0/hr (well under 50 soft limit)
+auto-revert-pending:             ✓ 0
+role-empty-monetary-edges:       ✓ 0 (was 138,753 yesterday)
+worktree-data-mirror:            △ 2 (cosmetic)
++ ~27 other clean checks
+```
+
+**ADR-0029 pipeline state:**
+- 2 classes registered: `librarian-gap-aliases` (Tier 1 + Tier 2) + `frontmatter-orphan-prunes` (Tier 2 only)
+- 1 Tier 1 decision applied (Amgen Inc, claude-auto, target entity didn't exist → fail-soft to approve state for human review)
+- Pipeline currently UNFROZEN
+- 8,920 candidate decisions across both queues awaiting batch review
+
+**Dispatcher: PID 40912 ALIVE.** Now runs `calibration-auto-revert` every 15 min in addition to existing producers.
+
+### Known issues / accepted not-yet-done
+
+1. **Tier 1 predicate caught one valid match (Amgen Inc → AMGEN INC.) but writer couldn't find target entity** — entity exists as alias-only, not canonical. Record sits in `approve-alias` state for manual review. This is the correct fail-soft behavior; surfacing the librarian gap rather than silently doing the wrong thing.
+2. **Phase 2B deferred**: dedup + pathless-stub queue migrations need canonical stores BUILT FIRST (currently admin-note docs only).
+3. **Phase 3 deferred**: Ops `/audit-claude-decisions` page — David asked top-notch, deserves dedicated session with full context budget.
+4. **Stash cleanup not done this session** — main repo still has accumulating dispatcher-mid-merge stashes (lower priority than yesterday since 6 were dropped already).
+
+### NEXT-SESSION PRIORITIES
+
+1. **Ops `/audit-claude-decisions` page (Phase 3 of ADR-0029)** — top-notch design per David. Filter by class/date/decided_by/state, one-click revert, detail view with `change_log[]`, bulk operations, search. Brutalist cream/yellow design. Fresh chat dedicated session.
+2. **Phase 2B queue migrations** — build canonical stores for `duplicate-entity-profiles` and `pathless-stub-entities`, register with pipeline. Each takes ~30 min once the store is built.
+3. **Editorial review of librarian-gap-review.md** — David's lane. 72 candidates queued. Top 10 alone (IAFF PAC 416×, NEA 370×, NAR 353× etc.) resolve ~3,000 edges.
+4. **At-scale editorial backlogs** — librarian-gap-audit 323, type-specific-a-plus 1,323, frontmatter-schema 232, url-domain-policy 121.
+5. **Capital_type Path B batch-tagger** (~3-4hr fresh chat) — covers ~1,400 untagged entities, pushes coverage 17% → 60-80%.
+6. **Money Trail rebuild** (own session, flagged by yesterday's session as "actually about money").
+
+### Critical context for incoming chat
+
+- **ADR-0029 is now load-bearing.** Read it (`content/Decisions/0029-editorial-automation-tiers.md`) and the new Rule 16 in CLAUDE.md before doing editorial-mechanic work.
+- **Pipeline currently UNFROZEN.** If `--tier1` returns "pipeline-frozen", check `data/editorial-pipeline-freeze.json` history — likely auto-freeze fired on volume hard limit. Investigate cause before lifting.
+- **Calibration fixture (`data/calibration-fixture.jsonl`) is the safety net.** 10 entries currently. Adding Tier 1 authority for new decision classes REQUIRES adding fixture coverage first; pipeline.register refuses without it.
+- **Auto-revert runs every 15 min at :5/:20/:35/:50.** If a profile's data-panel suddenly looks wrong, check if a recent auto-revert is in `auto-revert-pending`.
+- **Pipelines paused except RSS + Auto-Connection** (Rule 3 unchanged).
+- **Dispatcher PID 40912 still RUNNING — DO NOT Ctrl+C** without deliberate restart.
+- **`entity.aliases` is load-bearing** in both TS + CJS resolvers (yesterday's fix).
+- **Operator Commands cheatsheet** at `content/Operator Commands.md` (ops `/docs`) has new sections today: Pipeline frozen, Calibration auto-revert, Editorial decision pipeline, Librarian gap review, Calibration drift, Stale artifact recovery.
+
+### Layman's-terms summary
+
+The site has a self-healing safety net for editorial automation now. Claude can apply mechanical decisions (alias merges that are obvious typos, frontmatter cleanup that the librarian agrees with) without David approving each one. If Claude gets it wrong, the calibration harness fires within 15 minutes and the auto-revert hook moves the bad decision back to "needs human review" — automatically. If Claude goes haywire (>200 decisions/hour), the pipeline freezes itself until David lifts it. David spot-audits a 5% sample weekly via Ops (Phase 3 — coming next session). The system is structurally incapable of granting itself authority without a corresponding semantic safety check, because Rule 16 enforces fixture coverage at registration time. Tested in real time today: a too-loose initial predicate would have attributed donations to the wrong real people; the dry-run caught it before any auto-apply ran.
+
 ---
 
 ## HANDOFF — 2026-04-29 EVENING (System tightening + librarian bug — 18 commits)
