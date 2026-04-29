@@ -138,6 +138,35 @@ node -e "console.log(JSON.stringify(require('./data/relationships-per-profile.js
 
 ---
 
+## Editorial decision pipeline — Claude-auto vs David-approved (ADR-0029)
+
+**Concept:** mechanical editorial decisions (alias merges, dedup, frontmatter-orphan triage, mechanical readiness promotion) flow through a tiered pipeline. Tier 1 is auto-applied with calibration safety net. Tier 2 is Claude-recommended, you batch-approve. Tier 3 stays David-only.
+
+**Run a Tier 1 sweep across a class:**
+```bash
+node scripts/librarian-gap-propose.cjs --tier1
+```
+Predicate-matched candidates auto-resolve with `decided_by: claude-auto`. Calibration-drift hook will revert any that broke a fixture.
+
+**Spot-check Claude's recent auto-applies:**
+```bash
+node -e "const p=require('./scripts/lib/editorial-decision-pipeline.cjs'); require('./scripts/classes/index.cjs'); console.log(JSON.stringify(p.sampleTier1Decisions({limit:20}), null, 2))"
+```
+
+**Audit harness (new in this ADR — runs every 15 min via dispatcher):**
+- `editorial-decision-provenance` — every non-candidate record has decided_by + decided_at
+- `tier1-fixture-coverage` — every Tier 1 class has fixture coverage (Rule 16)
+- `claude-decision-volume` — alarm if >50 claude-auto decisions/hour (soft) or >200 (hard)
+- `auto-revert-pending` — records calibration drift reverted, awaiting re-review
+
+**Add a new decision class:**
+1. Create `scripts/classes/<your-class>.cjs` that calls `pipeline.register({...})`
+2. If Tier 1, add fixture coverage in `data/calibration-fixture.jsonl` BEFORE registering
+3. Add `require('./<your-class>.cjs')` to `scripts/classes/index.cjs`
+4. The pipeline rejects registration without fixture coverage (Rule 16, mechanical enforcement)
+
+---
+
 ## Librarian gap review — wikilinks the librarian can't resolve
 
 **You see:** the harness shows `librarian-gap-decisions` with N candidate findings; or you want to clear out alias gaps that are silently dropping edges (e.g. "International Association of Firefighters Interested in Registration and Education PAC" appears 416× but resolves to nothing).

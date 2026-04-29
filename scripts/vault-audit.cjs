@@ -344,6 +344,38 @@ const CHECKS = [
     timeout_ms: 15000,
     queue: { bucket: 'compounding', leverage: 4, cost_min: 5 },
   },
+  {
+    name: 'editorial-decision-provenance',
+    description: 'ADR-0029 Rule 16 enforcement. Verifies every editorial-decision record in non-candidate state has decided_by + decided_at provenance, and that auto_revert_eligible is consistent with decided_by. Without provenance the weekly sample-audit cant tell what Claude did vs David did, and the safety net degrades silently. Hard-fails: missing decided_by, invalid decided_by, missing decided_at, inconsistent auto_revert flag. Findings count > 0 means a writer is bypassing the pipeline.',
+    cmd: ['node', 'scripts/editorial-decision-provenance-check.cjs', '--json'],
+    parse: parseEditorialDecisionProvenance,
+    timeout_ms: 30000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
+  },
+  {
+    name: 'tier1-fixture-coverage',
+    description: 'ADR-0029 Rule 16 enforcement at runtime. Verifies every registered Tier 1 decision class has matching fixture coverage in data/calibration-fixture.jsonl. Pipeline.register() enforces this at startup, but a fixture being deleted AFTER registration would leave auto-apply authority without a corresponding semantic safety net. Findings > 0 = stop-the-world: Claude has authority it shouldnt have, restore the fixture or remove the Tier 1 predicate.',
+    cmd: ['node', 'scripts/tier1-fixture-coverage-check.cjs', '--json'],
+    parse: parseTier1FixtureCoverage,
+    timeout_ms: 15000,
+    queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
+  },
+  {
+    name: 'claude-decision-volume',
+    description: 'ADR-0029 rate-limit watchdog. Counts decided_by=claude-auto records across all classes in the last hour. Soft alarm at 50/hr (review the calibration check + recent decision sample). Hard alarm at 200/hr (likely runaway predicate or feedback loop — Phase 2 will auto-freeze). Phase 1 just observes. Steady-state expected near 0 once the initial alias backlog drains.',
+    cmd: ['node', 'scripts/claude-decision-volume-check.cjs', '--json'],
+    parse: parseClaudeDecisionVolume,
+    timeout_ms: 15000,
+    queue: { bucket: 'blocking', leverage: 4, cost_min: 5 },
+  },
+  {
+    name: 'auto-revert-pending',
+    description: 'ADR-0029 visibility for calibration-driven reverts. Records in candidate state with reverted_reason set are decisions Claude made, the calibration disagreed with, and a human needs to re-review. Findings count = pending re-reviews. Phase 2 wires the auto-revert mechanism; Phase 1 just instruments the surface. Until Phase 2 ships, count is always 0.',
+    cmd: ['node', 'scripts/auto-revert-pending-check.cjs', '--json'],
+    parse: parseAutoRevertPending,
+    timeout_ms: 15000,
+    queue: { bucket: 'compounding', leverage: 3, cost_min: 5 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -680,6 +712,42 @@ function parseLibrarianGapDecisions(stdout, _stderr, _exit) {
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
   }
+}
+
+function parseEditorialDecisionProvenance(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const kindCounts = {};
+    for (const f of j.findings || []) kindCounts[f.kind] = (kindCounts[f.kind] || 0) + 1;
+    const note = Object.keys(kindCounts).length === 0
+      ? `${j.classes_inspected || 0} class(es) clean`
+      : Object.entries(kindCounts).map(([k, v]) => `${k}=${v}`).join(' ');
+    return { findings_count: j.findings_count || 0, notes: note };
+  } catch { return { findings_count: 0, notes: '(json parse failed)' }; }
+}
+
+function parseTier1FixtureCoverage(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const note = `${j.classes_with_tier1 || 0} tier1 class(es), ${j.fixture_profiles_total || 0} fixture profile(s)`;
+    return { findings_count: j.findings_count || 0, notes: note };
+  } catch { return { findings_count: 0, notes: '(json parse failed)' }; }
+}
+
+function parseClaudeDecisionVolume(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const note = `${j.total_in_window || 0}/hr (soft=${j.soft_limit}, hard=${j.hard_limit})`;
+    return { findings_count: j.findings_count || 0, notes: note };
+  } catch { return { findings_count: 0, notes: '(json parse failed)' }; }
+}
+
+function parseAutoRevertPending(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const note = j.findings_count === 0 ? 'no pending reverts' : `${j.findings_count} record(s) need re-review`;
+    return { findings_count: j.findings_count || 0, notes: note };
+  } catch { return { findings_count: 0, notes: '(json parse failed)' }; }
 }
 
 function parseLibrarianValidation(stdout, _stderr, exit) {
