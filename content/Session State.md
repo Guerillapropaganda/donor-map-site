@@ -1,7 +1,152 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-28
+last-updated: 2026-04-29
+---
+
+## HANDOFF — 2026-04-29 (cc_p3_170 → cc_p3_172, ADR-0029 Phase 2B + 2C + 5b + cross-vault logging surface + bug-007 cleanup)
+
+**Context:** Code Claude. Worktree `claude/objective-taussig-93fcd0`, Opus 4.7 (1M context). 9 commits to v4 across the day. Built on top of yesterday's ADR-0029 Phase 1+2 (editorial-decision-pipeline + calibration auto-revert).
+
+### THIS SESSION'S DELIVERABLES (already shipped to v4)
+
+**Phase 3 — `/audit-claude-decisions` ops page (cc_p3_170).** Two-pane Option B governance surface. Filter by class / decided_by / state / date / search. Detail dossier shows full `change_log[]` timeline + raw record. One-click revert with full undo (librarian-gap-aliases also strips alias from entities.jsonl). 🎯 Sample 20 button pulls random Tier 1 from last 7d for weekly audit. URL-state filters, j/k/r keyboard. Plain-language explainer + chip tooltips per "explain like a child" feedback. Sidebar BUILD → Audit Claude.
+
+**Cross-vault logging gaps closed (cc_p3_170).** Three logging surfaces:
+- Crashed harness checks → auto-bug filing (scripts/auto-bug-harness-crashes.cjs, dispatcher 7,22,37,52)
+- Calibration drift → auto-bug + auto-revert (extended scripts/calibration-auto-revert.cjs)
+- Session change log: data/change-log.jsonl + .husky/post-commit + /change-log ops page + Dashboard "full log →" link
+- bugs-store.cjs library: programmatic bug-queue.md writer with auto-resolve predicates
+
+**Phase 2B-A (cc_p3_170).** duplicate-entity-merges class. 11 candidates seeded from harness. Tier 2 only. Surfaces on /audit-claude-decisions.
+
+**Phase 2B-B (cc_p3_170).** pathless-stub-aliases class. 13 ghost stubs seeded. Tier 2 only. Both classes use new merge-entity-targeted.cjs writer (single-merge variant of dedupe-entities — keeps bulk path untouched).
+
+**5b — `/librarian-gaps` editorial work surface (cc_p3_171).** Companion to /audit-claude-decisions: prospective approve/reject for the 72 librarian-gap candidates. ✓ approve / 🔍 research / ✗ reject buttons, custom approve via prompt, j/k/a/x/? keyboard. Replaces librarian-gap-review.md + --apply-approved CLI flow. Sidebar ANALYZE → Librarian Gaps.
+
+**Phase 2C — mechanical-readiness-promotion class (cc_p3_171).** STRICT per David's directive: Claude promotes raw → draft → ready ONLY. Past ready stays with David (publishing == data-complete per ADR-0017). Producer walks every profile, applies inline classifyForTier1 predicate, transitions through pipeline. Stuck profiles surface to attention queue with specific gap_reasons. Rule 16: 3 new readiness fixtures (Pfizer=ready, Mark Kelly=data-complete, Cortez Masto=data-complete), calibration-drift-check extended with readiness bucket. **First sweep: 28 draft → ready promotions, 758 stuck profiles surfaced.** Wired to dispatcher 22,52.
+
+**Bug-007 corruption cleanup (cc_p3_172).** Discovered during Phase 2C build: 17 profile central-thesis fields had `content-readiness: <state>` strings injected where dollar amounts were (`$265K+` → `content-readiness: ready65K+`). Caused by prior reclassify script's String.replace() bug, NOT today's work. Two-pass repair:
+1. fix-bug-007-corrupted-thesis.cjs: replaced corruption with `[$? — bug-007]` placeholder. 20 replacements across 17 files.
+2. fix-bug-007-smart-restore.cjs: cross-referenced body text for `$<digit><survivor>` matches. Recovered 11 of 20 (Tom Cotton $165K + $152M, Bannon $15-20M, Boozman $120, Fischer $141, Sarah Huckabee $13M, Greg Abbott $166, Zelenskyy $175, Manchin $186, Saikat $167M, Amy Acton $100). 9 left as placeholder for editorial fact-check (Brett Kavanaugh, Carlos Gimenez, Glenn Youngkin x2, Dick Cheney, Joe Biden, Summer Lee, Rick Scott, Greg Casar — single-digit/ambiguous suffixes).
+
+**Auto-promotion sweeps:** 28 + 4 + 3 = ~35 draft → ready promotions today across iterations.
+
+### State of the system after today
+
+- **5 pipeline classes registered**: librarian-gap-aliases (T1+T2), frontmatter-orphan-prunes (T2), duplicate-entity-merges (T2), pathless-stub-aliases (T2), mechanical-readiness-promotion (T1).
+- **9,219+ decisions in flight** across stores.
+- **Calibration fixtures: 13 entries**, all passing in main repo (worktree has 7 monetary-detail false-positives from data-mirror gap, not regression).
+- **Pipeline UNFROZEN.**
+- **Dispatcher: PID 40912 (long-running) plus restarted PID for /audit-claude-decisions verification flow.** Note: David's start-ops.bat killed and restarted ops on port 3333 mid-session. New PID is via his normal launcher.
+- **Post-commit hook firing.** Every commit now records to data/change-log.jsonl. Initial issue (hook needed in main repo's `.husky/`, not just worktree's) was caught + fixed.
+- **bug-queue.md: 1 open** (bug-007 — pending editorial repair of 9 placeholder amounts).
+
+---
+
+### NEXT-CHAT INSTRUCTION SET (do all of these, in order, leaving Money Trail last)
+
+David explicitly requested: **"go down the list of code work leaving money trail rebuild last. Do all."** Each item below deserves its own fresh chat. Token budget reasons (this session ran ~$15 already; continuing into Path B + ADR-0024 in the same chat would exceed $60+ and hit context-window degradation).
+
+**Order (do each in its own fresh session, run /preflight first):**
+
+#### 1. Phase 2D — ready → data-complete proposal queue (~1-2 hr, ~$5-10 Opus or Sonnet 4.6)
+
+Completes the automation pyramid sketched in cc_p3_171: Claude does mechanical raw→draft→ready (already shipped); David gates `ready → data-complete` (publishing). Phase 2D builds the **Tier 2 batch-approval surface** so David can rapidly review + approve the publishing-eligible proposals.
+
+**Build target:**
+- New class `data-complete-promotion` registered with editorial-decision-pipeline. **Tier 2 ONLY** — no Tier 1 predicate. (Per David: publishing stands with him.)
+- Producer: walk profiles at `ready` state, evaluate ADR-0017's data-complete gates (typeReqs met, ≥1 Tier 1 source, hasConnections, ≤90d freshness, no blocking flags). For each profile that PASSES all gates: upsert candidate to the store. For each that fails ONE specific gate: record state=`stuck` with that gap (mirrors mechanical-readiness pattern).
+- Apply path: rewrite `content-readiness: ready` → `content-readiness: data-complete` in profile frontmatter.
+- New ops page `/publishing-queue` (or extend /audit-claude-decisions with a tab) — David's batch-approval surface. Show profile preview + which gates pass + bulk approve.
+- Calibration fixtures: 1 new fixture asserting Pfizer doesn't accidentally promote past `ready` without David's click.
+- Wire into dispatcher every 30 min.
+
+**Reference implementations:** Phase 2C mechanical-readiness-promotion (same pattern, less strict predicate). Look at scripts/classes/mechanical-readiness-promotion.cjs + scripts/mechanical-readiness-producer.cjs.
+
+**Sonnet 4.6 fine here** — pattern-following work, low ambiguity.
+
+#### 2. ADR-0027 Phase 2 — frontmatter cache prune mode (~2-3 hr, ~$8-15 Opus)
+
+Closes the loop on the 8,848 frontmatter-orphan-candidates queue. Currently `/relationships/orphans` shows them and lets David triage to `approved-prune` state, but the actual prune (stripping the name from frontmatter) is described as "P3, not yet shipped." This session ships P3.
+
+**Build target:**
+- Extend `scripts/rebuild-relationship-caches.cjs` with `--apply-approved` mode that reads frontmatter-orphan-candidates.jsonl, finds records in state=approved-prune, and mechanically removes the offending name from the profile's frontmatter relationship cache field. Atomic per-profile writes.
+- Wire `--apply-approved` into the dispatcher OR keep manual-only initially per ADR-0027 conservative stance.
+- Update class `frontmatter-orphan-prunes`'s `apply_decision` to call this new path (currently spawns a stub).
+- canonical-store-sentinel allowlist: this writer needs to be on the allowlist for frontmatter relationship-field edits.
+- New harness check: `frontmatter-prune-pending` — counts approve-prune-state records that haven't been applied yet. Wires to /audit-claude-decisions.
+
+**Reference:** ADR-0027 itself (`content/Decisions/0027-frontmatter-cache-prune-mode.md`). Read it first.
+
+**Sonnet 4.6 might struggle with the canonical-store-sentinel allowlist nuance — Opus recommended.**
+
+#### 3. Capital_type Path B batch-tagger (~3-4 hr, ~$15-25 Opus)
+
+From yesterday's handoff (cc_p3_169): "Covers ~1,400 untagged entities, pushes coverage 17% → 60-80%." Path B is the planned approach (per `content/Admin Notes/class-tag-priority-queue.md` if present).
+
+**What this is:** ~1,400 entities in entities.jsonl have no `class_tags` field populated. Path B is a heuristic batch-classification approach that infers class_tags from existing fields (FEC committee type, sector, profile_path classification). Mechanical, NOT new factual claims (per Rule 4). Should be Tier 1 per ADR-0029 with fixture coverage.
+
+**Build target:**
+- Read `content/Admin Notes/class-tag-priority-queue.md` and any related notes for the design.
+- New script (likely `scripts/class-tag-path-b-tagger.cjs`).
+- Pipeline class registration `class-tag-path-b-application` if Tier 1 (needs fixture coverage per Rule 16).
+- Calibration fixtures for blast radius (a few entities at known class_tag states).
+- Per Rule 14: class-tag *vocabulary* changes are David's lane. Path B *applies* existing vocabulary — that's mechanical Tier 1/2.
+
+**Opus required** for the design + fixture decisions. Multi-step ambiguity.
+
+#### 4. ADR-0024 unified graph engine implementation (multi-session, ~$30+ Opus per session)
+
+This is the biggest item on the list. Per CLAUDE.md ADR-0024: "Accepted 2026-04-25, implementation deferred to subsequent sessions. Targets the structural class of bugs behind Fairshake-style mismappings, FEC-number drift, and bioguide collisions; also delivers thesis queries — `influenceMap`, `policyAlignment`, `donorContradictions` — as first-class operations."
+
+**This is genuinely multi-session work.** Don't try to ship it all in one chat. First session should:
+- Read ADR-0024 in full (`content/Decisions/0024-unified-graph-engine.md`).
+- Audit `lib/donor-map/` (the in-memory graph library — ADR says "shipped + 34 scripts use the CJS twin").
+- Plan the implementation in phases. Write a phase plan as a new admin note.
+- Ship phase 1 only (likely the API surface for `influenceMap()`).
+- Hand off to fresh chat for phase 2.
+
+**Opus required throughout.**
+
+#### 5. Money Trail rebuild (~own session, ~$10-20 Opus)
+
+David flagged twice that Money Trail "is actually about money" and needs its own session. Currently at `/money-trail` ops page (per Sidebar). Rebuild = redesign + re-implement to match David's mental model (whatever that is — discovery work in the chat).
+
+**First step:** ASK David what he wants Money Trail to actually surface. Don't assume. Maybe pull the existing /money-trail page, screenshot it, ask "what should this become?" Likely needs a design pitch first, then build.
+
+**Opus or Sonnet** depending on how much design vs implementation.
+
+---
+
+### Critical context the fresh chats need to know
+
+- **ADR-0029 is load-bearing.** Every editorial-mechanic class goes through `scripts/lib/editorial-decision-pipeline.cjs`. Provenance + change_log on every transition.
+- **Rule 16: Tier 1 requires fixture coverage in `data/calibration-fixture.jsonl`.** Pipeline `register()` refuses Tier 1 without it. Mechanically enforced.
+- **Strict David-gate beyond `ready`.** Phase 2D's job is to give David a fast batch-approval surface for `ready → data-complete`. Don't let Claude promote past ready autonomously — David explicitly said "publishing still stands with me."
+- **Pipeline UNFROZEN. Dispatcher PID may have changed (David restarted ops mid-session).** Check `Get-NetTCPConnection -LocalPort 3333` to confirm dev server alive before assuming.
+- **Pipelines paused except RSS + Auto-Connection** (Rule 3).
+- **Worktree content/ is symlinked to main repo's content/** — frontmatter writes propagate immediately. Main repo working tree may have its own dirty state from dispatcher cycles.
+- **canonical-store-sentinel pre-commit hook** blocks edits to frontmatter relationship fields unless paired with rebuilder script. Came up in cc_p3_172 — Donald Trump cache rebuild had to be excluded from a commit.
+- **Post-commit hook fires now** — every commit auto-records to data/change-log.jsonl + /change-log page.
+- **5 pipeline classes already registered + surfaced on /audit-claude-decisions.** Don't duplicate.
+- **8,848 frontmatter-orphan-candidates** in store — don't be intimidated, ADR-0027 P2 handles them mechanically once the writer ships.
+- **758 stuck profiles in attention queue** — mechanical-readiness-producer surfaces them with gap_reasons. Many are `noTier1` / `noSources` / `noConnections` — actual editorial work, not code.
+- **9 `[$? — bug-007]` placeholders** in 9 profiles still need editorial fact-check. Not code work.
+- **72 librarian-gap candidates** at /librarian-gaps for David's Tier 2 batch review. Not code work.
+
+### Layman's-terms summary of where we are
+
+The donor map's editorial automation pipeline now has **five different kinds of decisions Claude can help with**: alias merges, frontmatter cleanup, duplicate-profile mergers, ghost-stub fixes, and readiness promotion (raw → draft → ready). All five show up on one page (/audit-claude-decisions) where David can spot-check what Claude did and undo any mistake with one click. Behind the scenes, the safety net catches real errors: if Claude makes a wrong call, a calibration fixture fails within 15 minutes, the pipeline reverts the bad decision automatically, and a bug logs itself on /bugs. Today also exposed (and partially fixed) an **unrelated 18-profile data corruption** from a prior buggy script — 11 dollar amounts restored from body context, 9 still need David's editorial fact-check.
+
+The remaining code work splits into: **Phase 2D** (give David his batch-approval surface for the publishing gate), **ADR-0027 Phase 2** (close the 8,848-record orphan triage loop), **Path B** (apply existing class-tag vocabulary mechanically to ~1,400 entities), **ADR-0024** (multi-session graph engine — the deepest architectural item), and finally **Money Trail rebuild**. Each one its own fresh chat per token budget reasons.
+
+### What David specifically asked for going forward
+
+> "Lets go down the list of code work leaving money trail rebuild last. Do all."
+
+So: 1 → 2 → 3 → 4 → 5, each a fresh chat. /preflight first in each. Use Sonnet 4.6 for #1 and possibly #5; Opus for the rest.
+
 ---
 
 ## HANDOFF — 2026-04-28 EVENING (ADR-0029 editorial automation tiers — 6 commits + 5 v4 merges)
