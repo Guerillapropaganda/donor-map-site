@@ -14,6 +14,9 @@ import { Resolver } from "./resolver"
 import type {
   AggregateOpts,
   AggregateResult,
+  DonorContradictionPair,
+  DonorContradictionsOpts,
+  DonorContradictionsResult,
   Edge,
   EdgeStatus,
   EdgeType,
@@ -346,6 +349,105 @@ export class Graph {
       return 0
     })
     return entries.slice(0, limit)
+  }
+
+  // ─── Thesis queries (ADR-0024) ─────────────────────────────────────
+
+  /**
+   * Pairs of politicians the donor funded that have a
+   * `political-opposition` edge between them — the "both-sides funding"
+   * shape. Returns deduplicated undirected pairs ranked by the smaller
+   * of the two totals (the intensity heuristic — both sides being
+   * funded substantially is more newsworthy than $5 + $50,000).
+   *
+   * Reference shapes:
+   *   - UDP funded Bowman + Bowman's primary opponent.
+   *   - Fairshake PAC funded Cori Bush + Wesley Bell (her opponent).
+   *
+   * Defaults: status='active', min_confidence=0, min_total=0,
+   * cycle=undefined (all cycles).
+   *
+   * Only counts edges of type `monetary` with a finite positive amount
+   * for the funding side. Opposition edges are matched by type
+   * `political-opposition` regardless of direction.
+   */
+  donorContradictions(
+    donor: ResolveArg,
+    opts: DonorContradictionsOpts = {},
+  ): DonorContradictionsResult {
+    const donorNode = this.resolver.resolve(donor)
+    const status: EdgeStatus | "all" = opts.status ?? "active"
+    const minConf = opts.min_confidence ?? 0
+    const minTotal = opts.min_total ?? 0
+    const cycle = opts.cycle
+
+    // Step 1: aggregate monetary out-edges, group by recipient.
+    interface FundedInfo {
+      total: number
+      edges: Edge[]
+    }
+    const funded = new Map<NodeId, FundedInfo>()
+    for (const i of this.outIdx.get(donorNode.id) ?? []) {
+      const e = this.edges[i]
+      if (status !== "all" && e.status !== status) continue
+      if (e.confidence < minConf) continue
+      if (cycle !== undefined && e.cycle !== cycle) continue
+      if (e.type !== "monetary") continue
+      if (typeof e.amount !== "number" || !Number.isFinite(e.amount) || e.amount <= 0) continue
+      const acc = funded.get(e.to_id) ?? { total: 0, edges: [] }
+      acc.total += e.amount
+      acc.edges.push(e)
+      funded.set(e.to_id, acc)
+    }
+
+    // Filter recipients by min_total.
+    const recipientSet = new Set<NodeId>()
+    for (const [id, info] of funded) {
+      if (info.total >= minTotal) recipientSet.add(id)
+    }
+
+    // Step 2: walk political-opposition edges incident to each recipient;
+    // a hit lands when the other endpoint is also a funded recipient.
+    const seen = new Map<string, DonorContradictionPair>()
+    for (const aid of recipientSet) {
+      const adj = new Set<number>([
+        ...(this.outIdx.get(aid) ?? []),
+        ...(this.inIdx.get(aid) ?? []),
+      ])
+      for (const ei of adj) {
+        const edge = this.edges[ei]
+        if (edge.type !== "political-opposition") continue
+        if (status !== "all" && edge.status !== status) continue
+        if (edge.confidence < minConf) continue
+        const other = edge.from_id === aid ? edge.to_id : edge.from_id
+        if (other === aid) continue
+        if (!recipientSet.has(other)) continue
+
+        const [lo, hi] = aid < other ? [aid, other] : [other, aid]
+        const key = `${lo}|${hi}`
+        const existing = seen.get(key)
+        if (existing) {
+          if (!existing.opposition_basis.includes(edge)) existing.opposition_basis.push(edge)
+          continue
+        }
+        const aNode = this.resolver.getById(lo)
+        const bNode = this.resolver.getById(hi)
+        if (!aNode || !bNode) continue
+        seen.set(key, {
+          a: aNode,
+          b: bNode,
+          total_to_a: funded.get(lo)?.total ?? 0,
+          total_to_b: funded.get(hi)?.total ?? 0,
+          opposition_basis: [edge],
+        })
+      }
+    }
+
+    const pairs = [...seen.values()].sort(
+      (x, y) =>
+        Math.min(y.total_to_a, y.total_to_b) - Math.min(x.total_to_a, x.total_to_b),
+    )
+    return { donor: donorNode, pairs }
   }
 
   // ─── Diagnostics ───────────────────────────────────────────────────

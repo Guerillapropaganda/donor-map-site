@@ -214,3 +214,34 @@ export interface TimelineEntry {
   /** The other endpoint of this edge from `seed`'s perspective. */
   counterparty: NodeId
 }
+
+// ─── Thesis layer (ADR-0024) ────────────────────────────────────────────
+
+export interface DonorContradictionsOpts {
+  /** Cycle to constrain the funded set. When omitted, all cycles count. */
+  cycle?: string | number
+  /** Minimum total dollars to a recipient before they qualify. Default 0. */
+  min_total?: number
+  status?: EdgeStatus | "all"
+  min_confidence?: number
+}
+
+/**
+ * One contradiction pair: two recipients the donor funded who also have
+ * a `political-opposition` edge between them. Pairs are deduplicated
+ * (undirected) and ranked by the smaller of the two totals — the
+ * "both-sides" intensity heuristic.
+ */
+export interface DonorContradictionPair {
+  a: Node
+  b: Node
+  total_to_a: number
+  total_to_b: number
+  /** Every political-opposition edge between a and b that justified the pair. */
+  opposition_basis: Edge[]
+}
+
+export interface DonorContradictionsResult {
+  donor: Node
+  pairs: DonorContradictionPair[]
+}
