@@ -8,3 +8,6 @@
 {"profile":"ExxonMobil","bucket":"monetary-detail","top_n":10,"must_include":["Ted Cruz","Ron Johnson","Marco Rubio"],"snapshot_date":"2026-04-28","note":"ExxonMobil PAC top recipients — TX + oil-state Republicans"}
 {"profile":"Goldman Sachs","bucket":"monetary-detail","top_n":15,"must_include":["Tim Scott","Marco Rubio","Chuck Schumer"],"snapshot_date":"2026-04-28","note":"Goldman top recipients — financial-services committee + NY senator"}
 {"profile":"Cori Bush","bucket":"ie-opposition-detail","top_n":5,"must_include":["United Democracy Project - UDP"],"snapshot_date":"2026-04-28","note":"Bowman-shape regression detector — same UDP IE-oppose pattern"}
+{"profile":"Pfizer Inc.","bucket":"readiness","expected":"ready","note":"Pfizer is at 'ready' — Tier 1 promotion class must NOT push it past ready (David's gate at ready→data-complete)."}
+{"profile":"Mark Kelly","bucket":"readiness","expected":"data-complete","note":"Mark Kelly is at 'data-complete' — Tier 1 promotion class must NOT demote it; promotion to verified is David-only."}
+{"profile":"Catherine Cortez Masto","bucket":"readiness","expected":"data-complete","note":"Cortez Masto at 'data-complete' — protects against accidental demotion to ready."}

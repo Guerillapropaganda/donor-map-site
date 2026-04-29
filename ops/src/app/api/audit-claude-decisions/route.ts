@@ -137,6 +137,25 @@ const CLASSES: Record<string, ClassMeta> = {
       return [kind, edges, id].filter(Boolean).join(" · ")
     },
   },
+  "mechanical-readiness-promotion": {
+    name: "mechanical-readiness-promotion",
+    store_file: "data/mechanical-readiness-decisions.jsonl",
+    has_tier1: true,
+    label: (rec) => {
+      const title = String(rec.profile_title || rec.profile_path || "?")
+      const from = String(rec.from_state || "?")
+      const to = String(rec.to_state || "?")
+      return `${title} : ${from} → ${to}`
+    },
+    sublabel: (rec) => {
+      const type = String(rec.profile_type || "")
+      const reasons = Array.isArray(rec.gap_reasons) && rec.gap_reasons.length
+        ? `gaps: ${(rec.gap_reasons as string[]).join(", ")}`
+        : ""
+      const path_ = String(rec.profile_path || "")
+      return [type, reasons, path_].filter(Boolean).join(" · ")
+    },
+  },
 }
 
 // ─── normalized record shape ───────────────────────────────────────

@@ -76,7 +76,76 @@ function topNNames(entries, n) {
     .map(([name]) => name);
 }
 
+// 2026-04-29 extension: readiness fixtures assert content-readiness state
+// of a profile's markdown frontmatter (used by mechanical-readiness-promotion
+// class to satisfy Rule 16). Fixture shape:
+//   { "profile": "Pfizer Inc.", "bucket": "readiness", "expected": "data-complete" }
+function evaluateReadinessFixture(fixture) {
+  // Find the profile by frontmatter `title:` matching fixture.profile.
+  // Walk content/ once; cache hits across calls.
+  if (!evaluateReadinessFixture._titleIndex) {
+    const idx = new Map();
+    const stack = [path.join(ROOT, 'content')];
+    while (stack.length) {
+      const dir = stack.pop();
+      let entries;
+      try { entries = fs.readdirSync(dir, { withFileTypes: true }); }
+      catch { continue; }
+      for (const e of entries) {
+        const full = path.join(dir, e.name);
+        if (e.isDirectory()) stack.push(full);
+        else if (e.name.endsWith('.md')) {
+          try {
+            const text = fs.readFileSync(full, 'utf-8');
+            const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+            if (!m) continue;
+            const fm = m[1];
+            const titleMatch = fm.match(/^title:\s*"?(.*?)"?\s*$/m);
+            const readinessMatch = fm.match(/^content-readiness:\s*"?(.*?)"?\s*$/m);
+            const title = titleMatch ? titleMatch[1].trim() : null;
+            const readiness = readinessMatch ? readinessMatch[1].trim() : null;
+            if (title) idx.set(title, { path: full, readiness });
+          } catch { /* skip */ }
+        }
+      }
+    }
+    evaluateReadinessFixture._titleIndex = idx;
+  }
+  const idx = evaluateReadinessFixture._titleIndex;
+  const found = idx.get(fixture.profile);
+  if (!found) {
+    return {
+      profile: fixture.profile,
+      bucket: 'readiness',
+      ok: false,
+      reason: 'profile not found in vault by title',
+      expected: fixture.expected,
+      actual: null,
+    };
+  }
+  if (found.readiness !== fixture.expected) {
+    return {
+      profile: fixture.profile,
+      bucket: 'readiness',
+      ok: false,
+      reason: 'content-readiness drifted',
+      expected: fixture.expected,
+      actual: found.readiness,
+      missing: [`expected content-readiness=${fixture.expected}, got ${found.readiness || '(unset)'}`],
+    };
+  }
+  return {
+    profile: fixture.profile,
+    bucket: 'readiness',
+    ok: true,
+    expected: fixture.expected,
+    actual: found.readiness,
+    note: fixture.note,
+  };
+}
+
 function evaluateFixture(fixture, artifact) {
+  if (fixture.bucket === 'readiness') return evaluateReadinessFixture(fixture);
   const bucket = artifact[fixture.profile]?.[fixture.bucket];
   if (!bucket) {
     return {

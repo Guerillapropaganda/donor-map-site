@@ -35,6 +35,17 @@ Claude will normalize it on the next visit.
 *(no open bugs — all clear)*
 
 
+### bug-007: Pre-existing data corruption: 18 profiles have "content-readiness: ready" injected into central-thesis text where dollar amounts (e.g. , ) used to be
+<!-- auto-bug-key: 2b05384c308c -->
+<!-- auto-resolve-when: regex=^# (RESOLVED) source=content/Admin Notes/data-corruption-fix-2026-04-29.md -->
+- **reported:** 2026-04-29
+- **severity:** high
+- **where:** content/Politicians/**/_*.md (~18 files)
+- **what:** 18 profiles in the vault have central-thesis text like "(content-readiness: ready65K+)" where the original was "(5K+)". Caused by a prior reclassify script with a String.replace() backreference bug. Tom Cotton, JD Vance, Joe Biden, Greg Abbott, Joe Manchin, etc. Discovered 2026-04-29 while building Phase 2C mechanical-readiness-promotion. The files need editorial repair (substitute "content-readiness: ready" back to the original dollar amount). Affected files: ops-audit-2026-04-23.md (admin note, separate), Tom Cotton, John Boozman, Deb Fischer, Carlos Gimenez, Sarah Huckabee Sanders, Greg Abbott, Joe Manchin, Joe Biden, Summer Lee, Saikat Chakrabarti, Amy Acton, Brett Kavanaugh, Steve Bannon, Volodymyr Zelenskyy, Rick Scott, Glenn Youngkin, Dick Cheney.
+- **producer:** data-corruption-discovery (auto-logged)
+- **discovered-during:** ADR-0029 Phase 2C build
+- **affected-count:** 18
+
 ## resolved (archive)
 
 ### bug-006: Smoke test bug entry

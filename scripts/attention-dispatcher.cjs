@@ -123,6 +123,18 @@ const PRODUCERS = [
     script: 'scripts/pathless-stub-aliases-seed.cjs',
     timeout_ms: 60_000,
   },
+  // Phase 2C of ADR-0029: mechanical readiness promotion (raw → draft
+  // → ready) per David's strict directive (publishing past ready stays
+  // with David). Walks the vault, applies Tier 1 predicate, surfaces
+  // stuck profiles' gap reasons to attention queue. Schedule: every
+  // 30 min at :22 + :52, offset from other producers. ~3 min budget
+  // because the full vault scan touches ~2,300 profile files.
+  {
+    name: 'mechanical-readiness-producer',
+    schedule: '22,52 * * * *',
+    script: 'scripts/mechanical-readiness-producer.cjs',
+    timeout_ms: 180_000,
+  },
   { name: 'voice-drift-detector',       schedule: '*/30 * * * *', script: 'scripts/voice-drift-detector.cjs' },
   { name: 'hallucination-catcher',      schedule: '0 * * * *',    script: 'scripts/hallucination-catcher.cjs' },
   { name: 'promotion-candidate-queue',  schedule: '15 * * * *',   script: 'scripts/promotion-candidate-queue.cjs' },

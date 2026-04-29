@@ -52,6 +52,7 @@ const NAV_GROUPS: NavGroup[] = [
     items: [
       { href: "/relationships", label: "Relationships", icon: "link", badgeKey: "suggestions" },
       { href: "/relationships/orphans", label: "↳ Orphan Triage", icon: "clipboard" },
+      { href: "/librarian-gaps", label: "↳ Librarian Gaps", icon: "search" },
       { href: "/money-trail", label: "Money Trail", icon: "dollar" },
       { href: "/capitol-trades", label: "Capitol Trades", icon: "trending" },
       { href: "/class-tags", label: "Class Tags", icon: "target" },

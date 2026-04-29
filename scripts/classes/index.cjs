@@ -20,7 +20,6 @@ require('./librarian-gap-aliases.cjs');
 require('./frontmatter-orphan-prunes.cjs');
 require('./duplicate-entity-merges.cjs');
 require('./pathless-stub-aliases.cjs');
-// Future will add (each requires its own canonical store first):
-// require('./mechanical-readiness-promotion.cjs');
+require('./mechanical-readiness-promotion.cjs');
 
 module.exports = {};
