@@ -336,6 +336,14 @@ const CHECKS = [
     timeout_ms: 30000,
     queue: { bucket: 'blocking', leverage: 5, cost_min: 5 },
   },
+  {
+    name: 'librarian-gap-decisions',
+    description: 'Editorial review queue for librarian-gap candidates (wikilinks the librarian cannot resolve — usually missing aliases). Findings count = state=candidate awaiting David triage. Refresh candidates: node scripts/librarian-gap-propose.cjs --report. Review: --review-list. Apply: --apply-decisions then --apply-approved. Approved aliases land in entities.jsonl.',
+    cmd: ['node', 'scripts/librarian-gap-decisions-check.cjs', '--json'],
+    parse: parseLibrarianGapDecisions,
+    timeout_ms: 15000,
+    queue: { bucket: 'compounding', leverage: 4, cost_min: 5 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -655,6 +663,20 @@ function parseCalibrationDrift(stdout, _stderr, _exit) {
     const failed = j.findings || [];
     const note = `${j.fixtures_passed || 0}/${j.fixtures_total || 0} fixtures pass${failed.length ? '. Failing: ' + failed.slice(0, 3).map((f) => `${f.profile}/${f.bucket}`).join(', ') + (failed.length > 3 ? ` +${failed.length - 3} more` : '') : ''}`;
     return { findings_count: j.findings_count || 0, notes: note };
+  } catch {
+    return { findings_count: 0, notes: '(json parse failed)' };
+  }
+}
+
+function parseLibrarianGapDecisions(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const top = (j.top || []).slice(0, 3).map((t) => `${t.name} (${t.appearances}x)`).join(', ');
+    const stateNote = Object.entries(j.by_state || {}).map(([k, v]) => `${k}=${v}`).join(' ');
+    return {
+      findings_count: j.findings_count || 0,
+      notes: `${stateNote}${top ? '. Top: ' + top : ''}`,
+    };
   } catch {
     return { findings_count: 0, notes: '(json parse failed)' };
   }
