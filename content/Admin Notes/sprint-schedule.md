@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-29-evening-system-tightening-14-commits'
+last-updated: '2026-04-28-evening-adr-0029-editorial-automation-tiers-6-commits'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -3470,6 +3470,54 @@ phase_3_tasks:
       added_adhoc: true
       commits: "322f0de24"
       notes: "role-empty-monetary-edges harness jumped 0→138,753 after worktree mirror. Root cause: aggregate-indiv-to-edges.cjs was patched April 21 to set role=direct-contribution but the file was never re-aggregated since. Yesterday's '16,495→0' victory undercount didn't include this file. Real-impact: AOC's $45M small-dollar base reads as $54K. NOT fixed automatically — needs coordinated deprecate-then-regenerate (138K records). Full plan at content/Admin Notes/role-empty-fec-indiv-by-committee-2026-04-29.md awaiting David approval."
+
+    - id: cc_p3_163
+      task: "138K role-empty fix executed: truncate-then-regenerate fec-indiv-by-committee.jsonl + auto-heal wiring"
+      status: done
+      completed_date: 2026-04-28
+      added_adhoc: true
+      commits: "ebf5fa6af, 2c816fc65 (merge)"
+      notes: "Truncated fec-indiv-by-committee.jsonl, re-ran aggregate-indiv-to-edges.cjs --write: 134,731 role=direct-contribution edges written, 42 self-loops correctly rejected. role-empty-monetary-edges harness: 138,753 → 0. Added fec-indiv-by-committee.jsonl to scripts/ensure-derived-artifacts.cjs ARTIFACTS list (auto-heal pattern from yesterday). Admin note role-empty-fec-indiv-by-committee-2026-04-29.md status: open → resolved with honesty correction (AOC '$45M' claim was overstated — source CSV is partial dataset, 188K lines covering only 617 committees)."
+
+    - id: cc_p3_164
+      task: "Diagnose + fix data-panel cascade regression: 1,677 profiles refreshed against current artifact"
+      status: done
+      completed_date: 2026-04-28
+      added_adhoc: true
+      commits: "5c7b29628, ba5debd51 (merge)"
+      notes: "Pfizer's $91K Clyburn / ADM's $81K Durbin / AOC's $25K NEA all vanished from data-panels in main repo working tree. Investigation: stale relationships-per-profile.json artifact at the time of dispatcher's 17:58 UTC build-profile-data-panels run. Re-ran build-relationships-per-profile.cjs + build-profile-data-panels.cjs --write — restored. Spot-checked: Pfizer top-5 Clyburn/McCarthy/Hoyer/Smith/Grassley, ADM top-5 Durbin/Bishop/Grassley/Smith/LaHood, AOC top-5 NEA/SEIU/MoveOn/NEA Fund/Indivisible. All match HEAD/expected."
+
+    - id: cc_p3_165
+      task: "Structural fix: artifact schedule weekly→daily + calibration drift harness (10-fixture safety net)"
+      status: done
+      completed_date: 2026-04-28
+      added_adhoc: true
+      commits: "958ae1c50, 1f42db9f9 (merge)"
+      notes: "Root cause of cc_p3_164: per-profile-artifact ran weekly Sundays 3:25 AM but build-profile-data-panels runs daily 4 AM. 6 days a week, panels rebuilt from stale artifact. Fix: artifact moved to daily 3:25 AM (35-min lead). New scripts/calibration-drift-check.cjs + data/calibration-fixture.jsonl (10 entries: Pfizer/ADM/AOC/Cortez Masto/Bowman/Mark Kelly/Lockheed/Exxon/Goldman/Cori Bush) + vault-audit check #31. 2 new Operator Commands sections (calibration-drift / stale artifact). Catches the 2026-04-28 cascade class regardless of upstream cause."
+
+    - id: cc_p3_166
+      task: "Librarian gap review pipeline: surface + apply alias decisions in batch"
+      status: done
+      completed_date: 2026-04-28
+      added_adhoc: true
+      commits: "7f05ed415, ba5debd51 (merge — same merge as cc_p3_164/165)"
+      notes: "Mirrored ADR-0027 frontmatter-orphan-candidates pattern for librarian-gap (350+ wikilinks the librarian can't resolve). New: data/librarian-gap-decisions.jsonl canonical store + 5-mode CLI (scripts/librarian-gap-propose.cjs: --report / --review-list / --apply-decisions / --apply-approved / --stats) + harness check #32 + Operator Commands section. First run surfaced 72 high-leverage candidates; top: IAFF PAC 416×, NEA 370×, NAR 353×, AFSCME PEOPLE 344×."
+
+    - id: cc_p3_167
+      task: "ADR-0029 Phase 1: Editorial automation tiers + safety harness"
+      status: done
+      completed_date: 2026-04-28
+      added_adhoc: true
+      commits: "6a8305248, 76b80e293 (merge)"
+      notes: "Redrew the lane between Code Claude / Research Claude / David. Three tiers: Tier 1 auto-apply with calibration safety net; Tier 2 Claude-recommended batch-approved; Tier 3 David-only (legal/architectural). Shipped: ADR-0029, CLAUDE.md updates (Rules 4/9/14 amended + NEW Rule 16 calibration safety net required for Tier 1, mechanically enforced by pipeline.register), scripts/lib/editorial-decision-pipeline.cjs (reusable abstraction), scripts/classes/librarian-gap-aliases.cjs (first registered class — predicate TIGHTENED to normalized-string-equality after dry-run caught Jim Jordan→Jim Gordon and Mark Kelly→Mark K Lay defamation risk before deploy), 4 new harness checks (provenance / fixture-coverage / decision-volume / auto-revert-pending) wired into vault-audit (#32-35)."
+
+    - id: cc_p3_168
+      task: "ADR-0029 Phase 2: auto-revert + auto-freeze + frontmatter-orphan migration"
+      status: done
+      completed_date: 2026-04-28
+      added_adhoc: true
+      commits: "7302e66c2, dae55ebf3 (merge)"
+      notes: "Closed the safety loop. scripts/calibration-auto-revert.cjs reads calibration findings, walks Tier 1 classes, reverts claude-auto decisions in failing fixture's blast radius (24h window, idempotent). Wired into dispatcher every 15 min at :5/:20/:35/:50. Auto-freeze on volume hard alarm (200/hr): data/editorial-pipeline-freeze.json + scripts/editorial-pipeline-freeze.cjs CLI. End-to-end tested: freeze → tier1 refused → unfreeze. First queue migration: scripts/classes/frontmatter-orphan-prunes.cjs registered ADR-0027 store with pipeline (Tier 2 only — auto-prune rejected by ADR-0027). One-time migration scripts/migrate-pre-adr-0029-provenance.cjs backfilled 3,924 pre-pipeline records. Provenance check 7,848 → 0. canonical-store-sentinel hardened with 3 new guards."
 
   david:
     - id: dc_p3_01
