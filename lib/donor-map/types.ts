@@ -152,3 +152,65 @@ export interface AggregateResult {
   /** Edges contributing to the aggregate, post-filter. */
   edges: Edge[]
 }
+
+// ─── paths / subgraph / timeline (ADR-0024 plumbing layer phase 1) ─────
+
+export interface PathsOpts {
+  /** Maximum number of hops from `from` to `to` (default 3). */
+  max_hops?: number
+  edge_types?: EdgeType[]
+  status?: EdgeStatus | "all"
+  min_confidence?: number
+  /** Maximum paths to return (default 25). Ranked by weight desc. */
+  limit?: number
+}
+
+/**
+ * One path through the graph from a source to a destination node.
+ * Edges appear in traversal order; `weight` is the sum of per-edge
+ * weights (amount when present, else confidence) used for ranking.
+ */
+export interface Path {
+  from_id: NodeId
+  to_id: NodeId
+  hops: number
+  weight: number
+  edges: Edge[]
+  /** Node ids visited, in order: [from_id, ..., to_id]. */
+  nodes: NodeId[]
+}
+
+export interface SubgraphOpts {
+  /** How many hops out from each seed to flood-fill (default 1). */
+  max_hops?: number
+  edge_types?: EdgeType[]
+  status?: EdgeStatus | "all"
+  min_confidence?: number
+  /** Cap on total nodes returned. Beyond cap, result.truncated=true. */
+  max_nodes?: number
+}
+
+export interface SubgraphResult {
+  nodes: Node[]
+  edges: Edge[]
+  /** Set true if max_nodes was reached during the traversal. */
+  truncated: boolean
+}
+
+export interface TimelineOpts {
+  edge_types?: EdgeType[]
+  cycle?: string | number
+  status?: EdgeStatus | "all"
+  min_confidence?: number
+  direction?: "out" | "in" | "both"
+  /** Maximum edges returned (default 500). */
+  limit?: number
+}
+
+export interface TimelineEntry {
+  edge: Edge
+  /** Parsed first_seen timestamp; null if unparseable. */
+  at: string | null
+  /** The other endpoint of this edge from `seed`'s perspective. */
+  counterparty: NodeId
+}

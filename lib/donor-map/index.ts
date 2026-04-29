@@ -6,8 +6,10 @@
  * the canonical JSONL stores. Three readers, three answers, no shared
  * validator was the bug class. One engine fixes the class.
  *
- * Status: skeleton (2026-04-25). Ships resolve / neighbors / aggregate.
- * paths / subgraph / timeline + thesis-layer queries are follow-up work.
+ * Status: plumbing layer complete (2026-04-29). Ships resolve / neighbors /
+ * aggregate / paths / subgraph / timeline. Thesis-layer queries
+ * (influenceMap, donorContradictions, etc.) are follow-up phases —
+ * see content/Admin Notes/adr-0024-phase-plan-2026-04-29.md.
  */
 
 export { Graph, type GraphStats } from "./graph"
@@ -31,8 +33,14 @@ export type {
   Node,
   NodeId,
   NodeType,
+  Path,
+  PathsOpts,
   ResolveArg,
   ResolveInput,
+  SubgraphOpts,
+  SubgraphResult,
+  TimelineEntry,
+  TimelineOpts,
   EntityId,
   BioguideId,
   FecCommitteeId,

@@ -93,6 +93,122 @@ describe("Graph.aggregate", () => {
   })
 })
 
+describe("Graph.paths", () => {
+  it("finds direct (1-hop) paths between connected nodes", () => {
+    const g = new Graph(makeStores())
+    const ps = g.paths("Acme Capital", "Jane Senator")
+    // 2 active monetary edges Acme→Jane (5000 + 2500)
+    assert.equal(ps.length, 2)
+    for (const p of ps) {
+      assert.equal(p.hops, 1)
+      assert.equal(p.from_id, ps[0].from_id)
+      assert.equal(p.to_id, ps[0].to_id)
+    }
+    // Ranked by weight desc → 5000-edge path first
+    assert.ok(ps[0].weight >= ps[1].weight)
+  })
+
+  it("returns empty when nodes are not connected within max_hops", () => {
+    const g = new Graph(makeStores())
+    const ps = g.paths("Acme Capital", "Fairshake PAC", { max_hops: 2 })
+    assert.equal(ps.length, 0)
+  })
+
+  it("walks 2-hop paths through shared neighbors (Acme → Jane → FF)", () => {
+    const g = new Graph(makeStores())
+    const ps = g.paths("Acme Capital", "Future Forward USA", { max_hops: 2 })
+    assert.ok(ps.length >= 1, "at least one path via Jane Senator")
+    for (const p of ps) {
+      assert.equal(p.hops, 2)
+      assert.equal(p.nodes.length, 3)
+    }
+  })
+
+  it("returns a zero-hop path when from === to", () => {
+    const g = new Graph(makeStores())
+    const ps = g.paths("Acme Capital", "Acme Capital")
+    assert.equal(ps.length, 1)
+    assert.equal(ps[0].hops, 0)
+    assert.equal(ps[0].weight, 0)
+    assert.deepEqual(ps[0].edges, [])
+  })
+
+  it("respects min_confidence filter", () => {
+    const g = new Graph(makeStores())
+    // FF→Jane is confidence 0.85; raise threshold to drop it
+    const ps = g.paths("Future Forward USA", "Jane Senator", { min_confidence: 0.9 })
+    assert.equal(ps.length, 0)
+  })
+})
+
+describe("Graph.subgraph", () => {
+  it("flood-fills 1 hop from a single seed", () => {
+    const g = new Graph(makeStores())
+    const r = g.subgraph(["Acme Capital"])
+    // Acme + Jane Senator in nodes; 2 active outgoing edges to Jane
+    const ids = new Set(r.nodes.map((n) => n.name))
+    assert.ok(ids.has("Acme Capital"))
+    assert.ok(ids.has("Jane Senator"))
+    assert.equal(r.edges.length, 2)
+    assert.equal(r.truncated, false)
+  })
+
+  it("merges traversal from multiple seeds without dup nodes", () => {
+    const g = new Graph(makeStores())
+    const r = g.subgraph(["Acme Capital", "Future Forward USA"])
+    // 3 unique nodes (Acme, FF, Jane), 3 active edges (2 Acme→Jane + 1 FF→Jane)
+    assert.equal(r.nodes.length, 3)
+    assert.equal(r.edges.length, 3)
+  })
+
+  it("truncates when max_nodes is reached", () => {
+    const g = new Graph(makeStores())
+    const r = g.subgraph(["Acme Capital", "Future Forward USA"], { max_nodes: 2 })
+    // Cap at 2 — at least one of Acme/FF + Jane fits, then truncates.
+    assert.equal(r.truncated, true)
+    assert.ok(r.nodes.length <= 2 + 1, "may collect one over before flagging")
+  })
+})
+
+describe("Graph.timeline", () => {
+  it("returns edges sorted by first_seen desc", () => {
+    const g = new Graph(makeStores())
+    const tl = g.timeline("Acme Capital")
+    // Acme has 2 active outgoing (2024, 2022). Newest first.
+    assert.equal(tl.length, 2)
+    assert.equal(tl[0].edge.cycle, 2024)
+    assert.equal(tl[1].edge.cycle, 2022)
+    assert.equal(tl[0].at, "2024-01-01")
+  })
+
+  it("filters by cycle", () => {
+    const g = new Graph(makeStores())
+    const tl = g.timeline("Acme Capital", { cycle: 2022 })
+    assert.equal(tl.length, 1)
+    assert.equal(tl[0].edge.cycle, 2022)
+  })
+
+  it("includes counterparty for each edge", () => {
+    const g = new Graph(makeStores())
+    const tl = g.timeline("Jane Senator", { direction: "in" })
+    // 3 active incoming edges (2 from Acme + 1 from FF)
+    assert.equal(tl.length, 3)
+    for (const e of tl) {
+      assert.notEqual(e.counterparty, "")
+      // counterparty should not equal Jane's own id
+      const jane = g.resolver.resolve("Jane Senator")
+      assert.notEqual(e.counterparty, jane.id)
+    }
+  })
+
+  it("respects status='all'", () => {
+    const g = new Graph(makeStores())
+    const active = g.timeline("Acme Capital")
+    const all = g.timeline("Acme Capital", { status: "all" })
+    assert.ok(all.length > active.length)
+  })
+})
+
 describe("Graph.stats", () => {
   it("reports node + edge totals after construction", () => {
     const g = new Graph(makeStores())
