@@ -2,7 +2,7 @@
 title: Steve Bannon
 type: politician
 content-readiness: data-complete
-central-thesis: "Steve Bannon's entire political rise was funded by a single billionaire: Robert Mercer. Breitbart (content-readiness: draft0M investment), Cambridge Analytica (content-readiness: draft5-20M, Bannon as VP), Government Accountability Institute ($3.7M for 'Clinton Cash' operation), Make Americ..."
+central-thesis: "Steve Bannon's entire political rise was funded by a single billionaire: Robert Mercer. Breitbart ([$? — bug-007]0M investment), Cambridge Analytica ($15-20M, Bannon as VP), Government Accountability Institute ($3.7M for 'Clinton Cash' operation), Make Americ..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null

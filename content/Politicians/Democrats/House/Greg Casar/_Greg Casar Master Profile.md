@@ -1,7 +1,7 @@
 ---
 title: "Greg Casar Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: '2026-04-10'
 source-tier: 2
 parent: null

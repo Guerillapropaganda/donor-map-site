@@ -2,7 +2,7 @@
 title: Summer Lee
 type: politician
 content-readiness: ready
-central-thesis: "Summer Lee is the vault's proof that AIPAC's override mechanism is actuarial, not absolute. The same donor class that successfully spent content-readiness: ready4.5M to defeat Bowman in NY-16 and $8.5M to defeat Bush in MO-01 failed twice to defeat Lee in PA-12 , despi..."
+central-thesis: "Summer Lee is the vault's proof that AIPAC's override mechanism is actuarial, not absolute. The same donor class that successfully spent [$? — bug-007]4.5M to defeat Bowman in NY-16 and $8.5M to defeat Bush in MO-01 failed twice to defeat Lee in PA-12 , despi..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null

@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **53** editorial decisions · **280** background cleanup
+**31** blocking · **53** editorial decisions · **800** background cleanup
 
 ---
 
@@ -2917,6 +2917,4587 @@ Mechanical promotion draft → ready blocked by: noConnections. Adding the missi
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `mechanical-readiness-stuck`
 
+### Yvette D. Clarke: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Yvette D. Clarke/_Yvette D. Clarke Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### William R. Keating: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/William R. Keating/_William R. Keating Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Vicente Gonzalez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Vicente Gonzalez/_Vicente Gonzalez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Veronica Escobar: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Veronica Escobar/_Veronica Escobar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Valerie P. Foushee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Valerie P. Foushee/_Valerie P. Foushee Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Val T. Hoyle: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Val T. Hoyle/_Val T. Hoyle Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Troy A. Carter: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Troy A. Carter/_Troy A. Carter Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Timothy M. Kennedy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Timothy M. Kennedy/_Timothy M. Kennedy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Thomas R. Suozzi: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Thomas R. Suozzi/_Thomas R. Suozzi Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Terri A. Sewell: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Terri A. Sewell/_Terri A. Sewell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Teresa Leger Fernandez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Teresa Leger Fernandez/_Teresa Leger Fernandez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ted Lieu: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Ted Lieu/_Ted Lieu Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sylvia R. Garcia: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sylvia R. Garcia/_Sylvia R. Garcia Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sydney Kamlager-Dove: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sydney Kamlager-Dove/_Sydney Kamlager-Dove Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Suzanne Bonamici: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Suzanne Bonamici/_Suzanne Bonamici Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Suzan K. Delbene: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Suzan K. Delbene/_Suzan K. Delbene Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Susie Lee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Susie Lee/_Susie Lee Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Steven Horsford: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Steven Horsford/_Steven Horsford Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Steve Cohen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Steve Cohen/_Steve Cohen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Stephen F. Lynch: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Stephen F. Lynch/_Stephen F. Lynch Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Steny H. Hoyer: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Steny H. Hoyer/_Steny H. Hoyer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Stacey E. Plaskett: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Stacey E. Plaskett/_Stacey E. Plaskett Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Shri Thanedar: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Shri Thanedar/_Shri Thanedar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sheila Cherfilus-McCormick: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sheila Cherfilus-McCormick/_Sheila Cherfilus-McCormick Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sharice Davids: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sharice Davids/_Sharice Davids Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Seth Moulton: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Seth Moulton/_Seth Moulton Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Seth Magaziner: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Seth Magaziner/_Seth Magaziner Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sean Casten: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sean Casten/_Sean Casten Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Scott H. Peters: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Scott H. Peters/_Scott H. Peters Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sara Jacobs: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sara Jacobs/_Sara Jacobs Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sanford D. Bishop: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sanford D. Bishop/_Sanford D. Bishop Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sam T. Liccardo: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Sam T. Liccardo/_Sam T. Liccardo Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Salud O. Carbajal: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Salud O. Carbajal/_Salud O. Carbajal Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robin L. Kelly: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Robin L. Kelly/_Robin L. Kelly Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert Menendez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Robert Menendez/_Robert Menendez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robert Garcia: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Robert Garcia/_Robert Garcia Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Raul Ruiz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Raul Ruiz/_Raul Ruiz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Paul Tonko: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Paul Tonko/_Paul Tonko Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Patrick Ryan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Patrick Ryan/_Patrick Ryan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pablo Jose Hernandez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Pablo Jose Hernandez/_Pablo Jose Hernandez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Norma J. Torres: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Norma J. Torres/_Norma J. Torres Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nina Turner: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Nina Turner/_Nina Turner Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nikki Budzinski: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Nikki Budzinski/_Nikki Budzinski Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nikema Williams: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Nikema Williams/_Nikema Williams Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nellie Pou: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Nellie Pou/_Nellie Pou Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nanette Diaz Barragan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Nanette Diaz Barragan/_Nanette Diaz Barragan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Morgan McGarvey: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Morgan McGarvey/_Morgan McGarvey Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Thompson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Mike Thompson/_Mike Thompson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Quigley: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Mike Quigley/_Mike Quigley Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mike Levin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Mike Levin/_Mike Levin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Melanie A. Stansbury: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Melanie A. Stansbury/_Melanie A. Stansbury Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Maxwell Frost: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Maxwell Frost/_Maxwell Frost Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mary Gay Scanlon: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Mary Gay Scanlon/_Mary Gay Scanlon Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mark Pocan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Mark Pocan/_Mark Pocan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mark DeSaulnier: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Mark DeSaulnier/_Mark DeSaulnier Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marilyn Strickland: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Marilyn Strickland/_Marilyn Strickland Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marie Gluesenkamp Perez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Marie Gluesenkamp Perez/_Marie Gluesenkamp Perez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marcy Kaptur: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Marcy Kaptur/_Marcy Kaptur Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marc A. Veasey: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Marc A. Veasey/_Marc A. Veasey Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Madeleine Dean: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Madeleine Dean/_Madeleine Dean Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Luz M. Rivas: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Luz M. Rivas/_Luz M. Rivas Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lucy McBath: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Lucy McBath/_Lucy McBath Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lori Trahan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Lori Trahan/_Lori Trahan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lois Frankel: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Lois Frankel/_Lois Frankel Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lloyd Doggett: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Lloyd Doggett/_Lloyd Doggett Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lizzie Fletcher: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Lizzie Fletcher/_Lizzie Fletcher Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Linda T. Sanchez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Linda T. Sanchez/_Linda T. Sanchez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lauren Underwood: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Lauren Underwood/_Lauren Underwood Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lamonica McIver: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Lamonica McIver/_Lamonica McIver Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kweisi Mfume: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Kweisi Mfume/_Kweisi Mfume Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kim Schrier: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Kim Schrier/_Kim Schrier Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kevin Mullin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Kevin Mullin/_Kevin Mullin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kathy Castor: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Kathy Castor/_Kathy Castor Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Katherine M. Clark: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Katherine M. Clark/_Katherine M. Clark Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Julia Brownley: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Julia Brownley/_Julia Brownley Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Judy Chu: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Judy Chu/_Judy Chu Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Juan Vargas: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Juan Vargas/_Juan Vargas Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Joyce Beatty: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Joyce Beatty/_Joyce Beatty Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Josh Harder: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Josh Harder/_Josh Harder Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jonathan L. Jackson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jonathan L. Jackson/_Jonathan L. Jackson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Johnny Olszewski: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Johnny Olszewski/_Johnny Olszewski Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John W. Mannion: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/John W. Mannion/_John W. Mannion Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John Garamendi: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/John Garamendi/_John Garamendi Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### John B. Larson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/John B. Larson/_John B. Larson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Joe Neguse: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Joe Neguse/_Joe Neguse Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Joe Courtney: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Joe Courtney/_Joe Courtney Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Joaquin Castro: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Joaquin Castro/_Joaquin Castro Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jimmy Panetta: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jimmy Panetta/_Jimmy Panetta Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jimmy Gomez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jimmy Gomez/_Jimmy Gomez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jim McGovern: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jim McGovern/_Jim McGovern Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jim Costa: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jim Costa/_Jim Costa Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jill N. Tokuda: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jill N. Tokuda/_Jill N. Tokuda Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jesus G. Chuy Garcia: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jesus G. Chuy Garcia/_Jesus G. Chuy Garcia Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jerry Nadler: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jerry Nadler/_Jerry Nadler Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jerrold Nadler: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jerrold Nadler/_Jerrold Nadler Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jennifer L. McClellan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jennifer L. McClellan/_Jennifer L. McClellan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jason Crow: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jason Crow/_Jason Crow Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jasmine Crockett: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jasmine Crockett/_Jasmine Crockett Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jared Moskowitz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jared Moskowitz/_Jared Moskowitz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jared Huffman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jared Huffman/_Jared Huffman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jared F. Golden: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jared F. Golden/_Jared F. Golden Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Janice D. Schakowsky: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Janice D. Schakowsky/_Janice D. Schakowsky Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Janelle S. Bynum: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Janelle S. Bynum/_Janelle S. Bynum Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### James R. Walkinshaw: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/James R. Walkinshaw/_James R. Walkinshaw Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### James E. Clyburn: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/James E. Clyburn/_James E. Clyburn Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jamaal Bowman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jamaal Bowman/_Jamaal Bowman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jake Auchincloss: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jake Auchincloss/_Jake Auchincloss Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jahana Hayes: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Jahana Hayes/_Jahana Hayes Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### J. Luis Correa: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/J. Luis Correa/_J. Luis Correa Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Hillary J. Scholten: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Hillary J. Scholten/_Hillary J. Scholten Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Herbert C. Conaway: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Herbert C. Conaway/_Herbert C. Conaway Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Henry C. Hank Johnson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Henry C. Hank Johnson/_Henry C. Hank Johnson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Haley M. Stevens: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Haley M. Stevens/_Haley M. Stevens Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gwen Moore: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Gwen Moore/_Gwen Moore Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Greg Stanton: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Greg Stanton/_Greg Stanton Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Greg Landsman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Greg Landsman/_Greg Landsman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Grace Meng: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Grace Meng/_Grace Meng Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Glenn Ivey: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Glenn Ivey/_Glenn Ivey Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gilbert Ray Cisneros: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Gilbert Ray Cisneros/_Gilbert Ray Cisneros Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gerry Connolly: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Gerry Connolly/_Gerry Connolly Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gabe Vasquez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Gabe Vasquez/_Gabe Vasquez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gabe Amo: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Gabe Amo/_Gabe Amo Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Frederica S. Wilson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Frederica S. Wilson/_Frederica S. Wilson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Frank J. Mrvan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Frank J. Mrvan/_Frank J. Mrvan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Eugene Simon Vindman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Eugene Simon Vindman/_Eugene Simon Vindman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Eric Sorensen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Eric Sorensen/_Eric Sorensen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Emilia Strong Sykes: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Emilia Strong Sykes/_Emilia Strong Sykes Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Emanuel Cleaver: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Emanuel Cleaver/_Emanuel Cleaver Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Eleanor Holmes Norton: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Eleanor Holmes Norton/_Eleanor Holmes Norton Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ed Case: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Ed Case/_Ed Case Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dwight Evans: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Dwight Evans/_Dwight Evans Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Doris O. Matsui: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Doris O. Matsui/_Doris O. Matsui Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Donald S. Beyer: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Donald S. Beyer/_Donald S. Beyer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Donald Norcross: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Donald Norcross/_Donald Norcross Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Donald G. Davis: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Donald G. Davis/_Donald G. Davis Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Dina Titus: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Dina Titus/_Dina Titus Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Diana Degette: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Diana Degette/_Diana Degette Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Delia C. Ramirez: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Delia C. Ramirez/_Delia C. Ramirez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Deborah K. Ross: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Deborah K. Ross/_Deborah K. Ross Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Debbie Dingell: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Debbie Dingell/_Debbie Dingell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### David Scott: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/David Scott/_David Scott Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Darren Soto: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Darren Soto/_Darren Soto Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Danny K. Davis: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Danny K. Davis/_Danny K. Davis Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Christopher R. Deluzio: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Christopher R. Deluzio/_Christopher R. Deluzio Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Christian D. Menefee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Christian D. Menefee/_Christian D. Menefee Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chrissy Houlahan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Chrissy Houlahan/_Chrissy Houlahan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chris Pappas: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Chris Pappas/_Chris Pappas Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chellie Pingree: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Chellie Pingree/_Chellie Pingree Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Brittany Pettersen: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Brittany Pettersen/_Brittany Pettersen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bradley Scott Schneider: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Bradley Scott Schneider/_Bradley Scott Schneider Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Brad Sherman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Brad Sherman/_Brad Sherman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bonnie Watson Coleman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Bonnie Watson Coleman/_Bonnie Watson Coleman Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bill Foster: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Bill Foster/_Bill Foster Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Betty McCollum: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Betty McCollum/_Betty McCollum Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Becca Balint: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Becca Balint/_Becca Balint Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### April McClain Delaney: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/April McClain Delaney/_April McClain Delaney Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andrea Salinas: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Andrea Salinas/_Andrea Salinas Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Andre Carson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Andre Carson/_Andre Carson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ami Bera: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Ami Bera/_Ami Bera Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Alma S. Adams: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Alma S. Adams/_Alma S. Adams Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Alexandria Ocasio-Cortez (claim-object experiment): one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Alexandria Ocasio-Cortez/_Alexandria Ocasio-Cortez (claim-object experiment).md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Al Green: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Al Green/_Al Green Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Adriano Espaillat: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/House/Adriano Espaillat/_Adriano Espaillat Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tim Walz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Governors/Tim Walz/_Tim Walz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Laphonza Butler: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Former/Laphonza Butler.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sherrod Brown: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Former/Sherrod Brown.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marcia Fudge: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Biden Cabinet/Marcia Fudge/_Marcia Fudge Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Deb Haaland: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Politicians/Democrats/Biden Cabinet/Deb Haaland/_Deb Haaland Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Alex Jones: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Right/Alex Jones.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ben Shapiro: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Right/Ben Shapiro.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### InfoWars: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Right/InfoWars.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### James O'Keefe: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Right/James O'Keefe.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jordan Peterson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Right/Jordan Peterson.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Aaron Maté: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Aaron Maté.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Chris Hedges: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Chris Hedges.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Crooked Media: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Crooked Media.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Heather Cox Richardson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Heather Cox Richardson.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jacobin Magazine: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Jacobin.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jeremy Scahill: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Jeremy Scahill.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Max Blumenthal: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Max Blumenthal.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Novara Media: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Novara Media.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pod Save America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Pod Save America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ryan Grim: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Ryan Grim.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Destiny / Steven Bonnell: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Centrist/Destiny - Steven Bonnell.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jillian Michaels: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Centrist/Jillian Michaels.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Joe Rogan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Centrist/Joe Rogan.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Philip DeFranco: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Centrist/Philip DeFranco.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Akin Gump Strauss Hauer & Feld: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Akin Gump Strauss Hauer & Feld.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Alpine Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Alpine Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ballard Partners: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Ballard Partners.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### BGR Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/BGR Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Brownstein Hyatt Farber Schreck: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Brownstein Hyatt Farber Schreck.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Capitol Counsel: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Capitol Counsel.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cassidy & Associates: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Cassidy & Associates.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cornerstone Government Affairs: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Cornerstone Government Affairs.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Crossroads Strategies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Crossroads Strategies.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Fierce Government Relations: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Fierce Government Relations.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Forbes Tate Partners: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Forbes Tate Partners.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Holland & Knight: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Holland & Knight.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Invariant: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Invariant.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### K&L Gates: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/K&L Gates.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mehlman Consulting: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Mehlman Consulting.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mercury Public Affairs: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Mercury Public Affairs.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Peck Madigan Jones (now Tiber Creek Group): one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Peck Madigan Jones.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Prime Policy Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Prime Policy Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### SKDK (SKDKnickerbocker): one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/SKDK.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Squire Patton Boggs: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Squire Patton Boggs.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Subject Matter (now Avoq): one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Subject Matter.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Thorn Run Partners: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Lobbying Firms & K Street/Thorn Run Partners.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jeffrey Epstein Network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Jeffrey Epstein Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Apollo Global Management: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Apollo Global Management.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bank of America Charitable Gift Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Bank of America Charitable Gift Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bank of America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Bank of America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### BlackRock: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Blackrock.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Blue Meridian Partners: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Blue Meridian Partners.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### CalSTRS - California State Teachers' Retirement System: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/CalSTRS.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Carlyle Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Carlyle Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Charles Schwab: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Charles Schwab.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Citadel - Kenneth Griffin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Citadel - Kenneth Griffin.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Fidelity Investments: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Fidelity Investments.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Financial Services Donors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Financial Services Donors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Hedge Fund Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Hedge Fund Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### MassMutual: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/MassMutual.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### MBNA Corporation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/MBNA Corporation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Morgan Stanley: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Morgan Stanley.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Private Equity Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Private Equity Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### QVT Financial: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/QVT Financial.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Renaissance Charitable Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Renaissance Charitable Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Robin Hood Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Robin Hood Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Securities & Investment Industry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Securities & Investment Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Trump Media & Technology Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Trump Media & Technology Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Trump Organization: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Trump Organization.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Wall Street Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Wall Street Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Wall Street Finance Networks: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Wall Street Finance Networks.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Wells Fargo: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Wells Fargo.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### a16z - Andreessen Horowitz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/a16z - Andreessen Horowitz.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Anthropic: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Anthropic.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Coinbase: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Coinbase.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Crypto Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Crypto Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cryptocurrency Industry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Cryptocurrency Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Founders Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Founders Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### FTX - Sam Bankman-Fried: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/FTX - Sam Bankman-Fried.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Google - Alphabet: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Google - Alphabet.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Jump Crypto: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Jump Crypto.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marc Andreessen & Horowitz: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Marc Andreessen & Horowitz.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nvidia: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Nvidia.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### OpenAI: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/OpenAI.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Silicon Valley Democratic Donor Network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Silicon Valley Democratic Donor Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Silicon Valley Donors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Silicon Valley Donors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### SpaceX: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/SpaceX.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tech and Media Donors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Tech and Media Donors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tesla - Elon Musk Political Operation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Tesla - Elon Musk Political Operation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Valinor Enterprises: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Valinor Enterprises.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### YouTube: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/YouTube/YouTube.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### 314 Action Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/314 Action Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Chemistry Council, INC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/American Chemistry Council, INC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Conservative Union: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/American Conservative Union.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Crossroads: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/American Crossroads.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Federation of State County & Municipal Employees  P E O P L E: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/American Federation of State County & Municipal Employees P E O P L E.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Americans for Common Sense: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Americans for Common Sense.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Americans for Job Security: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Americans for Job Security.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Arizonans for Affordable Electricity: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Arizonans for Affordable Electricity.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bluegreen Alliance: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Bluegreen Alliance.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Campaign for Community Change: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Campaign for Community Change.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Campaign for Working Families: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Campaign for Working Families.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Care Action: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Care Action.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Citizens for Responsible Energy Solutions Inc.: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Citizens for Responsible Energy Solutions Inc..md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Commonwealth Communications: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Commonwealth Communications.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Congressional Progressive Caucus PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Congressional Progressive Caucus PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Courage to Change PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Courage to Change PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### CT Working Families Federal PAC D/b/a Take Back Congress CT: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/CT Working Families Federal PAC D-b-a Take Back Congress CT.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### DCCC - Democratic Congressional Campaign Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/DCCC - Democratic Congressional Campaign Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Defending Main Street Superpac INC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Defending Main Street Superpac INC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Democratic Party of Virginia: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Democratic Party of Virginia.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### DNC - Democratic National Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/DNC - Democratic National Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Emily's List: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Emily's List.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Environment America INC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Environment America INC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Family Research Council Action Political Action Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Family Research Council Action Political Action Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### FF PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/FF PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Fight Corporate Monopolies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Fight Corporate Monopolies.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### First Amendment Alliance: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/First Amendment Alliance.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Friends of the Earth (action) INC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Friends of the Earth (action) INC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Human Rights Campaign Equality Votes: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Human Rights Campaign Equality Votes.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Humane Society Legislative Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Humane Society Legislative Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Justice Democrats PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Justice Democrats PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Leadership Now: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Leadership Now.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### League of Conservation Voters: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/League of Conservation Voters.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Let Freedom Ring INC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Let Freedom Ring INC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Living United for Change in Arizona: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Living United for Change in Arizona.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Los Angeles County Democratic Central Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Los Angeles County Democratic Central Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mad Dog PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Mad Dog PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Madison Project Inc.: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Madison Project Inc..md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### MAGA Small Dollar Base: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/MAGA Small Dollar Base.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Michigan Republican Party: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Michigan Republican Party.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Minnesota Democratic-Farmer-Labor Party: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Minnesota Democratic-Farmer-Labor Party.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mississippi Republican Party: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Mississippi Republican Party.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### MoveOn.org Political Action: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/MoveOn.org Political Action.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### NARAL Pro-Choice America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/NARAL Pro-Choice America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### NARAL: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/NARAL.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### National Committee to Preserve Social Security & Medicare PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/National Committee to Preserve Social Security & Medicare PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### National Committee to Preserve Social Security PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/National Committee to Preserve Social Security PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### National Nurses United for Patient Protection: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/National Nurses United for Patient Protection.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### NEA Fund for Children and Public Education: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/NEA Fund for Children and Public Education.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Never Back Down: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Never Back Down.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### New York 2014: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/New York 2014.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### North Star Dawn PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/North Star Dawn PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### NRCC - National Republican Congressional Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/NRCC - National Republican Congressional Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### NRSC - National Republican Senatorial Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/NRSC - National Republican Senatorial Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and Public and Pr: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and....md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Planned Parenthood Action Fund INC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Planned Parenthood Action Fund INC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Planned Parenthood Votes Northwest: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Planned Parenthood Votes Northwest.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Progressive Turnout Project: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Progressive Turnout Project.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Republican Campaign Committee of New Mexico: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Republican Campaign Committee of New Mexico.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Republican Party of Florida: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Republican Party of Florida.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Revere America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Revere America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Right to Life of Michigan Political Action Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Right to Life of Michigan Political Action Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### RNC - Republican National Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/RNC - Republican National Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### San Benito County Democratic Central Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/San Benito County Democratic Central Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Senior Political Action Committee: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Senior Political Action Committee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### The 60 Plus Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/The 60 Plus Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### The Lincoln Project: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/The Lincoln Project.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Together We Thrive: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Together We Thrive.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### United Food and Commercial Workers International Union Active Ballot Club: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/United Food and Commercial Workers International Union Active Ballot Club.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### With Honor Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/With Honor Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Working Families Party PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Working Families Party PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### McDonalds Corporation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Restaurant & Food/McDonalds Corporation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### National Multifamily Housing Council: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate & Housing/National Multifamily Housing Council.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### National Rental Home Council: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate & Housing/National Rental Home Council.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cayre Family: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Cayre Family.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### CBRE Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/CBRE Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Las Vegas Sands: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Las Vegas Sands.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### National Association of Realtors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/National Association of Realtors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Real Estate Board of New York: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Real Estate Board of New York.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Real Estate Development Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Real Estate Development Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Real Estate Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Real Estate Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Real Estate Roundtable: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Real Estate Roundtable.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tisch Family: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Tisch Family.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Homes 4 Rent: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/American Homes 4 Rent/American Homes 4 Rent.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### AbbVie: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/AbbVie.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Johnson & Johnson: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Johnson & Johnson.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Meatpacking Corporations: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Meatpacking Corporations.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Merck: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Merck.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Moderna: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Moderna.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pharmaceutical Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Pharmaceutical Industry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Pharmaceutical Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### PhRMA - Pharmaceutical Research and Manufacturers of America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/PhRMA.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Purdue Pharma - Sackler Family: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Purdue Pharma - Sackler Family.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Amgen Inc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Amgen Inc/Amgen Inc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ajay Royan: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Ajay Royan.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Cambridge Analytica and the Data Weaponization of Elections: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Cambridge Analytica and the Data Weaponization of Elections.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gates Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Gates Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kelcy Warren - Energy Transfer Partners: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Kelcy Warren - Energy Transfer Partners.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Koch Network - Charles Koch: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Koch Network - Charles Koch.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Koch network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Koch network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Les Wexner - Wexner Family Enterprises: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Les Wexner - Wexner Family Enterprises.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Narya Capital: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Narya Capital.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Palantir Technologies Political Operation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Palantir Technologies Political Operation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Palantir Technologies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Palantir.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Renaissance Technologies and the 7 Billion Dollar Tax Settlement: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Susquehanna International Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Susquehanna International Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### United Auto Workers: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/United Auto Workers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### UPS: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/UPS.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Walmart - Walton Family: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Walmart - Walton Family.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Wilks Brothers , Dan and Farris Wilks: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Wilks Brothers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Winklevoss Twins: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Winklevoss Twins.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### States Newsroom: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Media & Influence/States Newsroom.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Comcast - NBCUniversal: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Comcast - NBCUniversal.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Hollywood Democratic Donor Network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Hollywood Democratic Donor Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### iHeartMedia: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/iHeartMedia.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sinclair Broadcasting Group: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Sinclair Broadcasting Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Verizon: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Verizon.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Walt Disney Company: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Walt Disney Company.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### International Association of Chiefs of Police: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Law Enforcement/International Association of Chiefs of Police.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### PORAC - Peace Officers Research Association of California: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Law Enforcement/PORAC - Peace Officers Research Association of California.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Riverside Sheriffs Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Law Enforcement/Riverside Sheriffs Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### California Building and Construction Trades Council: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/California Building and Construction Trades Council.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### IBEW California State Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/IBEW California State Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### IBEW Local 440 - Riverside: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/IBEW Local 440 - Riverside.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### IBEW Local 477 - San Bernardino: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/IBEW Local 477 - San Bernardino.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### UFCW - United Food and Commercial Workers: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/UFCW - United Food and Commercial Workers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Federation of Teachers: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/American Federation of Teachers/American Federation of Teachers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Christians United for Israel: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/Christians United for Israel.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### JCRC Bay Area: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/JCRC Bay Area.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### One Israel Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/One Israel Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare Industry/PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Anthem - Elevance Health Political Operation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Anthem - Elevance Health Political Operation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Blue Cross Blue Shield Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Blue Cross Blue Shield Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Civica Rx: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Civica Rx.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Hospital Corporation of America - HCA: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Hospital Corporation of America - HCA.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Insurance Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Insurance Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Kaiser Permanente: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Kaiser Permanente.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tenet Healthcare: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Tenet Healthcare.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Airbnb: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/Airbnb.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### DoorDash: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/DoorDash.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Flex Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/Flex Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ford Motor Company: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/Ford Motor Company.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Instacart: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/Instacart.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gulf State Money - Saudi Arabia, UAE, Qatar: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Foreign/Gulf State Money - Saudi Arabia, UAE, Qatar.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Israel - Government Lobbying Operation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Foreign/Israel - Government Lobbying Operation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Mohammed bin Salman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Foreign/Mohammed bin Salman.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Saudi Arabia - Kingdom Investment: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Foreign/Saudi Arabia - Kingdom Investment.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Turkey - Erdogan Lobbying Operation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Foreign/Turkey - Erdogan Lobbying Operation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### United Arab Emirates - Influence Operation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Foreign/United Arab Emirates - Influence Operation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Alabama Power: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Alabama Power.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Consumer Energy Alliance: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Consumer Energy Alliance.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Duke Energy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Duke Energy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ethanol Industry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Ethanol Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### ExxonMobil: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/ExxonMobil.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Fossil Fuel Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Fossil Fuel Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Halliburton: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Halliburton.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Hawaiian Electric Company: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Hawaiian Electric Company.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Koch Industries: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Koch Industries.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Marathon Petroleum: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Marathon Petroleum.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### NextEra Energy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/NextEra Energy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Occidental Petroleum: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Occidental Petroleum.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Petrochemical Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Petrochemical Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### PG&E - Pacific Gas and Electric: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/PG&E - Pacific Gas and Electric.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### PG&E: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/PG&E.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Western States Petroleum Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Western States Petroleum Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Williams Companies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Williams Companies.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### WSPA - Western States Petroleum Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/WSPA - Western States Petroleum Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Energy Alliance: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/American Energy Alliance/American Energy Alliance.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### California Charter Schools Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Education/California Charter Schools Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### DeVos Family: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Education/DeVos Family.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Student Loan Servicer Industry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Education/Student Loan Servicer Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Walton Family Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Education/Walton Family Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Boeing Defense: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Boeing Defense.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Boeing: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Boeing.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Defense Contractors Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Defense Contractors Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Defense Contractors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Defense Contractors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Defense Industry Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Defense Industry Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Defense Industry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Defense Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### General Dynamics: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/General Dynamics.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Honeywell International: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Honeywell.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### L3 Technologies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/L3 Technologies.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### L3Harris Technologies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/L3Harris Technologies.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Lockheed Martin: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Lockheed Martin.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Northrop Grumman: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Northrop Grumman.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Nucor Corporation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Nucor Corporation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### AB PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Ab Pac.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### ACLU Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/ACLU Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Activate America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Activate America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### ALEC - American Legislative Exchange Council: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/ALEC - American Legislative Exchange Council.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### America First Action: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/America First Action.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### America First Policy Institute: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### America Leads: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/America Leads.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Americans for Tax Reform - Grover Norquist: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Americas Pac: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Americas Pac.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Arabella Advisors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Arabella Advisors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ballard Partners: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Ballard Partners.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Best of America PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Best of America Pac.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Center for Popular Democracy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Center for Popular Democracy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### ClimateWorks Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/ClimateWorks Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Concerned Veterans for America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Concerned Veterans for America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### CREW - Citizens for Responsibility and Ethics in Washington: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/CREW - Citizens for Responsibility and Ethics in Washington.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Crossroads Grassroots Policy Strategies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Crossroads Grassroots Policy Strategies.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Democratic Donor Network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Democratic Donor Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Democratic Party Infrastructure: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Democratic Party Infrastructure.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Democratic Small Dollar Networks: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Democratic Small Dollar Networks.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Donors Capital Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Donors Capital Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Entertainment and Hollywood Donors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Entertainment and Hollywood Donors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Environmental Law & Policy Center: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Environmental Law & Policy Center.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Equal Justice Initiative: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Equal Justice Initiative.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Federalist Society: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Federalist Society.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Finance and Tech Bundler Network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Finance and Tech Bundler Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### House Freedom Caucus: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Freedom Caucus.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Gun Owners of America: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Gun Owners of America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### HBW Resources: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/HBW Resources.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Healthcare Sector: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Healthcare Sector.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### HMP: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Hmp.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Honoring American Law Enforcement Pac: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Honoring American Law Enforcement Pac.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### LARA Fund - Mauricio Claver-Carone: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/LARA Fund - Mauricio Claver-Carone.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Law Enforcement for a Safer America Pac: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Law Enforcement for a Safer America Pac.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Legal Sector Donors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Legal Sector Donors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### National Progressive Donor Networks: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/National Progressive Donor Networks.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Natural Resources Defense Council: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Natural Resources Defense Council.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### NEO Philanthropy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/NEO Philanthropy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### New Venture Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/New Venture Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### North Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/North Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ocean Conservancy: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Ocean Conservancy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Ohio Federation of Teachers: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Ohio Federation of Teachers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Open Society Foundations: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Open Society Foundations.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Organizing for Action: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Organizing for Action.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Proteus Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Proteus Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Republican Party Apparatus: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Republican Party Apparatus.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Restoration PAC: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Restoration Pac.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Sierra Club Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Sierra Club Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Small Dollar Donors - ActBlue: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Small Dollar Donors - ActBlue.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Stand Together Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Stand Together Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Tell It Like It Is Pac: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Tell It Like It Is Pac.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### The 85 Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/The 85 Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### The Barack Obama Foundation: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/The Barack Obama Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### The Seminar Network: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/The Seminar Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### TPUSA - Turning Point USA: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/TPUSA - Turning Point USA.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Trial Lawyers Fund: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Trial Lawyers Fund.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Trump Donor Coalition: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Trump Donor Coalition.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### US Chamber of Commerce: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/US Chamber of Commerce.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Vital Strategies: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Vital Strategies.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Votevets: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Votevets.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Donors Trust: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Donors Trust/Donors Trust.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Aramark: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/Aramark.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Bail Bond Industry: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/Bail Bond Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### CCPOA - California Correctional Peace Officers Association: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/CCPOA - California Correctional Peace Officers Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### CoreCivic - Private Prisons: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/CoreCivic - Private Prisons.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### CoreCivic: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/CoreCivic.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Securus Technologies - Aventiv: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/Securus Technologies - Aventiv.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Agribusiness Donor Bloc: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Agribusiness Donor Bloc.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Agricultural Labor Vulnerability Donors: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Agricultural Labor Vulnerability Donors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Fanjul Family - Florida Crystals: one gap away from ready (noConnections)
+
+Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
 ### Build stub: AT&T - WarnerMedia
 
 Referenced by 268 other vault profiles but has no file yet. Building a stub unlocks 268 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AT&T, News Corp - Fox Corporation, Telecom Industry.
@@ -3084,6 +7665,105 @@ Reconciled class-tag proposals (augmentation + conflict) that need human review.
 Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
 
 - **Where:** `content/Politicians/Republicans/Trump Cabinet/Bill Pulte/_Bill Pulte Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### The Daily Wire: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Right/Daily Wire.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Steven Crowder: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Right/Steven Crowder.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Drop Site News: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Drop Site News.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### George Galloway: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/George Galloway.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Owen Jones: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/Owen Jones.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### The Grayzone: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Left/The Grayzone.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Piers Morgan: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Centrist/Piers Morgan.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Russell Brand: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Media & Influence Pipeline/Centrist/Russell Brand.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Think Big AI: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Think Big AI.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### Breitbart News and the Mercer-Bannon Media Pipeline: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Breitbart News and the Mercer-Bannon Media Pipeline.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `mechanical-readiness-stuck`
+
+### American Friends of the Likud: 2 gaps away from ready (noTier1, noConnections)
+
+Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding the missing piece auto-promotes on next pipeline run.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/American Friends of the Likud.md`
 - **Cost:** ~5 min
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `mechanical-readiness-stuck`

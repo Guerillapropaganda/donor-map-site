@@ -2,7 +2,7 @@
 title: Brett Kavanaugh
 type: politician
 content-readiness: data-complete
-central-thesis: "Brett Kavanaugh's confirmation represents the dark money capture of the Supreme Court at its most explicit. A single anonymous donor gave content-readiness: draft7.1 million to JCN specifically for Supreme Court battles. Leonard Leo , who had spent two decades building..."
+central-thesis: "Brett Kavanaugh's confirmation represents the dark money capture of the Supreme Court at its most explicit. A single anonymous donor gave [$? — bug-007]7.1 million to JCN specifically for Supreme Court battles. Leonard Leo , who had spent two decades building..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null

@@ -1,8 +1,8 @@
 ---
 title: "Saikat Chakrabarti Master Profile"
 type: politician
-content-readiness: draft
-central-thesis: "Chakrabarti is the vault's most structurally unusual figure: a centimillionaire (content-readiness: ready67M+ disclosed net worth) who built the progressive insurgent infrastructure that the donor class has spent the last decade trying to contain. He designed the Justi..."
+content-readiness: ready
+central-thesis: "Chakrabarti is the vault's most structurally unusual figure: a centimillionaire ($167M+ disclosed net worth) who built the progressive insurgent infrastructure that the donor class has spent the last decade trying to contain. He designed the Justi..."
 last-updated: 2026-04-13
 source-tier: 1
 parent: null

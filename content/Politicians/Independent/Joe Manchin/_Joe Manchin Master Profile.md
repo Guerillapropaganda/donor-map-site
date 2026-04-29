@@ -3,7 +3,7 @@ title: Joe Manchin
 type: politician
 bioguide-id: M001183
 content-readiness: ready
-central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator , one vote , killed content-readiness: ready86 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
+central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator , one vote , killed $186 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null

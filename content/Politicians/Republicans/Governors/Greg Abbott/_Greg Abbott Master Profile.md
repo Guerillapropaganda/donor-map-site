@@ -2,7 +2,7 @@
 title: Greg Abbott
 type: politician
 content-readiness: data-complete
-central-thesis: "Abbott is the vault's clearest example of a fossil fuel governor , a politician whose donor base, policy agenda, and governing philosophy are dominated by a single industry. Of content-readiness: ready66 million raised across his career, approximately $30 million (18%)..."
+central-thesis: "Abbott is the vault's clearest example of a fossil fuel governor , a politician whose donor base, policy agenda, and governing philosophy are dominated by a single industry. Of $166 million raised across his career, approximately $30 million (18%)..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
