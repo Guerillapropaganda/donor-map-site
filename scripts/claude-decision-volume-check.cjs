@@ -62,12 +62,24 @@ for (const meta of classes) {
 
 const findings = [];
 if (total >= HARD_LIMIT_PER_HOUR) {
+  // Phase 2: auto-freeze the pipeline on hard limit. Subsequent runTier1
+  // calls return { skipped: 'pipeline-frozen' } until clearFreeze runs.
+  // Idempotent — re-runs while frozen extend the freeze history but don't
+  // double-trigger.
+  const cur = pipeline.readFreezeState();
+  if (!cur.frozen) {
+    pipeline.setFreeze(
+      `claude-decision-volume hard limit exceeded: ${total} decisions in the last hour (>= ${HARD_LIMIT_PER_HOUR})`,
+      'claude-auto'
+    );
+  }
   findings.push({
     kind: 'claude-decision-volume-hard-limit',
     total_in_window: total,
     threshold: HARD_LIMIT_PER_HOUR,
     by_class: byClass,
-    detail: `${total} claude-auto decisions in the last hour (>= ${HARD_LIMIT_PER_HOUR}). Auto-apply should be reviewed urgently — likely runaway predicate or feedback loop.`,
+    detail: `${total} claude-auto decisions in the last hour (>= ${HARD_LIMIT_PER_HOUR}). PIPELINE AUTO-FROZEN. Investigate runaway predicate or feedback loop, then run: node scripts/editorial-pipeline-freeze.cjs --clear --reason "<note>"`,
+    pipeline_frozen: true,
   });
 } else if (total >= SOFT_LIMIT_PER_HOUR) {
   findings.push({

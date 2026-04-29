@@ -17,8 +17,8 @@
 'use strict';
 
 require('./librarian-gap-aliases.cjs');
-// Phase 2 will add:
-// require('./frontmatter-orphan-aliases.cjs');
+require('./frontmatter-orphan-prunes.cjs');
+// Phase 2B / future will add (each requires its own canonical store first):
 // require('./duplicate-entity-merges.cjs');
 // require('./pathless-stub-aliases.cjs');
 // require('./mechanical-readiness-promotion.cjs');

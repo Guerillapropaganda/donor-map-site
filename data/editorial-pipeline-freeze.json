@@ -1,0 +1,20 @@
+{
+  "frozen": false,
+  "frozen_at": null,
+  "frozen_by": null,
+  "reason": null,
+  "history": [
+    {
+      "at": "2026-04-29T02:57:22.261Z",
+      "event": "frozen",
+      "by": "david",
+      "reason": "test freeze"
+    },
+    {
+      "at": "2026-04-29T02:57:22.433Z",
+      "event": "unfrozen",
+      "by": "david",
+      "note": "test complete"
+    }
+  ]
+}
