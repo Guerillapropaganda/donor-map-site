@@ -184,6 +184,23 @@ const CLASSES: Record<string, ClassMeta> = {
       return [type, passing || reasons, path_].filter(Boolean).join(" · ")
     },
   },
+  "class-tag-path-b-application": {
+    name: "class-tag-path-b-application",
+    store_file: "data/class-tag-path-b-decisions.jsonl",
+    has_tier1: true,
+    label: (rec) => {
+      const name = String(rec.entity_name || "?")
+      const to = String(rec.to_capital_type || "?")
+      return `${name} → capital_type: ${to}`
+    },
+    sublabel: (rec) => {
+      const folder = String(rec.folder || "")
+      const conf = String(rec.confidence || "")
+      const reason = String(rec.reasoning || "")
+      const path_ = String(rec.profile_path || "")
+      return [folder && `folder=${folder}`, conf, reason, path_].filter(Boolean).join(" · ")
+    },
+  },
 }
 
 // ─── normalized record shape ───────────────────────────────────────

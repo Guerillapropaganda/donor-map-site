@@ -22,5 +22,6 @@ require('./duplicate-entity-merges.cjs');
 require('./pathless-stub-aliases.cjs');
 require('./mechanical-readiness-promotion.cjs');
 require('./data-complete-promotion.cjs');
+require('./class-tag-path-b-application.cjs');
 
 module.exports = {};

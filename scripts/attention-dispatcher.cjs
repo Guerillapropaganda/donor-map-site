@@ -149,6 +149,20 @@ const PRODUCERS = [
     script: 'scripts/data-complete-producer.cjs',
     timeout_ms: 180_000,
   },
+  // Path B class-tag application (item #3 of handoff cc_p3_173). Walks
+  // entities.jsonl, applies capital_type via folder-path classification.
+  // Tier 1 for unambiguous folders (Pharma → pharma-capital, etc.); Tier 2
+  // batch-approve for ambiguous (Mega-Donors, Education). Per Rule 16
+  // calibration coverage on 7 fixtures protects the blast radius.
+  // Schedule: every 6 hours at :32. Doesn't need to run often — entities
+  // tend to stay in their folder; folder-path changes are rare editorial
+  // events. The hourly cadence other producers use would burn cycles.
+  {
+    name: 'class-tag-path-b-producer',
+    schedule: '32 */6 * * *',
+    script: 'scripts/class-tag-path-b-producer.cjs',
+    timeout_ms: 60_000,
+  },
   { name: 'voice-drift-detector',       schedule: '*/30 * * * *', script: 'scripts/voice-drift-detector.cjs' },
   { name: 'hallucination-catcher',      schedule: '0 * * * *',    script: 'scripts/hallucination-catcher.cjs' },
   { name: 'promotion-candidate-queue',  schedule: '15 * * * *',   script: 'scripts/promotion-candidate-queue.cjs' },

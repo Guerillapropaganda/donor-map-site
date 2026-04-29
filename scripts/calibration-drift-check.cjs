@@ -144,8 +144,72 @@ function evaluateReadinessFixture(fixture) {
   };
 }
 
+// 2026-04-29 extension: class-tag fixtures assert a specific entity's
+// class-tag field (capital_type, class_position, etc.) in
+// data/entities.jsonl. Used by class-tag-path-b-application class to
+// satisfy Rule 16 — Path B's Tier 1 predicate auto-applies capital_type
+// from folder-path; if Pfizer ever drifts off pharma-capital, drift
+// fires within 15 min, calibration-auto-revert moves the bad decision
+// back to candidate, and a bug lands on /bugs.
+//
+// Fixture shape:
+//   { "profile": "Pfizer Inc.", "bucket": "class-tag",
+//     "field": "capital_type", "expected": "pharma-capital" }
+function evaluateClassTagFixture(fixture) {
+  if (!evaluateClassTagFixture._entityIndex) {
+    const idx = new Map();
+    const entitiesPath = path.join(ROOT, 'data', 'entities.jsonl');
+    if (fs.existsSync(entitiesPath)) {
+      for (const line of fs.readFileSync(entitiesPath, 'utf-8').split(/\r?\n/)) {
+        if (!line.trim()) continue;
+        try {
+          const e = JSON.parse(line);
+          if (e.name) idx.set(e.name, e);
+        } catch { /* skip malformed */ }
+      }
+    }
+    evaluateClassTagFixture._entityIndex = idx;
+  }
+  const idx = evaluateClassTagFixture._entityIndex;
+  const ent = idx.get(fixture.profile);
+  if (!ent) {
+    return {
+      profile: fixture.profile,
+      bucket: 'class-tag',
+      ok: false,
+      reason: 'entity not found in entities.jsonl by name',
+      expected: fixture.expected,
+      actual: null,
+    };
+  }
+  const field = fixture.field || 'capital_type';
+  const actual = ent[field];
+  if (actual !== fixture.expected) {
+    return {
+      profile: fixture.profile,
+      bucket: 'class-tag',
+      field,
+      ok: false,
+      reason: `class-tag drifted on field=${field}`,
+      expected: fixture.expected,
+      actual,
+      missing: [`expected ${field}=${fixture.expected}, got ${actual === null ? '(null)' : actual === undefined ? '(unset)' : actual}`],
+    };
+  }
+  return {
+    profile: fixture.profile,
+    bucket: 'class-tag',
+    field,
+    ok: true,
+    expected: fixture.expected,
+    actual,
+    note: fixture.note,
+  };
+}
+
 function evaluateFixture(fixture, artifact) {
   if (fixture.bucket === 'readiness') return evaluateReadinessFixture(fixture);
+  if (fixture.bucket === 'class-tag') return evaluateClassTagFixture(fixture);
   const bucket = artifact[fixture.profile]?.[fixture.bucket];
   if (!bucket) {
     return {
