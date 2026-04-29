@@ -138,6 +138,43 @@ node -e "console.log(JSON.stringify(require('./data/relationships-per-profile.js
 
 ---
 
+## Librarian gap review — wikilinks the librarian can't resolve
+
+**You see:** the harness shows `librarian-gap-decisions` with N candidate findings; or you want to clear out alias gaps that are silently dropping edges (e.g. "International Association of Firefighters Interested in Registration and Education PAC" appears 416× but resolves to nothing).
+
+**What it means:** Wikilinks in guarded fields point at names that don't match any entity in `entities.jsonl`. Most are alias gaps (the entity exists but is missing this name as an alias). Adding the alias resolves all appearances at once.
+
+**Workflow:**
+```bash
+# 1. Refresh candidates from the gap audit (top-N high-leverage per class)
+node scripts/librarian-gap-propose.cjs --report
+
+# 2. Generate a review markdown at content/Admin Notes/librarian-gap-review.md
+node scripts/librarian-gap-propose.cjs --review-list
+
+# 3. Open the file in Obsidian. For each `decision:` line, set one of:
+#       approved-alias: <canonical entity name from entities.jsonl>
+#       rejected: <one-line reason>
+#       needs-research:
+#    Save.
+
+# 4. Persist your decisions into the canonical store
+node scripts/librarian-gap-propose.cjs --apply-decisions
+
+# 5. Apply approved aliases to entities.jsonl
+node scripts/librarian-gap-propose.cjs --apply-approved
+
+# 6. Propagate the new aliases through the librarian + panels
+node scripts/build-relationships-per-profile.cjs
+node scripts/build-profile-data-panels.cjs --write
+```
+
+**Decisions store:** `data/librarian-gap-decisions.jsonl` (Rule 1 canonical store; never hand-edit; states: candidate / approved-alias / rejected / needs-research / resolved).
+
+**Stats:** `node scripts/librarian-gap-propose.cjs --stats` shows state distribution + top 10 by appearances.
+
+---
+
 ## Per-profile artifact stale — panels show wrong top recipients
 
 **You see:** a profile's data-panel block lists implausible top-N (e.g. random freshmen instead of the senator you'd expect; tiny dollar amounts where you expect $50K+).
