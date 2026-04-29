@@ -50,7 +50,22 @@ import type { Edge, Node } from "../../../../../../lib/donor-map"
 export const dynamic = "force-dynamic"
 
 const DEFAULT_MONEY_TYPES = ["monetary", "government-contract", "federal-grant"]
-const MAX_SOURCES_PER_GROUP = 50  // cap on capital_type-mode source enumeration
+// Cap on capital_type-mode source enumeration. Scales DOWN as hop depth
+// rises because paths() BFS cost is super-linear in hops. Smoke-test
+// 2026-04-29: hops=3 with 50 fossil sources took 190s on cold UI.
+// Empirically, hops × sources should stay near 100 to keep p95 latency
+// under ~5s. The schedule below capping at 50/30/15/8 keeps every
+// hop level usable.
+function maxSourcesForHops(hops: number): number {
+  if (hops <= 1) return 50
+  if (hops === 2) return 50
+  if (hops === 3) return 8
+  return 4  // hops >= 4
+}
+/** Soft cap on total trails accumulated across all sources before we stop
+ * running more paths(). Prevents one big hub-target (Mike Johnson, Schumer)
+ * from dragging deep-hop queries to multi-minute latencies. */
+const TRAIL_BAILOUT = 300
 const HARD_HOP_LIMIT = 4
 const HARD_RESULT_LIMIT = 200
 
@@ -217,7 +232,8 @@ export async function GET(req: NextRequest) {
       }
     }
     candidates.sort((a, b) => b.edgeCount - a.edgeCount)
-    const topCandidates = candidates.slice(0, MAX_SOURCES_PER_GROUP)
+    const sourceCap = maxSourcesForHops(maxHops)
+    const topCandidates = candidates.slice(0, sourceCap)
     for (const c of topCandidates) {
       try {
         const node = graph.resolve({ kind: "entity_id", value: c.entity.id as string })
@@ -252,9 +268,15 @@ export async function GET(req: NextRequest) {
   const trails: Trail[] = []
 
   for (const src of sources) {
+    // Bail if we've already collected enough trails — prevents hot
+    // hub-targets from making 3+-hop queries unusable.
+    if (trails.length >= TRAIL_BAILOUT) break
     if (target) {
-      // Specific target: run paths(src, target).
-      const ps = graph.paths(src.id, target.id, { max_hops: maxHops, edge_types: edgeTypes, limit: 50 })
+      // Specific target: run paths(src, target). Inner limit kept tight
+      // for deep-hop queries so paths()'s post-enumeration sort+slice
+      // doesn't have to crawl an exploded path space.
+      const innerLimit = maxHops >= 3 ? 10 : 50
+      const ps = graph.paths(src.id, target.id, { max_hops: maxHops, edge_types: edgeTypes, limit: innerLimit })
       for (const p of ps) {
         if (p.hops === 0) continue  // src === target self-path; not a trail
         const nodes: TrailNode[] = p.nodes

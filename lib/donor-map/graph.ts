@@ -163,6 +163,14 @@ export class Graph {
     // are at, the edge sequence taken to get there, and the visited node
     // set (so we don't revisit). When we hit `toNode`, the partial becomes
     // a complete Path.
+    //
+    // Frontier cap: hub-target queries (e.g. money-trail traces ending at
+    // Speaker Mike Johnson, who has thousands of incoming edges) blow up
+    // the frontier exponentially with hop depth. 2026-04-29 incident:
+    // hops=3 query hit 4B+ partials and threw RangeError. Cap = 50k per
+    // hop is plenty for honest path enumeration; truncation is silent
+    // (caller sees fewer paths but no error).
+    const FRONTIER_CAP = 50_000
     interface Partial {
       at: NodeId
       edges: Edge[]
@@ -173,7 +181,9 @@ export class Graph {
 
     for (let hop = 0; hop < maxHops && frontier.length > 0; hop++) {
       const next: Partial[] = []
+      let frontierFull = false
       for (const p of frontier) {
+        if (frontierFull) break
         // Walk every adjacent edge from `p.at`, regardless of stored
         // direction (treating undirected for connection-discovery).
         const adj = new Set<number>([
@@ -201,12 +211,19 @@ export class Graph {
             })
             continue
           }
+          if (next.length >= FRONTIER_CAP) {
+            frontierFull = true
+            break
+          }
+          const newVisited = new Set(p.visited)
+          newVisited.add(other)
           next.push({
             at: other,
             edges: newEdges,
-            visited: new Set([...p.visited, other]),
+            visited: newVisited,
           })
         }
+        if (frontierFull) break
       }
       frontier = next
     }
