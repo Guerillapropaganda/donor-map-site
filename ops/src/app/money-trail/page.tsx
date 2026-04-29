@@ -107,6 +107,97 @@ function formatAmount(n: number): string {
   return "—"
 }
 
+// Plain-English labels for FEC edge roles. Maps the wonky technical
+// vocabulary in canonical stores onto something a child could read.
+// Source roles: per `data/derived/fec-*.jsonl` shapes + per
+// scripts/lib/fec-txn-types.cjs (ADR-0013).
+const ROLE_LABELS: Record<string, string> = {
+  "direct-contribution": "direct gift to campaign",
+  "direct": "direct gift to campaign",
+  "employee-contributions": "bundled employee donations",
+  "ie-support": "super PAC ad supporting them",
+  "ie-oppose": "super PAC attack ad against them",
+  "527-contribution": "money into a 527 organization",
+  "527-expenditure": "money out of a 527 organization",
+  "operating-expense": "campaign internal spending",
+  "pac-to-pac": "PAC-to-PAC transfer",
+  "committee-transfer": "committee-to-committee transfer",
+  "philanthropic-grant": "501(c)(3) grant",
+}
+function roleLabel(role: string | null): string {
+  if (!role) return ""
+  return ROLE_LABELS[role] || role
+}
+
+// Type-level fallback when role is null (most common for contracts/grants).
+function edgeKindLabel(type: string, role: string | null): string {
+  if (type === "government-contract") return "federal contract"
+  if (type === "federal-grant") return "federal grant"
+  if (role) return roleLabel(role)
+  return "money flow"
+}
+
+/**
+ * Auto-generate a "what this trail means" sentence based on its shape.
+ * Reads node types, hops, edge roles to produce 1-2 lines a non-expert
+ * can understand. The same trail data, re-narrated for the reader.
+ */
+function interpretTrail(trail: GroupedTrail, isSelfLoop: boolean): string {
+  const src = trail.source
+  const tgt = trail.target
+  const firstEdge = trail.edges[0]
+  const lastEdge = trail.edges[trail.edges.length - 1]
+  const cycles = trail.cycles
+  const cycleHint = cycles.length > 1
+    ? ` across ${cycles.length} election cycle${cycles.length === 1 ? "" : "s"}`
+    : (cycles.length === 1 ? ` (${cycles[0]} cycle)` : "")
+  const groupHint = trail.group_count > 1 ? `${trail.group_count} contributions` : ""
+
+  if (isSelfLoop) {
+    const role = firstEdge?.role
+    if (role === "employee-contributions") {
+      return `${groupHint ? `${groupHint} of ` : ""}bundled employee donations from ${src.name}'s workforce, all flowing back into the same entity's PAC${cycleHint}. The two endpoints are likely the same organization recorded under different names in the FEC filings.`
+    }
+    return `${src.name} appears at both ends${cycleHint}. Likely an unmerged alias in the data — same entity, two name variants in the FEC records.`
+  }
+
+  if (trail.hops === 1 && firstEdge) {
+    const kind = edgeKindLabel(firstEdge.type, firstEdge.role)
+    const tgtRole = tgt.node_type === "politician" ? "politician" : "organization"
+    if (firstEdge.role === "ie-support") {
+      return `${src.name} spent on outside ads to support ${tgt.name}${cycleHint}. The candidate never controlled this money — it's super PAC spending in their favor.`
+    }
+    if (firstEdge.role === "ie-oppose") {
+      return `${src.name} spent on attack ads against ${tgt.name}${cycleHint}. Independent expenditures, not controlled by any candidate.`
+    }
+    if (firstEdge.role === "employee-contributions") {
+      return `${src.name}'s employees collectively donated to ${tgt.name}${cycleHint}. Reported as a bundle on FEC filings.`
+    }
+    if (firstEdge.role === "direct-contribution" || firstEdge.role === "direct") {
+      return `${src.name} gave directly to ${tgt.name}${tgt.node_type === "politician" ? "'s campaign" : ""}${cycleHint}.`
+    }
+    if (firstEdge.type === "government-contract") {
+      return `Federal government contract paid by ${src.name} to ${tgt.name}${cycleHint}.`
+    }
+    if (firstEdge.type === "federal-grant") {
+      return `Federal grant from ${src.name} to ${tgt.name}${cycleHint}.`
+    }
+    return `${src.name} sent money to ${tgt.name} (${kind})${cycleHint}.`
+  }
+
+  if (trail.hops === 2) {
+    const middle = trail.nodes[1]?.name || "an intermediary"
+    return `${src.name} → ${middle} → ${tgt.name}. Money started with ${src.name}, passed through ${middle}, and reached ${tgt.name}${cycleHint}. Two-hop chains often show donors using PACs or party committees as middle layers.`
+  }
+
+  if (trail.hops >= 3) {
+    const intermediates = trail.nodes.slice(1, -1).map((n) => n.name).join(" → ")
+    return `${trail.hops}-hop chain: ${src.name} → ${intermediates} → ${tgt.name}${cycleHint}. Multi-hop trails trace influence through PAC layers, party committees, and allied campaigns — money rarely moves donor-to-politician in one step at this scale.`
+  }
+
+  return `Money flowed from ${src.name} to ${tgt.name}${cycleHint}.`
+}
+
 function nodeChipClass(n: TrailNode): string {
   if (n.capital_type && CAPITAL_TYPE_COLORS[n.capital_type]) return CAPITAL_TYPE_COLORS[n.capital_type]
   if (n.node_type === "politician") return "bg-yellow-950 text-yellow-300 border-yellow-700"
@@ -393,7 +484,8 @@ export default function MoneyTrailPage() {
                         {formatAmount(e.amount ?? 0)}{e.cycle ? <span className="text-gray-500 ml-1">cycle {e.cycle}</span> : null}
                       </div>
                       <div className="text-[10px] text-gray-500 mt-0.5">
-                        {e.type}{e.role ? ` · ${e.role}` : ""}
+                        {edgeKindLabel(e.type, e.role)}
+                        {e.role && e.role !== "operating-expense" ? "" : ""}
                         {e.source ? ` · ${e.source}` : ""}
                       </div>
                       {e.source_url && (
@@ -467,6 +559,7 @@ function looksLikeSelfLoop(a: TrailNode, b: TrailNode): boolean {
 function TrailCard({ trail, selected, onClick }: { trail: GroupedTrail; selected: boolean; onClick: () => void }) {
   // Self-loop detection: source ≈ target → flag visibly
   const isSelfLoop = looksLikeSelfLoop(trail.source, trail.target)
+  const interpretation = interpretTrail(trail, isSelfLoop)
 
   return (
     <button
@@ -474,7 +567,7 @@ function TrailCard({ trail, selected, onClick }: { trail: GroupedTrail; selected
       className={`w-full text-left bg-gray-900 border-2 rounded-lg p-4 hover:border-gray-600 transition-colors ${selected ? "border-blue-600 bg-gray-900/80" : "border-gray-800"}`}
     >
       {/* Headline row: $ amount + summary stats */}
-      <div className="flex items-baseline justify-between mb-3 gap-3 flex-wrap">
+      <div className="flex items-baseline justify-between mb-2 gap-3 flex-wrap">
         <div className="font-mono text-2xl font-bold text-green-300">
           {formatAmount(trail.total_amount)}
         </div>
@@ -500,6 +593,11 @@ function TrailCard({ trail, selected, onClick }: { trail: GroupedTrail; selected
         </div>
       </div>
 
+      {/* Auto-generated interpretation — what this trail means in plain English */}
+      <p className="text-[13px] text-gray-300 leading-snug mb-3 italic">
+        {interpretation}
+      </p>
+
       {/* Self-loop warning */}
       {isSelfLoop && (
         <div className="mb-3 px-2 py-1 text-[10px] bg-amber-950/40 border border-amber-900/60 rounded text-amber-300">
@@ -520,9 +618,9 @@ function TrailCard({ trail, selected, onClick }: { trail: GroupedTrail; selected
                     ? formatAmount(trail.edges[i].amount as number)
                     : "(non-monetary)"}
                 </span>
-                {trail.edges[i] && trail.edges[i].role && (
-                  <span className="text-[10px] text-gray-500 italic">
-                    {trail.edges[i].role}
+                {trail.edges[i] && (
+                  <span className="text-[11px] text-gray-400">
+                    {edgeKindLabel(trail.edges[i].type, trail.edges[i].role)}
                   </span>
                 )}
               </div>

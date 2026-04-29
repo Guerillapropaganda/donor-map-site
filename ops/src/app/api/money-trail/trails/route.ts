@@ -50,6 +50,13 @@ import type { Edge, Node } from "../../../../../../lib/donor-map"
 export const dynamic = "force-dynamic"
 
 const DEFAULT_MONEY_TYPES = ["monetary", "government-contract", "federal-grant"]
+
+// Roles to drop from "money trail" semantics by default. operating-expense
+// is 60% of monetary edges (52k of 87k 2026-04-29 count) but represents
+// campaigns paying vendors/staff/ads, not donor influence flowing into
+// politics. Including them buries the actual influence trails under
+// internal-spending noise. Caller can pass include_operating=true to keep.
+const NOISE_ROLES = new Set(["operating-expense"])
 // Cap on capital_type-mode source enumeration. Scales DOWN as hop depth
 // rises because paths() BFS cost is super-linear in hops. Smoke-test
 // 2026-04-29: hops=3 with 50 fossil sources took 190s on cold UI.
@@ -168,6 +175,8 @@ export async function GET(req: NextRequest) {
   else if (edgeTypesParam) edgeTypes = edgeTypesParam.split(",").map((s) => s.trim()).filter(Boolean)
   else edgeTypes = DEFAULT_MONEY_TYPES
 
+  const includeOperating = searchParams.get("include_operating") === "true"
+
   if (!fromName && !capitalType) {
     return NextResponse.json(
       { error: "specify either `from` (entity name) or `capital_type` (group filter)" },
@@ -279,6 +288,7 @@ export async function GET(req: NextRequest) {
       const ps = graph.paths(src.id, target.id, { max_hops: maxHops, edge_types: edgeTypes, limit: innerLimit })
       for (const p of ps) {
         if (p.hops === 0) continue  // src === target self-path; not a trail
+        if (!includeOperating && p.edges.some((e) => e.role && NOISE_ROLES.has(e.role))) continue
         const nodes: TrailNode[] = p.nodes
           .map((nid) => graph.resolver.getById(nid))
           .filter((n): n is Node => n !== null)
@@ -297,7 +307,10 @@ export async function GET(req: NextRequest) {
       // No target: surface top monetary edges out of src as 1-hop trails.
       // This is the "show me what this donor funds" view.
       const out = graph.aggregate(src.id, { direction: "out", edge_types: edgeTypes, status: "active" })
-      const sortedEdges = [...out.edges].sort((a, b) => (b.amount ?? 0) - (a.amount ?? 0)).slice(0, 10)
+      const filtered = includeOperating
+        ? out.edges
+        : out.edges.filter((e) => !e.role || !NOISE_ROLES.has(e.role))
+      const sortedEdges = [...filtered].sort((a, b) => (b.amount ?? 0) - (a.amount ?? 0)).slice(0, 10)
       for (const e of sortedEdges) {
         const otherNode = graph.resolver.getById(e.to_id)
         if (!otherNode) continue
