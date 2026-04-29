@@ -180,7 +180,38 @@ export default function MoneyTrailPage() {
     return { grandTotal, byCapType }
   }, [trails])
 
-  const selectedTrail = selectedIdx !== null ? trails[selectedIdx] : null
+  // Client-side grouping: trails with the same node-sequence (same source,
+  // same target, same intermediaries) are collapsed into one card. Multi-
+  // cycle FEC contributions and parallel committee transfers all live as
+  // distinct edges in canonical stores, but for the reader they're "the
+  // same path, fired multiple times." Aggregating sums the amounts and
+  // collects the cycles + edge ids for the detail pane.
+  const groupedTrails = useMemo(() => {
+    interface GroupedTrail extends Trail {
+      group_count: number
+      cycles: Array<string | number>
+    }
+    const groups = new Map<string, GroupedTrail>()
+    for (const t of trails) {
+      const key = t.nodes.map((n) => n.id).join("|")
+      const cyc = t.edges.map((e) => e.cycle).filter((c): c is string | number => c !== null)
+      const existing = groups.get(key)
+      if (existing) {
+        existing.total_amount += t.total_amount
+        existing.weight += t.weight
+        existing.edges = existing.edges.concat(t.edges)
+        existing.group_count += 1
+        for (const c of cyc) if (!existing.cycles.includes(c)) existing.cycles.push(c)
+      } else {
+        groups.set(key, { ...t, group_count: 1, cycles: [...new Set(cyc)] })
+      }
+    }
+    const arr = Array.from(groups.values())
+    arr.sort((a, b) => b.total_amount - a.total_amount)
+    return arr
+  }, [trails])
+
+  const selectedTrail = selectedIdx !== null ? groupedTrails[selectedIdx] : null
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100">
@@ -189,7 +220,7 @@ export default function MoneyTrailPage() {
         whatThisDoes="Multi-hop dollar-flow explorer. Pick a source (a specific entity OR a class of capital — fossil, finance, pharma, etc.) and an optional target. Returns ranked trails of monetary edges between them, with the dollar amount at each hop. Backed by the librarian (ADR-0024) — no frontmatter cache reads."
         rightNow={
           loading ? "Loading…"
-            : stats ? `${trails.length} trails · ${stats.sources_used} source${stats.sources_used === 1 ? "" : "s"} · ${formatAmount(aggregateStats.grandTotal)} total`
+            : stats ? `${groupedTrails.length} trails · ${stats.sources_used} source${stats.sources_used === 1 ? "" : "s"} · ${formatAmount(aggregateStats.grandTotal)} total`
               : "Ready"
         }
         action="Source: pick a capital class chip to see how that whole tendency funds politics; pick a specific entity for one donor's footprint."
@@ -298,7 +329,7 @@ export default function MoneyTrailPage() {
             {stats && (
               <section className="bg-gray-900 border border-gray-800 rounded p-3 text-[11px] text-gray-400 space-y-1">
                 <div>{stats.sources_used} source{stats.sources_used === 1 ? "" : "s"} scanned</div>
-                <div>{stats.paths_found} paths found ({trails.length} shown)</div>
+                <div>{stats.paths_found} paths found ({groupedTrails.length} shown after grouping)</div>
                 <div>max hops: {stats.max_hops}</div>
                 {stats.capital_type_used && (
                   <div>filter: <span className="text-gray-200">{stats.capital_type_used}</span></div>
@@ -307,9 +338,9 @@ export default function MoneyTrailPage() {
             )}
           </aside>
 
-          {/* Center: trail list */}
+          {/* Center: trail list (vertical cards, big $) */}
           <main className="col-span-6">
-            {!loading && hasRun && trails.length === 0 && (
+            {!loading && hasRun && groupedTrails.length === 0 && (
               <div className="bg-gray-900 border border-gray-800 rounded p-6 text-center text-gray-500">
                 No trails found.{" "}
                 {toName.trim() && (
@@ -320,28 +351,14 @@ export default function MoneyTrailPage() {
               </div>
             )}
 
-            <div className="space-y-2">
-              {trails.map((t, i) => (
-                <button
-                  key={`${t.source.id}-${t.target.id}-${i}`}
+            <div className="space-y-3">
+              {groupedTrails.map((t, i) => (
+                <TrailCard
+                  key={`${t.source.id}-${t.target.id}-${t.nodes.map((n) => n.id).join("|")}`}
+                  trail={t}
+                  selected={selectedIdx === i}
                   onClick={() => setSelectedIdx(i)}
-                  className={`w-full text-left bg-gray-900 border rounded p-3 hover:border-gray-600 transition-colors ${selectedIdx === i ? "border-blue-700 bg-gray-900/80" : "border-gray-800"}`}
-                >
-                  <div className="flex items-center gap-2 text-xs text-gray-500 mb-2">
-                    <span className="font-mono">{formatAmount(t.total_amount)}</span>
-                    <span>·</span>
-                    <span>{t.hops} hop{t.hops === 1 ? "" : "s"}</span>
-                    {t.source.capital_type && (
-                      <>
-                        <span>·</span>
-                        <span className={`px-1.5 py-0.5 rounded text-[10px] border ${CAPITAL_TYPE_COLORS[t.source.capital_type] || "bg-gray-800 border-gray-700"}`}>
-                          {t.source.capital_type}
-                        </span>
-                      </>
-                    )}
-                  </div>
-                  <TrailChain trail={t} />
-                </button>
+                />
               ))}
             </div>
           </main>
@@ -419,26 +436,118 @@ export default function MoneyTrailPage() {
   )
 }
 
-// ─── trail-chain renderer ────────────────────────────────────────────────
+// ─── trail card (vertical chain, big $) ─────────────────────────────────
 
-function TrailChain({ trail }: { trail: Trail }) {
+interface GroupedTrail extends Trail {
+  group_count: number
+  cycles: Array<string | number>
+}
+
+/**
+ * Detect "same entity referencing itself" — usually an alias bug in the
+ * librarian where two FEC name variants (e.g. "CoreCivic" and "CoreCivic
+ * - Private Prisons") aren't merged. Surfaced visibly so the reader
+ * doesn't think the page is broken; a fix is canonical-side, not UI-side.
+ */
+function looksLikeSelfLoop(a: TrailNode, b: TrailNode): boolean {
+  if (a.id === b.id) return true
+  const norm = (s: string): string => s.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()
+  const an = norm(a.name)
+  const bn = norm(b.name)
+  if (an === bn) return true
+  // Substring containment with ≥80% overlap (catches "CoreCivic" vs "CoreCivic - Private Prisons")
+  const shorter = an.length < bn.length ? an : bn
+  const longer = an.length < bn.length ? bn : an
+  if (shorter.length >= 4 && longer.includes(shorter)) {
+    return shorter.length / longer.length >= 0.4
+  }
+  return false
+}
+
+function TrailCard({ trail, selected, onClick }: { trail: GroupedTrail; selected: boolean; onClick: () => void }) {
+  // Self-loop detection: source ≈ target → flag visibly
+  const isSelfLoop = looksLikeSelfLoop(trail.source, trail.target)
+
   return (
-    <div className="flex items-center gap-1 flex-wrap">
-      {trail.nodes.map((n, i) => (
-        <span key={`${n.id}-${i}`} className="flex items-center gap-1">
-          <span
-            className={`text-[11px] px-2 py-0.5 rounded border ${nodeChipClass(n)}`}
-            title={n.profile_path || n.id}
-          >
-            {n.name}
-          </span>
-          {i < trail.edges.length && (
-            <span className="text-[10px] text-green-400 font-mono px-1">
-              {trail.edges[i].amount !== null ? formatAmount(trail.edges[i].amount as number) : "→"}
+    <button
+      onClick={onClick}
+      className={`w-full text-left bg-gray-900 border-2 rounded-lg p-4 hover:border-gray-600 transition-colors ${selected ? "border-blue-600 bg-gray-900/80" : "border-gray-800"}`}
+    >
+      {/* Headline row: $ amount + summary stats */}
+      <div className="flex items-baseline justify-between mb-3 gap-3 flex-wrap">
+        <div className="font-mono text-2xl font-bold text-green-300">
+          {formatAmount(trail.total_amount)}
+        </div>
+        <div className="flex items-center gap-2 text-xs text-gray-500">
+          <span>{trail.hops} hop{trail.hops === 1 ? "" : "s"}</span>
+          {trail.group_count > 1 && (
+            <>
+              <span>·</span>
+              <span className="text-gray-300">{trail.group_count} contributions</span>
+            </>
+          )}
+          {trail.cycles.length > 1 && (
+            <>
+              <span>·</span>
+              <span>{trail.cycles.length} cycles</span>
+            </>
+          )}
+          {trail.source.capital_type && (
+            <span className={`px-2 py-0.5 rounded text-[10px] border font-medium ${CAPITAL_TYPE_COLORS[trail.source.capital_type] || "bg-gray-800 border-gray-700"}`}>
+              {trail.source.capital_type.replace(/-capital$|-vehicle$/, "")}
             </span>
           )}
-        </span>
-      ))}
+        </div>
+      </div>
+
+      {/* Self-loop warning */}
+      {isSelfLoop && (
+        <div className="mb-3 px-2 py-1 text-[10px] bg-amber-950/40 border border-amber-900/60 rounded text-amber-300">
+          ⚠ Same entity at both ends — likely an unmerged alias in the librarian (e.g. PAC name variants).
+        </div>
+      )}
+
+      {/* Vertical chain */}
+      <div className="space-y-1">
+        {trail.nodes.map((n, i) => (
+          <div key={`${n.id}-${i}`}>
+            <NodePill node={n} />
+            {i < trail.nodes.length - 1 && (
+              <div className="flex items-center gap-2 ml-4 my-1">
+                <span className="text-gray-700 text-lg leading-none">↓</span>
+                <span className="text-sm font-mono text-green-400">
+                  {trail.edges[i] && typeof trail.edges[i].amount === "number"
+                    ? formatAmount(trail.edges[i].amount as number)
+                    : "(non-monetary)"}
+                </span>
+                {trail.edges[i] && trail.edges[i].role && (
+                  <span className="text-[10px] text-gray-500 italic">
+                    {trail.edges[i].role}
+                  </span>
+                )}
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    </button>
+  )
+}
+
+function NodePill({ node }: { node: TrailNode }) {
+  // Distinguish politician (yellow) from donor/corp (capital-class color)
+  // from intermediate stub (gray). Politicians get a 👤; orgs get a 🏛️.
+  const isPolitician = node.node_type === "politician"
+  const icon = isPolitician ? "👤" : "🏛️"
+  return (
+    <div className="flex items-center gap-2">
+      <span className="text-base leading-none" aria-hidden>{icon}</span>
+      <span
+        className={`text-sm px-3 py-1 rounded border font-medium ${nodeChipClass(node)}`}
+        title={node.profile_path || node.id}
+      >
+        {node.name}
+      </span>
     </div>
   )
 }
