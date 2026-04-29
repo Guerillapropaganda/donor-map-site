@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **53** editorial decisions · **1069** background cleanup
+**33** blocking · **53** editorial decisions · **1071** background cleanup
 
 ---
 
@@ -20,117 +20,45 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Something is broken or will break soon. These block other work — handle first.*
 
-### Western Growers Association: voice rule violations
-
-Ready profile contains 30 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/Western Growers Association.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Brady Campaign: voice rule violations
-
-Ready profile contains 1 em dash in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Brady Campaign.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Business Roundtable: voice rule violations
-
-Ready profile contains 2 em dashes in body, avg sentence length 23 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Donors & Power Networks/Dark Money/Business Roundtable.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
 ### Council for National Policy: voice rule violations
 
-Ready profile contains 1 em dash in body, avg sentence length 27 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 27 words (target ~13), low specific-number density 0.0/100 words (target ~0.9). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/Council for National Policy.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Media Matters: voice rule violations
+### Ed Markey: voice rule violations
 
-Ready profile contains 1 em dash in body, avg sentence length 34 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 17 em dashes in body, avg sentence length 18 words (target ~13), low specific-number density 0.2/100 words (target ~0.9). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Donors & Power Networks/Dark Money/Media Matters.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Hakeem Jeffries Master Profile: voice rule violations
-
-Ready profile contains 13 em dashes in body, avg sentence length 20 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/House/Hakeem Jeffries/_Hakeem Jeffries Master Profile.md`
+- **Where:** `content/Politicians/Democrats/Senate/Ed Markey/_Ed Markey Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### Harry Reid: voice rule violations
 
-Ready profile contains 4 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 4 em dashes in body, avg sentence length 21 words (target ~13), low specific-number density 0.1/100 words (target ~0.9). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Chip Roy Master Profile: voice rule violations
+### JD Vance Master Profile: voice rule violations
 
-Ready profile contains 18 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 10 em dashes in body, avg sentence length 22 words (target ~13), low specific-number density 0.3/100 words (target ~0.9). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Republicans/House/Chip Roy/_Chip Roy Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### John Boehner: voice rule violations
-
-Ready profile contains 5 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Republicans/House/John Boehner/_John Boehner Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Paul Ryan: voice rule violations
-
-Ready profile contains 5 em dashes in body, avg sentence length 21 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Republicans/House/Paul Ryan/_Paul Ryan Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Ashley Hinson Master Profile: voice rule violations
-
-Ready profile contains 8 em dashes in body, avg sentence length 26 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Republicans/Senate/Ashley Hinson/_Ashley Hinson Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### John Hoeven: voice rule violations
-
-Ready profile contains 16 em dashes in body, avg sentence length 24 words (target ~14). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Republicans/Senate/John Hoeven/_John Hoeven Master Profile.md`
+- **Where:** `content/Politicians/Republicans/Vice Presidential/JD Vance/_JD Vance Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### Cargill: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Agriculture/Cargill.md`
 - **Cost:** ~3 min
@@ -139,7 +67,7 @@ Ready profile contains 1 em dash in body. These hard rules block ship — em das
 
 ### John Deere: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Agriculture/John Deere.md`
 - **Cost:** ~3 min
@@ -148,52 +76,70 @@ Ready profile contains 1 em dash in body. These hard rules block ship — em das
 
 ### Tyson Foods: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Agriculture/Tyson Foods.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
+### Western Growers Association: voice rule violations
+
+Ready profile contains 30 em dashes in body, avg sentence length 20 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
 ### ActBlue: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Donors & Power Networks/Dark Money/ActBlue.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Timothy Mellon: voice rule violations
+### Brady Campaign: voice rule violations
 
-Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 24 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/Brady Campaign.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Pfizer Inc.: voice rule violations
+### Business Roundtable: voice rule violations
 
-Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 2 em dashes in body, avg sentence length 23 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Pfizer.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/Business Roundtable.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Alexandria Ocasio-Cortez Master Profile: voice rule violations
+### Media Matters: voice rule violations
 
-Ready profile contains 24 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 34 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Democrats/House/Alexandria Ocasio-Cortez/_Alexandria Ocasio-Cortez Master Profile.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/Media Matters.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Ayanna Pressley Master Profile: voice rule violations
+
+Ready profile contains 13 em dashes in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Democrats/House/Ayanna Pressley/_Ayanna Pressley Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### Cori Bush: voice rule violations
 
-Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 13 em dashes in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Politicians/Democrats/House/Cori Bush/_Cori Bush Master Profile.md`
 - **Cost:** ~3 min
@@ -202,88 +148,160 @@ Ready profile contains 13 em dashes in body. These hard rules block ship — em 
 
 ### Frank Pallone: voice rule violations
 
-Ready profile contains 19 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 19 em dashes in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Politicians/Democrats/House/Frank Pallone/_Frank Pallone Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Jim Himes: voice rule violations
+### Greg Casar Master Profile: voice rule violations
 
-Ready profile contains 17 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 3 em dashes in body, low specific-number density 0.0/100 words (target ~0.9). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Democrats/House/Jim Himes/_Jim Himes Master Profile.md`
+- **Where:** `content/Politicians/Democrats/House/Greg Casar/_Greg Casar Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Nancy Pelosi: voice rule violations
+### Hakeem Jeffries Master Profile: voice rule violations
 
-Ready profile contains 12 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 13 em dashes in body, avg sentence length 20 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Democrats/House/Nancy Pelosi/_Nancy Pelosi Master Profile.md`
+- **Where:** `content/Politicians/Democrats/House/Hakeem Jeffries/_Hakeem Jeffries Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### Zoe Lofgren: voice rule violations
 
-Ready profile contains 13 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 13 em dashes in body, low specific-number density 0.0/100 words (target ~0.9). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Ed Markey: voice rule violations
+### Mallory McMorrow Master Profile: voice rule violations
 
-Ready profile contains 17 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 8 em dashes in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Democrats/Senate/Ed Markey/_Ed Markey Master Profile.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Sheldon Whitehouse: voice rule violations
-
-Ready profile contains 33 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md`
+- **Where:** `content/Politicians/Democrats/Senate/Mallory McMorrow/_Mallory McMorrow Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### Tammy Duckworth: voice rule violations
 
-Ready profile contains 16 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 16 em dashes in body, avg sentence length 18 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Politicians/Democrats/Senate/Tammy Duckworth/_Tammy Duckworth Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Katie Porter Master Profile: voice rule violations
+### Eric Swalwell Master Profile: voice rule violations
 
-Ready profile contains 20 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 4 em dashes in body, avg sentence length 22 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Races/CA Governor 2026/Katie Porter/_Katie Porter Master Profile.md`
+- **Where:** `content/Politicians/Races/CA Governor 2026/Eric Swalwell/_Eric Swalwell Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Chip Roy Master Profile: voice rule violations
+
+Ready profile contains 18 em dashes in body, avg sentence length 21 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/Chip Roy/_Chip Roy Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
 ### James Comer: voice rule violations
 
-Ready profile contains 11 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 11 em dashes in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
 - **Where:** `content/Politicians/Republicans/House/James Comer/_James Comer Master Profile.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### vault-audit: harness-self-audit — 2 findings
+### Jason Smith: voice rule violations
 
-Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 2 stalled-producer
+Ready profile contains 11 em dashes in body, avg sentence length 20 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/Jason Smith/_Jason Smith Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### John Boehner: voice rule violations
+
+Ready profile contains 5 em dashes in body, avg sentence length 21 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/John Boehner/_John Boehner Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Mark Green: voice rule violations
+
+Ready profile contains 13 em dashes in body, avg sentence length 18 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/Mark Green/_Mark Green Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Mike Lawler Master Profile: voice rule violations
+
+Ready profile contains 10 em dashes in body, avg sentence length 27 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/Mike Lawler/_Mike Lawler Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Paul Ryan: voice rule violations
+
+Ready profile contains 5 em dashes in body, avg sentence length 21 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/Paul Ryan/_Paul Ryan Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Tom Cole: voice rule violations
+
+Ready profile contains 28 em dashes in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/Tom Cole/_Tom Cole Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Frank Lucas Master Profile: voice rule violations
+
+Ready profile contains 28 em dashes in body, avg sentence length 19 words (target ~13). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Politicians/Republicans/House/_Frank Lucas Master Profile.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### vault-audit: editorial-decision-provenance — 556 findings
+
+ADR-0029 Rule 16 enforcement. Verifies every editorial-decision record in non-candidate state has decided_by + decided_at provenance, and that auto_revert_eligible is consistent with decided_by. Without provenance the weekly sample-audit cant tell what Claude did vs David did, and the safety net degrades silently. Hard-fails: missing decided_by, invalid decided_by, missing decided_at, inconsistent
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `vault-audit`
+
+### vault-audit: harness-self-audit — 21 findings
+
+Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 21 stalled-producer
 
 - **Where:** `/system-health`
 - **Cost:** ~15 min
@@ -783,6 +801,15 @@ Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-req
 ## 🟢 Background Cleanup
 
 *Cleanup that makes everything else easier. Batch these when you have a slow moment.*
+
+### vault-audit: librarian-gap-decisions — 71 findings
+
+Editorial review queue for librarian-gap candidates (wikilinks the librarian cannot resolve — usually missing aliases). Findings count = state=candidate awaiting David triage. Refresh candidates: node scripts/librarian-gap-propose.cjs --report. Review: --review-list. Apply: --apply-decisions then --apply-approved. Approved aliases land in entities.jsonl. — candidate=71 approved-alias=1. Top: Inter
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `vault-audit`
 
 ### InfluenceMap: one gap away from ready (noConnections)
 
@@ -9415,6 +9442,15 @@ Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `data-complete-stuck`
 
+### vault-audit: auto-revert-pending — 1 finding
+
+ADR-0029 visibility for calibration-driven reverts. Records in candidate state with reverted_reason set are decisions Claude made, the calibration disagreed with, and a human needs to re-review. Findings count = pending re-reviews. Phase 2 wires the auto-revert mechanism; Phase 1 just instruments the surface. Until Phase 2 ships, count is always 0. — 1 record(s) need re-review
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `vault-audit`
+
 ### Build stub: AT&T - WarnerMedia
 
 Referenced by 268 other vault profiles but has no file yet. Building a stub unlocks 268 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AT&T, News Corp - Fox Corporation, Telecom Industry.
@@ -9550,9 +9586,9 @@ Referenced by 88 other vault profiles but has no file yet. Building a stub unloc
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### vault-audit: leftover-artifacts — 65 findings
+### vault-audit: leftover-artifacts — 30 findings
 
-Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 65 transient file(s) not gitignored (dedup backups, temp files, stray logs)
+Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 30 transient file(s) not gitignored (dedup backups, temp files, stray logs)
 
 - **Where:** `/system-health`
 - **Cost:** ~5 min
@@ -10396,9 +10432,9 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 - **Leverage:** ★★★★★
 - **Surfaced by:** `story-candidate-scorer`
 
-### vault-audit: pipeline-janitor — 225 findings
+### vault-audit: pipeline-janitor — 250 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3284 profiles. 225 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3287 profiles. 250 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min

@@ -4,13 +4,13 @@ type: admin-note
 note-type: data
 priority: normal
 status: open
-last-updated: '2026-04-28'
+last-updated: '2026-04-29'
 generated-by: scripts/pipeline-janitor.cjs
 ---
 
 # Pipeline Janitor Report
 
-Generated: 2026-04-28T23:45:30.250Z
+Generated: 2026-04-29T22:15:31.378Z
 Mode: DRY RUN (report only)
 
 ## Pipeline Status
@@ -24,25 +24,289 @@ Findings below are split into three buckets:
 
 ## Summary
 
-- Profiles scanned: 3284
-- Profiles at ready/verified audited: 225
-- Profiles with issues: **225**
-- Total issues: 491
+- Profiles scanned: 3287
+- Profiles at ready/verified audited: 250
+- Profiles with issues: **250**
+- Total issues: 573
 
 ### By category
 
-- Fixable now (CSV bulk or demote): **0**
+- Fixable now (CSV bulk or demote): **37**
 - Blocked on paused pipeline: **0**
-- Editorial / advisory (no auto-fix): **491**
+- Editorial / advisory (no auto-fix): **536**
 
 ### By issue kind
 
-- `a-plus-missing-story-grade`: 225 (225 advisory)
-- `a-plus-missing-thesis`: 145 (145 advisory)
-- `a-plus-legal-review`: 64 (64 advisory)
-- `a-plus-committee-cross-ref`: 36 (36 advisory)
-- `a-plus-source-floor`: 14 (14 advisory)
+- `a-plus-missing-story-grade`: 250 (250 advisory)
+- `a-plus-missing-thesis`: 147 (147 advisory)
+- `a-plus-legal-review`: 68 (68 advisory)
+- `a-plus-committee-cross-ref`: 46 (46 advisory)
+- `missing-block`: 35 (35 fixable-now)
+- `a-plus-source-floor`: 18 (18 advisory)
 - `a-plus-both-sides`: 7 (7 advisory)
+- `known-gap-pipeline`: 1 (1 fixable-now)
+- `zombie-block`: 1 (1 fixable-now)
+
+## Findings — Fixable Now
+
+_Each issue lists the exact command. Run them, then re-run `node scripts/pipeline-janitor.cjs` to clear._
+
+### Mike Lawler Master Profile
+
+- **Path:** `Politicians/Republicans/House/Mike Lawler/_Mike Lawler Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (5):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `missing-block` — no voting pipeline data (no govtrack-id, no block) → **no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Pete Buttigieg
+
+- **Path:** `Politicians/Democrats/Biden Cabinet/Pete Buttigieg/_Pete Buttigieg Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no voting pipeline data (no govtrack-id, no block) → **no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Ayanna Pressley Master Profile
+
+- **Path:** `Politicians/Democrats/House/Ayanna Pressley/_Ayanna Pressley Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `known-gap-pipeline` — known-gaps mentions "Needs re-enrichment" — should be draft → **demote to draft**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: occ, sec-edgar. Banking/Financial Services committee oversees banks (OCC) and public-company disclosures (SEC). → **occ: BLOCKED: OCC API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | sec-edgar: BLOCKED: SEC EDGAR API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-legal-review` — 11 defamation-prone phrases outside blockquotes: #pressley #massachusetts #progressive #squad #financial-services #criminal-justi | Pressley is the least media-visible Squad member but arguably the most legislati → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bob Menendez
+
+- **Path:** `Politicians/Democrats/Senate/Bob Menendez/_Bob Menendez Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: fara, opensanctions. Intel/Foreign Affairs must cross-ref foreign agents (FARA) and sanctioned entities (OpenSanctions). → **fara: BLOCKED: FARA API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | opensanctions: BLOCKED: OpenSanctions API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-legal-review` — 2 defamation-prone phrases outside blockquotes: The class analysis is straightforward: Menendez proves that the campaign finance | - [FBI: Menendez and Melgen Indictment](https://www.fbi.gov/contact-us/field-off → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Dick Durbin
+
+- **Path:** `Politicians/Democrats/Senate/Dick Durbin/_Dick Durbin Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: courtlistener, doj-press. Judiciary committee oversees DOJ and federal courts — must cross-ref litigation + enforcement. → **courtlistener: BLOCKED: CourtListener API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | doj-press: BLOCKED: DOJ Press API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Benjamin Netanyahu
+
+- **Path:** `Politicians/International/Benjamin Netanyahu/_Benjamin Netanyahu Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-source-floor` — only 1 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Michael Whatley
+
+- **Path:** `Politicians/Republicans/Senate/Michael Whatley/_Michael Whatley Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no voting pipeline data (no govtrack-id, no block) → **no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-source-floor` — only 2 Tier 1 source types (A+ requires 3+) → **add more Tier 1 sources or run more cross-ref pipelines**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Tom Cotton Master Profile
+
+- **Path:** `Politicians/Republicans/Senate/Tom Cotton/_Tom Cotton Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: fara, opensanctions, usaspending, federal-register. Intel/Foreign Affairs must cross-ref foreign agents (FARA) and sanctioned entities (OpenSanctions). Armed Services oversees defense contracts — must cross-ref USASpending awardees. Energy committee oversees FERC + DOE rulemaking — cross-ref Federal Register notices. → **fara: BLOCKED: FARA API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | opensanctions: BLOCKED: OpenSanctions API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | usaspending: run CSV bulk: `node scripts/ingest-usaspending-bulk.cjs` | federal-register: BLOCKED: Federal Register API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: | 2026-04-15 | S.4303-119 | — | A bill to amend the Tariff Act of 1930 to provid → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### David Sacks
+
+- **Path:** `Politicians/Republicans/Trump Cabinet/David Sacks/_David Sacks Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `missing-block` — no voting pipeline data (no govtrack-id, no block) → **no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Stephen Miller
+
+- **Path:** `Politicians/Republicans/Trump Cabinet/Stephen Miller/_Stephen Miller Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (4):**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-legal-review` — 1 defamation-prone phrases outside blockquotes: Denaturalization Program. February 2025. Miller activated denaturalization team: → **David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Greg Casar Master Profile
+
+- **Path:** `Politicians/Democrats/House/Greg Casar/_Greg Casar Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `zombie-block` — fec-candidate-id=H2TX35108 but no <!-- auto:fec-lifetime --> block in body → **re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs`**
+  - `a-plus-missing-thesis` — central-thesis field not populated → **add central-thesis: "<one sentence>" to frontmatter**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Chuck Schumer
+
+- **Path:** `Politicians/Democrats/Senate/Chuck Schumer/_Chuck Schumer Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: fara, opensanctions. Intel/Foreign Affairs must cross-ref foreign agents (FARA) and sanctioned entities (OpenSanctions). → **fara: BLOCKED: FARA API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | opensanctions: BLOCKED: OpenSanctions API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mallory McMorrow Master Profile
+
+- **Path:** `Politicians/Democrats/Senate/Mallory McMorrow/_Mallory McMorrow Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no voting pipeline data (no govtrack-id, no block) → **no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Eric Swalwell Master Profile
+
+- **Path:** `Politicians/Races/CA Governor 2026/Eric Swalwell/_Eric Swalwell Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no voting pipeline data (no govtrack-id, no block) → **no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### French Hill
+
+- **Path:** `Politicians/Republicans/House/French Hill/_French Hill Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: occ, sec-edgar. Banking/Financial Services committee oversees banks (OCC) and public-company disclosures (SEC). → **occ: BLOCKED: OCC API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | sec-edgar: BLOCKED: SEC EDGAR API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Jim Jordan
+
+- **Path:** `Politicians/Republicans/House/Jim Jordan/_Jim Jordan Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: courtlistener, doj-press. Judiciary committee oversees DOJ and federal courts — must cross-ref litigation + enforcement. → **courtlistener: BLOCKED: CourtListener API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | doj-press: BLOCKED: DOJ Press API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mike Rogers
+
+- **Path:** `Politicians/Republicans/House/Mike Rogers/_Mike Rogers Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: usaspending. Armed Services oversees defense contracts — must cross-ref USASpending awardees. → **usaspending: run CSV bulk: `node scripts/ingest-usaspending-bulk.cjs`**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Bill Cassidy Master Profile
+
+- **Path:** `Politicians/Republicans/Senate/Bill Cassidy/_Bill Cassidy Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: fda, federal-register. HELP and Agriculture committees oversee FDA-regulated products (drugs, devices, food). Energy committee oversees FERC + DOE rulemaking — cross-ref Federal Register notices. → **fda: BLOCKED: FDA API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | federal-register: BLOCKED: Federal Register API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Jim Risch
+
+- **Path:** `Politicians/Republicans/Senate/Jim Risch/_Jim Risch Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-committee-cross-ref` — missing committee-relevant pipelines: fara, opensanctions. Intel/Foreign Affairs must cross-ref foreign agents (FARA) and sanctioned entities (OpenSanctions). → **fara: BLOCKED: FARA API pipeline paused since 2026-04-24 — defer or resume GitHub Actions | opensanctions: BLOCKED: OpenSanctions API pipeline paused since 2026-04-24 — defer or resume GitHub Actions**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### JD Vance Master Profile
+
+- **Path:** `Politicians/Republicans/Vice Presidential/JD Vance/_JD Vance Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Samuel Alito
+
+- **Path:** `Politicians/SCOTUS/Samuel Alito/_Samuel Alito Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (3):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Saikat Chakrabarti Master Profile
+
+- **Path:** `Politicians/Democrats/House/Saikat Chakrabarti/_Saikat Chakrabarti Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (2):**
+  - `missing-block` — no congress pipeline data (no bioguide-id, no block) → **no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mike Johnson
+
+- **Path:** `Politicians/Republicans/House/Mike Johnson/_Mike Johnson Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (2):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mike Collins
+
+- **Path:** `Politicians/Republicans/Senate/Mike Collins/_Mike Collins Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (2):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
+
+### Mike Crapo
+
+- **Path:** `Politicians/Republicans/Senate/Mike Crapo/_Mike Crapo Master Profile.md`
+- **Current readiness:** `ready`
+- **Type:** `politician`
+- **Issues (2):**
+  - `missing-block` — no fec pipeline data (no fec-candidate-id, no block) → **no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)**
+  - `a-plus-missing-story-grade` — story-grade field not populated → **add story-grade: story|report|investigation**
 
 ## Findings — Editorial / Advisory
 
