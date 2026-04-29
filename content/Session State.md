@@ -4,6 +4,84 @@ type: system
 last-updated: 2026-04-29
 ---
 
+## HANDOFF — 2026-04-29 PM (cc_p3_174 → cc_p3_178, queue clear: items 1-5 of cc_p3_173 next-chat list shipped end-to-end)
+
+**Context:** Code Claude. Worktree `claude/youthful-napier-b1737e`, Opus 4.7 (1M context). 8 commits to v4 in one extended session. Built directly on top of cc_p3_173's handoff list — David said "lets keep going" through every breakpoint, so the entire 5-item queue (~$58-92 projected Opus) shipped in one chat instead of spreading across fresh sessions.
+
+### THIS SESSION'S DELIVERABLES (already shipped to v4)
+
+**Phase 2D — data-complete (publishing) promotion queue (cc_p3_174, commit `ff5ac37ab`).**
+Tier-2-only `ready → data-complete` proposal pipeline. Producer evaluates ADR-0017 gates (typeReqs, ≥1 Tier 1 source, connections, ≤90d freshness, no blocking flags); David batch-approves on `/audit-claude-decisions`. Publishing exposure stays Tier 3 per Rule 10 — no auto-apply. Ships: `scripts/classes/data-complete-promotion.cjs` (with apply + revert side-effect handlers), `scripts/lib/data-complete-decisions-store.cjs` (state machine), `scripts/data-complete-producer.cjs` (every 30 min at :27,:57 in dispatcher), generic `scripts/audit-decisions-decide.cjs` CLI bridge for approve/reject across ANY pipeline class, POST handler on `/api/audit-claude-decisions` for class-agnostic approve/reject, ✓ Approve / ✗ Reject buttons + keyboard `a`/`x` on the audit page. Existing Pfizer fixture (`bucket: readiness, expected: ready`) covers the regression case. First sweep: **279 ready profiles → 1 candidate (Freedom Partners), 269 stuck (1-2 gaps), 9 stuck-far.** Top gaps: 202× `blocked:NEEDS-REVIEW`, 35× `typeReqs:committees`, 29× `typeReqs:contribution-amounts`. End-to-end approve+revert verified on Freedom Partners.
+
+**ADR-0027 P3 follow-up (cc_p3_175, commit `3fc99b355`).**
+Most of P3 (`--apply-approved` mode in rebuild-relationship-caches, sentinel allowlist, class wiring) was already shipped. Two real bugs caught and fixed: (1) the frontmatter-orphan-prunes class spawned the rebuilder WITHOUT `--write`, so approved-prune records flipped to resolved but the frontmatter wasn't actually mutated — silent bug since the class shipped; (2) `--orphan-id <id>` flag was passed by the class but never parsed by the rebuilder, meaning every approve ran a global sweep over all approved-prune records (racy + N×wasteful). Both fixed. Plus new harness check `scripts/frontmatter-prune-pending-check.cjs` — counts records aged >1h in `approved-prune` state (steady state = 0; positive count = silent apply failure). Wired into `vault-audit.cjs`. E2E verified by approving two self-reference orphans (ADM and NCBA both had themselves in their own politicians-funded list); both pruned cleanly.
+
+**Capital_type Path B batch-tagger (cc_p3_176, commit `5aff3d694`).**
+Per Rule 14, *applies* the locked CAPITAL_TYPES vocabulary (no new vocabulary). Reads editorial folder under `content/Donors & Power Networks/` as a high-signal classifier — Pharma & Healthcare → `pharma-capital`, Wall Street → `finance-capital`, Defense & Intelligence → `military-industrial`, etc. Tier 1 for 17 unambiguous folders + Tier 2 for 5 ambiguous (Mega-Donors, Education, Corporate, Restaurant & Food, Gig Economy). Foreign + Israel Lobby skipped entirely (those imply ideological_function, not capital_type). Ships: `scripts/classes/class-tag-path-b-application.cjs`, `scripts/lib/class-tag-path-b-decisions-store.cjs`, `scripts/class-tag-path-b-producer.cjs` (every 6h at :32 in dispatcher), 7 calibration fixtures (Pfizer, Goldman, Lockheed, ExxonMobil, ADM as Tier-1 protections + NEA, Koch as null-must-stay-null regression guards), `calibration-drift-check.cjs` extended with `bucket: 'class-tag'` evaluator. **Sweep: 316 entities auto-tagged Tier 1, 64 Tier 2 candidates surfaced for batch approval. Capital_type coverage on donor+corporation entities: 41.3% → 81.1%.** All 20 fixtures pass post-sweep.
+
+**ADR-0024 Phase 1 — plumbing complete (cc_p3_177, commit `f323e7051`).**
+Library at `lib/donor-map/` was 3 of 6 plumbing functions before (resolve / neighbors / aggregate). This commit ships the remaining three: `Graph.paths(from, to, opts)` (BFS up to max_hops, undirected for traversal, ranked by sum-of-edge-weights), `Graph.subgraph(seeds, opts)` (multi-seed flood-fill, bounded by max_nodes default 5000, returns `truncated` flag), `Graph.timeline(seed, opts)` (chronological edge list sorted by first_seen desc, each entry carries counterparty). 12 new unit tests in `__tests__/graph.test.ts` — all 25 lib tests pass. Phase plan note `content/Admin Notes/adr-0024-phase-plan-2026-04-29.md` breaks remaining work into Phase 2-5 (donorContradictions → influenceMap → migration → UI consolidation), $80-130 Opus end-to-end.
+
+**Money Trail rebuild — three iterations (cc_p3_178, commits `f52bcb2a4`, `2c5468781`, `ef8738404`, `9f7205b25`).**
+v1: Replaced the prior single-profile star-graph with a multi-hop dollar-flow explorer. New API `/api/money-trail/trails` (single-source or capital_type-group, 1-4 hops, optional target). Rewritten page with 3-pane layout (left: source-mode toggle + capital_type chips with entity counts + target input + max-hops slider; center: trail list; right: per-edge detail).
+v2 bug fixes: `Graph.paths()` was throwing `RangeError: Invalid array length` on hub-target queries (Mike Johnson) at hops=3 — frontier exploded past 4B partials, took 190s before crashing. Fixed with FRONTIER_CAP=50,000 per hop in the BFS. Added hop-depth × source-count latency caps (hops 1-2: 50 sources, hops 3: 8, hops 4: 4) and TRAIL_BAILOUT=300 global short-circuit. **190s → 1.3s on hops=3 fossil → Mike Johnson.**
+v2.5 visual: Cards reshaped — big $ amount as headline (2xl bold green), vertical chain with ↓ arrows + dollar amounts between nodes, 👤 icon for politicians vs 🏛️ for orgs, color-coded pills tied to capital_type. Client-side grouping by node-sequence: 5 near-identical CoreCivic→CoreCivic trails (different cycles) collapse to ONE card showing "5 contributions · 5 cycles · $1.13M". Self-loop detector with amber warning banner ("Same entity at both ends — likely an unmerged alias").
+v3 readability (per David: "what does each card mean?"): Auto-generated 1-line interpretation per card based on trail shape (1-hop direct gift → "X gave directly to Y's campaign"; 2-hop → "X → middleman → Y, money passed through"; ie-oppose → "spent on attack ads against"; self-loop with employee-contributions → narrative about bundling). `ROLE_LABELS` map turns wonky FEC tokens into plain English ("direct gift to campaign" instead of "direct-contribution"). **Default-exclude `operating-expense` edges** — that's 60% of monetary edges (52k of 87k) and represents campaign internal spending, not donor influence. `?include_operating=true` brings them back. Mike Johnson smoke before/after: default went from "10 vendor-payment trails" to "10 actual political contribution trails."
+
+### State of the system after today
+
+- **6 pipeline classes registered** (was 5): librarian-gap-aliases (T1+T2), frontmatter-orphan-prunes (T2), duplicate-entity-merges (T2), pathless-stub-aliases (T2), mechanical-readiness-promotion (T1), data-complete-promotion (T2), class-tag-path-b-application (T1+T2). All visible on `/audit-claude-decisions` with appropriate label/sublabel renderers.
+- **Calibration fixtures: 20 entries** (was 13), all passing in main repo. Added 7 class-tag fixtures (5 affirmative coverage + 2 regression guards).
+- **ADR-0024 plumbing layer 6 of 6 complete.** Thesis layer 0 of 8 — see phase plan note.
+- **Capital_type coverage: 41% → 81%** on donor+corporation entities (697 of 859 tagged).
+- **Money Trail rebuilt** — `/money-trail` is now the multi-hop trail explorer (was star-graph).
+- **8 v4 commits today**, deploy succeeded each time.
+- **Dispatcher: PID 40912 (long-running, since 2026-04-28).** Ops dev server: PID 33888 (manually restarted twice today after HMR choke + node_modules corruption; serving from main repo at :3333).
+- **bug-queue.md: 1 open** (bug-007 — pending editorial repair of 9 placeholder amounts; carried over from cc_p3_172).
+- **Main repo state:** at v4 head (3fc99b355 was last pull; 5 newer v4 commits await next pull). Has dispatcher-generated noise (~675 modified files in working tree from background pipeline runs); session-save commits will need to be staged carefully.
+
+### Known issues / things flagged but not fixed
+
+1. **CoreCivic alias bug (data-side, not UI).** "CoreCivic" and "CoreCivic - Private Prisons" are two librarian nodes that should be one. Money Trail v3 surfaces them with a self-loop banner; the canonical-side fix belongs in the `duplicate-entity-merges` Tier 2 queue. Should auto-seed on next harness tick — verify it lands.
+2. **`paths()` treats edges as undirected for traversal.** Means "Donor A → PAC ← Donor B" can appear as A↔B trail. Correct for "how connected are A and B" semantics but slightly weird for "money trail" framing. Documented; not fixed.
+3. **Hub-target hops=3 silently truncates** at 8 sources × 10 paths each = up to 80 trails. Honest exploration is fine; completeness audits would want a fuller scan.
+4. **ScheduleWakeup tool misuse.** I called ScheduleWakeup outside `/loop` mode at one point — fired stale prompts back as user input later. Documented in this session as a Claude-side mistake; tool should only be invoked from `/loop` skill context.
+
+---
+
+### NEXT-CHAT INSTRUCTION SET (priority order)
+
+The cc_p3_173 queue is fully cleared. New work from here onward.
+
+#### 1. Pull main repo + commit dispatcher noise (~$2-5, Sonnet 4.6 fine)
+Main repo's working tree has ~675 modified files from background pipeline runs across the day (Attention Queue, profile frontmatter rebuild outputs, bug-queue, etc.). Many are real dispatcher work that should land on v4. Need to: stash → pull v4 → review the diff → either commit selectively or `git stash drop` if the dispatcher will rewrite on next tick. Skip if you don't have time — the dispatcher will keep running, but v4 will keep accumulating drift between main local and origin.
+
+#### 2. Run weekly Tier 1 sample audit on `/audit-claude-decisions` (~10 min, no Claude needed — David's lane)
+ADR-0029 mandates a David-driven weekly sample-check of Tier 1 auto-applied decisions. With 316 fresh class-tag-path-b decisions landed today plus ~28 mechanical-readiness promotions earlier in the week, the queue is well-populated. Click the 🎯 Sample 20 button on `/audit-claude-decisions`, eyeball each, revert anything wrong.
+
+#### 3. Seed CoreCivic alias merge into duplicate-entity-merges (~$5-10 Opus)
+Real data bug surfaced by Money Trail v3. "CoreCivic" (ent_000436) and "CoreCivic - Private Prisons" (ent_000435) should merge. Add to the duplicate-entity-merges queue manually (or run the harness seeder) so David can approve via `/audit-claude-decisions`. Once merged, Money Trail's carceral view will collapse the 5 CoreCivic→CoreCivic trails into actual external trails (or none, if all are internal).
+
+#### 4. ADR-0024 Phase 2 — `donorContradictions` thesis query (~$8-12 Opus)
+First thesis-layer query, simplest of the 8. Implementation plan in `content/Admin Notes/adr-0024-phase-plan-2026-04-29.md`. Same-donor → opposing politicians, ranked by minimum total dollars (story-potential heuristic). Fixture-backed unit tests on the Bowman+UDP / Cori Bush+UDP shape. NOT wiring into ops UI yet — that's Phase 4.
+
+#### 5. ADR-0024 Phase 3 — `influenceMap` marquee thesis query (~$15-25 Opus, possibly two sessions)
+Highest reader value once shipped. May need policies.jsonl loaded in librarian first (loader audit during the session). Top donors with class tags + politician's votes on related policies + alignment score. Reference: phase plan note Phase 3.
+
+#### 6. Editorial review of 9 bug-007 placeholders (~10 min, David's lane)
+Carryover from cc_p3_172. 9 profiles (Brett Kavanaugh, Carlos Gimenez, Glenn Youngkin, Dick Cheney, Joe Biden, Summer Lee, Rick Scott, Greg Casar) have `[$? — bug-007]` placeholders pending editorial fact-check.
+
+#### 7. Approve the 64 Path B Tier 2 capital_type candidates (~30 min, David's lane)
+Capital_type chips on `/money-trail` will get more useful as more entities are tagged. The 64 candidates surfaced today are mostly Mega-Donors (60), with 3 Restaurant & Food and 1 Corporate. Click through on `/audit-claude-decisions` filtered to `class-tag-path-b-application`, decide each.
+
+---
+
+### Token budget on this session
+
+8 commits across 5 queue items + 3 Money Trail iterations. Conservative estimate: ~$40-55 cumulative on Opus. Handoff projected $58-92 for items 1-5 fresh-chat-each, so we came in under budget by collapsing the whole queue into one session. Trade-off: ~80% context window used by end. Next session benefits from a fresh chat regardless of what's tackled.
+
+---
+
 ## HANDOFF — 2026-04-29 (cc_p3_170 → cc_p3_172, ADR-0029 Phase 2B + 2C + 5b + cross-vault logging surface + bug-007 cleanup)
 
 **Context:** Code Claude. Worktree `claude/objective-taussig-93fcd0`, Opus 4.7 (1M context). 9 commits to v4 across the day. Built on top of yesterday's ADR-0029 Phase 1+2 (editorial-decision-pipeline + calibration auto-revert).
