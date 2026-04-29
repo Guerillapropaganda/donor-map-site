@@ -21,5 +21,6 @@ require('./frontmatter-orphan-prunes.cjs');
 require('./duplicate-entity-merges.cjs');
 require('./pathless-stub-aliases.cjs');
 require('./mechanical-readiness-promotion.cjs');
+require('./data-complete-promotion.cjs');
 
 module.exports = {};

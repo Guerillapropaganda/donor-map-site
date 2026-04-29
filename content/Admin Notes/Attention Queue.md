@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**31** blocking · **53** editorial decisions · **800** background cleanup
+**31** blocking · **53** editorial decisions · **1069** background cleanup
 
 ---
 
@@ -7498,6 +7498,1923 @@ Mechanical promotion draft → ready blocked by: noConnections. Adding the missi
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `mechanical-readiness-stuck`
 
+### Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts: one gap from publishing (typeReqs:990-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### The Revolving Door , A Cross-Think-Tank Personnel Map: one gap from publishing (typeReqs:990-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/The Revolving Door — A Cross-Think-Tank Personnel Map.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Brennan Center for Justice: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Brennan Center for Justice.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Center for American Progress: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Center for American Progress.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Center on Budget and Policy Priorities: one gap from publishing (typeReqs:990-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Center on Budget and Policy Priorities.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Economic Policy Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Economic Policy Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Roosevelt Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Roosevelt Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Urban Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Urban Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### American Enterprise Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/American Enterprise Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Cato Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Cato Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Claremont Institute: one gap from publishing (typeReqs:990-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Claremont Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Federalist Society: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Federalist Society.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Heartland Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Heartland Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Heritage Foundation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Hoover Institution: one gap from publishing (typeReqs:990-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Hoover Institution.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mercatus Center: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Mercatus Center.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Aspen Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Aspen Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Atlantic Council: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Atlantic Council.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bipartisan Policy Center: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Bipartisan Policy Center.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Council on Foreign Relations: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Council on Foreign Relations.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Third Way: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Third Way.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Samuel Alito: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/SCOTUS/Samuel Alito/_Samuel Alito Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Tulsi Gabbard: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Tulsi Gabbard/_Tulsi Gabbard Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Stephen Miller: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Stephen Miller/_Stephen Miller Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Michael Waltz: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Michael Waltz/_Michael Waltz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Lee Zeldin: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Lee Zeldin/_Lee Zeldin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Kristi Noem: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/Kristi Noem/_Kristi Noem Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### John Ratcliffe: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/John Ratcliffe/_John Ratcliffe Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### David Sacks: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Trump Cabinet/David Sacks/_David Sacks Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Tom Cotton Master Profile: one gap from publishing (typeReqs:fec-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Tom Cotton/_Tom Cotton Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ted Cruz: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Ted Cruz/_Ted Cruz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Rick Scott: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Rick Scott/_Rick Scott Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Markwayne Mullin: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Markwayne Mullin/_Markwayne Mullin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Joni Ernst Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Joni Ernst/_Joni Ernst Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### John McCain: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### John Hoeven: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/John Hoeven/_John Hoeven Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jim Risch: one gap from publishing (typeReqs:fec-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Jim Risch/_Jim Risch Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jerry Moran: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Jerry Moran/_Jerry Moran Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Deb Fischer: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Deb Fischer/_Deb Fischer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bill Cassidy Master Profile: one gap from publishing (typeReqs:fec-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Bill Cassidy/_Bill Cassidy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Frank Lucas Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/_Frank Lucas Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Kevin McCarthy Master Profile: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/_Kevin McCarthy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Tom Cole: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Tom Cole/_Tom Cole Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Roger Williams: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Roger Williams/_Roger Williams Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Matt Gaetz: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Matt Gaetz/_Matt Gaetz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### John Boehner: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/John Boehner/_John Boehner Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jodey Arrington: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Jodey Arrington/_Jodey Arrington Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jason Smith: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Jason Smith/_Jason Smith Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### James Comer: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/James Comer/_James Comer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### French Hill: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/French Hill/_French Hill Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Chip Roy Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Chip Roy/_Chip Roy Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Carlos Gimenez: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Carlos Gimenez/_Carlos Gimenez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Eric Swalwell Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Races/CA Governor 2026/Eric Swalwell/_Eric Swalwell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Kyrsten Sinema: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Independent/Kyrsten Sinema/_Kyrsten Sinema Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Joe Manchin: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Independent/Joe Manchin/_Joe Manchin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Tammy Duckworth: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Tammy Duckworth/_Tammy Duckworth Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Sheldon Whitehouse: one gap from publishing (blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Richard Blumenthal: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Richard Blumenthal/_Richard Blumenthal Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Raphael Warnock: one gap from publishing (blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Raphael Warnock/_Raphael Warnock Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mark Warner: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Mark Warner/_Mark Warner Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Maria Cantwell: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Maria Cantwell/_Maria Cantwell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### John Hickenlooper: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/John Hickenlooper/_John Hickenlooper Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Hillary Clinton: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Hillary Clinton/_Hillary Clinton Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Harry Reid: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ed Markey: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Ed Markey/_Ed Markey Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Debbie Stabenow: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Debbie Stabenow/_Debbie Stabenow Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Chuck Schumer: one gap from publishing (typeReqs:fec-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Chuck Schumer/_Chuck Schumer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Brian Schatz: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Brian Schatz/_Brian Schatz Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bob Menendez: one gap from publishing (typeReqs:fec-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Bob Menendez/_Bob Menendez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Barbara Lee: one gap from publishing (typeReqs:committees)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Barbara Lee.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Buffy Wicks: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Buffy Wicks.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Josh Gottheimer: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/_Josh Gottheimer Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Zoe Lofgren: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Rosa DeLauro: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Rosa DeLauro/_Rosa DeLauro Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ro Khanna: one gap from publishing (blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Ro Khanna/_Ro Khanna Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Rick Larsen: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Rick Larsen/_Rick Larsen Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Rashida Tlaib: one gap from publishing (blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Rashida Tlaib/_Rashida Tlaib Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Raja Krishnamoorthi: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Raja Krishnamoorthi/_Raja Krishnamoorthi Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Joseph Morelle: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Joseph Morelle/_Joseph Morelle Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jim Himes: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Jim Himes/_Jim Himes Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jamie Raskin: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Jamie Raskin/_Jamie Raskin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ilhan Omar: one gap from publishing (blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Ilhan Omar/_Ilhan Omar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Gregory Meeks: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Gregory Meeks/_Gregory Meeks Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Greg Casar Master Profile: one gap from publishing (typeReqs:fec-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Greg Casar/_Greg Casar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Frank Pallone: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Frank Pallone/_Frank Pallone Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Donna Miller: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Donna Miller/_Donna Miller Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ayanna Pressley Master Profile: one gap from publishing (blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Ayanna Pressley/_Ayanna Pressley Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Alexandria Ocasio-Cortez Master Profile: one gap from publishing (blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Alexandria Ocasio-Cortez/_Alexandria Ocasio-Cortez Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Pete Buttigieg: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Biden Cabinet/Pete Buttigieg/_Pete Buttigieg Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Blackstone Group: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Blackstone Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### CalPERS: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/CalPERS.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Elliott Management: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Elliott Management.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Goldman Sachs: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Goldman Sachs.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### JPMorgan Chase: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/JPMorgan.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Lawrence Summers: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Larry Summers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Amazon: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Amazon.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Apple: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Apple.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ben Horowitz: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Ben Horowitz.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Brad Garlinghouse: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Brad Garlinghouse.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Chris Larsen: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Chris Larsen.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Craft Ventures: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Craft Ventures.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Meta - Facebook: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Meta - Facebook.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Microsoft: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Microsoft.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Oracle: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Oracle.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Tech Industry: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Tech Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### TikTok - ByteDance: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/TikTok - ByteDance.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### World Liberty Financial: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/World Liberty Financial.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Change Now: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Change Now.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Citizen Super PAC: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Citizen Super PAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Committee for Defending American Values: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Committee for Defending American Values.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Planned Parenthood Advocates of Kansas: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Planned Parenthood Advocates of Kansas.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Planned Parenthood of KS & Mid-MO: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Planned Parenthood of KS & Mid-MO.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Political Action for Lasting Security: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Political Action for Lasting Security.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Sandre Swanson for Assembly 2010: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/Sandre Swanson for Assembly 2010.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### California Restaurant Association: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Restaurant & Food/California Restaurant Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### National Restaurant Association: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Restaurant & Food/National Restaurant Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Starbucks: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Restaurant & Food/Starbucks.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### California Apartment Association: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Real Estate & Housing/California Apartment Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Blackstone Real Estate: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Blackstone Real Estate.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Invitation Homes - Institutional Landlords: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Invitation Homes - Institutional Landlords.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Real Estate Industry: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Real Estate Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Centene Corporation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Centene Corporation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Eli Lilly: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Gilead Sciences: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Gilead Sciences.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Novo Nordisk: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Novo Nordisk.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Pfizer Inc.: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Pfizer.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Adelson Family: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Adelson Family.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bernard Marcus: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Bernard Marcus.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bernie Marcus: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Bernie Marcus.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bill Gates: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Bill Gates.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### David McIntosh: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/David McIntosh.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Everytown for Gun Safety: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Everytown for Gun Safety.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### George Soros: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/George Soros.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Harold Hamm: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Harold Hamm.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jeff Bezos: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Jeff Bezos.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Kelcy Warren: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Kelcy Warren.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ken Griffin: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Ken Griffin.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Kenneth Griffin: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Larry Ellison: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Larry Ellison.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mark Zuckerberg: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Mark Zuckerberg.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Miriam Adelson: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Miriam Adelson.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Paul Singer: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Paul Singer.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Reed Hastings: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Reed Hastings.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Robert Mercer: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Robert Mercer.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Sam Bankman-Fried: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Sam Bankman-Fried.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Sheldon & Miriam Adelson: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Sheldon Adelson.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Stephen Schwarzman: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Stephen Schwarzman.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Timothy Mellon: one gap from publishing (typeReqs:contribution-amounts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### AT&T: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/AT&T - WarnerMedia.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### News Corp - Fox Corporation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/News Corp - Fox Corporation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Sinclair Broadcast Group: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Sinclair Broadcast Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Telecom Industry: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Media & Entertainment/Telecom Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Fraternal Order of Police: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Law Enforcement/Fraternal Order of Police.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### AFGE - American Federation of Government Employees: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/AFGE - American Federation of Government Employees.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### AFL-CIO: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/AFL-CIO.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### AFSCME - American Federation of State County and Municipal Employees: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/AFSCME - American Federation of State County and Municipal Employees.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### California Labor Federation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/California Labor Federation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### California Nurses Association: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/California Nurses Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### IBEW - International Brotherhood of Electrical Workers: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/IBEW - International Brotherhood of Electrical Workers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### National Nurses United: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/National Nurses United.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ohio AFL-CIO: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/Ohio AFL-CIO.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### UAW - United Auto Workers: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/UAW - United Auto Workers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### UNITE HERE: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/UNITE HERE.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### United Farm Workers: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Labor Unions/United Farm Workers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### DMFI - Democratic Majority for Israel: one gap from publishing (typeReqs:donors-mapped)
+
+Mechanical data-complete promotion blocked by: typeReqs:donors-mapped. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/DMFI - Democratic Majority for Israel.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Haim Saban: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/Haim Saban.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mark Mellman: one gap from publishing (typeReqs:politicians-funded)
+
+Mechanical data-complete promotion blocked by: typeReqs:politicians-funded. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/Mark Mellman.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### NORPAC: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Israel Lobby/NORPAC.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Blue Shield of California: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Blue Shield of California.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Humana: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Humana.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Insurance Industry: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Insurance Industry.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### UnitedHealth Group - Optum: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/UnitedHealth Group - Optum.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### American Gaming Association: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/American Gaming Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### General Motors: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/General Motors.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Lyft: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/Lyft.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Uber: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/Uber.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### American Fuel and Petrochemical Manufacturers: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/American Fuel and Petrochemical Manufacturers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### American Petroleum Institute: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Chevron: one gap from publishing (blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Chevron.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Drummond Co.: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Drummond Co.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Enterprise Products Partners: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Enterprise Products Partners.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Southern Company: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Southern Company.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Valero Energy: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Valero Energy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### National Education Association: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Education/National Education Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Anduril Industries: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Anduril Industries.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### BAE Systems: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/BAE Systems.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bechtel Corporation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Bechtel Corporation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Booz Allen Hamilton: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Booz Allen Hamilton.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Leidos: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Leidos.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Raytheon (RTX Corporation): one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### ActBlue: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/ActBlue.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Alliance Defending Freedom: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Alliance Defending Freedom.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### America Votes: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/America Votes.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### American Action Network: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/American Action Network.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bradley Foundation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Bradley Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Brady Campaign: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Brady Campaign.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Business Roundtable: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Business Roundtable.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Conservative Partnership Institute: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Conservative Partnership Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Demand Justice: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Demand Justice.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Heritage Foundation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Heritage Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Media Matters: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Media Matters.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### National Association of Manufacturers: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/National Association of Manufacturers.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Sports Betting Alliance: one gap from publishing (typeReqs:politicians-funded)
+
+Mechanical data-complete promotion blocked by: typeReqs:politicians-funded. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Sports Betting Alliance.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Stand Together: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Stand Together.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### ViaPath Technologies - GTL: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### ADM - Archer Daniels Midland: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### American Farm Bureau Federation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### CA Farm Bureau Federation: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Cargill: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Cargill.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### John Deere: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/John Deere.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Monsanto - Bayer: one gap from publishing (typeReqs:contracts)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Monsanto - Bayer.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Tyson Foods: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Tyson Foods.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Western Growers Association: one gap from publishing (blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/Western Growers Association.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `data-complete-stuck`
+
 ### Build stub: AT&T - WarnerMedia
 
 Referenced by 268 other vault profiles but has no file yet. Building a stub unlocks 268 broken wikilinks and turns this entity into something other scripts can enrich. Sample: AT&T, News Corp - Fox Corporation, Telecom Industry.
@@ -7767,6 +9684,510 @@ Mechanical promotion draft → ready blocked by: noTier1, noConnections. Adding 
 - **Cost:** ~5 min
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `mechanical-readiness-stuck`
+
+### The Idea Laundering Pipeline , How Think Tank Research Becomes Law: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/The Idea Laundering Pipeline — How Think Tank Research Becomes Law.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### New America: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/New America.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Manhattan Institute for Policy Research: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Manhattan Institute.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Brookings Institution: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Center for a New American Security: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Center for a New American Security.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### JD Vance Master Profile: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Vice Presidential/JD Vance/_JD Vance Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bernie Moreno: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Bernie Moreno.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bill Hagerty: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Bill Hagerty.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Rand Paul: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Rand Paul/_Rand Paul Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mitt Romney: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Mitt Romney/_Mitt Romney Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mitch McConnell Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Mitch McConnell/_Mitch McConnell Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mike Crapo: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Mike Crapo/_Mike Crapo Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### John Barrasso: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/John Barrasso/_John Barrasso Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ashley Hinson Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/Senate/Ashley Hinson/_Ashley Hinson Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Nancy Mace: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Nancy Mace.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Steve Scalise: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Steve Scalise/_Steve Scalise Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Paul Ryan: 2 gaps from publishing (typeReqs:bills, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:bills, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Paul Ryan/_Paul Ryan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Patrick McHenry: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Patrick McHenry/_Patrick McHenry Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mike Rogers: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Mike Rogers/_Mike Rogers Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mark Green: 2 gaps from publishing (typeReqs:bills, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:bills, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Mark Green/_Mark Green Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jim Jordan: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Republicans/House/Jim Jordan/_Jim Jordan Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Katie Porter Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Races/CA Governor 2026/Katie Porter/_Katie Porter Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Dianne Feinstein: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Dianne Feinstein.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jon Ossoff: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Jon Ossoff/_Jon Ossoff Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Dick Durbin: 2 gaps from publishing (typeReqs:bills, typeReqs:fec-data)
+
+Mechanical data-complete promotion blocked by: typeReqs:bills, typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/Senate/Dick Durbin/_Dick Durbin Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Summer Lee: 2 gaps from publishing (typeReqs:committees, typeReqs:bills)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, typeReqs:bills. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Summer Lee/_Summer Lee Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Saikat Chakrabarti Master Profile: 2 gaps from publishing (typeReqs:committees, typeReqs:bills)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, typeReqs:bills. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Saikat Chakrabarti/_Saikat Chakrabarti Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Nancy Pelosi: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Nancy Pelosi/_Nancy Pelosi Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Melissa Bean: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Melissa Bean/_Melissa Bean Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Henry Cuellar: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Henry Cuellar/_Henry Cuellar Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Hakeem Jeffries Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Hakeem Jeffries/_Hakeem Jeffries Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Cori Bush: 2 gaps from publishing (typeReqs:committees, blocked:URL-NEEDED)
+
+Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Politicians/Democrats/House/Cori Bush/_Cori Bush Master Profile.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Leonard Leo: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Leonard Leo.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Walmart: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Walmart.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Brian Armstrong: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Brian Armstrong.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Eric Schmidt: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Eric Schmidt.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Mithril Capital: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Tech & Crypto/Mithril Capital.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### United Democracy Project - UDP: 2 gaps from publishing (typeReqs:donors-mapped, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:donors-mapped, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/United Democracy Project - UDP.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Lennar Corporation: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Lennar Corporation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Moinian Group: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Moinian Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Dustin Moskovitz: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Dustin Moskovitz.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Jeffrey Yass: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:UNVERIFIED)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Jeffrey Yass.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Laurene Powell Jobs: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Laurene Powell Jobs.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Michael Bloomberg: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Michael Bloomberg.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Peter Thiel: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Peter Thiel.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Reid Hoffman: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Reid Hoffman.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Richard and Elizabeth Uihlein: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Richard and Elizabeth Uihlein.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Ross Stevens: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Ross Stevens.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Rupert Murdoch: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Rupert Murdoch.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Cigna Group: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Healthcare/Cigna Group.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### ConocoPhillips: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/ConocoPhillips.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Devon Energy: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Devon Energy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Eli Broad Foundation: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Education/Eli Broad Foundation.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Council for National Policy: 2 gaps from publishing (typeReqs:politicians-funded, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:politicians-funded, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Dark Money/Council for National Policy.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
+### Bacardi - Bacardi USA: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
+
+Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
 
 ### vault-audit: librarian-gap-audit — 355 findings
 

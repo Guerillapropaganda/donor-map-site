@@ -135,6 +135,20 @@ const PRODUCERS = [
     script: 'scripts/mechanical-readiness-producer.cjs',
     timeout_ms: 180_000,
   },
+  // Phase 2D of ADR-0029: data-complete (publishing) promotion proposals.
+  // Tier 2 ONLY — Claude proposes, David batch-approves on
+  // /audit-claude-decisions. Walks every profile at content-readiness=ready,
+  // evaluates ADR-0017 gates, surfaces passing profiles as candidates and
+  // close-stuck (1-2 gap) profiles to the attention queue.
+  // Schedule: every 30 min at :27 + :57, offset from mechanical-readiness
+  // (:22, :52) so the two readiness producers don't overlap.
+  // Same 3-min budget as Phase 2C — full vault scan touches ~2,300 files.
+  {
+    name: 'data-complete-producer',
+    schedule: '27,57 * * * *',
+    script: 'scripts/data-complete-producer.cjs',
+    timeout_ms: 180_000,
+  },
   { name: 'voice-drift-detector',       schedule: '*/30 * * * *', script: 'scripts/voice-drift-detector.cjs' },
   { name: 'hallucination-catcher',      schedule: '0 * * * *',    script: 'scripts/hallucination-catcher.cjs' },
   { name: 'promotion-candidate-queue',  schedule: '15 * * * *',   script: 'scripts/promotion-candidate-queue.cjs' },

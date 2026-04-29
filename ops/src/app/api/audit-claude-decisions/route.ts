@@ -1,9 +1,10 @@
 /**
- * GET  /api/audit-claude-decisions
- * PATCH /api/audit-claude-decisions
+ * GET   /api/audit-claude-decisions
+ * PATCH /api/audit-claude-decisions      — manual revert
+ * POST  /api/audit-claude-decisions      — Tier 2 approve / reject
  *
- * Phase 3 of ADR-0029. Read + revert face for the editorial-decision
- * pipeline audit surface.
+ * Phase 3 of ADR-0029. Read + revert + decide face for the
+ * editorial-decision pipeline audit surface.
  *
  * GET — returns a normalized, filtered list of records across every
  * registered class. Filters via query params:
@@ -20,7 +21,14 @@
  * pipeline.revertDecision (record-state revert + class-specific side-
  * effect undo if the class supplies one).
  *
- * Auth: admin-only. Audit + revert are Tier 3 actions.
+ * POST — Tier 2 approve or reject. Body:
+ *   { class: string, id: string, action: "approve" | "reject", reason?: string }
+ * Spawns scripts/audit-decisions-decide.cjs which calls
+ * pipeline.transition + applyApproved. Added 2026-04-29 for Phase 2D
+ * data-complete batch approval; class-agnostic so the same endpoint
+ * unblocks David's Tier 2 approve queue across every registered class.
+ *
+ * Auth: admin-only. Audit + revert + decide are Tier 3 actions.
  */
 
 import { NextRequest, NextResponse } from "next/server"
@@ -154,6 +162,26 @@ const CLASSES: Record<string, ClassMeta> = {
         : ""
       const path_ = String(rec.profile_path || "")
       return [type, reasons, path_].filter(Boolean).join(" · ")
+    },
+  },
+  "data-complete-promotion": {
+    name: "data-complete-promotion",
+    store_file: "data/data-complete-decisions.jsonl",
+    has_tier1: false,
+    label: (rec) => {
+      const title = String(rec.profile_title || rec.profile_path || "?")
+      return `${title} : ready → data-complete`
+    },
+    sublabel: (rec) => {
+      const type = String(rec.profile_type || "")
+      const passing = Array.isArray(rec.gates_passing) && rec.gates_passing.length
+        ? `passing: ${(rec.gates_passing as string[]).join(", ")}`
+        : ""
+      const reasons = Array.isArray(rec.gap_reasons) && rec.gap_reasons.length
+        ? `gaps: ${(rec.gap_reasons as string[]).join(", ")}`
+        : ""
+      const path_ = String(rec.profile_path || "")
+      return [type, passing || reasons, path_].filter(Boolean).join(" · ")
     },
   },
 }
@@ -369,6 +397,68 @@ export async function PATCH(req: NextRequest) {
         error: (parsed && typeof parsed.error === "string" ? parsed.error : null)
           || (result.stderr || "").slice(0, 500)
           || "revert failed",
+        cli_result: parsed,
+        cli_exit: result.status,
+        cli_stderr: (result.stderr || "").slice(0, 1000),
+      },
+      { status: 500 },
+    )
+  }
+
+  return NextResponse.json({ ok: true, result: parsed })
+}
+
+// ─── POST — approve / reject (Tier 2 batch decisions) ──────────────
+
+export async function POST(req: NextRequest) {
+  const gate = await requireAdmin(req)
+  if (!gate.ok) return gate.response!
+
+  let body: Record<string, unknown>
+  try { body = await req.json() } catch {
+    return NextResponse.json({ error: "invalid JSON body" }, { status: 400 })
+  }
+  const className = typeof body.class === "string" ? body.class : null
+  const id = typeof body.id === "string" ? body.id : null
+  const action = typeof body.action === "string" ? body.action : null
+  const reason = typeof body.reason === "string" ? body.reason : null
+
+  if (!className || !(className in CLASSES)) {
+    return NextResponse.json({ error: `class must be one of: ${Object.keys(CLASSES).join(", ")}` }, { status: 400 })
+  }
+  if (!id) {
+    return NextResponse.json({ error: "id (string) is required" }, { status: 400 })
+  }
+  if (action !== "approve" && action !== "reject") {
+    return NextResponse.json({ error: "action must be 'approve' or 'reject'" }, { status: 400 })
+  }
+
+  const cliArgs = [
+    path.join(REPO_ROOT, "scripts", "audit-decisions-decide.cjs"),
+    "--class", className,
+    "--id", id,
+    "--action", action,
+  ]
+  if (reason) cliArgs.push("--reason", reason)
+
+  const result = spawnSync(
+    process.execPath,
+    cliArgs,
+    { cwd: REPO_ROOT, encoding: "utf-8", maxBuffer: 16 * 1024 * 1024, timeout: 30_000 }
+  )
+
+  let parsed: Record<string, unknown> | null = null
+  const stdout = (result.stdout || "").trim()
+  if (stdout) {
+    try { parsed = JSON.parse(stdout.split("\n").pop() || "") } catch { parsed = null }
+  }
+
+  if (result.status !== 0 || !parsed || parsed.ok === false) {
+    return NextResponse.json(
+      {
+        error: (parsed && typeof parsed.error === "string" ? parsed.error : null)
+          || (result.stderr || "").slice(0, 500)
+          || "decide failed",
         cli_result: parsed,
         cli_exit: result.status,
         cli_stderr: (result.stderr || "").slice(0, 1000),

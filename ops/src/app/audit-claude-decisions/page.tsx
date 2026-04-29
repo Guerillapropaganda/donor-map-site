@@ -150,6 +150,7 @@ export default function AuditClaudeDecisionsPage() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [reverting, setReverting] = useState(false)
+  const [deciding, setDeciding] = useState(false)
   const [toast, setToast] = useState<string | null>(null)
   const [showRawJson, setShowRawJson] = useState(false)
 
@@ -301,6 +302,46 @@ export default function AuditClaudeDecisionsPage() {
     }
   }, [selected, fetchList])
 
+  // Approve / reject (Tier 2 batch — POST /api/audit-claude-decisions)
+  const decideSelected = useCallback(async (action: "approve" | "reject") => {
+    if (!selected) return
+    if (action === "approve" && selected.state !== "candidate" && selected.state !== "stuck") {
+      setToast(`Can't approve — this decision is already in state "${selected.state}". Revert first if you want to change it.`)
+      return
+    }
+    if (action === "reject" && (selected.state === "resolved" || selected.state === "rejected")) {
+      setToast(`Can't reject — this decision is already in state "${selected.state}".`)
+      return
+    }
+    const verb = action === "approve" ? "Approve" : "Reject"
+    const consequence = action === "approve"
+      ? `Approving means: this decision goes through. The script that owns this kind of decision will run its writer (e.g. flip the profile to data-complete in frontmatter).\n\nProvenance: claude-batch-approved.\n\nYou can undo this with the Revert button — though for some classes the writer's side-effect can't be auto-undone (the page tells you which).`
+      : `Rejecting means: this decision will not happen. The record stays in the canonical store with state=rejected so the producer doesn't keep proposing it.\n\nYou can flip it back to "needs review" with Revert.`
+    const confirmText = `${verb} this decision?\n\n  ${selected.primary_label}\n  (${selected.class})\n\n${consequence}\n\nProceed?`
+    if (!window.confirm(confirmText)) return
+
+    setDeciding(true)
+    try {
+      const res = await fetch("/api/audit-claude-decisions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ class: selected.class, id: selected.id, action }),
+      })
+      const data = await res.json()
+      if (!res.ok) throw new Error(data.error || `${action} failed`)
+      const finalState = data.result?.final_state || "(unknown)"
+      const plainMsg = action === "approve"
+        ? `Approved. Final state: ${finalState}. Side-effect (frontmatter / canonical write) ran in the same call.`
+        : `Rejected. Final state: ${finalState}. The producer won't keep proposing this.`
+      setToast(plainMsg)
+      await fetchList()
+    } catch (e: unknown) {
+      setError(e instanceof Error ? e.message : String(e))
+    } finally {
+      setDeciding(false)
+    }
+  }, [selected, fetchList])
+
   // Keyboard nav
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
@@ -318,11 +359,17 @@ export default function AuditClaudeDecisionsPage() {
       } else if (e.key === "r" && selected && selected.state !== "candidate") {
         revertSelected()
         e.preventDefault()
+      } else if (e.key === "a" && selected && (selected.state === "candidate" || selected.state === "stuck")) {
+        decideSelected("approve")
+        e.preventDefault()
+      } else if (e.key === "x" && selected && selected.state !== "resolved" && selected.state !== "rejected") {
+        decideSelected("reject")
+        e.preventDefault()
       }
     }
     window.addEventListener("keydown", onKey)
     return () => window.removeEventListener("keydown", onKey)
-  }, [visibleRecords, selectedKey, updateUrl, selected, revertSelected])
+  }, [visibleRecords, selectedKey, updateUrl, selected, revertSelected, decideSelected])
 
   // Toggle helpers for multi-select chips
   const toggleClass = (c: string) => {
@@ -377,7 +424,7 @@ export default function AuditClaudeDecisionsPage() {
         title="Audit Claude Decisions"
         whatThisDoes="Every editorial decision Claude made — alias merges, frontmatter prunes, readiness promotions. Filter by class, decided_by, state, or date. Click a row to see its full change_log timeline. Revert any decision to candidate state (Tier 1 also strips the alias from entities.jsonl). Per ADR-0029."
         rightNow={summary || "Loading…"}
-        action="j/k = nav · r = revert selected · 🎯 Sample 20 = pull random Tier 1 from last 7d for weekly audit"
+        action="j/k = nav · a = approve · x = reject · r = revert · 🎯 Sample 20 = pull random Tier 1 from last 7d for weekly audit"
       />
 
       {/* Toast */}
@@ -560,7 +607,7 @@ export default function AuditClaudeDecisionsPage() {
           <div ref={listRef} className="bg-gray-900 border border-gray-800 rounded overflow-hidden">
             <div className="px-3 py-2 border-b border-gray-800 text-xs text-gray-400 flex justify-between items-center">
               <span>{visibleRecords.length} record{visibleRecords.length === 1 ? "" : "s"}</span>
-              <span className="text-gray-600 text-[10px]">j/k = nav · enter = focus · r = revert</span>
+              <span className="text-gray-600 text-[10px]">j/k = nav · enter = focus · a = approve · x = reject · r = revert</span>
             </div>
             <div className="overflow-y-auto" style={{ maxHeight: "calc(100vh - 280px)" }}>
               {visibleRecords.length === 0 && !loading && (
@@ -640,6 +687,26 @@ export default function AuditClaudeDecisionsPage() {
                       </span>
                     )}
                     <div className="flex-1" />
+                    {(selected.state === "candidate" || selected.state === "stuck") && (
+                      <>
+                        <button
+                          onClick={() => decideSelected("approve")}
+                          disabled={deciding}
+                          className="text-xs px-3 py-1 rounded bg-green-900 hover:bg-green-800 text-green-200 disabled:opacity-50 border border-green-700"
+                          title="Approve this Tier 2 decision. The class's writer runs in the same call (e.g. data-complete-promotion rewrites content-readiness in frontmatter). Provenance: claude-batch-approved. (keyboard: a)"
+                        >
+                          {deciding ? "…" : "✓ Approve"}
+                        </button>
+                        <button
+                          onClick={() => decideSelected("reject")}
+                          disabled={deciding}
+                          className="text-xs px-3 py-1 rounded bg-gray-800 hover:bg-gray-700 text-gray-300 disabled:opacity-50 border border-gray-600"
+                          title="Reject — producer won't keep proposing this. (keyboard: x)"
+                        >
+                          ✗ Reject
+                        </button>
+                      </>
+                    )}
                     {selected.state !== "candidate" && (
                       <button
                         onClick={revertSelected}

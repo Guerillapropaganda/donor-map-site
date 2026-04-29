@@ -14955,5 +14955,4636 @@
         ]
       }
     }
+  ],
+  "data-complete-stuck": [
+    {
+      "bucket": "compounding",
+      "what": "Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts: one gap from publishing (typeReqs:990-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "The Idea Laundering Pipeline , How Think Tank Research Becomes Law: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/The Idea Laundering Pipeline — How Think Tank Research Becomes Law.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "The Revolving Door , A Cross-Think-Tank Personnel Map: one gap from publishing (typeReqs:990-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/The Revolving Door — A Cross-Think-Tank Personnel Map.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brennan Center for Justice: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Brennan Center for Justice.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Center for American Progress: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Center for American Progress.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Center on Budget and Policy Priorities: one gap from publishing (typeReqs:990-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Center on Budget and Policy Priorities.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Economic Policy Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Economic Policy Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "New America: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/New America.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Roosevelt Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Roosevelt Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Urban Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Urban Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "American Enterprise Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/American Enterprise Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cato Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Cato Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Claremont Institute: one gap from publishing (typeReqs:990-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Claremont Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Federalist Society: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Federalist Society.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Heartland Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Heartland Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Heritage Foundation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Hoover Institution: one gap from publishing (typeReqs:990-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Hoover Institution.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Manhattan Institute for Policy Research: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Manhattan Institute.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mercatus Center: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Mercatus Center.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Aspen Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Aspen Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Atlantic Council: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Atlantic Council.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bipartisan Policy Center: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Bipartisan Policy Center.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brookings Institution: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Brookings Institution.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Center for a New American Security: 2 gaps from publishing (typeReqs:990-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:990-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Center for a New American Security.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:990-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Council on Foreign Relations: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Council on Foreign Relations.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Third Way: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Third Way.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Samuel Alito: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/SCOTUS/Samuel Alito/_Samuel Alito Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "JD Vance Master Profile: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Vice Presidential/JD Vance/_JD Vance Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tulsi Gabbard: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Tulsi Gabbard/_Tulsi Gabbard Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Stephen Miller: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Stephen Miller/_Stephen Miller Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael Waltz: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Michael Waltz/_Michael Waltz Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lee Zeldin: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Lee Zeldin/_Lee Zeldin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kristi Noem: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/Kristi Noem/_Kristi Noem Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Ratcliffe: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/John Ratcliffe/_John Ratcliffe Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David Sacks: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Trump Cabinet/David Sacks/_David Sacks Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bernie Moreno: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Bernie Moreno.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bill Hagerty: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Bill Hagerty.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tom Cotton Master Profile: one gap from publishing (typeReqs:fec-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Tom Cotton/_Tom Cotton Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ted Cruz: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Ted Cruz/_Ted Cruz Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rick Scott: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Rick Scott/_Rick Scott Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rand Paul: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Rand Paul/_Rand Paul Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mitt Romney: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Mitt Romney/_Mitt Romney Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mitch McConnell Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Mitch McConnell/_Mitch McConnell Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Crapo: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Mike Crapo/_Mike Crapo Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Markwayne Mullin: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Markwayne Mullin/_Markwayne Mullin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Joni Ernst Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Joni Ernst/_Joni Ernst Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John McCain: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/John McCain/_John McCain Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Hoeven: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/John Hoeven/_John Hoeven Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Barrasso: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/John Barrasso/_John Barrasso Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jim Risch: one gap from publishing (typeReqs:fec-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Jim Risch/_Jim Risch Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jerry Moran: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Jerry Moran/_Jerry Moran Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Deb Fischer: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Deb Fischer/_Deb Fischer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bill Cassidy Master Profile: one gap from publishing (typeReqs:fec-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Bill Cassidy/_Bill Cassidy Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ashley Hinson Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/Senate/Ashley Hinson/_Ashley Hinson Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Nancy Mace: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Nancy Mace.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Frank Lucas Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/_Frank Lucas Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kevin McCarthy Master Profile: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/_Kevin McCarthy Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tom Cole: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Tom Cole/_Tom Cole Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Steve Scalise: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Steve Scalise/_Steve Scalise Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Roger Williams: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Roger Williams/_Roger Williams Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Paul Ryan: 2 gaps from publishing (typeReqs:bills, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:bills, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Paul Ryan/_Paul Ryan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:bills",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Patrick McHenry: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Patrick McHenry/_Patrick McHenry Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mike Rogers: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Mike Rogers/_Mike Rogers Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Matt Gaetz: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Matt Gaetz/_Matt Gaetz Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mark Green: 2 gaps from publishing (typeReqs:bills, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:bills, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Mark Green/_Mark Green Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:bills",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Boehner: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/John Boehner/_John Boehner Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jodey Arrington: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Jodey Arrington/_Jodey Arrington Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jim Jordan: 2 gaps from publishing (typeReqs:fec-data, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Jim Jordan/_Jim Jordan Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jason Smith: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Jason Smith/_Jason Smith Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "James Comer: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/James Comer/_James Comer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "French Hill: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/French Hill/_French Hill Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chip Roy Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Chip Roy/_Chip Roy Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Carlos Gimenez: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Republicans/House/Carlos Gimenez/_Carlos Gimenez Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Katie Porter Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Races/CA Governor 2026/Katie Porter/_Katie Porter Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Eric Swalwell Master Profile: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Races/CA Governor 2026/Eric Swalwell/_Eric Swalwell Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kyrsten Sinema: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Independent/Kyrsten Sinema/_Kyrsten Sinema Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Joe Manchin: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Independent/Joe Manchin/_Joe Manchin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dianne Feinstein: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Dianne Feinstein.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tammy Duckworth: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Tammy Duckworth/_Tammy Duckworth Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sheldon Whitehouse: one gap from publishing (blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Richard Blumenthal: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Richard Blumenthal/_Richard Blumenthal Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Raphael Warnock: one gap from publishing (blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Raphael Warnock/_Raphael Warnock Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mark Warner: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Mark Warner/_Mark Warner Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Maria Cantwell: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Maria Cantwell/_Maria Cantwell Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jon Ossoff: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Jon Ossoff/_Jon Ossoff Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Hickenlooper: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/John Hickenlooper/_John Hickenlooper Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Hillary Clinton: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Hillary Clinton/_Hillary Clinton Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Harry Reid: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ed Markey: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Ed Markey/_Ed Markey Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dick Durbin: 2 gaps from publishing (typeReqs:bills, typeReqs:fec-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:bills, typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Dick Durbin/_Dick Durbin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:bills",
+          "typeReqs:fec-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Debbie Stabenow: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Debbie Stabenow/_Debbie Stabenow Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chuck Schumer: one gap from publishing (typeReqs:fec-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Chuck Schumer/_Chuck Schumer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brian Schatz: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Brian Schatz/_Brian Schatz Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bob Menendez: one gap from publishing (typeReqs:fec-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Senate/Bob Menendez/_Bob Menendez Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Barbara Lee: one gap from publishing (typeReqs:committees)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Barbara Lee.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Buffy Wicks: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Buffy Wicks.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Josh Gottheimer: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/_Josh Gottheimer Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Zoe Lofgren: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Zoe Lofgren/_Zoe Lofgren Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Summer Lee: 2 gaps from publishing (typeReqs:committees, typeReqs:bills)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, typeReqs:bills. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Summer Lee/_Summer Lee Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "typeReqs:bills"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Saikat Chakrabarti Master Profile: 2 gaps from publishing (typeReqs:committees, typeReqs:bills)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, typeReqs:bills. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Saikat Chakrabarti/_Saikat Chakrabarti Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "typeReqs:bills"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rosa DeLauro: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Rosa DeLauro/_Rosa DeLauro Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ro Khanna: one gap from publishing (blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Ro Khanna/_Ro Khanna Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rick Larsen: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Rick Larsen/_Rick Larsen Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rashida Tlaib: one gap from publishing (blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Rashida Tlaib/_Rashida Tlaib Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Raja Krishnamoorthi: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Raja Krishnamoorthi/_Raja Krishnamoorthi Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Nancy Pelosi: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Nancy Pelosi/_Nancy Pelosi Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Melissa Bean: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Melissa Bean/_Melissa Bean Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Joseph Morelle: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Joseph Morelle/_Joseph Morelle Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jim Himes: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Jim Himes/_Jim Himes Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jamie Raskin: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Jamie Raskin/_Jamie Raskin Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ilhan Omar: one gap from publishing (blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Ilhan Omar/_Ilhan Omar Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Henry Cuellar: 2 gaps from publishing (typeReqs:committees, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Henry Cuellar/_Henry Cuellar Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Hakeem Jeffries Master Profile: 2 gaps from publishing (typeReqs:committees, blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Hakeem Jeffries/_Hakeem Jeffries Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Gregory Meeks: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Gregory Meeks/_Gregory Meeks Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Greg Casar Master Profile: one gap from publishing (typeReqs:fec-data)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:fec-data. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Greg Casar/_Greg Casar Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:fec-data"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Frank Pallone: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Frank Pallone/_Frank Pallone Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Donna Miller: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Donna Miller/_Donna Miller Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cori Bush: 2 gaps from publishing (typeReqs:committees, blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:committees, blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Cori Bush/_Cori Bush Master Profile.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:committees",
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ayanna Pressley Master Profile: one gap from publishing (blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Ayanna Pressley/_Ayanna Pressley Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Alexandria Ocasio-Cortez Master Profile: one gap from publishing (blocked:URL-NEEDED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:URL-NEEDED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/House/Alexandria Ocasio-Cortez/_Alexandria Ocasio-Cortez Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:URL-NEEDED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Pete Buttigieg: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Politicians/Democrats/Biden Cabinet/Pete Buttigieg/_Pete Buttigieg Master Profile.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Leonard Leo: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Leonard Leo.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Blackstone Group: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Wall Street/Blackstone Group.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "CalPERS: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Wall Street/CalPERS.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Elliott Management: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Wall Street/Elliott Management.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Goldman Sachs: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Wall Street/Goldman Sachs.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "JPMorgan Chase: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Wall Street/JPMorgan.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lawrence Summers: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Wall Street/Larry Summers.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Walmart: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Wall Street/Walmart.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Amazon: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Amazon.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Apple: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Apple.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ben Horowitz: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Ben Horowitz.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brad Garlinghouse: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Brad Garlinghouse.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brian Armstrong: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Brian Armstrong.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chris Larsen: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Chris Larsen.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Craft Ventures: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Craft Ventures.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Eric Schmidt: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Eric Schmidt.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Meta - Facebook: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Meta - Facebook.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Microsoft: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Microsoft.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mithril Capital: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Mithril Capital.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Oracle: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Oracle.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tech Industry: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Tech Industry.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "TikTok - ByteDance: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/TikTok - ByteDance.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "World Liberty Financial: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/World Liberty Financial.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Change Now: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/Change Now.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Citizen Super PAC: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/Citizen Super PAC.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Committee for Defending American Values: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/Committee for Defending American Values.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Planned Parenthood Advocates of Kansas: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/Planned Parenthood Advocates of Kansas.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Planned Parenthood of KS & Mid-MO: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/Planned Parenthood of KS & Mid-MO.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Political Action for Lasting Security: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/Political Action for Lasting Security.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sandre Swanson for Assembly 2010: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/Sandre Swanson for Assembly 2010.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "United Democracy Project - UDP: 2 gaps from publishing (typeReqs:donors-mapped, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:donors-mapped, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Super PACs/United Democracy Project - UDP.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:donors-mapped",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "California Restaurant Association: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Restaurant & Food/California Restaurant Association.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "National Restaurant Association: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Restaurant & Food/National Restaurant Association.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Starbucks: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Restaurant & Food/Starbucks.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "California Apartment Association: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Real Estate & Housing/California Apartment Association.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Blackstone Real Estate: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Real Estate/Blackstone Real Estate.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Invitation Homes - Institutional Landlords: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Real Estate/Invitation Homes - Institutional Landlords.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lennar Corporation: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Real Estate/Lennar Corporation.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Moinian Group: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Real Estate/Moinian Group.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Real Estate Industry: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Real Estate/Real Estate Industry.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Centene Corporation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Pharma & Healthcare/Centene Corporation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Eli Lilly: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Gilead Sciences: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Pharma & Healthcare/Gilead Sciences.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Novo Nordisk: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Pharma & Healthcare/Novo Nordisk.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Pfizer Inc.: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Pharma & Healthcare/Pfizer.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Adelson Family: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Adelson Family.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bernard Marcus: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Bernard Marcus.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bernie Marcus: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Bernie Marcus.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bill Gates: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Bill Gates.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "David McIntosh: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/David McIntosh.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Dustin Moskovitz: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Dustin Moskovitz.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Everytown for Gun Safety: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Everytown for Gun Safety.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "George Soros: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/George Soros.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Harold Hamm: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Harold Hamm.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jeff Bezos: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Jeff Bezos.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Jeffrey Yass: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Jeffrey Yass.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kelcy Warren: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Kelcy Warren.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ken Griffin: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Ken Griffin.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Kenneth Griffin: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Larry Ellison: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Larry Ellison.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Laurene Powell Jobs: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Laurene Powell Jobs.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mark Zuckerberg: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Mark Zuckerberg.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Michael Bloomberg: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Michael Bloomberg.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Miriam Adelson: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Miriam Adelson.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Paul Singer: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Paul Singer.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Peter Thiel: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Peter Thiel.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Reed Hastings: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Reed Hastings.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Reid Hoffman: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Reid Hoffman.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Richard and Elizabeth Uihlein: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Richard and Elizabeth Uihlein.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Robert Mercer: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Robert Mercer.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ross Stevens: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Ross Stevens.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Rupert Murdoch: 2 gaps from publishing (typeReqs:contribution-amounts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Rupert Murdoch.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sam Bankman-Fried: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Sam Bankman-Fried.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sheldon & Miriam Adelson: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Sheldon Adelson.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Stephen Schwarzman: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Stephen Schwarzman.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Timothy Mellon: one gap from publishing (typeReqs:contribution-amounts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Timothy Mellon.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contribution-amounts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "AT&T: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Media & Entertainment/AT&T - WarnerMedia.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "News Corp - Fox Corporation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Media & Entertainment/News Corp - Fox Corporation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sinclair Broadcast Group: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Media & Entertainment/Sinclair Broadcast Group.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Telecom Industry: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Media & Entertainment/Telecom Industry.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Fraternal Order of Police: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Law Enforcement/Fraternal Order of Police.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "AFGE - American Federation of Government Employees: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/AFGE - American Federation of Government Employees.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "AFL-CIO: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/AFL-CIO.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "AFSCME - American Federation of State County and Municipal Employees: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/AFSCME - American Federation of State County and Municipal Employees.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "California Labor Federation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/California Labor Federation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "California Nurses Association: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/California Nurses Association.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "IBEW - International Brotherhood of Electrical Workers: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/IBEW - International Brotherhood of Electrical Workers.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "National Nurses United: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/National Nurses United.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Ohio AFL-CIO: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/Ohio AFL-CIO.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "UAW - United Auto Workers: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/UAW - United Auto Workers.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "UNITE HERE: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/UNITE HERE.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "United Farm Workers: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Labor Unions/United Farm Workers.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "DMFI - Democratic Majority for Israel: one gap from publishing (typeReqs:donors-mapped)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:donors-mapped. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Israel Lobby/DMFI - Democratic Majority for Israel.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:donors-mapped"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Haim Saban: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Israel Lobby/Haim Saban.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Mark Mellman: one gap from publishing (typeReqs:politicians-funded)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:politicians-funded. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Israel Lobby/Mark Mellman.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:politicians-funded"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "NORPAC: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Israel Lobby/NORPAC.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Blue Shield of California: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Healthcare/Blue Shield of California.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cigna Group: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Healthcare/Cigna Group.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Humana: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Healthcare/Humana.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Insurance Industry: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Healthcare/Insurance Industry.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "UnitedHealth Group - Optum: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Healthcare/UnitedHealth Group - Optum.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "American Gaming Association: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Gig Economy/American Gaming Association.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "General Motors: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Gig Economy/General Motors.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Lyft: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Gig Economy/Lyft.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Uber: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Gig Economy/Uber.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "American Fuel and Petrochemical Manufacturers: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/American Fuel and Petrochemical Manufacturers.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "American Petroleum Institute: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Chevron: one gap from publishing (blocked:UNVERIFIED)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:UNVERIFIED. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Chevron.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:UNVERIFIED"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "ConocoPhillips: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/ConocoPhillips.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Devon Energy: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Devon Energy.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Drummond Co.: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Drummond Co.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Enterprise Products Partners: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Enterprise Products Partners.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Southern Company: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Southern Company.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Valero Energy: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Valero Energy.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Eli Broad Foundation: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Education/Eli Broad Foundation.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "National Education Association: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Education/National Education Association.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Anduril Industries: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Anduril Industries.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "BAE Systems: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/BAE Systems.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bechtel Corporation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Bechtel Corporation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Booz Allen Hamilton: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Booz Allen Hamilton.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Leidos: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Leidos.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Raytheon (RTX Corporation): one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "ActBlue: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/ActBlue.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Alliance Defending Freedom: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Alliance Defending Freedom.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "America Votes: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/America Votes.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "American Action Network: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/American Action Network.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bradley Foundation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Bradley Foundation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Brady Campaign: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Brady Campaign.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Business Roundtable: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Business Roundtable.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Conservative Partnership Institute: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Conservative Partnership Institute.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Council for National Policy: 2 gaps from publishing (typeReqs:politicians-funded, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:politicians-funded, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Council for National Policy.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:politicians-funded",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Demand Justice: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Demand Justice.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Heritage Foundation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Heritage Foundation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Media Matters: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Media Matters.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "National Association of Manufacturers: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/National Association of Manufacturers.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Sports Betting Alliance: one gap from publishing (typeReqs:politicians-funded)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:politicians-funded. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Sports Betting Alliance.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:politicians-funded"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Stand Together: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Dark Money/Stand Together.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Bacardi - Bacardi USA: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Corporate/Bacardi - Bacardi USA.md",
+      "cost_min": 5,
+      "leverage": 2,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts",
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "ViaPath Technologies - GTL: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "ADM - Archer Daniels Midland: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "American Farm Bureau Federation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "CA Farm Bureau Federation: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/CA Farm Bureau Federation.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Cargill: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/Cargill.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "John Deere: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/John Deere.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Monsanto - Bayer: one gap from publishing (typeReqs:contracts)",
+      "why": "Mechanical data-complete promotion blocked by: typeReqs:contracts. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/Monsanto - Bayer.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "typeReqs:contracts"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Tyson Foods: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/Tyson Foods.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "Western Growers Association: one gap from publishing (blocked:NEEDS-REVIEW)",
+      "why": "Mechanical data-complete promotion blocked by: blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.",
+      "where": "content/Donors & Power Networks/Agriculture/Western Growers Association.md",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "data-complete-stuck",
+      "created": "2026-04-29",
+      "metadata": {
+        "from_state": "ready",
+        "to_state": "data-complete",
+        "gap_reasons": [
+          "blocked:NEEDS-REVIEW"
+        ]
+      }
+    }
   ]
 }
