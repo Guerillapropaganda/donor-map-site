@@ -23,6 +23,12 @@
  *      collapsed) across two records that DIDN'T already match by 1-3.
  *      This catches the NCPSSM-class case where the names differ only
  *      by added/dropped clauses ("& Medicare").
+ *   5. Prefix-descriptor match: one normalized name is a strict
+ *      prefix of another with ≥1 trailing word. Catches the dash-
+ *      prefix pattern ("CoreCivic" vs "CoreCivic - Private Prisons")
+ *      that Money Trail surfaced as self-loops on 2026-04-29. Lower
+ *      confidence than 1-4 — many true distincts fall in here
+ *      (corp vs family wealth, corp vs PAC). Tier 2 only.
  *
  * Each finding requires editorial cleanup: pick canonical, archive the
  * other folder, update aliases.
@@ -130,6 +136,36 @@ for (const [n, list] of byName) {
   if (list.length < 2) continue;
   if (list.every((e) => seenAsAlreadyGrouped.has(e.id))) continue;
   addGroup('identical_normalized_name', n, list);
+  for (const e of list) seenAsAlreadyGrouped.add(e.id);
+}
+
+// Path 5: prefix-descriptor match. Build a sorted list of (normalized
+// name, entity) and pair any case where shorter is a strict prefix
+// of longer with ≥1 trailing word. Lower confidence than 1-4 — true
+// distincts (Walmart vs "Walmart - Walton Family") get flagged here
+// and David decides per case via /audit-claude-decisions.
+const byNameSorted = ents
+  .map((e) => ({ e, n: normalizeName(e.name) }))
+  .filter((x) => x.n)
+  .sort((a, b) => a.n.length - b.n.length);
+const prefixGroups = new Map(); // shorter-name → [longer entities]
+for (let i = 0; i < byNameSorted.length; i++) {
+  const a = byNameSorted[i];
+  for (let j = i + 1; j < byNameSorted.length; j++) {
+    const b = byNameSorted[j];
+    if (a.n.length === b.n.length) continue;
+    if (b.n.startsWith(a.n + ' ')) {
+      const key = a.n;
+      const list = prefixGroups.get(key) || [a.e];
+      if (!list.includes(b.e)) list.push(b.e);
+      prefixGroups.set(key, list);
+    }
+  }
+}
+for (const [key, list] of prefixGroups) {
+  if (list.length < 2) continue;
+  if (list.every((e) => seenAsAlreadyGrouped.has(e.id))) continue;
+  addGroup('prefix_descriptor_match', key, list);
   for (const e of list) seenAsAlreadyGrouped.add(e.id);
 }
 
