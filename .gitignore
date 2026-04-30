@@ -15,7 +15,14 @@ content/Vault Maintenance/Pipeline Reports/
 .claude/worktrees/
 .env
 # Bulk CSV downloads (too large for git — processed output goes to data/*.jsonl)
-data/bulk/
+# Pattern: ignore EVERYTHING inside data/bulk/, but re-include the
+# directories themselves and README.md files so contributors know where
+# to drop dumps + what schema to expect. Once a parent is fully excluded,
+# `!` can't reach back in — so we explicitly re-include subdirs first.
+data/bulk/**
+!data/bulk/
+!data/bulk/**/
+!data/bulk/**/README.md
 
 ops/.next/
 ops/.env.local

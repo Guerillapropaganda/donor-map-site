@@ -81,6 +81,7 @@ const NAV_GROUPS: NavGroup[] = [
     items: [
       { href: "/sources", label: "Source Registry", icon: "globe" },
       { href: "/urls", label: "URL Manager", icon: "globe" },
+      { href: "/races/ca-gov-2026", label: "CA Governor 2026", icon: "user" },
       { href: "/tips", label: "Public Tips", icon: "mail", badgeKey: "tips" },
       { href: "/notes", label: "Notes & Queues", icon: "clipboard", badgeKey: "notes" },
       { href: "/calendar", label: "Calendar", icon: "calendar" },
@@ -93,8 +94,13 @@ const NAV_GROUPS: NavGroup[] = [
     label: "Reference",
     items: [
       { href: "/rules", label: "Rulebook", icon: "target" },
-      { href: "/account", label: "Account", icon: "user" },
-      { href: "/pricing", label: "Pricing", icon: "dollar" },
+      // /account + /pricing hidden until Phase 2.5 setup is complete.
+      // Pages still work if you visit by URL, but exposing them in the
+      // sidebar would let visitors click into a paid-tier flow that
+      // errors out (Stripe + Clerk paid tiers not wired). Per Rule 12,
+      // launch is free-tier only.
+      // { href: "/account", label: "Account", icon: "user" },
+      // { href: "/pricing", label: "Pricing", icon: "dollar" },
     ],
   },
 ]
