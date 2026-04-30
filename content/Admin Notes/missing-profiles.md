@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: open
-last-updated: '2026-04-29'
+last-updated: '2026-04-30'
 generated-by: scripts/missing-profile-detector.cjs
 ---
 

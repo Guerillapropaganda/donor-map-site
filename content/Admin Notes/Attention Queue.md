@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**34** blocking · **53** editorial decisions · **1070** background cleanup
+**33** blocking · **53** editorial decisions · **1069** background cleanup
 
 ---
 
@@ -290,30 +290,21 @@ Ready profile contains 28 em dashes in body, avg sentence length 19 words (targe
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### vault-audit: dispatcher-alive — 1 finding
-
-Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.
-
-- **Where:** `/system-health`
-- **Cost:** ~5 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `vault-audit`
-
-### vault-audit: calibration-drift — 1 finding
-
-Semantic regression detector. Loads data/calibration-fixture.jsonl (curated top-N facts: 'Pfizer top-15 must include Clyburn, McCarthy, Hoyer') and verifies the current data/relationships-per-profile.json artifact still satisfies them. Fires within the dispatcher cycle when any fixture's must_include names drop out of the actual top-N. Catches the structural class of bug behind the 2026-04-28 casc
-
-- **Where:** `/system-health`
-- **Cost:** ~5 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `vault-audit`
-
 ### vault-audit: editorial-decision-provenance — 556 findings
 
 ADR-0029 Rule 16 enforcement. Verifies every editorial-decision record in non-candidate state has decided_by + decided_at provenance, and that auto_revert_eligible is consistent with decided_by. Without provenance the weekly sample-audit cant tell what Claude did vs David did, and the safety net degrades silently. Hard-fails: missing decided_by, invalid decided_by, missing decided_at, inconsistent
 
 - **Where:** `/system-health`
 - **Cost:** ~5 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `vault-audit`
+
+### vault-audit: harness-self-audit — 3 findings
+
+Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 1 unscheduled-builder, 1 stalled-producer, 1 block-name-drift
+
+- **Where:** `/system-health`
+- **Cost:** ~15 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `vault-audit`
 
@@ -2125,15 +2116,6 @@ Mechanical promotion draft → ready blocked by: noConnections. Adding the missi
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `mechanical-readiness-stuck`
 
-### Gabe Evans: one gap away from ready (noConnections)
-
-Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
-
-- **Where:** `content/Politicians/Republicans/House/Gabe Evans/_Gabe Evans Master Profile.md`
-- **Cost:** ~5 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `mechanical-readiness-stuck`
-
 ### Erin Houchin: one gap away from ready (noConnections)
 
 Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
@@ -3435,15 +3417,6 @@ Mechanical promotion draft → ready blocked by: noConnections. Adding the missi
 Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
 
 - **Where:** `content/Politicians/Democrats/House/Mark Pocan/_Mark Pocan Master Profile.md`
-- **Cost:** ~5 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `mechanical-readiness-stuck`
-
-### Mark DeSaulnier: one gap away from ready (noConnections)
-
-Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
-
-- **Where:** `content/Politicians/Democrats/House/Mark DeSaulnier/_Mark DeSaulnier Master Profile.md`
 - **Cost:** ~5 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `mechanical-readiness-stuck`
@@ -6504,15 +6477,6 @@ Mechanical promotion draft → ready blocked by: noConnections. Adding the missi
 Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
 
 - **Where:** `content/Donors & Power Networks/Gig Economy/Flex Association.md`
-- **Cost:** ~5 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `mechanical-readiness-stuck`
-
-### Ford Motor Company: one gap away from ready (noConnections)
-
-Mechanical promotion draft → ready blocked by: noConnections. Adding the missing piece auto-promotes on next pipeline run.
-
-- **Where:** `content/Donors & Power Networks/Gig Economy/Ford Motor Company.md`
 - **Cost:** ~5 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `mechanical-readiness-stuck`
@@ -9595,9 +9559,18 @@ Referenced by 88 other vault profiles but has no file yet. Building a stub unloc
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### vault-audit: story-pages-integrity — 25 findings
+### vault-audit: leftover-artifacts — 46 findings
 
-Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings. — 25 integrity issue(s): 0 broken-ref, 1 stale, 24 duplicate
+Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 46 transient file(s) not gitignored (dedup backups, temp files, stray logs)
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `vault-audit`
+
+### vault-audit: story-pages-integrity — 30 findings
+
+Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings. — 30 integrity issue(s): 0 broken-ref, 1 stale, 29 duplicate
 
 - **Where:** `/system-health`
 - **Cost:** ~5 min
@@ -10072,6 +10045,15 @@ Mechanical data-complete promotion blocked by: typeReqs:donors-mapped, blocked:N
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `data-complete-stuck`
 
+### VIGOP: 2 gaps from publishing (typeReqs:contribution-amounts, noConnections)
+
+Mechanical data-complete promotion blocked by: typeReqs:contribution-amounts, noConnections. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
+
+- **Where:** `content/Donors & Power Networks/Super PACs/VIGOP.md`
+- **Cost:** ~5 min
+- **Leverage:** ★★☆☆☆
+- **Surfaced by:** `data-complete-stuck`
+
 ### Lennar Corporation: 2 gaps from publishing (typeReqs:contracts, blocked:NEEDS-REVIEW)
 
 Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS-REVIEW. Closing the gap surfaces this profile in /audit-claude-decisions for David's approve click.
@@ -10434,7 +10416,7 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 
 ### vault-audit: pipeline-janitor — 250 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3281 profiles. 250 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3291 profiles. 250 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min
