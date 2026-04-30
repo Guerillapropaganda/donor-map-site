@@ -311,6 +311,43 @@ export interface InfluenceMapOpts {
   top_donors_per_cluster?: number
 }
 
+// ─── influencePipelines (ADR-0024 Phase 3 thesis query) ──────────────────
+
+export interface InfluencePipelinesOpts {
+  status?: EdgeStatus | "all"
+  min_confidence?: number
+  edge_types?: EdgeType[]
+  /** How far to fan out from seed. Default 2. Capped at 4. */
+  max_hops?: number
+  /** Cap on returned pipelines (ranked by weight desc). Default 25. */
+  limit?: number
+  /** Only return pipelines whose terminal node type is one of these.
+   *  Useful for "donor → politician → bill" pipelines. Default: any type. */
+  terminal_types?: NodeType[]
+  /** Cap per-hop frontier to keep hub seeds from exploding. Default 50000. */
+  frontier_cap?: number
+}
+
+export interface InfluencePipeline {
+  /** Always the seed node id. */
+  from_id: NodeId
+  /** Terminal node id — last hop of this pipeline. */
+  to_id: NodeId
+  hops: number
+  /** Sum of per-edge weight along the chain (amount when present, else confidence). */
+  weight: number
+  edges: Edge[]
+  /** Node ids visited in order: [seed, ..., terminal]. */
+  nodes: NodeId[]
+}
+
+export interface InfluencePipelinesResult {
+  seed: Node
+  pipelines: InfluencePipeline[]
+  /** True when the cap was hit and additional pipelines were truncated. */
+  truncated: boolean
+}
+
 export interface InfluenceMapResult {
   politician: Node
   /** Same shape as classProfile — donor clusters by capital_type and ideological_function. */

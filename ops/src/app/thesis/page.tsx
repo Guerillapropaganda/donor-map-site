@@ -19,7 +19,7 @@
 import { useCallback, useState } from "react"
 import { PageHeader } from "@/components/PageHeader"
 
-type Tab = "influence" | "class" | "bothsides"
+type Tab = "influence" | "class" | "bothsides" | "pipelines" | "divergence"
 
 export default function ThesisPage() {
   const [tab, setTab] = useState<Tab>("influence")
@@ -28,16 +28,20 @@ export default function ThesisPage() {
     <div style={{ padding: "1rem 1.5rem", maxWidth: 1100 }}>
       <PageHeader title="Thesis Queries" subtitle="ADR-0024 Phase 3 — donor-class influence patterns from the librarian" />
 
-      <div role="tablist" style={{ display: "flex", gap: 4, marginTop: 16, borderBottom: "1px solid var(--color-border)" }}>
+      <div role="tablist" style={{ display: "flex", gap: 4, marginTop: 16, borderBottom: "1px solid var(--color-border)", flexWrap: "wrap" }}>
         <TabButton active={tab === "influence"} onClick={() => setTab("influence")}>Influence Map</TabButton>
         <TabButton active={tab === "class"} onClick={() => setTab("class")}>Class Profile</TabButton>
         <TabButton active={tab === "bothsides"} onClick={() => setTab("bothsides")}>Both-Sides Donors</TabButton>
+        <TabButton active={tab === "pipelines"} onClick={() => setTab("pipelines")}>Influence Pipelines</TabButton>
+        <TabButton active={tab === "divergence"} onClick={() => setTab("divergence")}>Voting Divergence</TabButton>
       </div>
 
       <div style={{ marginTop: 24 }}>
         {tab === "influence" && <InfluenceMapPanel />}
         {tab === "class" && <ClassProfilePanel />}
         {tab === "bothsides" && <BothSidesPanel />}
+        {tab === "pipelines" && <PipelinesPanel />}
+        {tab === "divergence" && <DivergencePanel />}
       </div>
     </div>
   )
@@ -317,6 +321,238 @@ function BothSidesPanel() {
           </table>
         </div>
       )}
+    </div>
+  )
+}
+
+// ─── Influence Pipelines ─────────────────────────────────────────────────
+
+interface PipelineEdge {
+  id: string
+  type: string
+  amount: number | null
+  source: string
+}
+interface Pipeline {
+  from_id: string
+  to_id: string
+  hops: number
+  weight: number
+  edges: PipelineEdge[]
+  nodes: string[]
+}
+interface PipelinesResult {
+  seed: Node
+  pipelines: Pipeline[]
+  truncated: boolean
+}
+
+function PipelinesPanel() {
+  const [seed, setSeed] = useState("")
+  const [maxHops, setMaxHops] = useState(2)
+  const [terminalTypes, setTerminalTypes] = useState("")
+  const [data, setData] = useState<PipelinesResult | null>(null)
+  const [err, setErr] = useState<string | null>(null)
+  const [loading, setLoading] = useState(false)
+
+  const run = useCallback(async () => {
+    if (!seed.trim()) return
+    setLoading(true); setErr(null); setData(null)
+    try {
+      const params = new URLSearchParams({ seed: seed.trim(), max_hops: String(maxHops), limit: "25" })
+      if (terminalTypes.trim()) params.set("terminal_types", terminalTypes.trim())
+      const r = await fetch(`/api/thesis/influence-pipelines?${params}`)
+      const j = await r.json()
+      if (!r.ok || j.error) { setErr(j.error || `HTTP ${r.status}`); return }
+      setData(j.result)
+    } catch (e) { setErr(String(e)) } finally { setLoading(false) }
+  }, [seed, maxHops, terminalTypes])
+
+  return (
+    <div>
+      <div style={{ display: "flex", gap: 12, alignItems: "flex-end", flexWrap: "wrap" }}>
+        <label style={{ display: "flex", flexDirection: "column", fontSize: 11, color: "var(--color-text-dim)", letterSpacing: 0.5, textTransform: "uppercase", flex: 1, minWidth: 240 }}>
+          Seed (donor / PAC / politician)
+          <input
+            type="text"
+            placeholder="e.g. Fairshake PAC"
+            value={seed}
+            onChange={(e) => setSeed(e.target.value)}
+            onKeyDown={(e) => e.key === "Enter" && run()}
+            style={{ marginTop: 4, padding: "8px 12px", fontSize: 14, background: "var(--color-bg)", color: "var(--color-text)", border: "1px solid var(--color-border)" }}
+          />
+        </label>
+        <NumberInput label="Max hops (1–4)" value={maxHops} onChange={(n) => setMaxHops(Math.min(4, Math.max(1, n)))} />
+        <label style={{ display: "flex", flexDirection: "column", fontSize: 11, color: "var(--color-text-dim)", letterSpacing: 0.5, textTransform: "uppercase", minWidth: 180 }}>
+          Terminal types (csv, optional)
+          <input
+            type="text"
+            placeholder="politician,bill"
+            value={terminalTypes}
+            onChange={(e) => setTerminalTypes(e.target.value)}
+            style={{ marginTop: 4, padding: "8px 12px", fontSize: 14, background: "var(--color-bg)", color: "var(--color-text)", border: "1px solid var(--color-border)" }}
+          />
+        </label>
+        <button onClick={run} disabled={loading || !seed.trim()} style={btnStyle}>
+          {loading ? "Running..." : "Run"}
+        </button>
+      </div>
+      <div style={{ fontSize: 11, color: "var(--color-text-dim)", marginTop: 12 }}>
+        Per-terminal dedup keeps the highest-weight path to each reachable node. Capped at 25 results, ranked by weight (sum of $ + confidence along the chain).
+      </div>
+      {err && <ErrorBox msg={err} />}
+      {data && (
+        <div>
+          <h3 style={{ fontSize: 18, marginTop: 24 }}>{data.seed.name}</h3>
+          <div style={{ fontSize: 13, color: "var(--color-text-dim)", marginBottom: 16 }}>
+            {data.pipelines.length} pipeline(s) {data.truncated && <span style={{ color: "#f59e0b" }}>(truncated)</span>}
+          </div>
+          <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 13 }}>
+            <thead>
+              <tr style={{ borderBottom: "1px solid var(--color-border)", color: "var(--color-text-dim)", fontSize: 11 }}>
+                <th style={{ textAlign: "left", padding: "6px 8px" }}>Terminal</th>
+                <th style={{ textAlign: "right", padding: "6px 8px" }}>Hops</th>
+                <th style={{ textAlign: "right", padding: "6px 8px" }}>Weight</th>
+                <th style={{ textAlign: "left", padding: "6px 8px" }}>Edge types</th>
+              </tr>
+            </thead>
+            <tbody>
+              {data.pipelines.map((p, i) => (
+                <tr key={i} style={{ borderBottom: "1px solid var(--color-border)" }}>
+                  <td style={{ padding: "8px", fontWeight: 500, fontFamily: "monospace", fontSize: 12 }}>{p.to_id}</td>
+                  <td style={{ padding: "8px", textAlign: "right" }}>{p.hops}</td>
+                  <td style={{ padding: "8px", textAlign: "right", fontFamily: "monospace" }}>{fmtMoney(p.weight)}</td>
+                  <td style={{ padding: "8px", color: "var(--color-text-dim)", fontSize: 12 }}>
+                    {p.edges.map((e) => e.type).join(" → ")}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+  )
+}
+
+// ─── Voting Divergence ───────────────────────────────────────────────────
+
+interface DivergentVote {
+  vote_id: string
+  position: string
+  party_majority: string
+  party_yea: number
+  party_nay: number
+}
+interface VotingDivergenceResult {
+  bioguide: string
+  votes_participated: number
+  votes_diverged: number
+  divergence_rate: number
+  top_divergent: DivergentVote[]
+  congresses: number[]
+  missing_congresses: number[]
+}
+
+function DivergencePanel() {
+  const [name, setName] = useState("")
+  const [congresses, setCongresses] = useState("113,114")
+  const [data, setData] = useState<{ politician: { name: string; bioguide: string }; result: VotingDivergenceResult } | null>(null)
+  const [err, setErr] = useState<string | null>(null)
+  const [loading, setLoading] = useState(false)
+
+  const run = useCallback(async () => {
+    if (!name.trim()) return
+    setLoading(true); setErr(null); setData(null)
+    try {
+      const params = new URLSearchParams({ politician: name.trim() })
+      if (congresses.trim()) params.set("congresses", congresses.trim())
+      const r = await fetch(`/api/thesis/voting-divergence?${params}`)
+      const j = await r.json()
+      if (!r.ok || j.error) { setErr(j.error || `HTTP ${r.status}`); return }
+      setData({ politician: j.politician, result: j.result })
+    } catch (e) { setErr(String(e)) } finally { setLoading(false) }
+  }, [name, congresses])
+
+  return (
+    <div>
+      <div style={{ display: "flex", gap: 12, alignItems: "flex-end", flexWrap: "wrap" }}>
+        <label style={{ display: "flex", flexDirection: "column", fontSize: 11, color: "var(--color-text-dim)", letterSpacing: 0.5, textTransform: "uppercase", flex: 1, minWidth: 240 }}>
+          Politician
+          <input
+            type="text"
+            placeholder="e.g. Joe Manchin"
+            value={name}
+            onChange={(e) => setName(e.target.value)}
+            onKeyDown={(e) => e.key === "Enter" && run()}
+            style={{ marginTop: 4, padding: "8px 12px", fontSize: 14, background: "var(--color-bg)", color: "var(--color-text)", border: "1px solid var(--color-border)" }}
+          />
+        </label>
+        <label style={{ display: "flex", flexDirection: "column", fontSize: 11, color: "var(--color-text-dim)", letterSpacing: 0.5, textTransform: "uppercase", minWidth: 160 }}>
+          Congresses (csv)
+          <input
+            type="text"
+            placeholder="113,114"
+            value={congresses}
+            onChange={(e) => setCongresses(e.target.value)}
+            style={{ marginTop: 4, padding: "8px 12px", fontSize: 14, background: "var(--color-bg)", color: "var(--color-text)", border: "1px solid var(--color-border)" }}
+          />
+        </label>
+        <button onClick={run} disabled={loading || !name.trim()} style={btnStyle}>
+          {loading ? "Running..." : "Run"}
+        </button>
+      </div>
+      <div style={{ fontSize: 11, color: "var(--color-text-dim)", marginTop: 12 }}>
+        Compares legislator's votes vs same-party majority on every roll call. Voteview data covers congresses 108-114 currently. Independents return 0% divergence by construction (party of one).
+      </div>
+      {err && <ErrorBox msg={err} />}
+      {data && (
+        <div>
+          <h3 style={{ fontSize: 18, marginTop: 24 }}>{data.politician.name} <span style={{ fontSize: 12, color: "var(--color-text-dim)", fontFamily: "monospace" }}>{data.politician.bioguide}</span></h3>
+          {data.result.missing_congresses.length > 0 && (
+            <div style={{ fontSize: 12, color: "#f59e0b", marginBottom: 8 }}>
+              Missing position files for congress(es): {data.result.missing_congresses.join(", ")}
+            </div>
+          )}
+          <div style={{ display: "flex", gap: 24, marginBottom: 20, flexWrap: "wrap" }}>
+            <Stat label="Votes participated" value={data.result.votes_participated.toLocaleString()} />
+            <Stat label="Diverged from party" value={data.result.votes_diverged.toLocaleString()} />
+            <Stat label="Divergence rate" value={`${(data.result.divergence_rate * 100).toFixed(1)}%`} highlight={data.result.divergence_rate > 0.15 ? "#f59e0b" : undefined} />
+          </div>
+          <h4 style={{ fontSize: 13, letterSpacing: 0.5, textTransform: "uppercase", color: "var(--color-text-dim)", marginBottom: 8 }}>Top divergent votes (most lopsided party-line)</h4>
+          <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 13 }}>
+            <thead>
+              <tr style={{ borderBottom: "1px solid var(--color-border)", color: "var(--color-text-dim)", fontSize: 11 }}>
+                <th style={{ textAlign: "left", padding: "6px 8px" }}>Vote</th>
+                <th style={{ textAlign: "left", padding: "6px 8px" }}>Position</th>
+                <th style={{ textAlign: "left", padding: "6px 8px" }}>Party majority</th>
+                <th style={{ textAlign: "right", padding: "6px 8px" }}>Same-party tally</th>
+              </tr>
+            </thead>
+            <tbody>
+              {data.result.top_divergent.map((v) => (
+                <tr key={v.vote_id} style={{ borderBottom: "1px solid var(--color-border)" }}>
+                  <td style={{ padding: "8px", fontFamily: "monospace", fontSize: 12 }}>{v.vote_id}</td>
+                  <td style={{ padding: "8px" }}>{v.position}</td>
+                  <td style={{ padding: "8px" }}>{v.party_majority}</td>
+                  <td style={{ padding: "8px", textAlign: "right", fontFamily: "monospace", color: "var(--color-text-dim)" }}>
+                    {v.party_yea} Yea / {v.party_nay} Nay
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      )}
+    </div>
+  )
+}
+
+function Stat({ label, value, highlight }: { label: string; value: string; highlight?: string }) {
+  return (
+    <div style={{ padding: 12, background: "var(--color-bg-elevated)", border: `1px solid ${highlight ?? "var(--color-border)"}`, minWidth: 140 }}>
+      <div style={{ fontSize: 11, color: "var(--color-text-dim)", letterSpacing: 0.5, textTransform: "uppercase" }}>{label}</div>
+      <div style={{ fontSize: 22, fontWeight: 600, marginTop: 4, color: highlight ?? "var(--color-text)", fontFamily: "monospace" }}>{value}</div>
     </div>
   )
 }
