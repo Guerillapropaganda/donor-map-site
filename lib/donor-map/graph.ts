@@ -38,7 +38,6 @@ import type {
   PolicyAreaStats,
   PoliticianContradictionsOpts,
   PoliticianContradictionsResult,
-  ContradictionVote,
   NeighborsOpts,
   Node,
   NodeId,
