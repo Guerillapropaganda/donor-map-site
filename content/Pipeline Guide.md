@@ -149,7 +149,14 @@ node --max-old-space-size=4096 scripts/ingest-cal-access-bulk.cjs   # for real
 
 **Skipped:**
 - Frontmatter cache rebuild (`rebuild-relationship-caches.cjs`) was NOT run for cal-access edges. Reason: a full rebuild bloated Villaraigosa's profile frontmatter to 473KB (~24k unique donor wikilinks), and the `donors` field was never designed for that scale. The `/races/ca-gov-2026` ops page reads the canonical store via the librarian instead — no frontmatter dependency. If a future change wants per-donor wikilinks on the candidate profile, do it via auto-blocks in the body, not frontmatter.
-- Phase 3 of the pipeline plan (EXPN_CD expenditures) is deferred. Receipts only for now.
+
+**Phase 3 (shipped 2026-04-30):** EXPN_CD + LOAN_CD + F501/502 ingest via `scripts/ingest-cal-access-bulk-phase3.cjs --mode {expn|loans|orgs}`. Same helpers + override map.
+- **EXPN_CD (15.2M rows / 2.95GB)**: 6,133 edges via `cal-access-expn` source. Surfaces "where the money goes" — vendor payments, ad consultants, TV stations, digital platforms. Edge role from EXPN_CODE category (independent-expenditure, consultant, vendor-payment, tv-advertising, etc).
+- **LOAN_CD (96k rows / 18MB)**: 8 valid edges via `cal-access-loans` source (3 self-loops rejected). Edge role=loan. Surfaced Stephen Hilton's $300k loan to Steve Hilton's campaign and Global Medical Response's $1M loan to the Swalwell IE PAC.
+- **F501/F502 (21k rows / 4.7MB)**: 0 useful edges. F501 has FIN_NAML treasurer field but it's empty for our 35 matched committees. **Treasurer / financial controller data lives in CVR_CAMPAIGN_DISCLOSURE_CD instead** — that's the per-filing cover page, populated on every actual filing rather than just the Statement of Organization. Future work item: add a `--mode treasurers` that streams CVR_CAMPAIGN_DISCLOSURE_CD.
+- F495P2: skipped. Just summary metadata (election date + total contribib amount). Actual late-contrib donors live in regular RCPT_CD records cohort-tagged by FILING_ID, already ingested.
+
+**Auto-block panel (`scripts/build-cal-access-panels.cjs`)** now includes EXPN section ("Where the money goes") with top-15 payees + by-category breakdown, and a Loans section. Re-run with `--write` after each Phase 3 ingest.
 
 ---
 

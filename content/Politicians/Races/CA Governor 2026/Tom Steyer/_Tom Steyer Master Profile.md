@@ -154,6 +154,39 @@ opposes: "[[Donald Trump]]"
 | Pg&e Corporation | $8.00M |
 | International Brotherhood OF Electrical Workers, Afl-cio Local Union No. 1245 | $50.0K |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $50.69M across 44 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| California IS NOT FOR Sale, NO ON Steyer FOR Governor 2026, A Coalition OF Housing Advocates, Labor AND Small Business | $16.00M | vendor-payment, contribution-out | 2 |
+| Tom Steyer | $13.89M | independent-expenditure | 1 |
+| Polaris Campaigns, Inc. | $13.78M | independent-expenditure | 1 |
+| Ampersand | $1.42M | independent-expenditure | 1 |
+| The Trade Desk | $1.29M | independent-expenditure | 1 |
+| Google Ads | $446.4K | independent-expenditure | 1 |
+| KABC | $405.2K | independent-expenditure | 1 |
+| KCBS | $284.2K | independent-expenditure | 1 |
+| KNBC | $272.3K | independent-expenditure | 1 |
+| KTLA | $250.8K | independent-expenditure | 1 |
+| KTVU | $243.1K | independent-expenditure | 1 |
+| KCRA | $238.6K | independent-expenditure | 1 |
+| KGO | $203.4K | independent-expenditure | 1 |
+| KPIX | $180.2K | independent-expenditure | 1 |
+| KNTV | $174.8K | independent-expenditure | 1 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| independent-expenditure | $34.68M |
+| vendor-payment | $8.00M |
+| contribution-out | $8.00M |
+| professional | $10.4K |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485077](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485077). Refresh: download fresh dump, run discovery + ingest.*

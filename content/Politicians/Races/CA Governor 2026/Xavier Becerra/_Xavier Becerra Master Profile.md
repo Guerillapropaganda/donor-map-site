@@ -178,6 +178,47 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 | Geralynn Kohake | $786 |
 | Jason Linnen | $761 |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $74.0K across 39 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Erin Cruz | $21.0K | staff-travel, candidate-travel | 2 |
+| Staples | $7.5K | literature, office-expense | 2 |
+| Ronin Consultants, Llc | $5.8K | professional | 1 |
+| Ran Action Fund | $5.1K | civic-donation | 1 |
+| Dri Printing | $4.9K | literature | 1 |
+| Internal Revenue Service | $3.8K | vendor-payment | 1 |
+| Tina Karadimas | $3.0K | consultant | 1 |
+| Aero Mail | $2.5K | office-expense, postage | 2 |
+| Revv Stripe | $2.4K | vendor-payment | 1 |
+| PrintRunner | $2.3K | literature | 1 |
+| Flysigns Aerial Advertising | $1.9K | print-ads | 1 |
+| Us Postal Service | $1.7K | postage | 1 |
+| Office Depot | $1.4K | literature | 1 |
+| Ehmig And Associates | $1.4K | professional | 1 |
+| Office Max | $1.2K | literature | 1 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| staff-travel | $19.7K |
+| literature | $17.4K |
+| professional | $7.9K |
+| vendor-payment | $7.1K |
+| civic-donation | $5.1K |
+| postage | $5.1K |
+| consultant | $3.0K |
+| office-expense | $2.1K |
+| print-ads | $2.1K |
+| web-ads | $2.0K |
+| candidate-travel | $1.4K |
+| meetings | $981 |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1394091](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1394091) · [1482190](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1482190) · [1219963](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1219963). Refresh: download fresh dump, run discovery + ingest.*

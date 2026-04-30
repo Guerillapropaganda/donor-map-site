@@ -227,6 +227,19 @@ const SOURCES = [
   // Donors are raw contributor records with no vault profile by
   // construction (same pattern as fec-indiv-by-committee).
   'cal-access-bulk',
+  // Cal-Access EXPN_CD: committee → vendor monetary edges (where the
+  // money goes). Salaries, consultants, ad buys, vendor payments. Edge
+  // role encodes EXPN_CODE category. Ingested via
+  // ingest-cal-access-bulk-phase3.cjs --mode expn.
+  'cal-access-expn',
+  // Cal-Access LOAN_CD: lender → committee monetary edges (loans to the
+  // committee, including candidate self-funding via loans). Role=loan.
+  // Ingested via ingest-cal-access-bulk-phase3.cjs --mode loans.
+  'cal-access-loans',
+  // Cal-Access F501/F502: Statement of Organization — committee
+  // metadata. Treasurer / principal-officer affiliation edges.
+  // Ingested via ingest-cal-access-bulk-phase3.cjs --mode orgs.
+  'cal-access-orgs',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];
@@ -273,6 +286,15 @@ const MIGRATION_SOURCES = new Set([
   // persons + small orgs that don't have vault profiles. Same exemption
   // as fec-indiv-by-committee: skip the from-side profile-existence check.
   'cal-access-bulk',
+  // Cal-Access expenditures — payees are vendors / consultants / staff
+  // who don't have vault profiles by construction.
+  'cal-access-expn',
+  // Cal-Access loans — lenders are banks / individuals / candidates
+  // self-loaning, frequently no vault profile.
+  'cal-access-loans',
+  // Cal-Access committee org records — treasurer / officer names are
+  // raw CA SoS filings, no vault profiles by default.
+  'cal-access-orgs',
 ]);
 
 // ─── Title normalization ──────────────────────────────────────────────

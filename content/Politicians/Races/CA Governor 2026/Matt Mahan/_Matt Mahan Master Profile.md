@@ -123,6 +123,47 @@ opposes: "[[Donald Trump]]"
 | Eugene Frantz | $100.0K |
 | TED Schlein | $90.0K |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $45.65M across 158 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Thematic Campaigns | $10.34M | independent-expenditure | 1 |
+| MATT Mahan (i/e) | $9.52M | independent-expenditure | 2 |
+| Causal | $4.80M | vendor-payment | 1 |
+| Viewpoint Media LLC | $4.03M | tv-advertising, vendor-payment | 3 |
+| Thematic Campaigns LLC | $2.67M | vendor-payment, independent-expenditure | 2 |
+| KNBC | $1.89M | tv-advertising | 2 |
+| Kabc-tv | $1.43M | tv-advertising | 2 |
+| Yahoo AD TECH LLC | $1.33M | web-ads | 1 |
+| Kcbs-tv | $1.00M | tv-advertising | 2 |
+| Storefront Political Media | $964.4K | staff-travel, fundraising-event, web-ads | 8 |
+| KTLA | $593.8K | tv-advertising | 1 |
+| Kcra-tv | $585.1K | tv-advertising | 2 |
+| Ryegrass LLC | $526.4K | web-ads | 1 |
+| Dv360 | $465.6K | web-ads | 1 |
+| Knsd-tv | $429.8K | tv-advertising | 2 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| independent-expenditure | $22.55M |
+| vendor-payment | $9.67M |
+| tv-advertising | $8.25M |
+| web-ads | $4.09M |
+| consultant | $726.6K |
+| professional | $173.3K |
+| polling | $91.8K |
+| fundraising-event | $70.0K |
+| office-expense | $13.0K |
+| campaign-paraphernalia | $8.1K |
+| staff-travel | $2.9K |
+| candidate-travel | $2.5K |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1473129](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1473129) · [1417738](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1417738) · [1462165](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1462165). Refresh: download fresh dump, run discovery + ingest.*

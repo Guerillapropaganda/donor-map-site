@@ -52,6 +52,9 @@ export interface GraphStats {
  */
 const PERMISSIVE_EDGE_SOURCES = new Set<string>([
   "cal-access-bulk",
+  "cal-access-expn",
+  "cal-access-loans",
+  "cal-access-orgs",
   "fec-indiv-by-committee",
   "fec-oth-transfers",
   "irs-pofd-8872",

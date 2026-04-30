@@ -87,6 +87,64 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 | Joyce Chernick | $39.2K | 2026 | 1 |
 | _+14964 more donors_ | _$6.65M_ | | |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $8.93M across 552 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Rockwell Solutions | $1.92M | literature | 1 |
+| Convergence Media LLC | $1.16M | consultant, vendor-payment | 2 |
+| USPO | $612.3K | postage | 1 |
+| USPS | $377.5K | postage, literature | 2 |
+| Pluvious Group LLC | $220.7K | fundraising-event, vendor-payment, consultant | 3 |
+| The KAL Group Inc. | $215.4K | vendor-payment, postage, professional | 3 |
+| Targeted Victory | $206.2K | vendor-payment | 1 |
+| Bespeak Network LLC | $200.0K | consultant | 1 |
+| Liquid Consulting LLC | $190.8K | consultant, vendor-payment | 2 |
+| Code 4 Media Group Inc. | $190.6K | campaign-paraphernalia, meetings | 2 |
+| Matthew Ciepielowski | $186.3K | consultant, vendor-payment | 2 |
+| American Express | $181.9K | fundraising-event, vendor-payment | 2 |
+| Axiom Strategies | $179.5K | literature, consultant, vendor-payment | 3 |
+| Chase Card Services | $177.1K | vendor-payment | 1 |
+| Flo Communications | $131.6K | consultant, web-ads, campaign-paraphernalia | 4 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| vendor-payment | $2.54M |
+| literature | $1.96M |
+| consultant | $1.49M |
+| postage | $988.3K |
+| campaign-paraphernalia | $447.1K |
+| fundraising-event | $291.0K |
+| meetings | $234.5K |
+| staff-salary | $224.6K |
+| office-expense | $178.9K |
+| staff-travel | $138.2K |
+| professional | $114.7K |
+| web-ads | $85.6K |
+| candidate-travel | $75.5K |
+| returned-contribution | $61.8K |
+| polling | $55.8K |
+| contribution-out | $22.4K |
+| tv-advertising | $14.8K |
+| fundraising | $4.9K |
+| radio-airtime | $2.4K |
+| civic-donation | $1.0K |
+| print-ads | $500 |
+
+#### Loans to candidate / committees (Cal-Access)
+
+**Total loans:** $300.0K across 1 record(s).
+
+| Lender | Recipient | Amount | Cycle |
+|---|---|---:|---|
+| Stephen Hilton | Steve Hilton | $300.0K | 2026 |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1480425](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480425). Refresh: download fresh dump, run discovery + ingest.*

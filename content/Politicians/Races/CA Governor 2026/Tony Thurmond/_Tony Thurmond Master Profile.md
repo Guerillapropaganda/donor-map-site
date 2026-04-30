@@ -157,6 +157,68 @@ opposes: "[[Donald Trump]]"
 |---|---:|
 | Sharon Wooden | $500 |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $92.70M across 1624 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Greenstripe Media, Inc. | $15.54M | independent-expenditure | 2 |
+| Tony Thurmond (I) | $15.30M | independent-expenditure | 2 |
+| Sadler Strategic Media, Inc. | $8.43M | tv-advertising | 2 |
+| Re-Elect Tony Thurmond for Superintendent of Public Instruction 2022 | $4.94M | independent-expenditure | 1 |
+| Kpix-tv | $2.32M | independent-expenditure, tv-advertising | 3 |
+| Tony Thurmond for Superintendent of Public Instruction 2018 | $2.14M | vendor-payment, candidate-travel, transfer | 3 |
+| Adlink Los Angeles | $1.76M | independent-expenditure | 1 |
+| Kgo-tv | $1.64M | tv-advertising, independent-expenditure | 3 |
+| Kabc-tv | $1.56M | independent-expenditure | 1 |
+| Spectrum Los Angeles | $1.53M | independent-expenditure | 1 |
+| Tony Thurmond for Assembly 2018 | $1.42M | vendor-payment, transfer, web-ads | 6 |
+| California Democratic Party | $1.41M | contribution-out, vendor-payment, meetings | 23 |
+| Annie Eagan Consulting | $1.33M | fundraising-event, vendor-payment, postage | 19 |
+| SCN Strategies, Inc. | $1.29M | campaign-paraphernalia, meetings, vendor-payment | 7 |
+| Evolve Media | $1.23M | independent-expenditure | 1 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| independent-expenditure | $57.05M |
+| tv-advertising | $16.87M |
+| vendor-payment | $7.06M |
+| fundraising-event | $2.01M |
+| transfer | $1.78M |
+| consultant | $1.67M |
+| professional | $1.33M |
+| contribution-out | $1.27M |
+| staff-salary | $755.0K |
+| candidate-travel | $466.9K |
+| web-ads | $453.6K |
+| campaign-paraphernalia | $436.3K |
+| polling | $422.7K |
+| literature | $336.8K |
+| meetings | $312.2K |
+| postage | $120.4K |
+| fundraising | $118.9K |
+| staff-travel | $71.2K |
+| radio-airtime | $50.6K |
+| civic-donation | $40.9K |
+| office-expense | $38.3K |
+| phone-banks | $27.6K |
+| print-ads | $8.0K |
+
+#### Loans to candidate / committees (Cal-Access)
+
+**Total loans:** $16.6K across 3 record(s).
+
+| Lender | Recipient | Amount | Cycle |
+|---|---|---:|---|
+| S.E. Owens & Company | Tony Thurmond | $15.0K | 2018 |
+| Sharon Wooden | THURMOND FOR SUPERINTENDENT 2018; CLERGY FOR BETTER EDUCATION SUPPORTING | $1.5K | 2018 |
+| Storefront Political Media | Tony Thurmond | $100 | 2014 |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1268709](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1268709) · [1318438](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1318438) · [1461509](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1461509). Refresh: download fresh dump, run discovery + ingest.*

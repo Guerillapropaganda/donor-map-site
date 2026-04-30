@@ -124,6 +124,56 @@ opposes: "[[Donald Trump]]"
 | Geralynn Kohake | $786 |
 | Jason Linnen | $761 |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $16.68M across 1415 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Betty Yee for Treasurer 2022 | $1.04M | transfer | 1 |
+| Betty Yee for Treasurer 2026 | $988.5K | transfer | 1 |
+| BaughmanMerrill | $925.2K | tv-advertising, web-ads, vendor-payment | 7 |
+| U.S. Postmaster (N) | $730.5K | postage | 1 |
+| BullsEye Marketing | $671.4K | literature | 1 |
+| Betty Yee for Governor 2026 | $644.0K | vendor-payment, transfer | 2 |
+| California Democratic Party | $603.5K | vendor-payment, contribution-out, civic-donation | 27 |
+| DirecTV | $579.5K | tv-advertising | 1 |
+| Milner Butcher Media Group LLC | $507.1K | tv-advertising | 1 |
+| WestWest Digital | $504.0K | web-ads | 4 |
+| Daily Consulting LLC | $437.7K | consultant, fundraising-event | 8 |
+| The California Group | $306.0K | consultant, fundraising-event, postage | 5 |
+| Betty Yee for Controller 2014 | $275.0K | transfer | 1 |
+| Betty Yee 2010 | $267.6K | transfer | 1 |
+| COPS Voter Guide | $255.0K | literature | 1 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| transfer | $2.90M |
+| consultant | $2.70M |
+| literature | $2.46M |
+| tv-advertising | $2.32M |
+| vendor-payment | $1.63M |
+| web-ads | $1.17M |
+| contribution-out | $818.9K |
+| postage | $817.7K |
+| professional | $502.3K |
+| civic-donation | $348.5K |
+| polling | $218.5K |
+| print-ads | $181.5K |
+| fundraising-event | $151.0K |
+| office-expense | $148.6K |
+| fundraising | $93.1K |
+| candidate-travel | $80.3K |
+| returned-contribution | $43.9K |
+| campaign-paraphernalia | $39.8K |
+| staff-travel | $35.3K |
+| radio-airtime | $28.0K |
+| meetings | $1.6K |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1273115](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1273115) · [1335071](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1335071) · [1465732](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1465732). Refresh: download fresh dump, run discovery + ingest.*
