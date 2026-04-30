@@ -39,6 +39,40 @@ export interface GraphStats {
   files_read: string[]
 }
 
+/**
+ * Edge sources where unresolved endpoints get auto-stubbed instead of
+ * dropped. Mirrors MIGRATION_SOURCES in scripts/lib/relationship-edge-
+ * validator.cjs. The from-side is typically a raw donor/contributor name
+ * with no vault profile.
+ *
+ * Adding a source here means its edges become queryable via aggregate /
+ * neighbors / paths even when the counterparty has no vault entity.
+ * Donor-name stubs participate in graph queries but don't have profiles
+ * to render — they're terminal leaves in the donor → recipient graph.
+ */
+const PERMISSIVE_EDGE_SOURCES = new Set<string>([
+  "cal-access-bulk",
+  "fec-indiv-by-committee",
+  "fec-oth-transfers",
+  "irs-pofd-8872",
+  "icij-offshore-leaks",
+])
+
+/**
+ * Normalize an edge endpoint's `from_type` / `to_type` to a stub NodeType.
+ * Tolerant: unknown or empty type collapses to "donor" since 100% of the
+ * cal-access-bulk donors are individual contributors or org-form donors.
+ */
+function normalizeStubType(rawType: string | undefined | null): "donor" | "politician" | "entity" | "unknown" {
+  switch ((rawType ?? "").toLowerCase()) {
+    case "politician": return "politician"
+    case "entity":
+    case "corporation":
+    case "donor": return "donor"
+    default: return "donor"
+  }
+}
+
 export class Graph {
   readonly resolver: Resolver
   /** All edges, post-resolution. Indexed by id below. */
@@ -467,8 +501,29 @@ export class Graph {
 
   private indexEdges(rawEdges: RawEdge[]): void {
     for (const raw of rawEdges) {
-      const fromNode = this.resolver.tryResolve({ kind: "name", value: raw.from })
-      const toNode = this.resolver.tryResolve({ kind: "name", value: raw.to })
+      let fromNode = this.resolver.tryResolve({ kind: "name", value: raw.from })
+      let toNode = this.resolver.tryResolve({ kind: "name", value: raw.to })
+
+      // Permissive sources: edges legitimately reference raw names with
+      // no vault profile (Cal-Access RCPT donors, FEC indiv-by-committee
+      // contributors). Mint name-only stubs rather than dropping the edge.
+      // Without this, ~99% of cal-access-bulk edges silently disappear
+      // from query results because the donor side never resolves.
+      if (PERMISSIVE_EDGE_SOURCES.has(raw.source ?? "")) {
+        if (!fromNode && raw.from) {
+          fromNode = this.resolver.findOrCreateNameStub(
+            raw.from,
+            normalizeStubType(raw.from_type),
+          )
+        }
+        if (!toNode && raw.to) {
+          toNode = this.resolver.findOrCreateNameStub(
+            raw.to,
+            normalizeStubType(raw.to_type),
+          )
+        }
+      }
+
       if (!fromNode && !toNode) {
         this.unresolved_edges.push({ edge: raw, missing: "both" })
         continue
