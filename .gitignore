@@ -16,13 +16,20 @@ content/Vault Maintenance/Pipeline Reports/
 .env
 # Bulk CSV downloads (too large for git — processed output goes to data/*.jsonl)
 # Pattern: ignore EVERYTHING inside data/bulk/, but re-include the
-# directories themselves and README.md files so contributors know where
-# to drop dumps + what schema to expect. Once a parent is fully excluded,
-# `!` can't reach back in — so we explicitly re-include subdirs first.
+# directories themselves, README.md files, and any explicitly-tracked
+# research subdirs (small curated CSVs we want preserved in version
+# history — distinct from raw multi-hundred-MB bulk dumps).
+# Once a parent is fully excluded, `!` can't reach back in — so we
+# explicitly re-include subdirs first, then the specific files.
 data/bulk/**
 !data/bulk/
 !data/bulk/**/
 !data/bulk/**/README.md
+# Research subdirs — small curated source files (CSVs, markdown reports)
+# that we want preserved across machines + in version history. Each
+# subdir is named with the source + date (e.g. perplexity-2026-04-29).
+!data/bulk/**/perplexity-*/**
+!data/bulk/**/research-*/**
 
 ops/.next/
 ops/.env.local

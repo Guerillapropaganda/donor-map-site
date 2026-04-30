@@ -5,16 +5,36 @@ at `data/bulk/` already excludes everything here from git — these files
 are typically multi-hundred-MB and processed output goes to
 `data/derived/cal-access-*.jsonl` instead.
 
-## Source
+## Source — exact download links
 
-Cal-Access bulk archive (California Secretary of State):
-**https://cal-access.sos.ca.gov/Campaign/Other/Search.aspx?session=2025**
+**Direct bulk ZIP (the file you actually want):**
+**https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip**
 
-Or the direct dump page:
-**https://www.sos.ca.gov/campaign-lobbying/cal-access-resources/raw-data-campaign-finance-and-lobbying-activity**
+That's the single file. ~500MB unzipped, contains every TSV table in the
+Cal-Access raw export. Updated daily by the CA Secretary of State.
 
-The bulk file is a single zipped archive (~200-500MB) containing several
-DBF + TSV tables. The tables we care about for the donor-map:
+`curl` it:
+```bash
+curl -o calaccess.zip https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip
+unzip calaccess.zip -d data/bulk/california/dbwebexport-$(date +%Y-%m-%d)/
+```
+
+**Documentation pages:**
+- Bulk data landing page: **https://www.sos.ca.gov/campaign-lobbying/cal-access-resources/raw-data-campaign-finance-and-lobbying-activity**
+- Schema docs (table layouts): **https://www.sos.ca.gov/campaign-lobbying/cal-access-resources/raw-data-campaign-finance-and-lobbying-activity** (PDF link near bottom)
+- Field definitions: **https://www.sos.ca.gov/sites/default/files/2024-04/calaccess-codebook.pdf**
+
+**If the SoS direct download is unstable, the California Civic Data
+Coalition mirrors and parses it:**
+- GitHub: **https://github.com/california-civic-data-coalition/django-calaccess-raw-data**
+- Tooling auto-downloads from the same source URL above and emits cleaned
+  CSVs. Useful as a reference if you want to see what others do with the
+  data.
+
+## What's in the dump
+
+The bulk file is a single zipped archive (~500MB unzipped) containing
+several DBF + TSV tables. The tables we care about for the donor-map:
 
 | Table | What it is |
 |-------|------------|
