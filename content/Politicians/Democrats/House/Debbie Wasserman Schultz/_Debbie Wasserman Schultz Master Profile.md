@@ -55,6 +55,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
 opposes: "[[Donald Trump]]"
+fec-committee-id: C00385773
 ---
 
 

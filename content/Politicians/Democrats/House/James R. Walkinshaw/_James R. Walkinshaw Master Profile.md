@@ -38,6 +38,7 @@ top-donors: "[[Donald S. Beyer]], [[Gerry Connolly]], [[J Street]], [[Protect Pr
 internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-id: C00904367
 ---
 
 

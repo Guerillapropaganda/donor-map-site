@@ -25,6 +25,10 @@ individual-contributions: 29199
 last-enriched: 2026-04-21
 source-types:
   - FEC
+fec-committee-ids:
+  - C00589747
+  - C00668905
+  - C00928028
 ---
 
 

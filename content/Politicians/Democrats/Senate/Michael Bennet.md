@@ -44,6 +44,10 @@ known-gaps:
   - No voting record data
 total-raised: $7.5M
 career-total-source: FEC weball summary (cycles 2020, 2022)
+fec-committee-ids:
+  - C00458398
+  - C00475210
+  - C00462473
 ---
 
 

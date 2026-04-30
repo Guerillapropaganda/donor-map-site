@@ -32,6 +32,9 @@ committees:
   - House Committee on Ways and Means
   - Trade
 top-donors: "[[National Right to Life Victory Fund]], [[NRA Political Victory Fund]], [[Gilead Sciences]], [[AbbVie]], [[Southern Company]], [[Amgen Inc]], [[Steve Scalise]], [[Gregory F. Murphy]], [[Leidos]], [[ANNA PAULINA LUNA FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[Pfizer Inc.]], [[Nucor Corporation]], [[Occidental Petroleum]], [[JIM JORDAN FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ADRIAN SMITH FOR CONGRESS]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[National Restaurant Association]], [[AIPAC - American Israel Public Affairs Committee]], [[American Iron and Steel Institute]], [[KAY GRANGER CAMPAIGN FUND]], [[Brett Guthrie]], [[VERN BUCHANAN FOR CONGRESS]], [[Humana]], [[NICOLE FOR NEW YORK]], [[Akin Gump Strauss Hauer & Feld]], [[FRIENDS OF MATT GAETZ]], [[Steve Womack]], [[Koch Industries]], [[Tzedek PAC]], [[Google - Alphabet]], [[ANDY HARRIS FOR CONGRESS]], [[Defending Main Street Superpac INC]], [[Donald Trump]], [[TEXANS FOR JODEY ARRINGTON]], [[BLAKE MOORE FOR CONGRESS]], [[National Association of Manufacturers]], [[AUGUST PFLUGER FOR CONGRESS]], [[Campaign for Working Families]], [[Williams Companies]], [[Rick Crawford]], [[Republican Jewish Coalition]], [[JOE WILSON FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Blue Shield of California]], [[Winning for Women PAC]], [[Jim Jordan]], [[Jason Smith]], [[Adrian Smith]], [[Nicole Malliotakis]], [[Vern Buchanan]], [[Matt Gaetz]], [[Kay Granger]], [[August Pfluger]], [[Jodey Arrington]], [[Andy Harris]], [[Joe Wilson]], [[Anna Paulina Luna]], [[Blake D. Moore]]"
+fec-committee-ids:
+  - C00333187
+  - C00653220
 ---
 
 

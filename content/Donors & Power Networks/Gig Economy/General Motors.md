@@ -65,6 +65,7 @@ federal-grants-total: -266986
 employee-contributions: 322474
 employee-contributions-total: 12192316
 employee-donor-count: 31124
+fec-committee-id: C00076810
 ---
 
 

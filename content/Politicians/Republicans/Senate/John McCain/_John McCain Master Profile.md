@@ -25,6 +25,30 @@ cash-on-hand: "192781.00"
 fec-cycle: 1984
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+fec-committee-ids:
+  - C00342154
+  - C00280438
+  - C00171389
+  - C00346148
+  - C00341891
+  - C00430470
+  - C00446104
+  - C00453928
+  - C00540310
+  - C00448498
+  - C00458802
+  - C00453738
+  - C00453951
+  - C00448985
+  - C00448860
+  - C00453878
+  - C00448878
+  - C00446708
+  - C00446682
+  - C00449777
+  - C00623207
+  - C00594465
+  - C00608497
 ---
 
 

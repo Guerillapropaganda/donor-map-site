@@ -28,6 +28,7 @@ total-spent: $155,222
 cash-on-hand: "0.00"
 fec-cycle: 2018
 opposes: "[[Donald Trump]]"
+fec-committee-id: C00409409
 ---
 
 

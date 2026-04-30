@@ -34,6 +34,7 @@ committees:
   - House Committee on the Judiciary
   - Immigration Integrity, Security, and Enforcement
   - The Administrative State, Regulatory Reform, and Antitrust
+fec-committee-id: C00578302
 ---
 
 

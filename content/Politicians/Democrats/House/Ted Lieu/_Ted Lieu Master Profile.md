@@ -35,6 +35,7 @@ committees:
   - House Committee on the Judiciary
 total-raised: $13.5M
 career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-id: C00556506
 ---
 
 

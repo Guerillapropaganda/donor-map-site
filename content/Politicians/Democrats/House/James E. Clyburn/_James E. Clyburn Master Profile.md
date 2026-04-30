@@ -32,6 +32,9 @@ committees:
   - House Committee on Appropriations
   - Interior, Environment, and Related Agencies
   - Transportation, Housing and Urban Development, and Related Agencies
+fec-committee-ids:
+  - C00255562
+  - C00335992
 ---
 
 

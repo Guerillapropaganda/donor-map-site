@@ -35,6 +35,9 @@ committees:
   - House Committee on Foreign Affairs
   - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
   - National Security, Illicit Finance, and International Financial Institutions
+fec-committee-ids:
+  - C00467571
+  - C00546382
 ---
 
 

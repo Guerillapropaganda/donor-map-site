@@ -15,6 +15,18 @@ donors: "[[CA Farm Bureau Federation]], [[Democratic Senatorial Campaign Committ
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 corroboration-count: 2
+bioguide-id: K000075
+fec-committee-ids:
+  - C00414995
+  - C00444216
+  - C00352732
+  - C00417998
+  - C00470724
+  - C00221028
+  - C00270231
+  - C00286260
+  - C00326710
+  - C00323493
 ---
 
 

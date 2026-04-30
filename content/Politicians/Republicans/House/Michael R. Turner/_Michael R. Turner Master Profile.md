@@ -34,6 +34,10 @@ committees:
   - Strategic Forces
   - Tactical Air and Land Forces
 top-donors: "[[GARY PALMER FOR CONGRESS]], [[Bechtel Corporation]], [[Leidos]], [[National Restaurant Association]], [[MBNA Corporation]], [[Palantir Technologies]], [[Glenn Thompson]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Associated General Contractors of America Political Action Committee]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[AFL-CIO]], [[Steve Scalise]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[National Right to Life PAC]], [[CLAUDIA TENNEY FOR CONGRESS]], [[John R. Carter]], [[Jim Banks]], [[JASON SMITH FOR CONGRESS]], [[Paul Ryan]], [[American College of Radiology Association PAC]], [[JIM JORDAN FOR CONGRESS]], [[KAY GRANGER CAMPAIGN FUND]], [[Pete Sessions]], [[National Right to Life Victory Fund]], [[National Education Association]], [[Gun Owners of America]], [[MIKE ROGERS FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Humana]], [[TEXANS FOR JODEY ARRINGTON]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Kevin McCarthy]], [[Kay Granger]], [[Gary J. Palmer]], [[Jim Jordan]], [[Jodey Arrington]], [[Mike Rogers]], [[Jason Smith]], [[Brian Babin]]"
+fec-committee-ids:
+  - C00373001
+  - C00436626
+  - C00561738
 ---
 
 

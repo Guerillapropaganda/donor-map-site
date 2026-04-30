@@ -42,6 +42,7 @@ committees:
   - Nutrition and Foreign Agriculture
   - Readiness
   - Rules and Organization of the House
+fec-committee-id: C00482737
 ---
 
 

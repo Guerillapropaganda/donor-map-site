@@ -75,6 +75,7 @@ checklist-na:
 employee-contributions: 433
 employee-contributions-total: 145521
 employee-donor-count: 146
+fec-committee-id: C00904854
 ---
 
 

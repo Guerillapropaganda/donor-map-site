@@ -37,6 +37,7 @@ committees:
   - House Committee on Homeland Security
 total-raised: $11.9M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-id: C00719294
 ---
 
 

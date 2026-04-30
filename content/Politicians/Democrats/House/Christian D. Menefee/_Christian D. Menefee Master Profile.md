@@ -33,6 +33,7 @@ internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
   • Congress.gov data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-id: C00899831
 ---
 
 

@@ -67,6 +67,12 @@ committees:
   - Senate Committee on Veterans' Affairs
   - Senate Committee on the Judiciary
   - Taxation and IRS Oversight
+fec-committee-ids:
+  - C00545772
+  - C00572495
+  - C00564633
+  - C00568055
+  - C00701243
 ---
 
 

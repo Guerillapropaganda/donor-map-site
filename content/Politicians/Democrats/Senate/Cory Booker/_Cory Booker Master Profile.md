@@ -85,6 +85,11 @@ committees:
 total-raised: $66.4M
 career-total-source: FEC weball summary (cycles 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00540500
+  - C00695510
+  - C00548586
+  - C00561803
 ---
 
 

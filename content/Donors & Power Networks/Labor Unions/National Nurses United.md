@@ -41,6 +41,9 @@ contributions-to-committees: 103000
 employee-contributions: 2721
 employee-contributions-total: 76463
 employee-donor-count: 264
+fec-committee-ids:
+  - C00446237
+  - C70005376
 ---
 
 

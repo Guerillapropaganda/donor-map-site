@@ -11,6 +11,10 @@ related: "(no donor nodes — small-dollar self-funded campaigns; DNC gatekeepin
 checklist-na:
   - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+fec-committee-ids:
+  - C00550863
+  - C00696054
+  - C00834424
 ---
 
 

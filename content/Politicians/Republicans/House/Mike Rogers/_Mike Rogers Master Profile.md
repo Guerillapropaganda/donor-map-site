@@ -36,6 +36,14 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
 top-policy-area: Health
+fec-committee-ids:
+  - C00367862
+  - C00857243
+  - C00343863
+  - C00401828
+  - C00849810
+  - C00219584
+  - C00610055
 ---
 
 

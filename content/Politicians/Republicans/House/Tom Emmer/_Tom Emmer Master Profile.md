@@ -30,6 +30,10 @@ last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
+fec-committee-ids:
+  - C00545749
+  - C00573444
+  - C00580696
 ---
 
 

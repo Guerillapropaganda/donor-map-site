@@ -36,6 +36,7 @@ committees:
   - Oversight, Investigations, and Accountability
 total-raised: $19.0M
 career-total-source: FEC weball summary (cycles 2022, 2024)
+fec-committee-id: C00798132
 ---
 
 

@@ -42,6 +42,11 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
+fec-committee-ids:
+  - C00541862
+  - C00773796
+  - C00773929
+  - C00573436
 ---
 
 

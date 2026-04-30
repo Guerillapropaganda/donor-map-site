@@ -42,6 +42,9 @@ reenrich-reason: "re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && nod
 internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-ids:
+  - C00791897
+  - C00786194
 ---
 
 

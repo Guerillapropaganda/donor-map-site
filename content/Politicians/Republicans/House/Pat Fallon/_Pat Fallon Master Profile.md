@@ -37,6 +37,7 @@ committees:
   - Military Personnel
   - Open Source Intelligence
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Leidos]], [[TEXANS FOR JODEY ARRINGTON]], [[Elise Stefanik]], [[NRA Political Victory Fund]], [[Brett Guthrie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[JASON SMITH FOR CONGRESS]], [[Koch Industries]], [[GARBARINO FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Jodey Arrington]], [[Jason Smith]], [[Andrew R. Garbarino]]"
+fec-committee-id: C00750307
 ---
 
 

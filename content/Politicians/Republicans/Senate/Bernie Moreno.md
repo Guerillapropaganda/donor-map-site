@@ -22,6 +22,10 @@ needs-reenrichment: false
 last-enriched: "2026-04-18"
 internal-notes: "[RC 2026-04-18] Janitor demotion flag cleared. Moreno's Senate tenure began January 2025 (119th Congress), so voting-record data starts fresh there. All 7 required editorial sections present. Truncated central-thesis rewritten."
 editorial-notes: "[RC 2026-04-18] Reviewed for launch-50 pass. Editorial sections complete. Fixed truncated thesis. Cleared janitor flag."
+fec-committee-ids:
+  - C00837484
+  - C00775585
+  - C00829499
 ---
 
 

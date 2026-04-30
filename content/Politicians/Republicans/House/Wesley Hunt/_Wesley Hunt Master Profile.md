@@ -38,6 +38,10 @@ committees:
   - The Constitution and Limited Government
 total-raised: $2.1M
 career-total-source: FEC weball summary (cycles 2026)
+fec-committee-ids:
+  - C00701003
+  - C00702886
+  - C00798306
 ---
 
 

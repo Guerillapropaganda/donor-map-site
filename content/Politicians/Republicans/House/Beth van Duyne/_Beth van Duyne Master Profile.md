@@ -37,6 +37,9 @@ committees:
   - Tax
   - Trade
   - Work and Welfare
+fec-committee-ids:
+  - C00714865
+  - C00718957
 ---
 
 

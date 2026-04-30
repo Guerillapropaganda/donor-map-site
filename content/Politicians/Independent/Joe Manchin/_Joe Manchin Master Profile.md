@@ -33,6 +33,9 @@ top-policy-area: Health
 last-enriched: 2026-04-20T00:00:00.000Z
 total-raised: $30.9M
 career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024)
+fec-committee-ids:
+  - C00486563
+  - C00667501
 ---
 
 

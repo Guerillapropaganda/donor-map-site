@@ -51,6 +51,7 @@ employee-contributions: 3
 employee-contributions-total: 1551
 employee-donor-count: 2
 politicians-funded: "[[WinRed]], [[_Marco Rubio Master Profile]], [[Marco Rubio]]"
+entity-type: think-tank
 ---
 
 

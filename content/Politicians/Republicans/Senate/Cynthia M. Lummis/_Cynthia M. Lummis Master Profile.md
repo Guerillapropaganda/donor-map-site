@@ -40,6 +40,10 @@ committees:
   - Telecommunications and Media
   - Transportation and Infrastructure
 top-donors: "[[Pfizer Inc.]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[Senate Conservatives Fund]], [[Occidental Petroleum]], [[Gun Owners of America]], [[Senate Majority PAC]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[National Right to Life PAC]], [[American College of Radiology Association PAC]], [[Roger Marshall]], [[COTTON, THOMAS]], [[Southern Company]], [[Amgen Inc]], [[Google - Alphabet]], [[KAY GRANGER CAMPAIGN FUND]], [[ADRIAN SMITH FOR CONGRESS]], [[Tyson Foods]], [[McDonalds Corporation]], [[JASON SMITH FOR CONGRESS]], [[Club for Growth INC PAC]], [[Coinbase]], [[National Republican Senatorial Committee]], [[Common Sense for America PAC]], [[Meta - Facebook]], [[Let Freedom Ring INC]], [[John Boehner]], [[Kay Granger]], [[Adrian Smith]], [[Jason Smith]], [[Tom Cotton]]"
+fec-committee-ids:
+  - C00443580
+  - C00451245
+  - C00705467
 ---
 
 

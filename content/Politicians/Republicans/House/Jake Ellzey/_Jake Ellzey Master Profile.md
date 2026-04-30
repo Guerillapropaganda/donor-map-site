@@ -36,6 +36,9 @@ committees:
   - Interior, Environment, and Related Agencies
   - Labor, Health and Human Services, Education, and Related Agencies
   - Rural Development, Energy, and Supply Chains
+fec-committee-ids:
+  - C00770438
+  - C00662932
 ---
 
 

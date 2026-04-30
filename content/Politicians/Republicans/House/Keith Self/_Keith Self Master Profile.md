@@ -40,6 +40,7 @@ committees:
   - Space and Aeronautics
 total-raised: $572K
 career-total-source: FEC weball summary (cycles 2002, 2026)
+fec-committee-id: C00791293
 ---
 
 

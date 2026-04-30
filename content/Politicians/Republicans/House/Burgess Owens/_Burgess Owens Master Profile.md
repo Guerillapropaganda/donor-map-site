@@ -40,6 +40,9 @@ committees:
   - Railroads, Pipelines, and Hazardous Materials
 total-raised: $11.0M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00702902
+  - C00725853
 ---
 
 

@@ -52,6 +52,7 @@ employee-contributions: 26468
 employee-contributions-total: 10203461
 employee-donor-count: 6059
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-id: C00502906
 ---
 
 

@@ -36,6 +36,9 @@ committees:
   - House Committee on the Judiciary
   - Immigration Integrity, Security, and Enforcement
 top-donors: "[[Powerpacplus]], [[Let America Vote PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Sierra Club Political Committee]], [[NANCY PELOSI FOR CONGRESS]], [[Environment America INC]], [[STANTON FOR CONGRESS]], [[Hakeem Jeffries]], [[JULIA BROWNLEY FOR CONGRESS]], [[AFL-CIO]], [[AIPAC - American Israel Public Affairs Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Giffords PAC]], [[J Street]], [[League of Conservation Voters]], [[Democratic Senatorial Campaign Committee]], [[AbbVie]], [[Pfizer Inc.]], [[Jerry Nadler]], [[AFSCME Working Families Fund]], [[National Education Association]], [[Google - Alphabet]], [[Southern Company]], [[Amgen Inc]], [[DEBBIE WASSERMAN SCHULTZ FOR CONGRESS]], [[ROBERT GARCIA FOR CONGRESS]], [[James E. Clyburn]], [[BILL FOSTER FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[CASTOR FOR CONGRESS]], [[FRIENDS OF MARIA]], [[Nucor Corporation]], [[KAMALA HARRIS FOR SENATE]], [[CVS Health - Aetna]], [[Gilead Sciences]], [[WinSenate]], [[Humane Society Legislative Fund]], [[Rosa DeLauro]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[TED LIEU FOR CONGRESS]], [[Greg Stanton]], [[Donald S. Beyer]], [[Bill Foster]], [[Kathy Castor]], [[Julia Brownley]], [[Robert Garcia]], [[Debbie Wasserman Schultz]], [[Jamie Raskin]], [[Kamala Harris]], [[Nancy Pelosi]], [[Maria Cantwell]], [[Ted Lieu]]"
+fec-committee-ids:
+  - C00589820
+  - C00729277
 ---
 
 

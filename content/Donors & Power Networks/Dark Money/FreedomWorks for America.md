@@ -28,6 +28,11 @@ source-types:
 known-gaps:
   - No lobbying disclosure data
 last-enriched: 2026-04-21T00:00:00.000Z
+fec-committee-ids:
+  - C00353227
+  - C00473827
+  - C00573550
+  - C90014606
 ---
 
 

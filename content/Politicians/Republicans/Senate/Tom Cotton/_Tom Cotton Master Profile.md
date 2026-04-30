@@ -58,6 +58,17 @@ committees:
 internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-ids:
+  - C00499988
+  - C00705939
+  - C00571018
+  - C00553016
+  - C00566083
+  - C00563858
+  - C00695353
+  - C00564641
+  - C00567941
+  - C00568402
 ---
 
 

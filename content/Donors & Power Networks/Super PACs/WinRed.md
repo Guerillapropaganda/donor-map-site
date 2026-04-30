@@ -46,6 +46,10 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
+fec-committee-ids:
+  - C00694323
+  - C00897462
+  - C00936161
 ---
 
 

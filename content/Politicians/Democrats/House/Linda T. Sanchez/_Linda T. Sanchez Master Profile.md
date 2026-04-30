@@ -31,6 +31,9 @@ committees:
   - Health
   - House Committee on Ways and Means
   - Trade
+fec-committee-ids:
+  - C00369363
+  - C00384057
 ---
 
 

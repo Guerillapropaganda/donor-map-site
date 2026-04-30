@@ -37,6 +37,12 @@ bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-20T00:00:00.000Z
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00307710
+  - C00344473
+  - C00355370
+  - C00410480
+  - C00495580
 ---
 
 

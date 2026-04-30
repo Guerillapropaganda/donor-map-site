@@ -27,6 +27,9 @@ urls-first-triaged: "2026-04-15"
 total-raised: $126K
 career-total-source: FEC weball summary (cycles 1994)
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00292326
+  - C00923144
 ---
 
 

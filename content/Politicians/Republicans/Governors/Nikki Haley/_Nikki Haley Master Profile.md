@@ -28,6 +28,7 @@ donors: "[[Americans for Prosperity]] · [[Jan Koum]] · [[AMERICANS FOR PROSPER
 urls-first-triaged: "2026-04-15"
 total-raised: $58.4M
 career-total-source: FEC weball summary (cycles 2024)
+fec-committee-id: C00833392
 ---
 
 

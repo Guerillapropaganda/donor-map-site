@@ -33,6 +33,10 @@ donors: "[[Western Growers Association]] · [[California Farm Bureau Federation]
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-ids:
+  - C00312090
+  - C00458315
+  - C00588780
 ---
 
 

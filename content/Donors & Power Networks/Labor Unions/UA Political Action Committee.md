@@ -27,6 +27,10 @@ last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 opposes: "[[Ashley Hinson]]"
+fec-committee-ids:
+  - C00012476
+  - C00225151
+  - C00331918
 ---
 
 

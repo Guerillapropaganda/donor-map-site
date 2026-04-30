@@ -39,6 +39,7 @@ committees:
   - Western Hemisphere
 total-raised: $13.3M
 career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
+fec-committee-id: C00657304
 ---
 
 

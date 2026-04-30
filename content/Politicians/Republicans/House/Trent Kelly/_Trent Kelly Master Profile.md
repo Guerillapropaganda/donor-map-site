@@ -37,6 +37,7 @@ committees:
   - Livestock, Dairy, and Poultry
   - National Security Agency and Cyber
   - Seapower and Projection Forces
+fec-committee-id: C00573980
 ---
 
 

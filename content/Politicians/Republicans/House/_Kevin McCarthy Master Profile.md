@@ -38,6 +38,12 @@ bills-enacted: 0
 top-policy-area: "Congress"
 total-raised: "$104.0M"
 career-total-source: "FEC weball summary (cycles 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)"
+fec-committee-ids:
+  - C00420935
+  - C00199844
+  - C00541011
+  - C00493908
+  - C00548263
 ---
 
 

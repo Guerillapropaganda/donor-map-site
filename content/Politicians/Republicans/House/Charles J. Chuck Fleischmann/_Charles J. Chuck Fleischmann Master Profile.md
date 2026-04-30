@@ -35,6 +35,7 @@ committees:
   - House Committee on Science, Space, and Technology
   - Labor, Health and Human Services, Education, and Related Agencies
 top-donors: "[[CoreCivic]], [[NRA Political Victory Fund]], [[Steve Scalise]], [[WEBER FOR CONGRESS]], [[Leidos]], [[Tyson Foods]], [[Southern Company]], [[National Cattlemen's Beef Association]], [[Pete Sessions]], [[Bechtel Corporation]], [[Paul Ryan]], [[BYRON DONALDS FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[Associated General Contractors of America Political Action Committee]], [[Koch Industries]], [[AbbVie]], [[Cargill]], [[John Boehner]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[ADM - Archer Daniels Midland]], [[Williams Companies]], [[DANIEL WEBSTER FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[American College of Radiology Association PAC]], [[Occidental Petroleum]], [[ANDY HARRIS FOR CONGRESS]], [[Gus M. Bilirakis]], [[KAY GRANGER CAMPAIGN FUND]], [[Humana]], [[Darin Lahood]], [[National Restaurant Association]], [[American Principles Fund]], [[Pfizer Inc.]], [[JIM JORDAN FOR CONGRESS]], [[MARIO DIAZ-BALART FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[McDonalds Corporation]], [[PETE SESSIONS FOR CONGRESS]], [[Steve Womack]], [[Kevin McCarthy]], [[Donald Trump]], [[David Schweikert]], [[Gun Owners of America]], [[Amgen Inc]], [[Jodey Arrington]], [[Byron Donalds]], [[Mario Diaz-Balart]], [[Kay Granger]], [[Andy Harris]], [[Daniel Webster]], [[Randy K. Weber]], [[Jim Jordan]]"
+fec-committee-id: C00461822
 ---
 
 

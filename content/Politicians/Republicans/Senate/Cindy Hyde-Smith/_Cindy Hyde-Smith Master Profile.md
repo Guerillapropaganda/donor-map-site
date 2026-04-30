@@ -50,6 +50,9 @@ committees:
   - Transportation, Housing and Urban Development, and Related Agencies
 total-raised: $14.0M
 career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00675348
+  - C00705731
 ---
 
 

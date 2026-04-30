@@ -55,6 +55,7 @@ total-raised: 30826906
 total-spent: 6896440
 cash-on-hand: 27890932
 independent-expenditures: 2882480
+fec-committee-id: C00687103
 ---
 
 

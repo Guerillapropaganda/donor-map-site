@@ -35,6 +35,10 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
 bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
+fec-committee-ids:
+  - C00498907
+  - C00522771
+  - C00527424
 ---
 
 

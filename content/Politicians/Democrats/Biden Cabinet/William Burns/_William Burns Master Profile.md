@@ -16,6 +16,9 @@ source-types:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 top-donors: "[[Eric Swalwell]], [[SCHMITT FOR SENATE]], [[ANDRE CARSON FOR CONGRESS]], [[Joe Manchin]], [[Paul Ryan]], [[Janice D. Schakowsky]], [[Barack Obama]], [[DAVID SCOTT FOR CONGRESS]], [[David Schweikert]], [[BIGGS FOR CONGRESS]], [[Melissa Bean]], [[ILHAN FOR CONGRESS]], [[COMMITTEE TO ELECT JARED GOLDEN]], [[JAMIE RASKIN FOR CONGRESS]], [[Tulsi Gabbard]], [[James E. Clyburn]], [[Jack Bergman]], [[Martin Heinrich]]"
+fec-committee-ids:
+  - C00495218
+  - C00437830
 ---
 
 

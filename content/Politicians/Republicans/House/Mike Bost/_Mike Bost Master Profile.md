@@ -29,6 +29,7 @@ bills-cosponsored: 354
 bills-enacted: 0
 top-policy-area: Armed Forces and National Security
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-id: C00546499
 ---
 
 

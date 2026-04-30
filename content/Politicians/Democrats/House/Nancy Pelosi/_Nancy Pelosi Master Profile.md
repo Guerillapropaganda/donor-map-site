@@ -85,6 +85,11 @@ bills-cosponsored: 5074
 bills-enacted: 0
 bills-data-scope: Career total via Congress.gov API (1987–2025). The 118th-only bulk ingest previously clobbered these numbers with 2/95 — sync'd back from the auto:congress-legislation block 2026-04-17.
 top-policy-area: Government Operations and Politics
+fec-committee-ids:
+  - C00213512
+  - C00492421
+  - C00376400
+  - C00410100
 ---
 
 

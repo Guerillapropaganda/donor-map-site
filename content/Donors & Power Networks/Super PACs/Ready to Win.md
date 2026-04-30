@@ -23,6 +23,7 @@ total-political-spend: $3.2M
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024
 source-types:
   - FEC
+fec-committee-id: C00815928
 ---
 
 

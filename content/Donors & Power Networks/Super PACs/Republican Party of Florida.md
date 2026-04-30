@@ -29,6 +29,11 @@ employee-donor-count: 14
 source-types:
   - FEC
 last-enriched: 2026-04-21T00:00:00.000Z
+fec-committee-ids:
+  - C00099259
+  - C00431643
+  - C00528935
+  - C00623710
 ---
 
 

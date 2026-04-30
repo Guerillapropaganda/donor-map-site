@@ -36,6 +36,11 @@ committees:
   - Oversight
   - Railroads, Pipelines, and Hazardous Materials
   - The Administrative State, Regulatory Reform, and Antitrust
+fec-committee-ids:
+  - C00418293
+  - C00440495
+  - C00484303
+  - C00472001
 ---
 
 

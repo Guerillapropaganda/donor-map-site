@@ -54,6 +54,9 @@ bills-sponsored: 50
 bills-cosponsored: 555
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00919183
+  - C00369710
 ---
 
 

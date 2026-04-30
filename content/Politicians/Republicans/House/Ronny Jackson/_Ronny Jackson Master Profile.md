@@ -44,6 +44,7 @@ committees:
   - Seapower and Projection Forces
 total-raised: $16.7M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-id: C00730531
 ---
 
 

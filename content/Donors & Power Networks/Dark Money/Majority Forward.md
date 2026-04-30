@@ -35,6 +35,9 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-political-spend: $201.8M
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2021, 2022, 2023
+fec-committee-ids:
+  - C90016098
+  - C30002802
 ---
 
 

@@ -36,6 +36,10 @@ bills-enacted: 0
 top-policy-area: International Affairs
 total-raised: $20.0M
 career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00390724
+  - C00451385
+  - C00577973
 ---
 
 

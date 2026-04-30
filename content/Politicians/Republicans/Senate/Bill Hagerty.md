@@ -29,6 +29,7 @@ donors: "[[Winning Right PAC]], [[SENATE CONSERVATIVES FUND]], [[Standing With C
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-id: C00718627
 ---
 
 

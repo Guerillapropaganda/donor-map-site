@@ -39,6 +39,7 @@ committees:
   - The Administrative State, Regulatory Reform, and Antitrust
 total-raised: $6.0M
 career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
+fec-committee-id: C00662601
 ---
 
 

@@ -38,6 +38,9 @@ top-policy-area: International Affairs
 last-enriched: 2026-04-21T00:00:00.000Z
 total-raised: $28.7M
 career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00579896
+  - C00632257
 ---
 
 

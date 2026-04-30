@@ -38,6 +38,7 @@ known-gaps:
   - No lobbying disclosure data
 total-political-spend: $32K
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022, 2024
+fec-committee-id: C00420695
 ---
 
 

@@ -46,6 +46,11 @@ committees:
   - Nutrition and Foreign Agriculture
 total-raised: $17.3M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00765719
+  - C00723072
+  - C00775858
+  - C00773325
 ---
 
 

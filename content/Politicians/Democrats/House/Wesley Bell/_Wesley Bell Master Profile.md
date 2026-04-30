@@ -46,6 +46,7 @@ committees:
 total-raised: $7.3M
 career-total-source: FEC weball summary (cycles 2024, 2026)
 opposes: "[[Cori Bush]], [[Donald Trump]]"
+fec-committee-id: C00842336
 ---
 
 

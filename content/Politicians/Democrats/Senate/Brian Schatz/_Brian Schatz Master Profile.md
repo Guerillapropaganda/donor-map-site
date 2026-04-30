@@ -46,6 +46,11 @@ bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00420463
+  - C00540732
+  - C00558148
+  - C00568873
 ---
 
 

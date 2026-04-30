@@ -39,6 +39,7 @@ committees:
   - Innovation, Entrepreneurship, and Workforce Development
 total-raised: $6.6M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-id: C00791392
 ---
 
 

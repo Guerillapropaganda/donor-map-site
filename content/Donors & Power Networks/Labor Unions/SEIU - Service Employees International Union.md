@@ -40,6 +40,11 @@ source-types:
   - FEC
 known-gaps:
   - "No lobbying disclosure data"
+fec-committee-ids:
+  - C00148098
+  - C30001036
+  - C70003124
+  - C90012105
 ---
 
 

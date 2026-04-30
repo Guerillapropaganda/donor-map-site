@@ -37,6 +37,9 @@ committees:
   - Trade
 total-raised: $7.3M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00717959
+  - C00702688
 ---
 
 

@@ -31,6 +31,11 @@ committees:
   - Africa
   - House Committee on Foreign Affairs
   - Western Hemisphere
+fec-committee-ids:
+  - C00442632
+  - C00657601
+  - C00713784
+  - C00096412
 ---
 
 

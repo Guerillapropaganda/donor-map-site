@@ -31,6 +31,9 @@ total-raised: 85000
 total-spent: 53596
 cash-on-hand: 46130
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00745869
+  - C00711614
 ---
 
 

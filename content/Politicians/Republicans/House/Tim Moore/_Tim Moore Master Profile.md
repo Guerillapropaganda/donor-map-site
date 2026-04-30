@@ -36,6 +36,9 @@ committees:
 total-raised: $3.8M
 career-total-source: FEC weball summary (cycles 2024, 2026)
 bills-sponsored: 22
+fec-committee-ids:
+  - C00856005
+  - C00577023
 ---
 
 

@@ -26,6 +26,10 @@ known-gaps:
   - No mapped relationships
 related: "[[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_JD Vance Master Profile]] · [[Securus Technologies - Aventiv]] · [[The Anti-Donor Model - Two Presidential Campaigns]]"
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-ids:
+  - C00497396
+  - C00693713
+  - C00555078
 ---
 
 

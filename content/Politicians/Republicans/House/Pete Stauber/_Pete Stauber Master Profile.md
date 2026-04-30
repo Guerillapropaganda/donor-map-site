@@ -41,6 +41,7 @@ committees:
   - Rural Development, Energy, and Supply Chains
 total-raised: $10.6M
 career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
+fec-committee-id: C00650697
 ---
 
 

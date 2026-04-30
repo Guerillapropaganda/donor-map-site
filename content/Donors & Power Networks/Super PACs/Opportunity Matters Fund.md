@@ -25,6 +25,7 @@ politicians-funded: "[[Eric Schmitt]], [[Monica de la Cruz]], [[John James]], [[
 last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
+fec-committee-id: C00750182
 ---
 
 

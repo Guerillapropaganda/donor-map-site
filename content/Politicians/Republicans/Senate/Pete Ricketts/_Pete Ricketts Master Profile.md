@@ -47,6 +47,9 @@ committees:
   - Transportation and Infrastructure
 total-raised: $24.1M
 career-total-source: FEC weball summary (cycles 2006, 2008, 2024, 2026)
+fec-committee-ids:
+  - C00832436
+  - C00414375
 ---
 
 

@@ -40,6 +40,7 @@ committees:
   - Senate Select Committee on Intelligence
   - Strategic Forces
 top-donors: "[[Meta - Facebook]], [[National Restaurant Association]], [[Giffords PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[McDonalds Corporation]], [[Sierra Club Political Committee]], [[Palantir Technologies]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[WARREN FOR SENATE, INC.]], [[National Wildlife Federation Action Fund]], [[AbbVie]], [[Southern Company]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Planned Parenthood Action Fund INC]], [[Akin Gump Strauss Hauer & Feld]], [[Leidos]], [[Sierra Club Independent Action]], [[Let America Vote PAC]], [[J Street]], [[Google - Alphabet]], [[Humana]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[DoorDash]]"
+fec-committee-id: C00516047
 ---
 
 

@@ -47,6 +47,7 @@ known-gaps:
   - No SEC corporate filings
 total-political-spend: $943K
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026
+fec-committee-id: C00382150
 ---
 
 

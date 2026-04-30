@@ -39,6 +39,9 @@ committees:
   - Military and Foreign Affairs
 total-raised: $4.5M
 career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00367763
+  - C00655332
 ---
 
 

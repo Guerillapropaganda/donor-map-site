@@ -33,6 +33,12 @@ bioguide-id: B000589
 govtrack-id: 400036
 bills-sponsored: 130
 bills-cosponsored: 1725
+fec-committee-ids:
+  - C00237198
+  - C00544049
+  - C00478354
+  - C00495291
+  - C00492355
 ---
 
 

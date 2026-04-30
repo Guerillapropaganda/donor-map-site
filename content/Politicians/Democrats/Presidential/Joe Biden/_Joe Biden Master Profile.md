@@ -40,6 +40,10 @@ corroboration-count: 2
 known-gaps:
   - No FEC contribution data
   - No voting record data
+fec-committee-ids:
+  - C00213652
+  - C00334037
+  - C00431916
 ---
 
 

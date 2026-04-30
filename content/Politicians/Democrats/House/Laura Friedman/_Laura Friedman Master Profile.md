@@ -39,6 +39,9 @@ committees:
   - Water Resources and Environment
 bills-sponsored: 10
 corroboration-count: 3
+fec-committee-ids:
+  - C00831321
+  - C00900936
 ---
 
 

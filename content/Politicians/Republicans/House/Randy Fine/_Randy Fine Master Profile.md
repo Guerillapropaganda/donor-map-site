@@ -37,6 +37,7 @@ total-raised: $3.7M
 career-total-source: FEC weball summary (cycles 2026)
 bills-sponsored: 24
 corroboration-count: 3
+fec-committee-id: C00893271
 ---
 
 

@@ -36,6 +36,7 @@ committees:
   - Tax
   - Work and Welfare
 top-donors: "[[ADM - Archer Daniels Midland]], [[Darin Lahood]], [[Cargill]], [[NRA Political Victory Fund]], [[JASON SMITH FOR CONGRESS]], [[Steve Scalise]], [[American Gaming Association]], [[Gilead Sciences]], [[Campaign for Working Families]], [[DAVID ROUZER FOR CONGRESS]], [[Google - Alphabet]], [[ADRIAN SMITH FOR CONGRESS]], [[Tyson Foods]], [[National Cattlemen's Beef Association]], [[AbbVie]], [[AFL-CIO]], [[Humana]], [[Republican Jewish Coalition]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Pfizer Inc.]], [[James R. Baird]], [[Amgen Inc]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[American College of Radiology Association PAC]], [[Koch Industries]], [[National Restaurant Association]], [[Mariannette Miller-Meeks]], [[Carol D. Miller]], [[TEXANS FOR JODEY ARRINGTON]], [[CVS Health - Aetna]], [[Coinbase]], [[BYRON DONALDS FOR CONGRESS]], [[American Future Fund Political Action]], [[National Association of Manufacturers]], [[Leidos]], [[National Right to Life Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[KAT FOR CONGRESS]], [[Jason Smith]], [[David Rouzer]], [[Byron Donalds]], [[Adrian Smith]], [[Kat Cammack]], [[Charles J. Chuck Fleischmann]], [[Jim Jordan]], [[Jodey Arrington]], [[MARK ALFORD FOR CONGRESS, INC.]]"
+fec-committee-id: C00693663
 ---
 
 

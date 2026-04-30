@@ -38,6 +38,7 @@ cash-on-hand: "5170262.53"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 donors: "[[Winning for Women PAC]] · [[Senate Leadership Fund]]"
+fec-committee-id: C00706267
 ---
 
 

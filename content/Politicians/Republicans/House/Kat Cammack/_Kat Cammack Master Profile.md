@@ -38,6 +38,7 @@ committees:
   - House Committee on Energy and Commerce
 total-raised: $7.6M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-id: C00730895
 ---
 
 

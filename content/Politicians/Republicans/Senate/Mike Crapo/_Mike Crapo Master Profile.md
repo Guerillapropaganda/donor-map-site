@@ -32,6 +32,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-ids:
+  - C00254094
+  - C00330886
+  - C00614529
+  - C00461152
 ---
 
 

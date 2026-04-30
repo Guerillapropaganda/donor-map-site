@@ -56,6 +56,11 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 top-policy-area: Health
 total-raised: $102.6M
 career-total-source: FEC weball summary (cycles 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00500843
+  - C00693234
+  - C00526533
+  - C00512269
 ---
 
 

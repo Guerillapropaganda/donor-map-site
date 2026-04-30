@@ -40,6 +40,7 @@ donors: "[[American Petroleum Institute]] · [[Western Growers Association]] · 
 bills-enacted: 1
 top-policy-area: Health
 opposes: "[[Donald Trump]]"
+fec-committee-id: C00371302
 ---
 
 

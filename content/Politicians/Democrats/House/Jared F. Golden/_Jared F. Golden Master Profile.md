@@ -35,6 +35,7 @@ committees:
   - Intelligence and Special Operations
   - Seapower and Projection Forces
   - Water, Wildlife and Fisheries
+fec-committee-id: C00653816
 ---
 
 

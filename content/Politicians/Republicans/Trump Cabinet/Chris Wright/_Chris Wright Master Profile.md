@@ -24,6 +24,10 @@ last-enriched: 2026-04-20
 total-raised: "$11K"
 career-total-source: "FEC weball summary (cycles 2024)"
 corroboration-count: 2
+fec-committee-ids:
+  - C00860445
+  - C00736066
+  - C00266304
 ---
 
 

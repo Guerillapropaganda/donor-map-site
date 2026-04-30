@@ -32,6 +32,10 @@ employee-contributions-total: 36138
 employee-donor-count: 40
 source-types:
   - FEC
+fec-committee-ids:
+  - C00441949
+  - C90014028
+  - C00815753
 ---
 
 

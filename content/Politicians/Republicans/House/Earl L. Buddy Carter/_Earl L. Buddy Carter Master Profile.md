@@ -34,6 +34,7 @@ committees:
   - House Committee on Energy and Commerce
   - House Committee on the Budget
 top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Tyson Foods]], [[American College of Radiology Association PAC]], [[Meta - Facebook]], [[Occidental Petroleum]], [[GEO Group - Private Prison Industrial Complex]], [[NRA Political Victory Fund]], [[Williams Companies]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[National Victory Action Fund]], [[Kevin McCarthy]], [[Gilead Sciences]], [[Steve Scalise]], [[McDonalds Corporation]], [[Pfizer Inc.]], [[Google - Alphabet]], [[Amgen Inc]], [[BEN CLINE FOR CONGRESS, INC.]], [[Brett Guthrie]], [[Tom Emmer]], [[National Restaurant Association]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[JOE WILSON FOR CONGRESS]], [[Koch Industries]], [[Carol D. Miller]], [[JOHN CURTIS FOR UTAH]], [[National Association of Manufacturers]], [[Paul Ryan]], [[Donald Trump]], [[Daniel Meuser]], [[DON BACON FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[TEXANS FOR JODEY ARRINGTON]], [[JIM JORDAN FOR CONGRESS]], [[Tzedek PAC]], [[Freedom's Defense Fund]], [[Mark E. Amodei]], [[David P. Joyce]], [[Southern States Police Benevolent Assoc PAC Fund]], [[ADRIAN SMITH FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Leidos]], [[Jodey Arrington]], [[Joe Wilson]], [[Tim Burchett]], [[Jim Jordan]], [[Jason Smith]], [[Adrian Smith]], [[Don Bacon]], [[John R. Curtis]]"
+fec-committee-id: C00543967
 ---
 
 

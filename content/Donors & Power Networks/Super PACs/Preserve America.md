@@ -40,6 +40,10 @@ source-types:
   - FederalRegister
   - SEC
 corroboration-count: 3
+fec-committee-ids:
+  - C00622027
+  - C00756882
+  - C00878801
 ---
 
 

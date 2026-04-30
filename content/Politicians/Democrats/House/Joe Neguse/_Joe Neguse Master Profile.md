@@ -37,6 +37,7 @@ committees:
   - Legislative and Budget Process
   - The Constitution and Limited Government
   - Water, Wildlife and Fisheries
+fec-committee-id: C00648253
 ---
 
 

@@ -38,6 +38,9 @@ committees:
   - Oversight
 total-raised: $11.1M
 career-total-source: FEC weball summary (cycles 2026)
+fec-committee-ids:
+  - C00795450
+  - C00929901
 ---
 
 

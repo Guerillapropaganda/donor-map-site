@@ -24,6 +24,7 @@ politicians-funded: "[[Nikki Haley]], [[Ron DeSantis]], [[Donald Trump]]"
 last-enriched: 2026-04-21
 source-types:
   - FEC
+fec-committee-id: C00863084
 ---
 
 

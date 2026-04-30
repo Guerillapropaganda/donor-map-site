@@ -34,6 +34,9 @@ donors: "[[JB Pritzker]] · [[David Sacks]] · [[Entertainment and Hollywood Don
 bills-enacted: 3
 top-policy-area: Armed Forces and National Security
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00630426
+  - C00718866
 ---
 
 

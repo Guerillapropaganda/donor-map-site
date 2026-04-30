@@ -43,6 +43,10 @@ federal-contracts: 3
 employee-contributions: 253
 employee-contributions-total: 9939019
 employee-donor-count: 85
+fec-committee-ids:
+  - C70005079
+  - C90021031
+  - C00236489
 ---
 
 

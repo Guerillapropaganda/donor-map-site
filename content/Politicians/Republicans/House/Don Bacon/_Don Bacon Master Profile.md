@@ -35,6 +35,7 @@ committees:
   - House Committee on Armed Services
   - Livestock, Dairy, and Poultry
   - Strategic Forces
+fec-committee-id: C00575167
 ---
 
 

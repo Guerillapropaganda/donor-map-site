@@ -32,6 +32,13 @@ bills-enacted: 3
 top-policy-area: International Affairs
 internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00264564
+  - C00799767
+  - C00479501
+  - C00514570
+  - C00427724
+  - C00420539
 ---
 
 
