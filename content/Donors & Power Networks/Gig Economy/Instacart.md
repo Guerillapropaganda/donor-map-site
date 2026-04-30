@@ -35,23 +35,21 @@ court-jurisdictions:
   - District Court, S.D. New York
   - District Court, S.D. Texas
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 employee-contributions: 1068
 employee-contributions-total: 100215
 employee-donor-count: 153
-politicians-funded: "[[ActBlue]], [[_Jon Ossoff Master Profile]], [[_Alex Padilla Master Profile]], [[_Josh Harder Master Profile]], [[_Josh Riley Master Profile]], [[_Ron Johnson Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[MAGA Inc]], [[The Lincoln Project]], [[Barbara Lee]], [[RNC - Republican National Committee]], [[CHC BOLD PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Virginia Foxx Master Profile]], [[_Kevin Kiley Master Profile]], [[_Ted Cruz Master Profile]], [[Ted Cruz]], [[Josh Harder]], [[Virginia Foxx]], [[Josh Riley]], [[Ron Johnson]], [[Alex Padilla]], [[Kevin Kiley]], [[Jon Ossoff]]"
+politicians-funded: "[[ActBlue]], [[_Jon Ossoff Master Profile]], [[_Alex Padilla Master Profile]], [[_Josh Harder Master Profile]], [[_Josh Riley Master Profile]], [[_Ron Johnson Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[MAGA Inc]], [[The Lincoln Project]], [[Barbara Lee]], [[RNC - Republican National Committee]], [[CHC BOLD PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Virginia Foxx Master Profile]], [[_Kevin Kiley Master Profile]], [[_Ted Cruz Master Profile]], [[Ted Cruz]], [[Josh Harder]], [[Virginia Foxx]], [[Josh Riley]], [[Ron Johnson]], [[Alex Padilla]], [[Kevin Kiley]], [[Jon Ossoff]], [[Tony Thurmond]]"
 source-types:
   - Courts
   - FEC
   - FederalRegister
 corroboration-count: 3
 known-gaps:
-  - "No SEC corporate filings"
-  - "No lobbying disclosure data"
+  - No SEC corporate filings
+  - No lobbying disclosure data
 ---
 
 

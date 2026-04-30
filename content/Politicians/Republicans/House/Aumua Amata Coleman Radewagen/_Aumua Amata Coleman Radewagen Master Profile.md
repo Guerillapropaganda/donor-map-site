@@ -37,11 +37,7 @@ committees:
   - Indian and Insular Affairs
   - Oversight and Investigations
   - Water, Wildlife and Fisheries
-top-donors: "[[Mike Johnson]], [[Steve Scalise]], [[Kevin McCarthy]], [[Brett Guthrie]], [[CLIFF BENTZ FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Jim Jordan]], [[Jason Smith]], [[Cliff Bentz]]"
-fec-committee-ids:
-  - C00296939
-  - C00362012
-  - C00393041
+top-donors: "[[Mike Johnson]], [[Steve Scalise]], [[Kevin McCarthy]], [[Brett Guthrie]], [[CLIFF BENTZ FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Jim Jordan]], [[Jason Smith]], [[Cliff Bentz]], [[RNC - Republican National Committee]], [[Majority PAC]], [[VIEW PAC - Value in Electing Women]], [[NRCC - National Republican Congressional Committee]]"
 ---
 
 

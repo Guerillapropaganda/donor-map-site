@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Cyber, Information Technologies, and Innovation
   - Cybersecurity, Information Technology, and Government Innovation
@@ -35,16 +35,8 @@ committees:
   - Tactical Air and Land Forces
 bills-sponsored: 14
 corroboration-count: 2
-top-donors: "[[Defending Main Street Superpac INC]], [[Williams Companies]], [[Koch Industries]], [[Special Operations for America]], [[JOHN MCGUIRE FOR VIRGINIA]], [[NRA Political Victory Fund]], [[Leidos]], [[Freedom's Defense Fund]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Steve Scalise]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-ids:
-  - C00347971
-  - C00856831
-  - C00793505
-  - C00727594
-  - C00900118
+top-donors: "[[Defending Main Street Superpac INC]], [[Williams Companies]], [[Koch Industries]], [[Special Operations for America]], [[JOHN MCGUIRE FOR VIRGINIA]], [[NRA Political Victory Fund]], [[Leidos]], [[Freedom's Defense Fund]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Steve Scalise]], [[David Z. Mafrige]], [[John Jr. Good]], [[James Petrine]], [[Donald Friese]], [[David Martinelli]], [[Charles Long]], [[Mark Hixson]], [[William Holtzman]], [[Robert Ranson]], [[Kathleen Long]], [[Watt Foster]], [[Frederic Jouhet]], [[Douglas Allred]], [[American Patriots PAC]], [[L3Harris Technologies]], [[National Association of Realtors]], [[AT&T]], [[Raytheon (RTX Corporation)]], [[American Hospital Association PAC]], [[BAE Systems]], [[Northrop Grumman]], [[Honeywell International]], [[General Dynamics]], [[Lockheed Martin]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

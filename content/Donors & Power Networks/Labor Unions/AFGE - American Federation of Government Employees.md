@@ -12,7 +12,7 @@ annual-revenue: $253K
 net-assets: $112K
 tax-year: "2023"
 total-political-spend: $664,400
-politicians-funded: "[[Rick Scott]], [[Bobby Scott]], [[Kyrsten Sinema]], [[Tammy Baldwin]], [[Gary Peters]], [[Lisa Murkowski]], [[Tim Scott]], [[Frank Pallone]], [[Let America Vote PAC]], [[ActBlue]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Robert Garcia Master Profile]], [[_Jamie Raskin Master Profile]], [[Catherine Cortez Masto]], [[MoveOn.org Political Action]], [[_Bill Foster Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jon Ossoff Master Profile]], [[Bob Casey]], [[_Dwight Evans Master Profile]], [[Congressional Progressive Caucus PAC]], [[Bill Foster]], [[Dwight Evans]], [[Jon Ossoff]], [[Robert Garcia]], [[Jamie Raskin]]"
+politicians-funded: "[[Rick Scott]], [[Bobby Scott]], [[Kyrsten Sinema]], [[Tammy Baldwin]], [[Gary Peters]], [[Lisa Murkowski]], [[Tim Scott]], [[Frank Pallone]], [[Let America Vote PAC]], [[ActBlue]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Robert Garcia Master Profile]], [[_Jamie Raskin Master Profile]], [[Catherine Cortez Masto]], [[MoveOn.org Political Action]], [[_Bill Foster Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jon Ossoff Master Profile]], [[Bob Casey]], [[_Dwight Evans Master Profile]], [[Congressional Progressive Caucus PAC]], [[Bill Foster]], [[Dwight Evans]], [[Jon Ossoff]], [[Robert Garcia]], [[Jamie Raskin]], [[Hillary Clinton]], [[Steny H. Hoyer]]"
 federal-register-mentions: 1
 last-enriched: "2026-04-09"
 regulatory-agencies:

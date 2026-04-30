@@ -9,12 +9,12 @@ sector: Tech & Crypto
 entity-type: Individual Donor
 issues:
   - Cryptocurrency Regulation
-politicians-funded: "[[Kamala Harris]], [[ActBlue]]"
+politicians-funded: "[[Kamala Harris]], [[ActBlue]], [[Steve Hilton]], [[Ro Khanna]]"
 related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[Future Forward]] · [[_Kamala Harris Master Profile]] · [[Brad Garlinghouse]]"
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ein: 112894655
 annual-revenue: $9
 net-assets: $2K
@@ -26,7 +26,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 2
 employee-contributions-total: 10500
 employee-donor-count: 1
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

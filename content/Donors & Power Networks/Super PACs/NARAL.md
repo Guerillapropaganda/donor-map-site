@@ -11,8 +11,8 @@ fec-committee-id: C00337451
 aliases:
   - NARAL
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Adam Smith]], [[Rick Larsen]], [[Adam Schiff]], [[ActBlue]], [[_Kamala Harris Master Profile]], [[_Lauren Underwood Master Profile]], [[Lauren Underwood]], [[Kamala Harris]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Adam Smith]], [[Rick Larsen]], [[Adam Schiff]], [[ActBlue]], [[_Kamala Harris Master Profile]], [[_Lauren Underwood Master Profile]], [[Lauren Underwood]], [[Kamala Harris]], [[Kirsten E. Gillibrand]], [[Hillary Clinton]], [[Jerrold Nadler]]"
 related: "[[Adam Schiff]] · [[Rick Larsen]] · [[Adam Smith]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,7 +23,7 @@ employee-contributions-total: 6530
 employee-donor-count: 12
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

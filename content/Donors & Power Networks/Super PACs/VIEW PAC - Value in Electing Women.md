@@ -21,7 +21,7 @@ total-spent: 565331
 cash-on-hand: 65719
 individual-contributions: 52175
 contributions-to-committees: 315000
-politicians-funded: "[[Deb Fischer]], [[Marsha Blackburn]], [[Lisa Murkowski]], [[Diana Harshbarger]], [[Kat Cammack]], [[Nancy Mace]], [[Elise Stefanik]], [[Victoria Spartz]], [[Claudia Tenney]], [[Monica de la Cruz]], [[Katie Britt]], [[Maria Elvira Salazar]], [[Young Kim]], [[Michelle Fischbach]], [[Celeste Maloy]], [[Joni Ernst]], [[Cindy Hyde-Smith]], [[Shelley Moore Capito]], [[Ashley Hinson]], [[Sheri Biggs]], [[Marjorie Taylor Greene]], [[Kay Granger]], [[Erin Houchin]], [[Julie Fedorchak]], [[Nicole Malliotakis]], [[Ashley Moody]], [[Ann Wagner]], [[Virginia Foxx]], [[Susan Collins]]"
+politicians-funded: "[[Deb Fischer]], [[Marsha Blackburn]], [[Lisa Murkowski]], [[Diana Harshbarger]], [[Kat Cammack]], [[Nancy Mace]], [[Elise Stefanik]], [[Victoria Spartz]], [[Claudia Tenney]], [[Monica de la Cruz]], [[Katie Britt]], [[Maria Elvira Salazar]], [[Young Kim]], [[Michelle Fischbach]], [[Celeste Maloy]], [[Joni Ernst]], [[Cindy Hyde-Smith]], [[Shelley Moore Capito]], [[Ashley Hinson]], [[Sheri Biggs]], [[Marjorie Taylor Greene]], [[Kay Granger]], [[Erin Houchin]], [[Julie Fedorchak]], [[Nicole Malliotakis]], [[Ashley Moody]], [[Ann Wagner]], [[Virginia Foxx]], [[Susan Collins]], [[Cathy McMorris Rodgers]], [[Julia Letlow]], [[Lisa C. McClain]], [[Mariannette Miller-Meeks]], [[Carol D. Miller]], [[Stephanie I. Bice]], [[Jennifer A. Kiggans]], [[Beth van Duyne]], [[Aumua Amata Coleman Radewagen]], [[Cynthia M. Lummis]], [[Mary E. Miller]], [[Kristi Noem]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC

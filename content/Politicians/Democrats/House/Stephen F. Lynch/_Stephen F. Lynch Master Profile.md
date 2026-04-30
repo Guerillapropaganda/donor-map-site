@@ -35,11 +35,7 @@ committees:
   - House Committee on Financial Services
   - House Committee on Oversight and Government Reform
   - Military and Foreign Affairs
-top-donors: "[[Williams Companies]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[LOFGREN FOR CONGRESS]], [[AFL-CIO]], [[Bechtel Corporation]], [[John Kerry]], [[Akin Gump Strauss Hauer & Feld]], [[STEPHEN LYNCH FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[J Street]], [[Steny H. Hoyer]], [[Edward J. Markey]], [[Rosa DeLauro]], [[Zoe Lofgren]], [[Ed Markey]]"
-fec-committee-ids:
-  - C00366948
-  - C00541185
-  - C00466748
+top-donors: "[[Williams Companies]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[LOFGREN FOR CONGRESS]], [[AFL-CIO]], [[Bechtel Corporation]], [[John Kerry]], [[Akin Gump Strauss Hauer & Feld]], [[STEPHEN LYNCH FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[J Street]], [[Steny H. Hoyer]], [[Edward J. Markey]], [[Rosa DeLauro]], [[Zoe Lofgren]], [[Ed Markey]], [[Bank of America]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[Honeywell International]], [[UA Political Action Committee]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[SEIU COPE]], [[Lockheed Martin]], [[Unite Here Tip Campaign Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[iHeartMedia]], [[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Multifamily Housing Council]], [[General Dynamics]], [[Raytheon (RTX Corporation)]], [[Care Action]], [[American Hospital Association PAC]], [[AT&T]], [[Walmart - Walton Family]], [[General Motors]], [[Morgan Stanley]], [[Northrop Grumman]], [[Citigroup]]"
 ---
 
 

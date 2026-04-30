@@ -22,7 +22,7 @@ known-gaps:
   - No voting record data
 last-enriched: "2026-04-09"
 related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]] · [[Democratic Senatorial Campaign Committee]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]]"
-donors: "[[Democratic Senatorial Campaign Committee]], [[FRIENDS OF MARIA]], [[Maria Cantwell]]"
+donors: "[[Democratic Senatorial Campaign Committee]], [[FRIENDS OF MARIA]], [[Maria Cantwell]], [[Emily's List]]"
 urls-first-triaged: "2026-04-15"
 total-raised: $126K
 career-total-source: FEC weball summary (cycles 1994)

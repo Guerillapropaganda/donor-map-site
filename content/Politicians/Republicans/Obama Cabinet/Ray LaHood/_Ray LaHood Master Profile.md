@@ -16,14 +16,10 @@ source-types:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)
 bills-sponsored: 37
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[Cargill]], [[Pfizer Inc.]], [[McDonalds Corporation]], [[Occidental Petroleum]], [[AFL-CIO]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[ADM - Archer Daniels Midland]], [[National Education Association]], [[Bechtel Corporation]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00284901
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[National Cattlemen's Beef Association]], [[National Restaurant Association]], [[Cargill]], [[Pfizer Inc.]], [[McDonalds Corporation]], [[Occidental Petroleum]], [[AFL-CIO]], [[NRA Political Victory Fund]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[ADM - Archer Daniels Midland]], [[National Education Association]], [[Bechtel Corporation]], [[ConocoPhillips]], [[SEIU COPE]], [[American Hospital Association PAC]], [[NextEra Energy]], [[National Association of Realtors]], [[AT&T]], [[L3Harris Technologies]], [[Raytheon (RTX Corporation)]], [[General Motors]], [[General Dynamics]], [[UA Political Action Committee]], [[Halliburton]], [[IBEW - International Brotherhood of Electrical Workers]], [[Bank of America]], [[Lockheed Martin]], [[Care Action]], [[Teamsters - International Brotherhood of Teamsters]], [[Unite Here Tip Campaign Committee]], [[RNC - Republican National Committee]], [[Honeywell International]], [[Northrop Grumman]], [[NRCC - National Republican Congressional Committee]], [[Ford Motor Company]], [[Johnson & Johnson]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

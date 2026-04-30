@@ -19,11 +19,11 @@ source-types:
   - GovTrack
 known-gaps:
   - No FEC contribution data
-donors: "[[ActBlue]], [[Associated General Contractors of America Political Action Committee]], [[Roger Marshall]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[Koch Industries]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[Tyson Foods]], [[Amgen Inc]], [[NRA Political Victory Fund]], [[Common Sense for America PAC]], [[Williams Companies]], [[Nucor Corporation]], [[Coinbase]]"
+donors: "[[ActBlue]], [[Associated General Contractors of America Political Action Committee]], [[Roger Marshall]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[Koch Industries]], [[National Restaurant Association]], [[Republican Jewish Coalition]], [[Tyson Foods]], [[Amgen Inc]], [[NRA Political Victory Fund]], [[Common Sense for America PAC]], [[Williams Companies]], [[Nucor Corporation]], [[Coinbase]], [[Glenn Mr. Way]], [[Richard E. Mcclung]], [[Leo A. Jr. Vecellio]], [[Christopher D. Miller]], [[James A. Ii Haslam]], [[Performance Racing Inc.]], [[American Hospital Association PAC]], [[Chevron]], [[National Association of Realtors]], [[Alliance Coal, LLC PAC]], [[Duke Energy]], [[American Chemistry Council, INC]], [[Devon Energy]], [[Lockheed Martin]], [[National Multifamily Housing Council]], [[Anthem - Elevance Health]], [[Marathon Petroleum]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[Honeywell International]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 corroboration-count: 2
 committees:
   - Conservation, Forestry, Natural Resources, and Biotechnology
@@ -37,12 +37,7 @@ committees:
   - Senate Special Committee on Aging
   - Water and Power
 bills-sponsored: 10
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-ids:
-  - C00839100
-  - C00780833
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

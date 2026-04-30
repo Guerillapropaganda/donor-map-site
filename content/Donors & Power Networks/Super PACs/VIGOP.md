@@ -1,25 +1,26 @@
 ---
-title: "VIGOP"
+title: VIGOP
 type: donor
 content-readiness: ready
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-15
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00553560
 aliases:
-  - "VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)"
+  - VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
+politicians-funded: "[[John James]], [[Tim Scott]], [[Marsha Blackburn]], [[Brian Mast]], [[Hillary Clinton]], [[Tom Emmer]], [[Rick Scott]], [[Kevin Cramer]], [[Ted Cruz]], [[Byron Donalds]], [[Josh Hawley]], [[Wesley Hunt]], [[Mario Diaz-Balart]], [[Maria Elvira Salazar]], [[Donald Trump]], [[Susan Collins]], [[Marco Rubio]], [[Ryan Zinke]], [[Ron Johnson]], [[Cindy Hyde-Smith]], [[Vern Buchanan]], [[Burgess Owens]], [[Nancy Pelosi]]"
 ---
 
 

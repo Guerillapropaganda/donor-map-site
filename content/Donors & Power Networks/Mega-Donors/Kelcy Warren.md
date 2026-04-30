@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Greg Abbott]], [[Donald Trump]], [[Ted Cruz]]"
+politicians-funded: "[[Greg Abbott]], [[Donald Trump]], [[Ted Cruz]], [[Ron DeSantis]]"
 issues:
   - Energy & Climate
 court-cases: 33
@@ -57,7 +57,7 @@ source-types:
   - SEC
 corroboration-count: 3
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

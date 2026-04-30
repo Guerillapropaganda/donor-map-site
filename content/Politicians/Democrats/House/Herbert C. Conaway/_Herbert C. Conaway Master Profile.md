@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Cyber, Information Technologies, and Innovation
   - Health
@@ -34,13 +34,8 @@ committees:
   - Tactical Air and Land Forces
 bills-sponsored: 13
 corroboration-count: 2
-top-donors: "[[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Bradley Scott Schneider]], [[AIPAC - American Israel Public Affairs Committee]], [[PETE AGUILAR FOR CONGRESS]], [[Amgen Inc]], [[Frank Pallone]], [[Steny H. Hoyer]], [[Humana]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[Robin L. Kelly]], [[Gilead Sciences]], [[HUFFMAN FOR CONGRESS]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Mary Gay Scanlon]], [[League of Conservation Voters]], [[Hakeem Jeffries]], [[AbbVie]], [[Ted Lieu]], [[Pete Aguilar]], [[Bonnie Watson Coleman]], [[Leidos]], [[Marc A. Veasey]], [[Jared Huffman]], [[Paul Tonko]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-ids:
-  - C00859496
-  - C00399881
+top-donors: "[[TED LIEU FOR CONGRESS]], [[PAUL TONKO FOR CONGRESS]], [[Bradley Scott Schneider]], [[AIPAC - American Israel Public Affairs Committee]], [[PETE AGUILAR FOR CONGRESS]], [[Amgen Inc]], [[Frank Pallone]], [[Steny H. Hoyer]], [[Humana]], [[American College of Radiology Association PAC]], [[CVS Health - Aetna]], [[Robin L. Kelly]], [[Gilead Sciences]], [[HUFFMAN FOR CONGRESS]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Mary Gay Scanlon]], [[League of Conservation Voters]], [[Hakeem Jeffries]], [[AbbVie]], [[Ted Lieu]], [[Pete Aguilar]], [[Bonnie Watson Coleman]], [[Leidos]], [[Marc A. Veasey]], [[Jared Huffman]], [[Paul Tonko]], [[314 Action Fund]], [[IBEW - International Brotherhood of Electrical Workers]], [[Teamsters - International Brotherhood of Teamsters]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Hospital Association PAC]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Anthem - Elevance Health]], [[General Dynamics]], [[Walmart - Walton Family]], [[National Association of Realtors]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Johnson & Johnson]], [[General Motors]], [[SEIU COPE]], [[BAE Systems]], [[DMFI - Democratic Majority for Israel]], [[Comcast - NBCUniversal]], [[Votevets]], [[Lockheed Martin]], [[Raytheon (RTX Corporation)]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

@@ -16,7 +16,7 @@ issues:
   - Tax Policy
   - Government Reform
   - Anti-ESG
-top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES USA ACTION]], [[WinRed]], [[Drain the DC Swamp PAC]], [[Ruralvote.org]], [[Trump Victory]], [[Priorities USA Action]], [[Vivek Ramaswamy]]"
+top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]], [[PRIORITIES USA ACTION]], [[WinRed]], [[Drain the DC Swamp PAC]], [[Ruralvote.org]], [[Trump Victory]], [[Priorities USA Action]], [[Vivek Ramaswamy]], [[Jacques Nasser]], [[Henry Miller]], [[Joe Craft]], [[Randall Smith]], [[David Horowitz]], [[David Sokol]], [[Vishal Shah]], [[Bonnie Rothberg]], [[Brent C. Rippe]], [[Tyler Winklevoss]], [[Narendra Kini]], [[Matt Huang]], [[Lyle Stevens]], [[Charles Davidson]], [[Joseph Jacobs]], [[Troy Woodruff]], [[Robert L. Luddy]], [[Kenneth Rosen]]"
 total-received: $66,197,196
 fec-candidate-id: P40011082
 source-types:
@@ -29,11 +29,9 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]] · [[The Healthcare Platform and the Insurance Industry Question]]"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "voting-records: Never held elected office (candidate)"
   - "committee-assignments: Never held elected office (candidate)"

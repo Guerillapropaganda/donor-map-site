@@ -37,8 +37,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 80
 employee-contributions-total: 12202
 employee-donor-count: 29
-politicians-funded: "[[ActBlue]], [[_Jon Ossoff Master Profile]], [[Catherine Cortez Masto]], [[_Lauren Underwood Master Profile]], [[MoveOn.org Political Action]], [[Working Families Party PAC]], [[Jon Ossoff]], [[Lauren Underwood]]"
-last-enriched: 2026-04-20
+politicians-funded: "[[ActBlue]], [[_Jon Ossoff Master Profile]], [[Catherine Cortez Masto]], [[_Lauren Underwood Master Profile]], [[MoveOn.org Political Action]], [[Working Families Party PAC]], [[Jon Ossoff]], [[Lauren Underwood]], [[Katie Porter]]"
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Kamala Harris]]"
+politicians-funded: "[[Kamala Harris]], [[Xavier Becerra]]"
 issues:
   - Immigration
 court-cases: 22

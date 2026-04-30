@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Education
 entity-type: Corporation
-politicians-funded: "[[Tony Thurmond]], [[Gavin Newsom]], [[Judy Chu]], [[ActBlue]], [[Hmp]], [[CHC BOLD PAC]], [[Human Rights Campaign Equality Votes]], [[MoveOn.org Political Action]], [[_Ted Lieu Master Profile]], [[_Donna Miller Master Profile]], [[Catherine Cortez Masto]], [[_Victoria Spartz Master Profile]], [[_Darrell Issa Master Profile]], [[Mike Thompson]], [[Progressive Turnout Project]], [[WinRed]], [[_Kamala Harris Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Zoe Lofgren]], [[_Jon Ossoff Master Profile]], [[Josh Harder]], [[_Tim Scott Master Profile]], [[_Claudia Tenney Master Profile]], [[John Garamendi]], [[_George Whitesides Master Profile]], [[_John James Master Profile]], [[_Mark Takano Master Profile]], [[DNC - Democratic National Committee]], [[Sydney Kamlager-Dove]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Jared Huffman]], [[Brad Sherman]], [[_April McClain Delaney Master Profile]], [[Julia Brownley]], [[RNC - Republican National Committee]], [[NRCC - National Republican Congressional Committee]], [[Mike Levin]], [[Jimmy Panetta]], [[Ro Khanna]], [[MAGA Inc]], [[Mark DeSaulnier]], [[Kevin Mullin]], [[NEA Fund for Children and Public Education]], [[_Byron Donalds Master Profile]], [[Let America Vote PAC]], [[Jimmy Gomez]], [[Congressional Progressive Caucus PAC]], [[Adam Schiff]], [[_Alex Padilla Master Profile]], [[Eric Swalwell]], [[Sara Jacobs]], [[_Nancy Pelosi Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Jim Costa]], [[Pete Aguilar]], [[Barbara Lee]], [[Mark Kelly]], [[Adam Gray]], [[_Marco Rubio Master Profile]], [[Raul Ruiz]], [[Mark Takano]], [[Ted Lieu]], [[Kamala Harris]], [[Tim Scott]], [[John James]], [[Byron Donalds]], [[Jon Ossoff]], [[Victoria Spartz]], [[Nancy Pelosi]], [[Lisa Blunt Rochester]], [[George Whitesides]], [[Alex Padilla]], [[Darrell Issa]], [[April McClain Delaney]], [[Claudia Tenney]], [[Donna Miller]], [[Marco Rubio]], [[HMP]]"
+politicians-funded: "[[Tony Thurmond]], [[Gavin Newsom]], [[Judy Chu]], [[ActBlue]], [[Hmp]], [[CHC BOLD PAC]], [[Human Rights Campaign Equality Votes]], [[MoveOn.org Political Action]], [[_Ted Lieu Master Profile]], [[_Donna Miller Master Profile]], [[Catherine Cortez Masto]], [[_Victoria Spartz Master Profile]], [[_Darrell Issa Master Profile]], [[Mike Thompson]], [[Progressive Turnout Project]], [[WinRed]], [[_Kamala Harris Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Zoe Lofgren]], [[_Jon Ossoff Master Profile]], [[Josh Harder]], [[_Tim Scott Master Profile]], [[_Claudia Tenney Master Profile]], [[John Garamendi]], [[_George Whitesides Master Profile]], [[_John James Master Profile]], [[_Mark Takano Master Profile]], [[DNC - Democratic National Committee]], [[Sydney Kamlager-Dove]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Jared Huffman]], [[Brad Sherman]], [[_April McClain Delaney Master Profile]], [[Julia Brownley]], [[RNC - Republican National Committee]], [[NRCC - National Republican Congressional Committee]], [[Mike Levin]], [[Jimmy Panetta]], [[Ro Khanna]], [[MAGA Inc]], [[Mark DeSaulnier]], [[Kevin Mullin]], [[NEA Fund for Children and Public Education]], [[_Byron Donalds Master Profile]], [[Let America Vote PAC]], [[Jimmy Gomez]], [[Congressional Progressive Caucus PAC]], [[Adam Schiff]], [[_Alex Padilla Master Profile]], [[Eric Swalwell]], [[Sara Jacobs]], [[_Nancy Pelosi Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[Jim Costa]], [[Pete Aguilar]], [[Barbara Lee]], [[Mark Kelly]], [[Adam Gray]], [[_Marco Rubio Master Profile]], [[Raul Ruiz]], [[Mark Takano]], [[Ted Lieu]], [[Kamala Harris]], [[Tim Scott]], [[John James]], [[Byron Donalds]], [[Jon Ossoff]], [[Victoria Spartz]], [[Nancy Pelosi]], [[Lisa Blunt Rochester]], [[George Whitesides]], [[Alex Padilla]], [[Darrell Issa]], [[April McClain Delaney]], [[Claudia Tenney]], [[Donna Miller]], [[Marco Rubio]], [[HMP]], [[Dianne Feinstein]], [[Scott H. Peters]], [[Hillary Clinton]], [[Bill Clinton]], [[John Kerry]], [[Barack Obama]]"
 issues:
   - Labor & Workers
   - Education
@@ -37,12 +37,9 @@ source-types:
   - USASpending
 corroboration-count: 3
 known-gaps:
-  - "No SEC corporate filings"
-total-political-spend: "$6K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
-fec-committee-ids:
-  - C70001227
-  - C90013756
+  - No SEC corporate filings
+total-political-spend: $6K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

@@ -11,8 +11,8 @@ fec-committee-id: C00785899
 aliases:
   - EQUALITY PROJECT PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Ritchie Torres]], [[Mark Takano]], [[Marcy Kaptur]], [[Jerrold Nadler]], [[Sharice Davids]], [[Zoe Lofgren]], [[Emily Randall]], [[Dan Goldman]], [[Sarah McBride]], [[Julie Johnson]], [[Robert Garcia]], [[Eric Sorensen]], [[Lisa Blunt Rochester]], [[Angie Craig]], [[Chris Pappas]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Ritchie Torres]], [[Mark Takano]], [[Marcy Kaptur]], [[Jerrold Nadler]], [[Sharice Davids]], [[Zoe Lofgren]], [[Emily Randall]], [[Dan Goldman]], [[Sarah McBride]], [[Julie Johnson]], [[Robert Garcia]], [[Eric Sorensen]], [[Lisa Blunt Rochester]], [[Angie Craig]], [[Chris Pappas]], [[Becca Balint]], [[Haley M. Stevens]], [[Jasmine Crockett]]"
 related: "[[Ritchie Torres]] · [[Mark Takano]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 5
 contributions-to-committees: 250
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

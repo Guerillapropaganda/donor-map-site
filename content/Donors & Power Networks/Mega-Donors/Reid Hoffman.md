@@ -3,13 +3,13 @@ title: Reid Hoffman
 type: donor
 content-readiness: ready
 central-thesis: "Reid Hoffman is the Democratic donor class's credibility instrument: LinkedIn wealth converted into state-party infrastructure that legitimizes the same anonymous-dark-money architecture Democrats publicly oppose, while personal scandals that would end a politician's career produce only managed press cycles for the donor."
-last-updated: 2026-04-19
+last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Added formal Central Thesis, Core Contradiction callout, and Analytical Patterns sections. Class Analysis and Contradiction prose already present. Cleared stale needs-reenrichment flag; FEC auto-block shows 51.1M across 50 committees from 2026-04-18 ingest."
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]]"
+politicians-funded: "[[Gavin Newsom]], [[Nancy Pelosi]]"
 issues:
   - Technology
 sec-filings: 1372

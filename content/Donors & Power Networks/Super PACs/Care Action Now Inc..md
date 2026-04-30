@@ -11,8 +11,8 @@ fec-committee-id: C90021973
 aliases:
   - CARE ACTION NOW INC.
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Gregory Meeks]], [[Alex Padilla]], [[Lisa Murkowski]], [[Chrissy Houlahan]], [[Jerry Moran]], [[Patty Murray]], [[Todd Young]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Gregory Meeks]], [[Alex Padilla]], [[Lisa Murkowski]], [[Chrissy Houlahan]], [[Jerry Moran]], [[Patty Murray]], [[Todd Young]], [[Michael T. McCaul]], [[Brian K. Fitzpatrick]]"
 related: "[[Gregory Meeks]] · [[Alex Padilla]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,9 +20,9 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$32K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $32K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

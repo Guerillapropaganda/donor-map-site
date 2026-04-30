@@ -9,13 +9,13 @@ sector: Tech & Crypto
 entity-type: Individual Donor
 issues:
   - Cryptocurrency Regulation
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[Tom Emmer]]"
 related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[GENIUS Act]] · [[_Donald Trump Master Profile]] · [[Chris Larsen]]"
 source-types:
   - Courts
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 court-cases: 32
 last-enriched: "2026-04-10"
 court-jurisdictions:

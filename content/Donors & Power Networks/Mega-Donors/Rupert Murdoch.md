@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Mitch McConnell]], [[Donald Trump]]"
+politicians-funded: "[[Mitch McConnell]], [[Donald Trump]], [[Steve Hilton]]"
 court-cases: 415
 last-enriched: "2026-04-09"
 needs-reenrichment: true
@@ -73,7 +73,7 @@ source-types:
   - SEC
 corroboration-count: 4
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 ---
 
 

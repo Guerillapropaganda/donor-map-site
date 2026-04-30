@@ -11,7 +11,7 @@ last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-ie-support: $4,631
 fec-ie-oppose: null
-politicians-funded: "[[Bobby Scott]], [[Kamala Harris]], [[Elissa Slotkin]], [[Ron Johnson]], [[Young Kim]], [[Donald Trump]], [[Raphael Warnock]], [[Ruben Gallego]], [[Jacky Rosen]], [[Susie Lee]], [[Greg Stanton]]"
+politicians-funded: "[[Bobby Scott]], [[Kamala Harris]], [[Elissa Slotkin]], [[Ron Johnson]], [[Young Kim]], [[Donald Trump]], [[Raphael Warnock]], [[Ruben Gallego]], [[Jacky Rosen]], [[Susie Lee]], [[Greg Stanton]], [[Steven Horsford]], [[Mark Kelly]], [[Gary Peters]], [[Debbie Stabenow]], [[Joe Biden]], [[Tammy Baldwin]], [[Elizabeth Warren]], [[Bob Casey]], [[Josh Harder]], [[Jon Ossoff]], [[Michael Bennet]], [[Eugene Simon Vindman]], [[Barack Obama]], [[Sanford D. Bishop]], [[Haley M. Stevens]], [[Margaret Wood Hassan]], [[Tim Kaine]], [[Donald S. Beyer]], [[Janelle S. Bynum]], [[Angie Craig]], [[Tina Smith]], [[Mitt Romney]], [[Jason Crow]], [[Katie Porter]], [[Sherrod Brown]], [[Hillary Clinton]], [[Rashida Tlaib]]"
 related: "[[Bobby Scott]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -26,9 +26,8 @@ contributions-to-committees: 100000
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-fec-committee-id: C00523621
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

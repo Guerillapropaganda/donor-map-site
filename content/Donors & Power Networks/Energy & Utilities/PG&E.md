@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-politicians-funded: "[[Gavin Newsom]], [[Hmp]], [[NRSC - National Republican Senatorial Committee]], [[_Mark DeSaulnier Master Profile]], [[PG&E - Pacific Gas and Electric]], [[_Jimmy Panetta Master Profile]], [[ActBlue]], [[Activate America]], [[_Jim Costa Master Profile]], [[Bob Casey]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Progressive Turnout Project]], [[Mark Kelly]], [[MoveOn.org Political Action]], [[WinRed]], [[_Alex Padilla Master Profile]], [[WinSenate]], [[Let America Vote PAC]], [[The Lincoln Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Debbie Dingell Master Profile]], [[_Paul Tonko Master Profile]], [[_Martin Heinrich Master Profile]], [[_Josh Harder Master Profile]], [[RNC - Republican National Committee]], [[Emily's List]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[Barbara Lee]], [[Catherine Cortez Masto]], [[314 ACTION FUND]], [[_Jon Ossoff Master Profile]], [[_Kamala Harris Master Profile]], [[League of Conservation Voters]], [[Indivisible Action]], [[_Sydney Kamlager-Dove Master Profile]], [[_Jimmy Gomez Master Profile]], [[Giffords PAC]], [[_Darrell Issa Master Profile]], [[_Kevin Kiley Master Profile]], [[_Cory Booker Master Profile]], [[_Josh Hawley Master Profile]], [[_Nancy Pelosi Master Profile]], [[MAGA Inc]], [[Votevets]], [[_Pete Aguilar Master Profile]], [[_Tammy Baldwin Master Profile]], [[Kamala Harris]], [[Jimmy Panetta]], [[Jim Costa]], [[Mark DeSaulnier]], [[Nancy Pelosi]], [[Darrell Issa]], [[Jimmy Gomez]], [[Sydney Kamlager-Dove]], [[Josh Harder]], [[Paul Tonko]], [[Cory Booker]], [[Kevin Kiley]], [[Jon Ossoff]], [[Josh Hawley]], [[Martin Heinrich]], [[Tammy Baldwin]], [[Debbie Dingell]], [[Alex Padilla]], [[Pete Aguilar]], [[HMP]], [[314 Action Fund]]"
+politicians-funded: "[[Gavin Newsom]], [[Hmp]], [[NRSC - National Republican Senatorial Committee]], [[_Mark DeSaulnier Master Profile]], [[PG&E - Pacific Gas and Electric]], [[_Jimmy Panetta Master Profile]], [[ActBlue]], [[Activate America]], [[_Jim Costa Master Profile]], [[Bob Casey]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Progressive Turnout Project]], [[Mark Kelly]], [[MoveOn.org Political Action]], [[WinRed]], [[_Alex Padilla Master Profile]], [[WinSenate]], [[Let America Vote PAC]], [[The Lincoln Project]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Debbie Dingell Master Profile]], [[_Paul Tonko Master Profile]], [[_Martin Heinrich Master Profile]], [[_Josh Harder Master Profile]], [[RNC - Republican National Committee]], [[Emily's List]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[Barbara Lee]], [[Catherine Cortez Masto]], [[314 ACTION FUND]], [[_Jon Ossoff Master Profile]], [[_Kamala Harris Master Profile]], [[League of Conservation Voters]], [[Indivisible Action]], [[_Sydney Kamlager-Dove Master Profile]], [[_Jimmy Gomez Master Profile]], [[Giffords PAC]], [[_Darrell Issa Master Profile]], [[_Kevin Kiley Master Profile]], [[_Cory Booker Master Profile]], [[_Josh Hawley Master Profile]], [[_Nancy Pelosi Master Profile]], [[MAGA Inc]], [[Votevets]], [[_Pete Aguilar Master Profile]], [[_Tammy Baldwin Master Profile]], [[Kamala Harris]], [[Jimmy Panetta]], [[Jim Costa]], [[Mark DeSaulnier]], [[Nancy Pelosi]], [[Darrell Issa]], [[Jimmy Gomez]], [[Sydney Kamlager-Dove]], [[Josh Harder]], [[Paul Tonko]], [[Cory Booker]], [[Kevin Kiley]], [[Jon Ossoff]], [[Josh Hawley]], [[Martin Heinrich]], [[Tammy Baldwin]], [[Debbie Dingell]], [[Alex Padilla]], [[Pete Aguilar]], [[HMP]], [[314 Action Fund]], [[Tony Thurmond]]"
 ein: "943358729"
 annual-revenue: $23.4M
 net-assets: $99.5M
@@ -21,11 +21,9 @@ federal-grants-count: 2
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 urls-first-triaged: "2026-04-15"
 epa-facilities: 55
 epa-states: CA
@@ -38,9 +36,9 @@ source-types:
   - USASpending
 corroboration-count: 2
 known-gaps:
-  - "No SEC corporate filings"
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
+  - No SEC corporate filings
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

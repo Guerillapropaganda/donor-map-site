@@ -5,14 +5,14 @@ content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C30001671
 aliases:
   - THE 60 PLUS ASSOCIATION
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Adam Smith]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Adam Smith]], [[Mitt Romney]], [[Jim Costa]], [[Andy Barr]], [[Linda McMahon]], [[Joni Ernst]], [[Tom Cotton]], [[Mitch McConnell]], [[Bill Foster]], [[Thom Tillis]]"
 related: "[[Adam Smith]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -20,12 +20,10 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
 reenrich-reason: "re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs`"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

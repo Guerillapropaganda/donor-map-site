@@ -2,7 +2,7 @@
 title: Lawrence Summers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Wall Street
@@ -22,7 +22,7 @@ regulatory-agencies:
   - Commodity Futures Trading Commission
   - State Department
 total-political-spend: $401,797
-politicians-funded: "[[Sherrod Brown]], [[Kamala Harris]], [[Barack Obama]], [[Shontel Brown]], [[Joe Biden]]"
+politicians-funded: "[[Sherrod Brown]], [[Kamala Harris]], [[Barack Obama]], [[Shontel Brown]], [[Joe Biden]], [[Jacky Rosen]]"
 related: "[[Sherrod Brown]] · [[Kamala Harris]] · [[Joe Biden]] · [[Barack Obama]] · [[Shontel Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

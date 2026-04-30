@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Digital Assets, Financial Technology, and Artificial Intelligence
   - House Committee on Financial Services
@@ -32,11 +32,8 @@ committees:
   - Oversight and Investigations
 bills-sponsored: 14
 corroboration-count: 2
-top-donors: "[[Sam T. Liccardo]], [[Google - Alphabet]], [[Amgen Inc]], [[Pfizer Inc.]], [[Coinbase]], [[Gilead Sciences]], [[NANCY PELOSI FOR CONGRESS]], [[Gilbert Ray Cisneros]], [[Akin Gump Strauss Hauer & Feld]], [[Blue Shield of California]], [[J Street]], [[League of Conservation Voters]], [[PETE AGUILAR FOR CONGRESS]], [[Bradley Scott Schneider]], [[AbbVie]], [[Meta - Facebook]], [[DoorDash]], [[Nancy Pelosi]], [[Pete Aguilar]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00858688
+top-donors: "[[Sam T. Liccardo]], [[Google - Alphabet]], [[Amgen Inc]], [[Pfizer Inc.]], [[Coinbase]], [[Gilead Sciences]], [[NANCY PELOSI FOR CONGRESS]], [[Gilbert Ray Cisneros]], [[Akin Gump Strauss Hauer & Feld]], [[Blue Shield of California]], [[J Street]], [[League of Conservation Voters]], [[PETE AGUILAR FOR CONGRESS]], [[Bradley Scott Schneider]], [[AbbVie]], [[Meta - Facebook]], [[DoorDash]], [[Nancy Pelosi]], [[Pete Aguilar]], [[Jeffrey Wecker]], [[Andrew Shepherd]], [[Anthem - Elevance Health]], [[Comcast - NBCUniversal]], [[Microsoft]], [[General Motors]], [[Bank of America]], [[Walmart - Walton Family]], [[Citigroup]], [[Everytown for Gun Safety]], [[Morgan Stanley]], [[National Association of Realtors]], [[CHC BOLD PAC]], [[Performance Racing Inc.]], [[Honeywell International]], [[AT&T]], [[National Multifamily Housing Council]], [[American Hospital Association PAC]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

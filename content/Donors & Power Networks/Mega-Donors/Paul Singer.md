@@ -2,7 +2,7 @@
 title: Paul Singer
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 aliases:
   - Paul Singer
   - Elliott Management
@@ -10,7 +10,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Michael Whatley]], [[Samuel Alito]], [[Tom Cotton]], [[Mike Rogers]]"
+politicians-funded: "[[Michael Whatley]], [[Samuel Alito]], [[Tom Cotton]], [[Mike Rogers]], [[Kevin McCarthy]], [[Paul Ryan]]"
 ein: "272009342"
 annual-revenue: $53.9M
 net-assets: $276.4M

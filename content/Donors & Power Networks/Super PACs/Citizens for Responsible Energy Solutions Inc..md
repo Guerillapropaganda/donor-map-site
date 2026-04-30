@@ -12,8 +12,8 @@ fec-committee-id: C00553974
 aliases:
   - CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Bruce Westerman]], [[Glenn Thompson]], [[Elise Stefanik]], [[Cathy McMorris Rodgers]], [[Frank Lucas]], [[Dan Newhouse]], [[Mariannette Miller-Meeks]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Bruce Westerman]], [[Glenn Thompson]], [[Elise Stefanik]], [[Cathy McMorris Rodgers]], [[Frank Lucas]], [[Dan Newhouse]], [[Mariannette Miller-Meeks]], [[Mark E. Amodei]], [[John McCain]], [[Michael K. Simpson]], [[Mitt Romney]], [[Lindsey Graham]], [[William R. Timmons]], [[Susan Collins]], [[Brian K. Fitzpatrick]], [[Dusty Johnson]], [[Chuck Grassley]], [[Lisa Murkowski]], [[Don Bacon]], [[Dan Crenshaw]], [[John R. Curtis]]"
 related: "[[Elise Stefanik]] · [[Glenn Thompson]] · [[Bruce Westerman]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,8 +25,8 @@ ofac-programs:
   - RUSSIA-EO14024
 source-types:
   - FEC
-total-political-spend: "$146K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+total-political-spend: $146K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

@@ -11,8 +11,8 @@ fec-committee-id: C70002761
 aliases:
   - NARAL Pro-Choice America
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Brendan Boyle]], [[Bennie Thompson]], [[DNC - Democratic National Committee]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[ActBlue]], [[Lauren Underwood]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Brendan Boyle]], [[Bennie Thompson]], [[DNC - Democratic National Committee]], [[Emily's List]], [[_Lauren Underwood Master Profile]], [[ActBlue]], [[Lauren Underwood]], [[Nancy Pelosi]], [[Barack Obama]], [[Patty Murray]], [[Kathy Castor]], [[Debbie Stabenow]], [[Ami Bera]], [[Dianne Feinstein]], [[Bob Menendez]], [[Hillary Clinton]], [[Jeanne Shaheen]], [[Maria Cantwell]], [[Julia Brownley]], [[Bill Clinton]], [[Harry Reid]], [[Sherrod Brown]], [[Bernie Sanders]], [[Adam Schiff]], [[Gary Peters]], [[Ed Markey]], [[Adam Smith]], [[Joe Biden]], [[Elizabeth Warren]], [[Betty McCollum]], [[Jerrold Nadler]], [[Chris Coons]], [[Rick Larsen]], [[Tammy Duckworth]]"
 related: "[[Brendan Boyle]] · [[Bennie Thompson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -23,7 +23,7 @@ employee-contributions-total: 7685
 employee-donor-count: 19
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

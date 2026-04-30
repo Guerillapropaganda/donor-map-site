@@ -20,11 +20,11 @@ source-types:
   - GovTrack
 known-gaps:
   - No FEC contribution data
-donors: "[[Brady Campaign]], [[AFL-CIO]], [[BRANDON GILL FOR TEXAS]], [[NRA Political Victory Fund]], [[Leidos]], [[Guy Reschenthaler]], [[Robert E. Latta]], [[Koch Industries]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Defend American Jobs]], [[Shelley Moore Capito]], [[Nucor Corporation]], [[Performance Racing Inc.]], [[Tom Emmer]], [[David P. Joyce]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[CVS Health - Aetna]], [[Southern Company]], [[TEXANS FOR JODEY ARRINGTON]], [[National Restaurant Association]], [[JIM JORDAN FOR CONGRESS]], [[Brett Guthrie]], [[National Cattlemen's Beef Association]], [[Carol D. Miller]], [[Steve Scalise]]"
+donors: "[[Brady Campaign]], [[AFL-CIO]], [[BRANDON GILL FOR TEXAS]], [[NRA Political Victory Fund]], [[Leidos]], [[Guy Reschenthaler]], [[Robert E. Latta]], [[Koch Industries]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Defend American Jobs]], [[Shelley Moore Capito]], [[Nucor Corporation]], [[Performance Racing Inc.]], [[Tom Emmer]], [[David P. Joyce]], [[AIPAC - American Israel Public Affairs Committee]], [[Associated General Contractors of America Political Action Committee]], [[CVS Health - Aetna]], [[Southern Company]], [[TEXANS FOR JODEY ARRINGTON]], [[National Restaurant Association]], [[JIM JORDAN FOR CONGRESS]], [[Brett Guthrie]], [[National Cattlemen's Beef Association]], [[Carol D. Miller]], [[Steve Scalise]], [[National Association of Realtors]], [[Americans for Prosperity]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 corroboration-count: 2
 committees:
   - Commerce, Justice, Science, and Related Agencies
@@ -32,10 +32,7 @@ committees:
   - Labor, Health and Human Services, Education, and Related Agencies
   - Legislative Branch
 bills-sponsored: 11
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00828947
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

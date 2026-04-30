@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Gavin Newsom]], [[Wes Moore]]"
+politicians-funded: "[[Gavin Newsom]], [[Wes Moore]], [[Barack Obama]], [[Nancy Pelosi]]"
 issues:
   - Dark Money & Campaign Finance
 total-political-spend: $188,381,113

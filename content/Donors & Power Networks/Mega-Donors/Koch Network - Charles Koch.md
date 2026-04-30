@@ -14,7 +14,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Chris Wright]], [[Samuel Alito]], [[Lex Fridman]], [[Mike Rogers]], [[Tim Scott]], [[John Roberts]], [[Mike Pompeo]], [[Greg Abbott]], [[Gavin Newsom]], [[Josh Hawley]], [[John Cornyn]], [[Rand Paul]], [[Lee Zeldin]], [[Clarence Thomas]], [[Doug Burgum]], [[Thom Tillis]], [[Bill Cassidy]], [[Neil Gorsuch]], [[Ron DeSantis]], [[Jim Jordan]], [[Mike Crapo]], [[Dave Rubin]], [[Mitch McConnell]], [[Ted Cruz]], [[Joni Ernst]], [[Donald Trump]], [[Nikki Haley]], [[ActBlue]], [[Trump Victory]], [[_Tom Barrett Master Profile]], [[Courage to Change PAC]], [[Michigan Republican Party]], [[RNC - Republican National Committee]], [[WinRed]], [[_Ron Johnson Master Profile]], [[_Matt van Epps Master Profile]], [[Americans for Prosperity]], [[_Jeff Crank Master Profile]], [[Senate Conservatives Fund]], [[JUSTICE DEMOCRATS PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Eric Burlison Master Profile]], [[Progressive Turnout Project]], [[MISSISSIPPI REPUBLICAN PARTY]], [[NRCC - National Republican Congressional Committee]], [[_Andy Barr Master Profile]], [[MAGA Inc]], [[Tom Barrett]], [[Ron Johnson]], [[Andy Barr]], [[Matt van Epps]], [[Eric Burlison]], [[Jeff Crank]], [[Justice Democrats PAC]], [[Mississippi Republican Party]]"
+politicians-funded: "[[Chris Wright]], [[Samuel Alito]], [[Lex Fridman]], [[Mike Rogers]], [[Tim Scott]], [[John Roberts]], [[Mike Pompeo]], [[Greg Abbott]], [[Gavin Newsom]], [[Josh Hawley]], [[John Cornyn]], [[Rand Paul]], [[Lee Zeldin]], [[Clarence Thomas]], [[Doug Burgum]], [[Thom Tillis]], [[Bill Cassidy]], [[Neil Gorsuch]], [[Ron DeSantis]], [[Jim Jordan]], [[Mike Crapo]], [[Dave Rubin]], [[Mitch McConnell]], [[Ted Cruz]], [[Joni Ernst]], [[Donald Trump]], [[Nikki Haley]], [[ActBlue]], [[Trump Victory]], [[_Tom Barrett Master Profile]], [[Courage to Change PAC]], [[Michigan Republican Party]], [[RNC - Republican National Committee]], [[WinRed]], [[_Ron Johnson Master Profile]], [[_Matt van Epps Master Profile]], [[Americans for Prosperity]], [[_Jeff Crank Master Profile]], [[Senate Conservatives Fund]], [[JUSTICE DEMOCRATS PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Eric Burlison Master Profile]], [[Progressive Turnout Project]], [[MISSISSIPPI REPUBLICAN PARTY]], [[NRCC - National Republican Congressional Committee]], [[_Andy Barr Master Profile]], [[MAGA Inc]], [[Tom Barrett]], [[Ron Johnson]], [[Andy Barr]], [[Matt van Epps]], [[Eric Burlison]], [[Jeff Crank]], [[Justice Democrats PAC]], [[Mississippi Republican Party]], [[Marsha Blackburn]]"
 featured-date: "2026-04-17"
 spotlight-reason: Highest ROI in the database , $2.9M to McConnell returned $1.9T in tax cuts (655,172x). Dark money network spanning think tanks, PACs, and media.
 shareable-stat: $2.9M donated. $1.9T in tax cuts. 655,172x return.
@@ -27,11 +27,9 @@ lobbying-filings: 55
 cross-vault-triangulation-count: 32
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -40,11 +38,7 @@ federal-awards-total: 922724
 employee-contributions: 327
 employee-contributions-total: 87185
 employee-donor-count: 116
-last-enriched: 2026-04-20
-fec-committee-ids:
-  - C30001051
-  - C30001960
-  - C90013285
+last-enriched: 2026-04-20T00:00:00.000Z
 ---
 
 

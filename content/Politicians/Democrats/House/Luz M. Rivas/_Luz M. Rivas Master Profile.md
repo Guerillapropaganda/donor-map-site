@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Energy and Mineral Resources
   - House Committee on Natural Resources
@@ -34,11 +34,8 @@ committees:
   - Water, Wildlife and Fisheries
 bills-sponsored: 8
 corroboration-count: 2
-top-donors: "[[LUZ RIVAS FOR CONGRESS]], [[National Nurses United]], [[PETE AGUILAR FOR CONGRESS]], [[Let America Vote PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Google - Alphabet]], [[Environment America INC]], [[MEDICARE FOR ALL]], [[Blue Shield of California]], [[BARRAGAN FOR CONGRESS]], [[Amgen Inc]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[HUFFMAN FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[KEVIN MULLIN FOR CONGRESS]], [[Johnny Olszewski]], [[TED LIEU FOR CONGRESS]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Education Association]], [[Juan Vargas]], [[ROBERT GARCIA FOR CONGRESS]], [[League of Conservation Voters]], [[Brad Sherman]], [[Ted Lieu]], [[Kevin Mullin]], [[Jared Huffman]], [[Robert Garcia]], [[Hakeem Jeffries]], [[Nanette Diaz Barragan]], [[Pete Aguilar]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00857417
+top-donors: "[[LUZ RIVAS FOR CONGRESS]], [[National Nurses United]], [[PETE AGUILAR FOR CONGRESS]], [[Let America Vote PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Google - Alphabet]], [[Environment America INC]], [[MEDICARE FOR ALL]], [[Blue Shield of California]], [[BARRAGAN FOR CONGRESS]], [[Amgen Inc]], [[Cooperative of American Physicians Independent Expenditure Committee]], [[HUFFMAN FOR CONGRESS]], [[SHERMAN FOR CONGRESS]], [[KEVIN MULLIN FOR CONGRESS]], [[Johnny Olszewski]], [[TED LIEU FOR CONGRESS]], [[Pfizer Inc.]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AIPAC - American Israel Public Affairs Committee]], [[National Education Association]], [[Juan Vargas]], [[ROBERT GARCIA FOR CONGRESS]], [[League of Conservation Voters]], [[Brad Sherman]], [[Ted Lieu]], [[Kevin Mullin]], [[Jared Huffman]], [[Robert Garcia]], [[Hakeem Jeffries]], [[Nanette Diaz Barragan]], [[Pete Aguilar]], [[National Association of Realtors]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[IBEW - International Brotherhood of Electrical Workers]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[CHC BOLD PAC]], [[American Hospital Association PAC]], [[314 Action Fund]], [[PG&E - Pacific Gas and Electric]], [[General Motors]], [[AT&T]], [[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[General Dynamics]], [[UA Political Action Committee]], [[Anthem - Elevance Health]], [[Congressional Progressive Caucus PAC]], [[Unite Here Tip Campaign Committee]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Northrop Grumman]], [[Microsoft]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

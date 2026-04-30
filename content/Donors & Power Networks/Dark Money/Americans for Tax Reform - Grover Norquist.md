@@ -21,7 +21,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 14
 employee-contributions-total: 12422
 employee-donor-count: 10
-politicians-funded: "[[WinRed]], [[Trump Victory]], [[_Mark Green Master Profile]], [[Mark Green]]"
+politicians-funded: "[[WinRed]], [[Trump Victory]], [[_Mark Green Master Profile]], [[Mark Green]], [[Paul A. Gosar]], [[Daniel Webster]], [[Rick Crawford]], [[Andy Barr]], [[Todd Young]], [[Austin Scott]], [[Scott Desjarlais]], [[Christopher H. Smith]], [[Kristi Noem]], [[Randy K. Weber]], [[David Schweikert]], [[Mitch McConnell]], [[Joni Ernst]], [[Andy Harris]], [[Mike Kelly]], [[Tim Walberg]], [[H. Morgan Griffith]]"
 source-types:
   - FEC
 last-enriched: 2026-04-21T00:00:00.000Z

@@ -11,10 +11,10 @@ source-tier: 1
 aliases:
   - FAIR SHARE ACTION
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 related: "[[Hillary Clinton]] · [[John Hickenlooper]]"
-politicians-funded: "[[John Hickenlooper]], [[Hillary Clinton]], [[Brittany Pettersen]], [[Raphael Warnock]], [[Jon Ossoff]]"
+politicians-funded: "[[John Hickenlooper]], [[Hillary Clinton]], [[Brittany Pettersen]], [[Raphael Warnock]], [[Jon Ossoff]], [[Chris Murphy]], [[Michael Bennet]], [[Tammy Baldwin]], [[Barack Obama]], [[Kyrsten Sinema]], [[Joe Biden]], [[Jason Crow]], [[Lois Frankel]], [[Sherrod Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,8 +22,7 @@ urls-first-triaged: "2026-04-15"
 total-raised: 38446
 total-spent: 751323
 cash-on-hand: 46192
-last-enriched: 2026-04-21
-fec-committee-id: C00526673
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

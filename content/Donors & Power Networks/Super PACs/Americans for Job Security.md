@@ -5,14 +5,14 @@ content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C30001135
 aliases:
   - AMERICANS FOR JOB SECURITY
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Rick Crawford]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Rick Crawford]], [[Mike Kelly]], [[Mariannette Miller-Meeks]], [[Tim Walberg]], [[Daniel Webster]], [[Christopher H. Smith]], [[Scott Desjarlais]], [[H. Morgan Griffith]], [[Todd Young]], [[Andy Harris]], [[Kristi Noem]], [[David Schweikert]], [[Paul A. Gosar]], [[Austin Scott]], [[Andy Barr]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -20,12 +20,10 @@ urls-first-triaged: "2026-04-15"
 related: "[[Rick Crawford]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
 reenrich-reason: "re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs`"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

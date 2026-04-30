@@ -11,8 +11,8 @@ fec-committee-id: C00101592
 aliases:
   - PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Adam Smith]], [[Kim Schrier]], [[Michael Baumgartner]], [[Rick Larsen]], [[Steve Daines]], [[Patty Murray]], [[Dan Newhouse]], [[Ron Wyden]], [[Marilyn Strickland]], [[Tim Sheehy]], [[Martin Heinrich]], [[Cathy McMorris Rodgers]], [[Richard Neal]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Adam Smith]], [[Kim Schrier]], [[Michael Baumgartner]], [[Rick Larsen]], [[Steve Daines]], [[Patty Murray]], [[Dan Newhouse]], [[Ron Wyden]], [[Marilyn Strickland]], [[Tim Sheehy]], [[Martin Heinrich]], [[Cathy McMorris Rodgers]], [[Richard Neal]], [[Jeff Merkley]], [[Lisa Murkowski]], [[Suzan K. Delbene]], [[Mitch McConnell]], [[Dick Durbin]], [[Pramila Jayapal]], [[Mike Crapo]], [[Harry Reid]], [[Paul Ryan]], [[John McCain]], [[Maria Cantwell]], [[Brian Schatz]], [[George W. Bush]]"
 related: "[[Adam Smith]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -25,7 +25,7 @@ individual-contributions: 55455
 contributions-to-committees: 85000
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

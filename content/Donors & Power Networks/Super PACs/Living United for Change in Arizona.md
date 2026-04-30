@@ -12,8 +12,8 @@ fec-committee-id: C90018169
 aliases:
   - LIVING UNITED FOR CHANGE IN ARIZONA
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Joe Biden]], [[Mark Kelly]], [[ActBlue]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Joe Biden]], [[Mark Kelly]], [[ActBlue]], [[Kyrsten Sinema]], [[Raul Grijalva]], [[Ruben Gallego]]"
 related: "[[Joe Biden]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,9 +24,9 @@ employee-contributions-total: 250
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
-total-political-spend: "$282K"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $282K
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 ---
 
 

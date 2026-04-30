@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Aviation
   - Coast Guard and Maritime Transportation
@@ -36,11 +36,8 @@ committees:
   - Water, Wildlife and Fisheries
 bills-sponsored: 12
 corroboration-count: 2
-top-donors: "[[JIM JORDAN FOR CONGRESS]], [[VIRGINIA FOXX FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Carson]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[Steve Scalise]], [[TROY DOWNING FOR CONGRESS]], [[Pfizer Inc.]], [[FRIENDS OF TIM MOORE]], [[NRA Political Victory Fund]], [[Coinbase]], [[Brandon Gill]], [[Hunter Action Fund (haf)]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Carol D. Miller]], [[BRANDON GILL FOR TEXAS]], [[Nucor Corporation]], [[Brett Guthrie]], [[Koch Industries]], [[Associated General Contractors of America Political Action Committee]], [[Gregory F. Murphy]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[TED BUDD FOR SENATE]], [[Campaign for Working Families]], [[David P. Joyce]], [[Ted Budd]], [[Tim Moore]], [[Mike Haridopolos]], [[Virginia Foxx]], [[Jim Jordan]], [[Troy Downing]], [[Jodey Arrington]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00860064
+top-donors: "[[JIM JORDAN FOR CONGRESS]], [[VIRGINIA FOXX FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Ben Carson]], [[TEXANS FOR JODEY ARRINGTON]], [[Tom Emmer]], [[Steve Scalise]], [[TROY DOWNING FOR CONGRESS]], [[Pfizer Inc.]], [[FRIENDS OF TIM MOORE]], [[NRA Political Victory Fund]], [[Coinbase]], [[Brandon Gill]], [[Hunter Action Fund (haf)]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Carol D. Miller]], [[BRANDON GILL FOR TEXAS]], [[Nucor Corporation]], [[Brett Guthrie]], [[Koch Industries]], [[Associated General Contractors of America Political Action Committee]], [[Gregory F. Murphy]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[TED BUDD FOR SENATE]], [[Campaign for Working Families]], [[David P. Joyce]], [[Ted Budd]], [[Tim Moore]], [[Mike Haridopolos]], [[Virginia Foxx]], [[Jim Jordan]], [[Troy Downing]], [[Jodey Arrington]], [[National Association of Realtors]], [[NextEra Energy]], [[Duke Energy]], [[Walmart - Walton Family]], [[Majority PAC]], [[Anthem - Elevance Health]], [[Microsoft]], [[General Dynamics]], [[iHeartMedia]], [[Honeywell International]], [[American Hospital Association PAC]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

@@ -5,14 +5,14 @@ content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00300731
 aliases:
   - LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Maxine Waters]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Maxine Waters]], [[Jimmy Gomez]], [[Gilbert Ray Cisneros]], [[Christopher H. Smith]]"
 related: "[[Maxine Waters]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -26,8 +26,8 @@ contributions-to-committees: 315
 ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
-  - "DPRK3"
-  - "ILLICIT-DRUGS-EO14059"
+  - DPRK3
+  - ILLICIT-DRUGS-EO14059
 source-types:
   - FEC
 ---

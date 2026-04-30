@@ -11,8 +11,8 @@ fec-committee-id: C00330233
 aliases:
   - ALLIANCE COAL, LLC PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[James Comer]], [[Mike Carey]], [[Virginia Foxx]], [[Derrick van Orden]], [[Joe Manchin]], [[James Lankford]], [[John Barrasso]], [[Guy Reschenthaler]], [[Bruce Westerman]], [[Mike Lee]], [[Markwayne Mullin]], [[Eric Schmitt]], [[Ryan Zinke]], [[Pete Stauber]], [[Josh Brecheen]], [[Tim Sheehy]], [[Shelley Moore Capito]]"
+  - No lobbying disclosure data
+politicians-funded: "[[James Comer]], [[Mike Carey]], [[Virginia Foxx]], [[Derrick van Orden]], [[Joe Manchin]], [[James Lankford]], [[John Barrasso]], [[Guy Reschenthaler]], [[Bruce Westerman]], [[Mike Lee]], [[Markwayne Mullin]], [[Eric Schmitt]], [[Ryan Zinke]], [[Pete Stauber]], [[Josh Brecheen]], [[Tim Sheehy]], [[Shelley Moore Capito]], [[Thomas Massie]], [[Lee Zeldin]], [[Harold Rogers]], [[Brett Guthrie]], [[Tom Cole]], [[Mitch McConnell]], [[Jim Inhofe]], [[H. Morgan Griffith]], [[James C. Justice]], [[Marsha Blackburn]], [[Thom Tillis]], [[Andy Harris]], [[Michael K. Simpson]], [[Carol D. Miller]], [[Josh Hawley]], [[Paul Ryan]], [[Lloyd Smucker]], [[Mark E. Amodei]], [[Frank Lucas]], [[Marco Rubio]], [[Ashley Hinson]], [[Mike Bost]], [[Joni Ernst]], [[Kevin Hern]], [[Mike Pompeo]], [[Stephanie I. Bice]], [[Jim Banks]], [[Todd Young]], [[Dan Coats]], [[JD Vance]], [[Erin Houchin]], [[Nicole Malliotakis]], [[Bill Cassidy]], [[Victoria Spartz]], [[Mark B. Messmer]], [[Kevin McCarthy]], [[Cynthia M. Lummis]], [[Roger Marshall]], [[John Boozman]], [[Steve Daines]], [[Mike Rounds]], [[Mike Kelly]], [[David G. Valadao]], [[Xavier Becerra]], [[Glenn Thompson]], [[Mitt Romney]], [[Tim Walberg]], [[Kevin Cramer]], [[David McCormick]], [[Claudia Tenney]], [[Maria Elvira Salazar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -25,7 +25,7 @@ contributions-to-committees: 11000
 related: "[[James Comer]]"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

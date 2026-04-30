@@ -27,7 +27,7 @@ bills-sponsored: 39
 bills-cosponsored: 653
 bills-enacted: 1
 top-policy-area: Health
-top-donors: "[[Medicare for All - The Policy That Broke the Party]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Unite Here Tip Campaign Committee]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Lockheed Martin]], [[Northrop Grumman]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Courage California Super Pac]], [[CTA - California Teachers Association]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Ford Motor Company]], [[General Motors]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T]], [[Kaiser Permanente]], [[PG&E]], [[Chevron]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Apple]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[League of Conservation Voters]], [[Google - Alphabet]], [[AFL-CIO]], [[National Education Association]], [[Donald S. Beyer]], [[Sierra Club Political Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Frank Pallone]], [[National Committee to Preserve Social Security & Medicare PAC]], [[MEDICARE FOR ALL]], [[Blue Shield of California]], [[CITIZENS TO ELECT RICK LARSEN]], [[Humane Society Legislative Fund]], [[Let America Vote PAC]], [[MIKE THOMPSON FOR CONGRESS]], [[Hakeem Jeffries]], [[Associated General Contractors of America Political Action Committee]], [[NANCY PELOSI FOR CONGRESS]], [[Chris van Hollen]], [[Rick Larsen]], [[Mike Thompson]]"
+top-donors: "[[Medicare for All - The Policy That Broke the Party]], [[IBEW - International Brotherhood of Electrical Workers]], [[J Street]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[SEIU COPE]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Unite Here Tip Campaign Committee]], [[NEA Fund for Children and Public Education]], [[Progressive Turnout Project]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Lockheed Martin]], [[Northrop Grumman]], [[Sierra Club Independent Action]], [[UA Political Action Committee]], [[Honeywell]], [[AT&T - WarnerMedia]], [[Courage California Super Pac]], [[CTA - California Teachers Association]], [[National Association of Realtors]], [[Nancy Pelosi]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[Raytheon (RTX)]], [[American Hospital Association PAC]], [[Ford Motor Company]], [[General Motors]], [[Planned Parenthood Votes]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AT&T]], [[Kaiser Permanente]], [[PG&E]], [[Chevron]], [[Fanjul Family - Florida Crystals]], [[Bank of America]], [[Apple]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[League of Conservation Voters]], [[Google - Alphabet]], [[AFL-CIO]], [[National Education Association]], [[Donald S. Beyer]], [[Sierra Club Political Committee]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Frank Pallone]], [[National Committee to Preserve Social Security & Medicare PAC]], [[MEDICARE FOR ALL]], [[Blue Shield of California]], [[CITIZENS TO ELECT RICK LARSEN]], [[Humane Society Legislative Fund]], [[Let America Vote PAC]], [[MIKE THOMPSON FOR CONGRESS]], [[Hakeem Jeffries]], [[Associated General Contractors of America Political Action Committee]], [[NANCY PELOSI FOR CONGRESS]], [[Chris van Hollen]], [[Rick Larsen]], [[Mike Thompson]], [[PG&E - Pacific Gas and Electric]], [[Tenet Healthcare]], [[Anthem - Elevance Health]], [[Valero Energy]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Aviation
@@ -189,44 +189,4 @@ fec-committee-ids:
 | Introduced | Bill | Policy area | Title |
 |---|---|---|---|
 | 2026-03-25 | HR.8073-119 | Education | Protection and Advocacy for Student Success Act |
-| 2026-02-17 | HR.7590-119 | Education | Protecting Student Athletes from Concussions Act of 2025 |
-| 2025-12-23 | HR.6923-119 | Environmental Protection | Jobs for a Carbon Free Transportation System Act |
-| 2025-12-18 | HR.6849-119 | Government Operations and Politics | To designate the facility of the United States Postal Service located at 2121 Meridian Par |
-| 2025-12-04 | HR.6435-119 | Transportation and Public Works | Transportation Megaprojects Accountability and Oversight Act |
-
-*Full list: query Ask with* `subject: bills, sponsor_bioguide: D000623` *· Source: GovInfo Bill Status XML bulk.*
-<!-- auto:sponsored-bills end -->
-
-# Mark DeSaulnier
-
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
-
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 39 |
-| Bills Cosponsored | 653 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (96)
-- Crime and Law Enforcement (62)
-- Labor and Employment (54)
-- Education (52)
-- Government Operations and Politics (48)
-- Civil Rights and Liberties, Minority Issues (40)
-- Transportation and Public Works (37)
-- Agriculture and Food (36)
-- International Affairs (34)
-- Taxation (32)
-
-**Enacted into law:**
-
-- HR 4021: FAA Reauthorization Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
+| 2026-02-17 | HR.7590-119 | Education | Protecting Student Athletes from Concussions

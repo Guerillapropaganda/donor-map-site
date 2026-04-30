@@ -22,10 +22,10 @@ known-gaps:
   - No FEC contribution data
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
-top-donors: "[[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Fidelity Investments]], [[CTA - California Teachers Association]], [[Google - Alphabet]], [[US Chamber of Commerce]], [[NEA Advocacy Fund]], [[Hakeem Jeffries]], [[SHARICE FOR CONGRESS]], [[Sarah Elfreth]], [[SETH FOR MASSACHUSETTS, INC]], [[Akin Gump Strauss Hauer & Feld]], [[League of Conservation Voters]], [[PAUL TONKO FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[National Education Association]], [[ROBERT GARCIA FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Donald S. Beyer]], [[Bradley Scott Schneider]], [[DoorDash]], [[Johnny Olszewski]], [[LANDSMAN FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Gilead Sciences]], [[Lizzie Fletcher]], [[PETE AGUILAR FOR CONGRESS]], [[John B. Larson]], [[NIKKI FOR CONGRESS]], [[Sierra Club Political Committee]], [[GRACE FOR NEW YORK]], [[Kim Schrier]], [[Jasmine Crockett]], [[Pete Aguilar]], [[Nancy Pelosi]], [[Paul Tonko]], [[Judy Chu]], [[Grace Meng]], [[Sharice Davids]], [[Brad Sherman]], [[Nikki Budzinski]], [[Marc A. Veasey]], [[Robert Garcia]], [[Greg Landsman]]"
+top-donors: "[[US CHAMBER OF COMMERCE]], [[Lockheed Martin]], [[Fidelity Investments]], [[CTA - California Teachers Association]], [[Google - Alphabet]], [[US Chamber of Commerce]], [[NEA Advocacy Fund]], [[Hakeem Jeffries]], [[SHARICE FOR CONGRESS]], [[Sarah Elfreth]], [[SETH FOR MASSACHUSETTS, INC]], [[Akin Gump Strauss Hauer & Feld]], [[League of Conservation Voters]], [[PAUL TONKO FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[National Education Association]], [[ROBERT GARCIA FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[Donald S. Beyer]], [[Bradley Scott Schneider]], [[DoorDash]], [[Johnny Olszewski]], [[LANDSMAN FOR CONGRESS]], [[NANCY PELOSI FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Gilead Sciences]], [[Lizzie Fletcher]], [[PETE AGUILAR FOR CONGRESS]], [[John B. Larson]], [[NIKKI FOR CONGRESS]], [[Sierra Club Political Committee]], [[GRACE FOR NEW YORK]], [[Kim Schrier]], [[Jasmine Crockett]], [[Pete Aguilar]], [[Nancy Pelosi]], [[Paul Tonko]], [[Judy Chu]], [[Grace Meng]], [[Sharice Davids]], [[Brad Sherman]], [[Nikki Budzinski]], [[Marc A. Veasey]], [[Robert Garcia]], [[Greg Landsman]], [[Walmart - Walton Family]], [[Microsoft]], [[DMFI - Democratic Majority for Israel]], [[American Hospital Association PAC]], [[General Dynamics]], [[Unite Here Tip Campaign Committee]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[National Association of Realtors]], [[Teamsters - International Brotherhood of Teamsters]], [[AT&T]], [[Emily's List]], [[Anthem - Elevance Health]], [[Northrop Grumman]], [[Comcast - NBCUniversal]], [[IBEW - International Brotherhood of Electrical Workers]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Commodity Markets, Digital Assets, and Rural Development
   - Conservation, Research, and Biotechnology
@@ -34,10 +34,7 @@ committees:
   - Research and Technology
 bills-sponsored: 25
 corroboration-count: 2
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00854471
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

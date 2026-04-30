@@ -12,7 +12,7 @@ aliases:
   - RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE
 known-gaps:
   - No lobbying disclosure data
-politicians-funded: "[[Debbie Stabenow]], [[Haley M. Stevens]], [[Jack Bergman]], [[Mike Rogers]], [[George W. Bush]], [[John McCain]], [[John James]], [[Tim Walberg]], [[Mitt Romney]], [[John R. Moolenaar]]"
+politicians-funded: "[[Debbie Stabenow]], [[Haley M. Stevens]], [[Jack Bergman]], [[Mike Rogers]], [[George W. Bush]], [[John McCain]], [[John James]], [[Tim Walberg]], [[Mitt Romney]], [[John R. Moolenaar]], [[Bill Clinton]]"
 related: "[[Debbie Stabenow]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

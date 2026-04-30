@@ -36,8 +36,7 @@ committees:
   - House Permanent Select Committee on Intelligence
   - Military Personnel
   - Open Source Intelligence
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Leidos]], [[TEXANS FOR JODEY ARRINGTON]], [[Elise Stefanik]], [[NRA Political Victory Fund]], [[Brett Guthrie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[JASON SMITH FOR CONGRESS]], [[Koch Industries]], [[GARBARINO FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Jodey Arrington]], [[Jason Smith]], [[Andrew R. Garbarino]]"
-fec-committee-id: C00750307
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Steve Scalise]], [[Leidos]], [[TEXANS FOR JODEY ARRINGTON]], [[Elise Stefanik]], [[NRA Political Victory Fund]], [[Brett Guthrie]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[JASON SMITH FOR CONGRESS]], [[Koch Industries]], [[GARBARINO FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Jodey Arrington]], [[Jason Smith]], [[Andrew R. Garbarino]], [[William Penz]], [[Sue Partee]], [[National Association of Realtors]], [[Lockheed Martin]], [[Save America PAC]], [[L3Harris Technologies]], [[BAE Systems]], [[AT&T]], [[General Dynamics]], [[Raytheon (RTX Corporation)]], [[Ford Motor Company]], [[Northrop Grumman]], [[Majority PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Marathon Petroleum]], [[NRCC - National Republican Congressional Committee]], [[Valero Energy]], [[Comcast - NBCUniversal]], [[Honeywell International]], [[Chevron]], [[American Chemistry Council, INC]]"
 ---
 
 

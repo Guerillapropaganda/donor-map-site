@@ -23,7 +23,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 corroboration-count: 2
 committees:
   - Digital Assets
@@ -40,15 +40,8 @@ committees:
   - Senate Special Committee on Aging
   - Water and Power
 bills-sponsored: 27
-top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Women Speak Out Pac]], [[Amgen Inc]], [[National Republican Senatorial Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Common Sense for America PAC]], [[GEO Group - Private Prison Industrial Complex]], [[American Principles Fund]], [[Pfizer Inc.]], [[Leidos]], [[Glenn Thompson]], [[Google - Alphabet]], [[America First Action]], [[Republican Jewish Coalition]], [[Daniel Meuser]], [[The Sentinel Action Fund]], [[Club for Growth INC PAC]], [[American Principles Project Pac]], [[National Right to Life Victory Fund]], [[DoorDash]], [[Guy Reschenthaler]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[Brian Babin]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-ids:
-  - C00493601
-  - C00851980
-  - C00800623
-  - C00829515
+top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BABIN FOR CONGRESS]], [[Williams Companies]], [[NRA Political Victory Fund]], [[Women Speak Out Pac]], [[Amgen Inc]], [[National Republican Senatorial Committee]], [[Akin Gump Strauss Hauer & Feld]], [[Common Sense for America PAC]], [[GEO Group - Private Prison Industrial Complex]], [[American Principles Fund]], [[Pfizer Inc.]], [[Leidos]], [[Glenn Thompson]], [[Google - Alphabet]], [[America First Action]], [[Republican Jewish Coalition]], [[Daniel Meuser]], [[The Sentinel Action Fund]], [[Club for Growth INC PAC]], [[American Principles Project Pac]], [[National Right to Life Victory Fund]], [[DoorDash]], [[Guy Reschenthaler]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Koch Industries]], [[Brian Babin]], [[Christina Mrs. Minnis]], [[Bruce Benson]], [[Michael Psaros]], [[Terry Kassel]], [[J Danforth Quayle]], [[Donald L. Mr. Detwiler]], [[James D. Mr. Lackie]], [[Chuckra Chai]], [[Nick Beckwith]], [[Chirag Patel]], [[Samuel H. Pond]], [[William Oberndorf]], [[Lawrence A. Bossidy]], [[James Reibel]], [[D. Scott Mr. Kroh]], [[Anthony Scaramucci]], [[David Kerko]], [[Charles J. Volpe]], [[Carl Kuehner]], [[Igor Tsyganskiy]], [[Paul S. Atkins]], [[Glenn Dubin]], [[Gabriel J. Mr. Hudock]], [[Amy L. Thomas]], [[CLEMENTS MIDWAY PARTNERS LLC]], [[William F. Duhamel]], [[David Javdan]], [[SEGURO MEDICO LLC]], [[Michael Mcgavick]], [[Doug Mccormick]], [[Jennifer A. Wallace]], [[Bernard Mr. Marcus]], [[Alan Breed]], [[Donna L. Kipp]], [[Alexander Karsner]], [[Reclaim America PAC]], [[America PAC - Elon Musk]], [[Majority PAC]], [[Chevron]], [[AT&T]], [[NextEra Energy]], [[Americans for Prosperity]], [[Microsoft]], [[General Dynamics]], [[American Hospital Association PAC]], [[American Chemistry Council, INC]], [[Marathon Petroleum]], [[Citigroup]], [[BAE Systems]], [[Halliburton]], [[Bank of America]], [[L3Harris Technologies]], [[General Motors]], [[Comcast - NBCUniversal]], [[Teamsters - International Brotherhood of Teamsters]], [[Johnson & Johnson]], [[Morgan Stanley]], [[American Conservative Union]], [[Devon Energy]], [[Anthem - Elevance Health]], [[Pennsylvania Pro-Life Federation PAC]], [[Alliance Coal, LLC PAC]], [[Duke Energy]], [[National Association of Realtors]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

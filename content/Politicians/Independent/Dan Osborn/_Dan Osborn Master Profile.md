@@ -24,14 +24,11 @@ cash-on-hand: "575663.35"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
+reenrich-reason: no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)
 fec-debt: "33492.00"
-donors: "[[Retire Career Politicians]] · [[Labor Unions]] · [[Heartland Resurgence]] · [[Railroaders for Public Safety]] · [[ActBlue]] · [[ESAFUND]] · [[Senate Majority PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[NEA Fund for Children and Public Education]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AFL-CIO]] · [[Unite Here Tip Campaign Committee]] · [[Indivisible Action]] · [[Sierra Club Independent Action]] · [[UA Political Action Committee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Progressive Turnout Project]] · [[SEIU COPE]] · [[National Committee to Preserve Social Security PAC]] · [[League of Conservation Voters]] · [[SLF PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[National Nurses United]] · [[Let America Vote PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[National Education Association]] · [[WARREN FOR SENATE, INC.]] · [[Donald S. Beyer]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Democratic Senatorial Campaign Committee]]"
+donors: "[[Retire Career Politicians]] · [[Labor Unions]] · [[Heartland Resurgence]] · [[Railroaders for Public Safety]] · [[ActBlue]] · [[ESAFUND]] · [[Senate Majority PAC]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[NEA Fund for Children and Public Education]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[AFL-CIO]] · [[Unite Here Tip Campaign Committee]] · [[Indivisible Action]] · [[Sierra Club Independent Action]] · [[UA Political Action Committee]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[Progressive Turnout Project]] · [[SEIU COPE]] · [[National Committee to Preserve Social Security PAC]] · [[League of Conservation Voters]] · [[SLF PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[National Nurses United]] · [[Let America Vote PAC]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[National Education Association]] · [[WARREN FOR SENATE, INC.]] · [[Donald S. Beyer]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Democratic Senatorial Campaign Committee]] · [[Anthony B. Evnin]]"
 urls-first-triaged: "2026-04-15"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00901355
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

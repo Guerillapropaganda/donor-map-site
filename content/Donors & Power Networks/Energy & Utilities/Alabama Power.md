@@ -57,11 +57,9 @@ regulatory-agencies:
   - Federal Energy Regulatory Commission
 related: "[[Katie Britt]]"
 cross-vault-triangulation-count: 1
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: |-
+  [JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 epa-facilities: 11
 epa-states: AL
 federal-contracts: 94
@@ -73,8 +71,7 @@ contributions-to-committees: 82500
 employee-contributions: 1818
 employee-contributions-total: 184971
 employee-donor-count: 310
-politicians-funded: "[[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Hmp]], [[_Jimmy Panetta Master Profile]], [[RNC - Republican National Committee]], [[Katie Britt]], [[Alabama Power]], [[Shomari Figures]], [[ActBlue]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[_Mike Rogers Master Profile]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[Votevets]], [[Senate Conservatives Fund]], [[Mike Rogers]], [[Jimmy Panetta]], [[Marco Rubio]], [[HMP]]"
-fec-committee-id: C00077305
+politicians-funded: "[[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Hmp]], [[_Jimmy Panetta Master Profile]], [[RNC - Republican National Committee]], [[Katie Britt]], [[Alabama Power]], [[Shomari Figures]], [[ActBlue]], [[WinRed]], [[NRSC - National Republican Senatorial Committee]], [[_Mike Rogers Master Profile]], [[NRCC - National Republican Congressional Committee]], [[National Rifle Association]], [[Votevets]], [[Senate Conservatives Fund]], [[Mike Rogers]], [[Jimmy Panetta]], [[Marco Rubio]], [[HMP]], [[Gary J. Palmer]], [[Mike Crapo]], [[Terri A. Sewell]], [[Jeff Sessions]], [[Robert B. Aderholt]], [[Tommy Tuberville]], [[Barry Moore]], [[Mitt Romney]], [[Hillary Clinton]], [[Mitch McConnell]], [[George W. Bush]], [[Dale W. Strong]]"
 ---
 
 

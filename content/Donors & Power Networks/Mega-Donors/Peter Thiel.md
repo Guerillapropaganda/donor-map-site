@@ -2,12 +2,12 @@
 title: Peter Thiel
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Dan Bongino]], [[Donald Trump]], [[Matt Mahan]], [[Glenn Greenwald]], [[Nate Silver]], [[David Sacks]], [[Vivek Ramaswamy]], [[Mike Johnson]], [[Bari Weiss]], [[JD Vance]], [[Russell Brand]], [[Lex Fridman]], [[David Sacks - Donor Network]], [[David Sacks (Donor Network)]]"
+politicians-funded: "[[Dan Bongino]], [[Donald Trump]], [[Matt Mahan]], [[Glenn Greenwald]], [[Nate Silver]], [[David Sacks]], [[Vivek Ramaswamy]], [[Mike Johnson]], [[Bari Weiss]], [[JD Vance]], [[Russell Brand]], [[Lex Fridman]], [[David Sacks - Donor Network]], [[David Sacks (Donor Network)]], [[Kevin McCarthy]]"
 subawards-issued: 50
 subawards-received: 50
 federal-register-mentions: 1

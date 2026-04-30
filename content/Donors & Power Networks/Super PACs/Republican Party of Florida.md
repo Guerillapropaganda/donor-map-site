@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - No lobbying disclosure data
 related: "[[George W. Bush]]"
-politicians-funded: "[[George W. Bush]], [[Jimmy Patronis]], [[WinRed]], [[Anna Paulina Luna]], [[Kamala Harris]], [[Michael Waltz]], [[Trump Victory]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Daniel Webster Master Profile]], [[Lauren Boebert]], [[Daniel Webster]], [[Cory Mills]], [[Randy Fine]], [[Aaron Bean]], [[Ron Johnson]], [[Republican Party of Florida]], [[GOLDS CATERING & EVENTS]], [[Donald Trump]], [[Marco Rubio]]"
+politicians-funded: "[[George W. Bush]], [[Jimmy Patronis]], [[WinRed]], [[Anna Paulina Luna]], [[Kamala Harris]], [[Michael Waltz]], [[Trump Victory]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Daniel Webster Master Profile]], [[Lauren Boebert]], [[Daniel Webster]], [[Cory Mills]], [[Randy Fine]], [[Aaron Bean]], [[Ron Johnson]], [[Republican Party of Florida]], [[GOLDS CATERING & EVENTS]], [[Donald Trump]], [[Marco Rubio]], [[Ron DeSantis]], [[Vern Buchanan]], [[Carlos Gimenez]], [[Neal P. Dunn]], [[John McCain]], [[Maria Elvira Salazar]], [[Ashley Hinson]], [[Randy Feenstra]], [[Scott Franklin]], [[Mike Rogers]], [[Cindy Hyde-Smith]], [[Tom Cole]], [[John Thune]], [[JD Vance]], [[Andrew Ogles]], [[Rick Scott]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

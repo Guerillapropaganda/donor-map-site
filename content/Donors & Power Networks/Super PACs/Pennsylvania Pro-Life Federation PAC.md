@@ -11,8 +11,8 @@ fec-committee-id: C00172361
 aliases:
   - PENNSYLVANIA PRO-LIFE FEDERATION PAC
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Glenn Thompson]], [[Chrissy Houlahan]], [[Scott Perry]], [[Dwight Evans]], [[Guy Reschenthaler]], [[Madeleine Dean]], [[John Fetterman]], [[Lloyd Smucker]], [[Donald Trump]], [[Ryan Mackenzie]], [[John Joyce]], [[Summer Lee]], [[Kamala Harris]], [[Mike Kelly]], [[Daniel Meuser]], [[Brendan Boyle]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Glenn Thompson]], [[Chrissy Houlahan]], [[Scott Perry]], [[Dwight Evans]], [[Guy Reschenthaler]], [[Madeleine Dean]], [[John Fetterman]], [[Lloyd Smucker]], [[Donald Trump]], [[Ryan Mackenzie]], [[John Joyce]], [[Summer Lee]], [[Kamala Harris]], [[Mike Kelly]], [[Daniel Meuser]], [[Brendan Boyle]], [[David McCormick]]"
 related: "[[Glenn Thompson]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ cash-on-hand: 57939
 individual-contributions: 3918
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

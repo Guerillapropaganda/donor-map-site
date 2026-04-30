@@ -11,8 +11,8 @@ fec-committee-id: C00025254
 aliases:
   - MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Ilhan Omar]], [[Kelly Morrison]], [[Kamala Harris]], [[Amy Klobuchar]], [[Betty McCollum]], [[Tina Smith]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Ilhan Omar]], [[Kelly Morrison]], [[Kamala Harris]], [[Amy Klobuchar]], [[Betty McCollum]], [[Tina Smith]], [[Tim Walz]], [[Barack Obama]], [[Joe Biden]], [[Kyrsten Sinema]], [[Angie Craig]], [[Hillary Clinton]], [[Ron Wyden]]"
 related: "[[Ilhan Omar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

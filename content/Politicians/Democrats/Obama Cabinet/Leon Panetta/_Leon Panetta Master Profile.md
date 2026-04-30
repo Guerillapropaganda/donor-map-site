@@ -12,7 +12,7 @@ known-gaps:
   - No voting record data
 source-types:
   - Congress
-donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[National Education Association]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Goldman Sachs]]"
+donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[National Education Association]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Goldman Sachs]] · [[SEIU COPE]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[National Association of Realtors]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[UA Political Action Committee]] · [[Anthem - Elevance Health]] · [[Care Action]] · [[Teamsters - International Brotherhood of Teamsters]] · [[PG&E - Pacific Gas and Electric]] · [[American Hospital Association PAC]] · [[DCCC - Democratic Congressional Campaign Committee]] · [[Bank of America]]"
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 ---

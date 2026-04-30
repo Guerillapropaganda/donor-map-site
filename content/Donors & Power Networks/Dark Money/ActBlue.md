@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-politicians-funded: "[[Adrian Smith]], [[Katherine M. Clark]], [[Joe Biden]], [[Dan Osborn]], [[Jon Ossoff]], [[Christopher H. Smith]], [[Tina Smith]], [[James C. Justice]], [[Adam Smith]], [[Jason Smith]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[Los Angeles County Democratic Central Committee]], [[JUSTICE DEMOCRATS PAC]], [[_Cory Booker Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Rashida Tlaib Master Profile]], [[Indivisible Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Really American Pac]], [[_Kevin Mullin Master Profile]], [[_Deb Haaland Master Profile]], [[Emily's List]], [[Barbara Lee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Cory Booker]], [[Kevin Mullin]], [[Deb Haaland]], [[Rashida Tlaib]], [[Justice Democrats PAC]], [[Minnesota Democratic-Farmer-Labor Party]]"
+politicians-funded: "[[Adrian Smith]], [[Katherine M. Clark]], [[Joe Biden]], [[Dan Osborn]], [[Jon Ossoff]], [[Christopher H. Smith]], [[Tina Smith]], [[James C. Justice]], [[Adam Smith]], [[Jason Smith]], [[_Jon Ossoff Master Profile]], [[ActBlue]], [[Los Angeles County Democratic Central Committee]], [[JUSTICE DEMOCRATS PAC]], [[_Cory Booker Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[_Rashida Tlaib Master Profile]], [[Indivisible Action]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Really American Pac]], [[_Kevin Mullin Master Profile]], [[_Deb Haaland Master Profile]], [[Emily's List]], [[Barbara Lee]], [[DCCC - Democratic Congressional Campaign Committee]], [[Cory Booker]], [[Kevin Mullin]], [[Deb Haaland]], [[Rashida Tlaib]], [[Justice Democrats PAC]], [[Minnesota Democratic-Farmer-Labor Party]], [[Tony Thurmond]], [[Andre Carson]]"
 issues:
   - Infrastructure
   - Dark Money & Campaign Finance
@@ -64,12 +64,7 @@ source-types:
   - SEC
 corroboration-count: 4
 known-gaps:
-  - "No lobbying disclosure data"
-fec-committee-ids:
-  - C00401224
-  - C00834200
-  - C00914135
-  - C00928432
+  - No lobbying disclosure data
 ---
 
 

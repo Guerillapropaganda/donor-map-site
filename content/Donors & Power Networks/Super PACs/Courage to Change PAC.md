@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - COURAGE TO CHANGE
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Summer Lee]], [[Patrick Ryan]], [[Lauren Underwood]], [[Sharice Davids]], [[Rashida Tlaib]], [[Kim Schrier]], [[Nina Turner]], [[Cori Bush]], [[RNC - Republican National Committee]], [[Ayanna Pressley]], [[Ilhan Omar]], [[Andre Carson]], [[Steven Horsford]], [[Susie Lee]], [[Jon Ossoff]], [[Derek Tran]], [[Jahana Hayes]], [[Bernie Sanders]], [[Mike Levin]], [[Vicente Gonzalez]], [[Josh Harder]], [[Jamaal Bowman]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Summer Lee]], [[Patrick Ryan]], [[Lauren Underwood]], [[Sharice Davids]], [[Rashida Tlaib]], [[Kim Schrier]], [[Nina Turner]], [[Cori Bush]], [[RNC - Republican National Committee]], [[Ayanna Pressley]], [[Ilhan Omar]], [[Andre Carson]], [[Steven Horsford]], [[Susie Lee]], [[Jon Ossoff]], [[Derek Tran]], [[Jahana Hayes]], [[Bernie Sanders]], [[Mike Levin]], [[Vicente Gonzalez]], [[Josh Harder]], [[Jamaal Bowman]], [[Greg Casar]], [[Melanie A. Stansbury]], [[Angie Craig]], [[Haley M. Stevens]], [[Elissa Slotkin]], [[Lucy McBath]], [[Katie Porter]], [[Sylvia R. Garcia]], [[Christopher R. Deluzio]], [[Delia C. Ramirez]], [[Jared F. Golden]], [[Teresa Leger Fernandez]], [[Andy Kim]], [[Lizzie Fletcher]], [[Chris Pappas]]"
 related: "[[Summer Lee]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -27,8 +27,7 @@ employee-contributions-total: 200
 employee-donor-count: 1
 source-types:
   - FEC
-last-enriched: 2026-04-21
-fec-committee-id: C00692202
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -23,7 +23,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Education and the American Family
   - Employment and Workplace Safety
@@ -38,11 +38,8 @@ committees:
   - Transportation and Infrastructure
 bills-sponsored: 24
 corroboration-count: 2
-top-donors: "[[NEA Advocacy Fund]], [[Amgen Inc]], [[Giffords PAC]], [[Meta - Facebook]], [[Working Families Party PAC]], [[National Education Association]], [[WARNOCK FOR GEORGIA]], [[League of Conservation Voters]], [[Glenn Ivey]], [[AbbVie]], [[National Nurses United]], [[JASMINE FOR US]], [[WARREN FOR SENATE, INC.]], [[John Fetterman]], [[Yvette D. Clarke]], [[Protecting Our Vote Pac]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Sierra Club Political Committee]], [[Save America PAC]], [[J Street]], [[Democratic Senatorial Campaign Committee]], [[National Nurses United for Patient Protection]], [[Chris Murphy]], [[James E. Clyburn]], [[NANCY PELOSI FOR CONGRESS]], [[Steny H. Hoyer]], [[Google - Alphabet]], [[Demand Justice]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Coinbase]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]], [[Jasmine Crockett]], [[Raphael Warnock]], [[Hakeem Jeffries]], [[Nancy Pelosi]], [[Chrissy Houlahan]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00840017
+top-donors: "[[NEA Advocacy Fund]], [[Amgen Inc]], [[Giffords PAC]], [[Meta - Facebook]], [[Working Families Party PAC]], [[National Education Association]], [[WARNOCK FOR GEORGIA]], [[League of Conservation Voters]], [[Glenn Ivey]], [[AbbVie]], [[National Nurses United]], [[JASMINE FOR US]], [[WARREN FOR SENATE, INC.]], [[John Fetterman]], [[Yvette D. Clarke]], [[Protecting Our Vote Pac]], [[Let America Vote PAC]], [[Pfizer Inc.]], [[Sierra Club Political Committee]], [[Save America PAC]], [[J Street]], [[Democratic Senatorial Campaign Committee]], [[National Nurses United for Patient Protection]], [[Chris Murphy]], [[James E. Clyburn]], [[NANCY PELOSI FOR CONGRESS]], [[Steny H. Hoyer]], [[Google - Alphabet]], [[Demand Justice]], [[CHRISSY HOULAHAN FOR CONGRESS]], [[Coinbase]], [[Planned Parenthood Action Fund INC]], [[Gilead Sciences]], [[Jasmine Crockett]], [[Raphael Warnock]], [[Hakeem Jeffries]], [[Nancy Pelosi]], [[Chrissy Houlahan]], [[Progressive Turnout Project]], [[Teamsters - International Brotherhood of Teamsters]], [[Morgan Stanley]], [[Unite Here Tip Campaign Committee]], [[Care Action]], [[SEIU COPE]], [[General Motors]], [[Everytown for Gun Safety]], [[UA Political Action Committee]], [[IBEW - International Brotherhood of Electrical Workers]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[DMFI - Democratic Majority for Israel]], [[American Hospital Association PAC]], [[Comcast - NBCUniversal]], [[National Association of Realtors]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Johnson & Johnson]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

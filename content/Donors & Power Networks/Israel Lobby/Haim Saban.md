@@ -2,12 +2,12 @@
 title: Haim Saban
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Israel Lobby
 entity-type: Individual Donor
-politicians-funded: "[[Benjamin Netanyahu]], [[Nancy Pelosi]], [[Kamala Harris]], [[Joe Biden]], [[Gavin Newsom]], [[Hakeem Jeffries]]"
+politicians-funded: "[[Benjamin Netanyahu]], [[Nancy Pelosi]], [[Kamala Harris]], [[Joe Biden]], [[Gavin Newsom]], [[Hakeem Jeffries]], [[Antonio Villaraigosa]], [[Xavier Becerra]], [[Joe Manchin]], [[Adam Schiff]]"
 issues:
   - Israel & Foreign Policy
 ein: 306473477

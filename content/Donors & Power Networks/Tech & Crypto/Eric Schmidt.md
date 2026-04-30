@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Individual Donor
-politicians-funded: "[[Mike Lee]], [[Barack Obama]], [[JD Vance]], [[Donald Trump]], [[Kamala Harris]]"
+politicians-funded: "[[Mike Lee]], [[Barack Obama]], [[JD Vance]], [[Donald Trump]], [[Kamala Harris]], [[Nancy Pelosi]]"
 issues:
   - Technology
   - Defense & Military

@@ -7,8 +7,8 @@ source-tier: 3
 sector: Labor Unions
 entity-type: corporation
 known-gaps:
-  - "No SEC corporate filings"
-  - "No lobbying disclosure data"
+  - No SEC corporate filings
+  - No lobbying disclosure data
 source-types:
   - FEC
 related: "[[Economic Policy Institute]] · [[Ohio Federation of Teachers]]"
@@ -16,8 +16,8 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 245
 employee-contributions-total: 44502
 employee-donor-count: 75
-politicians-funded: "[[ActBlue]], [[_Bonnie Watson Coleman Master Profile]], [[Emily's List]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Tammy Baldwin Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[WinSenate]], [[_Kamala Harris Master Profile]], [[_Jon Ossoff Master Profile]], [[Working Families Party PAC]], [[Jon Ossoff]], [[Bonnie Watson Coleman]], [[Tammy Baldwin]], [[Kamala Harris]], [[Minnesota Democratic-Farmer-Labor Party]]"
-last-enriched: 2026-04-21
+politicians-funded: "[[ActBlue]], [[_Bonnie Watson Coleman Master Profile]], [[Emily's List]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Tammy Baldwin Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[WinSenate]], [[_Kamala Harris Master Profile]], [[_Jon Ossoff Master Profile]], [[Working Families Party PAC]], [[Jon Ossoff]], [[Bonnie Watson Coleman]], [[Tammy Baldwin]], [[Kamala Harris]], [[Minnesota Democratic-Farmer-Labor Party]], [[Xavier Becerra]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

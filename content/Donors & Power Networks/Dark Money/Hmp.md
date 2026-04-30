@@ -11,7 +11,7 @@ last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 fec-ie-support: "null"
 fec-ie-oppose: $11,742,125
-politicians-funded: "[[Ken Calvert]], [[Bryan Steil]], [[Ryan Zinke]], [[Steven Horsford]], [[Seth Magaziner]], [[Vicente Gonzalez]], [[Sharice Davids]], [[Kristen McDonald Rivet]], [[John James]], [[Chrissy Houlahan]], [[Susie Lee]], [[WinRed]], [[Derek Tran]], [[Andrea Salinas]], [[Mariannette Miller-Meeks]], [[Eric Sorensen]], [[Shomari Figures]], [[Dina Titus]], [[Derrick van Orden]], [[Marcy Kaptur]], [[Michael Lawler]], [[Patrick Ryan]], [[Scott Perry]], [[Henry Cuellar]], [[Josh Harder]], [[Sean Casten]], [[Marie Gluesenkamp Perez]], [[The Lincoln Project]], [[David Schweikert]], [[Monica de la Cruz]], [[Donald Trump]], [[Ryan Mackenzie]], [[Greg Landsman]], [[MAGA Inc]], [[ActBlue]], [[George Whitesides]], [[Lauren Underwood]], [[Mike Levin]], [[Jahana Hayes]], [[Kim Schrier]], [[Adam Gray]], [[Nikki Budzinski]], [[Josh Riley]], [[Dave Min]], [[Laura Gillen]], [[RNC - Republican National Committee]], [[Greg Stanton]], [[Teresa Leger Fernandez]], [[Save America PAC]], [[Brittany Pettersen]]"
+politicians-funded: "[[Ken Calvert]], [[Bryan Steil]], [[Ryan Zinke]], [[Steven Horsford]], [[Seth Magaziner]], [[Vicente Gonzalez]], [[Sharice Davids]], [[Kristen McDonald Rivet]], [[John James]], [[Chrissy Houlahan]], [[Susie Lee]], [[WinRed]], [[Derek Tran]], [[Andrea Salinas]], [[Mariannette Miller-Meeks]], [[Eric Sorensen]], [[Shomari Figures]], [[Dina Titus]], [[Derrick van Orden]], [[Marcy Kaptur]], [[Michael Lawler]], [[Patrick Ryan]], [[Scott Perry]], [[Henry Cuellar]], [[Josh Harder]], [[Sean Casten]], [[Marie Gluesenkamp Perez]], [[The Lincoln Project]], [[David Schweikert]], [[Monica de la Cruz]], [[Donald Trump]], [[Ryan Mackenzie]], [[Greg Landsman]], [[MAGA Inc]], [[ActBlue]], [[George Whitesides]], [[Lauren Underwood]], [[Mike Levin]], [[Jahana Hayes]], [[Kim Schrier]], [[Adam Gray]], [[Nikki Budzinski]], [[Josh Riley]], [[Dave Min]], [[Laura Gillen]], [[RNC - Republican National Committee]], [[Greg Stanton]], [[Teresa Leger Fernandez]], [[Save America PAC]], [[Brittany Pettersen]], [[Jefferson van Drew]], [[Val T. Hoyle]], [[Suzan K. Delbene]], [[John W. Mannion]], [[Eugene Simon Vindman]], [[Hillary J. Scholten]], [[Angie Craig]], [[Julia Brownley]], [[Andy Kim]], [[Jacky Rosen]], [[Chris Pappas]], [[Bill Foster]], [[Sanford D. Bishop]], [[Elissa Slotkin]], [[Tammy Duckworth]], [[Donald G. Davis]], [[Kyrsten Sinema]], [[Josh Gottheimer]], [[Thomas R. Suozzi]], [[Christopher R. Deluzio]], [[Janelle S. Bynum]], [[Frank J. Mrvan]], [[Young Kim]], [[Joe Courtney]], [[Salud O. Carbajal]], [[Katie Porter]], [[Jared F. Golden]], [[Lucy McBath]], [[Joe Biden]], [[Barack Obama]], [[Emilia Strong Sykes]], [[Ami Bera]], [[Lizzie Fletcher]], [[Pablo Jose Hernandez]], [[Donald Norcross]], [[Jon Ossoff]], [[Gilbert Ray Cisneros]], [[Jason Crow]], [[Seth Moulton]], [[Scott H. Peters]], [[Haley M. Stevens]], [[Nellie Pou]]"
 related: "[[Ken Calvert]] · [[Bryan Steil]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -33,9 +33,8 @@ source-types:
   - USASpending
 corroboration-count: 2
 known-gaps:
-  - "No lobbying disclosure data"
-last-enriched: 2026-04-21
-fec-committee-id: C00495028
+  - No lobbying disclosure data
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

@@ -2,7 +2,7 @@
 title: Reed Hastings
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Mega-Donors
@@ -40,7 +40,7 @@ regulatory-agencies:
   - Securities and Exchange Commission
 related: "[[Silicon Valley Democratic Donor Network]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[Laurene Powell Jobs]] · [[Hollywood Democratic Donor Network]] · [[Kamala Harris]] · [[Joe Biden]] · [[Barack Obama]]"
 total-political-spend: $28,513,162
-politicians-funded: "[[Hakeem Jeffries]], [[CSPOA - The Anti-Government Sheriff Network]], [[Barack Obama]], [[Joe Biden]], [[Kamala Harris]]"
+politicians-funded: "[[Hakeem Jeffries]], [[CSPOA - The Anti-Government Sheriff Network]], [[Barack Obama]], [[Joe Biden]], [[Kamala Harris]], [[Tony Thurmond]], [[Antonio Villaraigosa]], [[Michael Bennet]]"
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
 checklist-na:

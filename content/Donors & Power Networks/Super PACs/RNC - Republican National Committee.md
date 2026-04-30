@@ -10,8 +10,8 @@ source-tier: 1
 aliases:
   - REPUBLICAN NATIONAL COMMITTEE
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 ofac-sdn-match: "true"
 last-enriched: "2026-04-14"
 ofac-programs:
@@ -30,7 +30,7 @@ contributions-to-committees: 50000
 employee-contributions: 580
 employee-contributions-total: 419323
 employee-donor-count: 114
-politicians-funded: "[[WinRed]], [[_Beth van Duyne Master Profile]], [[RNC - Republican National Committee]], [[Michigan Republican Party]], [[Donald Trump]], [[Trump Victory]], [[_Ron Johnson Master Profile]], [[Michael Lawler]], [[Mike Carey]], [[MISSISSIPPI REPUBLICAN PARTY]], [[MAGA Inc]], [[Darin Lahood]], [[_John James Master Profile]], [[_Tony Gonzales Master Profile]], [[_Ann Wagner Master Profile]], [[Raphael Warnock]], [[_Doug Burgum Master Profile]], [[_Marco Rubio Master Profile]], [[Elise Stefanik]], [[Jon Ossoff]], [[Marco Rubio]], [[Beth van Duyne]], [[Tony Gonzales]], [[Doug Burgum]], [[Ann Wagner]], [[John James]], [[Ron Johnson]], [[Mississippi Republican Party]], [[George W. Bush]]"
+politicians-funded: "[[WinRed]], [[_Beth van Duyne Master Profile]], [[RNC - Republican National Committee]], [[Michigan Republican Party]], [[Donald Trump]], [[Trump Victory]], [[_Ron Johnson Master Profile]], [[Michael Lawler]], [[Mike Carey]], [[MISSISSIPPI REPUBLICAN PARTY]], [[MAGA Inc]], [[Darin Lahood]], [[_John James Master Profile]], [[_Tony Gonzales Master Profile]], [[_Ann Wagner Master Profile]], [[Raphael Warnock]], [[_Doug Burgum Master Profile]], [[_Marco Rubio Master Profile]], [[Elise Stefanik]], [[Jon Ossoff]], [[Marco Rubio]], [[Beth van Duyne]], [[Tony Gonzales]], [[Doug Burgum]], [[Ann Wagner]], [[John James]], [[Ron Johnson]], [[Mississippi Republican Party]], [[George W. Bush]], [[Robert B. Aderholt]], [[Marsha Blackburn]], [[Aumua Amata Coleman Radewagen]], [[Shelley Moore Capito]], [[Glenn Thompson]], [[Tom Cotton]], [[Mike Rogers]], [[Joni Ernst]], [[Mitt Romney]], [[Mike Bost]], [[Christopher H. Smith]], [[Richard Hudson]], [[Jim Inhofe]], [[Andy Barr]], [[Cathy McMorris Rodgers]], [[Kevin Cramer]], [[Claudia Tenney]], [[Troy Balderson]], [[John Thune]], [[Susan Collins]], [[Rick W. Allen]], [[Dan Coats]], [[Adrian Smith]], [[John McCain]], [[Mark Green]], [[Pete Sessions]], [[Mike Rounds]], [[Mike Crapo]], [[Sam Graves]], [[David Schweikert]], [[Brian Mast]], [[Roger Wicker]], [[Virginia Foxx]], [[Lindsey Graham]], [[Chuck Grassley]], [[Mitch McConnell]], [[Harold Rogers]], [[Mariannette Miller-Meeks]], [[Andy Harris]], [[Donald G. Davis]], [[Thomas P. Tiffany]], [[Randy K. Weber]], [[Bill Cassidy]], [[Paul Ryan]], [[Ray LaHood]], [[John Cornyn]], [[Lee Zeldin]], [[Josh Hawley]], [[Robert J. Wittman]], [[Tom Cole]], [[Michael K. Simpson]], [[David Rouzer]], [[Ralph Norman]], [[Frank Lucas]], [[Mike Collins]], [[Ken Calvert]], [[Chuck Hagel]], [[Tim Walberg]], [[Thom Tillis]], [[Robert E. Latta]], [[Michael R. Turner]], [[Gus M. Bilirakis]], [[Cynthia M. Lummis]], [[Todd Young]], [[Nick Lalota]], [[Jeff Sessions]], [[Joe Wilson]], [[Jack Bergman]], [[Brian Babin]], [[Don Bacon]], [[Mark E. Amodei]], [[John Boozman]], [[Nicole Malliotakis]], [[Mario Diaz-Balart]], [[Brian K. Fitzpatrick]]"
 source-types:
   - FEC
 fec-committee-ids:

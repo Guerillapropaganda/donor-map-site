@@ -11,7 +11,7 @@ party: Republican
 chamber: Cabinet
 state: Kansas
 state-abbr: KS
-top-donors: "[[Koch Network - Charles Koch]], [[Pfizer Inc.]], [[Cargill]], [[AbbVie]], [[McDonalds Corporation]], [[Humana]], [[Monsanto - Bayer]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[Richard Hudson]], [[Club for Growth INC PAC]], [[National Restaurant Association]], [[ADM - Archer Daniels Midland]], [[Southern Company]], [[Kansans for Life Political Action Committee]], [[PETE SESSIONS FOR CONGRESS]], [[Williams Companies]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[Leidos]], [[NRA Political Victory Fund]], [[Occidental Petroleum]], [[Meta - Facebook]], [[American College of Radiology Association PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Steve Scalise]], [[CVS Health - Aetna]], [[Pete Sessions]], [[Kevin McCarthy]], [[Amgen Inc]], [[Mike Rogers]], [[National Right to Life PAC]], [[American Chemistry Council, INC]], [[Family Research Council Action Political Action Committee]]"
+top-donors: "[[Koch Network - Charles Koch]], [[Pfizer Inc.]], [[Cargill]], [[AbbVie]], [[McDonalds Corporation]], [[Humana]], [[Monsanto - Bayer]], [[Koch Industries]], [[National Cattlemen's Beef Association]], [[Richard Hudson]], [[Club for Growth INC PAC]], [[National Restaurant Association]], [[ADM - Archer Daniels Midland]], [[Southern Company]], [[Kansans for Life Political Action Committee]], [[PETE SESSIONS FOR CONGRESS]], [[Williams Companies]], [[Associated General Contractors of America Political Action Committee]], [[Google - Alphabet]], [[Leidos]], [[NRA Political Victory Fund]], [[Occidental Petroleum]], [[Meta - Facebook]], [[American College of Radiology Association PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Steve Scalise]], [[CVS Health - Aetna]], [[Pete Sessions]], [[Kevin McCarthy]], [[Amgen Inc]], [[Mike Rogers]], [[National Right to Life PAC]], [[American Chemistry Council, INC]], [[Family Research Council Action Political Action Committee]], [[AT&T]], [[General Dynamics]], [[Duke Energy]], [[Comcast - NBCUniversal]], [[Majority PAC]], [[Walmart - Walton Family]], [[Chevron]], [[Lockheed Martin]], [[Ford Motor Company]], [[Valero Energy]], [[Honeywell International]], [[Raytheon (RTX Corporation)]], [[Care Action]], [[Microsoft]], [[L3Harris Technologies]], [[ConocoPhillips]], [[Halliburton]], [[National Association of Realtors]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[Alliance Coal, LLC PAC]], [[Devon Energy]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Johnson & Johnson]], [[Reclaim America PAC]], [[National Multifamily Housing Council]], [[iHeartMedia]], [[Marathon Petroleum]], [[General Motors]], [[American Hospital Association PAC]], [[NRCC - National Republican Congressional Committee]], [[BAE Systems]], [[NextEra Energy]]"
 govtrack-id: 412431
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -25,11 +25,8 @@ known-gaps:
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 last-enriched: 2026-04-20T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00460402
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

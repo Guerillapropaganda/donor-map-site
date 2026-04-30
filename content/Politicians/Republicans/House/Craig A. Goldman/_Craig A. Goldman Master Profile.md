@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Commerce, Manufacturing, and Trade
   - Communications and Technology
@@ -32,11 +32,8 @@ committees:
   - House Committee on Energy and Commerce
 bills-sponsored: 7
 corroboration-count: 2
-top-donors: "[[National Restaurant Association]], [[Robert E. Latta]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Brett Guthrie]], [[Tom Emmer]], [[NRA Political Victory Fund]], [[Carol D. Miller]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[David P. Joyce]], [[Brandon Gill]], [[DAVID ROUZER FOR CONGRESS]], [[Meta - Facebook]], [[JIM JORDAN FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[WEBER FOR CONGRESS]], [[TROY DOWNING FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Koch Industries]], [[Guy Reschenthaler]], [[Republican Jewish Coalition]], [[Occidental Petroleum]], [[Google - Alphabet]], [[Southern Company]], [[Pete Sessions]], [[Mike Haridopolos]], [[David Rouzer]], [[Troy Downing]], [[Jim Jordan]], [[Randy K. Weber]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00855528
+top-donors: "[[National Restaurant Association]], [[Robert E. Latta]], [[Associated General Contractors of America Political Action Committee]], [[AIPAC - American Israel Public Affairs Committee]], [[Brett Guthrie]], [[Tom Emmer]], [[NRA Political Victory Fund]], [[Carol D. Miller]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[David P. Joyce]], [[Brandon Gill]], [[DAVID ROUZER FOR CONGRESS]], [[Meta - Facebook]], [[JIM JORDAN FOR CONGRESS]], [[National Cattlemen's Beef Association]], [[Defend American Jobs]], [[WEBER FOR CONGRESS]], [[TROY DOWNING FOR CONGRESS]], [[PETE SESSIONS FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[MIKE HARIDOPOLOS FOR CONGRESS]], [[Koch Industries]], [[Guy Reschenthaler]], [[Republican Jewish Coalition]], [[Occidental Petroleum]], [[Google - Alphabet]], [[Southern Company]], [[Pete Sessions]], [[Mike Haridopolos]], [[David Rouzer]], [[Troy Downing]], [[Jim Jordan]], [[Randy K. Weber]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[American Chemistry Council, INC]], [[Marathon Petroleum]], [[Anthem - Elevance Health]], [[Duke Energy]], [[General Dynamics]], [[Chevron]], [[Majority PAC]], [[Valero Energy]], [[Honeywell International]], [[AT&T]], [[General Motors]], [[Comcast - NBCUniversal]], [[Lockheed Martin]], [[Performance Racing Inc.]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

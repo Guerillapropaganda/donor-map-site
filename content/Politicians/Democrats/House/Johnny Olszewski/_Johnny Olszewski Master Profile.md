@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Africa
   - East Asia and Pacific
@@ -34,11 +34,8 @@ committees:
   - Rural Development, Energy, and Supply Chains
 bills-sponsored: 10
 corroboration-count: 2
-top-donors: "[[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[AFL-CIO]], [[Robin L. Kelly]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Richard Neal]], [[National Education Association]], [[Protect Progress]], [[J Street]], [[American Gaming Association]], [[KWEISI MFUME FOR CONGRESS]], [[Pete Aguilar]], [[Ted Lieu]], [[Kweisi Mfume]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00867747
+top-donors: "[[Bradley Scott Schneider]], [[PETE AGUILAR FOR CONGRESS]], [[AFL-CIO]], [[Robin L. Kelly]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[League of Conservation Voters]], [[AIPAC - American Israel Public Affairs Committee]], [[Richard Neal]], [[National Education Association]], [[Protect Progress]], [[J Street]], [[American Gaming Association]], [[KWEISI MFUME FOR CONGRESS]], [[Pete Aguilar]], [[Ted Lieu]], [[Kweisi Mfume]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[IBEW - International Brotherhood of Electrical Workers]], [[DMFI - Democratic Majority for Israel]], [[Unite Here Tip Campaign Committee]], [[SEIU COPE]], [[UA Political Action Committee]], [[National Association of Realtors]], [[Raytheon (RTX Corporation)]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[American Hospital Association PAC]], [[General Dynamics]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[Comcast - NBCUniversal]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

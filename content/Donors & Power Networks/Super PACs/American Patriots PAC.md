@@ -10,9 +10,9 @@ source-tier: 1
 aliases:
   - AMERICAN PATRIOTS PAC
 known-gaps:
-  - "No lobbying disclosure data"
+  - No lobbying disclosure data
 related: "[[Michael Waltz]]"
-politicians-funded: "[[Michael Waltz]], [[Raphael Warnock]], [[Morgan Luttrell]]"
+politicians-funded: "[[Michael Waltz]], [[Raphael Warnock]], [[Morgan Luttrell]], [[John J. McGuire]], [[Jake Ellzey]], [[Dan Crenshaw]], [[Matt van Epps]], [[Derrick van Orden]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -22,7 +22,7 @@ total-spent: 388604
 cash-on-hand: 691610
 independent-expenditures: 329827
 individual-contributions: 29199
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 fec-committee-ids:

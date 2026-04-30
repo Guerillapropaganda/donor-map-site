@@ -38,7 +38,7 @@ bills-sponsored: 51
 bills-cosponsored: 602
 bills-enacted: 0
 top-policy-area: Health
-top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]], [[Morgan Stanley]], [[J Street]], [[League of Conservation Voters]], [[Lockheed Martin]], [[Leidos]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[National Committee to Preserve Social Security PAC]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[iHeartMedia]], [[NEA Fund for Children and Public Education]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[Microsoft]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Motors]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Anthem - Elevance Health]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Sierra Club Political Committee]], [[Citigroup]], [[Nancy Pelosi]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Giffords PAC]], [[National Education Association]], [[SEIU COPE]], [[NextEra Energy]], [[General Dynamics]], [[Everytown for Gun Safety]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[American College of Radiology Association PAC]], [[NEA Advocacy Fund]], [[Steny H. Hoyer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[AFL-CIO]], [[Amgen Inc]], [[Humana]], [[Donald S. Beyer]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Blue Shield of California]], [[HUFFMAN FOR CONGRESS]], [[Janice D. Schakowsky]], [[Planned Parenthood Action Fund INC]], [[Sinclair Broadcast Group]], [[Chris Murphy]], [[Akin Gump Strauss Hauer & Feld]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Bechtel Corporation]], [[CVS Health - Aetna]], [[National Nurses United]], [[NANCY PELOSI FOR CONGRESS]], [[Xavier Becerra]], [[Occidental Petroleum]], [[Friends of the Earth (action) INC]], [[Gerry Connolly]], [[Jerrold Nadler]], [[John B. Larson]], [[Lloyd Doggett]], [[Jared Huffman]]"
+top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]], [[Morgan Stanley]], [[J Street]], [[League of Conservation Voters]], [[Lockheed Martin]], [[Leidos]], [[Progressive Turnout Project]], [[AT&T - WarnerMedia]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[National Committee to Preserve Social Security PAC]], [[Ford Motor Company]], [[Teamsters - International Brotherhood of Teamsters]], [[iHeartMedia]], [[NEA Fund for Children and Public Education]], [[McDonalds Corporation]], [[National Restaurant Association]], [[National Association of Realtors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Multifamily Housing Council]], [[Microsoft]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Motors]], [[Honeywell]], [[Comcast - NBCUniversal]], [[Anthem - Elevance Health]], [[Pfizer Inc.]], [[Sierra Club Independent Action]], [[Sierra Club Political Committee]], [[Citigroup]], [[Nancy Pelosi]], [[American Federation of State County & Municipal Employees P E O P L E]], [[Giffords PAC]], [[National Education Association]], [[SEIU COPE]], [[NextEra Energy]], [[General Dynamics]], [[Everytown for Gun Safety]], [[Honeywell International]], [[AT&T]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Raytheon (RTX Corporation)]], [[American College of Radiology Association PAC]], [[NEA Advocacy Fund]], [[Steny H. Hoyer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[AFL-CIO]], [[Amgen Inc]], [[Humana]], [[Donald S. Beyer]], [[DOGGETT FOR U S CONGRESS COMMITTEE]], [[Blue Shield of California]], [[HUFFMAN FOR CONGRESS]], [[Janice D. Schakowsky]], [[Planned Parenthood Action Fund INC]], [[Sinclair Broadcast Group]], [[Chris Murphy]], [[Akin Gump Strauss Hauer & Feld]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[Bechtel Corporation]], [[CVS Health - Aetna]], [[National Nurses United]], [[NANCY PELOSI FOR CONGRESS]], [[Xavier Becerra]], [[Occidental Petroleum]], [[Friends of the Earth (action) INC]], [[Gerry Connolly]], [[Jerrold Nadler]], [[John B. Larson]], [[Lloyd Doggett]], [[Jared Huffman]], [[Robert P Kogod]], [[DCCC - Democratic Congressional Campaign Committee]], [[BAE Systems]], [[Northrop Grumman]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Care Action]], [[Johnson & Johnson]], [[Laborers' Political League-Laborers' International Union of N.a.]], [[SEIU - Service Employees International Union]], [[UA Political Action Committee]], [[Unite Here Tip Campaign Committee]]"
 last-enriched: 2026-04-20T00:00:00.000Z
 committees:
   - Africa and Global Health Policy
@@ -296,66 +296,4 @@ Van Hollen is the progressive-brand senator representing Maryland's defense-inte
 Van Hollen's top-donors frontmatter includes Lockheed Martin, Raytheon (RTX), Leidos, L3Harris Technologies, General Dynamics, Honeywell, Honeywell International, Northrop-adjacent contractors, plus Google, Microsoft, Comcast, AT&T, Verizon, and the big banks (Bank of America, Morgan Stanley, Citigroup). Maryland-specific donors reflect the state's NSA/Fort Meade/NIH concentration: health, defense, and intelligence are the three dominant sectors of Maryland's private-sector political giving, and all three appear at scale in the donor list.
 
 > [!money]
-> **The Maryland Intelligence Economy Problem.** Van Hollen's top individual super-PAC backer is the National Association of Realtors at $926K. The second is Committee for Maryland's Progress at $535K. Both are comparatively modest for a two-term senator in a safe-Democratic state, because van Hollen does not need to raise defensive money against serious challenges. The substantive political operation runs through direct-PAC giving from Maryland's defense-intelligence employers and their national prime contractors, which generate the employment base that makes Maryland unwinnable for Republicans and therefore not worth Republican IE spending. The structural outcome: van Hollen's donor map looks cleaner than Slotkin's because his state's political geography makes the IE opposition spending unnecessary.
-
----
-
-## Class Analysis
-
-The Maryland political economy is the key to van Hollen's class position. Fort Meade (NSA, US Cyber Command) employs approximately 54,000 people. Aberdeen Proving Ground (Army R&D) employs around 21,000. The Johns Hopkins Applied Physics Laboratory employs 8,000 and holds $2+ billion in annual defense-related contracts. NIH and FDA in Bethesda and Silver Spring employ another 20,000-plus, with downstream biomedical industry employment across the state. These numbers describe a federal-contractor middle class that votes Democratic in general elections and whose employment depends on federal appropriations to defense, intelligence, and biomedical agencies. Van Hollen's senatorial performance is evaluated inside that economy by how well he protects the appropriations, not by his position on progressive-movement litmus tests.
-
-The donor map reflects this directly. Lockheed Martin, Raytheon, Leidos, L3Harris, General Dynamics, and Honeywell appear on his top-donors list because they operate Maryland facilities that depend on the federal procurement pipeline he sits near (as an Appropriations and Foreign Relations member). Their PAC giving is modest in total dollars, typically $5K to $15K per cycle per corporation, but the cumulative structural effect is continuous relationship management with a senator whose committee votes set the conditions under which their contracts get approved. The influence-cross-ref logic that governs Slotkin's donor map governs van Hollen's as well, just at lower dollar amounts because Maryland's Democratic safety means the donors are managing an ally rather than funding a marginal seat.
-
-The voting record amplifies the pattern. A 94.5% party-line loyalty rate across 2,710 substantive votes is one of the higher Democratic loyalty scores in the Senate. The 141 deviations are the revealing set. Spot-sampling the recent deviation list shows van Hollen voting "Nay" on a cluster of presidential nominations (PN items from the 115th and 116th Congresses) where the Democratic majority voted "Yea." That pattern indicates left-of-caucus positions on specific nominees, likely Trump-era judicial and executive-branch appointments where his "Nay" was a progressive-credibility signal against a confirmation the caucus had already sacrificed. The deviations therefore run left, not right, which is distinct from Slotkin's right-running deviations. The progressive brand has substantive content on nomination votes even when it lacks binding content on appropriations.
-
-The systemic observation is that van Hollen demonstrates how the Democratic coalition's structural capture by national-security-state employment works in a safe-blue-state context. Slotkin represents the swing-state variant, where defense-industry donors make survival possible. Van Hollen represents the safe-state variant, where the defense-industry donor base does not need to buy the seat, it just needs the senator to continue serving the base that produces his electoral majority. The two patterns produce the same policy output. The difference is the financial choreography required to deliver it. Replace van Hollen with any other Maryland Democrat and the NDAA votes arrive the same way, because the underlying state political economy does not change.
-
----
-
-## Analytical Patterns
-
-**Two-Audience Problem.** The public audience hears the UAE arms-sale resolution, the carbon-permit bill, the Leahy Law work. The donor audience sees the NDAA authorizations, the intelligence-community budget lines, and the committee assignments that protect Maryland procurement. Both messages are true. They address different transactions.
-
-**Genuine Win + Structural Limit.** Van Hollen has produced real progressive wins on child tax credit expansion, climate provisions, and specific human-rights conditions in foreign aid bills. The structural limit is that none of those wins touch the defense-intelligence budget envelope that anchors Maryland's employment economy. The wins are substantive within the lane. The lane does not include the defense-industry revenue stream.
-
-**Donor-Class Override.** Maryland Democratic primary voters poll progressive on defense spending, war authorization, and surveillance authority. Van Hollen has voted to renew FISA Section 702, authorized NDAA growth every year of his tenure, and declined to champion a Democratic defense-budget-cut position. The donor-class preference (the Fort Meade employment base plus defense contractor PACs) overrides the progressive-primary-voter preference on the appropriations questions that matter to the donor class.
-
-**Revolving Door.** Van Hollen's Senate staff list includes multiple alumni from the intelligence-community contractor firms (Leidos, Booz Allen, L3Harris). The pipeline operates bidirectionally across the Maryland defense-intelligence economy.
-
-**Villain Framing.** Van Hollen's progressive messaging emphasizes the Trump administration, MAGA Republicans, and specific corporate actors as the villains threatening democracy. The framing is accurate on the specific threats named. It is also useful for redirecting class-analysis attention from the structural Maryland defense-intelligence economy, where the material interests transcend partisan control of the White House.
-
-**Both-Sides Illusion (donor-class variant).** Van Hollen's donor list includes Raytheon, Lockheed, Leidos, and L3Harris alongside the Sierra Club and League of Conservation Voters. The progressive environmental donors and the defense-industry donors occupy the same funding pool because they expect different policy outputs. The environmental donors get bill sponsorship and floor speeches. The defense-industry donors get the NDAA votes. Both constituencies get value. The arrangement is stable because the donor populations want different things.
-
----
-
-### Congressional Stock Trades (STOCK Act)
-<!-- auto:stock-trades start -->
-| Metric | Value |
-|--------|-------|
-| Total Trades | 7 |
-| Purchases | 0 |
-| Sales | 7 |
-| Est. Value Range | $35,007 – $175,000 |
-
-**Top tickers traded:** YUMC, YUM, VZ, PEP, JNJ, GE, T
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 02/17/2017 | YUMC | Sale | $1,001 - $15,000 | Self |
-| 02/17/2017 | YUM | Sale | $1,001 - $15,000 | Self |
-| 02/17/2017 | VZ | Sale | $1,001 - $15,000 | Self |
-| 02/17/2017 | PEP | Sale | $15,001 - $50,000 | Self |
-| 02/17/2017 | JNJ | Sale | $1,001 - $15,000 | Self |
-| 02/17/2017 | GE | Sale | $15,001 - $50,000 | Self |
-| 02/17/2017 | T | Sale | $1,001 - $15,000 | Self |
-
-<!-- auto:stock-trades end -->
-
-
-## Archived
-
-Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
-
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+> **The Maryland Intelligence Economy Problem.** Van Hollen's top individual super-PAC backer is the National Association of Realtors at $926K. The second is Committee for Maryland's Progress at $535K. Both are comparatively modest for a two-term senator in a safe-Democratic state, because van Hollen does not need to raise defensive money against serious challenges. The substantive political operation 

@@ -39,10 +39,7 @@ committees:
   - Livestock, Dairy, and Poultry
   - Nutrition and Foreign Agriculture
   - Workforce Protections
-top-donors: "[[Nucor Corporation]], [[National Cattlemen's Beef Association]], [[Club for Growth INC PAC]], [[JASON SMITH FOR CONGRESS]], [[Tyson Foods]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JIM JORDAN FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[American Principles Fund]], [[Steve Scalise]], [[Club for Growth]], [[James R. Baird]], [[ANDY HARRIS FOR CONGRESS]], [[Brett Guthrie]], [[Koch Industries]], [[BIGGS FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[FreedomWorks for America]], [[Wfw Action Fund, Inc.]], [[NRA Political Victory Fund]], [[Family Research Council Action Political Action Committee]], [[BURCHETT FOR CONGRESS]], [[CLYDE FOR CONGRESS, INC.]], [[David Rouzer]], [[Jim Jordan]], [[Jason Smith]], [[Andy Biggs]], [[Andy Harris]], [[Tim Burchett]]"
-fec-committee-ids:
-  - C00660480
-  - C00723916
+top-donors: "[[Nucor Corporation]], [[National Cattlemen's Beef Association]], [[Club for Growth INC PAC]], [[JASON SMITH FOR CONGRESS]], [[Tyson Foods]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[JIM JORDAN FOR CONGRESS]], [[DAVID ROUZER FOR CONGRESS]], [[American Principles Fund]], [[Steve Scalise]], [[Club for Growth]], [[James R. Baird]], [[ANDY HARRIS FOR CONGRESS]], [[Brett Guthrie]], [[Koch Industries]], [[BIGGS FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[FreedomWorks for America]], [[Wfw Action Fund, Inc.]], [[NRA Political Victory Fund]], [[Family Research Council Action Political Action Committee]], [[BURCHETT FOR CONGRESS]], [[CLYDE FOR CONGRESS, INC.]], [[David Rouzer]], [[Jim Jordan]], [[Jason Smith]], [[Andy Biggs]], [[Andy Harris]], [[Tim Burchett]], [[WINRED PAC]], [[Rose Plank]], [[Scott Kaspar]], [[Jack L Mr Bishop]], [[Caryn H Borland]], [[Save America PAC]], [[VIEW PAC - Value in Electing Women]], [[NRCC - National Republican Congressional Committee]], [[Comcast - NBCUniversal]], [[Majority PAC]]"
 ---
 
 

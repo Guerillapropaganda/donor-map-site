@@ -39,11 +39,7 @@ committees:
   - Senate Committee on the Judiciary
   - State, Foreign Operations, and Related Programs
   - Transportation, Housing and Urban Development, and Related Agencies
-top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[ADM - Archer Daniels Midland]], [[Monsanto - Bayer]], [[AFL-CIO]], [[Sierra Club Political Committee]], [[Goldman Sachs]], [[Cargill]], [[Associated General Contractors of America Political Action Committee]], [[Sepracor Inc. Good Governance Fund]]"
-fec-committee-ids:
-  - C00148999
-  - C00551630
-  - C00447094
+top-donors: "[[International Association of Firefighters Interested in Registration and Education PAC]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Education Association]], [[ADM - Archer Daniels Midland]], [[Monsanto - Bayer]], [[AFL-CIO]], [[Sierra Club Political Committee]], [[Goldman Sachs]], [[Cargill]], [[Associated General Contractors of America Political Action Committee]], [[Sepracor Inc. Good Governance Fund]], [[DCCC - Democratic Congressional Campaign Committee]]"
 ---
 
 

@@ -14,7 +14,7 @@ known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data
 opposes: "[[Kyrsten Sinema]]"
-politicians-funded: "[[Rick Larsen]], [[Martin Heinrich]], [[Donors Trust]]"
+politicians-funded: "[[Rick Larsen]], [[Martin Heinrich]], [[Donors Trust]], [[Mitt Romney]], [[Young Kim]]"
 related: "[[Martin Heinrich]] · [[Rick Larsen]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

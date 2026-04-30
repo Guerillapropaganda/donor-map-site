@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Border Security and Enforcement
   - Cybersecurity and Infrastructure Protection
@@ -34,11 +34,8 @@ committees:
   - Military and Foreign Affairs
 bills-sponsored: 9
 corroboration-count: 2
-top-donors: "[[Donald S. Beyer]], [[Gerry Connolly]], [[J Street]], [[Protect Progress]], [[TED LIEU FOR CONGRESS]], [[Southern Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Hakeem Jeffries]], [[Leidos]], [[Democratic Party of Virginia]], [[Amgen Inc]], [[PETE AGUILAR FOR CONGRESS]], [[Google - Alphabet]], [[Pete Aguilar]], [[Ted Lieu]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00904367
+top-donors: "[[Donald S. Beyer]], [[Gerry Connolly]], [[J Street]], [[Protect Progress]], [[TED LIEU FOR CONGRESS]], [[Southern Company]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AbbVie]], [[Hakeem Jeffries]], [[Leidos]], [[Democratic Party of Virginia]], [[Amgen Inc]], [[PETE AGUILAR FOR CONGRESS]], [[Google - Alphabet]], [[Pete Aguilar]], [[Ted Lieu]], [[Teamsters - International Brotherhood of Teamsters]], [[Lockheed Martin]], [[AT&T]], [[L3Harris Technologies]], [[SEIU COPE]], [[General Dynamics]], [[Raytheon (RTX Corporation)]], [[BAE Systems]], [[UA Political Action Committee]], [[American Hospital Association PAC]], [[Microsoft]], [[Northrop Grumman]], [[Honeywell International]], [[General Motors]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Care Action]], [[Walmart - Walton Family]], [[Anthem - Elevance Health]], [[IBEW - International Brotherhood of Electrical Workers]], [[National Association of Realtors]], [[Morgan Stanley]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

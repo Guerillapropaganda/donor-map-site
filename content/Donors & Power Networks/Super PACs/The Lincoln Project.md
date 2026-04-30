@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - No lobbying disclosure data
 opposes: "[[Marjorie Taylor Greene]]"
-politicians-funded: "[[Elise Stefanik]], [[Steve Scalise]], [[Rick Scott]], [[Mark Kelly]], [[Kevin McCarthy]], [[Ted Cruz]], [[Donald Trump]], [[The Lincoln Project]], [[Jon Ossoff]], [[Lauren Boebert]], [[Matt Gaetz]], [[Raphael Warnock]], [[Josh Hawley]], [[Kamala Harris]]"
+politicians-funded: "[[Elise Stefanik]], [[Steve Scalise]], [[Rick Scott]], [[Mark Kelly]], [[Kevin McCarthy]], [[Ted Cruz]], [[Donald Trump]], [[The Lincoln Project]], [[Jon Ossoff]], [[Lauren Boebert]], [[Matt Gaetz]], [[Raphael Warnock]], [[Josh Hawley]], [[Kamala Harris]], [[Joe Biden]]"
 related: "[[Elise Stefanik]] · [[Steve Scalise]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"

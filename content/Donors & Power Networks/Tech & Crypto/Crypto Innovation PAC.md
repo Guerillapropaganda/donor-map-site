@@ -10,17 +10,17 @@ source-tier: 1
 aliases:
   - CRYPTO INNOVATION
 known-gaps:
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No lobbying disclosure data
+  - No mapped relationships
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 cash-on-hand: 6397
-politicians-funded: "[[John Boozman]], [[Patrick McHenry]], [[Markwayne Mullin]], [[Erin Houchin]], [[Eric Schmitt]]"
-last-enriched: 2026-04-21
-total-political-spend: "$1.3M"
-spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022"
+politicians-funded: "[[John Boozman]], [[Patrick McHenry]], [[Markwayne Mullin]], [[Erin Houchin]], [[Eric Schmitt]], [[Ted Budd]], [[Wesley Hunt]]"
+last-enriched: 2026-04-21T00:00:00.000Z
+total-political-spend: $1.3M
+spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2022
 source-types:
   - FEC
 fec-committee-id: C00804732

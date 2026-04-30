@@ -31,12 +31,7 @@ committees:
   - Defense
   - Homeland Security
   - House Committee on Appropriations
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[BILL FOSTER FOR CONGRESS]], [[Google - Alphabet]], [[McDonalds Corporation]], [[League of Conservation Voters]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[TED LIEU FOR CONGRESS]], [[Hakeem Jeffries]], [[National Cattlemen's Beef Association]], [[Monsanto - Bayer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Association of Manufacturers]], [[National Education Association]], [[Let America Vote PAC]], [[Giffords PAC]], [[Ted Lieu]], [[Grace Meng]], [[Bill Foster]]"
-fec-committee-ids:
-  - C00680918
-  - C00495671
-  - C00382978
-  - C00419150
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Leidos]], [[BILL FOSTER FOR CONGRESS]], [[Google - Alphabet]], [[McDonalds Corporation]], [[League of Conservation Voters]], [[American College of Radiology Association PAC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[TED LIEU FOR CONGRESS]], [[Hakeem Jeffries]], [[National Cattlemen's Beef Association]], [[Monsanto - Bayer]], [[National Committee to Preserve Social Security & Medicare PAC]], [[National Association of Manufacturers]], [[National Education Association]], [[Let America Vote PAC]], [[Giffords PAC]], [[Ted Lieu]], [[Grace Meng]], [[Bill Foster]], [[L3Harris Technologies]], [[AT&T]], [[NextEra Energy]], [[Microsoft]], [[DCCC - Democratic Congressional Campaign Committee]], [[Care Action]], [[Anthem - Elevance Health]], [[UA Political Action Committee]], [[American Chemistry Council, INC]], [[Lockheed Martin]], [[National Association of Realtors]], [[BAE Systems]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[Comcast - NBCUniversal]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[IBEW - International Brotherhood of Electrical Workers]], [[General Dynamics]], [[American Hospital Association PAC]], [[Walmart - Walton Family]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Northrop Grumman]], [[National Multifamily Housing Council]], [[Honeywell International]]"
 ---
 
 

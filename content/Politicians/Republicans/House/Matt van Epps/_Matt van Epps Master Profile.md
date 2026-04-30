@@ -22,10 +22,10 @@ known-gaps:
   - No FEC contribution data
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
-top-donors: "[[CoreCivic]], [[Amazon]], [[Koch Network - Charles Koch]], [[Tyson Foods]], [[CBRE Group]], [[Charles Schwab]], [[Walmart]], [[Humana]], [[Hospital Corporation of America - HCA]], [[MIKE KENNEDY FOR UTAH]], [[VINCE FONG FOR CONGRESS]], [[Freedom's Defense Fund]], [[Jimmy Patronis]], [[Steve Scalise]], [[Koch Industries]], [[Mark B. Messmer]], [[TEXANS FOR JODEY ARRINGTON]], [[BURCHETT FOR CONGRESS]], [[Brandon Gill]], [[DAVID ROUZER FOR CONGRESS]], [[Special Operations for America]], [[Tom Emmer]], [[Club for Growth]], [[BRIAN JACK FOR CONGRESS]], [[National Right to Life Victory Fund]], [[NATHANIEL MORAN FOR CONGRESS]], [[Brett Guthrie]], [[FEDORCHAK FOR ND]], [[DAVE TAYLOR FOR CONGRESS]], [[Club for Growth INC PAC]], [[CLIFF BENTZ FOR CONGRESS]], [[Mike Johnson]], [[MOORE FOR WEST VIRGINIA, INC.]], [[ROBERT ADERHOLT FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[NRA Political Victory Fund]], [[David P. Joyce]], [[JIM JORDAN FOR CONGRESS]], [[Tracey Mann]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Associated General Contractors of America Political Action Committee]], [[Scott Desjarlais]], [[Robert B. Aderholt]], [[David J. Taylor]], [[Vince Fong]], [[Tim Burchett]], [[Julie Fedorchak]], [[David Rouzer]], [[Jim Jordan]], [[Brian Jack]], [[Mike Kennedy]], [[Jodey Arrington]], [[Cliff Bentz]], [[Nathaniel Moran]]"
+top-donors: "[[CoreCivic]], [[Amazon]], [[Koch Network - Charles Koch]], [[Tyson Foods]], [[CBRE Group]], [[Charles Schwab]], [[Walmart]], [[Humana]], [[Hospital Corporation of America - HCA]], [[MIKE KENNEDY FOR UTAH]], [[VINCE FONG FOR CONGRESS]], [[Freedom's Defense Fund]], [[Jimmy Patronis]], [[Steve Scalise]], [[Koch Industries]], [[Mark B. Messmer]], [[TEXANS FOR JODEY ARRINGTON]], [[BURCHETT FOR CONGRESS]], [[Brandon Gill]], [[DAVID ROUZER FOR CONGRESS]], [[Special Operations for America]], [[Tom Emmer]], [[Club for Growth]], [[BRIAN JACK FOR CONGRESS]], [[National Right to Life Victory Fund]], [[NATHANIEL MORAN FOR CONGRESS]], [[Brett Guthrie]], [[FEDORCHAK FOR ND]], [[DAVE TAYLOR FOR CONGRESS]], [[Club for Growth INC PAC]], [[CLIFF BENTZ FOR CONGRESS]], [[Mike Johnson]], [[MOORE FOR WEST VIRGINIA, INC.]], [[ROBERT ADERHOLT FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[NRA Political Victory Fund]], [[David P. Joyce]], [[JIM JORDAN FOR CONGRESS]], [[Tracey Mann]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Associated General Contractors of America Political Action Committee]], [[Scott Desjarlais]], [[Robert B. Aderholt]], [[David J. Taylor]], [[Vince Fong]], [[Tim Burchett]], [[Julie Fedorchak]], [[David Rouzer]], [[Jim Jordan]], [[Brian Jack]], [[Mike Kennedy]], [[Jodey Arrington]], [[Cliff Bentz]], [[Nathaniel Moran]], [[National Association of Realtors]], [[General Dynamics]], [[American Conservative Union]], [[MAGA Inc]], [[NRCC - National Republican Congressional Committee]], [[American Patriots PAC]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Counterterrorism and Intelligence
   - House Committee on Homeland Security
@@ -34,10 +34,7 @@ committees:
   - Transportation and Maritime Security
 bills-sponsored: 3
 corroboration-count: 2
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00908202
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

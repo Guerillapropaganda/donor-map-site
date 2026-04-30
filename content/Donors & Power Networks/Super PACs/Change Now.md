@@ -6,14 +6,14 @@ content-readiness: ready
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 fec-committee-id: C00683599
 aliases:
   - CHANGE NOW
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Mario Diaz-Balart]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Mario Diaz-Balart]], [[Andy Kim]], [[Elissa Slotkin]], [[Lucy McBath]], [[Sharice Davids]], [[Katie Porter]]"
 related: "[[Mario Diaz-Balart]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -21,7 +21,7 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

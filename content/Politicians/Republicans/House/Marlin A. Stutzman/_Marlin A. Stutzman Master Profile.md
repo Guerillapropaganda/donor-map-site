@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Capital Markets
   - Digital Assets, Financial Technology, and Artificial Intelligence
@@ -32,14 +32,8 @@ committees:
   - House Committee on the Budget
 bills-sponsored: 38
 corroboration-count: 2
-top-donors: "[[Humana]], [[Jim Banks]], [[American Principles Fund]], [[Koch Industries]], [[Monsanto - Bayer]], [[American College of Radiology Association PAC]], [[Richard Hudson]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[Family Research Council Action Political Action Committee]], [[ADRIAN SMITH FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[Pete Sessions]], [[National Restaurant Association]], [[American Iron and Steel Institute]], [[GARY PALMER FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Cynthia M. Lummis]], [[National Right to Life PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Gun Owners of America]], [[Protect Freedom Political Action Committee]], [[Jodey Arrington]], [[Paul A. Gosar]], [[Jim Jordan]], [[Gary J. Palmer]], [[Andy Harris]], [[Thomas Massie]], [[Steve Scalise]], [[Adrian Smith]], [[AIPAC - American Israel Public Affairs Committee]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-ids:
-  - C00838110
-  - C00484683
-  - C00463190
+top-donors: "[[Humana]], [[Jim Banks]], [[American Principles Fund]], [[Koch Industries]], [[Monsanto - Bayer]], [[American College of Radiology Association PAC]], [[Richard Hudson]], [[Pfizer Inc.]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[JIM JORDAN FOR CONGRESS]], [[Club for Growth INC PAC]], [[Nucor Corporation]], [[ADM - Archer Daniels Midland]], [[Family Research Council Action Political Action Committee]], [[ADRIAN SMITH FOR CONGRESS]], [[THOMAS MASSIE FOR CONGRESS]], [[Pete Sessions]], [[National Restaurant Association]], [[American Iron and Steel Institute]], [[GARY PALMER FOR CONGRESS]], [[ANDY HARRIS FOR CONGRESS]], [[Cynthia M. Lummis]], [[National Right to Life PAC]], [[Akin Gump Strauss Hauer & Feld]], [[Gun Owners of America]], [[Protect Freedom Political Action Committee]], [[Jodey Arrington]], [[Paul A. Gosar]], [[Jim Jordan]], [[Gary J. Palmer]], [[Andy Harris]], [[Thomas Massie]], [[Steve Scalise]], [[Adrian Smith]], [[AIPAC - American Israel Public Affairs Committee]], [[Forrest D. Lucas]], [[Timothy M Dunn]], [[Charlotte Lucas]], [[Suzanne M. Mccloskey]], [[Dennis Mr. Marcott]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Johnson & Johnson]], [[Care Action]], [[Raytheon (RTX Corporation)]], [[American Hospital Association PAC]], [[Lockheed Martin]], [[Honeywell International]], [[National Association of Realtors]], [[Morgan Stanley]], [[Charles Schwab]], [[Citigroup]], [[National Multifamily Housing Council]], [[Northrop Grumman]], [[Anthem - Elevance Health]], [[Bank of America]], [[Halliburton]], [[BAE Systems]], [[L3Harris Technologies]], [[General Motors]], [[Comcast - NBCUniversal]], [[Duke Energy]], [[General Dynamics]], [[Majority PAC]], [[JPAC - Jewish Public Affairs Committee of California]], [[AT&T]], [[Marathon Petroleum]], [[Senate Conservatives Fund]], [[Microsoft]], [[Walmart - Walton Family]], [[CVS Health - Aetna]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

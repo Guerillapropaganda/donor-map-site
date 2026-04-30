@@ -15,20 +15,15 @@ source-types:
   - FEC
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CA38139
-top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AFL-CIO]], [[TAMMY BALDWIN FOR CONGRESS]], [[National Education Association]], [[League of Conservation Voters]], [[Humana]], [[Akin Gump Strauss Hauer & Feld]], [[National Committee to Preserve Social Security & Medicare PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[MIKE THOMPSON FOR CONGRESS]], [[Blue Shield of California]], [[Planned Parenthood Action Fund INC]], [[J Street]], [[Sierra Club Political Committee]], [[Raul Grijalva]], [[Amgen Inc]], [[MEDICARE FOR ALL]], [[Mike Thompson]], [[Tammy Baldwin]]"
+top-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[UnitedHealth Group - Optum]], [[Verizon]], [[Kaiser Permanente]], [[Pfizer Inc.]], [[CBRE Group]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[AFL-CIO]], [[TAMMY BALDWIN FOR CONGRESS]], [[National Education Association]], [[League of Conservation Voters]], [[Humana]], [[Akin Gump Strauss Hauer & Feld]], [[National Committee to Preserve Social Security & Medicare PAC]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[MIKE THOMPSON FOR CONGRESS]], [[Blue Shield of California]], [[Planned Parenthood Action Fund INC]], [[J Street]], [[Sierra Club Political Committee]], [[Raul Grijalva]], [[Amgen Inc]], [[MEDICARE FOR ALL]], [[Mike Thompson]], [[Tammy Baldwin]], [[Northrop Grumman]], [[United Food and Commercial Workers International Union Active Ballot Club]], [[Bank of America]], [[American Federation of State County & Municipal Employees  P E O P L E]], [[Microsoft]], [[Johnson & Johnson]], [[SEIU COPE]], [[Unite Here Tip Campaign Committee]], [[Care Action]], [[Anthem - Elevance Health]], [[Tenet Healthcare]], [[PG&E - Pacific Gas and Electric]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Association of Realtors]], [[UA Political Action Committee]], [[iHeartMedia]], [[Teamsters - International Brotherhood of Teamsters]], [[Comcast - NBCUniversal]], [[Raytheon (RTX Corporation)]], [[Honeywell International]], [[Emily's List]], [[AT&T]], [[American Hospital Association PAC]], [[DCCC - Democratic Congressional Campaign Committee]], [[NextEra Energy]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)"
+reenrich-reason: no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage)
 total-raised: $741K
 career-total-source: FEC weball summary (cycles 2026)
 bills-sponsored: 49
 corroboration-count: 2
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-ids:
-  - C00917542
-  - C00346296
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

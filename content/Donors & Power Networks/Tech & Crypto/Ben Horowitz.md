@@ -11,13 +11,13 @@ issues:
   - Cryptocurrency Regulation
   - AI Policy
   - Financial Deregulation
-politicians-funded: "[[Donald Trump]]"
+politicians-funded: "[[Donald Trump]], [[Tom Emmer]], [[Steve Daines]]"
 related: "[[Marc Andreessen & Horowitz]] · [[Fairshake PAC]] · [[Leading the Future]] · [[_Donald Trump Master Profile]]"
 source-types:
   - Courts
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 court-cases: 46
 last-enriched: "2026-04-10"
 court-jurisdictions:

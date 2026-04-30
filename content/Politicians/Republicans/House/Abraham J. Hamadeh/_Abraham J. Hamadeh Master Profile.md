@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Economic Opportunity
   - Health
@@ -35,11 +35,8 @@ committees:
   - Tactical Air and Land Forces
 bills-sponsored: 19
 corroboration-count: 2
-top-donors: "[[ABE FOR ARIZONA]], [[Tom Emmer]], [[Southern Company]], [[JIM JORDAN FOR CONGRESS]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[Coinbase]], [[Brett Guthrie]], [[BRANDON GILL FOR TEXAS]], [[FISCHBACH FOR CONGRESS]], [[Campaign for Working Families]], [[Leidos]], [[FRIENDS OF MATT GAETZ]], [[CVS Health - Aetna]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[TROY DOWNING FOR CONGRESS]], [[Carol D. Miller]], [[Richard Hudson]], [[Freedom's Defense Fund]], [[Michelle Fischbach]], [[Jim Jordan]], [[Brandon Gill]], [[Matt Gaetz]], [[Troy Downing]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00853986
+top-donors: "[[ABE FOR ARIZONA]], [[Tom Emmer]], [[Southern Company]], [[JIM JORDAN FOR CONGRESS]], [[National Restaurant Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[MOORE FOR WEST VIRGINIA, INC.]], [[Steve Scalise]], [[Coinbase]], [[Brett Guthrie]], [[BRANDON GILL FOR TEXAS]], [[FISCHBACH FOR CONGRESS]], [[Campaign for Working Families]], [[Leidos]], [[FRIENDS OF MATT GAETZ]], [[CVS Health - Aetna]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[TROY DOWNING FOR CONGRESS]], [[Carol D. Miller]], [[Richard Hudson]], [[Freedom's Defense Fund]], [[Michelle Fischbach]], [[Jim Jordan]], [[Brandon Gill]], [[Matt Gaetz]], [[Troy Downing]], [[Stephen Hayden]], [[CLB PARTNERS]], [[Dwight Manley]], [[Waseem J Hamadeh]], [[Kapu Price]], [[Samer Hamadeh]], [[Raytheon (RTX Corporation)]], [[Northrop Grumman]], [[Honeywell International]], [[Duke Energy]], [[Anthem - Elevance Health]], [[L3Harris Technologies]], [[Chevron]], [[Majority PAC]], [[General Dynamics]], [[BAE Systems]], [[PG&E - Pacific Gas and Electric]], [[NextEra Energy]], [[National Association of Realtors]], [[Lockheed Martin]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

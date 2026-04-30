@@ -12,7 +12,7 @@ annual-revenue: $2.3M
 net-assets: $525K
 tax-year: "2023"
 total-political-spend: $112,605
-politicians-funded: "[[Amy Klobuchar]], [[Paul Ryan]], [[ActBlue]]"
+politicians-funded: "[[Amy Klobuchar]], [[Paul Ryan]], [[ActBlue]], [[Kyrsten Sinema]], [[Jacky Rosen]], [[Chrissy Houlahan]], [[Steven Horsford]], [[Katie Porter]], [[Haley M. Stevens]], [[Kim Schrier]], [[Susie Lee]], [[Andy Kim]], [[Jason Crow]], [[Sherrod Brown]], [[Elissa Slotkin]]"
 nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-08"
 total-revenue: 2588140
@@ -34,8 +34,7 @@ employee-donor-count: 2
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-fec-committee-id: C90018284
+  - No lobbying disclosure data
 ---
 
 

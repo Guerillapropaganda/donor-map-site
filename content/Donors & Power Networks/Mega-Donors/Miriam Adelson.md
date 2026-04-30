@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]], [[Benjamin Netanyahu]], [[Elise Stefanik]], [[Jared Kushner]], [[JD Vance]], [[Marco Rubio]], [[Kamala Harris]], [[Pete Hegseth]]"
+politicians-funded: "[[Donald Trump]], [[Benjamin Netanyahu]], [[Elise Stefanik]], [[Jared Kushner]], [[JD Vance]], [[Marco Rubio]], [[Kamala Harris]], [[Pete Hegseth]], [[Mitch McConnell]]"
 issues:
   - Israel & Foreign Policy
 ein: "886063073"

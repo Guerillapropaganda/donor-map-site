@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Commodity Markets, Digital Assets, and Rural Development
   - Conservation, Research, and Biotechnology
@@ -38,11 +38,8 @@ committees:
   - Workforce Protections
 bills-sponsored: 13
 corroboration-count: 2
-top-donors: "[[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Cattlemen's Beef Association]], [[Frank Lucas]], [[Defend American Jobs]], [[Brett Guthrie]], [[Associated General Contractors of America Political Action Committee]], [[Tom Emmer]], [[AIPAC - American Israel Public Affairs Committee]], [[Rudy Yakym]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[National Restaurant Association]], [[Steve Scalise]], [[Carol D. Miller]], [[NRA Political Victory Fund]], [[Club for Growth INC PAC]], [[David P. Joyce]], [[David Rouzer]], [[Brandon Gill]], [[Troy Downing]], [[Jim Jordan]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-id: C00867218
+top-donors: "[[DAVID ROUZER FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[National Cattlemen's Beef Association]], [[Frank Lucas]], [[Defend American Jobs]], [[Brett Guthrie]], [[Associated General Contractors of America Political Action Committee]], [[Tom Emmer]], [[AIPAC - American Israel Public Affairs Committee]], [[Rudy Yakym]], [[MOORE FOR WEST VIRGINIA, INC.]], [[TROY DOWNING FOR CONGRESS]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[ADM - Archer Daniels Midland]], [[National Restaurant Association]], [[Steve Scalise]], [[Carol D. Miller]], [[NRA Political Victory Fund]], [[Club for Growth INC PAC]], [[David P. Joyce]], [[David Rouzer]], [[Brandon Gill]], [[Troy Downing]], [[Jim Jordan]], [[Anthem - Elevance Health]], [[Chevron]], [[National Association of Realtors]], [[Care Action]], [[Honeywell International]], [[Valero Energy]], [[Lockheed Martin]], [[American Chemistry Council, INC]], [[Majority PAC]], [[General Dynamics]], [[Comcast - NBCUniversal]], [[Northrop Grumman]], [[Alliance Coal, LLC PAC]], [[Raytheon (RTX Corporation)]], [[AT&T]], [[L3Harris Technologies]], [[American Hospital Association PAC]], [[Duke Energy]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

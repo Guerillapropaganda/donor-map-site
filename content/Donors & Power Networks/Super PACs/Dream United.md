@@ -11,8 +11,8 @@ fec-committee-id: C00754671
 aliases:
   - DREAM UNITED
 known-gaps:
-  - "No lobbying disclosure data"
-politicians-funded: "[[Cory Booker]], [[Jon Ossoff]], [[Raphael Warnock]]"
+  - No lobbying disclosure data
+politicians-funded: "[[Cory Booker]], [[Jon Ossoff]], [[Raphael Warnock]], [[Rashida Tlaib]], [[John Hickenlooper]], [[Joe Biden]], [[Ilhan Omar]], [[Josh Harder]]"
 related: "[[Cory Booker]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -24,7 +24,7 @@ total-raised: 26761
 individual-contributions: 26761
 source-types:
   - FEC
-last-enriched: 2026-04-21
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 

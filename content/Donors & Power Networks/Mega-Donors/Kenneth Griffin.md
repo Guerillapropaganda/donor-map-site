@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Ron DeSantis]], [[Nikki Haley]], [[Maria Elvira Salazar]], [[Donald Trump]], [[Patrick McHenry]], [[DOGE - The Billionaires Government]], [[ActBlue]]"
+politicians-funded: "[[Ron DeSantis]], [[Nikki Haley]], [[Maria Elvira Salazar]], [[Donald Trump]], [[Patrick McHenry]], [[DOGE - The Billionaires Government]], [[ActBlue]], [[Mitch McConnell]]"
 issues:
   - Wall Street & Finance
 court-cases: 168

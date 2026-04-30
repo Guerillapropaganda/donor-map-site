@@ -24,7 +24,7 @@ known-gaps:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 needs-reenrichment: true
-reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)"
+reenrich-reason: no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage)
 committees:
   - Aviation
   - Economic Development, Public Buildings, and Emergency Management
@@ -39,13 +39,8 @@ committees:
   - Water Resources and Environment
 bills-sponsored: 16
 corroboration-count: 2
-top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Carol D. Miller]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[ERIC BURLISON FOR CONGRESS]], [[Defend American Jobs]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[Mike Johnson]], [[American College of Radiology Association PAC]], [[Brett Guthrie]], [[Brandon Gill]], [[ANDY HARRIS FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[TROY DOWNING FOR CONGRESS]], [[Club for Growth]], [[Leidos]], [[CVS Health - Aetna]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[Jim Jordan]], [[Andy Harris]], [[Jodey Arrington]], [[Troy Downing]], [[Eric Burlison]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-fec-committee-ids:
-  - C00870238
-  - C00446799
+top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Carol D. Miller]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[NRA Political Victory Fund]], [[ERIC BURLISON FOR CONGRESS]], [[Defend American Jobs]], [[BRANDON GILL FOR TEXAS]], [[JIM JORDAN FOR CONGRESS]], [[Mike Johnson]], [[American College of Radiology Association PAC]], [[Brett Guthrie]], [[Brandon Gill]], [[ANDY HARRIS FOR CONGRESS]], [[TEXANS FOR JODEY ARRINGTON]], [[TROY DOWNING FOR CONGRESS]], [[Club for Growth]], [[Leidos]], [[CVS Health - Aetna]], [[MOORE FOR WEST VIRGINIA, INC.]], [[National Restaurant Association]], [[Jim Jordan]], [[Andy Harris]], [[Jodey Arrington]], [[Troy Downing]], [[Eric Burlison]], [[Richard W. Pogue]], [[Beau Brauer]], [[Kathryn V. Smith]], [[John Obrien]], [[Douglas Mueller]], [[James G Onder]], [[Frank Obrien]], [[Robert Burns]], [[Steve Schulte]], [[Judy Burns]], [[American Hospital Association PAC]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[National Association of Realtors]]"
+internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded: "[[Eric Swalwell]], [[Nancy Pelosi]], [[Gavin Newsom]], [[Kamala Harris]], [[_Ted Lieu Master Profile]], [[ActBlue]], [[MoveOn.org Political Action]], [[Jacky Rosen]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[Sherrod Brown]], [[Dream United]], [[Tammy Baldwin]], [[_Rashida Tlaib Master Profile]], [[SEIU COPE]], [[Let America Vote PAC]], [[_Kamala Harris Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Mike Levin Master Profile]], [[_Jon Ossoff Master Profile]], [[Emily's List]], [[RNC - Republican National Committee]], [[Congressional Progressive Caucus PAC]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Bob Casey]], [[_Cori Bush Master Profile]], [[Elissa Slotkin]], [[Working Families Party PAC]], [[_Pete Aguilar Master Profile]], [[The Lincoln Project]], [[Hmp]], [[Mark Kelly]], [[_Summer Lee Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Indivisible Action]], [[_Susie Lee Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Nancy Pelosi Master Profile]], [[MAGA Inc]], [[Barbara Lee]], [[_Alex Padilla Master Profile]], [[_Dave Min Master Profile]], [[DNC - Democratic National Committee]], [[Amy Klobuchar]], [[_Mark Pocan Master Profile]], [[Progressive Turnout Project]], [[Ruben Gallego]], [[NRSC - National Republican Senatorial Committee]], [[Giffords PAC]], [[Rashida Tlaib]], [[Cori Bush]], [[Jon Ossoff]], [[Lauren Underwood]], [[Susie Lee]], [[Dave Min]], [[Mike Levin]], [[Pete Aguilar]], [[Ted Lieu]], [[Summer Lee]], [[Mark Pocan]], [[Alex Padilla]], [[Raul Grijalva]], [[Justice Democrats PAC]], [[Minnesota Democratic-Farmer-Labor Party]], [[HMP]]"
+politicians-funded: "[[Eric Swalwell]], [[Nancy Pelosi]], [[Gavin Newsom]], [[Kamala Harris]], [[_Ted Lieu Master Profile]], [[ActBlue]], [[MoveOn.org Political Action]], [[Jacky Rosen]], [[NRCC - National Republican Congressional Committee]], [[WinRed]], [[Sherrod Brown]], [[Dream United]], [[Tammy Baldwin]], [[_Rashida Tlaib Master Profile]], [[SEIU COPE]], [[Let America Vote PAC]], [[_Kamala Harris Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[_Mike Levin Master Profile]], [[_Jon Ossoff Master Profile]], [[Emily's List]], [[RNC - Republican National Committee]], [[Congressional Progressive Caucus PAC]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Bob Casey]], [[_Cori Bush Master Profile]], [[Elissa Slotkin]], [[Working Families Party PAC]], [[_Pete Aguilar Master Profile]], [[The Lincoln Project]], [[Hmp]], [[Mark Kelly]], [[_Summer Lee Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Indivisible Action]], [[_Susie Lee Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[Catherine Cortez Masto]], [[_Nancy Pelosi Master Profile]], [[MAGA Inc]], [[Barbara Lee]], [[_Alex Padilla Master Profile]], [[_Dave Min Master Profile]], [[DNC - Democratic National Committee]], [[Amy Klobuchar]], [[_Mark Pocan Master Profile]], [[Progressive Turnout Project]], [[Ruben Gallego]], [[NRSC - National Republican Senatorial Committee]], [[Giffords PAC]], [[Rashida Tlaib]], [[Cori Bush]], [[Jon Ossoff]], [[Lauren Underwood]], [[Susie Lee]], [[Dave Min]], [[Mike Levin]], [[Pete Aguilar]], [[Ted Lieu]], [[Summer Lee]], [[Mark Pocan]], [[Alex Padilla]], [[Raul Grijalva]], [[Justice Democrats PAC]], [[Minnesota Democratic-Farmer-Labor Party]], [[HMP]], [[Raphael Warnock]], [[Gary Peters]], [[Steven Horsford]], [[Bob Menendez]], [[Dina Titus]], [[Chris van Hollen]], [[Tim Kaine]], [[Maria Cantwell]], [[Sheldon Whitehouse]], [[Hillary Clinton]], [[Jeff Merkley]], [[Chris Murphy]], [[Joe Biden]], [[Tammy Duckworth]], [[Harry Reid]], [[Joe Courtney]], [[Deborah K. Ross]], [[Jeanne Shaheen]], [[Barack Obama]], [[Dick Durbin]], [[John Kerry]]"
 issues:
   - Healthcare
   - Labor & Workers
@@ -39,12 +39,7 @@ employee-donor-count: 1151
 source-types:
   - FEC
 known-gaps:
-  - "No lobbying disclosure data"
-fec-committee-ids:
-  - C00148098
-  - C30001036
-  - C70003124
-  - C90012105
+  - No lobbying disclosure data
 ---
 
 

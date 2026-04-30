@@ -27,7 +27,7 @@ bills-sponsored: 25
 bills-cosponsored: 313
 bills-enacted: 0
 top-policy-area: International Affairs
-top-donors: "[[Club for Growth INC PAC]], [[Guy Reschenthaler]], [[Freedom's Defense Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Ronny Jackson]], [[Jodey Arrington]], [[Randy K. Weber]], [[Jim Jordan]], [[NRA Political Victory Fund]], [[BEN CLINE FOR CONGRESS, INC.]]"
+top-donors: "[[Club for Growth INC PAC]], [[Guy Reschenthaler]], [[Freedom's Defense Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Ronny Jackson]], [[Jodey Arrington]], [[Randy K. Weber]], [[Jim Jordan]], [[NRA Political Victory Fund]], [[BEN CLINE FOR CONGRESS, INC.]], [[Keith Alan Self]], [[Raytheon (RTX Corporation)]], [[Lockheed Martin]], [[National Association of Realtors]], [[American Hospital Association PAC]], [[AT&T]], [[L3Harris Technologies]], [[Chevron]]"
 last-enriched: 2026-04-21T00:00:00.000Z
 committees:
   - Disability Assistance and Memorial Affairs

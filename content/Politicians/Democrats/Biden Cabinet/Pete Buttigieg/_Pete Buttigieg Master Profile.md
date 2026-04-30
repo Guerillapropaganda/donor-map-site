@@ -20,7 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: ">- · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Women Speak Out Pac]] · [[Dream Defenders Fight Pac]]"
-donors: "[[DoorDash]] · [[Votevets]] · [[Equality California Votes]] · [[Finance and Tech Bundler Network]] · [[DRAIN THE DC SWAMP PAC]] · [[Women Speak Out Pac]] · [[Dream Defenders Fight Pac]] · [[Mislove, Alan Edward]] · [[UAW Region 3 CAP]]"
+donors: "[[DoorDash]] · [[Votevets]] · [[Equality California Votes]] · [[Finance and Tech Bundler Network]] · [[DRAIN THE DC SWAMP PAC]] · [[Women Speak Out Pac]] · [[Dream Defenders Fight Pac]] · [[Mislove, Alan Edward]] · [[UAW Region 3 CAP]] · [[Lydia Choi]]"
 last-enriched: 2026-04-20T00:00:00.000Z
 needs-reenrichment: true
 reenrich-reason: no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)

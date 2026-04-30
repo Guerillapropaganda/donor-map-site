@@ -2,153 +2,30 @@
 title: Donald Trump
 type: politician
 content-readiness: draft
-central-thesis: >-
-  Trump is a billionaire populist fraud running the most transparent pay-to-play
-  presidency in US history. Sold out every populist promise to the donor class
-  that funded him, while converting the office into a personal-grift operation
-  (memecoins, crypto royalties, real estate, foreign-government payments).
-last-updated: 'Fri Apr 17 2026 17:00:00 GMT-0700 (Pacific Daylight Time)'
+central-thesis: Trump is a billionaire populist fraud running the most transparent pay-to-play presidency in US history. Sold out every populist promise to the donor class that funded him, while converting the office into a personal-grift operation (memecoins, crypto royalties, real estate, foreign-government payments).
+last-updated: Fri Apr 17 2026 17:00:00 GMT-0700 (Pacific Daylight Time)
 source-tier: 1
 party: Republican
 chamber: Presidential
 current-office: President
 career-total: $2B+
-top-donors: >-
-  Elon Musk,Peter Thiel,Miriam Adelson,Jeffrey Yass,Timothy Mellon,Richard
-  Uihlein,Kenneth Griffin,Crypto Industry Bloc
+top-donors: Elon Musk,Peter Thiel,Miriam Adelson,Jeffrey Yass,Timothy Mellon,Richard Uihlein,Kenneth Griffin,Crypto Industry Bloc
 govtrack-id: 412733
 bills-sponsored: 0
 bills-cosponsored: 0
-last-enriched: '2026-04-18'
-needs-reenrichment: 'false'
-opposes: >-
-  [[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Joe
-  Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi
-  Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren
-  Master Profile]] · [[_Adam Schiff Master Profile]] · [[_Alexandria
-  Ocasio-Cortez Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida
-  Tlaib Master Profile]] · [[_Maxine Waters Master Profile]] · [[_Jamie Raskin
-  Master Profile]] · [[Hillary Clinton Master Profile]]
-donors: >-
-  [[Trump Organization]] · [[Trump Media & Technology Group]] · [[World Liberty
-  Financial]] · [[Republican Party Apparatus]] · [[Richard and Elizabeth
-  Uihlein]] · [[Stephen Schwarzman]] · [[Bernard Marcus]] · [[MAGA Inc]] ·
-  [[DeVos Family]] · [[Christopher Ruddy]] · [[Founders Fund]] · [[Lennar
-  Corporation]] · [[AB PAC]] · [[American Farm Bureau Federation]] · [[Peter
-  Thiel]] · [[Northrop Grumman]] · [[Agricultural Labor Vulnerability Donors]] ·
-  [[Fossil Fuel Bloc]] · [[Dustin Moskovitz]] · [[Miriam Adelson]] · [[Goldman
-  Sachs , The Government Sachs Alumni Network]] · [[Crypto Industry Bloc]] ·
-  [[US Chamber of Commerce]] · [[Michael Bloomberg]] · [[Fox News Pipeline to
-  Power]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[Ken Griffin]] · [[Sheldon &
-  Miriam Adelson]] · [[PRIORITIES USA ACTION]] · [[Jeffrey Epstein Network]] ·
-  [[Fraternal Order of Police]] · [[Bernie Marcus]] · [[Les Wexner - Wexner
-  Family Enterprises]] · [[CoreCivic]] · [[Rupert Murdoch]] · [[Meta -
-  Facebook]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Concerned
-  Veterans for America]] · [[National Association of Manufacturers]] · [[Jan
-  Koum]] · [[Real Estate Development Industry Bloc]] · [[National Rifle
-  Association]] · [[Blackstone Group]] · [[Elon Musk]] · [[Susquehanna
-  International Group]] · [[Ben Horowitz]] · [[David Sacks (Donor Network)]] ·
-  [[GEO Group - Private Prison Industrial Complex]] · [[Think Big AI]] · [[Nucor
-  Corporation]] · [[Oracle]] · [[Trump Donor Coalition]] · [[CREW - Citizens for
-  Responsibility and Ethics in Washington]] · [[Bradley Foundation]] · [[David
-  Sacks]] · [[Uber]] · [[Real Estate Roundtable]] · [[Palantir Technologies
-  Political Operation]] · [[Defense Contractors Bloc]] · [[Kelcy Warren]] ·
-  [[Kenneth Griffin]] · [[Amazon]] · [[Meatpacking Corporations]] · [[Timothy
-  Mellon]] · [[Kelcy Warren - Energy Transfer Partners]] · [[David McIntosh]] ·
-  [[Silicon Valley Donors]] · [[National Cattlemen's Beef Association]] ·
-  [[L3Harris Technologies]] · [[Breitbart News and the Mercer-Bannon Media
-  Pipeline]] · [[Federalist Society]] · [[Citadel - Kenneth Griffin]] · [[Eric
-  Schmidt]] · [[ExxonMobil]] · [[Robert Mercer]] · [[RBG PAC]] · [[American Iron
-  and Steel Institute]] · [[Preserve America]] · [[Leonard Leo]] · [[Google -
-  Alphabet]] · [[FTX - Sam Bankman-Fried]] · [[Koch Network - Charles Koch]] ·
-  [[Business Roundtable]] · [[Mohammed bin Salman]] · [[Cambridge Analytica and
-  the Data Weaponization of Elections]] · [[Teamsters - International
-  Brotherhood of Teamsters]] · [[Trump Victory]] · [[Palantir Technologies]] ·
-  [[Marc Andreessen & Horowitz]] · [[Fanjul Family - Florida Crystals]] ·
-  [[Trump 2024 Campaign]] · [[WinRed]] · [[Save America PAC]] · [[Harold Hamm]]
-  · [[Jeffrey Yass]] · [[Brian Armstrong]] · [[MAGA Small Dollar Base]] ·
-  [[Rebekah Mercer]] · [[Raytheon (RTX Corporation)]] · [[Republican Jewish
-  Coalition]] · [[Brad Garlinghouse]] · [[David Sacks - Donor Network]] · [[DMFI
-  - Democratic Majority for Israel]] · [[Mad Dog PAC]] · [[American Principles
-  Project Pac]] · [[Honoring American Law Enforcement Pac]] · [[Emgage Federal
-  Political Action Committee]] · [[Planned Parenthood Votes]] · [[League of
-  Conservation Voters]] · [[RNC - Republican National Committee]] · [[Human
-  Rights Campaign Equality Votes]] · [[Working Families Party PAC]] · [[Emily's
-  List]] · [[SEIU COPE]] · [[Giffords PAC]] · [[Club for Growth]] · [[Michigan
-  Republican Party]] · [[Law Enforcement for a Safer America Pac]] ·
-  [[MoveOn.org Political Action]] · [[Really American Pac]] · [[United We Can]]
-  · [[Ab Pac]] · [[Americans for Prosperity]] · [[Restoration PAC]] ·
-  [[Pennsylvania Pro-Life Federation PAC]] · [[The Lincoln Project]] · [[Hmp]] ·
-  [[Votevets]] · [[AMERICAN JOBS AND GROWTH PAC]] · [[Sierra Club Independent
-  Action]] · [[National Right to Life Victory Fund]] · [[UNITE HERE]] ·
-  [[Planned Parenthood of Minnesota Political Action Fund]] · [[Kansans for Life
-  Political Action Committee]] · [[Indivisible Action]] · [[Americas Pac]] ·
-  [[Common Sense for America PAC]] · [[DNC - Democratic National Committee]] ·
-  [[National Victory Action Fund]] · [[The Sentinel Action Fund]] · [[Fairshake
-  PAC]] · [[SLF PAC]] · [[NRCC - National Republican Congressional Committee]] ·
-  [[America PAC - Elon Musk]] · [[Activate America]] · [[Progressive Turnout
-  Project]] · [[Never Back Down Inc]] · [[Tell It Like It Is Pac]] · [[Women
-  Speak Out Pac]] · [[Hunter Action Fund (haf)]] · [[Sfa Fund, Inc]] ·
-  [[Everytown for Gun Safety Victory Fund]] · [[REPUBLICAN CAMPAIGN COMMITTEE OF
-  NEW MEXICO]] · [[Good Fight PAC]] · [[Leadership Now]] · [[AMERICAN
-  CROSSROADS]] · [[HMP]] · [[American Jobs and Growth PAC]] · [[Never Back Down
-  Inc.]] · [[Priorities USA Action]] · [[Republican Campaign Committee of New
-  Mexico]] · [[American Crossroads]] · [[Republican Party of Florida]] · [[Sam
-  Graves]] · [[TED CRUZ FOR SENATE]] · [[NRA Political Victory Fund]] · [[Steve
-  Scalise]] · [[Glenn Thompson]] · [[FreedomWorks for America]] · [[Kevin
-  McCarthy]] · [[American Conservative Union]] · [[National Right to Life PAC]]
-  · [[Elbert Guillory's America]] · [[America First Action]] · [[One Nation
-  United]] · [[Mark E. Amodei]] · [[Gus M. Bilirakis]] · [[John Cornyn]] ·
-  [[Brett Guthrie]] · [[Drain the DC Swamp PAC]] · [[Earl L. Buddy Carter]] ·
-  [[AUSTIN SCOTT FOR CONGRESS INC]] · [[ROBERT ADERHOLT FOR CONGRESS]] · [[John
-  Barrasso]] · [[Mike Johnson]] · [[HOEVEN FOR SENATE]] · [[Southern States
-  Police Benevolent Assoc PAC Fund]] · [[Tom Emmer]] · [[Madison Project Inc.]]
-  · [[Tracey Mann]] · [[GARY PALMER FOR CONGRESS]] · [[Ken Calvert]] · [[Carol
-  D. Miller]] · [[BIGGS FOR CONGRESS]] · [[Dan Coats]] · [[William R. Timmons]]
-  · [[Stars and Stripes Forever PAC]] · [[Daniel Meuser]] · [[RON JOHNSON FOR
-  SENATE, INC.]] · [[JIM JORDAN FOR CONGRESS]] · [[Mike Haridopolos]] · [[Bill
-  Huizenga]] · [[RON ESTES FOR CONGRESS]] · [[JOE WILSON FOR CONGRESS]] · [[PETE
-  SESSIONS FOR CONGRESS]] · [[Marsha Blackburn]] · [[Future45]] · [[Club for
-  Growth INC PAC]] · [[MICHAEL WALTZ FOR CONGRESS]] · [[WESTERMAN FOR CONGRESS]]
-  · [[Roger Marshall]] · [[MULLIN FOR AMERICA]] · [[Steve Womack]] · [[Roger
-  Wicker]] · [[FRIENDS OF MATT GAETZ]] · [[W. Gregory Steube]] · [[Kevin
-  Cramer]] · [[Elise Stefanik]] · [[FISCHBACH FOR CONGRESS]] · [[Dan Newhouse]]
-  · [[JASON SMITH FOR CONGRESS]] · [[Campaign for Working Families]] ·
-  [[Freedom's Defense Fund]] · [[Tom McClintock]] · [[Rick Crawford]] · [[MAST
-  FOR CONGRESS]] · [[Neal P. Dunn]] · [[Patriot Voices PAC]] · [[TAKING OUR
-  MAJORITY PAC]] · [[Mike Crapo]] · [[Ted Cruz]] · [[Ron Estes]] · [[Robert B.
-  Aderholt]] · [[Michael Waltz]] · [[Jason Smith]] · [[Gary J. Palmer]] · [[Joe
-  Wilson]] · [[Matt Gaetz]] · [[Brian Mast]] · [[Pete Sessions]] · [[John
-  Hoeven]] · [[Jim Jordan]] · [[Jefferson van Drew]] · [[Michelle Fischbach]] ·
-  [[Bruce Westerman]] · [[Andy Biggs]] · [[Markwayne Mullin]]
-related: >-
-  The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion ·
-  [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Jeff Yass
-  Follows TikTok Money Across Every Candidate]] · [[Tech Billionaires Switch
-  Parties on Regulatory Self-Interest]] · [[Crypto Industry Buys Both Parties in
-  One Cycle]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] ·
-  [[Rex Tillerson]] · [[Michael Waltz]] · [[Bill Pulte]] · [[Paul Ryan]] ·
-  [[John Boehner]] · [[Wall Street Finance Networks]]
-total-received: '$724,161,916'
-total-received-note: >-
-  Canonical store IE + independent spending 2022-2026 cycles. 2024 campaign +
-  PACs raised ~$1.45B total per OpenSecrets. CSV individual contributions ingest
-  pending.
-custom-stats: >-
-  [object Object],[object Object],[object Object],[object Object],[object
-  Object]
+last-enriched: "2026-04-18"
+needs-reenrichment: "false"
+opposes: "[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[_Adam Schiff Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida Tlaib Master Profile]] · [[_Maxine Waters Master Profile]] · [[_Jamie Raskin Master Profile]] · [[Hillary Clinton Master Profile]] · [[Ed Markey]] · [[Wesley Bell]] · [[Joe Biden]] · [[Jeanne Shaheen]] · [[Mark Warner]] · [[Ron Wyden]] · [[Cori Bush]] · [[Richard Neal]] · [[Patty Murray]] · [[Raul Grijalva]] · [[Maria Cantwell]] · [[Nydia Velazquez]] · [[Hillary Clinton]] · [[Josh Gottheimer]] · [[Greg Casar]] · [[Janet Mills]] · [[Xavier Becerra]] · [[Maxine Waters]] · [[Josh Shapiro]] · [[Brian Schatz]] · [[Amy Klobuchar]] · [[Debbie Stabenow]] · [[Jerry Nadler]] · [[Eric Swalwell]] · [[Bob Menendez]] · [[Barack Obama]] · [[Adam Smith]] · [[Amy Acton]] · [[Wes Moore]] · [[Rick Larsen]] · [[Josh Green]] · [[Jamaal Bowman]] · [[Graham Platner]] · [[Gretchen Whitmer]] · [[Hakeem Jeffries]] · [[Angie Craig]] · [[Gerry Connolly]] · [[Nancy Pelosi]] · [[Bennie Thompson]] · [[Chris Coons]] · [[Sherrod Brown]] · [[Brendan Boyle]] · [[Tom Steyer]] · [[Henry Cuellar]] · [[Tim Walz]] · [[Abdul El-Sayed]] · [[Jamie Raskin]] · [[Mallory McMorrow]] · [[Sheldon Whitehouse]] · [[Melissa Bean]] · [[Jack Reed]] · [[Zoe Lofgren]] · [[Shontel Brown]] · [[Katie Porter]] · [[Ro Khanna]] · [[Raphael Warnock]] · [[Ayanna Pressley]] · [[Summer Lee]] · [[Matt Mahan]] · [[Andrew Cuomo]] · [[Jeff Merkley]] · [[George Latimer]] · [[Saikat Chakrabarti]] · [[Chuck Schumer]] · [[Rashida Tlaib]] · [[Betty Yee]] · [[Debbie Wasserman Schultz]] · [[John Fetterman]] · [[Chris Murphy]] · [[Pramila Jayapal]] · [[Bill Clinton]] · [[Nina Turner]] · [[Gavin Newsom]] · [[Antonio Villaraigosa]] · [[Andy Beshear]] · [[Elizabeth Warren]] · [[Jim McGovern]] · [[Martin Heinrich]] · [[Jim Himes]] · [[Bobby Scott]] · [[Richard Blumenthal]] · [[Scott Wiener]] · [[Pete Buttigieg]] · [[Dick Durbin]] · [[Ilhan Omar]] · [[Cory Booker]] · [[Pete Aguilar]] · [[Alex Padilla]] · [[Jon Ossoff]] · [[Mark Takano]] · [[Raja Krishnamoorthi]] · [[John Hickenlooper]] · [[Gary Peters]] · [[Frank Pallone]] · [[Tammy Duckworth]] · [[Tammy Baldwin]] · [[Harry Reid]] · [[Rosa DeLauro]] · [[Joseph Morelle]] · [[Kamala Harris]] · [[Alexandria Ocasio-Cortez]] · [[Tony Thurmond]] · [[JB Pritzker]] · [[Gregory Meeks]]"
+donors: "[[Trump Organization]] · [[Trump Media & Technology Group]] · [[World Liberty Financial]] · [[Republican Party Apparatus]] · [[Richard and Elizabeth Uihlein]] · [[Stephen Schwarzman]] · [[Bernard Marcus]] · [[MAGA Inc]] · [[DeVos Family]] · [[Christopher Ruddy]] · [[Founders Fund]] · [[Lennar Corporation]] · [[AB PAC]] · [[American Farm Bureau Federation]] · [[Peter Thiel]] · [[Northrop Grumman]] · [[Agricultural Labor Vulnerability Donors]] · [[Fossil Fuel Bloc]] · [[Dustin Moskovitz]] · [[Miriam Adelson]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Crypto Industry Bloc]] · [[US Chamber of Commerce]] · [[Michael Bloomberg]] · [[Fox News Pipeline to Power]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[Ken Griffin]] · [[Sheldon & Miriam Adelson]] · [[PRIORITIES USA ACTION]] · [[Jeffrey Epstein Network]] · [[Fraternal Order of Police]] · [[Bernie Marcus]] · [[Les Wexner - Wexner Family Enterprises]] · [[CoreCivic]] · [[Rupert Murdoch]] · [[Meta - Facebook]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Concerned Veterans for America]] · [[National Association of Manufacturers]] · [[Jan Koum]] · [[Real Estate Development Industry Bloc]] · [[National Rifle Association]] · [[Blackstone Group]] · [[Elon Musk]] · [[Susquehanna International Group]] · [[Ben Horowitz]] · [[David Sacks (Donor Network)]] · [[GEO Group - Private Prison Industrial Complex]] · [[Think Big AI]] · [[Nucor Corporation]] · [[Oracle]] · [[Trump Donor Coalition]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Bradley Foundation]] · [[David Sacks]] · [[Uber]] · [[Real Estate Roundtable]] · [[Palantir Technologies Political Operation]] · [[Defense Contractors Bloc]] · [[Kelcy Warren]] · [[Kenneth Griffin]] · [[Amazon]] · [[Meatpacking Corporations]] · [[Timothy Mellon]] · [[Kelcy Warren - Energy Transfer Partners]] · [[David McIntosh]] · [[Silicon Valley Donors]] · [[National Cattlemen's Beef Association]] · [[L3Harris Technologies]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]] · [[Federalist Society]] · [[Citadel - Kenneth Griffin]] · [[Eric Schmidt]] · [[ExxonMobil]] · [[Robert Mercer]] · [[RBG PAC]] · [[American Iron and Steel Institute]] · [[Preserve America]] · [[Leonard Leo]] · [[Google - Alphabet]] · [[FTX - Sam Bankman-Fried]] · [[Koch Network - Charles Koch]] · [[Business Roundtable]] · [[Mohammed bin Salman]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Trump Victory]] · [[Palantir Technologies]] · [[Marc Andreessen & Horowitz]] · [[Fanjul Family - Florida Crystals]] · [[Trump 2024 Campaign]] · [[WinRed]] · [[Save America PAC]] · [[Harold Hamm]] · [[Jeffrey Yass]] · [[Brian Armstrong]] · [[MAGA Small Dollar Base]] · [[Rebekah Mercer]] · [[Raytheon (RTX Corporation)]] · [[Republican Jewish Coalition]] · [[Brad Garlinghouse]] · [[David Sacks - Donor Network]] · [[DMFI - Democratic Majority for Israel]] · [[Mad Dog PAC]] · [[American Principles Project Pac]] · [[Honoring American Law Enforcement Pac]] · [[Emgage Federal Political Action Committee]] · [[Planned Parenthood Votes]] · [[League of Conservation Voters]] · [[RNC - Republican National Committee]] · [[Human Rights Campaign Equality Votes]] · [[Working Families Party PAC]] · [[Emily's List]] · [[SEIU COPE]] · [[Giffords PAC]] · [[Club for Growth]] · [[Michigan Republican Party]] · [[Law Enforcement for a Safer America Pac]] · [[MoveOn.org Political Action]] · [[Really American Pac]] · [[United We Can]] · [[Ab Pac]] · [[Americans for Prosperity]] · [[Restoration PAC]] · [[Pennsylvania Pro-Life Federation PAC]] · [[The Lincoln Project]] · [[Hmp]] · [[Votevets]] · [[AMERICAN JOBS AND GROWTH PAC]] · [[Sierra Club Independent Action]] · [[National Right to Life Victory Fund]] · [[UNITE HERE]] · [[Planned Parenthood of Minnesota Political Action Fund]] · [[Kansans for Life Political Action Committee]] · [[Indivisible Action]] · [[Americas Pac]] · [[Common Sense for America PAC]] · [[DNC - Democratic National Committee]] · [[National Victory Action Fund]] · [[The Sentinel Action Fund]] · [[Fairshake PAC]] · [[SLF PAC]] · [[NRCC - National Republican Congressional Committee]] · [[America PAC - Elon Musk]] · [[Activate America]] · [[Progressive Turnout Project]] · [[Never Back Down Inc]] · [[Tell It Like It Is Pac]] · [[Women Speak Out Pac]] · [[Hunter Action Fund (haf)]] · [[Sfa Fund, Inc]] · [[Everytown for Gun Safety Victory Fund]] · [[REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO]] · [[Good Fight PAC]] · [[Leadership Now]] · [[AMERICAN CROSSROADS]] · [[HMP]] · [[American Jobs and Growth PAC]] · [[Never Back Down Inc.]] · [[Priorities USA Action]] · [[Republican Campaign Committee of New Mexico]] · [[American Crossroads]] · [[Republican Party of Florida]] · [[Sam Graves]] · [[TED CRUZ FOR SENATE]] · [[NRA Political Victory Fund]] · [[Steve Scalise]] · [[Glenn Thompson]] · [[FreedomWorks for America]] · [[Kevin McCarthy]] · [[American Conservative Union]] · [[National Right to Life PAC]] · [[Elbert Guillory's America]] · [[America First Action]] · [[One Nation United]] · [[Mark E. Amodei]] · [[Gus M. Bilirakis]] · [[John Cornyn]] · [[Brett Guthrie]] · [[Drain the DC Swamp PAC]] · [[Earl L. Buddy Carter]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[ROBERT ADERHOLT FOR CONGRESS]] · [[John Barrasso]] · [[Mike Johnson]] · [[HOEVEN FOR SENATE]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[Tom Emmer]] · [[Madison Project Inc.]] · [[Tracey Mann]] · [[GARY PALMER FOR CONGRESS]] · [[Ken Calvert]] · [[Carol D. Miller]] · [[BIGGS FOR CONGRESS]] · [[Dan Coats]] · [[William R. Timmons]] · [[Stars and Stripes Forever PAC]] · [[Daniel Meuser]] · [[RON JOHNSON FOR SENATE, INC.]] · [[JIM JORDAN FOR CONGRESS]] · [[Mike Haridopolos]] · [[Bill Huizenga]] · [[RON ESTES FOR CONGRESS]] · [[JOE WILSON FOR CONGRESS]] · [[PETE SESSIONS FOR CONGRESS]] · [[Marsha Blackburn]] · [[Future45]] · [[Club for Growth INC PAC]] · [[MICHAEL WALTZ FOR CONGRESS]] · [[WESTERMAN FOR CONGRESS]] · [[Roger Marshall]] · [[MULLIN FOR AMERICA]] · [[Steve Womack]] · [[Roger Wicker]] · [[FRIENDS OF MATT GAETZ]] · [[W. Gregory Steube]] · [[Kevin Cramer]] · [[Elise Stefanik]] · [[FISCHBACH FOR CONGRESS]] · [[Dan Newhouse]] · [[JASON SMITH FOR CONGRESS]] · [[Campaign for Working Families]] · [[Freedom's Defense Fund]] · [[Tom McClintock]] · [[Rick Crawford]] · [[MAST FOR CONGRESS]] · [[Neal P. Dunn]] · [[Patriot Voices PAC]] · [[TAKING OUR MAJORITY PAC]] · [[Mike Crapo]] · [[Ted Cruz]] · [[Ron Estes]] · [[Robert B. Aderholt]] · [[Michael Waltz]] · [[Jason Smith]] · [[Gary J. Palmer]] · [[Joe Wilson]] · [[Matt Gaetz]] · [[Brian Mast]] · [[Pete Sessions]] · [[John Hoeven]] · [[Jim Jordan]] · [[Jefferson van Drew]] · [[Michelle Fischbach]] · [[Bruce Westerman]] · [[Andy Biggs]] · [[Markwayne Mullin]] · [[Martha Sullivan]] · [[Robert Cobb]] · [[Doris Cole]] · [[Jayson Waller]] · [[Kirsten Vliet]] · [[William Hassoldt]] · [[Nan J Cameron]] · [[George Porter]] · [[Stephanie Kozak Allen]] · [[Merilyn B. Johnston]] · [[Levi A Pollard]] · [[John Lockton]] · [[Tom Wilson]] · [[Justin Alexander]] · [[Christine Perry]] · [[Michael Adelberg]] · [[Xu Jie]] · [[Aaron D Spencer]] · [[Alice Caires]] · [[Beverly Ogden]] · [[John Pearson]] · [[George Hobbs]] · [[Richard D Taylor]] · [[Erlene Stewart]] · [[Donald J. Trump]] · [[Johnny H Baker]] · [[Mclean Bowman]] · [[Robert Logis]] · [[Brian Schroeder]] · [[Ronald Yamauchi]] · [[Michael Jenkins]] · [[Denis Kerasotes]] · [[Marion Grant]] · [[Charles Burnett]] · [[Elizabeth Manci]] · [[Harold Iii Mcgraw]] · [[Leslie Huizenga]] · [[Ronald Mcginnis]] · [[George Floyd]] · [[Michael Nicklaus]] · [[Shiou Wann]] · [[David Levine]] · [[Alexander Mr. Rovt]] · [[Robert P Kletjian]] · [[Susan Gould]] · [[Jose Simon Canellas]] · [[Phil Fowler]] · [[Angelique Griepp]] · [[Charles Trado]] · [[Missy Butcher]] · [[Everett Hellmuth]] · [[Paul Pearson]] · [[John Murphy]] · [[Lawrence Cobb]] · [[Christopher Nix]] · [[Jz Knight]] · [[Margaret May]] · [[Mark L Mr Gruss]] · [[Nancy Houssels]] · [[Carol Hannah]] · [[Darren Rude]] · [[Robert Moore]] · [[Ernie Boch]] · [[Lyle Tiffany]] · [[Delbert Rexfotd]] · [[Sam Webb]] · [[Donald J J. Trump]] · [[George Jr Borba]] · [[Charles Manger]] · [[Anne C Dickson]] · [[John R Mr. Luckasen]] · [[Paul Reed]] · [[Lino Barro]] · [[Carlos Marquez]] · [[Adrina Kletjian]] · [[Charles Campbell]] · [[Don E Nelsen]] · [[Barbara Allsup]] · [[Thomas Larosa]] · [[Tate Casper]] · [[Gary East]] · [[Keith Denner]] · [[Robert Murray]] · [[Shannon Cats]] · [[Walter Schlaepfer]] · [[Mary E Klinghoffer]] · [[Fielding Cocke]] · [[Robert Dobski]] · [[Jorge Unanue]] · [[Dave Weinbaum]] · [[Arthur Schaller]] · [[Rl Dunn]] · [[Stiles Jr Kellett]] · [[Jerry A Mr Bullin]] · [[David C. Drysdale]] · [[Lori Lane]] · [[Chadwick Prodromos]] · [[Melissa Matson]] · [[Vincent Kyle]] · [[John Murray]] · [[Susan Price]] · [[James Holly]] · [[John Peck]] · [[Gary Schrock]] · [[Blake Casper]] · [[Teresa Loya Mcintire]] · [[Michael Morgan]] · [[Robert Jr Freres]] · [[William Song]] · [[Donahue Wildman]] · [[Bruce Thompson]] · [[William Jones]] · [[Debra Baldwin]] · [[Susan Levine]] · [[Blane Crandall]] · [[Susan Aleshire]] · [[Jo Hollander]] · [[Delores Pistacchio]] · [[Larry Martin]] · [[Mary Roach]] · [[Edna Anderson]] · [[Richard T Lee]] · [[Joseph Marshal]] · [[Watt R Jr Foster]] · [[David Vande Bunte]] · [[Don T Allan]] · [[Katherine R Foxley]] · [[Michael A]] · [[Peter Gigante]] · [[Deanna Offen]] · [[Nail Marcella]] · [[Daniel Farquharson]] · [[Jim Calvert]] · [[Art Evans]] · [[Bonnie M Martell]] · [[Ligia Forero]] · [[Mel Campbell]] · [[Sang Lee]] · [[Peter B Brock]] · [[Maggie Meyer]] · [[Denis Miller]] · [[Narayana Bellamkonda]] · [[Beth A Mrs. Orscheln]] · [[Perlita Gapud]] · [[Lynne Archer]] · [[Cole Proctor]] · [[Lillian Ling]] · [[Jeanie Swagerty]] · [[Patrick Preston]] · [[Brad Pelsue]] · [[Racquel Evdokimo]] · [[Terry R Lewis]] · [[Mark Davis]] · [[Rog Lucas]] · [[WINRED]] · [[Robert J Jr Clark]] · [[Richard Morehouse]] · [[Sandra Crow]] · [[Robert Hyde]] · [[Brian P. Mr. Burns]] · [[John Pariseau]] · [[Ross Barker]] · [[Anna M Bates]] · [[Howard Hewitt]] · [[John Turner]] · [[Rebecca Elias]] · [[Guenter W Kippschull]] · [[Dale Lichy]] · [[Elizabeth Lisle]] · [[Robert R Walker]] · [[Viktor Vazhenin]] · [[Steve Sorensen]] · [[Pat Weckerly]] · [[Louise Davis]] · [[Robert Jr Puff]] · [[Christopher Goldsbury]] · [[William Cook]] · [[Hong Vo]] · [[William R Clayton]] · [[Tom Reeves]] · [[Kathryn Cordi]] · [[Eric Von]] · [[Gary M Jungers]] · [[Hongbin Zeng]] · [[Lisa L Barnum]] · [[Hugh Ray]] · [[Michael Anderson]] · [[Chuck Harding]] · [[Steve Hughes]] · [[James Maxim]] · [[, Bill Gray]] · [[John A Martell]] · [[Charles Pulliam]] · [[Gerald Blatt]] · [[Linda Hayes]] · [[Linda Baldwin]] · [[John Oliver]] · [[Robert E Lee]] · [[Rob A Brown]] · [[Edwin Chin]] · [[Ed Marshall]] · [[Chris Tibbs]] · [[Michael G Adelberg]] · [[Peggy Floyd]] · [[Eleanor Lee]] · [[John Brodersen]] · [[Albert R Iii Van Riper]] · [[Enrique Yanes]] · [[Justin Hall]] · [[Kathy Craig]] · [[Donna Roehsler]] · [[Patricia H Allen]] · [[Sarah Farish]] · [[Robert Whitley]] · [[Zetta Helvey]] · [[Christine Murphy]] · [[Paul Heilman]] · [[Harry Robert]] · [[Steve Robert]] · [[Russell Evitt]] · [[Constance Murray]] · [[Dennis R Johnson]] · [[Barbara J Allsup]] · [[Peter Bradshaw Mckee]] · [[Eugene Stark]] · [[L.d. Mr. Gorman]] · [[Thomas A Fahey]] · [[Daniel G Bruns]] · [[Ruth T Duckworth]] · [[Mark L Gruss]] · [[Naoma Thomas]] · [[Patricia Appl]] · [[Hualin Huang]] · [[Justine Goodfellow]] · [[Donald J Trump]] · [[Bj Vogel]] · [[Carolyn Carrano]] · [[Reza Yazdani]] · [[Charles H. Sanford]] · [[Haorld Wiese]] · [[Vaughn Prost]] · [[Gloria Lathrop]] · [[Robert Shivers]] · [[Ann Wismer]] · [[Ed Wopschall]] · [[Jeff Badders]] · [[Gary Mr Johnston]] · [[Xiaoshun Yu]] · [[Joan Venaleck]] · [[Len Leader]] · [[Joseph Hurt]] · [[David Cheriton]] · [[Louis P Mr. Ferrero]] · [[Thomas Richmond]] · [[Robert Gonzales]] · [[Anthony Moravec]] · [[H Freels]] · [[Fred Barnum]] · [[Lynn Wilson]] · [[John Kendig]] · [[John T Sr Venaleck]] · [[Donald L Detwiler]] · [[Nicholas Ruggiero]] · [[Robert J Bruce]] · [[Kathryn L Brown]] · [[Fred Love]] · [[Leslie Negley]] · [[Chonghua Wang]] · [[Grant Trevithick]] · [[Julia Pavliga]] · [[Moseley Collins]] · [[Steve Stephens]] · [[Reclaim America PAC]] · [[Majority PAC]] · [[VIGOP]] · [[Senate Conservatives Fund]] · [[Susan B. Anthony Pro-Life America PAC]]"
+related: "The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Rex Tillerson]] · [[Michael Waltz]] · [[Bill Pulte]] · [[Paul Ryan]] · [[John Boehner]] · [[Wall Street Finance Networks]]"
+total-received: $724,161,916
+total-received-note: Canonical store IE + independent spending 2022-2026 cycles. 2024 campaign + PACs raised ~$1.45B total per OpenSecrets. CSV individual contributions ingest pending.
+custom-stats: "[object Object],[object Object],[object Object],[object Object],[object Object]"
 fec-candidate-id: P80001571
-say-vs-pay: '[object Object]'
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  CONGRESS data is missing entirely. This profile was promoted to ready without
-  ever having congress enrichment run on it. The needs-reenrichment flag has
-  been set. The next scheduled pipeline run will pick it up automatically.
-
-  [URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO
-  TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs,
-  GovTrack.us | [URL Check 2026-04-08] 25 checked: 24 ok, 1 broken, 0 slow. |
-  BROKEN: Preserving America's Game
+say-vs-pay: "[object Object]"
+internal-notes: |-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs, GovTrack.us | [URL Check 2026-04-08] 25 checked: 24 ok, 1 broken, 0 slow. | BROKEN: Preserving America's Game
 executive-orders: 474
 presidential-memoranda: 167
 proclamations: 706

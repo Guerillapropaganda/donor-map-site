@@ -23,7 +23,7 @@ known-gaps:
 executive-orders: 310
 presidential-memoranda: 89
 proclamations: 761
-donors: "[[Media Matters]] · [[MICHIGAN REPUBLICAN PARTY]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]] · [[AFL-CIO]] · [[One Nation United]] · [[NANCY PELOSI FOR CONGRESS]] · [[Nancy Pelosi]]"
+donors: "[[Media Matters]] · [[MICHIGAN REPUBLICAN PARTY]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[International Brotherhood of Electrical Workers Local 98 Committee on Political Education]] · [[AFL-CIO]] · [[One Nation United]] · [[NANCY PELOSI FOR CONGRESS]] · [[Nancy Pelosi]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Unite Here Tip Campaign Committee]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Right to Life of Michigan Political Action Committee]] · [[NARAL Pro-Choice America]] · [[CTA - California Teachers Association]] · [[Bank of America]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[National Education Association]] · [[Sierra Club Political Committee]] · [[Drummond Co.]]"
 urls-first-triaged: "2026-04-15"
 opposes: "[[Donald Trump]]"
 fec-committee-id: C00321414
