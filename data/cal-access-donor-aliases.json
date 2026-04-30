@@ -1,0 +1,32 @@
+{
+  "purpose": "Cal-Access donor name alias-merge map. Used by scripts/ingest-cal-access-bulk.cjs to collapse spelling variants into one canonical name before edge aggregation. Per audit Remediation #8 (cc_p3_191 Finding 3.4).",
+  "format": "Each entry maps an array of variant strings to a canonical_name. The ingester's normalizeDonorName output is matched (case-insensitively) against the variants array; if a hit, the canonical_name is used as the donor name on the edge.",
+  "matching": "Variants compared case-insensitively, whitespace-collapsed, against the post-normalization donor name. Exact match only — substring matching invites false positives (e.g. 'PG&E' inside 'PG&E Lobbyists' is a different entity).",
+  "review": "Code Claude proposes additions when discovery surfaces a new spelling variant cluster. David batch-approves via the editorial-decision-pipeline (Tier 2 per ADR-0029). Direct edits here require a [pipeline] tag in the commit and explicit reasoning.",
+  "aliases": [
+    {
+      "canonical": "PG&E Corporation",
+      "variants": ["pg&e", "pg&e corporation", "pacific gas & electric", "pacific gas and electric", "pacific gas & electric company", "pacific gas and electric company", "pge corporation", "pge corp"],
+      "rationale": "PG&E (utility holding company) — multiple Cal-Access spelling variants. Audit cc_p3_191 surfaced 3 variants in the data: 'Pg&e Corporation' (post-normalize lowercase), 'PG&E Corporation' (mixed-case input), 'PG&E' (alone).",
+      "added_by": "claude-auto",
+      "added_at": "2026-04-30",
+      "session": "cc_p3_195"
+    },
+    {
+      "canonical": "AT&T",
+      "variants": ["at&t", "at & t", "at and t", "at&t inc", "at&t inc.", "at&t incorporated", "american telephone & telegraph", "at&t services inc", "at&t services, inc", "at&t corporate"],
+      "rationale": "AT&T — telecom donor with similar acronym normalization issues as PG&E.",
+      "added_by": "claude-auto",
+      "added_at": "2026-04-30",
+      "session": "cc_p3_195"
+    },
+    {
+      "canonical": "SEIU California State Council",
+      "variants": ["seiu california state council", "seiu ca state council", "service employees international union california state council", "seiu ca state council for working people", "seiu california state council for working people"],
+      "rationale": "SEIU California State Council — major IE donor (Swalwell IE PAC); long-form vs short-form vs 'For Working People' suffix all observed in the data.",
+      "added_by": "claude-auto",
+      "added_at": "2026-04-30",
+      "session": "cc_p3_195"
+    }
+  ]
+}

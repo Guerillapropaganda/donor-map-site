@@ -73,6 +73,12 @@ function loadEdgesFile(file) {
   return edges;
 }
 
+function loadIngestSummary() {
+  const f = path.join(ROOT, 'data', 'cal-access-bulk-summary.json');
+  if (!fs.existsSync(f)) return null;
+  try { return JSON.parse(fs.readFileSync(f, 'utf-8')); } catch { return null; }
+}
+
 function loadEdges() {
   const receipts = loadEdgesFile(EDGE_FILE);
   if (receipts.length === 0) {
@@ -386,7 +392,15 @@ function buildPanel(candidate, candData, allEdges) {
   const sourceUrls = controlledIds
     .map((id) => `[${id}](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=${id})`)
     .join(' · ');
-  lines.push(`*Source: California Cal-Access bulk RCPT_CD via \`scripts/ingest-cal-access-bulk.cjs\`. Committees: ${sourceUrls || '(none)'}. Refresh: download fresh dump, run discovery + ingest.*`);
+  // Audit Remediation #5.1: surface "as of" date so readers know the
+  // freshness of these numbers. Pulled from data/cal-access-bulk-summary.json.
+  const summary = global.__INGEST_SUMMARY || {};
+  const asOfRaw = summary.run_at;
+  const asOfDate = asOfRaw ? asOfRaw.slice(0, 10) : 'unknown';
+  const cdnDateRaw = summary.cdn_last_modified;
+  const cdnDate = cdnDateRaw ? cdnDateRaw.slice(0, 10) : null;
+
+  lines.push(`*Source: California Cal-Access bulk RCPT_CD via \`scripts/ingest-cal-access-bulk.cjs\`. Committees: ${sourceUrls || '(none)'}. **As of: ${asOfDate}**${cdnDate ? ` (CDN dump dated ${cdnDate})` : ''}. Refresh: download fresh dump, re-run \`ingest-cal-access-bulk.cjs\` and \`build-cal-access-panels.cjs --write\`.*`);
   lines.push('');
   lines.push(BLOCK_END);
   return lines.join('\n');
@@ -424,6 +438,10 @@ function injectPanel(content, panel) {
   console.log(`[build-cal-access-panels] mode=${WRITE ? 'WRITE' : 'DRY RUN'}  candidate=${ONLY || 'all'}`);
   const overrides = JSON.parse(fs.readFileSync(OVERRIDES, 'utf-8'));
   const edges = loadEdges();
+  const summary = loadIngestSummary();
+  // Make summary available to buildPanel via module-scope (the cleanest
+  // way without restructuring the function signatures further).
+  global.__INGEST_SUMMARY = summary;
   console.log(`  loaded ${edges.receipts.length} receipts + ${edges.expn.length} expenditures + ${edges.loans.length} loans`);
 
   let updated = 0;

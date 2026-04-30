@@ -79,7 +79,18 @@ const ROSTER = [
 ];
 
 const SUPPORT_TOKENS = ['SUPPORT', 'SUPPORTING', 'FRIENDS OF', 'COMMITTEE FOR', 'CITIZENS FOR'];
-const OPPOSE_TOKENS = ['OPPOSE', 'OPPOSING', 'AGAINST', 'STOP', 'NO ON'];
+// Audit Finding 4.3: broaden IE-opposing detection. Original 5 tokens
+// only caught the literal phrasings; real attack-PAC names use
+// euphemisms like "Truth About X" / "Real X for Governor" /
+// "Coalition for Truth on X" / "Stop X" / "Defeat X". Adding observed
+// patterns from CA + national IE history.
+const OPPOSE_TOKENS = [
+  'OPPOSE', 'OPPOSING', 'AGAINST', 'STOP', 'NO ON',
+  'DEFEAT', 'TRUTH ABOUT', 'TRUTH ON', 'REAL ', 'EXPOSED',
+  'ENOUGH OF', 'NOT FOR ', 'IS NOT FOR SALE',
+  'COALITION AGAINST', 'CITIZENS AGAINST',
+  'CALIFORNIANS AGAINST', 'AMERICANS AGAINST',
+];
 
 // Empirically observed Cal-Access taxonomy codes (FILER_TO_FILER_TYPE_CD):
 //   CATEGORY=40002       = candidate-controlled committee (CTL)

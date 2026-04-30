@@ -127,7 +127,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 **Direct contributions** (donor → candidate-controlled committees): **$8.13M** across 4408 edges, 4408 unique donors.
 **Same-name transfers** (likely self-fund / family vehicles): **$450** across 2 record(s).
-**IE supporting** (donor → independent expenditure PAC backing this candidate): **$37.96M** across 4 PAC(s).
+**IE supporting** (donor → independent expenditure PAC backing this candidate): **$43.96M** across 4 PAC(s).
 
 **Controlled committees:** SWALWELL FOR GOVERNOR 2026; ERIC `1485146` · SWALWELL JR. FOR CITY COUNCIL 2010, ERIC `1327203`
 
@@ -164,6 +164,16 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 #### Independent expenditure PACs supporting this candidate
 
+**SWALWELL FOR GOVERNOR 2026 SPONSORED BY SEIU CALIFORNIA STATE COUNCIL; NURSES AND EDUCATORS SUPPORTING** — $22.03M from 5 edges
+
+| Donor | Amount |
+|---|---:|
+| SEIU California State Council | $6.00M |
+| Dignity CA Service Employees International Union SEIU Local 2015 | $6.00M |
+| SEIU California State Council for Working People | $6.00M |
+| Service Employees International Union Local 1000 Issues PAC | $3.00M |
+| Canal Partners Media | $1.03M |
+
 **SWALWELL FOR GOVERNOR 2026; CALIFORNIANS FOR A FIGHTER IN SUPPORT OF ERIC** — $20.92M from 9 edges
 
 | Donor | Amount |
@@ -177,15 +187,6 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 | Driving California's Economy, Sponsored by CA New Car Dealers Association | $1.00M |
 | Andrew Nathan Schwartzberg | $500.0K |
 | California Association of Psychiatric Technicians, Inc. Political Action Fund | $320.0K |
-
-**SWALWELL FOR GOVERNOR 2026 SPONSORED BY SEIU CALIFORNIA STATE COUNCIL; NURSES AND EDUCATORS SUPPORTING** — $16.03M from 4 edges
-
-| Donor | Amount |
-|---|---:|
-| Dignity CA Service Employees International Union SEIU Local 2015 | $6.00M |
-| SEIU California State Council for Working People | $6.00M |
-| Service Employees International Union Local 1000 Issues PAC | $3.00M |
-| Canal Partners Media | $1.03M |
 
 **SWALWELL FOR GOVERNOR 2026, A PROJECT OF GLOBAL MEDICAL RESPONSE, INC.; EMS PROFESSIONALS FOR A HEALTHIER CALIFORNIA FOR** — $1.01M from 1 edges
 
@@ -247,7 +248,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485146](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485146) · [1327203](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1327203). Refresh: download fresh dump, run discovery + ingest.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485146](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485146) · [1327203](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1327203). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

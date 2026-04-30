@@ -151,7 +151,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1480425](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480425). Refresh: download fresh dump, run discovery + ingest.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1480425](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480425). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 
