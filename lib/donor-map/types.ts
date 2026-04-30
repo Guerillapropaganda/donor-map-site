@@ -311,6 +311,98 @@ export interface InfluenceMapOpts {
   top_donors_per_cluster?: number
 }
 
+// ─── policyAlignment (ADR-0024 Phase 3 thesis query) ─────────────────────
+
+export interface PolicyAlignmentOpts {
+  status?: EdgeStatus | "all"
+  /** Limit to one policy_area (e.g. "Health"). Default: all areas. */
+  policy_area?: string
+  /** Minimum bills-touched threshold per area to surface. Default 1. */
+  min_bills_per_area?: number
+  /** Limit congresses scanned for vote-side data. Default: all available. */
+  congresses?: number[]
+  /** Override the data dir for vote positions (mostly for tests). */
+  data_dir?: string
+}
+
+export interface PolicyAreaStats {
+  policy_area: string
+  /** Bills they sponsored in this area (each = implicit support signal). */
+  bills_sponsored: number
+  /** Bills they voted on in this area, by position. */
+  bills_voted: number
+  yea: number
+  nay: number
+  /** support_rate = (sponsored + yea) / (sponsored + yea + nay).
+   *  Sponsoring counts as support; abstentions / Not Voting are excluded. */
+  support_rate: number
+  /** Sample bills the politician sponsored in this area. */
+  sample_sponsored_ids: string[]
+}
+
+export interface PolicyAlignmentResult {
+  politician: Node
+  /** Per-policy-area breakdown, ranked by total bills touched. */
+  areas: PolicyAreaStats[]
+  /** Areas the politician sponsored most heavily — interpret as priorities. */
+  top_priorities: PolicyAreaStats[]
+  /** Honest data-gap signal: voting data missing for these congresses. */
+  missing_congresses: number[]
+  /** Total bills index size — diagnostic. */
+  bills_indexed: number
+}
+
+// ─── politicianContradictions (ADR-0024 Phase 3 thesis query) ────────────
+//
+// Reframed from the original "stated platform vs donor want" definition,
+// which would require scraping campaign promises (out of scope). Instead:
+// "Find votes where this politician voted differently from the politicians
+// their donors also fund." Computable from existing data (donor edges +
+// position records) and arguably more honest — your donor-twins voted X,
+// why didn't you?
+
+export interface PoliticianContradictionsOpts {
+  /** Minimum dollar threshold per donor → recipient edge to count.
+   *  Default $1000 (filters out small / accidental contributions). */
+  min_donor_amount?: number
+  /** How many top donors to consider as the politician's funding-base.
+   *  Default 10. */
+  top_n_donors?: number
+  /** Minimum number of donor-siblings who voted on a bill before we
+   *  evaluate it. Default 3 (need a quorum to compute majority). */
+  min_siblings_per_vote?: number
+  /** Limit returned contradictions. Default 25. */
+  limit?: number
+  congresses?: number[]
+  /** Override positions data dir (tests). */
+  data_dir?: string
+}
+
+export interface ContradictionVote {
+  vote_id: string
+  position: string
+  /** Number of donor-sibling politicians who voted on this bill. */
+  siblings_voted: number
+  /** Their majority position (Yea/Nay). */
+  siblings_majority: string
+  siblings_yea: number
+  siblings_nay: number
+}
+
+export interface PoliticianContradictionsResult {
+  politician: Node
+  /** Donor set used to derive donor-siblings (top-N donors of the politician). */
+  donors_considered: Array<{ donor: Node; amount_to_target: number }>
+  /** Politicians funded by the same donor set (the "donor-twins"). */
+  donor_siblings: Node[]
+  /** Votes where target's vote diverged from donor-siblings' majority,
+   *  ranked by lopsidedness of the sibling vote. */
+  contradictions: ContradictionVote[]
+  votes_evaluated: number
+  /** Honest data-gap signal. */
+  missing_congresses: number[]
+}
+
 // ─── influencePipelines (ADR-0024 Phase 3 thesis query) ──────────────────
 
 export interface InfluencePipelinesOpts {

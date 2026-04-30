@@ -1,5 +1,8 @@
 import { describe, it } from "node:test"
 import * as assert from "node:assert/strict"
+import * as nodeFs from "node:fs"
+import * as nodeOs from "node:os"
+import * as nodePath from "node:path"
 import { Graph } from "../graph"
 import { makeStores } from "./fixtures"
 
@@ -715,5 +718,193 @@ describe("Graph.influenceMap", () => {
     assert.equal(node?.type, "policy")
     const bySlug = g.resolver.tryResolve({ kind: "name", value: "housing" })
     assert.ok(bySlug, "policy also resolves by slug alias")
+  })
+})
+
+describe("Graph.policyAlignment", () => {
+  it("groups sponsorship by bill.policy_area, ranks by total bills touched", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_pol", name: "Senator A", profile_path: null, entity_type: "politician", signals: { bioguide_id: "A001" } },
+      ],
+      edges: [
+        { id: "sp1", from: "Senator A", to: "HR.1-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "sp2", from: "Senator A", to: "HR.2-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "sp3", from: "Senator A", to: "HR.3-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+      ],
+      bills: [
+        { id: "HR.1-119", congress: 119, type: "HR", number: 1, policy_area: "Health" },
+        { id: "HR.2-119", congress: 119, type: "HR", number: 2, policy_area: "Health" },
+        { id: "HR.3-119", congress: 119, type: "HR", number: 3, policy_area: "Taxation" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.policyAlignment("Senator A")
+    assert.equal(r.areas.length, 2)
+    assert.equal(r.areas[0].policy_area, "Health", "Health ranks first — most bills")
+    assert.equal(r.areas[0].bills_sponsored, 2)
+    assert.equal(r.areas[0].support_rate, 1.0, "all sponsored = 100% support")
+    assert.equal(r.areas[1].policy_area, "Taxation")
+    assert.equal(r.bills_indexed, 3)
+  })
+
+  it("policyAlignment buckets unmapped bills as (unclassified)", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_pol", name: "Senator B", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [
+        { id: "sp_unk", from: "Senator B", to: "S.99-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+      ],
+      // bills.jsonl missing this id
+      bills: [],
+    })
+    const g = new Graph(stores)
+    const r = g.policyAlignment("Senator B")
+    assert.equal(r.areas.length, 1)
+    assert.equal(r.areas[0].policy_area, "(unclassified)")
+  })
+
+  it("policyAlignment respects policy_area filter", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_pol", name: "Senator C", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [
+        { id: "sp1", from: "Senator C", to: "HR.1-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "sp2", from: "Senator C", to: "HR.2-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+      ],
+      bills: [
+        { id: "HR.1-119", congress: 119, type: "HR", number: 1, policy_area: "Health" },
+        { id: "HR.2-119", congress: 119, type: "HR", number: 2, policy_area: "Energy" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.policyAlignment("Senator C", { policy_area: "Health" })
+    assert.equal(r.areas.length, 1)
+    assert.equal(r.areas[0].policy_area, "Health")
+    assert.equal(r.areas[0].bills_sponsored, 1)
+  })
+
+  it("policyAlignment top_priorities ranks by bills_sponsored", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_pol", name: "Senator D", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [
+        { id: "sp1", from: "Senator D", to: "HR.1-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "sp2", from: "Senator D", to: "HR.2-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "sp3", from: "Senator D", to: "HR.3-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "sp4", from: "Senator D", to: "HR.4-119", from_type: "politician", to_type: "bill", type: "sponsorship", role: "sponsor", direction: "directed", confidence: 1, source: "govinfo-bill-status", evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+      ],
+      bills: [
+        { id: "HR.1-119", congress: 119, type: "HR", number: 1, policy_area: "Health" },
+        { id: "HR.2-119", congress: 119, type: "HR", number: 2, policy_area: "Health" },
+        { id: "HR.3-119", congress: 119, type: "HR", number: 3, policy_area: "Health" },
+        { id: "HR.4-119", congress: 119, type: "HR", number: 4, policy_area: "Energy" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.policyAlignment("Senator D")
+    assert.equal(r.top_priorities[0].policy_area, "Health")
+    assert.equal(r.top_priorities[0].bills_sponsored, 3)
+  })
+})
+
+describe("Graph.politicianContradictions", () => {
+  it("flags votes where target diverges from donor-siblings' majority", () => {
+    // Two politicians (target + sibling) share a donor.
+    const stores = makeStores({
+      entities: [
+        { id: "ent_target", name: "Target Senator", profile_path: null, entity_type: "politician", signals: { bioguide_id: "TGT" } },
+        { id: "ent_sib1", name: "Sibling One", profile_path: null, entity_type: "politician", signals: { bioguide_id: "SIB1" } },
+        { id: "ent_sib2", name: "Sibling Two", profile_path: null, entity_type: "politician", signals: { bioguide_id: "SIB2" } },
+        { id: "ent_sib3", name: "Sibling Three", profile_path: null, entity_type: "politician", signals: { bioguide_id: "SIB3" } },
+        { id: "ent_donor", name: "Big PAC", profile_path: null, entity_type: "donor" },
+      ],
+      edges: [
+        { id: "d1", from: "Big PAC", to: "Target Senator", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 100000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "d2", from: "Big PAC", to: "Sibling One", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 50000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "d3", from: "Big PAC", to: "Sibling Two", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 75000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "d4", from: "Big PAC", to: "Sibling Three", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 25000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+      ],
+    })
+
+    // Build a synthetic positions dir.
+    const fs = nodeFs
+    const os = nodeOs
+    const path = nodePath
+    const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), "contradictions-"))
+    const rows = [
+      // v1: target Nay, siblings 3 Yea → contradiction (3-0 lopsided)
+      { vote_id: "v1", bioguide: "TGT", position: "Nay", party: "D", state: "X" },
+      { vote_id: "v1", bioguide: "SIB1", position: "Yea", party: "D", state: "X" },
+      { vote_id: "v1", bioguide: "SIB2", position: "Yea", party: "D", state: "X" },
+      { vote_id: "v1", bioguide: "SIB3", position: "Yea", party: "D", state: "X" },
+      // v2: target Yea, siblings 2 Yea 1 Nay → no contradiction (target matches majority)
+      { vote_id: "v2", bioguide: "TGT", position: "Yea", party: "D", state: "X" },
+      { vote_id: "v2", bioguide: "SIB1", position: "Yea", party: "D", state: "X" },
+      { vote_id: "v2", bioguide: "SIB2", position: "Yea", party: "D", state: "X" },
+      { vote_id: "v2", bioguide: "SIB3", position: "Nay", party: "D", state: "X" },
+    ]
+    fs.writeFileSync(path.join(tmpDir, "99.jsonl"), rows.map((r) => JSON.stringify(r)).join("\n") + "\n")
+
+    const g = new Graph(stores)
+    const r = g.politicianContradictions("Target Senator", {
+      min_donor_amount: 1000,
+      min_siblings_per_vote: 3,
+      data_dir: tmpDir,
+    })
+
+    assert.equal(r.donors_considered.length, 1, "Big PAC is the only donor")
+    assert.equal(r.donor_siblings.length, 3, "3 sibling politicians funded by Big PAC")
+    assert.equal(r.contradictions.length, 1, "v1 is the contradiction")
+    assert.equal(r.contradictions[0].vote_id, "v1")
+    assert.equal(r.contradictions[0].position, "Nay")
+    assert.equal(r.contradictions[0].siblings_majority, "Yea")
+    assert.equal(r.contradictions[0].siblings_yea, 3)
+  })
+
+  it("politicianContradictions returns empty when target has no bioguide", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_t", name: "No Bioguide Pol", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [],
+    })
+    const g = new Graph(stores)
+    const r = g.politicianContradictions("No Bioguide Pol")
+    assert.equal(r.contradictions.length, 0)
+    assert.equal(r.votes_evaluated, 0)
+  })
+
+  it("politicianContradictions skips votes below min_siblings_per_vote", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_t", name: "Target", profile_path: null, entity_type: "politician", signals: { bioguide_id: "TGT" } },
+        { id: "ent_s1", name: "Sib1", profile_path: null, entity_type: "politician", signals: { bioguide_id: "S1" } },
+        { id: "ent_donor", name: "Donor", profile_path: null, entity_type: "donor" },
+      ],
+      edges: [
+        { id: "d1", from: "Donor", to: "Target", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 50000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+        { id: "d2", from: "Donor", to: "Sib1", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 50000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-01-01", status: "active" },
+      ],
+    })
+    const fs = nodeFs
+    const os = nodeOs
+    const path = nodePath
+    const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), "contradictions2-"))
+    const rows = [
+      { vote_id: "v1", bioguide: "TGT", position: "Nay", party: "D", state: "X" },
+      { vote_id: "v1", bioguide: "S1", position: "Yea", party: "D", state: "X" },
+    ]
+    fs.writeFileSync(path.join(tmpDir, "99.jsonl"), rows.map((r) => JSON.stringify(r)).join("\n") + "\n")
+    const g = new Graph(stores)
+    const r = g.politicianContradictions("Target", {
+      min_donor_amount: 1000,
+      min_siblings_per_vote: 3, // need 3 siblings, only have 1
+      data_dir: tmpDir,
+    })
+    assert.equal(r.contradictions.length, 0)
   })
 })
