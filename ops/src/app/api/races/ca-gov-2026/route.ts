@@ -138,6 +138,13 @@ export async function GET(req: NextRequest) {
   const gate = await requireAdmin(req)
   if (!gate.ok) return gate.response!
 
+  // Cycle filter — default to 2026 (this is the 2026 race). Pass
+  // ?cycle=all for lifetime totals across all cycles, or ?cycle=2024
+  // for a specific cycle. Per audit Remediation #1.
+  const url = new URL(req.url)
+  const cycleParam = (url.searchParams.get("cycle") || "2026").trim()
+  const cycleFilter = cycleParam === "all" ? null : cycleParam
+
   const repoRoot = findRepoRoot()
   const raceDir = path.join(repoRoot, "content/Politicians/Races/CA Governor 2026")
 
@@ -186,10 +193,16 @@ export async function GET(req: NextRequest) {
         })
         const allEdges = graph.neighbors(row.name)
         row.resolved = true
+        // Cycle filter — see audit Remediation #1. Default 2026; "all"
+        // gives lifetime aggregation. Federal edges keep their existing
+        // multi-cycle behavior (FEC totals reported as cycle-specific
+        // already on the source side).
+        const cycleMatches = (e: { cycle?: string | null }) =>
+          cycleFilter === null || e.cycle === cycleFilter
         // Split federal vs Cal-Access by edge source. Cal-Access edges
         // carry source='cal-access-bulk' from the bulk ingester.
-        const federalEdges = moneyIn.edges.filter((e) => e.source !== "cal-access-bulk")
-        const directCAEdges = moneyIn.edges.filter((e) => e.source === "cal-access-bulk")
+        const federalEdges = moneyIn.edges.filter((e) => e.source !== "cal-access-bulk" && cycleMatches(e))
+        const directCAEdges = moneyIn.edges.filter((e) => e.source === "cal-access-bulk" && cycleMatches(e))
         row.federal_money_in = federalEdges.reduce((s, e) => s + (e.amount ?? 0), 0)
         row.monetary_edge_count = federalEdges.length
         row.total_connections = allEdges.length
@@ -211,7 +224,7 @@ export async function GET(req: NextRequest) {
                   direction: "in",
                   edge_types: ["monetary"],
                 })
-                const ieCAEdges = ieMoney.edges.filter((e) => e.source === "cal-access-bulk")
+                const ieCAEdges = ieMoney.edges.filter((e) => e.source === "cal-access-bulk" && cycleMatches(e))
                 const ieTotal = ieCAEdges.reduce((s, e) => s + (e.amount ?? 0), 0)
                 if (role === "ie_supporting") row.ca_ie_supporting += ieTotal
                 else row.ca_ie_opposing += ieTotal
@@ -239,8 +252,10 @@ export async function GET(req: NextRequest) {
     race: "CA Governor 2026",
     candidate_count: rows.length,
     candidates: rows,
+    cycle_filter: cycleFilter ?? "all",
+    cycle_filter_default: "2026",
     cal_access_status: calAccessIngested
-      ? "ingested via scripts/ingest-cal-access-bulk.cjs — totals reflect Cal-Access RCPT_CD as of last run"
+      ? `ingested via scripts/ingest-cal-access-bulk.cjs — showing ${cycleFilter ?? "lifetime"} cycle${cycleFilter ? "" : "s"}`
       : "not yet ingested — run: node scripts/cal-access-discover-committees.cjs && node scripts/ingest-cal-access-bulk.cjs",
   })
 }

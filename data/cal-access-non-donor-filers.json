@@ -1,0 +1,34 @@
+{
+  "purpose": "Blocklist of Cal-Access RCPT_CD donor names that are NOT private contributors. Used by scripts/ingest-cal-access-bulk.cjs to filter at edge-build time. Per audit Remediation #3 (cc_p3_191).",
+  "inclusion_criteria": [
+    "Public agencies disbursing public matching funds (LA Ethics Commission, etc.)",
+    "Regulatory transfers / refunds back to a committee",
+    "Government funds that flow through the receipts column but are categorically not private donations"
+  ],
+  "out_of_scope": [
+    "Private corporations (those ARE donors)",
+    "PACs (those ARE donors)",
+    "Public-employee unions (those ARE donors — they're voluntary member dues directing political spend)",
+    "Government employees giving in their personal capacity (those ARE donors)"
+  ],
+  "review": "Code Claude proposes additions when discovery surfaces a new public-fund vehicle. David batch-approves via the editorial-decision-pipeline (Tier 2 per ADR-0029). Direct edits by Claude here require a [pipeline] tag in the commit and explicit reasoning.",
+  "non_donor_names": [
+    {
+      "name": "City of Los Angeles Ethics Commission",
+      "name_normalized": "city of los angeles ethics commission",
+      "rationale": "LA municipal matching-funds disbursement. Not a private donor. Surfaced by audit cc_p3_191 as #1 'donor' to Villaraigosa with $7.93M aggregated.",
+      "added_by": "claude-auto",
+      "added_at": "2026-04-30",
+      "session": "cc_p3_193"
+    }
+  ],
+  "non_donor_name_patterns": [
+    {
+      "regex": "^City of [A-Z][a-z]+ Ethics Commission$",
+      "rationale": "California municipal Ethics Commissions disburse public matching funds (LA, SF, Oakland, San Diego all have these). The rationale for LA generalizes to other cities with the same convention.",
+      "added_by": "claude-auto",
+      "added_at": "2026-04-30",
+      "session": "cc_p3_193"
+    }
+  ]
+}
