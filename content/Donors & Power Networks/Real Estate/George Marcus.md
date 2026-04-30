@@ -2,7 +2,7 @@
 title: George Marcus
 type: donor
 content-readiness: draft
-last-updated: 2026-04-21
+last-updated: 2026-04-21T00:00:00.000Z
 aliases:
   - George M. Marcus
   - George Marcus
@@ -11,9 +11,10 @@ entity-type: Individual Donor
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. George M. Marcus is the founder of Marcus & Millichap (commercial real estate brokerage) and Essex Property Trust (multi-family REIT). Major Democratic donor. $40.3M in tracked political edges. NOT the same person as Bernie/Bernard Marcus (Home Depot co-founder, Republican donor). distinct individuals sharing a surname. Research Claude editorial pass pending.
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 ## Who They Are

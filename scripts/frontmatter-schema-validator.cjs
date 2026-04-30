@@ -154,6 +154,18 @@ if (JSON_OUT) {
   process.exit(0);
 }
 
+// --paths <kind>: list specific violation file paths (audit + fix support).
+// Usage: node scripts/frontmatter-schema-validator.cjs --paths missing_universal
+//        node scripts/frontmatter-schema-validator.cjs --paths missing_type_required
+const PATHS_IDX = process.argv.indexOf('--paths');
+if (PATHS_IDX >= 0) {
+  const wantKind = process.argv[PATHS_IDX + 1];
+  for (const v of allViolations) {
+    if (v.kind === wantKind) console.log(`${v.kind}\t${v.field}\t${v.file}`);
+  }
+  process.exit(0);
+}
+
 // Text report
 console.log('frontmatter-schema-validator (ADR-0023)');
 console.log('  scanned: ' + scanned + ' content-type profile(s)');

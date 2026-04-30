@@ -2,7 +2,7 @@
 title: Securing American Greatness
 type: donor
 content-readiness: draft
-last-updated: 2026-04-21
+last-updated: 2026-04-21T00:00:00.000Z
 aliases:
   - SECURING AMERICAN GREATNESS
 sector: Super PACs
@@ -10,9 +10,10 @@ entity-type: Super PAC
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-21 from orphan-entities-queue. Republican-aligned super PAC. $52.6M in tracked flow across 1 edge (fec-indiv-by-committee). Donor base and specific candidate focus to be confirmed. Research Claude editorial pass pending.
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 ## Who They Are
