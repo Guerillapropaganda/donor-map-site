@@ -86,6 +86,13 @@ export async function GET(req: NextRequest) {
   const gate = await requireAdmin(req)
   if (!gate.ok) return gate.response!
 
+  // Cycle filter — default 2026 per audit Remediation #1.
+  const url = new URL(req.url)
+  const cycleParam = (url.searchParams.get("cycle") || "2026").trim()
+  const cycleFilter = cycleParam === "all" ? null : cycleParam
+  const cycleMatches = (e: { cycle?: string | null }) =>
+    cycleFilter === null || e.cycle === cycleFilter
+
   const repoRoot = findRepoRoot()
   const overrides = loadOverrides(repoRoot)
   if (!overrides) {
@@ -125,6 +132,7 @@ export async function GET(req: NextRequest) {
         edge_types: ["monetary"],
       })
       for (const e of moneyIn.edges) {
+        if (!cycleMatches(e)) continue
         const amt = e.amount ?? 0
         if (e.source === "cal-access-bulk") caDirect += amt
         else federal += amt
@@ -141,7 +149,7 @@ export async function GET(req: NextRequest) {
             direction: "in",
             edge_types: ["monetary"],
           })
-          const caEdges = ieMoney.edges.filter((e) => e.source === "cal-access-bulk")
+          const caEdges = ieMoney.edges.filter((e) => e.source === "cal-access-bulk" && cycleMatches(e))
           const total = caEdges.reduce((s, e) => s + (e.amount ?? 0), 0)
           if (role === "ie_supporting") ieSup += total
           else ieOpp += total
@@ -237,6 +245,8 @@ export async function GET(req: NextRequest) {
 
   return NextResponse.json({
     race: "CA Governor 2026",
+    cycle_filter: cycleFilter ?? "all",
+    cycle_filter_default: "2026",
     sankey: {
       nodes: filteredNodes,
       links: filteredLinks,

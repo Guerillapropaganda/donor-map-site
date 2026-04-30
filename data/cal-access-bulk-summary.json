@@ -1,19 +1,19 @@
 {
-  "run_at": "2026-04-30T02:04:55.518Z",
+  "run_at": "2026-04-30T17:59:32.730Z",
   "dry_run": false,
   "limit": null,
   "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
   "rcpt_rows_scanned": 19358085,
   "rcpt_rows_matched": 313647,
   "rcpt_rows_unmatched": 19035048,
-  "aggregated_edges": 89652,
-  "monetary_edges": 89652,
+  "aggregated_edges": 89649,
+  "monetary_edges": 89646,
   "political_edges": 20,
-  "elapsed_seconds": 58,
+  "elapsed_seconds": 59,
   "candidates": {
     "Antonio Villaraigosa": {
-      "edge_count": 24544,
-      "total_dollars": 177760953.39
+      "edge_count": 24541,
+      "total_dollars": 169830492.05
     },
     "Betty Yee": {
       "edge_count": 8316,
@@ -40,12 +40,12 @@
       "total_dollars": 7725880.07
     },
     "Tom Steyer": {
-      "edge_count": 138,
-      "total_dollars": 205109801.28
+      "edge_count": 137,
+      "total_dollars": 71333678.52
     },
     "Tony Thurmond": {
-      "edge_count": 4523,
-      "total_dollars": 70710432.36
+      "edge_count": 4521,
+      "total_dollars": 70709585.98
     },
     "Xavier Becerra": {
       "edge_count": 10371,

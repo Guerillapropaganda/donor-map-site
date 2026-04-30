@@ -61,6 +61,7 @@ const { computeEdgeId } = require('./lib/relationship-edge-validator.cjs');
 
 const ROOT = path.join(__dirname, '..');
 const OVERRIDES_FILE = path.join(ROOT, 'data', 'cal-access-filer-overrides.json');
+const NON_DONOR_FILE = path.join(ROOT, 'data', 'cal-access-non-donor-filers.json');
 const SUMMARY_FILE = path.join(ROOT, 'data', 'cal-access-bulk-summary.json');
 
 const args = process.argv.slice(2);
@@ -95,6 +96,29 @@ function loadOverrides() {
   return JSON.parse(fs.readFileSync(OVERRIDES_FILE, 'utf-8'));
 }
 
+// Audit Remediation #3: public-fund / non-donor blocklist. Filters out
+// receipts whose CTRIB_NAML is a known public-fund disbursement vehicle
+// (e.g. LA Ethics Commission matching funds) before we treat the receipt
+// as a donor contribution.
+function loadNonDonorFilter() {
+  if (!fs.existsSync(NON_DONOR_FILE)) return { names: new Set(), patterns: [] };
+  const j = JSON.parse(fs.readFileSync(NON_DONOR_FILE, 'utf-8'));
+  const names = new Set((j.non_donor_names || []).map((r) => (r.name_normalized || r.name || '').toLowerCase().trim()));
+  const patterns = (j.non_donor_name_patterns || []).map((r) => ({
+    re: new RegExp(r.regex),
+    rationale: r.rationale,
+  }));
+  return { names, patterns };
+}
+
+function isNonDonor(name, filter) {
+  if (!name) return false;
+  const norm = name.toLowerCase().trim();
+  if (filter.names.has(norm)) return true;
+  for (const p of filter.patterns) if (p.re.test(name)) return true;
+  return false;
+}
+
 (async function main() {
   console.log(`[ingest-cal-access-bulk] start  dry-run=${DRY_RUN}  limit=${LIMIT || 'none'}  bulk=${BULK_DIR}`);
   assertBulkDir();
@@ -117,6 +141,10 @@ function loadOverrides() {
     }
   }
   console.log(`[ingest-cal-access-bulk] override map: ${filerToTarget.size} filer IDs across ${Object.keys(overrides.candidates).length} candidates`);
+
+  const nonDonorFilter = loadNonDonorFilter();
+  console.log(`[ingest-cal-access-bulk] non-donor blocklist: ${nonDonorFilter.names.size} exact + ${nonDonorFilter.patterns.length} pattern(s)`);
+
   if (filerToTarget.size === 0) {
     throw new Error('Override map is empty. Re-run cal-access-discover-committees.cjs first.');
   }
@@ -146,6 +174,8 @@ function loadOverrides() {
   let unmatched = 0;
   let droppedNoDonor = 0;
   let droppedNoAmount = 0;
+  let droppedNonDonor = 0;
+  const nonDonorMoneyByName = new Map();
 
   for await (const row of streamTSV(tablePath('RCPT_CD'), { limit: LIMIT || Infinity })) {
     rcptRows++;
@@ -168,6 +198,14 @@ function loadOverrides() {
     const donorRaw = contributorName(row);
     if (!donorRaw) { droppedNoDonor++; continue; }
     const donor = normalizeDonorName(donorRaw);
+
+    // Audit Remediation #3: filter out public-fund / non-donor disbursements
+    if (isNonDonor(donor, nonDonorFilter) || isNonDonor(donorRaw, nonDonorFilter)) {
+      droppedNonDonor++;
+      const amt = parseFloat(row.AMOUNT || '0') || 0;
+      nonDonorMoneyByName.set(donor, (nonDonorMoneyByName.get(donor) || 0) + amt);
+      continue;
+    }
 
     // Amount
     const amount = parseFloat(row.AMOUNT || '0');
@@ -214,15 +252,47 @@ function loadOverrides() {
 
   const p3secs = ((Date.now() - p3t0) / 1000).toFixed(1);
   console.log(`\n  ${rcptRows} RCPT rows scanned in ${p3secs}s`);
-  console.log(`  matched=${matched}  unmatched=${unmatched}  dropped_no_donor=${droppedNoDonor}  dropped_no_amount=${droppedNoAmount}`);
+  console.log(`  matched=${matched}  unmatched=${unmatched}  dropped_no_donor=${droppedNoDonor}  dropped_no_amount=${droppedNoAmount}  dropped_non_donor=${droppedNonDonor}`);
+  if (droppedNonDonor > 0) {
+    console.log('  non-donor amounts blocklisted:');
+    for (const [name, amt] of [...nonDonorMoneyByName.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5)) {
+      console.log(`    ${name}: $${(amt / 1_000_000).toFixed(2)}M`);
+    }
+  }
   console.log(`  aggregated to ${agg.size} unique (donor, target, cycle) edges`);
 
   // ── Build edges
   console.log('[ingest-cal-access-bulk] Building edges...');
   const edges = [];
+  // Audit Remediation #2: self-funding tracking. Pre-validator detection
+  // of donor === recipient. Validator rejects these as self-loops (correct
+  // for graph integrity), but they're the dominant fact about Steyer's
+  // campaign and need to surface SOMEWHERE. Emit to a separate tracking
+  // file the auto-block builder reads.
+  const selfFundingRecords = [];
   const ieToCandidate = new Map(); // committee_name → { candidate, role } for political-support/oppose edges
 
   for (const entry of agg.values()) {
+    // Audit Remediation #2: self-funding partition. If donor === target,
+    // this is the candidate giving to their own committee. Track separately
+    // (validator would reject; we want to keep it visible).
+    const isSelfFunding = entry.donor === entry.edge_target;
+    if (isSelfFunding) {
+      selfFundingRecords.push({
+        candidate: entry.candidate,
+        donor: entry.donor,
+        committee_name: entry.committee_name,
+        filer_id: entry.filer_id,
+        cycle: String(entry.cycle),
+        amount: Math.round(entry.total_amount * 100) / 100,
+        txn_count: entry.txn_count,
+        first_date: entry.first_date,
+        last_date: entry.last_date,
+        evidence: `Cal-Access RCPT_CD: ${entry.txn_count} self-funding receipt(s) totaling $${entry.total_amount.toFixed(2)} from "${entry.donor}" to own committee ${entry.filer_id} (${entry.committee_name}) in ${entry.cycle}`,
+      });
+      continue;
+    }
+
     const donorEdge = {
       from: entry.donor,
       to: entry.edge_target,
@@ -338,6 +408,26 @@ function loadOverrides() {
     }
   } else {
     console.log('[ingest-cal-access-bulk] DRY RUN — skipping source + edge writes.');
+  }
+
+  // ── Self-funding tracking file (audit Remediation #2)
+  // MUST run AFTER upsertEdges — relationships-store.writeEdgesPartitioned
+  // truncates any derived/*.jsonl that doesn't correspond to a known edge
+  // source. Self-funding records aren't edges (they're tracked separately
+  // because the validator rejects from===to as self-loops). Write them to
+  // data/cal-access-self-funding.jsonl (NOT data/derived/) so the
+  // partitioner doesn't touch them.
+  if (!DRY_RUN) {
+    const selfFundingFile = path.join(ROOT, 'data', 'cal-access-self-funding.jsonl');
+    if (selfFundingRecords.length > 0) {
+      const lines = selfFundingRecords.map((r) => JSON.stringify(r)).join('\n') + '\n';
+      fs.writeFileSync(selfFundingFile, lines, 'utf-8');
+      console.log(`[ingest-cal-access-bulk] wrote ${selfFundingRecords.length} self-funding records to ${selfFundingFile}`);
+      const totalSelf = selfFundingRecords.reduce((s, r) => s + r.amount, 0);
+      console.log(`  total self-funding: $${(totalSelf / 1_000_000).toFixed(2)}M`);
+    } else if (fs.existsSync(selfFundingFile)) {
+      fs.unlinkSync(selfFundingFile);
+    }
   }
 
   // ── Summary
