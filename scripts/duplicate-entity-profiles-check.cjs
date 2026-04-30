@@ -19,15 +19,18 @@
  *      confidence same entity.
  *   2. Same EIN on signals.ein → very high confidence.
  *   3. Same SEC CIK on signals.sec_cik → very high confidence.
- *   4. Identical normalized names (lowercase, punctuation/whitespace
- *      collapsed) across two records that DIDN'T already match by 1-3.
+ *   4. Same Cal-Access filer id on signals.cal_access_filer_id → very
+ *      high confidence. Catches state/federal twin profiles when
+ *      Cal-Access ingest lands. Added 2026-04-29.
+ *   5. Identical normalized names (lowercase, punctuation/whitespace
+ *      collapsed) across two records that DIDN'T already match by 1-4.
  *      This catches the NCPSSM-class case where the names differ only
  *      by added/dropped clauses ("& Medicare").
- *   5. Prefix-descriptor match: one normalized name is a strict
+ *   6. Prefix-descriptor match: one normalized name is a strict
  *      prefix of another with ≥1 trailing word. Catches the dash-
  *      prefix pattern ("CoreCivic" vs "CoreCivic - Private Prisons")
  *      that Money Trail surfaced as self-loops on 2026-04-29. Lower
- *      confidence than 1-4 — many true distincts fall in here
+ *      confidence than 1-5 — many true distincts fall in here
  *      (corp vs family wealth, corp vs PAC). Tier 2 only.
  *
  * Each finding requires editorial cleanup: pick canonical, archive the
@@ -68,6 +71,7 @@ for (const l of lines) {
 const byCmte = new Map();
 const byEin = new Map();
 const byCik = new Map();
+const byCalAccess = new Map();
 const byName = new Map();
 
 for (const e of ents) {
@@ -90,6 +94,16 @@ for (const e of ents) {
   if (cik) {
     const list = byCik.get(cik) || [];
     list.push(e); byCik.set(cik, list);
+  }
+  const calId = e.signals?.cal_access_filer_id;
+  if (calId) {
+    // Normalize: strip the "-CAO" / "-CTL" suffix if present, since
+    // the same committee can appear with or without it across sources.
+    const norm = String(calId).replace(/-(CAO|CTL|IND|RCP|MJR|SMO)$/i, '').trim();
+    if (norm) {
+      const list = byCalAccess.get(norm) || [];
+      list.push(e); byCalAccess.set(norm, list);
+    }
   }
   const n = normalizeName(e.name);
   if (n) {
@@ -130,6 +144,12 @@ for (const [cik, list] of byCik) {
   if (list.length < 2) continue;
   if (list.every((e) => seenAsAlreadyGrouped.has(e.id))) continue;
   addGroup('shared_sec_cik', cik, list);
+  for (const e of list) seenAsAlreadyGrouped.add(e.id);
+}
+for (const [calId, list] of byCalAccess) {
+  if (list.length < 2) continue;
+  if (list.every((e) => seenAsAlreadyGrouped.has(e.id))) continue;
+  addGroup('shared_cal_access_filer_id', calId, list);
   for (const e of list) seenAsAlreadyGrouped.add(e.id);
 }
 for (const [n, list] of byName) {
