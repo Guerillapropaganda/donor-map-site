@@ -37,6 +37,8 @@ interface CandidateRow {
   ca_state_donor_count: number
   ca_ie_supporting: number
   ca_ie_opposing: number
+  cal_access_status?: "active" | "withdrew" | "suspended" | "default" | null
+  cal_access_status_date?: string | null
 }
 
 interface RaceResponse {
@@ -213,12 +215,27 @@ export default function CAGov2026Page() {
                   <td className="p-3">
                     <Link
                       href={editHref}
-                      className="text-zinc-100 hover:text-yellow-300 font-medium"
+                      className={
+                        "font-medium " +
+                        (c.cal_access_status === "withdrew" || c.cal_access_status === "suspended"
+                          ? "text-zinc-500 hover:text-yellow-300 line-through decoration-zinc-700"
+                          : "text-zinc-100 hover:text-yellow-300")
+                      }
                     >
                       {c.name}
                     </Link>
                     {c.party && (
                       <span className="ml-2 text-xs text-zinc-500">({c.party})</span>
+                    )}
+                    {c.cal_access_status === "withdrew" && (
+                      <span className="ml-2 text-[10px] uppercase tracking-wider text-amber-400 border border-amber-700/60 px-1 py-0" title={c.cal_access_status_date || ""}>
+                        withdrew
+                      </span>
+                    )}
+                    {c.cal_access_status === "suspended" && (
+                      <span className="ml-2 text-[10px] uppercase tracking-wider text-orange-400 border border-orange-700/60 px-1 py-0" title={c.cal_access_status_date || ""}>
+                        suspended
+                      </span>
                     )}
                   </td>
                   <td className="p-3">

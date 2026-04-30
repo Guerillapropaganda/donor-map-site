@@ -123,6 +123,8 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 *Showing 2026-cycle data only. Re-run with `--cycle all` for lifetime aggregation across mayor / Assembly / prior gov runs.*
 
+> [!warning] **CAMPAIGN SUSPENDED** (2026-04-12) — Suspended campaign per audit prompt context cc_p3_191; resigned House 2026-04-14. Tier 2 — David verify dates.
+
 **Direct contributions** (donor → candidate-controlled committees): **$8.13M** across 4408 edges, 4408 unique donors.
 **Same-name transfers** (likely self-fund / family vehicles): **$450** across 2 record(s).
 **IE supporting** (donor → independent expenditure PAC backing this candidate): **$37.96M** across 4 PAC(s).

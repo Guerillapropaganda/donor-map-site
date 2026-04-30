@@ -1,23 +1,23 @@
 {
-  "run_at": "2026-04-30T17:59:32.730Z",
+  "run_at": "2026-04-30T18:07:33.510Z",
   "dry_run": false,
   "limit": null,
   "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
   "rcpt_rows_scanned": 19358085,
-  "rcpt_rows_matched": 313647,
-  "rcpt_rows_unmatched": 19035048,
-  "aggregated_edges": 89649,
-  "monetary_edges": 89646,
-  "political_edges": 20,
+  "rcpt_rows_matched": 312808,
+  "rcpt_rows_unmatched": 19035887,
+  "aggregated_edges": 89228,
+  "monetary_edges": 89215,
+  "political_edges": 19,
   "elapsed_seconds": 59,
   "candidates": {
     "Antonio Villaraigosa": {
-      "edge_count": 24541,
-      "total_dollars": 169830492.05
+      "edge_count": 24466,
+      "total_dollars": 160870968.24
     },
     "Betty Yee": {
-      "edge_count": 8316,
-      "total_dollars": 13255275.15
+      "edge_count": 7964,
+      "total_dollars": 13195101.98
     },
     "Chad Bianco": {
       "edge_count": 7324,
@@ -48,8 +48,8 @@
       "total_dollars": 70709585.98
     },
     "Xavier Becerra": {
-      "edge_count": 10371,
-      "total_dollars": 25677026.53
+      "edge_count": 10015,
+      "total_dollars": 23721384.87
     }
   }
 }

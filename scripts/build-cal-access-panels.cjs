@@ -87,7 +87,9 @@ function loadEdges() {
   // (NOT data/derived/) to avoid relationships-store.writeEdgesPartitioned
   // truncation.
   const selfFunding = loadEdgesFile(path.join(ROOT, 'data', 'cal-access-self-funding.jsonl'));
-  return { receipts, expn, loans, selfFunding };
+  // Audit Remediation #7: cross-cycle internal-transfer records.
+  const internalTransfers = loadEdgesFile(path.join(ROOT, 'data', 'cal-access-internal-transfers.jsonl'));
+  return { receipts, expn, loans, selfFunding, internalTransfers };
 }
 
 function findProfile(candidate) {
@@ -228,8 +230,25 @@ function buildPanel(candidate, candData, allEdges) {
   const selfFundingTotal = selfFundingRecords.reduce((s, r) => s + (r.amount || 0), 0);
   const familyTransferTotal = familyTransferEdges.reduce((s, e) => s + (e.amount || 0), 0);
 
+  // Audit Remediation #7: cross-cycle internal transfers (e.g. Becerra-AG-2018 → Becerra-Gov-2026)
+  const internalTransferRecords = (allEdges.internalTransfers || []).filter((r) =>
+    r.candidate === candidate && cycleOk(r)
+  );
+  const internalTransferTotal = internalTransferRecords.reduce((s, r) => s + (r.amount || 0), 0);
+
+  // Audit Remediation #4: status badge
+  const statusBadge =
+    candData.status === 'withdrew' ? `> [!warning] **WITHDREW** ${candData.status_date ? `(${candData.status_date})` : ''} — ${candData.status_note || ''}` :
+    candData.status === 'suspended' ? `> [!warning] **CAMPAIGN SUSPENDED** ${candData.status_date ? `(${candData.status_date})` : ''} — ${candData.status_note || ''}` :
+    null;
+  if (statusBadge) {
+    lines.push(statusBadge);
+    lines.push('');
+  }
+
   lines.push(`**Direct contributions** (donor → candidate-controlled committees): **${fmtMoney(directTotal)}** across ${directEdges.length} edges, ${directByDonor.size} unique donors.`);
   if (selfFundingTotal > 0) lines.push(`**Self-funding** (candidate → own committee, excluded from "direct" as self-loop): **${fmtMoney(selfFundingTotal)}** across ${selfFundingRecords.length} self-loop record(s).`);
+  if (internalTransferTotal > 0) lines.push(`**Cross-cycle internal transfers** (prior-cycle committee → current committee, NOT external donor money): **${fmtMoney(internalTransferTotal)}** across ${internalTransferRecords.length} record(s).`);
   if (familyTransferTotal > 0) lines.push(`**Same-name transfers** (likely self-fund / family vehicles): **${fmtMoney(familyTransferTotal)}** across ${familyTransferEdges.length} record(s).`);
   if (ieSupTotal > 0) lines.push(`**IE supporting** (donor → independent expenditure PAC backing this candidate): **${fmtMoney(ieSupTotal)}** across ${ieSupPACs.length} PAC(s).`);
   if (ieOppTotal > 0) lines.push(`**IE opposing** (donor → IE PAC running against): **${fmtMoney(ieOppTotal)}** across ${ieOppPACs.length} PAC(s).`);

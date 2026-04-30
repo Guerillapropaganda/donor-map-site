@@ -28,6 +28,9 @@ interface OverrideCandidate {
   controlled?: OverrideCommittee[]
   ie_supporting?: OverrideCommittee[]
   ie_opposing?: OverrideCommittee[]
+  status?: "active" | "withdrew" | "suspended"
+  status_date?: string
+  status_decided_by?: string
 }
 interface OverrideFile {
   candidates: Record<string, OverrideCandidate>
@@ -51,6 +54,8 @@ interface StructureRow {
   ca_direct: number
   ie_supporting: number
   ie_opposing: number
+  status?: "active" | "withdrew" | "suspended"
+  status_date?: string
 }
 
 function findRepoRoot(): string {
@@ -203,6 +208,8 @@ export async function GET(req: NextRequest) {
       ca_direct: Math.round(caDirect),
       ie_supporting: Math.round(ieSup),
       ie_opposing: Math.round(ieOpp),
+      status: candData.status,
+      status_date: candData.status_date,
     })
   }
 

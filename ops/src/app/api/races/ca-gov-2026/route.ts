@@ -44,6 +44,10 @@ interface CandidateRow {
   ca_state_donor_count: number
   ca_ie_supporting: number
   ca_ie_opposing: number
+  // Audit Remediation #4: candidate roster status (per ADR-0029 Tier 2,
+  // claude-proposed; David verifies via override map's status_decided_by).
+  cal_access_status: "active" | "withdrew" | "suspended" | "default" | null
+  cal_access_status_date: string | null
 }
 
 function findRepoRoot(): string {
@@ -107,6 +111,8 @@ function readCandidate(repoRoot: string, candidateName: string, file: string): C
     ca_state_donor_count: 0,
     ca_ie_supporting: 0,
     ca_ie_opposing: 0,
+    cal_access_status: null,
+    cal_access_status_date: null,
   }
 }
 
@@ -119,6 +125,9 @@ interface OverrideCandidate {
   controlled?: OverrideCommittee[]
   ie_supporting?: OverrideCommittee[]
   ie_opposing?: OverrideCommittee[]
+  status?: "active" | "withdrew" | "suspended"
+  status_date?: string
+  status_decided_by?: string
 }
 interface OverrideFile {
   candidates: Record<string, OverrideCandidate>
@@ -217,6 +226,9 @@ export async function GET(req: NextRequest) {
         const candData = overrides?.candidates[row.name]
         if (candData) {
           calAccessIngested = true
+          // Audit Remediation #4: candidate status (active/withdrew/suspended)
+          if (candData.status) row.cal_access_status = candData.status
+          if (candData.status_date) row.cal_access_status_date = candData.status_date
           for (const role of ["ie_supporting", "ie_opposing"] as const) {
             for (const committee of candData[role] ?? []) {
               try {

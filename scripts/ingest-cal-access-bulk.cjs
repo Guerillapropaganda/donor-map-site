@@ -119,6 +119,31 @@ function isNonDonor(name, filter) {
   return false;
 }
 
+// Audit Remediation #7: detect cross-cycle internal transfers.
+// When donor name matches a same-lastname-as-candidate committee pattern,
+// the receipt is the same person moving money between their own committees
+// across cycles (Becerra-AG-2018 → Becerra-Gov-2026). These are NOT
+// external donations and should not inflate donor totals.
+function makeInternalTransferPatterns(lastName) {
+  if (!lastName || lastName.length < 4) return null;
+  return [
+    new RegExp(`^${lastName} for (Governor|Senate|Assembly|Congress|Mayor|Attorney General|Superintendent|Controller|Board of Equalization|Sheriff)\\b`, 'i'),
+    new RegExp(`^${lastName} Officeholder Account\\b`, 'i'),
+    new RegExp(`^Friends of (\\S+\\s+)?${lastName}\\b`, 'i'),
+    new RegExp(`^Committee to (Elect|Reelect|Re-elect) (\\S+\\s+)?${lastName}\\b`, 'i'),
+    new RegExp(`^${lastName} \\d{4}\\b`, 'i'),
+  ];
+}
+
+function isInternalTransfer(donorName, candidateName) {
+  if (!donorName || !candidateName) return false;
+  const lastName = candidateName.split(/\s+/).slice(-1)[0];
+  const patterns = makeInternalTransferPatterns(lastName);
+  if (!patterns) return false;
+  for (const re of patterns) if (re.test(donorName)) return true;
+  return false;
+}
+
 (async function main() {
   console.log(`[ingest-cal-access-bulk] start  dry-run=${DRY_RUN}  limit=${LIMIT || 'none'}  bulk=${BULK_DIR}`);
   assertBulkDir();
@@ -270,6 +295,10 @@ function isNonDonor(name, filter) {
   // campaign and need to surface SOMEWHERE. Emit to a separate tracking
   // file the auto-block builder reads.
   const selfFundingRecords = [];
+  // Audit Remediation #7: cross-cycle internal-transfer tracking.
+  // Same shape as self-funding records — partitioned out of canonical edges
+  // to avoid inflating donor totals.
+  const internalTransferRecords = [];
   const ieToCandidate = new Map(); // committee_name → { candidate, role } for political-support/oppose edges
 
   for (const entry of agg.values()) {
@@ -289,6 +318,25 @@ function isNonDonor(name, filter) {
         first_date: entry.first_date,
         last_date: entry.last_date,
         evidence: `Cal-Access RCPT_CD: ${entry.txn_count} self-funding receipt(s) totaling $${entry.total_amount.toFixed(2)} from "${entry.donor}" to own committee ${entry.filer_id} (${entry.committee_name}) in ${entry.cycle}`,
+      });
+      continue;
+    }
+
+    // Audit Remediation #7: cross-cycle internal transfer detection.
+    // Donor name matches the candidate's same-lastname committee pattern
+    // (Becerra-AG-2018 → Xavier Becerra). Partition out of canonical edges.
+    if (entry.role === 'controlled' && isInternalTransfer(entry.donor, entry.candidate)) {
+      internalTransferRecords.push({
+        candidate: entry.candidate,
+        donor: entry.donor,
+        committee_name: entry.committee_name,
+        filer_id: entry.filer_id,
+        cycle: String(entry.cycle),
+        amount: Math.round(entry.total_amount * 100) / 100,
+        txn_count: entry.txn_count,
+        first_date: entry.first_date,
+        last_date: entry.last_date,
+        evidence: `Cal-Access RCPT_CD: ${entry.txn_count} cross-cycle internal-transfer receipt(s) totaling $${entry.total_amount.toFixed(2)} from candidate's prior-cycle committee "${entry.donor}" to current committee ${entry.filer_id} (${entry.committee_name}) in ${entry.cycle}`,
       });
       continue;
     }
@@ -410,13 +458,9 @@ function isNonDonor(name, filter) {
     console.log('[ingest-cal-access-bulk] DRY RUN — skipping source + edge writes.');
   }
 
-  // ── Self-funding tracking file (audit Remediation #2)
-  // MUST run AFTER upsertEdges — relationships-store.writeEdgesPartitioned
-  // truncates any derived/*.jsonl that doesn't correspond to a known edge
-  // source. Self-funding records aren't edges (they're tracked separately
-  // because the validator rejects from===to as self-loops). Write them to
-  // data/cal-access-self-funding.jsonl (NOT data/derived/) so the
-  // partitioner doesn't touch them.
+  // ── Self-funding + internal-transfer tracking files (Remediations #2, #7)
+  // Both written AFTER upsertEdges and to data/ (not data/derived/) to
+  // avoid the relationships-store partitioner truncating them.
   if (!DRY_RUN) {
     const selfFundingFile = path.join(ROOT, 'data', 'cal-access-self-funding.jsonl');
     if (selfFundingRecords.length > 0) {
@@ -427,6 +471,17 @@ function isNonDonor(name, filter) {
       console.log(`  total self-funding: $${(totalSelf / 1_000_000).toFixed(2)}M`);
     } else if (fs.existsSync(selfFundingFile)) {
       fs.unlinkSync(selfFundingFile);
+    }
+
+    const internalTransferFile = path.join(ROOT, 'data', 'cal-access-internal-transfers.jsonl');
+    if (internalTransferRecords.length > 0) {
+      const lines = internalTransferRecords.map((r) => JSON.stringify(r)).join('\n') + '\n';
+      fs.writeFileSync(internalTransferFile, lines, 'utf-8');
+      console.log(`[ingest-cal-access-bulk] wrote ${internalTransferRecords.length} internal-transfer records to ${internalTransferFile}`);
+      const totalIT = internalTransferRecords.reduce((s, r) => s + r.amount, 0);
+      console.log(`  total cross-cycle internal transfers: $${(totalIT / 1_000_000).toFixed(2)}M`);
+    } else if (fs.existsSync(internalTransferFile)) {
+      fs.unlinkSync(internalTransferFile);
     }
   }
 
