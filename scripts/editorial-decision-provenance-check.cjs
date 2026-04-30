@@ -32,6 +32,20 @@ const asJson = args.includes('--json');
 
 const VALID_DECIDED_BY = new Set(['david', 'claude-auto', 'claude-batch-approved']);
 
+// States that represent auto-detected pre-decision queue status, NOT
+// human-decided outcomes. These have no `decided_by` by construction —
+// nothing was decided yet. The harness check formerly only exempted
+// 'candidate', which surfaced 556 false-positive findings (278 records
+// × 2 fields) on data-complete-promotion records in 'stuck' state (a
+// profile fails one gate — semantically identical to candidate, just
+// on a different path). Surfaced 2026-04-30 (cc_p3_209) by the
+// editorial-decision-provenance harness check itself.
+const PRE_DECISION_STATES = new Set([
+  'candidate', // detected, passing gates, awaiting promotion
+  'stuck',     // detected, failing one gate (data-complete-promotion);
+               // moves to candidate if the gap is filled, no human in loop
+]);
+
 const findings = [];
 const classes = pipeline.listClasses();
 
@@ -39,7 +53,7 @@ for (const meta of classes) {
   const cls = pipeline.getClass(meta.name);
   const records = cls.store.loadAll();
   for (const r of records) {
-    if (r.state === 'candidate') continue;  // candidates have no decision yet
+    if (PRE_DECISION_STATES.has(r.state)) continue; // auto-detected, no decision yet
 
     if (!r.decided_by) {
       findings.push({
@@ -60,7 +74,7 @@ for (const meta of classes) {
       });
     }
 
-    if (!r.decided_at && r.state !== 'candidate') {
+    if (!r.decided_at && !PRE_DECISION_STATES.has(r.state)) {
       findings.push({
         class: meta.name,
         id: r.id,

@@ -168,19 +168,44 @@ function loadEdges() {
   // classified counterparts (verify-all reported 7,035 such cases).
   // ORPHAN role-null edges (no role-bearing match in any source) are
   // KEPT — they're real money in cycles/types fec-pas2 doesn't cover.
+  //
+  // Tertiary dedup (added 2026-04-30, cc_p3_209): cross-source role-
+  // disagreement. fec-bulk and fec-pas2 occasionally emit BOTH carry
+  // roles for the same (from, to, amount, cycle) flow but disagree on
+  // the role (e.g. fec-bulk says 'ie-support', fec-pas2 says 'direct-
+  // contribution'). Per ADR-0013 fec-pas2 is the authoritative
+  // classifier for committee→candidate flows, so when the same flow
+  // appears in BOTH, prefer fec-pas2's edge and drop fec-bulk's. The
+  // exact-flow predicate (same from/to/amount/cycle) keeps this tight
+  // — flows only in fec-bulk are unaffected.
   const allEdges = [...byId.values(), ...noId];
   const flowKey = (e) => `${e.from}||${e.to}||${e.amount}||${e.cycle || ''}`;
   const flowsWithRole = new Set();
+  // Track flows where fec-pas2 already provides a classified edge.
+  // fec-bulk's edge for the same flow is then redundant.
+  const pas2Flows = new Set();
   for (const e of allEdges) {
     if (e.type !== 'monetary') continue;
     if (e.role) flowsWithRole.add(flowKey(e));
+    if (e.source === 'fec-pas2') pas2Flows.add(flowKey(e));
   }
   let shadowDrops = 0;
+  let crossSourceDrops = 0;
   const final = [];
   for (const e of allEdges) {
-    if (e.type === 'monetary' && !e.role && flowsWithRole.has(flowKey(e))) {
-      shadowDrops++;
-      continue;
+    if (e.type === 'monetary') {
+      // Existing: role-null shadow drop.
+      if (!e.role && flowsWithRole.has(flowKey(e))) {
+        shadowDrops++;
+        continue;
+      }
+      // New: fec-bulk dropped when fec-pas2 has the same flow (ADR-0013
+      // source priority). Only drops when both have roles — keeps
+      // edges where fec-bulk is the sole classifier.
+      if (e.source === 'fec-bulk' && e.role && pas2Flows.has(flowKey(e))) {
+        crossSourceDrops++;
+        continue;
+      }
     }
     final.push(e);
   }
@@ -189,6 +214,7 @@ function loadEdges() {
   if (process.env.RELATIONSHIPS_STORE_VERBOSE) {
     if (dupCount > 0) console.error(`[relationships-store] cross-source dedup dropped ${dupCount} duplicate edge(s) by id`);
     if (shadowDrops > 0) console.error(`[relationships-store] shadow dedup dropped ${shadowDrops} role-null monetary edge(s) shadowed by classified counterparts`);
+    if (crossSourceDrops > 0) console.error(`[relationships-store] cross-source role-disagreement dropped ${crossSourceDrops} fec-bulk edge(s) shadowed by fec-pas2 classified edges (ADR-0013)`);
   }
   return _cache;
 }
