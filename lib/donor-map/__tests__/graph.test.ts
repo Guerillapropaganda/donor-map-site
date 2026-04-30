@@ -479,3 +479,135 @@ describe("Graph.donorContradictions", () => {
     assert.equal(r.pairs[0].opposition_basis.length, 2, "both opposition edges attached as basis")
   })
 })
+
+// ─── ADR-0024 Phase 3 thesis queries ──────────────────────────────────
+
+describe("Graph.bothSidesDonors", () => {
+  // Same fixture shape as donorContradictions but viewed donor-centric:
+  // we expect to find ONE bothsides record (Acme funded Jane + Bob who oppose).
+  function fixture() {
+    return makeStores({
+      entities: [
+        { id: "ent_acme", name: "Acme Capital", profile_path: null, entity_type: "corporation" },
+        { id: "ent_globex", name: "Globex Industries", profile_path: null, entity_type: "corporation" },
+        { id: "ent_jane", name: "Jane Senator", profile_path: null, entity_type: "politician" },
+        { id: "ent_bob", name: "Bob Senator", profile_path: null, entity_type: "politician" },
+        { id: "ent_carol", name: "Carol Senator", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [
+        { id: "m1", from: "Acme Capital", to: "Jane Senator", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 50000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "m2", from: "Acme Capital", to: "Bob Senator", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 30000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "m3", from: "Globex Industries", to: "Jane Senator", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 10000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        // Globex did NOT fund Bob → no bothsides pair for Globex
+        { id: "opp", from: "Jane Senator", to: "Bob Senator", type: "political-opposition", direction: "directed", confidence: 0.8, source: "manual", evidence: [], first_seen: "2024-03-01", last_verified: "2024-06-01", status: "active" },
+      ],
+    })
+  }
+
+  it("finds the donor who funded both sides of an opposition pair", () => {
+    const g = new Graph(fixture())
+    const r = g.bothSidesDonors()
+    assert.equal(r.pairs.length, 1, "exactly one bothsides pair")
+    assert.equal(r.pairs[0].donor.name, "Acme Capital")
+    assert.equal(r.pairs[0].total_to_a + r.pairs[0].total_to_b, 80000, "totals sum across both sides")
+    assert.equal(r.truncated, false)
+  })
+
+  it("respects min_total_each — drops pairs where one side is below threshold", () => {
+    const g = new Graph(fixture())
+    const r = g.bothSidesDonors({ min_total_each: 40000 })
+    assert.equal(r.pairs.length, 0, "Bob side ($30k) is below $40k threshold")
+  })
+
+  it("returns empty when no political-opposition edges exist", () => {
+    const stores = fixture()
+    stores.edges = stores.edges.filter((e) => e.type !== "political-opposition")
+    const g = new Graph(stores)
+    const r = g.bothSidesDonors()
+    assert.equal(r.pairs.length, 0)
+  })
+})
+
+describe("Graph.classProfile", () => {
+  function fixture() {
+    return makeStores({
+      entities: [
+        { id: "ent_pol", name: "Test Politician", profile_path: null, entity_type: "politician" },
+        { id: "ent_donor1", name: "Pharma Inc", profile_path: null, entity_type: "corporation", signals: { capital_type: "pharma-capital" } },
+        { id: "ent_donor2", name: "Big Oil Corp", profile_path: null, entity_type: "corporation", signals: { capital_type: "fossil-capital" } },
+        { id: "ent_donor3", name: "Pharma Two", profile_path: null, entity_type: "corporation", signals: { capital_type: "pharma-capital" } },
+        { id: "ent_donor4", name: "No Tag Donor", profile_path: null, entity_type: "corporation" },
+      ],
+      edges: [
+        { id: "m1", from: "Pharma Inc", to: "Test Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 100000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "m2", from: "Big Oil Corp", to: "Test Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 50000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "m3", from: "Pharma Two", to: "Test Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 25000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "m4", from: "No Tag Donor", to: "Test Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 5000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+      ],
+    })
+  }
+
+  it("groups donors by capital_type with totals + ranks descending", () => {
+    const g = new Graph(fixture())
+    const r = g.classProfile("Test Politician")
+    assert.equal(r.total_in, 180000)
+    assert.equal(r.capital_clusters.length, 2, "pharma + fossil clusters")
+    assert.equal(r.capital_clusters[0].cluster_key, "pharma-capital", "biggest cluster first")
+    assert.equal(r.capital_clusters[0].total_amount, 125000)
+    assert.equal(r.capital_clusters[0].donor_count, 2)
+    assert.equal(r.capital_clusters[1].cluster_key, "fossil-capital")
+  })
+
+  it("buckets untagged donors into unclassified", () => {
+    const g = new Graph(fixture())
+    const r = g.classProfile("Test Politician")
+    assert.equal(r.unclassified.donor_count, 1, "No Tag Donor")
+    assert.equal(r.unclassified.total_amount, 5000)
+  })
+
+  it("caps top_donors_per_cluster", () => {
+    const g = new Graph(fixture())
+    const r = g.classProfile("Test Politician", { top_donors_per_cluster: 1 })
+    assert.equal(r.capital_clusters[0].top_donors.length, 1, "only 1 top donor per cluster")
+    assert.equal(r.capital_clusters[0].top_donors[0].node.name, "Pharma Inc", "biggest first")
+  })
+})
+
+describe("Graph.influenceMap", () => {
+  it("returns donor class profile + honest data-gap signal when no policy/vote data", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_pol", name: "Test Politician", profile_path: null, entity_type: "politician" },
+        { id: "ent_donor1", name: "Big Donor", profile_path: null, entity_type: "corporation", signals: { capital_type: "finance-capital" } },
+      ],
+      edges: [
+        { id: "m1", from: "Big Donor", to: "Test Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec", amount: 100000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.influenceMap("Test Politician")
+    assert.equal(r.donor_class_profile.total_in, 100000)
+    assert.equal(r.policy_signal.available, false, "no sponsorship/vote data → unavailable")
+    assert.ok(r.policy_signal.data_gaps.length >= 1, "data gaps explained")
+    assert.equal(r.dominant_capital_cluster?.cluster_key, "finance-capital")
+  })
+
+  it("loads policies from stores into the resolver as policy nodes", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_pol", name: "Test Politician", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [],
+      policies: [
+        { id: "pol_housing", slug: "housing", title: "Housing affordability", category: "housing" },
+        { id: "pol_climate", slug: "climate", title: "Climate policy", category: "environment" },
+      ],
+    })
+    const g = new Graph(stores)
+    const node = g.resolver.tryResolve({ kind: "name", value: "Housing affordability" })
+    assert.ok(node, "policy resolves by title")
+    assert.equal(node?.type, "policy")
+    const bySlug = g.resolver.tryResolve({ kind: "name", value: "housing" })
+    assert.ok(bySlug, "policy also resolves by slug alias")
+  })
+})

@@ -373,6 +373,31 @@ export class Resolver {
       this.addAlias(node, entry.fec_name)
       for (const alias of entry.aliases ?? []) this.addAlias(node, alias)
     }
+
+    // 4. Policies (ADR-0024 Phase 3). Each policy becomes a typed node
+    // resolvable by id ("pol_housing"), slug ("housing"), or title.
+    for (const p of stores.policies ?? []) {
+      if (!p.id) continue
+      const node: Node = {
+        id: p.id,
+        name: p.title || p.id,
+        type: "policy",
+        profile_path: null,
+        ids: { entity_id: p.id },
+        aliases: [p.title || p.id],
+        meta: {
+          slug: p.slug,
+          category: p.category,
+          policy_stakes: p.policy_stakes ?? [],
+        },
+      }
+      // Avoid collision with an entity already under this id (shouldn't
+      // happen — entity ids are ent_* — but defensive).
+      if (!this.nodes.has(node.id)) {
+        this.registerNode(node)
+        if (p.slug) this.addAlias(node, p.slug)
+      }
+    }
   }
 
   // ─── Build helpers ─────────────────────────────────────────────────
