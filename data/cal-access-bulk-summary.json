@@ -1,0 +1,55 @@
+{
+  "run_at": "2026-04-30T02:04:55.518Z",
+  "dry_run": false,
+  "limit": null,
+  "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
+  "rcpt_rows_scanned": 19358085,
+  "rcpt_rows_matched": 313647,
+  "rcpt_rows_unmatched": 19035048,
+  "aggregated_edges": 89652,
+  "monetary_edges": 89652,
+  "political_edges": 20,
+  "elapsed_seconds": 58,
+  "candidates": {
+    "Antonio Villaraigosa": {
+      "edge_count": 24544,
+      "total_dollars": 177760953.39
+    },
+    "Betty Yee": {
+      "edge_count": 8316,
+      "total_dollars": 13255275.15
+    },
+    "Chad Bianco": {
+      "edge_count": 7324,
+      "total_dollars": 4471555.08
+    },
+    "Eric Swalwell": {
+      "edge_count": 4425,
+      "total_dollars": 46089584.1
+    },
+    "Katie Porter": {
+      "edge_count": 15239,
+      "total_dollars": 12461325.98
+    },
+    "Matt Mahan": {
+      "edge_count": 135,
+      "total_dollars": 54951102.01
+    },
+    "Steve Hilton": {
+      "edge_count": 14989,
+      "total_dollars": 7725880.07
+    },
+    "Tom Steyer": {
+      "edge_count": 138,
+      "total_dollars": 205109801.28
+    },
+    "Tony Thurmond": {
+      "edge_count": 4523,
+      "total_dollars": 70710432.36
+    },
+    "Xavier Becerra": {
+      "edge_count": 10371,
+      "total_dollars": 25677026.53
+    }
+  }
+}

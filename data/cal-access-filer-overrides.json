@@ -1,0 +1,1022 @@
+{
+  "discovered_at": "2026-04-30T01:57:14.874Z",
+  "candidates_searched": 10,
+  "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
+  "candidates": {
+    "Antonio Villaraigosa": {
+      "vault_title": "Antonio Villaraigosa",
+      "controlled": [
+        {
+          "filer_id": "1077478",
+          "name": "VILLARAIGOSA FOR MAYOR",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1245233",
+          "name": "VILLARAIGOSA, FRIENDS OF ANTONIO",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1069429",
+          "name": "VILLARAIGOSA, COMMITTEE TO ELECT ANTONIO",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "T",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1230200",
+          "name": "VILLARAIGOSA, FRIENDS OF ANTONIO",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1071987",
+          "name": "VILLARAIGOSA OFFICEHOLDER ACCOUNT, ASSEMBLY MEMBER ANTONIO",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "T",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1392364",
+          "name": "VILLARAIGOSA FOR GOVERNOR 2018",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1303063",
+          "name": "YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM",
+          "category": "40002",
+          "sub_category": "40101",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1234344",
+          "name": "VILLARAIGOSA FOR MAYOR - GENERAL 2001",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1275257",
+          "name": "VILLARAIGOSA FOR MAYOR 2005 - GENERAL",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1270536",
+          "name": "CITIZENS FOR MORE POLICE IN OUR COMMUNITIES; MAJOR FUNDING BY FRIENDS OF ANTONIO VILLARAIGOSA",
+          "category": "40002",
+          "sub_category": "40101",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1305101",
+          "name": "VILLARAIGOSA FOR MAYOR 2009",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1471635",
+          "name": "VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1267602",
+          "name": "VILLARAIGOSA FOR MAYOR 2005",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1250526",
+          "name": "VILLARAIGOSA OFFICEHOLDER ACCOUNT",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "ie_supporting": [
+        {
+          "filer_id": "1486030",
+          "name": "VILLARAIGOSA FOR GOVERNOR 2026-STRAIGHT FROM THE HEART OF CALIFORNIA; ANTONIO",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "IRVINE",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1404354",
+          "name": "VILLARAIGOSA FOR GOVERNOR 2018, SPONSORED BY CALIFORNIA CHARTER SCHOOLS ASSOCIATION ADVOCATES; FAMILIES & TEACHERS FOR ANTONIO",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1405973",
+          "name": "VILLARAIGOSA FOR GOVERNOR 2018, SPONSORED BY PUBLIC SAFETY ORGANIZATIONS; PUBLIC SAFETY OFFICERS FOR",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "T",
+          "role": "ie_supporting",
+          "city": "SAN FRANCISCO",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1404798",
+          "name": "ALTAMIRANO FOR ASSEMBLY 2018 AND VILLARAIGOSA FOR GOVERNOR 2018; THE COMMUNITY COALITION SUPPORTING IVAN",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "COVINA",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1401337",
+          "name": "VILLARAIGOSA GOVERNOR OF CALIFORNIA 2018; ELECT",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "ie_opposing": [
+        {
+          "filer_id": "1275692",
+          "name": "VILLARAIGOSA FOR MAYOR, CITIZENS AGAINST",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_opposing",
+          "city": "VAN NUYS",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "other": [
+        {
+          "filer_id": "1288733",
+          "name": "VILLARAIGOSA FOR GOVERNOR 2018, SPONSORED BY INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL UNION 18; WORKING CALIFORNIANS TO SUPPORT",
+          "category": "0",
+          "sub_category": "40103",
+          "active": "Y",
+          "role": "other",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1272835",
+          "name": "VILLARAIGOSA, COMMITTEE TO RECALL ANTONIO",
+          "category": "0",
+          "sub_category": "40101",
+          "active": "Y",
+          "role": "other",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1347808",
+          "name": "VILLARAIGOSA FOR GOVERNOR 2018; CALIFORNIA BERRY FARMERS POLITICAL ACTION COMMITTEE SUPPORTING ANTONIO",
+          "category": "0",
+          "sub_category": "40103",
+          "active": "Y",
+          "role": "other",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1326134",
+          "name": "VILLARAIGOSA; COMMITTEE TO SUPPORT THE RECALL OF MAYOR ANTONIO",
+          "category": "0",
+          "sub_category": "40101",
+          "active": "Y",
+          "role": "other",
+          "city": "VALLEY VILLAGE",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "_all_matches": 24
+    },
+    "Betty Yee": {
+      "vault_title": "Betty Yee",
+      "controlled": [
+        {
+          "filer_id": "1273115",
+          "name": "YEE 2006, BETTY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1335071",
+          "name": "YEE FOR CONTROLLER 2014, BETTY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1465732",
+          "name": "YEE FOR GOVERNOR 2026; BETTY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "ENCINO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1293572",
+          "name": "YEE FOR BOARD OF EQUALIZATION 2010, BETTY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1418950",
+          "name": "YEE FOR TREASURER 2022; BETTY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "T",
+          "role": "controlled",
+          "city": "ENCINO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1417532",
+          "name": "YEE FOR TREASURER 2026; BETTY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "ENCINO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1374814",
+          "name": "YEE FOR CONTROLLER 2018; BETTY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_supporting": [
+        {
+          "filer_id": "1418587",
+          "name": "NEWSOME, ALEX PADILLA, XAVIER BECERRA, BETTY YEE, FIONA MA, ELENI KOUNALAKIS, RICARDO LARA; RAN ACTION FUND COMMITTEE TO RECALL GAVIN",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "T",
+          "role": "ie_supporting",
+          "city": "SAN DIEGO",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_opposing": [],
+      "other": [],
+      "_all_matches": 8
+    },
+    "Chad Bianco": {
+      "vault_title": "Chad Bianco",
+      "controlled": [
+        {
+          "filer_id": "1479095",
+          "name": "BIANCO FOR GOVERNOR 2026",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "RIVERSIDE",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1354860",
+          "name": "BIANCO FOR SHERIFF-CORONER 2014, SUPPORTERS OF CHAD",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "RIVERSIDE",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1397860",
+          "name": "BIANCO FOR SHERIFF-CORONER 2018; SUPPORTERS OF CHAD",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "RIVERSIDE",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_supporting": [],
+      "ie_opposing": [],
+      "other": [],
+      "_all_matches": 3
+    },
+    "Eric Swalwell": {
+      "vault_title": "Eric Swalwell",
+      "controlled": [
+        {
+          "filer_id": "1485146",
+          "name": "SWALWELL FOR GOVERNOR 2026; ERIC",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1327203",
+          "name": "SWALWELL JR. FOR CITY COUNCIL 2010, ERIC",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "DUBLIN",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_supporting": [
+        {
+          "filer_id": "1485791",
+          "name": "SWALWELL FOR GOVERNOR 2026, A PROJECT OF GLOBAL MEDICAL RESPONSE, INC.; EMS PROFESSIONALS FOR A HEALTHIER CALIFORNIA FOR",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1488732",
+          "name": "SWALWELL FOR GOVERNOR 2026; CALIFORNIANS FOR A FIGHTER IN SUPPORT OF ERIC",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1489130",
+          "name": "SWALWELL FOR GOVERNOR 2026; CALIFORNIANS FOR ERIC",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "T",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1489873",
+          "name": "SWALWELL FOR GOVERNOR 2026 SPONSORED BY SEIU CALIFORNIA STATE COUNCIL; NURSES AND EDUCATORS SUPPORTING",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1485668",
+          "name": "SWALWELL FOR GOVERNOR 2026; CALIFORNIANS FOR AFFORDABILITY IN SUPPORT OF ERIC",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "PLEASANT HILL",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_opposing": [
+        {
+          "filer_id": "1489370",
+          "name": "SWALWELL FOR GOVERNOR 2026; CALIFORNIA ACCOUNTABILITY PROJECT AGAINST",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_opposing",
+          "city": "LAGUNA BEACH",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "other": [],
+      "_all_matches": 8
+    },
+    "Katie Porter": {
+      "vault_title": "Katie Porter",
+      "controlled": [
+        {
+          "filer_id": "1479597",
+          "name": "PORTER FOR GOVERNOR 2026; KATIE",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_supporting": [
+        {
+          "filer_id": "1487598",
+          "name": "PORTER FOR GOVERNOR 2026; FRIENDS OF KATIE",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_opposing": [],
+      "other": [],
+      "_all_matches": 2
+    },
+    "Matt Mahan": {
+      "vault_title": "Matt Mahan",
+      "controlled": [
+        {
+          "filer_id": "1473129",
+          "name": "MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT",
+          "category": "40002",
+          "sub_category": "40101",
+          "active": "Y",
+          "role": "controlled",
+          "city": "SAN FRANCISCO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1417738",
+          "name": "MAHAN FOR SAN JOSE CITY COUNCIL DISTRICT 10 IN 2020; NEIGHBORS FOR MATT",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "T",
+          "role": "controlled",
+          "city": "SAN JOSE",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1462165",
+          "name": "MAHAN FOR MAYOR 2024; NEIGHBORS FOR MATT",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "SAN JOSE",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1441269",
+          "name": "MAHAN FOR MAYOR 2022; NEIGHBORS FOR MATT",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "SAN JOSE",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_supporting": [
+        {
+          "filer_id": "1488176",
+          "name": "MAHAN FOR GOVERNOR 2026; DELIVER FOR CALIFORNIA - MATT",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SAN RAFAEL",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1487425",
+          "name": "MAHAN FOR GOVERNOR 2026; CALIFORNIA BACK TO BASICS SUPPORTING MATT",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SAN RAFAEL",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1422514",
+          "name": "MAHAN FOR CITY COUNCIL 2020; INNOVATION FOR ALL, SUPPORTING MATT",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "MONTE SERENO",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_opposing": [],
+      "other": [],
+      "_all_matches": 7
+    },
+    "Steve Hilton": {
+      "vault_title": "Steve Hilton",
+      "controlled": [
+        {
+          "filer_id": "1480425",
+          "name": "HILTON FOR GOVERNOR 2026; STEVE",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "HILMAR",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_supporting": [],
+      "ie_opposing": [],
+      "other": [],
+      "_all_matches": 1
+    },
+    "Tom Steyer": {
+      "vault_title": "Tom Steyer",
+      "controlled": [
+        {
+          "filer_id": "1485077",
+          "name": "STEYER FOR GOVERNOR 2026",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "SAN FRANCISCO",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "ie_supporting": [],
+      "ie_opposing": [
+        {
+          "filer_id": "1489677",
+          "name": "STEYER FOR GOVERNOR 2026, A COALITION OF HOUSING ADVOCATES, LABOR AND SMALL BUSINESS; CALIFORNIA IS NOT FOR SALE, NO ON",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_opposing",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1490270",
+          "name": "CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, NO ON STEYER FOR GOVERNOR 2026",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_opposing",
+          "city": "SAN RAFAEL",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "other": [],
+      "_all_matches": 3
+    },
+    "Tony Thurmond": {
+      "vault_title": "Tony Thurmond",
+      "controlled": [
+        {
+          "filer_id": "1268709",
+          "name": "THURMOND, COMMITTEE TO ELECT TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "RICHMOND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1318438",
+          "name": "THURMOND FOR SENATE 2009 EXPLORATORY COMMITTEE, TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "T",
+          "role": "controlled",
+          "city": "RICHMOND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1461509",
+          "name": "THURMOND FOR GOVERNOR 2026; TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "OAKLAND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1310055",
+          "name": "THURMOND FOR SCHOOL BOARD, TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "RICHMOND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1395467",
+          "name": "THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "OAKLAND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1373771",
+          "name": "THURMOND FOR ASSEMBLY 2016; TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "T",
+          "role": "controlled",
+          "city": "OAKLAND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1414313",
+          "name": "THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "OAKLAND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1392488",
+          "name": "THURMOND FOR ASSEMBLY 2018; TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "OAKLAND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1460345",
+          "name": "THURMOND SUPERINTENDENT OF PUBLIC INSTRUCTION 2022 OFFICEHOLDER ACCOUNT; TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "OAKLAND",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1355575",
+          "name": "THURMOND FOR ASSEMBLY 2014, TONY",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "OAKLAND",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_supporting": [
+        {
+          "filer_id": "1405429",
+          "name": "THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 SPONSORED BY TEACHERS ORGANIZATIONS; EDUCATORS SUPPORTING TONY",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "T",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1410382",
+          "name": "THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018; TIDES ADVOCACY PROJECTS IN SUPPORT OF",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "T",
+          "role": "ie_supporting",
+          "city": "SAN FRANCISCO",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1408355",
+          "name": "THURMOND FOR SUPERINTENDENT 2018; CLERGY FOR BETTER EDUCATION SUPPORTING",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "INGLEWOOD",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1448022",
+          "name": "THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022, SPONSORED BY TEACHER, SCHOOL EMPLOYEE AND LABOR ORGANIZATIONS; CALIFORNIANS SUPPORTING TONY",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "T",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "hint"
+        }
+      ],
+      "ie_opposing": [],
+      "other": [
+        {
+          "filer_id": "1413452",
+          "name": "THURMOND IN 2018 FOR SUPERINTENDENT OF PUBLIC INSTRUCTION FOR CALIFORNIA PUBLIC SCHOOLS; AMERICAN FEDERATION OF TEACHERS, PARTNERING WITH PARENTS, EDUCATORS AND STUDENTS TO ELECT TONY",
+          "category": "0",
+          "sub_category": "40103",
+          "active": "Y",
+          "role": "other",
+          "city": "WASHINGTON",
+          "st": "DC",
+          "match_strength": "hint"
+        }
+      ],
+      "_all_matches": 15
+    },
+    "Xavier Becerra": {
+      "vault_title": "Xavier Becerra",
+      "controlled": [
+        {
+          "filer_id": "1394091",
+          "name": "BECERRA FOR ATTORNEY GENERAL 2018",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1482190",
+          "name": "BECERRA FOR WHITTIER MAYOR 2026",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "NORWALK",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1219963",
+          "name": "BECERRA FOR MAYOR",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1414167",
+          "name": "BECERRA FOR ATTORNEY GENERAL 2022",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1454809",
+          "name": "BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "LOS ANGELES",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1050184",
+          "name": "BECERRA, FRIENDS OF XAVIER",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "T",
+          "role": "controlled",
+          "city": "TEMPLE CITY",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1480025",
+          "name": "BECERRA FOR GOVERNOR 2026",
+          "category": "40002",
+          "sub_category": "0",
+          "active": "Y",
+          "role": "controlled",
+          "city": "GLENDALE",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "ie_supporting": [
+        {
+          "filer_id": "1418587",
+          "name": "NEWSOME, ALEX PADILLA, XAVIER BECERRA, BETTY YEE, FIONA MA, ELENI KOUNALAKIS, RICARDO LARA; RAN ACTION FUND COMMITTEE TO RECALL GAVIN",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "T",
+          "role": "ie_supporting",
+          "city": "SAN DIEGO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1425978",
+          "name": "BECERRA; RECALL OF XAVIER",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SAN DIEGO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1490681",
+          "name": "BECERRA FOR GOVERNOR 2026; CALIFORNIA PEOPLE SUPPORTING",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SACRAMENTO",
+          "st": "CA",
+          "match_strength": "context"
+        },
+        {
+          "filer_id": "1413887",
+          "name": "BECERRA FOR DEFRAUDING VOTERS ON PROP 6 GAS TAX REPEAL INITIATIVE; RECALL XAVIER",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "SAN DIEGO",
+          "st": "CA",
+          "match_strength": "hint"
+        },
+        {
+          "filer_id": "1490030",
+          "name": "BECERRA FOR GOVERNOR 2026, SPONSORED BY LABORERS' INTERNATIONAL UNION OF NORTH AMERICA, LOCAL 300; CALIFORNIOS UNIDOS POR",
+          "category": "0",
+          "sub_category": "40102",
+          "active": "Y",
+          "role": "ie_supporting",
+          "city": "ENCINITAS",
+          "st": "CA",
+          "match_strength": "context"
+        }
+      ],
+      "ie_opposing": [],
+      "other": [],
+      "_all_matches": 12
+    }
+  }
+}
