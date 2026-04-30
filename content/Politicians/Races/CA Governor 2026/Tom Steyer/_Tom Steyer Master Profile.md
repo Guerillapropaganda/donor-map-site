@@ -104,7 +104,7 @@ opposes: "[[Donald Trump]]"
 **Direct contributions** (donor → candidate-controlled committees): **$183.7K** across 129 edges, 129 unique donors.
 **Self-funding** (candidate → own committee, excluded from "direct" as self-loop): **$133.78M** across 1 self-loop record(s).
 **Same-name transfers** (likely self-fund / family vehicles): **$350** across 1 record(s).
-**IE opposing** (donor → IE PAC running against): **$71.15M** across 2 PAC(s).
+**IE opposing** (donor → IE PAC running against): **$79.15M** across 2 PAC(s).
 
 **Controlled committees:** STEYER FOR GOVERNOR 2026 `1485077`
 
@@ -152,10 +152,11 @@ opposes: "[[Donald Trump]]"
 | California Building Industry Association PAC | $4.00M |
 | California Correctional Peace Officers Association PAC | $100.0K |
 
-**CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, NO ON STEYER FOR GOVERNOR 2026** — $8.05M from 2 edges
+**CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, NO ON STEYER FOR GOVERNOR 2026** — $16.05M from 3 edges
 
 | Donor | Amount |
 |---|---:|
+| PG&E Corporation | $8.00M |
 | Pg&e Corporation | $8.00M |
 | International Brotherhood OF Electrical Workers, Afl-cio Local Union No. 1245 | $50.0K |
 
@@ -194,7 +195,7 @@ opposes: "[[Donald Trump]]"
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485077](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485077). Refresh: download fresh dump, run discovery + ingest.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485077](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485077). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

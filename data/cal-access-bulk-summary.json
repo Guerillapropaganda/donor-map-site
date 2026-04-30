@@ -1,18 +1,50 @@
 {
-  "run_at": "2026-04-30T18:07:33.510Z",
+  "run_at": "2026-04-30T18:18:59.132Z",
   "dry_run": false,
   "limit": null,
   "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
+  "dump_manifest": {
+    "RCPT_CD": {
+      "size_bytes": 3650595516,
+      "mtime": "2026-04-30T01:44:47.128Z",
+      "header_8kb_sha256_prefix": "dbdc465d294b013b"
+    },
+    "EXPN_CD": {
+      "size_bytes": 2950509781,
+      "mtime": "2026-04-30T01:44:27.730Z",
+      "header_8kb_sha256_prefix": "4bbc8af4b9a6a509"
+    },
+    "LOAN_CD": {
+      "size_bytes": 18332551,
+      "mtime": "2026-04-30T01:44:31.631Z",
+      "header_8kb_sha256_prefix": "c7ad665e3ea30d58"
+    },
+    "FILER_FILINGS_CD": {
+      "size_bytes": 370635507,
+      "mtime": "2026-04-30T01:44:29.732Z",
+      "header_8kb_sha256_prefix": "1079f7fec612957e"
+    },
+    "FILERNAME_CD": {
+      "size_bytes": 178263437,
+      "mtime": "2026-04-30T01:44:28.372Z",
+      "header_8kb_sha256_prefix": "4ed9e3dcce08e459"
+    },
+    "FILER_TO_FILER_TYPE_CD": {
+      "size_bytes": 47887078,
+      "mtime": "2026-04-30T01:44:30.015Z",
+      "header_8kb_sha256_prefix": "a59a4315a311b054"
+    }
+  },
   "rcpt_rows_scanned": 19358085,
   "rcpt_rows_matched": 312808,
   "rcpt_rows_unmatched": 19035887,
-  "aggregated_edges": 89228,
-  "monetary_edges": 89215,
+  "aggregated_edges": 89226,
+  "monetary_edges": 89213,
   "political_edges": 19,
-  "elapsed_seconds": 59,
+  "elapsed_seconds": 77,
   "candidates": {
     "Antonio Villaraigosa": {
-      "edge_count": 24466,
+      "edge_count": 24465,
       "total_dollars": 160870968.24
     },
     "Betty Yee": {
@@ -44,7 +76,7 @@
       "total_dollars": 71333678.52
     },
     "Tony Thurmond": {
-      "edge_count": 4521,
+      "edge_count": 4520,
       "total_dollars": 70709585.98
     },
     "Xavier Becerra": {

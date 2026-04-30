@@ -62,6 +62,7 @@ const { computeEdgeId } = require('./lib/relationship-edge-validator.cjs');
 const ROOT = path.join(__dirname, '..');
 const OVERRIDES_FILE = path.join(ROOT, 'data', 'cal-access-filer-overrides.json');
 const NON_DONOR_FILE = path.join(ROOT, 'data', 'cal-access-non-donor-filers.json');
+const ALIASES_FILE = path.join(ROOT, 'data', 'cal-access-donor-aliases.json');
 const SUMMARY_FILE = path.join(ROOT, 'data', 'cal-access-bulk-summary.json');
 
 const args = process.argv.slice(2);
@@ -144,6 +145,30 @@ function isInternalTransfer(donorName, candidateName) {
   return false;
 }
 
+// Audit Remediation #8: donor-name alias merge. Loads the alias map
+// at startup and returns a function variant→canonical. Variants are
+// matched case-insensitively + whitespace-collapsed.
+function loadDonorAliases() {
+  if (!fs.existsSync(ALIASES_FILE)) return new Map();
+  const j = JSON.parse(fs.readFileSync(ALIASES_FILE, 'utf-8'));
+  const map = new Map();
+  for (const entry of j.aliases || []) {
+    const canonical = entry.canonical;
+    if (!canonical) continue;
+    for (const variant of entry.variants || []) {
+      const k = variant.toLowerCase().replace(/\s+/g, ' ').trim();
+      if (k) map.set(k, canonical);
+    }
+  }
+  return map;
+}
+
+function applyDonorAlias(donorName, aliasMap) {
+  if (!donorName || aliasMap.size === 0) return donorName;
+  const k = donorName.toLowerCase().replace(/\s+/g, ' ').trim();
+  return aliasMap.get(k) || donorName;
+}
+
 (async function main() {
   console.log(`[ingest-cal-access-bulk] start  dry-run=${DRY_RUN}  limit=${LIMIT || 'none'}  bulk=${BULK_DIR}`);
   assertBulkDir();
@@ -169,6 +194,10 @@ function isInternalTransfer(donorName, candidateName) {
 
   const nonDonorFilter = loadNonDonorFilter();
   console.log(`[ingest-cal-access-bulk] non-donor blocklist: ${nonDonorFilter.names.size} exact + ${nonDonorFilter.patterns.length} pattern(s)`);
+
+  const donorAliases = loadDonorAliases();
+  console.log(`[ingest-cal-access-bulk] donor-alias map: ${donorAliases.size} variants → canonical`);
+  const aliasHits = new Map();
 
   if (filerToTarget.size === 0) {
     throw new Error('Override map is empty. Re-run cal-access-discover-committees.cjs first.');
@@ -222,7 +251,14 @@ function isInternalTransfer(donorName, candidateName) {
     // Donor name
     const donorRaw = contributorName(row);
     if (!donorRaw) { droppedNoDonor++; continue; }
-    const donor = normalizeDonorName(donorRaw);
+    let donor = normalizeDonorName(donorRaw);
+
+    // Audit Remediation #8: alias-merge spelling variants
+    const aliased = applyDonorAlias(donor, donorAliases);
+    if (aliased !== donor) {
+      aliasHits.set(donor, (aliasHits.get(donor) || 0) + 1);
+      donor = aliased;
+    }
 
     // Audit Remediation #3: filter out public-fund / non-donor disbursements
     if (isNonDonor(donor, nonDonorFilter) || isNonDonor(donorRaw, nonDonorFilter)) {
@@ -278,6 +314,13 @@ function isInternalTransfer(donorName, candidateName) {
   const p3secs = ((Date.now() - p3t0) / 1000).toFixed(1);
   console.log(`\n  ${rcptRows} RCPT rows scanned in ${p3secs}s`);
   console.log(`  matched=${matched}  unmatched=${unmatched}  dropped_no_donor=${droppedNoDonor}  dropped_no_amount=${droppedNoAmount}  dropped_non_donor=${droppedNonDonor}`);
+  if (aliasHits.size > 0) {
+    const totalAliasHits = [...aliasHits.values()].reduce((a, b) => a + b, 0);
+    console.log(`  alias merges: ${totalAliasHits} receipts collapsed across ${aliasHits.size} variant strings`);
+    for (const [variant, count] of [...aliasHits.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5)) {
+      console.log(`    "${variant}" → canonical (${count} receipts)`);
+    }
+  }
   if (droppedNonDonor > 0) {
     console.log('  non-donor amounts blocklisted:');
     for (const [name, amt] of [...nonDonorMoneyByName.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5)) {
@@ -485,12 +528,38 @@ function isInternalTransfer(donorName, candidateName) {
     }
   }
 
+  // ── Audit Remediation #9: dump manifest. Capture metadata of the
+  // bulk dump's source TSV files (size + mtime + sha256 of headers)
+  // so the summary preserves "what data we read this run." Doesn't
+  // hash the full files (RCPT_CD is 3.6GB) — header + size + mtime
+  // is enough to detect dump rotation between runs.
+  const manifestTables = ['RCPT_CD', 'EXPN_CD', 'LOAN_CD', 'FILER_FILINGS_CD', 'FILERNAME_CD', 'FILER_TO_FILER_TYPE_CD'];
+  const dumpManifest = {};
+  for (const tbl of manifestTables) {
+    const fp = tablePath(tbl);
+    if (!fs.existsSync(fp)) continue;
+    const stat = fs.statSync(fp);
+    // Read first 8KB and hash for fingerprint (catches header changes
+    // + first-row drift; cheap on giant files).
+    const fd = fs.openSync(fp, 'r');
+    const buf = Buffer.alloc(8192);
+    fs.readSync(fd, buf, 0, 8192, 0);
+    fs.closeSync(fd);
+    const headerHash = require('crypto').createHash('sha256').update(buf).digest('hex').slice(0, 16);
+    dumpManifest[tbl] = {
+      size_bytes: stat.size,
+      mtime: stat.mtime.toISOString(),
+      header_8kb_sha256_prefix: headerHash,
+    };
+  }
+
   // ── Summary
   const summary = {
     run_at: nowIso(),
     dry_run: DRY_RUN,
     limit: LIMIT || null,
     bulk_dir: BULK_DIR,
+    dump_manifest: dumpManifest,
     rcpt_rows_scanned: rcptRows,
     rcpt_rows_matched: matched,
     rcpt_rows_unmatched: unmatched,
