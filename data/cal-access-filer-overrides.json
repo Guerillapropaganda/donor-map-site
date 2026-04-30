@@ -1,5 +1,5 @@
 {
-  "discovered_at": "2026-04-30T01:57:14.874Z",
+  "discovered_at": "2026-04-30T18:26:53.403Z",
   "candidates_searched": 10,
   "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
   "candidates": {
@@ -378,9 +378,9 @@
       ],
       "status": "withdrew",
       "status_date": "2026-04-XX",
-      "status_note": "Withdrew from active campaigning per audit prompt context cc_p3_191. Reportedly endorsed Steyer. Remains on ballot. Tier 2 — David verify date + endorsement.",
       "status_decided_by": "claude-proposed",
-      "status_decided_at": "2026-04-30T18:04:46.061Z"
+      "status_decided_at": "2026-04-30T18:04:46.061Z",
+      "status_note": "Withdrew from active campaigning per audit prompt context cc_p3_191. Reportedly endorsed Steyer. Remains on ballot. Tier 2 — David verify date + endorsement."
     },
     "Chad Bianco": {
       "vault_title": "Chad Bianco",
@@ -527,9 +527,9 @@
       "_all_matches": 8,
       "status": "suspended",
       "status_date": "2026-04-12",
-      "status_note": "Suspended campaign per audit prompt context cc_p3_191; resigned House 2026-04-14. Tier 2 — David verify dates.",
       "status_decided_by": "claude-proposed",
-      "status_decided_at": "2026-04-30T18:04:46.061Z"
+      "status_decided_at": "2026-04-30T18:04:46.061Z",
+      "status_note": "Suspended campaign per audit prompt context cc_p3_191; resigned House 2026-04-14. Tier 2 — David verify dates."
     },
     "Katie Porter": {
       "vault_title": "Katie Porter",

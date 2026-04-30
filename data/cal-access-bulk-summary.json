@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-04-30T18:18:59.132Z",
+  "run_at": "2026-04-30T18:28:09.032Z",
   "dry_run": false,
   "limit": null,
   "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
@@ -41,7 +41,7 @@
   "aggregated_edges": 89226,
   "monetary_edges": 89213,
   "political_edges": 19,
-  "elapsed_seconds": 77,
+  "elapsed_seconds": 58,
   "candidates": {
     "Antonio Villaraigosa": {
       "edge_count": 24465,

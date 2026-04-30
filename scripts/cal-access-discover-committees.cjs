@@ -215,13 +215,30 @@ function classifyCommittee(committeeName, cat) {
     }
   }
 
-  // Merge with existing overrides if present (preserve manual edits)
+  // Merge with existing overrides if present. Preserves curated fields:
+  //   - rejected: false-positive list (cc_p3_194)
+  //   - status / status_date / status_decided_by / status_note: roster status (cc_p3_194)
+  //   - manual_overrides: legacy free-form notes
+  // Also: applies the rejected-filter to the freshly discovered controlled/ie_*
+  // lists so a re-run doesn't resurrect a previously rejected filer_id.
   if (fs.existsSync(OVERRIDES_FILE)) {
     const prev = JSON.parse(fs.readFileSync(OVERRIDES_FILE, 'utf-8'));
     if (prev.candidates) {
       for (const [name, candData] of Object.entries(out.candidates)) {
-        if (prev.candidates[name] && prev.candidates[name].manual_overrides) {
-          candData.manual_overrides = prev.candidates[name].manual_overrides;
+        const prevCand = prev.candidates[name];
+        if (!prevCand) continue;
+        // Preserve curated metadata
+        for (const field of ['manual_overrides', 'rejected', 'status', 'status_date', 'status_decided_by', 'status_decided_at', 'status_note']) {
+          if (prevCand[field] !== undefined) candData[field] = prevCand[field];
+        }
+        // Filter out previously-rejected filer IDs from fresh discovery
+        if (Array.isArray(prevCand.rejected)) {
+          const rejectedIds = new Set(prevCand.rejected.map((r) => String(r.filer_id)));
+          for (const role of ['controlled', 'ie_supporting', 'ie_opposing', 'other']) {
+            if (Array.isArray(candData[role])) {
+              candData[role] = candData[role].filter((r) => !rejectedIds.has(String(r.filer_id)));
+            }
+          }
         }
       }
     }
