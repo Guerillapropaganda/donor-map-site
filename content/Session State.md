@@ -1,7 +1,99 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-29
+last-updated: 2026-04-30
+---
+
+## HANDOFF — 2026-04-30 (cc_p3_179 → cc_p3_199, Cal-Access full pipeline + ADR-0030 + ADR-0024 Phase 3 + audit + 3 follow-up sweeps)
+
+**Context:** Code Claude. Worktree `claude/condescending-rosalind-c44631`, Opus 4.7 (1M context). ~21 commits to v4 across one extended session. Started from cc_p3_178 handoff queue (items 4 + 5 — Phase 2 + Phase 3 thesis queries) but pivoted to Cal-Access bulk ingest mid-stream when David flagged the CA-Gov 2026 race as the priority. Then cycled back to ADR-0024 Phase 3 + frontmatter Phase C-prelude after Cal-Access shipped.
+
+### THIS SESSION'S DELIVERABLES (already shipped to v4)
+
+**Cal-Access Phase 1+2 ingest (cc_p3_185, commit `b8c60563b`).** 89,669 receipts edges from CA SoS bulk dump (3.6GB RCPT_CD, 19.3M rows scanned in 52s). Discovery script `scripts/cal-access-discover-committees.cjs` finds candidates via FILERNAME_CD scan; main ingester `scripts/ingest-cal-access-bulk.cjs` joins via FILER_FILINGS_CD. Override map `data/cal-access-filer-overrides.json` curates 82 filer IDs across 10 candidates (controlled / ie_supporting / ie_opposing). Edge model = ADR-0030-style option 2: IE PACs as separate entities targeting candidate, not collapsed into candidate. New source `cal-access-bulk` registered. New helpers `scripts/lib/cal-access-helpers.cjs`. Pipeline Guide section 5 added.
+
+**Librarian permissive-source name-stub fix (cc_p3_186, commit `cce4c54a6`).** Discovered post-ingest: `Graph.indexEdges()` was dropping ~99% of cal-access edges because the resolver couldn't resolve raw RCPT donor names. New `Resolver.findOrCreateNameStub()` mints lazily; `PERMISSIVE_EDGE_SOURCES` set in `graph.ts` mirrors `MIGRATION_SOURCES` in the validator. 50/50 librarian tests pass. Steyer's API total went from $1,150 → $134M+ visible.
+
+**Cal-Access auto-blocks (cc_p3_187, commit `b3a3ef281`).** `scripts/build-cal-access-panels.cjs` writes a per-candidate `<!-- auto:cal-access start -->...<!-- auto:cal-access end -->` block in profile bodies. 10 panels written: Top 25 direct donors, IE supporting/opposing PACs with top 10 donors each, source URLs derived from filer_ids. Steyer's panel renders the entire anti-Steyer media-buy supply chain (CA Realtors $20M, PG&E $26M, Chamber $5M, BIA $4M).
+
+**CA-Gov 2026 visuals page (cc_p3_189, commit `8f5769c5d`).** New `/races/ca-gov-2026/visuals` ops page with two charts: (a) donor → IE PAC → candidate Sankey (d3-sankey added to ops/), green for IE-supporting / red for IE-opposing, capped top 6 donors per PAC × top 4 PACs per candidate, ≥$100K min link; (b) funding-structure stacked bars per candidate with hand-rolled SVG. Linked from `/races/ca-gov-2026` via yellow CTA button.
+
+**Cal-Access Phase 3 — EXPN + LOAN ingest (cc_p3_190, commit `2818e5d4d`).** New unified `scripts/ingest-cal-access-bulk-phase3.cjs --mode expn|loans|orgs`. EXPN_CD: 6,133 vendor-payment edges (15.2M rows / 2.95GB scanned). Surfaced anti-Steyer "Polaris Campaigns" $13.78M consultant + Villaraigosa Charter Schools IE → Canal Partners Media $43.5M. LOAN_CD: 8 valid edges (Stephen Hilton → Steve Hilton $300k, Global Medical → Swalwell IE $1M). F501/F502: 0 useful edges — treasurer data lives in CVR_CAMPAIGN_DISCLOSURE_CD instead, deferred. Auto-block extended with "Where the money goes" + "Loans" sections.
+
+**ADR-0030 written + Phase 1 implementation (cc_p3_191 + cc_p3_192, commits `5422fddfc` + `f865ebd6f`).** Carve-out from Rule 13 authorizing Code Claude to fetch government primary sources (Phase 1: Cal-Access; Phase 2 by amendment: FEC/IRS/SEC/FPPC/Congress) for narrow purpose of pipeline self-audit. Implementation: `scripts/lib/code-audit-fetcher.cjs` (allowlist + rate limit + provenance log + bot-block detection for Cloudflare/Imperva), `scripts/code-audit-fetch-sentinel.cjs` (3 pre-commit guards), `scripts/code-audit-fetch-discrepancy-check.cjs` (vault-audit harness check), `scripts/audit-cal-access-bulk-freshness.cjs` (first concrete use case — HEADs the CDN, compares Last-Modified). Discovered Cal-Access committee Detail.aspx pages are Imperva-blocked; bulk-dump-freshness is the actually-working surface. CLAUDE.md Rule 13 + Active ADR list updated.
+
+**Audit Remediations #1+#2+#3 (cc_p3_193, commit `492b5d213`).** (1) Cycle filter throughout APIs + auto-blocks (default 2026, `?cycle=all` toggle). Villaraigosa direct went from $77M lifetime → $6M cycle-2026; Thurmond from $24M → $0.3M. (2) Self-funding partition — `data/cal-access-self-funding.jsonl` captures from===to receipts the validator rejects. Steyer's $133.78M now visible. (3) Non-donor blocklist — `data/cal-access-non-donor-filers.json` filtered $7.93M of LA Ethics Commission public-matching-funds noise.
+
+**Audit Remediations #4+#5+#7 (cc_p3_194, commit `716d67277`).** (4) Roster status field — Yee withdrew, Swalwell suspended (claude-proposed pending David verify); rendered with badges + dimmed in /races + visuals. (5) Override-map curation — 4 false positives moved to `rejected` array (filer 1418587 anti-Newsom recall coalition, filer 1303063 Yes on Prop S ballot measure, filer 1270536 Citizens for More Police, all under Villaraigosa or Yee/Becerra). (7) Cross-cycle internal-transfer detector — `data/cal-access-internal-transfers.jsonl` partitions $2.95M of same-person committee-to-committee transfers (Becerra-AG-2018 → Becerra: $1.5M + $393k; Friends of AV → AV: $1M).
+
+**Audit follow-up sweep (cc_p3_195, commit `c1894cb0b`).** As-of date in auto-block footers (5.1). Donor-name alias-merge map `data/cal-access-donor-aliases.json` — 19 receipts collapsed across 5 variants (PG&E, AT&T, SEIU). IE-opposing token broadening (5 → 18 patterns: DEFEAT, AGAINST, IS NOT FOR SALE, COALITION AGAINST, etc.). Dump manifest in `cal-access-bulk-summary.json` (size + mtime + 8KB SHA per source TSV).
+
+**Frontmatter symmetry for Bianco + Hilton (cc_p3_196, commit `af567180f`).** Mechanical Audit Finding 4.1 fix: state / state-abbr / party / chamber added — both running for CA Governor so factually applicable.
+
+**Re-run discovery + claude-proposed admin note (cc_p3_197, commit `0cb190074`).** Discovery re-run with broadened tokens surfaced filer 1489370 "Swalwell for Governor 2026; California Accountability Project Against" + 1485668 "Californians for Affordability in Support of Eric". Discovery script patched to PRESERVE curated fields (rejected, status) on re-run + filter previously-rejected filer IDs from fresh discovery. New `content/Admin Notes/cal-access-claude-proposals-pending.md` documenting 10 claude-proposed decisions pending David's review (with sed one-liner to bulk-flip after eyeballing).
+
+**ADR-0024 Phase 3 thesis queries (cc_p3_198, commits `48de07d23` + `8bfdbf4f5`).** Three new functions on Graph: `bothSidesDonors` (donor-centric inverse of donorContradictions; smoke test found Americas PAC funded both Harris $1.7M + Trump $416k in 2024), `classProfile` (donor base aggregated by capital_type / ideological_function tags with top-N donors per cluster), `influenceMap` (composes classProfile with policy/vote alignment IF available; honest data-gap reporting when unavailable — currently always false because 0 sponsorship edges + 0 vote-on-policy edges + only 5 policies in librarian). `loader.ts` extended to read `policies.jsonl` (5 policy nodes resolvable). 58/58 librarian tests pass (was 50; +8 new).
+
+**Frontmatter Phase C-prelude (cc_p3_199, commit `13c2ff0da`).** New `scripts/fix-frontmatter-mechanical.cjs` patched 17 profiles with safe-default values: 5 policy profiles → source-tier=1 (categorically gov-primary), 12 donor/corp profiles → last-enriched copied from last-updated. **All 5 missing_universal violations cleared.** Strictest tier of ADR-0023 schema is now clean across the vault. Did NOT patch `related: []` / `politicians-funded: []` initialization — those are canonical-store-backed (Rule 1) and would trip canonical-store-sentinel without rebuilder run; documented as deferred. Validator extended with `--paths <kind>` flag.
+
+### State of the system after today
+
+- **7 pipeline classes registered** (was 6): librarian-gap-aliases (T1+T2), frontmatter-orphan-prunes (T2), duplicate-entity-merges (T2), pathless-stub-aliases (T2), mechanical-readiness-promotion (T1), data-complete-promotion (T2), class-tag-path-b-application (T1+T2). Cal-Access claude-proposed decisions are documented but NOT in formal pipeline (6 records too small to justify scaffolding — see admin note for sed-bulk-flip pattern).
+- **6 sources registered for Cal-Access**: cal-access-bulk (89,669 receipts), cal-access-expn (6,133 expenditures), cal-access-loans (8 loans), plus (registered but unused) cal-access-orgs.
+- **ADR-0024 Phase 3 thesis layer**: 4 of 8 functions shipped (donorContradictions cc_p3_180 + bothSidesDonors + classProfile + influenceMap today). 4 remaining: `policyAlignment`, `politicianContradictions`, `influencePipelines`, `votingDivergence`.
+- **`policies.jsonl` now loaded into librarian** (5 nodes resolvable by id/slug/title).
+- **ADR-0030 Phase 1 active** (Cal-Access self-audit). Phase 2 domains documented but gated. 1 fetch in log so far (`caf_b2ee58f604ef`) — bulk-dump-freshness verified.
+- **Frontmatter schema validator: 0 missing_universal violations** (was 5). 95 missing_type_required + 118 missing_id + 3,085 missing_type_proposed remain — Phase C/D backfill territory.
+- **2 new memory entries**: `feedback_data_over_editorial_during_build` (David flagged editorial as build-phase blocker), `feedback_flag_rule_blockers` (don't silently retreat behind "your lane" — name design problems).
+- **1 corrected memory**: `feedback_recommend_new_chat` — threshold tied to actual context % (≥75%) not "natural breakpoints".
+- **CA-Gov 2026 race fully instrumented**: /races page + /races/ca-gov-2026/visuals page + auto-blocks on 10 candidate profiles + 4 partition files (receipts, expn, loans, self-funding, internal-transfers, override map, non-donor blocklist, donor aliases).
+- **bug-queue.md: 1 open** (bug-007 carryover; no new bugs added today).
+- **Main repo state**: at v4 head; ops dev server PID changes across the day from manual restarts (4-5x today after each ops route addition).
+- **Token usage**: ~$260-320 Opus across the session (~30% of weekly cap). Conversation context ~70% used.
+
+### Known issues / things flagged but not fixed
+
+1. **Cal-Access committee Detail.aspx pages Imperva-blocked.** Phase 2 paths to unblock: browser automation (Playwright headless under separate ADR), archive.org snapshots, or pivoting to TSV-as-truth (cheapest).
+2. **F501/F502 treasurer data 0% populated for our committees.** Real treasurer data lives in CVR_CAMPAIGN_DISCLOSURE_CD (per-filing cover pages, not Statement of Organization). Deferred.
+3. **classProfile clusters mostly empty** because individual donors don't have `capital_type` tags — only corporations do. Path C class-tagger (individuals → ideological_function based on profession/employer) would fix this but is out of scope.
+4. **influenceMap.policy_signal.available always false** — needs sponsorship + vote-on-policy ingest first. Bills.jsonl exists (141k rows) but sponsor/cosponsor relations not extracted into librarian. Votes.jsonl is roll-call summaries, not per-legislator yea/nay.
+5. **LA Mayor 2026 race blocked.** David asked to apply Cal-Access pattern to LA Mayor; turns out LA mayor candidates file with **LA City Ethics Commission**, not Cal-Access. Karen Bass (incumbent) is invisible to our pipeline entirely. Need new LAEC ingester (separate scope, ~$25-40 Opus). David checking ethics.lacity.org for bulk-export URL.
+6. **claude-proposed pending David review**: 10 items in `content/Admin Notes/cal-access-claude-proposals-pending.md`. JSON-direct-edit pattern documented; sed bulk-flip available.
+
+---
+
+### NEXT-CHAT INSTRUCTION SET (priority order)
+
+#### 1. LA Mayor pipeline (depends on David finding LAEC bulk URL)
+Once David identifies the LAEC bulk-export page (`https://ethics.lacity.org/` or `https://data.lacity.org/`), Phase-0 research the schema, scaffold `scripts/ingest-laec-bulk.cjs` parallel to Cal-Access. Extend ADR-0030 §1 allowlist to include `ethics.lacity.org` for self-audit. Build `/races/la-mayor-2026/` ops page following CA-Gov pattern. ~$25-40 Opus.
+
+#### 2. Bills sponsorship ingest — unblocks influenceMap.policy_signal (~$15-25 Opus)
+`data/bills.jsonl` already has 141k entries with `policy_area` and bill metadata. Need to extract sponsor + cosponsor edges into the relationships store. Add `bill` NodeType OR re-use existing `sponsorship` edge type. Once shipped, `Graph.influenceMap()` flips `policy_signal.available: true` automatically — no breaking change to call sites.
+
+#### 3. Wire ADR-0024 Phase 3 thesis queries to ops UI (~$15-25 Opus)
+`bothSidesDonors` / `classProfile` / `influenceMap` exist as library functions but no API/page surfaces them. Build a `/thesis` ops page (or extend `/profile` for classProfile + influenceMap, build a standalone page for bothSidesDonors). Pattern follows the existing `/money-trail` rebuild.
+
+#### 4. David: weekly Tier 1 sample audit on /audit-claude-decisions (~10 min, your lane)
+Per ADR-0029 Rule 16. ~30+ records in queue from class-tag-path-b + mechanical-readiness over last 2 days.
+
+#### 5. David: review claude-proposed Cal-Access decisions (~5-10 min, your lane)
+[content/Admin Notes/cal-access-claude-proposals-pending.md](content/Admin Notes/cal-access-claude-proposals-pending.md) — 4 override-map rejections, 2 roster-status flags, 3 donor-name aliases, 1 non-donor blocklist entry + 1 pattern. Sed bulk-flip command in the note.
+
+#### 6. David: 64 Path B Tier 2 capital_type approvals (~30 min, your lane)
+Carryover from cc_p3_176. Mostly Mega-Donors (60) + 3 Restaurant & Food + 1 Corporate.
+
+#### 7. ADR-0024 Phase 3 remaining (~$15-25 Opus per query)
+4 thesis queries left: `policyAlignment`, `politicianContradictions`, `influencePipelines`, `votingDivergence`. None are blockers. Approach each in a separate session.
+
+#### 8. ADR-0023 Phase C/D — 95 missing_type_required + 118 missing_id (~variable, mostly editorial)
+Many need editorial / pipeline-driven backfill, not safe to mechanical-default. Phase D: surface via /attention queue. ~$15-30 Opus to build the surface, then ongoing editorial work.
+
+---
+
+### Token budget on this session
+
+~$260-320 Opus across 21 commits in one extended session. Higher than typical because David said "keep going" through every breakpoint and I tackled the entire audit remediation table + ADR-0030 + ADR-0024 Phase 3 + frontmatter Phase C-prelude + multiple Cal-Access follow-up sweeps. Trade-off: ~70% context window used. Next session **strongly benefits from fresh chat regardless of work tackled**.
+
 ---
 
 ## HANDOFF — 2026-04-29 PM (cc_p3_174 → cc_p3_178, queue clear: items 1-5 of cc_p3_173 next-chat list shipped end-to-end)
