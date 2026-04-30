@@ -161,6 +161,70 @@ opposes: "[[Donald Trump]]"
 | Zachary S. Zalben | $6.0K |
 | Sergio Galvez | $206 |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $242.81M across 1815 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Antonio Villaraigosa P2018 | $48.59M | independent-expenditure | 1 |
+| Canal Partners Media LLC | $43.53M | independent-expenditure | 1 |
+| Storefront Political Media | $12.49M | campaign-paraphernalia, postage, consultant | 9 |
+| JPM&M, Inc. | $10.54M | tv-advertising, consultant, independent-expenditure | 3 |
+| NCC - Cable TV System | $10.38M | tv-advertising | 1 |
+| LUC Media Inc. | $9.54M | radio-airtime, tv-advertising, vendor-payment | 3 |
+| Gavin Newsom P2018 | $8.15M | independent-expenditure | 1 |
+| John Cox P2018 | $4.91M | independent-expenditure | 1 |
+| United States Postal Service | $4.05M | postage | 2 |
+| Nuckels Media Partners, Inc. | $3.68M | staff-travel, web-ads, tv-advertising | 8 |
+| KABC - TV | $3.59M | tv-advertising | 1 |
+| Knbc-tv | $3.19M | tv-advertising | 3 |
+| Kabc-tv | $3.03M | tv-advertising | 3 |
+| KTLA - TV | $2.52M | tv-advertising | 1 |
+| Kcbs-tv | $2.48M | tv-advertising | 3 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| independent-expenditure | $125.46M |
+| tv-advertising | $83.21M |
+| vendor-payment | $7.36M |
+| consultant | $4.72M |
+| postage | $4.60M |
+| staff-salary | $3.52M |
+| web-ads | $2.96M |
+| literature | $2.91M |
+| polling | $2.57M |
+| office-expense | $1.46M |
+| radio-airtime | $1.10M |
+| professional | $787.6K |
+| fundraising-event | $607.2K |
+| campaign-paraphernalia | $384.4K |
+| staff-travel | $380.9K |
+| phone-banks | $304.6K |
+| meetings | $147.2K |
+| candidate-travel | $143.0K |
+| contribution-out | $78.8K |
+| print-ads | $60.8K |
+| returned-contribution | $15.8K |
+| voter-contact | $9.1K |
+| fundraising | $5.2K |
+| petition-circulating | $3.4K |
+| civic-donation | $3.0K |
+
+#### Loans to candidate / committees (Cal-Access)
+
+**Total loans:** $942.2K across 3 record(s).
+
+| Lender | Recipient | Amount | Cycle |
+|---|---|---:|---|
+| Californians for Safe Parks-Yes on 12 | Antonio Villaraigosa | $762.2K | 2000 |
+| Southwest Voter Registration & Education Project | Antonio Villaraigosa | $175.0K | 2002 |
+| River City Business Services | Antonio Villaraigosa | $5.0K | 2018 |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1077478](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1077478) · [1245233](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1245233) · [1069429](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1069429). Refresh: download fresh dump, run discovery + ingest.*

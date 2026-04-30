@@ -90,6 +90,53 @@ source-types:
 | Matthew Richert | $22.3K | 2026 | 1 |
 | _+7299 more donors_ | _$3.54M_ | | |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $4.25M across 259 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| FlexPoint Campaigns | $1.19M | tv-advertising | 1 |
+| Chase | $271.2K | vendor-payment, office-expense | 2 |
+| Troast and Associates, LLC | $237.9K | consultant | 1 |
+| Winning Tuesday, Inc. | $170.2K | consultant | 1 |
+| Postage for Direct Mail Fundraising | $168.5K | postage | 1 |
+| Bianco Legal Defense Fund | $160.0K | transfer, vendor-payment | 2 |
+| Red Rock Strategies | $143.4K | consultant | 1 |
+| USPS | $136.0K | postage | 1 |
+| Headlamp Strategies, LLC | $101.8K | consultant | 1 |
+| Campaign Finance Services LLC | $98.7K | professional | 1 |
+| Anedot | $88.4K | office-expense | 1 |
+| Strategy Insights | $88.2K | literature, consultant | 2 |
+| California Fundraising Solutions | $75.6K | consultant | 1 |
+| Bighorn Golf Club | $70.3K | fundraising-event | 1 |
+| 2 Hot Uniforms, Inc. | $65.4K | campaign-paraphernalia | 1 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| tv-advertising | $1.21M |
+| consultant | $1.02M |
+| vendor-payment | $381.2K |
+| postage | $351.9K |
+| campaign-paraphernalia | $299.7K |
+| literature | $227.0K |
+| fundraising-event | $210.4K |
+| office-expense | $143.8K |
+| professional | $98.7K |
+| transfer | $80.0K |
+| candidate-travel | $77.9K |
+| web-ads | $49.4K |
+| staff-travel | $21.2K |
+| returned-contribution | $21.2K |
+| contribution-out | $21.1K |
+| meetings | $20.5K |
+| fundraising | $11.2K |
+| print-ads | $750 |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479095](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095) · [1354860](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1354860) · [1397860](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1397860). Refresh: download fresh dump, run discovery + ingest.*

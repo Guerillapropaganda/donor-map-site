@@ -195,6 +195,50 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 | Lisa Tucker | $550 |
 | Fulcrum Strategy Group LLC(Tom Quillin) | $525 |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $22.97M across 50 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Eric Swalwell | $7.11M | independent-expenditure | 1 |
+| Polaris Campaigns, Inc. | $7.00M | independent-expenditure | 1 |
+| Californians for a Fighter in Support of Eric Swalwell for Governor 2026 | $2.00M | vendor-payment, contribution-out | 2 |
+| Ampersand | $1.80M | independent-expenditure | 1 |
+| The Trade Desk | $1.30M | independent-expenditure | 1 |
+| Canal Partners Media | $1.22M | tv-advertising | 1 |
+| Google | $429.9K | independent-expenditure | 1 |
+| KPIX | $268.0K | independent-expenditure | 1 |
+| KTVU | $193.2K | independent-expenditure | 1 |
+| KGO | $153.4K | independent-expenditure | 1 |
+| KNTV | $135.4K | independent-expenditure | 1 |
+| KABC | $121.0K | independent-expenditure | 1 |
+| Katz Media | $105.9K | independent-expenditure | 1 |
+| KCRA | $102.9K | independent-expenditure | 1 |
+| David Binder Research | $100.0K | polling, independent-expenditure | 2 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| independent-expenditure | $19.61M |
+| tv-advertising | $1.23M |
+| vendor-payment | $1.00M |
+| contribution-out | $1.00M |
+| polling | $70.6K |
+| professional | $52.0K |
+| office-expense | $900 |
+
+#### Loans to candidate / committees (Cal-Access)
+
+**Total loans:** $1.00M across 1 record(s).
+
+| Lender | Recipient | Amount | Cycle |
+|---|---|---:|---|
+| Global Medical Response, Inc. and its Subsidiaries | SWALWELL FOR GOVERNOR 2026, A PROJECT OF GLOBAL MEDICAL RESPONSE, INC.; EMS PROFESSIONALS FOR A HEALTHIER CALIFORNIA FOR | $1.00M | 2026 |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485146](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485146) · [1327203](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1327203). Refresh: download fresh dump, run discovery + ingest.*

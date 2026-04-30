@@ -58,16 +58,25 @@ function fmtMoney(n) {
   return `$${n.toFixed(0)}`;
 }
 
-function loadEdges() {
-  if (!fs.existsSync(EDGE_FILE)) {
-    throw new Error(`Cal-Access edges missing: ${EDGE_FILE}\nRun: node scripts/ingest-cal-access-bulk.cjs`);
-  }
+function loadEdgesFile(file) {
+  if (!fs.existsSync(file)) return [];
   const edges = [];
-  for (const line of fs.readFileSync(EDGE_FILE, 'utf-8').split('\n')) {
+  for (const line of fs.readFileSync(file, 'utf-8').split('\n')) {
     if (!line.trim()) continue;
     try { edges.push(JSON.parse(line)); } catch { /* skip */ }
   }
   return edges;
+}
+
+function loadEdges() {
+  const receipts = loadEdgesFile(EDGE_FILE);
+  if (receipts.length === 0) {
+    throw new Error(`Cal-Access receipts missing: ${EDGE_FILE}\nRun: node scripts/ingest-cal-access-bulk.cjs`);
+  }
+  // Phase 3 derived files (optional — return empty if not yet ingested)
+  const expn = loadEdgesFile(path.join(ROOT, 'data', 'derived', 'cal-access-expn.jsonl'));
+  const loans = loadEdgesFile(path.join(ROOT, 'data', 'derived', 'cal-access-loans.jsonl'));
+  return { receipts, expn, loans };
 }
 
 function findProfile(candidate) {
@@ -94,10 +103,16 @@ function findProfile(candidate) {
   return null;
 }
 
-function buildPanel(candidate, candData, edges) {
+function buildPanel(candidate, candData, allEdges) {
+  // allEdges is { receipts, expn, loans } from loadEdges()
+  const edges = allEdges.receipts;
+  const expnEdges = allEdges.expn || [];
+  const loanEdges = allEdges.loans || [];
+
   const ctrlNames = new Set((candData.controlled || []).map((c) => c.name));
   const ieSupNames = new Set((candData.ie_supporting || []).map((c) => c.name));
   const ieOppNames = new Set((candData.ie_opposing || []).map((c) => c.name));
+  const allCommittees = new Set([...ctrlNames, ...ieSupNames, ...ieOppNames]);
 
   // Direct = donor → candidate (controlled committees collapsed)
   const directEdges = edges.filter((e) => e.type === 'monetary' && e.to === candidate);
@@ -105,6 +120,12 @@ function buildPanel(candidate, candData, edges) {
   // IE-PAC receipts = donor → IE PAC committee. We aggregate per-PAC.
   const ieSupEdges = edges.filter((e) => e.type === 'monetary' && ieSupNames.has(e.to));
   const ieOppEdges = edges.filter((e) => e.type === 'monetary' && ieOppNames.has(e.to));
+
+  // Phase 3: expenditures from this candidate's committees (controlled
+  // collapsed to candidate name; IE PACs by their own name).
+  const candExpnEdges = expnEdges.filter((e) => e.from === candidate || allCommittees.has(e.from));
+  // Loans: lender → candidate (or → IE PAC of theirs)
+  const candLoanEdges = loanEdges.filter((e) => e.to === candidate || allCommittees.has(e.to));
 
   // Direct top donors
   const directByDonor = new Map();
@@ -234,6 +255,68 @@ function buildPanel(candidate, candData, edges) {
     }
   }
 
+  // ── Phase 3: Where the money goes (EXPN_CD)
+  if (candExpnEdges.length > 0) {
+    const totalSpent = candExpnEdges.reduce((s, e) => s + (e.amount || 0), 0);
+    lines.push('#### Where the money goes (Cal-Access expenditures)');
+    lines.push('');
+    lines.push(`**Total spending across all controlled + IE committees:** ${fmtMoney(totalSpent)} across ${candExpnEdges.length} unique payees.`);
+    lines.push('');
+
+    // Top 15 payees regardless of role
+    const byPayee = new Map();
+    for (const e of candExpnEdges) {
+      const key = e.to;
+      const cur = byPayee.get(key) || { name: key, total: 0, roles: new Set(), txns: 0 };
+      cur.total += e.amount || 0;
+      if (e.role) cur.roles.add(e.role);
+      cur.txns += 1;
+      byPayee.set(key, cur);
+    }
+    const topPayees = [...byPayee.values()].sort((a, b) => b.total - a.total).slice(0, 15);
+    lines.push('**Top 15 vendors / consultants / staff:**');
+    lines.push('');
+    lines.push('| Payee | Total | Categories | Txns |');
+    lines.push('|---|---:|---|---:|');
+    for (const p of topPayees) {
+      const roles = [...p.roles].slice(0, 3).join(', ');
+      lines.push(`| ${p.name} | ${fmtMoney(p.total)} | ${roles || '—'} | ${p.txns} |`);
+    }
+    lines.push('');
+
+    // By category (EXPN_CODE rolled up role)
+    const byRole = new Map();
+    for (const e of candExpnEdges) {
+      const r = e.role || 'unclassified';
+      byRole.set(r, (byRole.get(r) || 0) + (e.amount || 0));
+    }
+    if (byRole.size > 1) {
+      lines.push('**By spending category:**');
+      lines.push('');
+      lines.push('| Category | Total |');
+      lines.push('|---|---:|');
+      for (const [r, total] of [...byRole.entries()].sort((a, b) => b[1] - a[1])) {
+        lines.push(`| ${r} | ${fmtMoney(total)} |`);
+      }
+      lines.push('');
+    }
+  }
+
+  // ── Loans (LOAN_CD)
+  if (candLoanEdges.length > 0) {
+    const totalLoans = candLoanEdges.reduce((s, e) => s + (e.amount || 0), 0);
+    lines.push('#### Loans to candidate / committees (Cal-Access)');
+    lines.push('');
+    lines.push(`**Total loans:** ${fmtMoney(totalLoans)} across ${candLoanEdges.length} record(s).`);
+    lines.push('');
+    lines.push('| Lender | Recipient | Amount | Cycle |');
+    lines.push('|---|---|---:|---|');
+    for (const e of candLoanEdges.sort((a, b) => (b.amount || 0) - (a.amount || 0))) {
+      lines.push(`| ${e.from} | ${e.to} | ${fmtMoney(e.amount)} | ${e.cycle || '—'} |`);
+    }
+    lines.push('');
+  }
+
   // Footer + source links
   lines.push('---');
   lines.push('');
@@ -278,7 +361,7 @@ function injectPanel(content, panel) {
   console.log(`[build-cal-access-panels] mode=${WRITE ? 'WRITE' : 'DRY RUN'}  candidate=${ONLY || 'all'}`);
   const overrides = JSON.parse(fs.readFileSync(OVERRIDES, 'utf-8'));
   const edges = loadEdges();
-  console.log(`  loaded ${edges.length} edges from ${EDGE_FILE}`);
+  console.log(`  loaded ${edges.receipts.length} receipts + ${edges.expn.length} expenditures + ${edges.loans.length} loans`);
 
   let updated = 0;
   let skipped = 0;

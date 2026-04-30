@@ -204,6 +204,51 @@ top-policy-area: "Health"
 | Julianne Dalrymple | $500 |
 | Elizabeth Shedd | $100 |
 
+#### Where the money goes (Cal-Access expenditures)
+
+**Total spending across all controlled + IE committees:** $14.04M across 216 unique payees.
+
+**Top 15 vendors / consultants / staff:**
+
+| Payee | Total | Categories | Txns |
+|---|---:|---|---:|
+| Middle Seat Consulting, LLC | $4.18M | fundraising-event, consultant, vendor-payment | 4 |
+| Meta Platforms, Inc. | $1.56M | vendor-payment | 1 |
+| Payroll Data Processing, Inc. | $1.14M | staff-salary | 1 |
+| ActBlue Technical Services | $504.8K | office-expense | 1 |
+| GBAO Strategies | $441.7K | staff-travel, polling | 2 |
+| Capital One | $310.7K | vendor-payment | 1 |
+| United States Treasury | $301.6K | staff-salary | 1 |
+| Katharine Meyer Borst | $279.0K | consultant, fundraising-event | 2 |
+| Wavelength Strategy, LLC | $260.5K | vendor-payment, staff-travel, office-expense | 3 |
+| Leverage Digital, LLC | $253.0K | vendor-payment | 1 |
+| NGP Van dba EveryAction, Inc. | $243.1K | web-ads | 1 |
+| Switchboard Public Benefit Corporation | $226.1K | vendor-payment | 1 |
+| Lynh Tran | $204.4K | office-expense, staff-salary, candidate-travel | 4 |
+| MPWR Media Strategies, LLC | $199.6K | consultant, staff-travel | 2 |
+| Click Strategies | $198.0K | consultant | 1 |
+
+**By spending category:**
+
+| Category | Total |
+|---|---:|
+| vendor-payment | $8.22M |
+| staff-salary | $2.26M |
+| consultant | $1.03M |
+| office-expense | $633.8K |
+| polling | $577.3K |
+| fundraising-event | $482.8K |
+| web-ads | $361.5K |
+| professional | $214.6K |
+| candidate-travel | $86.7K |
+| staff-travel | $76.0K |
+| literature | $39.4K |
+| campaign-paraphernalia | $27.4K |
+| fundraising | $11.2K |
+| contribution-out | $3.5K |
+| meetings | $1.8K |
+| postage | $144 |
+
 ---
 
 *Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479597](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479597). Refresh: download fresh dump, run discovery + ingest.*
