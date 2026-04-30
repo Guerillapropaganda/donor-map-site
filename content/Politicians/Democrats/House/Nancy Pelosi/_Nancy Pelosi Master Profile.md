@@ -100,43 +100,47 @@ fec-committee-ids:
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 108th–114th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 3,159 |
-| Substantive votes (Y/N) | 2,809 |
-| Votes with party majority | 2,754 |
-| Party-line loyalty | 98.0% |
-| Deviations from party | 54 |
+| Roll-call votes tracked | 6,837 |
+| Substantive votes (Y/N) | 6,385 |
+| Votes with party majority | 6,163 |
+| Party-line loyalty | 96.5% |
+| Deviations from party | 217 |
 
 **Coverage:**
 
-- house 115/1: 710 votes
-- house 115/2: 500 votes
-- house 116/1: 46 votes
-- house 116/2: 40 votes
-- house 117/1: 62 votes
-- house 117/2: 75 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
+- house 108/1: 675 votes
+- house 108/2: 543 votes
+- house 109/1: 669 votes
+- house 109/2: 541 votes
+- house 110/1: 118 votes
+- house 110/2: 59 votes
+- house 111/1: 48 votes
+- house 111/2: 58 votes
+- house 112/1: 945 votes
+- house 112/2: 657 votes
+- house 113/1: 640 votes
+- house 113/2: 562 votes
+- house 114/1: 702 votes
+- house 114/2: 620 votes
 
-**Most recent party-line deviations (top 10 of 54):**
+**Most recent party-line deviations (top 10 of 217):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
-| 2024-09-24 | h448-118.2 | Yea | N | HR 8790 |
-| 2024-09-23 | h440-118.2 | Yea | N | S 2228 |
-| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
-| 2024-05-22 | h226-118.2 | Aye | N | HR 4763 |
-| 2024-04-12 | h117-118.2 | Aye | N | — |
-| 2023-11-08 | h623-118.1 | No | Y | — |
-| 2023-09-28 | h491-118.1 | No | Y | — |
+| 2016-12-08 | h1320-114.1 | Nay | Y | HR 2028 |
+| 2016-12-08 | h1322-114.1 | Nay | Y | S 612 |
+| 2016-07-14 | h1166-114.1 | Nay | Y | S 764 |
+| 2016-07-11 | h1103-114.1 | Yea | N | HR 5606 |
+| 2016-07-07 | h1093-114.1 | Nay | Y | HR 5485 |
+| 2016-06-13 | h998-114.1 | Nay | Y | HR 5312 |
+| 2016-05-25 | h954-114.1 | Nay | Y | HR 5055 |
+| 2016-05-18 | h903-114.1 | Yea | N | HR 4909 |
+| 2016-05-18 | h910-114.1 | Nay | Y | HR 4909 |
+| 2016-04-26 | h864-114.1 | Nay | Y | HR 4820 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
@@ -232,6 +236,7 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 ---
 
 ## The Money
+
 
 
 
