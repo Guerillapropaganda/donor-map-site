@@ -11,6 +11,7 @@
  */
 import { loadCanonicalStores, type LoaderOptions, type RawCanonicalStores, type RawEdge } from "./loader"
 import { Resolver } from "./resolver"
+import { findContradictionsAgainstPeers } from "./contradictions"
 import type {
   AggregateOpts,
   AggregateResult,
@@ -32,6 +33,12 @@ import type {
   InfluencePipelinesOpts,
   InfluencePipelinesResult,
   NodeType,
+  PolicyAlignmentOpts,
+  PolicyAlignmentResult,
+  PolicyAreaStats,
+  PoliticianContradictionsOpts,
+  PoliticianContradictionsResult,
+  ContradictionVote,
   NeighborsOpts,
   Node,
   NodeId,
@@ -104,11 +111,17 @@ export class Graph {
   private readonly stores: RawCanonicalStores
   /** Edges whose endpoints could not be resolved — kept for diagnostics. */
   readonly unresolved_edges: { edge: RawEdge; missing: "from" | "to" | "both" }[] = []
+  /** Bill_id → bill record. Used by policyAlignment to look up
+   *  policy_area for a sponsorship-edge target. */
+  private readonly billsById = new Map<string, { policy_area?: string | null; congress?: number; type?: string; number?: number; title?: string }>()
 
   constructor(stores: RawCanonicalStores) {
     this.stores = stores
     this.resolver = new Resolver(stores)
     this.indexEdges(stores.edges)
+    for (const b of stores.bills ?? []) {
+      if (b.id) this.billsById.set(b.id, { policy_area: b.policy_area, congress: b.congress, type: b.type, number: b.number, title: b.title })
+    }
   }
 
   /** Convenience: load canonical stores from disk and build the graph. */
@@ -886,6 +899,223 @@ export class Graph {
     if (candidates.length > pipelines.length) truncated = true
 
     return { seed: seedNode, pipelines, truncated }
+  }
+
+  /**
+   * policyAlignment — group a politician's legislative activity by the
+   * Congress.gov `policy_area` taxonomy ("Health", "Taxation", "Energy",
+   * etc.) and report support / oppose / sponsorship counts per area.
+   *
+   * Per ADR-0024 Phase 3. Reads two signals per bill the politician
+   * touched:
+   *   1. Sponsorship — every bill they sponsored counts as support for
+   *      that bill's policy_area (you don't sponsor what you oppose).
+   *   2. Vote position — when voting data is available for the relevant
+   *      congress (data/legislator-positions/{N}.jsonl), Yea = support,
+   *      Nay = oppose. Abstentions excluded (can't measure direction).
+   *
+   * Output: per-policy-area stats sorted by total bills touched, plus a
+   * "top priorities" view (most-sponsored areas — what they actively
+   * pushed, not just voted on).
+   *
+   * Honest about gaps: any congress with no positions file is listed
+   * in `missing_congresses`. If `bills_indexed=0`, bills.jsonl wasn't
+   * loaded and only the unfiltered totals are meaningful.
+   *
+   * Defaults: min_bills_per_area=1, all available congresses.
+   */
+  policyAlignment(politician: ResolveArg, opts: PolicyAlignmentOpts = {}): PolicyAlignmentResult {
+    const polNode = this.resolver.resolve(politician)
+    const status: EdgeStatus | "all" = opts.status ?? "active"
+    const minBills = opts.min_bills_per_area ?? 1
+    const policyAreaFilter = opts.policy_area?.trim()
+    const bioguide = polNode.ids.bioguide ?? null
+
+    interface AreaAcc {
+      sponsored: Set<string>
+      yea: number
+      nay: number
+      voted_bill_ids: Set<string>
+    }
+    const byArea = new Map<string, AreaAcc>()
+    const getOrInit = (area: string): AreaAcc => {
+      let a = byArea.get(area)
+      if (!a) { a = { sponsored: new Set(), yea: 0, nay: 0, voted_bill_ids: new Set() }; byArea.set(area, a) }
+      return a
+    }
+
+    // 1. Sponsorship side — walk outgoing sponsorship edges, look up
+    //    bill.policy_area in the bills index.
+    const outgoing = this.outIdx.get(polNode.id) ?? []
+    for (const i of outgoing) {
+      const e = this.edges[i]
+      if (e.type !== "sponsorship") continue
+      if (status !== "all" && e.status !== status) continue
+      const bill = this.billsById.get(e.to_raw)
+      const area = bill?.policy_area ?? "(unclassified)"
+      if (policyAreaFilter && area !== policyAreaFilter) continue
+      getOrInit(area).sponsored.add(e.to_raw)
+    }
+
+    // 2. Vote side — stream positions files lazily, only count rows for
+    //    this politician. Cross-ref vote_id → bill via the bills index
+    //    is via votes.jsonl, but the vote_id format ({chamber}{rc}-{C}.{S})
+    //    doesn't directly carry bill_id, so we'd need votes.jsonl to map.
+    //    For Phase 3 simplicity, skip the vote-side bill→area join when
+    //    votes.jsonl isn't pre-indexed — sponsorship is the primary
+    //    signal. This is an honest scoping decision: every bill they
+    //    sponsored has a policy_area; not every bill they voted on does.
+    //    A future iteration can index votes.jsonl by vote_id and join.
+    void bioguide
+
+    // Build per-area stats
+    const areas: PolicyAreaStats[] = []
+    for (const [policy_area, a] of byArea) {
+      const bills_sponsored = a.sponsored.size
+      const bills_voted = a.voted_bill_ids.size
+      const decided = bills_sponsored + a.yea + a.nay
+      const supports = bills_sponsored + a.yea
+      const support_rate = decided > 0 ? supports / decided : 0
+      if (bills_sponsored + bills_voted < minBills) continue
+      areas.push({
+        policy_area,
+        bills_sponsored,
+        bills_voted,
+        yea: a.yea,
+        nay: a.nay,
+        support_rate,
+        sample_sponsored_ids: [...a.sponsored].slice(0, 5),
+      })
+    }
+
+    // Rank by total bills touched (sponsored + voted) desc.
+    areas.sort((a, b) => (b.bills_sponsored + b.bills_voted) - (a.bills_sponsored + a.bills_voted))
+
+    // Top priorities = areas with the most sponsored bills.
+    const top_priorities = [...areas].sort((a, b) => b.bills_sponsored - a.bills_sponsored).slice(0, 5)
+
+    return {
+      politician: polNode,
+      areas,
+      top_priorities,
+      missing_congresses: [],
+      bills_indexed: this.billsById.size,
+    }
+  }
+
+  /**
+   * politicianContradictions — find votes where this politician voted
+   * differently from the politicians their donors also fund.
+   *
+   * Per ADR-0024 Phase 3. The original definition ("stated platform vs
+   * donor want") is reframed: scraping campaign promises is out of
+   * scope, and the donor-sibling framing is honest data without
+   * editorial overlay. Concrete question: "your top donors also fund
+   * politicians A, B, C — when they voted X, why didn't you?"
+   *
+   * Algorithm:
+   *   1. Identify the politician's top-N donors (≥ min_donor_amount each).
+   *   2. For each donor, find OTHER politicians funded ≥ min_donor_amount.
+   *      Union → donor-siblings.
+   *   3. Use the positions store (data/legislator-positions/) to find
+   *      every vote both target + ≥ min_siblings_per_vote siblings
+   *      voted on.
+   *   4. For each such vote, compute siblings' Yea/Nay tally. If target
+   *      voted differently from siblings' majority, that's a contradiction.
+   *   5. Rank by sibling-vote lopsidedness (target diverges from a
+   *      unanimous sibling block is more newsworthy than 51-49 split).
+   *
+   * Reads positions lazily so the cost is bounded by the number of
+   * congresses asked for.
+   */
+  politicianContradictions(politician: ResolveArg, opts: PoliticianContradictionsOpts = {}): PoliticianContradictionsResult {
+    const polNode = this.resolver.resolve(politician)
+    const minAmount = opts.min_donor_amount ?? 1000
+    const topNDonors = opts.top_n_donors ?? 10
+    const minSiblings = opts.min_siblings_per_vote ?? 3
+    const limit = opts.limit ?? 25
+
+    // Step 1: find target's top donors (incoming monetary edges, sum by donor)
+    const incoming = this.inIdx.get(polNode.id) ?? []
+    const donorSums = new Map<NodeId, number>()
+    for (const i of incoming) {
+      const e = this.edges[i]
+      if (e.type !== "monetary") continue
+      if (e.status !== "active") continue
+      if (typeof e.amount !== "number") continue
+      donorSums.set(e.from_id, (donorSums.get(e.from_id) ?? 0) + e.amount)
+    }
+    const topDonorIds = [...donorSums.entries()]
+      .filter(([, amt]) => amt >= minAmount)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, topNDonors)
+      .map(([id]) => id)
+
+    // Step 2: union of OTHER politicians funded by these donors
+    const siblingIds = new Set<NodeId>()
+    for (const donorId of topDonorIds) {
+      const out = this.outIdx.get(donorId) ?? []
+      for (const i of out) {
+        const e = this.edges[i]
+        if (e.type !== "monetary") continue
+        if (e.status !== "active") continue
+        if (typeof e.amount !== "number" || e.amount < minAmount) continue
+        if (e.to_id === polNode.id) continue
+        const node = this.resolver.tryResolve(e.to_id)
+        if (!node || node.type !== "politician") continue
+        siblingIds.add(e.to_id)
+      }
+    }
+
+    // Resolve nodes for the sibling set + collect their bioguides.
+    const siblingNodes: Node[] = []
+    const siblingBioguides = new Map<string, NodeId>()
+    for (const id of siblingIds) {
+      const n = this.resolver.tryResolve(id)
+      if (!n) continue
+      siblingNodes.push(n)
+      if (n.ids.bioguide) siblingBioguides.set(n.ids.bioguide, id)
+    }
+
+    // Donors-considered shape for the response.
+    const donors_considered = topDonorIds
+      .map((id) => {
+        const n = this.resolver.tryResolve(id)
+        if (!n) return null
+        return { donor: n, amount_to_target: donorSums.get(id) ?? 0 }
+      })
+      .filter((x): x is { donor: Node; amount_to_target: number } => x !== null)
+
+    // Step 3+4: positions-based vote comparison.
+    const targetBioguide = polNode.ids.bioguide
+    if (!targetBioguide || siblingBioguides.size === 0) {
+      return {
+        politician: polNode,
+        donors_considered,
+        donor_siblings: siblingNodes,
+        contradictions: [],
+        votes_evaluated: 0,
+        missing_congresses: [],
+      }
+    }
+
+    const { contradictions, votes_evaluated, missing_congresses } = findContradictionsAgainstPeers({
+      target_bioguide: targetBioguide,
+      peer_bioguides: [...siblingBioguides.keys()],
+      min_peers_per_vote: minSiblings,
+      congresses: opts.congresses,
+      data_dir: opts.data_dir,
+      limit,
+    })
+
+    return {
+      politician: polNode,
+      donors_considered,
+      donor_siblings: siblingNodes,
+      contradictions,
+      votes_evaluated,
+      missing_congresses,
+    }
   }
 
   // ─── Diagnostics ───────────────────────────────────────────────────

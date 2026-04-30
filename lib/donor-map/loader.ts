@@ -137,6 +137,25 @@ export interface RawPolicy {
   [key: string]: unknown
 }
 
+/** A bill record from data/bills.jsonl, voteview/govinfo-sourced.
+ *  Keyed by the same composite id used in sponsorship edges' `to` field
+ *  ("HR.1-119" etc.). Only the fields policyAlignment uses are typed
+ *  strictly — extras are preserved verbatim. */
+export interface RawBill {
+  id: string
+  congress: number
+  type: string
+  number: number
+  title?: string
+  policy_area?: string | null
+  subjects?: string[]
+  sponsor_bioguides?: string[]
+  cosponsor_count?: number
+  became_law?: boolean
+  introduced_date?: string | null
+  [key: string]: unknown
+}
+
 export interface RawCanonicalStores {
   entities: RawEntity[]
   edges: RawEdge[]
@@ -144,6 +163,9 @@ export interface RawCanonicalStores {
   fec_registry: Record<string, RawFecRegistryEntry>
   /** ADR-0024 Phase 3: policies.jsonl loaded so policy nodes resolve. */
   policies: RawPolicy[]
+  /** ADR-0024 Phase 3: bills.jsonl loaded so policyAlignment can map
+   *  sponsorship edges + vote-on-bill records to policy_area buckets. */
+  bills: RawBill[]
   /** Path of every file actually read, for diagnostics. */
   files_read: string[]
 }
@@ -210,5 +232,12 @@ export function loadCanonicalStores(opts: LoaderOptions = {}): RawCanonicalStore
   const policies = loadJsonl<RawPolicy>(policiesFile)
   if (fs.existsSync(policiesFile)) filesRead.push(policiesFile)
 
-  return { entities, edges, legislators, fec_registry: fecRegistry, policies, files_read: filesRead }
+  // Bills (ADR-0024 Phase 3 — for policyAlignment). 141k entries; load
+  // is ~1-2s. The library tolerates a missing file (returns []), so
+  // tests that don't need bill metadata aren't slowed down.
+  const billsFile = path.join(dataDir, "bills.jsonl")
+  const bills = loadJsonl<RawBill>(billsFile)
+  if (fs.existsSync(billsFile)) filesRead.push(billsFile)
+
+  return { entities, edges, legislators, fec_registry: fecRegistry, policies, bills, files_read: filesRead }
 }
