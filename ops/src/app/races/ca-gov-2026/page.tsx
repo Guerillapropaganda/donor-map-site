@@ -129,9 +129,9 @@ export default function CAGov2026Page() {
     <div className="p-6 space-y-6">
       <PageHeader
         title="California Governor 2026"
-        whatThisDoes="Curation surface for the 2026 California gubernatorial race. One row per candidate with readiness state, federal money raised (FEC + IRS 990), connection count, and editorial flags. Click any candidate to open their profile for editing."
+        whatThisDoes="Curation surface for the 2026 CA gubernatorial race. One row per candidate with readiness state, federal money (FEC + IRS 990), CA state money (Cal-Access direct + IE-supporting + IE-opposing), connection count, and editorial flags. Click any candidate to open their profile."
         rightNow={`${data.candidate_count} candidates — ${shipReady} ship-ready, ${oneAway} one promotion away, ${needsWork} need work`}
-        action="Sort by readiness to see ship-ready candidates first. Click a row to jump to /profile for editing. Cal-Access pipeline pending — federal totals only for now."
+        action="Sort by money to rank by total spending. Click a row to jump to /profile. Cal-Access auto-blocks live on each candidate body — refresh by re-running scripts/ingest-cal-access-bulk.cjs and scripts/build-cal-access-panels.cjs --write."
       />
 
       {/* Cal-Access status banner */}
