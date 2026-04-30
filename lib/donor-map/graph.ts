@@ -519,10 +519,6 @@ export class Graph {
     // Step 1: build the politician-pair → opposition-edge index. We only
     // care about pairs that have an opposition edge between them; donors
     // funding two non-opposed politicians don't qualify.
-    interface PairKey {
-      lo: NodeId
-      hi: NodeId
-    }
     const oppositionPairs = new Map<string, Edge>()
     for (const e of this.edges) {
       if (e.type !== "political-opposition") continue
