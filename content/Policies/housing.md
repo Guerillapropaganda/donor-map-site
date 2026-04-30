@@ -1,5 +1,5 @@
 ---
-title: "Housing affordability and rent control"
+title: Housing affordability and rent control
 type: policy
 slug: housing
 policy-id: pol_housing
@@ -13,9 +13,10 @@ class-analysis-tags:
   - privatization
   - anti-trust-defender
 content-readiness: draft
-last-updated: 2026-04-27
+last-updated: 2026-04-27T00:00:00.000Z
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
+source-tier: 1
 ---
 
 # Housing affordability and rent control

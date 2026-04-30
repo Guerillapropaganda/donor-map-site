@@ -1,5 +1,5 @@
 ---
-title: "Federal minimum wage increase to $15+"
+title: Federal minimum wage increase to $15+
 type: policy
 slug: minimum_wage
 policy-id: pol_minimum_wage
@@ -14,9 +14,10 @@ class-analysis-tags:
   - anti-trust-defender
   - tax-avoidance-lobby
 content-readiness: draft
-last-updated: 2026-04-27
+last-updated: 2026-04-27T00:00:00.000Z
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
+source-tier: 1
 ---
 
 # Federal minimum wage increase to $15+

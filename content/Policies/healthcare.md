@@ -1,5 +1,5 @@
 ---
-title: "Universal healthcare / Medicare expansion"
+title: Universal healthcare / Medicare expansion
 type: policy
 slug: healthcare
 policy-id: pol_healthcare
@@ -13,9 +13,10 @@ class-analysis-tags:
   - anti-trust-defender
   - deregulatory
 content-readiness: draft
-last-updated: 2026-04-27
+last-updated: 2026-04-27T00:00:00.000Z
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
+source-tier: 1
 ---
 
 # Universal healthcare / Medicare expansion

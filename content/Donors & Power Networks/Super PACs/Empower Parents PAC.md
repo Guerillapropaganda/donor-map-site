@@ -14,6 +14,7 @@ known-gaps:
   - No lobbying disclosure data
   - No mapped relationships
 politicians-funded: "[[Never Back Down Inc.]]"
+last-enriched: 2026-04-21T00:00:00.000Z
 ---
 
 ## Who They Are

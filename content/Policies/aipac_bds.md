@@ -1,5 +1,5 @@
 ---
-title: "AIPAC influence on Israel-Palestine policy (BDS laws)"
+title: AIPAC influence on Israel-Palestine policy (BDS laws)
 type: policy
 slug: aipac_bds
 policy-id: pol_aipac_bds
@@ -16,9 +16,10 @@ class-analysis-tags:
 high-risk-editorial: true
 requires-legal-review: true
 content-readiness: draft
-last-updated: 2026-04-27
+last-updated: 2026-04-27T00:00:00.000Z
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
+source-tier: 1
 ---
 
 <!--

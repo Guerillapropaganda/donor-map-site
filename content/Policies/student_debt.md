@@ -1,5 +1,5 @@
 ---
-title: "Student debt cancellation"
+title: Student debt cancellation
 type: policy
 slug: student_debt
 policy-id: pol_student_debt
@@ -11,9 +11,10 @@ class-analysis-tags:
   - tax-avoidance-lobby
   - austerity
 content-readiness: draft
-last-updated: 2026-04-27
+last-updated: 2026-04-27T00:00:00.000Z
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
+source-tier: 1
 ---
 
 # Student debt cancellation
