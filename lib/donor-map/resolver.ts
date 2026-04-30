@@ -185,6 +185,45 @@ export class Resolver {
     return this.nodes.get(id) ?? null
   }
 
+  /**
+   * Lazily mint a name-only stub node for an unresolved edge endpoint.
+   *
+   * Used by the graph indexer for permissive sources (cal-access-bulk,
+   * fec-indiv-by-committee) where edges legitimately reference raw donor
+   * names that don't have vault profiles. Without this, ~99% of cal-access
+   * edges drop because their `from` field is a private individual's name
+   * (e.g. "Joanne Filpi") that the resolver has never seen.
+   *
+   * Idempotent: if a node already resolves under this name, return it.
+   * Otherwise create a `name:<slug>` node with no profile_path and minimal
+   * metadata. Caller's `type` arg is a hint, but if the name later gets a
+   * real entity record, the stub gets superseded silently because real
+   * entities register with their entity_id-based NodeId.
+   */
+  findOrCreateNameStub(rawName: string, type: NodeType = "unknown"): Node {
+    const trimmed = (rawName ?? "").trim()
+    if (!trimmed) throw new Error("findOrCreateNameStub: empty name")
+    const existing = this.tryResolve({ kind: "name", value: trimmed })
+    if (existing) return existing
+    const id: NodeId = `name:${slugify(trimmed)}`
+    // Slug collision (different rawNames slugify to same key) — return the
+    // existing one rather than minting a duplicate. Common-name donors hit
+    // this constantly ("john smith" → many real people sharing the slug).
+    const collide = this.nodes.get(id)
+    if (collide) return collide
+    const node: Node = {
+      id,
+      name: trimmed,
+      type,
+      profile_path: null,
+      ids: {},
+      aliases: [trimmed],
+      meta: { _source: "permissive-edge-stub" },
+    }
+    this.registerNode(node)
+    return node
+  }
+
   // ─── Build — runs once at construction ─────────────────────────────
 
   private build(stores: RawCanonicalStores): void {
