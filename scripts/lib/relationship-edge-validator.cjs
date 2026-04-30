@@ -221,6 +221,12 @@ const SOURCES = [
   // Offshore Leaks + Bahamas Leaks combined. Officer/intermediary links
   // from vault entities into offshore shell companies.
   'icij-offshore-leaks',
+  // California Cal-Access bulk dump (RCPT_CD / EXPN_CD / FILERNAME_CD
+  // joins). State-level campaign finance — donor → CA committee, IE PAC
+  // → candidate (support/oppose). Ingested via ingest-cal-access-bulk.cjs.
+  // Donors are raw contributor records with no vault profile by
+  // construction (same pattern as fec-indiv-by-committee).
+  'cal-access-bulk',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];
@@ -263,6 +269,10 @@ const MIGRATION_SOURCES = new Set([
   // (registry disclosures don't always state when an officer role began).
   // Edges record "X is officer of offshore entity Y" without cycle.
   'icij-offshore-leaks',
+  // Cal-Access donors are raw RCPT_CD contributor records — natural
+  // persons + small orgs that don't have vault profiles. Same exemption
+  // as fec-indiv-by-committee: skip the from-side profile-existence check.
+  'cal-access-bulk',
 ]);
 
 // ─── Title normalization ──────────────────────────────────────────────

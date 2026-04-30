@@ -33,6 +33,10 @@ interface CandidateRow {
   federal_money_in: number
   monetary_edge_count: number
   total_connections: number
+  ca_state_money_in: number
+  ca_state_donor_count: number
+  ca_ie_supporting: number
+  ca_ie_opposing: number
 }
 
 interface RaceResponse {
@@ -106,7 +110,11 @@ export default function CAGov2026Page() {
     if (sortBy === "readiness") {
       return (READINESS_RANK[b.readiness] ?? 0) - (READINESS_RANK[a.readiness] ?? 0)
     }
-    if (sortBy === "money") return b.federal_money_in - a.federal_money_in
+    if (sortBy === "money") {
+      const aTotal = a.federal_money_in + a.ca_state_money_in + a.ca_ie_supporting
+      const bTotal = b.federal_money_in + b.ca_state_money_in + b.ca_ie_supporting
+      return bTotal - aTotal
+    }
     if (sortBy === "updated") {
       return String(b.last_updated ?? "").localeCompare(String(a.last_updated ?? ""))
     }
@@ -127,15 +135,28 @@ export default function CAGov2026Page() {
       />
 
       {/* Cal-Access status banner */}
-      <div className="border border-amber-700/50 bg-amber-950/30 p-4 text-sm text-amber-200">
-        <div className="font-semibold mb-1">📋 Cal-Access ingestion: {data.cal_access_status}</div>
-        <div className="text-amber-300/80">
-          Numbers below are <strong>federal money only</strong> (FEC + IRS 990 + USASpending).
-          California gubernatorial fundraising is reported to Cal-Access, not the FEC. State-side
-          totals will appear here once the Cal-Access bulk ingester ships. Drop downloaded
-          Cal-Access dumps into <code className="bg-amber-900/40 px-1">data/bulk/california/</code>.
+      {data.cal_access_status.startsWith("ingested") ? (
+        <div className="border border-emerald-700/50 bg-emerald-950/30 p-4 text-sm text-emerald-200">
+          <div className="font-semibold mb-1">✅ Cal-Access: {data.cal_access_status}</div>
+          <div className="text-emerald-300/80">
+            Cal-Access columns show CA state-level fundraising:{" "}
+            <strong>CA $ direct</strong> = donor → candidate-controlled committee.{" "}
+            <strong>IE supporting</strong> / <strong>IE opposing</strong> = donor → independent
+            expenditure PAC backing or attacking the candidate (separate entities, not collapsed
+            into the candidate).
+          </div>
         </div>
-      </div>
+      ) : (
+        <div className="border border-amber-700/50 bg-amber-950/30 p-4 text-sm text-amber-200">
+          <div className="font-semibold mb-1">📋 Cal-Access: {data.cal_access_status}</div>
+          <div className="text-amber-300/80">
+            Numbers below are <strong>federal money only</strong> until Cal-Access ingests. Run:{" "}
+            <code className="bg-amber-900/40 px-1">node scripts/cal-access-discover-committees.cjs</code>{" "}
+            then{" "}
+            <code className="bg-amber-900/40 px-1">node scripts/ingest-cal-access-bulk.cjs</code>.
+          </div>
+        </div>
+      )}
 
       {/* Sort controls */}
       <div className="flex gap-2 text-sm">
@@ -163,10 +184,11 @@ export default function CAGov2026Page() {
             <tr>
               <th className="text-left p-3">Candidate</th>
               <th className="text-left p-3">Status</th>
-              <th className="text-right p-3">Federal $ in</th>
-              <th className="text-right p-3">Connections</th>
-              <th className="text-right p-3">Body</th>
-              <th className="text-right p-3">Citations</th>
+              <th className="text-right p-3" title="FEC + IRS 990 + USASpending">Federal $</th>
+              <th className="text-right p-3" title="Donor → candidate-controlled CA committee receipts">CA $ direct</th>
+              <th className="text-right p-3" title="Donor → IE PAC supporting candidate">IE support</th>
+              <th className="text-right p-3" title="Donor → IE PAC opposing candidate">IE oppose</th>
+              <th className="text-right p-3">Conns</th>
               <th className="text-right p-3">Flags</th>
               <th className="text-left p-3">Last updated</th>
             </tr>
@@ -197,28 +219,23 @@ export default function CAGov2026Page() {
                     </div>
                   </td>
                   <td className="p-3 text-right font-mono">
-                    {c.resolved ? (
+                    {c.resolved && c.federal_money_in > 0 ? (
                       formatMoney(c.federal_money_in)
                     ) : (
-                      <span className="text-zinc-600" title="Candidate didn't resolve to a librarian node — usually means no federal campaign record">
-                        —
-                      </span>
+                      <span className="text-zinc-600">—</span>
                     )}
+                  </td>
+                  <td className="p-3 text-right font-mono text-blue-300">
+                    {c.ca_state_money_in > 0 ? formatMoney(c.ca_state_money_in) : <span className="text-zinc-600">—</span>}
+                  </td>
+                  <td className="p-3 text-right font-mono text-emerald-300">
+                    {c.ca_ie_supporting > 0 ? formatMoney(c.ca_ie_supporting) : <span className="text-zinc-600">—</span>}
+                  </td>
+                  <td className="p-3 text-right font-mono text-red-300">
+                    {c.ca_ie_opposing > 0 ? formatMoney(c.ca_ie_opposing) : <span className="text-zinc-600">—</span>}
                   </td>
                   <td className="p-3 text-right font-mono text-zinc-400">
                     {c.resolved ? c.total_connections : "—"}
-                  </td>
-                  <td className="p-3 text-right font-mono text-zinc-400">
-                    {(c.body_chars / 1000).toFixed(1)}K
-                  </td>
-                  <td className="p-3 text-right font-mono">
-                    {c.citation_count > 0 ? (
-                      <span className="text-green-400">{c.citation_count}</span>
-                    ) : (
-                      <span className="text-zinc-600" title="No markdown footnote citations. Auto-block sources from FEC pipeline likely present.">
-                        0
-                      </span>
-                    )}
                   </td>
                   <td className="p-3 text-right">
                     {flags === 0 ? (
@@ -256,11 +273,20 @@ export default function CAGov2026Page() {
             <strong className="text-red-400">{needsWork} draft</strong> — need editorial body work.
             Open them and write the Who They Are / Class Analysis sections.
           </li>
-          <li>
-            <strong>Cal-Access gap</strong> — federal money is a fraction of CA-Gov reality. The
-            actual race is funded through Cal-Access committees. Plan in{" "}
-            <code className="text-zinc-300">content/Admin Notes/cal-access-pipeline-plan.md</code>.
-          </li>
+          {data.cal_access_status.startsWith("ingested") ? (
+            <li>
+              <strong className="text-emerald-400">Cal-Access live</strong> — donor maps now
+              include CA state-level fundraising. Re-run{" "}
+              <code className="text-zinc-300">node scripts/ingest-cal-access-bulk.cjs</code> after
+              fresh dumps to refresh.
+            </li>
+          ) : (
+            <li>
+              <strong>Cal-Access gap</strong> — federal money is a fraction of CA-Gov reality. Plan
+              in{" "}
+              <code className="text-zinc-300">content/Admin Notes/cal-access-pipeline-plan.md</code>.
+            </li>
+          )}
         </ul>
       </div>
     </div>

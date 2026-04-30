@@ -1,48 +1,386 @@
 #!/usr/bin/env node
 /**
- * ingest-cal-access-bulk.cjs — PLACEHOLDER, not yet implemented.
+ * ingest-cal-access-bulk.cjs — Cal-Access bulk → vault.
  *
- * Spec:
- *   Read California Cal-Access bulk dump TSVs from data/bulk/california/
- *   and emit edges to data/derived/cal-access-receipts.jsonl (one edge
- *   per receipt: donor → committee → candidate, with amount + cycle +
- *   filing date). Mirrors the FEC bulk ingester pattern in
- *   scripts/ingest-fec-pas2-bulk.cjs.
+ * Reads the unzipped CA SoS Cal-Access bulk dump from
+ * `C:\donor-map-data\bulk\CalAccess\DATA` (override with
+ * CAL_ACCESS_BULK_DIR env var), aggregates donor → committee receipts,
+ * and emits canonical relationship edges for the 10 CA Governor 2026
+ * candidates per `data/cal-access-filer-overrides.json`.
  *
- * Why a placeholder lands today:
- *   The ops /races/ca-gov-2026 page references this script's eventual
- *   output. Having the file present (even as a no-op) makes the
- *   pipeline shape visible in the script catalog and prevents the
- *   /races page from looking like it's missing infrastructure.
+ * Output:
+ *   data/derived/cal-access-bulk.jsonl   — canonical edges (donor → committee/candidate)
+ *   data/cal-access-bulk-summary.json    — run stats
  *
- * Implementation plan:
- *   See content/Admin Notes/cal-access-pipeline-plan.md for the full
- *   build spec — table mappings, edge schema, alias handling for the
- *   committee-to-candidate join, edge-id collision strategy with the
- *   FEC bulk output.
+ * Edge model (option 2 from the plan note — IE committees are SEPARATE
+ * entities targeting the candidate):
  *
- * Effort estimate: ~1 full session (~$15-25 Opus). Owns the same
- * complexity surface as the FEC bulk ingester. Most of the lift is
- * the filer-to-candidate join (Cal-Access doesn't have a clean
- * "controlled committee" link the way FEC does — the committee type
- * code + the FILER_FILINGS_CD walk are how you get there).
+ *   role=controlled committee:
+ *     edge: donor → "<Candidate>"  type=monetary  source=cal-access-bulk
+ *
+ *   role=ie_supporting committee:
+ *     edge: donor → "<Committee Name>"  type=monetary
+ *     edge: "<Committee Name>" → "<Candidate>"  type=political-support
+ *
+ *   role=ie_opposing committee:
+ *     edge: donor → "<Committee Name>"  type=monetary
+ *     edge: "<Committee Name>" → "<Candidate>"  type=political-opposition
+ *
+ * Donor names are NOT vault-profile-existence-checked (cal-access-bulk
+ * is in MIGRATION_SOURCES). Aggregation key is donor + committee +
+ * cycle so multiple receipts collapse to one edge with summed amount.
+ *
+ * Usage:
+ *   node scripts/ingest-cal-access-bulk.cjs                 # full run
+ *   node scripts/ingest-cal-access-bulk.cjs --dry-run       # no writes
+ *   node scripts/ingest-cal-access-bulk.cjs --limit 100000  # cap RCPT rows scanned
+ *   node scripts/ingest-cal-access-bulk.cjs --verbose       # log progress
  */
 
 'use strict';
 
-const path = require('path');
 const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
 
-const BULK_DIR = path.resolve(__dirname, '..', 'data', 'bulk', 'california');
+const {
+  assertBulkDir,
+  streamTSV,
+  buildFilingToFiler,
+  buildFilerNames,
+  tablePath,
+  contributorName,
+  isoDate,
+  cycleFromDate,
+  BULK_DIR,
+} = require('./lib/cal-access-helpers.cjs');
 
-if (!fs.existsSync(BULK_DIR)) {
-  console.error('[ingest-cal-access-bulk] not implemented yet — see content/Admin Notes/cal-access-pipeline-plan.md');
-  console.error(`[ingest-cal-access-bulk] expected bulk dir: ${BULK_DIR} (does not exist)`);
-  process.exit(2);
+const { upsertEdges } = require('./lib/relationships-store.cjs');
+const { addOrFindSource } = require('./lib/sources-store.cjs');
+const { computeEdgeId } = require('./lib/relationship-edge-validator.cjs');
+
+const ROOT = path.join(__dirname, '..');
+const OVERRIDES_FILE = path.join(ROOT, 'data', 'cal-access-filer-overrides.json');
+const SUMMARY_FILE = path.join(ROOT, 'data', 'cal-access-bulk-summary.json');
+
+const args = process.argv.slice(2);
+const DRY_RUN = args.includes('--dry-run');
+const VERBOSE = args.includes('--verbose');
+const LIMIT_IDX = args.indexOf('--limit');
+const LIMIT = LIMIT_IDX >= 0 ? parseInt(args[LIMIT_IDX + 1], 10) : 0;
+
+function nowIso() { return new Date().toISOString(); }
+
+function normalizeDonorName(raw) {
+  if (!raw) return '';
+  // Title-case normalization for individual donors. Cal-Access stores
+  // most names in ALL CAPS. We don't want vault edges shouting.
+  const cleaned = String(raw).trim().replace(/\s+/g, ' ');
+  if (!/[A-Z]/.test(cleaned) || /[a-z]/.test(cleaned)) return cleaned;
+  return cleaned
+    .split(' ')
+    .map((w) => {
+      if (w.length <= 1) return w;
+      // Preserve likely acronyms (LLC, PAC, USA, INC) — all caps, ≤4 chars
+      if (w.length <= 4 && /^[A-Z]+$/.test(w)) return w;
+      return w[0] + w.slice(1).toLowerCase();
+    })
+    .join(' ');
 }
 
-const files = fs.readdirSync(BULK_DIR).filter((f) => /\.(tsv|dbf)$/i.test(f));
-console.error('[ingest-cal-access-bulk] not implemented yet — see content/Admin Notes/cal-access-pipeline-plan.md');
-console.error(`[ingest-cal-access-bulk] discovered ${files.length} bulk file(s) in ${BULK_DIR}:`);
-for (const f of files) console.error('  ' + f);
-process.exit(2);
+function loadOverrides() {
+  if (!fs.existsSync(OVERRIDES_FILE)) {
+    throw new Error(`Override map missing: ${OVERRIDES_FILE}\nRun: node scripts/cal-access-discover-committees.cjs`);
+  }
+  return JSON.parse(fs.readFileSync(OVERRIDES_FILE, 'utf-8'));
+}
+
+(async function main() {
+  console.log(`[ingest-cal-access-bulk] start  dry-run=${DRY_RUN}  limit=${LIMIT || 'none'}  bulk=${BULK_DIR}`);
+  assertBulkDir();
+
+  const t0 = Date.now();
+  const overrides = loadOverrides();
+
+  // Build: filer_id → { candidate_vault_title, role, committee_name }
+  const filerToTarget = new Map();
+  for (const [candName, c] of Object.entries(overrides.candidates)) {
+    for (const role of ['controlled', 'ie_supporting', 'ie_opposing']) {
+      for (const rec of (c[role] || [])) {
+        filerToTarget.set(String(rec.filer_id), {
+          candidate: candName,
+          role,
+          committee_name: rec.name,
+          filer_id: rec.filer_id,
+        });
+      }
+    }
+  }
+  console.log(`[ingest-cal-access-bulk] override map: ${filerToTarget.size} filer IDs across ${Object.keys(overrides.candidates).length} candidates`);
+  if (filerToTarget.size === 0) {
+    throw new Error('Override map is empty. Re-run cal-access-discover-committees.cjs first.');
+  }
+
+  // ── Pass 1: filing → filer
+  console.log('[ingest-cal-access-bulk] Pass 1: building filing→filer map from FILER_FILINGS_CD...');
+  const p1t0 = Date.now();
+  const { map: filingToFiler, rowsScanned: ffRows } = await buildFilingToFiler();
+  console.log(`  ${ffRows} rows scanned, ${filingToFiler.size} filings mapped (${((Date.now() - p1t0) / 1000).toFixed(1)}s)`);
+
+  // ── Pass 2: filer name lookup (for fallback display + sanity)
+  console.log('[ingest-cal-access-bulk] Pass 2: loading FILERNAME_CD...');
+  const p2t0 = Date.now();
+  const filerNames = await buildFilerNames();
+  console.log(`  ${filerNames.size} filer names loaded (${((Date.now() - p2t0) / 1000).toFixed(1)}s)`);
+
+  // ── Pass 3: stream RCPT_CD, classify, aggregate
+  console.log('[ingest-cal-access-bulk] Pass 3: streaming RCPT_CD...');
+  const p3t0 = Date.now();
+
+  // Aggregation key: donor|committee|cycle|role
+  // Each entry: { donor, committee_name, candidate, role, filer_id, total_amount, txn_count, first_date, last_date }
+  const agg = new Map();
+
+  let rcptRows = 0;
+  let matched = 0;
+  let unmatched = 0;
+  let droppedNoDonor = 0;
+  let droppedNoAmount = 0;
+
+  for await (const row of streamTSV(tablePath('RCPT_CD'), { limit: LIMIT || Infinity })) {
+    rcptRows++;
+    if (rcptRows % 1000000 === 0) {
+      const rate = (rcptRows / ((Date.now() - p3t0) / 1000)).toFixed(0);
+      process.stdout.write(`  ${rcptRows} rows  matched=${matched}  ${rate}/s\r`);
+    }
+
+    const filingId = row.FILING_ID;
+    if (!filingId) continue;
+    const recipientFilerId = filingToFiler.get(filingId);
+    if (!recipientFilerId) continue;
+
+    const target = filerToTarget.get(recipientFilerId);
+    if (!target) { unmatched++; continue; }
+
+    matched++;
+
+    // Donor name
+    const donorRaw = contributorName(row);
+    if (!donorRaw) { droppedNoDonor++; continue; }
+    const donor = normalizeDonorName(donorRaw);
+
+    // Amount
+    const amount = parseFloat(row.AMOUNT || '0');
+    if (!amount || amount <= 0) { droppedNoAmount++; continue; }
+
+    // Cycle from date
+    const dateIso = isoDate(row.RCPT_DATE);
+    const cycle = cycleFromDate(dateIso);
+    if (!cycle) continue;
+
+    // Aggregation
+    // For controlled committees: edge target = candidate name
+    // For IE committees: edge target = committee name (separate entity)
+    const edgeTarget = target.role === 'controlled' ? target.candidate : target.committee_name;
+    const aggKey = `${donor}|${edgeTarget}|${cycle}`;
+
+    let entry = agg.get(aggKey);
+    if (!entry) {
+      entry = {
+        donor,
+        edge_target: edgeTarget,
+        candidate: target.candidate,
+        role: target.role,
+        filer_id: target.filer_id,
+        committee_name: target.committee_name,
+        cycle,
+        total_amount: 0,
+        txn_count: 0,
+        first_date: dateIso,
+        last_date: dateIso,
+        donor_city: row.CTRIB_CITY || '',
+        donor_st: row.CTRIB_ST || '',
+        donor_emp: row.CTRIB_EMP || '',
+        donor_occ: row.CTRIB_OCC || '',
+        sample_tran_id: row.TRAN_ID || '',
+      };
+      agg.set(aggKey, entry);
+    }
+    entry.total_amount += amount;
+    entry.txn_count += 1;
+    if (dateIso && (!entry.first_date || dateIso < entry.first_date)) entry.first_date = dateIso;
+    if (dateIso && (!entry.last_date || dateIso > entry.last_date)) entry.last_date = dateIso;
+  }
+
+  const p3secs = ((Date.now() - p3t0) / 1000).toFixed(1);
+  console.log(`\n  ${rcptRows} RCPT rows scanned in ${p3secs}s`);
+  console.log(`  matched=${matched}  unmatched=${unmatched}  dropped_no_donor=${droppedNoDonor}  dropped_no_amount=${droppedNoAmount}`);
+  console.log(`  aggregated to ${agg.size} unique (donor, target, cycle) edges`);
+
+  // ── Build edges
+  console.log('[ingest-cal-access-bulk] Building edges...');
+  const edges = [];
+  const ieToCandidate = new Map(); // committee_name → { candidate, role } for political-support/oppose edges
+
+  for (const entry of agg.values()) {
+    const donorEdge = {
+      from: entry.donor,
+      to: entry.edge_target,
+      from_type: 'donor',
+      to_type: entry.role === 'controlled' ? 'politician' : 'donor',
+      type: 'monetary',
+      direction: 'directed',
+      confidence: 0.95,
+      source: 'cal-access-bulk',
+      source_url: `https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=${entry.filer_id}`,
+      amount: Math.round(entry.total_amount * 100) / 100,
+      cycle: String(entry.cycle),
+      role: 'direct',
+      first_seen: entry.first_date || nowIso().slice(0, 10),
+      last_verified: nowIso(),
+      status: 'active',
+      evidence: [
+        `Cal-Access RCPT_CD: ${entry.txn_count} receipt(s) totaling $${entry.total_amount.toFixed(2)} from "${entry.donor}" to filer ${entry.filer_id} (${entry.committee_name}) in ${entry.cycle}`,
+      ],
+    };
+    donorEdge.id = computeEdgeId(donorEdge);
+    edges.push(donorEdge);
+
+    // For IE committees, also build the committee→candidate edge
+    if (entry.role !== 'controlled') {
+      const key = `${entry.edge_target}||${entry.candidate}||${entry.role}`;
+      if (!ieToCandidate.has(key)) {
+        ieToCandidate.set(key, {
+          committee: entry.edge_target,
+          candidate: entry.candidate,
+          role: entry.role,
+          filer_id: entry.filer_id,
+          first_seen: entry.first_date,
+        });
+      }
+    }
+  }
+
+  for (const ie of ieToCandidate.values()) {
+    const edge = {
+      from: ie.committee,
+      to: ie.candidate,
+      from_type: 'donor',
+      to_type: 'politician',
+      type: ie.role === 'ie_opposing' ? 'political-opposition' : 'political-support',
+      direction: 'directed',
+      confidence: 0.95,
+      source: 'cal-access-bulk',
+      source_url: `https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=${ie.filer_id}`,
+      first_seen: ie.first_seen || nowIso().slice(0, 10),
+      last_verified: nowIso(),
+      status: 'active',
+      evidence: [
+        `Cal-Access committee ${ie.filer_id} (${ie.committee}) classified as ${ie.role.replace('_', '-')} for ${ie.candidate} per FILER_TO_FILER_TYPE_CD sub_category=40102`,
+      ],
+    };
+    edge.id = computeEdgeId(edge);
+    edges.push(edge);
+  }
+
+  console.log(`[ingest-cal-access-bulk] Built ${edges.length} edges (${edges.length - ieToCandidate.size} monetary + ${ieToCandidate.size} support/oppose)`);
+
+  // ── Top spot-check before writes
+  if (VERBOSE || DRY_RUN) {
+    console.log('\n[ingest-cal-access-bulk] Top 10 by candidate, by donor amount:');
+    const byCandidate = new Map();
+    const targetByName = new Map(); // committee name OR candidate name → candidate
+    for (const [candName, c] of Object.entries(overrides.candidates)) {
+      targetByName.set(candName, candName);
+      for (const role of ['controlled', 'ie_supporting', 'ie_opposing']) {
+        for (const r of (c[role] || [])) targetByName.set(r.name, candName);
+      }
+    }
+    for (const e of edges) {
+      if (e.type !== 'monetary') continue;
+      const cand = targetByName.get(e.to) || '?';
+      if (!byCandidate.has(cand)) byCandidate.set(cand, []);
+      byCandidate.get(cand).push(e);
+    }
+    for (const [cand, list] of byCandidate.entries()) {
+      list.sort((a, b) => b.amount - a.amount);
+      const top = list.slice(0, 3);
+      console.log(`  ${cand}: ${list.length} edges, top:`);
+      for (const e of top) console.log(`    $${e.amount.toFixed(0).padStart(10)}  ${e.from} → ${e.to} (${e.cycle})`);
+    }
+  }
+
+  // ── Source registration
+  if (!DRY_RUN) {
+    console.log('[ingest-cal-access-bulk] Registering source...');
+    const src = addOrFindSource({
+      url: 'https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip',
+      title: 'California Cal-Access Bulk Campaign-Finance Export',
+      tier: 1,
+      source_type: 'government_primary',
+      domain: 'sos.ca.gov',
+      publisher: 'California Secretary of State',
+      first_seen: nowIso(),
+      status: 'live',
+      notes: 'Daily bulk dump of every campaign-finance filing reported under Cal-Access. RCPT_CD + EXPN_CD + filer registry tables. Ingested by scripts/ingest-cal-access-bulk.cjs.',
+    });
+    console.log(`  source: ${src.id}`);
+  }
+
+  // ── Edge upsert via canonical store
+  if (!DRY_RUN) {
+    console.log('[ingest-cal-access-bulk] Upserting edges via relationships-store...');
+    const result = upsertEdges(edges);
+    console.log(`  added=${result.added}  updated=${result.updated}  skipped=${result.skipped}  invalid=${result.invalid}  total=${result.total}`);
+    if (result.errors.length > 0) {
+      console.log('\n  First validation errors:');
+      for (const e of result.errors.slice(0, 5)) console.log(`    ${e.id || '?'}  ${e.from} → ${e.to}: ${e.error}`);
+    }
+  } else {
+    console.log('[ingest-cal-access-bulk] DRY RUN — skipping source + edge writes.');
+  }
+
+  // ── Summary
+  const summary = {
+    run_at: nowIso(),
+    dry_run: DRY_RUN,
+    limit: LIMIT || null,
+    bulk_dir: BULK_DIR,
+    rcpt_rows_scanned: rcptRows,
+    rcpt_rows_matched: matched,
+    rcpt_rows_unmatched: unmatched,
+    aggregated_edges: agg.size,
+    monetary_edges: edges.length - ieToCandidate.size,
+    political_edges: ieToCandidate.size,
+    elapsed_seconds: Math.round((Date.now() - t0) / 1000),
+    candidates: Object.fromEntries(
+      Object.keys(overrides.candidates).map((cand) => {
+        const candEdges = edges.filter((e) => {
+          if (e.type === 'monetary') {
+            const target = e.to;
+            // Matches if target is candidate OR target is one of their IE committees
+            if (target === cand) return true;
+            const candData = overrides.candidates[cand];
+            for (const role of ['ie_supporting', 'ie_opposing']) {
+              if ((candData[role] || []).some((r) => r.name === target)) return true;
+            }
+          }
+          return false;
+        });
+        const total = candEdges.reduce((s, e) => s + (e.amount || 0), 0);
+        return [cand, {
+          edge_count: candEdges.length,
+          total_dollars: Math.round(total * 100) / 100,
+        }];
+      })
+    ),
+  };
+
+  if (!DRY_RUN) fs.writeFileSync(SUMMARY_FILE, JSON.stringify(summary, null, 2));
+  console.log('\n[ingest-cal-access-bulk] DONE');
+  console.log(JSON.stringify(summary.candidates, null, 2));
+})().catch((err) => {
+  console.error(`[fatal] ${err.message}`);
+  console.error(err.stack);
+  process.exit(1);
+});

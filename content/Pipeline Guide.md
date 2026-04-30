@@ -85,6 +85,74 @@ Reference for the 3 active external-API pipelines + the STOCK Act scraper. Plus 
 **Known incidents:**
 - Special-character filenames break Windows git checkout (single-quote, em-dash, unicode). Engine repo handles normalization but occasional bad filenames slip through — flagged to David when encountered.
 
+### 5. Cal-Access (California campaign finance, bulk TSV)
+
+**Purpose:** California state-level campaign finance — donor → CA committee receipts and IE-PAC support/opposition. Without this, CA gubernatorial candidates appear to have only their federal money (FEC), which is a fraction of their actual fundraising. Steyer's $1B 2020 federal Pres run is in FEC; his current CA-Gov self-funding is in Cal-Access.
+
+**Identity:** `scripts/ingest-cal-access-bulk.cjs` + `scripts/cal-access-discover-committees.cjs` + `scripts/lib/cal-access-helpers.cjs`. Manual run only (the dump is ~9.4GB unzipped — David downloads on cadence; no scheduled hit).
+
+**Source:** https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip — single bulk archive, ~500MB zipped, daily refresh by CA Secretary of State.
+
+**Auth:** none.
+
+**Tables consumed:**
+- `RCPT_CD.TSV` — receipts (~19M rows / 3.6GB). The big one.
+- `FILER_FILINGS_CD.TSV` — filing → filer join (filings carry FILING_ID; recipient filer is one hop away, ~2.8M rows / 370MB).
+- `FILERNAME_CD.TSV` — filer name registry (~1.3M rows / 178MB).
+- `FILER_TO_FILER_TYPE_CD.TSV` — committee classification (CTL / IE / PAC).
+
+**Identifiers:**
+- `FILER_ID` (e.g. `1485077`) — opaque CA SoS committee/filer ID.
+- Empirically observed taxonomy codes:
+  - `CATEGORY=40002` = candidate-controlled committee (CTL)
+  - `SUB_CATEGORY=40102` = independent expenditure / supporting committee
+  - `SUB_CATEGORY=40101` = ballot measure committee
+  - `SUB_CATEGORY=40103` = general-purpose PAC / sponsored committee
+  - `CATEGORY=0 + SUB=0` = individual donor / non-committee filer (rejected by ingester)
+
+**Canonical URL:** `https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=<FILER_ID>` for committee pages. Documentation: `https://www.sos.ca.gov/campaign-lobbying/cal-access-resources/raw-data-campaign-finance-and-lobbying-activity`. Codebook: `https://www.sos.ca.gov/sites/default/files/2024-04/calaccess-codebook.pdf` (not yet ingested into the cheatsheet — TODO).
+
+**Output:** edges write to `data/derived/cal-access-bulk.jsonl` via `relationships-store.upsertEdges()`. Source registers in `data/sources.jsonl` (`tier: 1, source_type: 'government_primary'`). Run summary in `data/cal-access-bulk-summary.json`. Override map for the candidate-to-filer-id join in `data/cal-access-filer-overrides.json`.
+
+**Edge model (option 2 — IE committees as separate entities):**
+- `controlled` committee receipts: edge donor → `<Candidate>` (collapsed to candidate identity)
+- `ie_supporting` / `ie_opposing` committee receipts: edge donor → `<Committee Name>` (separate entity), plus a single `political-support` / `political-opposition` edge from committee → candidate
+
+**Filer-to-candidate join:** Cal-Access has no clean "controlled committee" pointer. Discovery uses heuristic name matching (last name + first-name hints) over `FILERNAME_CD`, plus committee-context keywords (GOVERNOR, MAYOR, OFFICEHOLDER, etc.). Common surnames flagged `strict: true` to require first-name match (Yee, Porter, Mahan, Hilton). Output written to the override map for human review before ingest.
+
+**Workflow:**
+```
+# Drop the unzipped DATA/ directory at C:/donor-map-data/bulk/CalAccess/DATA
+# (or set CAL_ACCESS_BULK_DIR env var to elsewhere)
+node scripts/cal-access-discover-committees.cjs       # populate override map
+# eyeball data/cal-access-filer-overrides.json, remove false positives
+node --max-old-space-size=4096 scripts/ingest-cal-access-bulk.cjs --dry-run --verbose
+node --max-old-space-size=4096 scripts/ingest-cal-access-bulk.cjs   # for real
+```
+
+**Known quirks:**
+- TSV rows: tab-separated, NO quoting, NO escaping. Empty fields are consecutive tabs.
+- Names are stored ALL CAPS — ingester title-cases for display (preserves all-caps acronyms ≤4 chars like LLC/PAC).
+- The same FILER_ID appears multiple times in `FILERNAME_CD` under different xref aliases — ingester keeps first non-empty NAML.
+- Self-loops: when a wealthy candidate self-funds (Steyer 2026, Thurmond), donor name and recipient collapse to the same canonical name. The relationships-store validator rejects these as `self-loop: from === to`. Logged but not fatal — data is honest.
+- Committee-to-committee transfers: when a candidate has multiple cycles of committees (e.g. "Becerra for Attorney General 2018" → "Becerra for Governor 2026"), both collapse to the candidate's canonical name. The "from" stays as the originating committee name, "to" becomes the candidate, producing an apparent committee → candidate edge that's actually an internal transfer. Future fix: librarian-side alias merging via `duplicate-entity-merges` queue.
+- 19.3M RCPT rows scan in ~52s on Windows NVMe at 375k rows/s.
+- Override map needs human curation: discovery matches PORTER + KATIE, but also picks up MIA LIVAS PORTER (different person) when `strict: false` — review before ingest.
+
+**Quality signals:**
+- ≥1 controlled committee per candidate = the candidate is actively raising money in CA (covers the active race).
+- `ie_supporting` count > 0 = there's outside money for the candidate.
+- Aggregated edges rounded to cents (the underlying receipts are integer cents but Cal-Access stores them as decimals).
+- Donor → committee edges with `confidence: 0.95`, source: `cal-access-bulk`.
+
+**Known incidents (our vault):** None yet — first production run shipped 2026-04-29. Add here as anything surprising shows up.
+
+**Skipped:**
+- Frontmatter cache rebuild (`rebuild-relationship-caches.cjs`) was NOT run for cal-access edges. Reason: a full rebuild bloated Villaraigosa's profile frontmatter to 473KB (~24k unique donor wikilinks), and the `donors` field was never designed for that scale. The `/races/ca-gov-2026` ops page reads the canonical store via the librarian instead — no frontmatter dependency. If a future change wants per-donor wikilinks on the candidate profile, do it via auto-blocks in the body, not frontmatter.
+- Phase 3 of the pipeline plan (EXPN_CD expenditures) is deferred. Receipts only for now.
+
+---
+
 ### 4. STOCK Act Financial Disclosures (scraper)
 
 **Purpose:** Congressional stock trades (Periodic Transaction Reports).

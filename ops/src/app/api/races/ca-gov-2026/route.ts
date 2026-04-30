@@ -38,6 +38,12 @@ interface CandidateRow {
   federal_money_in: number
   monetary_edge_count: number
   total_connections: number
+  // Cal-Access (CA state filings) — controlled committee receipts
+  // direct to candidate + IE-PAC receipts targeting the candidate
+  ca_state_money_in: number
+  ca_state_donor_count: number
+  ca_ie_supporting: number
+  ca_ie_opposing: number
 }
 
 function findRepoRoot(): string {
@@ -97,6 +103,34 @@ function readCandidate(repoRoot: string, candidateName: string, file: string): C
     federal_money_in: 0,
     monetary_edge_count: 0,
     total_connections: 0,
+    ca_state_money_in: 0,
+    ca_state_donor_count: 0,
+    ca_ie_supporting: 0,
+    ca_ie_opposing: 0,
+  }
+}
+
+interface OverrideCommittee {
+  filer_id: string
+  name: string
+  role: string
+}
+interface OverrideCandidate {
+  controlled?: OverrideCommittee[]
+  ie_supporting?: OverrideCommittee[]
+  ie_opposing?: OverrideCommittee[]
+}
+interface OverrideFile {
+  candidates: Record<string, OverrideCandidate>
+}
+
+function loadCalAccessOverrides(repoRoot: string): OverrideFile | null {
+  const file = path.join(repoRoot, "data", "cal-access-filer-overrides.json")
+  if (!fs.existsSync(file)) return null
+  try {
+    return JSON.parse(fs.readFileSync(file, "utf-8")) as OverrideFile
+  } catch {
+    return null
   }
 }
 
@@ -137,6 +171,9 @@ export async function GET(req: NextRequest) {
     }
   }
 
+  const overrides = loadCalAccessOverrides(repoRoot)
+  let calAccessIngested = false
+
   // Layer in librarian totals where the candidate resolves.
   const graph = getGraph()
   if (graph) {
@@ -149,9 +186,45 @@ export async function GET(req: NextRequest) {
         })
         const allEdges = graph.neighbors(row.name)
         row.resolved = true
-        row.federal_money_in = moneyIn.total_amount
-        row.monetary_edge_count = moneyIn.edge_count
+        // Split federal vs Cal-Access by edge source. Cal-Access edges
+        // carry source='cal-access-bulk' from the bulk ingester.
+        const federalEdges = moneyIn.edges.filter((e) => e.source !== "cal-access-bulk")
+        const directCAEdges = moneyIn.edges.filter((e) => e.source === "cal-access-bulk")
+        row.federal_money_in = federalEdges.reduce((s, e) => s + (e.amount ?? 0), 0)
+        row.monetary_edge_count = federalEdges.length
         row.total_connections = allEdges.length
+        let directCATotal = directCAEdges.reduce((s, e) => s + (e.amount ?? 0), 0)
+        let directCACount = directCAEdges.length
+
+        // For IE committees: sum donor → committee edges (incoming to
+        // each known IE committee), surface as ca_ie_supporting / opposing.
+        // The librarian holds these as separate entities per option 2 in
+        // the pipeline plan note (committees are not collapsed into the
+        // candidate). Donor count includes IE-committee donors too.
+        const candData = overrides?.candidates[row.name]
+        if (candData) {
+          calAccessIngested = true
+          for (const role of ["ie_supporting", "ie_opposing"] as const) {
+            for (const committee of candData[role] ?? []) {
+              try {
+                const ieMoney = graph.aggregate(committee.name, {
+                  direction: "in",
+                  edge_types: ["monetary"],
+                })
+                const ieCAEdges = ieMoney.edges.filter((e) => e.source === "cal-access-bulk")
+                const ieTotal = ieCAEdges.reduce((s, e) => s + (e.amount ?? 0), 0)
+                if (role === "ie_supporting") row.ca_ie_supporting += ieTotal
+                else row.ca_ie_opposing += ieTotal
+                directCACount += ieCAEdges.length
+              } catch {
+                // committee name not resolvable — happens when a filer
+                // exists in the override map but has zero RCPT_CD activity.
+              }
+            }
+          }
+        }
+        row.ca_state_money_in = directCATotal
+        row.ca_state_donor_count = directCACount
         void node
       } catch {
         // Unresolvable — leave row as resolved=false. Common for state-
@@ -166,6 +239,8 @@ export async function GET(req: NextRequest) {
     race: "CA Governor 2026",
     candidate_count: rows.length,
     candidates: rows,
-    cal_access_status: "not yet ingested — see content/Admin Notes/cal-access-pipeline-plan.md",
+    cal_access_status: calAccessIngested
+      ? "ingested via scripts/ingest-cal-access-bulk.cjs — totals reflect Cal-Access RCPT_CD as of last run"
+      : "not yet ingested — run: node scripts/cal-access-discover-committees.cjs && node scripts/ingest-cal-access-bulk.cjs",
   })
 }
