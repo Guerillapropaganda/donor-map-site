@@ -35,6 +35,9 @@ committees:
 total-raised: $8.3M
 career-total-source: FEC weball summary (cycles 2026)
 top-donors: "[[HERN FOR CONGRESS]], [[Akin Gump Strauss Hauer & Feld]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[JASON SMITH FOR CONGRESS]], [[McDonalds Corporation]], [[NRA Political Victory Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[American College of Radiology Association PAC]], [[Amgen Inc]], [[AbbVie]], [[Tyson Foods]], [[National Restaurant Association]], [[Pfizer Inc.]], [[JOE WILSON FOR CONGRESS]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[National Cattlemen's Beef Association]], [[TEXANS FOR JODEY ARRINGTON]], [[William R. Timmons]], [[American Gaming Association]], [[Steve Scalise]], [[Southern Company]], [[Koch Industries]], [[Frank Lucas]], [[Occidental Petroleum]], [[Daniel Meuser]], [[Humana]], [[Steve Womack]], [[Darin Lahood]], [[Gilead Sciences]], [[VERN BUCHANAN FOR CONGRESS]], [[GARY PALMER FOR CONGRESS]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Association of Manufacturers]], [[Vern Buchanan]], [[Joe Wilson]], [[Gary J. Palmer]], [[Jason Smith]], [[Jodey Arrington]]"
+fec-committee-ids:
+  - C00636092
+  - C00943142
 ---
 
 

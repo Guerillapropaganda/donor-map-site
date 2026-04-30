@@ -33,6 +33,9 @@ committees:
   - Interior, Environment, and Related Agencies
   - Labor, Health and Human Services, Education, and Related Agencies
 top-donors: "[[AFL-CIO]], [[Monsanto - Bayer]], [[Darin Lahood]], [[National Education Association]], [[Leidos]], [[National Cattlemen's Beef Association]], [[Southern Company]], [[Mike Collins]], [[Koch Industries]], [[American Dream Federal Action]], [[Pfizer Inc.]], [[AbbVie]], [[Google - Alphabet]], [[Bechtel Corporation]], [[ROBERT ADERHOLT FOR CONGRESS]], [[NRA Political Victory Fund]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Defending Main Street Superpac INC]], [[Associated General Contractors of America Political Action Committee]], [[Williams Companies]], [[Steve Scalise]], [[AIPAC - American Israel Public Affairs Committee]], [[Roger Wicker]], [[Occidental Petroleum]], [[National Association of Manufacturers]], [[McDonalds Corporation]], [[Cargill]], [[American College of Radiology Association PAC]], [[Meta - Facebook]], [[BYRON DONALDS FOR CONGRESS]], [[National Association of Realtors]], [[CoreCivic]], [[National Wildlife Federation Action Fund]], [[National Restaurant Association]], [[John Thune]], [[Ray LaHood]], [[Ken Calvert]], [[John Boehner]], [[Clearpath Action Fund, Inc.]], [[Paul A. Gosar]], [[Amgen Inc]], [[ROGER WILLIAMS FOR U S CONGRESS COMMITTEE]], [[COLE FOR CONGRESS]], [[John R. Carter]], [[KAY GRANGER CAMPAIGN FUND]], [[Akin Gump Strauss Hauer & Feld]], [[Mike Crapo]], [[National Republican Senatorial Committee]], [[Tom Cole]], [[Kay Granger]], [[Roger Williams]], [[Byron Donalds]], [[Robert B. Aderholt]]"
+fec-committee-ids:
+  - C00376772
+  - C00331397
 ---
 
 

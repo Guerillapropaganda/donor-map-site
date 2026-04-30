@@ -3,6 +3,7 @@ title: "ADR-0029: Editorial Automation Tiers"
 type: adr
 status: accepted
 date: 2026-04-28
+last-amended: 2026-04-30
 relates-to: 0021, 0024, 0025, 0027
 amends: null
 ---
@@ -183,3 +184,88 @@ This is the editorial spot-check surface. Expected weekly cadence: 5-10 minutes 
 - ADR-0024 — Unified Graph Engine (foundation: librarian as canonical resolver)
 - ADR-0025 — Pipeline Janitor Mechanical-Demote Authority (precedent: tool granted scope-bounded write authority)
 - ADR-0027 — Frontmatter Cache Prune Mode (precedent: editor-in-the-loop review queue with canonical store)
+
+---
+
+## §10 — Amendments
+
+### Amendment 2026-04-30 — Vault enrichment Tier 1 expansion
+
+**Authorized by David in session cc_p3_209 ("I approve everything")** to enable autonomous clearance of mechanical findings without expanding into editorial judgment.
+
+**Five new auto-apply behaviors codified:**
+
+#### A. Provenance-state semantics fix (no new class — check correction)
+
+The `editorial-decision-provenance-check` formerly flagged any non-`candidate` state as a "decided" state requiring `decided_by`. The `data-complete-promotion` store uses `stuck` for "auto-detected, fails one gate" — semantically identical to `candidate`, just on a different path. Surfaced 556 false-positive findings (278 records × 2 fields).
+
+Resolution: extended `PRE_DECISION_STATES` exemption in `scripts/editorial-decision-provenance-check.cjs` to cover `stuck`. No data touched. **Cleared: 556 findings.**
+
+#### B. Cross-source role-disagreement dedup (relationships-store internal)
+
+When fec-bulk and fec-pas2 both emit a monetary edge for the same `(from, to, amount, cycle)` but with different roles (e.g. fec-bulk `ie-support` vs fec-pas2 `direct-contribution`), drop fec-bulk's edge at load time. fec-pas2 is the authoritative classifier per ADR-0013. The exact-flow predicate keeps it tight — flows only in fec-bulk are unaffected.
+
+Calibration: existing fec-bulk vs fec-pas2 source-priority is implicit per ADR-0013. The 3 known phantom cases (Jerrold Nadler, Paul Tonko, Josh Riley from cc_p3_207 audit) serve as fixtures. Verbose-mode logging (`RELATIONSHIPS_STORE_VERBOSE=1`) reports drop counts per process.
+
+**Cleared: 1,592 redundant fec-bulk edges dropped at load → 1,360 phantom-overcount warns gone from edge-consistency.**
+
+#### C. Frontmatter schema backfill from registries
+
+Tier 1 mechanical fill of frontmatter fields deterministically derivable from canonical registries (legislator-registry, fec-committee-registry) or from path. Fields covered:
+
+- `entity-type`, `chamber`, `party`, `parent` — from path / folder
+- `bioguide-id` — exact-name match against legislator-registry, ambiguous names skipped
+- `fec-committee-id`, `fec-committee-ids` — from fec-committee-registry vault_profile mapping
+
+Calibration: schema-driven (only fills schema-required fields per profile-type) plus `field in fm` declared-vs-undeclared check (prevents the JB-Pritzker class of duplicate-mapping-key bug where `parent: null` was overwritten with a duplicate value).
+
+Format-preserving inject — appends new fields as single lines; doesn't round-trip through yaml.dump (which would re-quote, re-wrap, reorder every key). `scripts/backfill-frontmatter-from-registries.cjs`.
+
+**Cleared: 868 fields filled across 866 profiles** (510 single-committee, 353 multi-committee, 2 bioguide, 2 entity-type, 1 parent).
+
+#### D. Story-candidate dedup by evidence-count
+
+Among non-published / non-archived story candidates sharing `(detector_type, subject, counterparty)`, keep the survivor with highest evidence-count (parsed from headline; e.g. "Coinbase funds 17 Agriculture/HELP committee members" → 17). Tie-break by most recent `first_seen` (fresh signal preserves). Archive others with `editorial_notes: superseded-by:{survivor.id}`. `scripts/dedup-story-candidates.cjs`.
+
+**Cleared: 14 stories archived → story-pages-integrity duplicates 24 → 0.**
+
+#### E. Pathless-stub-aliases promoted from Tier 2 → Tier 1
+
+The original ADR-0029 listed "pathless-stub aliases on 1:1 FEC committee mapping" as a Tier 1 class, but `classes/pathless-stub-aliases.cjs` registered it as Tier 2 only. Closing the gap.
+
+Predicate: `rec.state === 'candidate'` AND `rec.name` has an exact `fec_name` match in `data/fec-committee-registry.json` AND that committee maps to a `vault_profile` AND the resolved entity exists. Collisions where two committees share fec_name with different vault_profiles excluded.
+
+`auto_apply_target` returns the canonical entity_id; `apply_decision` falls back to `approved_merge_target` when `canonical_entity_id` not pre-set (Tier 2 path unchanged).
+
+Calibration coverage (Rule 16): Mike Carey (new direct-coverage fixture, `bucket: pathless-stub-merge-target`), AOC, Catherine Cortez Masto, Mark Kelly, Pfizer Inc. (reused from librarian-gap-aliases — protect entity-merge blast radius).
+
+**First fire: CAREY FOR CONGRESS auto-merged into Mike Carey. Future fires automatic via dispatcher.**
+
+### Three small parameter calls (David approved 2026-04-30)
+
+- **Provenance backfill label:** moot — the resolution (B above) was a check-semantics fix, no records carry the label.
+- **Story dedup tie-breaker:** most-recent `first_seen` wins on equal evidence_count (fresh signal preserves).
+- **A+ auto-block-runner scope:** scope-corrected — A+ findings are missing-FIELD findings, not missing-BLOCK findings. Mechanical subset (~30-50) already covered by C. The remaining 1,250 are editorial-judgment (central-thesis, story-grade, source-floor, legal-review).
+
+### Additional non-Tier-1 work landed same session
+
+These didn't expand Tier 1 but are part of the same enrichment push:
+
+- **Cosponsor edges via BILLSTATUS bulk** — 468,644 cosponsor edges (politicians 117-119) added to `data/derived/govinfo-bill-status.jsonl`. File grew 46MB → 346MB; re-added to .gitignore. Graph went from 326k → ~795k visible edges (+144%). `scripts/derive-cosponsor-edges-from-billstatus.cjs`.
+- **Topic-page-as-donor cleanup** — 128 monetary edges where one endpoint matched the article-subtitle pattern (`/\s+-\s+(The|A|An)\s+\w+/`) deprecated. Articles can't give/receive money; deterministic predicate. `scripts/deprecate-monetary-edges-with-topic-endpoints.cjs`.
+- **Sync-entities-from-profiles scheduled in dispatcher** — daily 4:30 AM. Catches the Volodymyr Zelenskyy / Laphonza Butler class of gap (profile in vault, no entity record) before reconciliation warns drift upward.
+
+### Net impact summary
+
+| Category | Before | After | Delta |
+|---|---|---|---|
+| editorial-decision-provenance findings | 556 | 0 | -556 |
+| edge-consistency phantom-overcount warns | 1,376 | 16 | -1,360 |
+| story-pages-integrity duplicates | 24 | 0 | -24 |
+| pathless-stub-entities | 13 | 12 | -1 (Tier 1 first fire) |
+| Schema-backfill registry truth landed in frontmatter | — | 868 fields | +868 |
+| Cosponsor edges in librarian | 0 | 468,644 | +468,644 |
+| Topic-page-as-donor edges (now deprecated) | 128 active | 0 active | -128 |
+| Total harness findings | 3,061 | ~1,100 | **-1,961** |
+
+Calibration fixture coverage extended: Mike Carey added to `data/calibration-fixture.jsonl`. All Tier 1 classes registered with valid coverage per Rule 16.

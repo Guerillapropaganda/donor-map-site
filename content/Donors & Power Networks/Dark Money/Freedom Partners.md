@@ -36,6 +36,7 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 politicians-funded: "[[Marco Rubio]], [[Todd Young]]"
 opposes: "[[Catherine Cortez Masto]]"
+fec-committee-id: C90016692
 ---
 
 

@@ -33,6 +33,10 @@ committees:
   - House Committee on Ways and Means
   - Joint Committee on Taxation
   - Trade
+fec-committee-ids:
+  - C00412759
+  - C00466466
+  - C00570952
 ---
 
 

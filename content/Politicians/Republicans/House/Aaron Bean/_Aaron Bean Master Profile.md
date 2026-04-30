@@ -35,6 +35,9 @@ committees:
   - Work and Welfare
 total-raised: $4.4M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-ids:
+  - C00816983
+  - C00818872
 ---
 
 

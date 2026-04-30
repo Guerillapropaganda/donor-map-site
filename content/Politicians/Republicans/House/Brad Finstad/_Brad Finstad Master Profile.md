@@ -42,6 +42,7 @@ committees:
   - Tactical Air and Land Forces
 total-raised: $4.8M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-id: C00807743
 ---
 
 

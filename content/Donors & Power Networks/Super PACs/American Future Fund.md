@@ -23,6 +23,9 @@ urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 total-political-spend: $200K
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2020
+fec-committee-ids:
+  - C30001028
+  - C90011677
 ---
 
 

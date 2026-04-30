@@ -35,6 +35,7 @@ committees:
   - Housing and Insurance
 total-raised: $7.0M
 career-total-source: FEC weball summary (cycles 2018, 2022, 2024, 2026)
+fec-committee-id: C00637215
 ---
 
 

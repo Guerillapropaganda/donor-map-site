@@ -45,6 +45,9 @@ committees:
   - Telecommunications and Media
 total-raised: $31.2M
 career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00459255
+  - C00687343
 ---
 
 

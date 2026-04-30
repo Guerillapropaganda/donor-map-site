@@ -33,6 +33,11 @@ known-gaps:
 last-enriched: 2026-04-21T00:00:00.000Z
 total-political-spend: $182K
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010, 2014, 2020, 2024
+fec-committee-ids:
+  - C00637512
+  - C90017302
+  - C00254540
+  - C00891549
 ---
 
 

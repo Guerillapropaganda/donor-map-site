@@ -63,6 +63,18 @@ urls-first-triaged: "2026-04-15"
 total-raised: $48.7M
 career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022)
 bills-sponsored: 739
+fec-committee-ids:
+  - C00458844
+  - C00620518
+  - C00487975
+  - C00519736
+  - C00494617
+  - C00671925
+  - C00625764
+  - C00485763
+  - C00488890
+  - C00484832
+  - C00476648
 ---
 
 #marco-rubio #secretary-of-state #florida #sugar-industry #defense-contractors #class-analysis #follow-the-money #cuba #venezuela #fanjul #gang-of-eight #immigration-flip #hawkish #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #little-marco

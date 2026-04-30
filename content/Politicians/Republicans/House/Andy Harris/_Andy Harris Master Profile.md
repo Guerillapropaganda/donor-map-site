@@ -32,6 +32,9 @@ committees:
   - Agriculture, Rural Development, Food and Drug Administration, and Related Agencies
   - House Committee on Appropriations
   - Labor, Health and Human Services, Education, and Related Agencies
+fec-committee-ids:
+  - C00435974
+  - C00545624
 ---
 
 

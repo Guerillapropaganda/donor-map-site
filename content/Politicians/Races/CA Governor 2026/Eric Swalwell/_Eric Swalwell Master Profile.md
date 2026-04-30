@@ -29,6 +29,9 @@ internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-ids:
+  - C00502294
+  - C00701698
 ---
 
 

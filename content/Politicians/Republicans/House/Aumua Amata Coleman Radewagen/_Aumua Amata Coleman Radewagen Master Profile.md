@@ -38,6 +38,10 @@ committees:
   - Oversight and Investigations
   - Water, Wildlife and Fisheries
 top-donors: "[[Mike Johnson]], [[Steve Scalise]], [[Kevin McCarthy]], [[Brett Guthrie]], [[CLIFF BENTZ FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[Jim Jordan]], [[Jason Smith]], [[Cliff Bentz]]"
+fec-committee-ids:
+  - C00296939
+  - C00362012
+  - C00393041
 ---
 
 

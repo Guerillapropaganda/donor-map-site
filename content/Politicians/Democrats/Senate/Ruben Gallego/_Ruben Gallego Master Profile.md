@@ -44,6 +44,7 @@ committees:
   - Water and Power
 total-raised: $68.5M
 career-total-source: FEC weball summary (cycles 2024, 2026)
+fec-committee-id: C00558627
 ---
 
 

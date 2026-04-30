@@ -36,6 +36,7 @@ total-raised: 112291
 total-spent: 44599
 cash-on-hand: 120504
 individual-contributions: 11079
+fec-committee-id: C00500025
 ---
 
 

@@ -16,6 +16,7 @@ source-types:
 urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21T00:00:00.000Z
 top-donors: "[[IBEW Educational Committee]]"
+fec-committee-id: C00430306
 ---
 
 

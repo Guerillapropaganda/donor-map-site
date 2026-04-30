@@ -28,6 +28,7 @@ checklist-na:
 total-raised: 1195754
 total-spent: 1070345
 cash-on-hand: 1038057
+fec-committee-id: C00495861
 ---
 
 

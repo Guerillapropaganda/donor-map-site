@@ -39,6 +39,7 @@ committees:
   - Research and Technology
 total-raised: $5.7M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-id: C00720078
 ---
 
 

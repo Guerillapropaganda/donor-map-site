@@ -35,6 +35,10 @@ committees:
   - House Committee on Education and Workforce
   - House Committee on Energy and Commerce
   - Oversight and Investigations
+fec-committee-ids:
+  - C00504019
+  - C00506790
+  - C00481101
 ---
 
 

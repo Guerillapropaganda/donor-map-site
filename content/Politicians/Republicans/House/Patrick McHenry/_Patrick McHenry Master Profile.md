@@ -43,6 +43,7 @@ donors: "[[Club for Growth INC PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION 
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Finance and Financial Sector
+fec-committee-id: C00393629
 ---
 
 

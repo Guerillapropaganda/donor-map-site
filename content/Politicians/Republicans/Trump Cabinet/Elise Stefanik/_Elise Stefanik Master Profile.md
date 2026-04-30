@@ -34,6 +34,10 @@ source-types:
 known-gaps:
   - No FEC contribution data
   - No voting record data
+fec-committee-ids:
+  - C00547893
+  - C00573469
+  - C00558361
 ---
 
 

@@ -41,6 +41,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-ids:
+  - C00735985
+  - C00702530
 ---
 
 

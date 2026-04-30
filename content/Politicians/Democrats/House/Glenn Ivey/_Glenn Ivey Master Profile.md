@@ -35,6 +35,9 @@ committees:
   - House Committee on Ethics
 total-raised: $1.8M
 career-total-source: FEC weball summary (cycles 2012, 2016, 2026)
+fec-committee-ids:
+  - C00505065
+  - C00792283
 ---
 
 

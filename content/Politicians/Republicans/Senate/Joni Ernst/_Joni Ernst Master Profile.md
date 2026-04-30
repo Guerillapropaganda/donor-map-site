@@ -36,6 +36,14 @@ fec-candidate-id: "S4IA00129"
 bills-enacted: 3
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-20
+fec-committee-ids:
+  - C00546788
+  - C00705822
+  - C00614198
+  - C00566984
+  - C00571927
+  - C00610428
+  - C00568634
 ---
 
 

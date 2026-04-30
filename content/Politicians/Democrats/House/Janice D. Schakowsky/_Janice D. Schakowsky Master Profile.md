@@ -32,6 +32,7 @@ committees:
   - Environment
   - House Committee on Energy and Commerce
 top-donors: "[[National Committee to Preserve Social Security & Medicare PAC]], [[National Nurses United]], [[National Education Association]], [[American College of Radiology Association PAC]], [[J Street]], [[Planned Parenthood Action Fund INC]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Rosa DeLauro]], [[AFL-CIO]], [[Let America Vote PAC]], [[Google - Alphabet]], [[Sierra Club Political Committee]], [[CVS Health - Aetna]], [[Demand Justice]], [[League of Conservation Voters]], [[MEDICARE FOR ALL]], [[Bradley Scott Schneider]]"
+fec-committee-id: C00327023
 ---
 
 

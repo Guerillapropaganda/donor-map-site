@@ -32,6 +32,9 @@ committees:
   - Communications and Technology
   - Health
   - House Committee on Energy and Commerce
+fec-committee-ids:
+  - C00539866
+  - C00904300
 ---
 
 

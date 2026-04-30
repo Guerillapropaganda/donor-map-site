@@ -36,6 +36,9 @@ committees:
   - Immigration Integrity, Security, and Enforcement
   - Livestock, Dairy, and Poultry
   - Oversight
+fec-committee-ids:
+  - C00639096
+  - C00720375
 ---
 
 

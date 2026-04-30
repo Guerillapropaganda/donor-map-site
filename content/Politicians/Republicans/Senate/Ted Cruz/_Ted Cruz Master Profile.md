@@ -52,6 +52,13 @@ donors: "[[Rebekah Mercer]] · [[Kelcy Warren]] · [[SAVE OUR COUNTRY]] · [[Cry
 bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
+fec-committee-ids:
+  - C00492785
+  - C00574624
+  - C00676676
+  - C00542423
+  - C00625913
+  - C00689471
 ---
 
 

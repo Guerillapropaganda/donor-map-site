@@ -35,6 +35,7 @@ corroboration-count: 2
 known-gaps:
   - "No lobbying disclosure data"
 last-enriched: 2026-04-21
+fec-committee-id: C00495028
 ---
 
 

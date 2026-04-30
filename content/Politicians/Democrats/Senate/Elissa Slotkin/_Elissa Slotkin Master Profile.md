@@ -47,6 +47,9 @@ committees:
   - Senate Committee on Veterans' Affairs
 total-raised: $56.3M
 career-total-source: FEC weball summary (cycles 2024, 2026)
+fec-committee-ids:
+  - C00650150
+  - C00834218
 ---
 
 

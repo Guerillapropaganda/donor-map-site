@@ -44,6 +44,12 @@ committees:
   - Water, Wildlife and Fisheries
 total-raised: $8.7M
 career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00387134
+  - C00481911
+  - C00390120
+  - C00255620
+  - C00488874
 ---
 
 

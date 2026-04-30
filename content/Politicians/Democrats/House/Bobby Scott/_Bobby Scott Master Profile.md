@@ -58,6 +58,9 @@ corroboration-count: 2
 known-gaps:
   - No FEC contribution data
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00256925
+  - C00609024
 ---
 
 

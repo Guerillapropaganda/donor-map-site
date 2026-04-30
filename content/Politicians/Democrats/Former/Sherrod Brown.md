@@ -52,6 +52,12 @@ bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
 opposes: "[[Fairshake PAC]], [[Donald Trump]]"
+fec-committee-ids:
+  - C00916288
+  - C00578609
+  - C00496240
+  - C00555342
+  - C00492769
 ---
 
 

@@ -33,6 +33,12 @@ politicians-funded: "[[_Adriano Espaillat Master Profile]], [[_Jimmy Gomez Maste
 source-types:
   - FEC
 opposes: "[[George W. Bush]]"
+fec-committee-ids:
+  - C00161786
+  - C00161810
+  - C00167130
+  - C00211763
+  - C00384479
 ---
 
 

@@ -36,6 +36,10 @@ committees:
   - National Security, Illicit Finance, and International Financial Institutions
 total-raised: $8.3M
 career-total-source: FEC weball summary (cycles 1992, 1996, 1998, 2000, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00307256
+  - C00408161
+  - C00497321
 ---
 
 

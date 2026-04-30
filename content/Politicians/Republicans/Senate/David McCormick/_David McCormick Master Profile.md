@@ -44,6 +44,11 @@ top-donors: "[[Campaign for Working Families]], [[John Cornyn]], [[DR. BRIAN BAB
 internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-ids:
+  - C00493601
+  - C00851980
+  - C00800623
+  - C00829515
 ---
 
 

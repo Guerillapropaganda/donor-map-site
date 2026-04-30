@@ -39,6 +39,10 @@ known-gaps:
 last-enriched: 2026-04-21T00:00:00.000Z
 total-raised: $34.7M
 career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024)
+fec-committee-ids:
+  - C00390476
+  - C00543199
+  - C00527549
 ---
 
 

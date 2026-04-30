@@ -32,6 +32,7 @@ committees:
   - Energy
   - House Committee on Energy and Commerce
 top-donors: "[[Giffords PAC]], [[Marc A. Veasey]], [[TED LIEU FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Nucor Corporation]], [[Meta - Facebook]], [[Emily's List]], [[Sierra Club Political Committee]], [[Humana]], [[AbbVie]], [[James E. Clyburn]], [[NANCY PELOSI FOR CONGRESS]], [[GRACE FOR NEW YORK]], [[National Education Association]], [[J Street]], [[Amgen Inc]], [[Pfizer Inc.]], [[Williams Companies]], [[Terri A. Sewell]], [[Let America Vote PAC]], [[CVS Health - Aetna]], [[Leidos]], [[Eric Swalwell]], [[Environment America INC]], [[American College of Radiology Association PAC]], [[Southern Company]], [[Yvette D. Clarke]], [[ROBERT GARCIA FOR CONGRESS]], [[JOE NEGUSE FOR CONGRESS]], [[STRICKLAND FOR WASHINGTON]], [[EMILIA SYKES FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[League of Conservation Voters]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Robin L. Kelly]], [[VIRGIN ISLANDS FOR PLASKETT]], [[JASMINE FOR US]], [[Hakeem Jeffries]], [[Grace Meng]], [[Marilyn Strickland]], [[Ted Lieu]], [[Joe Neguse]], [[Nancy Pelosi]], [[Stacey E. Plaskett]], [[Robert Garcia]], [[Jasmine Crockett]], [[Emilia Strong Sykes]], [[Bonnie Watson Coleman]]"
+fec-committee-id: C00829812
 ---
 
 

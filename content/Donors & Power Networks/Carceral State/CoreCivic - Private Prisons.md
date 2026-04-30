@@ -32,6 +32,7 @@ cash-on-hand: 35761
 individual-contributions: 167062
 contributions-to-committees: 121000
 politicians-funded: "[[John Hoeven]], [[Derek Schmidt]], [[Roger Wicker]], [[Michael Guest]], [[Cindy Hyde-Smith]], [[John Boozman]], [[John Thune]], [[Thom Tillis]], [[Harold Rogers]], [[Jerry Moran]], [[Ryan Zinke]], [[Henry Cuellar]], [[Pete Ricketts]], [[Kyrsten Sinema]], [[Katie Britt]], [[Tim Scott]], [[David Kustoff]], [[Tracey Mann]], [[Roger Marshall]], [[Diana Harshbarger]], [[Dan Sullivan]], [[Steve Daines]], [[Bill Hagerty]], [[Shelley Moore Capito]], [[Kevin McCarthy]], [[Marsha Blackburn]], [[Michael Whatley]], [[Todd Young]], [[Tom Cole]], [[Tim Burchett]], [[Mike Carey]], [[Mark Green]], [[Markwayne Mullin]]"
+fec-committee-id: C00366468
 ---
 
 

@@ -44,6 +44,12 @@ committees:
   - Oversight and Intelligence
   - Research and Technology
   - The Administrative State, Regulatory Reform, and Antitrust
+fec-committee-ids:
+  - C00450320
+  - C00721332
+  - C00327007
+  - C00350520
+  - C00493528
 ---
 
 

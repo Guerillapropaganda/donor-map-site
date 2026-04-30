@@ -37,6 +37,7 @@ committees:
   - Oversight and Intelligence
 total-raised: $7.9M
 career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
+fec-committee-id: C00670844
 ---
 
 

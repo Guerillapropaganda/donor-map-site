@@ -35,6 +35,9 @@ committees:
   - House Committee on Homeland Security
   - Oversight and Investigations
   - Oversight, Investigations, and Accountability
+fec-committee-ids:
+  - C00396028
+  - C00578567
 ---
 
 

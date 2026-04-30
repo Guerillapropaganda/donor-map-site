@@ -39,6 +39,7 @@ reenrich-reason: run voting pipeline; re-run congress pipeline
 total-received: $1,134,454
 editorial-notes: "Strong draft promoted to ready 2026-04-10. Central thesis, AIPAC survival analysis, FEC auto-block populated, class analysis added. Core gaps: committee assignments, bill counts, GovTrack. FEC ID H2PA18200 may reflect old district , flag for David to verify. Candidate for verified promotion once committee/bill data added via pipeline."
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • Congress.gov data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-id: C00791780
 ---
 
 

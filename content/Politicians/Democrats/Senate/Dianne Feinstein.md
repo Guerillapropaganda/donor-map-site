@@ -36,6 +36,12 @@ donors: "[[One Nation United]] · [[COPS VOTER GUIDE INC.]] · [[DELIVERING FOR 
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Crime and Law Enforcement
+fec-committee-ids:
+  - C00315176
+  - C00279646
+  - C00539890
+  - C00501379
+  - C00427963
 ---
 
 

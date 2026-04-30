@@ -38,6 +38,7 @@ committees:
   - Military Construction, Veterans Affairs, and Related Agencies
 total-raised: $4.2M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-id: C00742247
 ---
 
 

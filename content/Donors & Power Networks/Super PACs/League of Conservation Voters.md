@@ -98,6 +98,12 @@ employee-contributions: 314
 employee-contributions-total: 142359
 employee-donor-count: 69
 opposes: "[[Linda McMahon]]"
+fec-committee-ids:
+  - C00252940
+  - C00486845
+  - C30000103
+  - C70004262
+  - C90005786
 ---
 
 

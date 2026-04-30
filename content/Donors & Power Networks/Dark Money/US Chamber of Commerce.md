@@ -80,6 +80,10 @@ checklist-na:
 employee-contributions: 399
 employee-contributions-total: 171474
 employee-donor-count: 151
+fec-committee-ids:
+  - C30001101
+  - C70004395
+  - C90013145
 ---
 
 

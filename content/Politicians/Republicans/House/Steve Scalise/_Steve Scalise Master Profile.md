@@ -33,6 +33,10 @@ born: "1965-10-06"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
 top-policy-area: International Affairs
+fec-committee-ids:
+  - C00394957
+  - C00342790
+  - C00568162
 ---
 
 

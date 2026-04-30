@@ -30,6 +30,15 @@ wikipedia-url: https://en.wikipedia.org/wiki/George_W._Bush
 wikipedia-extract: George Walker Bush is an American politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009.
 born: "1946-07-06"
 internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-ids:
+  - C00386987
+  - C00388579
+  - C00404343
+  - C00402115
+  - C00356360
+  - C00346932
+  - C00400176
+  - C00360503
 ---
 
 

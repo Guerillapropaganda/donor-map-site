@@ -35,6 +35,7 @@ committees:
   - House Committee on Armed Services
   - Readiness
   - Strategic Forces
+fec-committee-id: C00789404
 ---
 
 

@@ -35,6 +35,7 @@ committees:
   - House Committee on Appropriations
 total-raised: $20.3M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-id: C00806174
 ---
 
 

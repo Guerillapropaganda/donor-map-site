@@ -32,6 +32,11 @@ committees:
   - Health
   - House Committee on Ways and Means
   - Tax
+fec-committee-ids:
+  - C00474189
+  - C00936864
+  - C00290478
+  - C00300350
 ---
 
 

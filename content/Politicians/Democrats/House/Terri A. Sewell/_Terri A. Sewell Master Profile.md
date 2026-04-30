@@ -36,6 +36,7 @@ committees:
   - Social Security
   - Trade
 top-donors: "[[National Education Association]], [[American Iron and Steel Institute]], [[Associated General Contractors of America Political Action Committee]], [[Steny H. Hoyer]], [[DIANA DEGETTE FOR CONGRESS]], [[Meta - Facebook]], [[James E. Clyburn]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Williams Companies]], [[Amgen Inc]], [[Humana]], [[National Committee to Preserve Social Security & Medicare PAC]], [[Pfizer Inc.]], [[Giffords PAC]], [[American College of Radiology Association PAC]], [[Planned Parenthood Action Fund INC]], [[Nucor Corporation]], [[Richard Neal]], [[Akin Gump Strauss Hauer & Feld]], [[Cargill]], [[Koch Industries]], [[Gilead Sciences]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[AIPAC - American Israel Public Affairs Committee]], [[Performance Racing Inc.]], [[National Association of Manufacturers]], [[Airbnb]], [[AbbVie]], [[Leidos]], [[Marcy Kaptur]], [[Occidental Petroleum]], [[Emily's List]], [[McDonalds Corporation]], [[AFL-CIO]], [[Tyson Foods]], [[National Restaurant Association]], [[Robin L. Kelly]], [[Ted Lieu]], [[Diana Degette]], [[Jerrold Nadler]]"
+fec-committee-id: C00458976
 ---
 
 

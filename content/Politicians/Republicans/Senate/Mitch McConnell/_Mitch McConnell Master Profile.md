@@ -46,6 +46,15 @@ related: >-
 bills-enacted: 0
 top-policy-area: "Congress"
 last-enriched: 2026-04-20
+fec-committee-ids:
+  - C00193342
+  - C00705806
+  - C00548651
+  - C00430702
+  - C00651364
+  - C00536409
+  - C00535161
+  - C00652081
 ---
 
 

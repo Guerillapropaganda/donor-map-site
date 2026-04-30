@@ -42,6 +42,7 @@ source-types:
   - FEC
   - LDA
 corroboration-count: 3
+fec-committee-id: C30001689
 ---
 
 

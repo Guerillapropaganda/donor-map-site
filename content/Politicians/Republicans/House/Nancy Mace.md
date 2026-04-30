@@ -29,6 +29,10 @@ donors: "[[South Carolina Patriots PAC]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-20T00:00:00.000Z
+fec-committee-ids:
+  - C00710103
+  - C00712521
+  - C00702878
 ---
 
 

@@ -41,6 +41,10 @@ committees:
   - Strategic Forces
 total-raised: $21.8M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00742007
+  - C00702951
+  - C00775940
 ---
 
 

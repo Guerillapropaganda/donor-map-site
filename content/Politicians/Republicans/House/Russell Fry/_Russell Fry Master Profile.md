@@ -38,6 +38,7 @@ committees:
   - Immigration Integrity, Security, and Enforcement
 total-raised: $4.4M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-id: C00786657
 ---
 
 

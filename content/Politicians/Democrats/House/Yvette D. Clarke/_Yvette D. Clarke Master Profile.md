@@ -33,6 +33,9 @@ committees:
   - House Committee on Energy and Commerce
   - Oversight and Investigations
 top-donors: "[[Amgen Inc]], [[Nydia Velazquez]], [[Pfizer Inc.]], [[National Committee to Preserve Social Security & Medicare PAC]], [[NANCY PELOSI FOR CONGRESS]], [[Planned Parenthood Action Fund INC]], [[AbbVie]], [[National Education Association]], [[J Street]], [[Sierra Club Political Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[McDonalds Corporation]], [[AFL-CIO]], [[Google - Alphabet]], [[CVS Health - Aetna]], [[League of Conservation Voters]], [[Jerry Nadler]], [[Southern Company]], [[Williams Companies]], [[Hakeem Jeffries]], [[Meta - Facebook]], [[American College of Radiology Association PAC]], [[Voter Protection Project]], [[PAUL TONKO FOR CONGRESS]], [[Marc A. Veasey]], [[Richard Neal]], [[Henry Cuellar]], [[Gilead Sciences]], [[MEDICARE FOR ALL]], [[Xavier Becerra]], [[LOFGREN FOR CONGRESS]], [[TED LIEU FOR CONGRESS]], [[BONNIE WATSON COLEMAN FOR CONGRESS]], [[James E. Clyburn]], [[Akin Gump Strauss Hauer & Feld]], [[BARBARA LEE FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[Frank Pallone]], [[Let America Vote PAC]], [[Donald S. Beyer]], [[Sinclair Broadcast Group]], [[KATHERINE CLARK FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[MARCIA FUDGE FOR CONGRESS]], [[Tyson Foods]], [[National Nurses United]], [[DoorDash]], [[Marcia Fudge]], [[Barbara Lee]], [[Judy Chu]], [[Zoe Lofgren]], [[Nancy Pelosi]], [[Ted Lieu]], [[Katherine M. Clark]], [[Bonnie Watson Coleman]], [[Paul Tonko]]"
+fec-committee-ids:
+  - C00415331
+  - C00398941
 ---
 
 

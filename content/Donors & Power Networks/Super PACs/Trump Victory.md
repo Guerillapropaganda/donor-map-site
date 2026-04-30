@@ -48,6 +48,15 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
 last-enriched: 2026-04-21
+fec-committee-ids:
+  - C00040220
+  - C00082925
+  - C00084954
+  - C00085506
+  - C00120055
+  - C00136457
+  - C00164418
+  - C00618389
 ---
 
 

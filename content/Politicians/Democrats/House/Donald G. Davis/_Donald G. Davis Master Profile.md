@@ -35,6 +35,10 @@ committees:
   - Livestock, Dairy, and Poultry
   - Readiness
   - Tactical Air and Land Forces
+fec-committee-ids:
+  - C00226027
+  - C00241562
+  - C00795211
 ---
 
 

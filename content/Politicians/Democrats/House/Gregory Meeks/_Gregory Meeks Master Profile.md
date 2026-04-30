@@ -41,6 +41,9 @@ bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21T00:00:00.000Z
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00329375
+  - C00430991
 ---
 
 

@@ -42,6 +42,10 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - No voting record data
+fec-committee-ids:
+  - C00571919
+  - C00703975
+  - C00694455
 ---
 
 

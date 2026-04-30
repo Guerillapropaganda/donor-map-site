@@ -24,6 +24,7 @@ spend-source: aggregated from canonical FEC/IRS edge stores across 2 store(s), c
 source-types:
   - FEC
 opposes: "[[Marjorie Taylor Greene]]"
+fec-committee-id: C00800250
 ---
 
 

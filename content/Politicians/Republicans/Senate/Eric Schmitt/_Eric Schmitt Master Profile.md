@@ -50,6 +50,9 @@ committees:
   - the Constitution
 total-raised: $11.3M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-ids:
+  - C00775015
+  - C00773184
 ---
 
 

@@ -41,6 +41,12 @@ committees:
   - Transportation and Infrastructure
   - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
 top-donors: "[[Tom Emmer]], [[Occidental Petroleum]], [[Pfizer Inc.]], [[Leidos]], [[Associated General Contractors of America Political Action Committee]], [[National Restaurant Association]], [[Meta - Facebook]], [[American Gaming Association]], [[Steve Scalise]], [[CVS Health - Aetna]], [[Humana]], [[NRA Political Victory Fund]], [[Amgen Inc]], [[Tzedek PAC]], [[Clearpath Action Fund, Inc.]], [[Dan Newhouse]], [[BYRON DONALDS FOR CONGRESS]], [[McDonalds Corporation]], [[Google - Alphabet]], [[National Association of Manufacturers]], [[Williams Companies]], [[National Cattlemen's Beef Association]], [[Nucor Corporation]], [[MCCAUL FOR CONGRESS, INC]], [[Darin Lahood]], [[AIPAC - American Israel Public Affairs Committee]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Gilead Sciences]], [[Progressive Turnout Project]], [[Koch Industries]], [[Common Sense for America PAC]], [[JASON SMITH FOR CONGRESS]], [[American College of Radiology Association PAC]], [[Blue Shield of California]], [[TEXANS FOR JODEY ARRINGTON]], [[Performance Racing Inc.]], [[Kevin McCarthy]], [[Defend American Jobs]], [[AbbVie]], [[Defending Main Street Superpac INC]], [[National Wildlife Federation Action Fund]], [[Edf Action Votes]], [[JOE WILSON FOR CONGRESS]], [[Sinclair Broadcast Group]], [[Southern Company]], [[Jodey Arrington]], [[Joe Wilson]], [[Jason Smith]], [[Byron Donalds]]"
+fec-committee-ids:
+  - C00647339
+  - C00317958
+  - C00850545
+  - C00647180
+  - C00654459
 ---
 
 

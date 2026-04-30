@@ -33,6 +33,7 @@ committees:
   - Health
   - House Committee on Energy and Commerce
 top-donors: "[[International Longshore and Warehouse Union -- Political Action Fund]], [[League of Conservation Voters]], [[Amgen Inc]], [[Airbnb]], [[Pfizer Inc.]], [[Blue Shield of California]], [[AbbVie]], [[Planned Parenthood Action Fund INC]], [[CASTRO FOR CONGRESS]], [[CVS Health - Aetna]], [[Hakeem Jeffries]], [[Leidos]], [[Google - Alphabet]], [[Sierra Club Political Committee]], [[Let America Vote PAC]], [[Meta - Facebook]], [[LOFGREN FOR CONGRESS]], [[STAND WITH SANCHEZ]], [[GALLEGO FOR ARIZONA]], [[Cargill]], [[Emily's List]], [[Marcy Kaptur]], [[American College of Radiology Association PAC]], [[Southern Company]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Jim McGovern]], [[TED LIEU FOR CONGRESS]], [[Gilead Sciences]], [[Tyson Foods]], [[Akin Gump Strauss Hauer & Feld]], [[Humana]], [[Eric Swalwell]], [[Richard Neal]], [[NANCY PELOSI FOR CONGRESS]], [[JUDY CHU FOR CONGRESS]], [[McDonalds Corporation]], [[AIPAC - American Israel Public Affairs Committee]], [[MEDICARE FOR ALL]], [[Joaquin Castro]], [[Steny H. Hoyer]], [[Linda T. Sanchez]], [[Judy Chu]], [[Jerrold Nadler]], [[Zoe Lofgren]], [[Ruben Gallego]], [[Ted Lieu]], [[Juan Vargas]], [[Nancy Pelosi]]"
+fec-committee-id: C00577353
 ---
 
 

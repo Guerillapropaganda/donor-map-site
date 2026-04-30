@@ -25,6 +25,7 @@ source-types:
 last-enriched: 2026-04-21
 total-political-spend: "$113K"
 spend-source: "aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2010"
+fec-committee-id: C90012113
 ---
 
 

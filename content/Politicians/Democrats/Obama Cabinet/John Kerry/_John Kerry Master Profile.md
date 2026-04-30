@@ -26,6 +26,15 @@ top-donors: "[[John Kerry]], [[AFL-CIO]], [[Meta - Facebook]], [[MIKE THOMPSON F
 internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fec-committee-ids:
+  - C00177147
+  - C00141994
+  - C00404160
+  - C00383653
+  - C00408088
+  - C00385070
+  - C00398198
+  - C00401596
 ---
 
 

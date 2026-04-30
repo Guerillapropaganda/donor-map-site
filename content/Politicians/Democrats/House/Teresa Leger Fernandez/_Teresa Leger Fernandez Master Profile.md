@@ -37,6 +37,7 @@ committees:
   - Legislative and Budget Process
 total-raised: $8.6M
 career-total-source: FEC weball summary (cycles 2020, 2022, 2024, 2026)
+fec-committee-id: C00704049
 ---
 
 

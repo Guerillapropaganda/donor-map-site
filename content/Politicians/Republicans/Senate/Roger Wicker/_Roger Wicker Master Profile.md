@@ -45,6 +45,16 @@ known-gaps:
   - No FEC contribution data
 total-raised: $27.4M
 career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00325399
+  - C00443218
+  - C00364380
+  - C00342485
+  - C00572099
+  - C00452003
+  - C00495390
+  - C00500850
+  - C00500934
 ---
 
 

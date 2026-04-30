@@ -19,6 +19,7 @@ reenrich-reason: "no fec-committee-id resolved for this profile — either resol
 total-political-spend: $65K
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 2018
 politicians-funded: "[[Gwen Moore]], [[Darren Soto]], [[Tammy Baldwin]]"
+fec-committee-id: C90017542
 ---
 
 

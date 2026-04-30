@@ -61,6 +61,9 @@ checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 cash-on-hand: 116
+fec-committee-ids:
+  - C00468447
+  - C90016262
 ---
 
 

@@ -36,6 +36,7 @@ politicians-funded: "[[_Ben Cline Master Profile]], [[Carlos Gimenez]], [[Laura 
 source-types:
   - FEC
 opposes: "[[Kyrsten Sinema]]"
+fec-committee-id: C00075820
 ---
 
 

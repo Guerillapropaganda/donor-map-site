@@ -55,6 +55,7 @@ employee-contributions: 289
 employee-contributions-total: 391911
 employee-donor-count: 93
 politicians-funded: "[[Drummond Co.]], [[Joe Manchin]], [[John Barrasso]], [[Tim Sheehy]], [[Deb Fischer]], [[Mario Diaz-Balart]], [[Brian Jack]], [[Shomari Figures]], [[NRCC - National Republican Congressional Committee]], [[Katie Britt]], [[WinRed]], [[MAGA Inc]], [[RNC - Republican National Committee]], [[Thom Tillis]], [[Lisa Murkowski]], [[Glenn Thompson]], [[_Michael Waltz Master Profile]], [[Steve Scalise]], [[Bernie Moreno]], [[Bill Hagerty]], [[NRSC - National Republican Senatorial Committee]], [[August Pfluger]], [[Steve Daines]], [[ActBlue]], [[Michael Lawler]], [[Save America PAC]], [[_Jim Jordan Master Profile]], [[Common Sense for America PAC]], [[Michael Waltz]], [[Jim Jordan]]"
+fec-committee-id: C00160630
 ---
 
 

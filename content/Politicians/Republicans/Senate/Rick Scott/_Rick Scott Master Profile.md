@@ -56,6 +56,9 @@ donors: "[[National Republican Senatorial Committee]] · [[AFGE - American Feder
 bills-enacted: 1
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
+fec-committee-ids:
+  - C00676965
+  - C00676957
 ---
 
 

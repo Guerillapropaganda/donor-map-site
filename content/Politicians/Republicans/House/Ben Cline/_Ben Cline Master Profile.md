@@ -39,6 +39,7 @@ committees:
   - House Permanent Select Committee on Intelligence
   - National Security Agency and Cyber
   - The Administrative State, Regulatory Reform, and Antitrust
+fec-committee-id: C00661561
 ---
 
 

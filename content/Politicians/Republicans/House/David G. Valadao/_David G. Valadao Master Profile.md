@@ -33,6 +33,10 @@ committees:
   - House Committee on Appropriations
   - Joint Committee of Congress on the Library
   - Legislative Branch
+fec-committee-ids:
+  - C00499392
+  - C00702449
+  - C00546028
 ---
 
 

@@ -31,6 +31,13 @@ committees:
   - Health
   - House Committee on Ways and Means
   - Work and Welfare
+fec-committee-ids:
+  - C00172619
+  - C00479691
+  - C00371443
+  - C00423723
+  - C00439455
+  - C00942615
 ---
 
 

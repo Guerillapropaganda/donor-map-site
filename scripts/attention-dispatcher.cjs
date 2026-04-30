@@ -351,6 +351,20 @@ const PRODUCERS = [
     args: ['--write'],
     timeout_ms: 180_000,
   },
+  // Entity sync: walk vault profile dirs, ensure every profile has a
+  // matching entities.jsonl record. Picks up newly-created profiles
+  // automatically so reconciliation entity-resolution warns don't drift
+  // upward. Catches the Volodymyr Zelenskyy / Laphonza Butler class of
+  // gap (profile in vault, no entity record). Light-touch — only adds,
+  // never modifies. Daily at 4:30 AM, after the build-panels runs land
+  // any new auto-blocks but before the next harness tick.
+  {
+    name: 'sync-entities-from-profiles',
+    schedule: '30 4 * * *',
+    script: 'scripts/sync-entities-from-profiles.cjs',
+    args: ['--apply'],
+    timeout_ms: 120_000,
+  },
   // Data-panel builder — synthesizing summary block per entity (entity type,
   // sector, NAICS, EIN, class tags if approved, total political spend, top
   // politicians funded). Idempotent + bounded by `<!-- auto:data-panel -->`

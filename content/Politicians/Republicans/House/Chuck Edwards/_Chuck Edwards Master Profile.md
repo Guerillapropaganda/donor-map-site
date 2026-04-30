@@ -36,6 +36,9 @@ committees:
   - National Security, Department of State, and Related Programs
 total-raised: $3.8M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-ids:
+  - C00796433
+  - C00306936
 ---
 
 

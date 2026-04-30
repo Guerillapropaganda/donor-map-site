@@ -38,6 +38,11 @@ bills-cosponsored: 3256
 bills-enacted: 4
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Native Americans
+fec-committee-ids:
+  - C00379735
+  - C00842757
+  - C00438267
+  - C00438481
 ---
 
 

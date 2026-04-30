@@ -36,6 +36,14 @@ committees:
   - Tax
 total-raised: $19.3M
 career-total-source: FEC weball summary (cycles 1994, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00440727
+  - C00287672
+  - C00451187
+  - C00492413
+  - C00773218
+  - C00540617
+  - C00558262
 ---
 
 

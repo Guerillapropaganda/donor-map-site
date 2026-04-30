@@ -35,6 +35,10 @@ committees:
   - Military and Foreign Affairs
   - Transportation and Maritime Security
 top-donors: "[[Campaign for Working Families]], [[Tim Walberg]], [[Mike Johnson]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Morgan Luttrell]], [[Women Speak Out Pac]], [[RON ESTES FOR CONGRESS]], [[JIM JORDAN FOR CONGRESS]], [[BURCHETT FOR CONGRESS]], [[Club for Growth INC PAC]], [[CLAUDIA TENNEY FOR CONGRESS]], [[JASON SMITH FOR CONGRESS]], [[HAGEMAN FOR WYOMING]], [[Protect Freedom Political Action Committee]], [[National Right to Life Victory Fund]], [[Ben Carson]], [[Guy Reschenthaler]], [[Club for Growth]], [[Madison Project Inc.]], [[National Cattlemen's Beef Association]], [[JAKE ELLZEY FOR CONGRESS]], [[Koch Industries]], [[National Victory Action Fund]], [[ADRIAN SMITH FOR CONGRESS]], [[DR. BRIAN BABIN FOR CONGRESS]], [[JOSH BRECHEEN FOR CONGRESS]], [[NRA Political Victory Fund]], [[VERN BUCHANAN FOR CONGRESS]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[Special Operations for America]], [[ANDY HARRIS FOR CONGRESS]], [[RALPH NORMAN FOR CONGRESS]], [[Tom Emmer]], [[Elise Stefanik]], [[Steve Scalise]], [[BYRON DONALDS FOR CONGRESS]], [[Chip Roy]], [[GLENN GROTHMAN FOR CONGRESS]], [[MIKE COLLINS FOR SENATE]], [[Clay Higgins]], [[American Dream Federal Action]], [[FRIENDS OF MATT GAETZ]], [[Adrian Smith]], [[Mike Collins]], [[Ron Estes]], [[Glenn Grothman]], [[Jim Jordan]], [[Brian Babin]], [[Tim Burchett]], [[Andy Harris]], [[Jake Ellzey]], [[Vern Buchanan]], [[Harriet M. Hageman]], [[Robert B. Aderholt]], [[Byron Donalds]], [[Josh Brecheen]], [[Ralph Norman]], [[Jason Smith]], [[Matt Gaetz]]"
+fec-committee-ids:
+  - C00784934
+  - C00773259
+  - C00775007
 ---
 
 

@@ -37,6 +37,10 @@ committees:
   - House Committee on Financial Services
   - Housing and Insurance
 top-donors: "[[John W. Rose]], [[NRA Political Victory Fund]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[Darin Lahood]], [[National Right to Life PAC]], [[TEXANS FOR JODEY ARRINGTON]], [[National Cattlemen's Beef Association]], [[Steve Scalise]], [[CoreCivic]], [[William R. Timmons]], [[Pfizer Inc.]], [[Frank Lucas]], [[National Right to Life Victory Fund]], [[Koch Industries]], [[AIPAC - American Israel Public Affairs Committee]], [[Anthem - Elevance Health Political Operation]], [[Kevin McCarthy]], [[AbbVie]], [[JOE WILSON FOR CONGRESS]], [[Jodey Arrington]], [[Joe Wilson]]"
+fec-committee-ids:
+  - C00844654
+  - C00329680
+  - C00652743
 ---
 
 

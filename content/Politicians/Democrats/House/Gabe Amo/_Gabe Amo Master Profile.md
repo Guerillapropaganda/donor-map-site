@@ -35,6 +35,7 @@ committees:
   - House Committee on Foreign Affairs
   - House Committee on Science, Space, and Technology
   - House Committee on the Budget
+fec-committee-id: C00838060
 ---
 
 

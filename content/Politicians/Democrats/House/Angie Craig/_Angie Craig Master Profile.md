@@ -35,6 +35,9 @@ top-policy-area: Health
 total-raised: $9.3M
 career-total-source: FEC weball summary (cycles 2026)
 opposes: "[[Donald Trump]]"
+fec-committee-ids:
+  - C00575209
+  - C00903690
 ---
 
 

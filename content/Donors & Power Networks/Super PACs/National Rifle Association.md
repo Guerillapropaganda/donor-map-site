@@ -83,6 +83,7 @@ cash-on-hand: 2363598
 independent-expenditures: 5375
 individual-contributions: 2916639
 contributions-to-committees: 581650
+fec-committee-id: C00053553
 ---
 
 

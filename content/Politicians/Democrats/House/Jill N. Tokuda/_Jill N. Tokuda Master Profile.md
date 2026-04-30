@@ -36,6 +36,7 @@ committees:
   - Nutrition and Foreign Agriculture
   - Readiness
 top-donors: "[[Demand Justice]], [[International Longshore and Warehouse Union -- Political Action Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[Hakeem Jeffries]], [[MEDICARE FOR ALL]], [[Giffords PAC]], [[League of Conservation Voters]], [[Mazie K. Hirono]], [[JUDY CHU FOR CONGRESS]], [[ADRIANO ESPAILLAT FOR CONGRESS]], [[National Education Association]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[J Street]], [[Leidos]], [[Planned Parenthood Action Fund INC]], [[CITIZENS TO ELECT RICK LARSEN]], [[Let America Vote PAC]], [[National Cattlemen's Beef Association]], [[PETE AGUILAR FOR CONGRESS]], [[Judy Chu]], [[Ted Lieu]], [[Rick Larsen]], [[Adriano Espaillat]], [[Pete Aguilar]], [[Nancy Pelosi]]"
+fec-committee-id: C00813758
 ---
 
 

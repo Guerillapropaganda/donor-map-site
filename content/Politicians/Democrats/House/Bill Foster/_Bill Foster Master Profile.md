@@ -34,6 +34,13 @@ committees:
   - House Committee on Financial Services
   - House Committee on Science, Space, and Technology
   - National Security, Illicit Finance, and International Financial Institutions
+fec-committee-ids:
+  - C00435099
+  - C00799841
+  - C00315101
+  - C00635623
+  - C00739995
+  - C00489609
 ---
 
 

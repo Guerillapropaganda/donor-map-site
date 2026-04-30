@@ -30,6 +30,9 @@ urls-first-triaged: "2026-04-15"
 total-raised: $101.5M
 career-total-source: FEC weball summary (cycles 2010, 2012, 2014)
 corroboration-count: 2
+fec-committee-ids:
+  - C00467100
+  - C00897033
 ---
 
 

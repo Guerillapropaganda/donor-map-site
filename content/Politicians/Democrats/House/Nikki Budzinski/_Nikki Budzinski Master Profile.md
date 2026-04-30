@@ -38,6 +38,7 @@ committees:
   - Technology Modernization
 total-raised: $10.7M
 career-total-source: FEC weball summary (cycles 2022, 2024, 2026)
+fec-committee-id: C00787812
 ---
 
 

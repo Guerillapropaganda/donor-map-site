@@ -36,6 +36,7 @@ committees:
   - Open Source Intelligence
   - Trade
 top-donors: "[[National Restaurant Association]], [[AbbVie]], [[Darin Lahood]], [[AIPAC - American Israel Public Affairs Committee]], [[Google - Alphabet]], [[Humana]], [[Koch Industries]], [[JIM JORDAN FOR CONGRESS]], [[With Honor Fund]], [[Family Research Council Action Political Action Committee]], [[TEXANS FOR JODEY ARRINGTON]], [[Associated General Contractors of America Political Action Committee]], [[Southern Company]], [[Madison Project Inc.]], [[Amgen Inc]], [[McDonalds Corporation]], [[American Gaming Association]], [[JOE WILSON FOR CONGRESS]], [[GEO Group - Private Prison Industrial Complex]], [[William R. Timmons]], [[NRA Political Victory Fund]], [[Steve Scalise]], [[American College of Radiology Association PAC]], [[Mike Haridopolos]], [[Pfizer Inc.]], [[Club for Growth INC PAC]], [[National Cattlemen's Beef Association]], [[BEN CLINE FOR CONGRESS, INC.]], [[Neal P. Dunn]], [[Williams Companies]], [[CVS Health - Aetna]], [[JASON SMITH FOR CONGRESS]], [[KAY GRANGER CAMPAIGN FUND]], [[American Principles Fund]], [[Campaign for Working Families]], [[Richard Hudson]], [[Bacardi - Bacardi USA]], [[Club for Growth]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Nucor Corporation]], [[BURCHETT FOR CONGRESS]], [[Tyson Foods]], [[ADRIAN SMITH FOR CONGRESS]], [[Jodey Arrington]], [[Kay Granger]], [[Jim Jordan]], [[Jason Smith]], [[Adrian Smith]], [[Tim Burchett]], [[Joe Wilson]]"
+fec-committee-id: C00671891
 ---
 
 

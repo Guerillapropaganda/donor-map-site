@@ -99,6 +99,7 @@ source-types:
   - LDA
   - SEC
 corroboration-count: 6
+fec-committee-id: C00028787
 ---
 
 

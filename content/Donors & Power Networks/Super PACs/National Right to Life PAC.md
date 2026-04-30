@@ -25,6 +25,7 @@ last-enriched: 2026-04-21T00:00:00.000Z
 source-types:
   - FEC
 opposes: "[[George W. Bush]]"
+fec-committee-id: C00111278
 ---
 
 

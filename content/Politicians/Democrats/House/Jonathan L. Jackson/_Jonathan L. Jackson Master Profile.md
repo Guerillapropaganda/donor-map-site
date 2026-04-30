@@ -34,6 +34,7 @@ committees:
   - House Committee on Foreign Affairs
   - Nutrition and Foreign Agriculture
   - Western Hemisphere
+fec-committee-id: C00802603
 ---
 
 

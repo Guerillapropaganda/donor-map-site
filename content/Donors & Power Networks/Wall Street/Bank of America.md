@@ -96,6 +96,9 @@ source-types:
 corroboration-count: 6
 known-gaps:
   - No lobbying disclosure data
+fec-committee-ids:
+  - C00043489
+  - C00364778
 ---
 
 

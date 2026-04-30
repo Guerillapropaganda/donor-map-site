@@ -65,6 +65,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 bills-enacted: 1
 bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
+fec-committee-ids:
+  - C00636571
+  - C00831107
 ---
 
 

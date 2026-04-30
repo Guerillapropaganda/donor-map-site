@@ -27,6 +27,7 @@ bills-cosponsored: 49
 bills-enacted: 0
 top-policy-area: Civil Rights and Liberties, Minority Issues
 last-enriched: 2026-04-21T00:00:00.000Z
+fec-committee-id: C00541888
 ---
 
 

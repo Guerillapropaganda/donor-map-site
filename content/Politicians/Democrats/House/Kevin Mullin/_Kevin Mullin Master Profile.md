@@ -39,6 +39,9 @@ committees:
   - Energy
   - House Committee on Energy and Commerce
   - Oversight and Investigations
+fec-committee-ids:
+  - C00795005
+  - C00867978
 ---
 
 

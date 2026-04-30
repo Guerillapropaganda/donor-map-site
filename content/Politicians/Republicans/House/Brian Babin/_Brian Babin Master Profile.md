@@ -38,6 +38,9 @@ top-donors: "[[Leidos]], [[American College of Radiology Association PAC]], [[Na
 last-enriched: 2026-04-21T00:00:00.000Z
 total-raised: $8.8M
 career-total-source: FEC weball summary (cycles 1996, 1998, 2000, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00553859
+  - C00304220
 ---
 
 

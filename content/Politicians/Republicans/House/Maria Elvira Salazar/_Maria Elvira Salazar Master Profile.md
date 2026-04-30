@@ -55,6 +55,11 @@ source-types:
   - Congress
 total-raised: $16.0M
 career-total-source: FEC weball summary (cycles 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00671859
+  - C00473413
+  - C00714261
+  - C00702548
 ---
 
 

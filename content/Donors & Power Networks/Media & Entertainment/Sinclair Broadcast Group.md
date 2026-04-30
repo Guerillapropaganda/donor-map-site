@@ -48,6 +48,9 @@ employee-contributions: 605
 employee-contributions-total: 374617
 employee-donor-count: 169
 politicians-funded: "[[Mariannette Miller-Meeks]], [[Todd Young]], [[NRCC - National Republican Congressional Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Sinclair Broadcast Group]], [[WinRed]], [[Kathy Castor]], [[NRSC - National Republican Senatorial Committee]], [[_Tim Scott Master Profile]], [[REPUBLICAN PARTY OF FLORIDA]], [[ActBlue]], [[Rudy Yakym]], [[RNC - Republican National Committee]], [[MAGA Inc]], [[Save America PAC]], [[Cathy McMorris Rodgers]], [[Richard Hudson]], [[Giffords PAC]], [[Catherine Cortez Masto]], [[Jacky Rosen]], [[Marsha Blackburn]], [[Deb Fischer]], [[Trump Victory]], [[_John James Master Profile]], [[_Jon Ossoff Master Profile]], [[Elbert Guillory's America]], [[Brett Guthrie]], [[Chris Coons]], [[John Thune]], [[John James]], [[Tim Scott]], [[Jon Ossoff]], [[Republican Party of Florida]], [[Paul Tonko]], [[Jerry Moran]], [[Steny H. Hoyer]], [[Robert E. Latta]], [[John Boozman]], [[Mark Warner]], [[Kevin Cramer]], [[Brian Schatz]], [[Markwayne Mullin]], [[Scott Perry]], [[Chuck Schumer]], [[Chris van Hollen]], [[Bennie Thompson]], [[George W. Bush]], [[Lindsey Graham]], [[Richard Blumenthal]], [[Dick Durbin]], [[Marc A. Veasey]], [[Marco Rubio]], [[Robin L. Kelly]], [[John Cornyn]], [[Chuck Grassley]], [[Joe Manchin]], [[John McCain]], [[Doris O. Matsui]], [[Gus M. Bilirakis]], [[Harry Reid]], [[Mitch McConnell]], [[Roger Wicker]], [[Yvette D. Clarke]], [[John R. Curtis]], [[Amy Klobuchar]]"
+fec-committee-ids:
+  - C00562660
+  - C00327361
 ---
 
 

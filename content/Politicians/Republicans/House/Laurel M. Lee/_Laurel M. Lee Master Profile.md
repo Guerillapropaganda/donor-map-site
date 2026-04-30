@@ -38,6 +38,9 @@ committees:
   - House Committee on House Administration
   - House Committee on the Judiciary
 top-donors: "[[ADRIAN SMITH FOR CONGRESS]], [[Humana]], [[GEO Group - Private Prison Industrial Complex]], [[JIM JORDAN FOR CONGRESS]], [[NEHLS FOR CONGRESS]], [[DANIEL WEBSTER FOR CONGRESS]], [[Tyson Foods]], [[NRA Political Victory Fund]], [[National Restaurant Association]], [[Pfizer Inc.]], [[Women Speak Out Pac]], [[AUSTIN SCOTT FOR CONGRESS INC]], [[RON ESTES FOR CONGRESS]], [[FRIENDS OF MATT GAETZ]], [[CRENSHAW, DANIEL]], [[AbbVie]], [[AUGUST PFLUGER FOR CONGRESS]], [[AIPAC - American Israel Public Affairs Committee]], [[BYRON DONALDS FOR CONGRESS]], [[Southern Company]], [[Kevin McCarthy]], [[CoreCivic]], [[JASON SMITH FOR CONGRESS]], [[ROBERT ADERHOLT FOR CONGRESS]], [[Amgen Inc]], [[Tom Emmer]], [[Koch Industries]], [[Leidos]], [[FISCHBACH FOR CONGRESS]], [[CVS Health - Aetna]], [[Carol D. Miller]], [[David P. Joyce]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[National Right to Life Victory Fund]], [[Gilead Sciences]], [[Meta - Facebook]], [[HAGEMAN FOR WYOMING]], [[Associated General Contractors of America Political Action Committee]], [[American Gaming Association]], [[Humane Society Legislative Fund]], [[Morgan Luttrell]], [[Steve Scalise]], [[Clay Higgins]], [[Guy Reschenthaler]], [[Google - Alphabet]], [[BEN CLINE FOR CONGRESS, INC.]]"
+fec-committee-ids:
+  - C00818880
+  - C00815373
 ---
 
 

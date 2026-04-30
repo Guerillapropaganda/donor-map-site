@@ -74,6 +74,9 @@ source-types:
   - Treasury
   - USASpending
 corroboration-count: 5
+fec-committee-ids:
+  - C00008474
+  - C00039305
 ---
 
 

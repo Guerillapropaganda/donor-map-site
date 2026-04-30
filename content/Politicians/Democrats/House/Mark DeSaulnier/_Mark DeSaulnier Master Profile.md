@@ -41,6 +41,9 @@ committees:
   - Water Resources and Environment
 total-raised: $4.7M
 career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00460162
+  - C00554709
 ---
 
 

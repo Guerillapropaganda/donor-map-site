@@ -38,6 +38,14 @@ source-types:
   - Congress
 known-gaps:
   - "No FEC contribution data"
+fec-committee-ids:
+  - C00461723
+  - C00656637
+  - C00753251
+  - C00762591
+  - C00823781
+  - C00828541
+  - C00732172
 ---
 
 

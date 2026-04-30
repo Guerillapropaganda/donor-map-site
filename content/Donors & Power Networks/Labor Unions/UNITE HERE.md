@@ -48,6 +48,9 @@ cash-on-hand: 156132
 employee-contributions: 20293
 employee-contributions-total: 546767
 employee-donor-count: 983
+fec-committee-ids:
+  - C00627372
+  - C70004114
 ---
 
 

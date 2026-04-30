@@ -40,6 +40,9 @@ committees:
   - Senate Committee on Small Business and Entrepreneurship
   - Senate Select Committee on Intelligence
   - Telecommunications and Media
+fec-committee-ids:
+  - C00614776
+  - C00772889
 ---
 
 

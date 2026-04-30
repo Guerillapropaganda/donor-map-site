@@ -31,6 +31,7 @@ total-spent: 73857
 employee-contributions: 535
 employee-contributions-total: 39301
 employee-donor-count: 100
+fec-committee-id: C70000104
 ---
 
 

@@ -39,6 +39,9 @@ committees:
   - Interior, Environment, and Related Agencies
 total-raised: $8.5M
 career-total-source: FEC weball summary (cycles 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
+fec-committee-ids:
+  - C00433391
+  - C00366393
 ---
 
 
