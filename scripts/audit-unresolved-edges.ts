@@ -22,7 +22,7 @@
  */
 import * as path from "node:path"
 import * as fs from "node:fs"
-import { Graph } from "../lib/donor-map/graph.ts"
+import { Graph } from "../lib/donor-map/graph"
 
 const t0 = Date.now()
 const g = Graph.load({ data_dir: path.resolve(process.cwd(), "data") })
