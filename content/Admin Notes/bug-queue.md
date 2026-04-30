@@ -35,6 +35,33 @@ Claude will normalize it on the next visit.
 *(no open bugs — all clear)*
 
 
+### bug-009: audit-thesis-data-vs-sources voteview rollcall parser uses bioguide where voteview keys by ICPSR
+- **reported:** 2026-04-30
+- **severity:** low
+- **where:** scripts/audit-thesis-data-vs-sources.cjs (Audit 3, currently deferred)
+- **what:** voteview.com rollcall pages render member positions in JSON keyed by ICPSR member ID, not bioguide. The original audit pass tried to bioguide-grep the rendered page; 10 fetches landed inconclusive. Audit 3 has been disabled in code; positions are validated transitively via Audit 2 (clerk.house.gov / senate.gov which use bioguide).
+- **next:** if positions audit becomes a priority, load HSall_members.csv (already in data/bulk/), build a bioguide → icpsr map at fetch time, then match against voteview's ICPSR-keyed JSON.
+- **linked fetch ids (ADR-0030 §9):** caf_8ee17df873fc, caf_b9050743d8eb, caf_ffc4ff4f14b6, caf_5431165d981e, caf_95a6de903dc0, caf_ea2ef1554f19, caf_28b5a8e10ec8, caf_c2022b100fc8, caf_1ad20be8ec03, caf_8770040fc21d
+
+### bug-010: audit-thesis-data-vs-sources Senate XML schema variance — older votes use unrecognized result tag pattern
+- **reported:** 2026-04-30
+- **severity:** low
+- **where:** scripts/audit-thesis-data-vs-sources.cjs Audit 2
+- **what:** 6 of 30 sampled senate.gov fetches returned XML with a result tag pattern the regex didn't recognize. The 4 most recent regex updates handle the modern shape (`<vote_result>` / `<vote_result_text>`). Older votes likely use a third schema variant. Spot-check confirmed clerk.house.gov + senate.gov are reachable (status=ok); the parser just didn't extract.
+- **next:** curl one of the affected XMLs, add a fourth fallback regex. Low priority — 80% of Audit 2 samples verified successfully.
+- **linked fetch ids (ADR-0030 §9):** caf_87f0e6026fc7, caf_775f0e867635, caf_e47b3e72e38f, caf_1eb4e5f1fe5d, caf_56e28e9a7928, caf_b19aafcde743
+
+### bug-008: votes.jsonl Senate `result` field overcaptured XML markup (RESOLVED)
+- **reported:** 2026-04-30
+- **resolved:** 2026-04-30 (fix-votes-jsonl-result-corruption.cjs, commit 809ddbdd7)
+- **severity:** high
+- **where:** data/votes.jsonl, all senate.gov-sourced records
+- **what:** 949 of 24,023 vote records (4.0%, all Senate) had corrupted `result` field where the regex captured XML markup beyond the canonical `<vote_result>` tag content. Pattern was always: `"{clean text} ({tally})</vote_result_text>...<vote_result>{clean text}"`. Surfaced by audit-thesis-data-vs-sources.cjs spot-checking against senate.gov source XML. The current ingest-congress-votes.cjs regex extracts cleanly when re-tested — corruption pre-dates the current code.
+- **fix:** scripts/fix-votes-jsonl-result-corruption.cjs runs three fallback strategies (last `<vote_result>` tail, then pre-paren prefix, then pre-tag prefix). 949 records repaired, 0 give-ups.
+- **linked fetch ids (ADR-0030 §9):** caf_248871872b70, caf_336def7b738c, caf_a0e91bd598a7
+- **verify:** spot-check `s465-117.1` — should read `"result": "Nomination Confirmed"` (was 350+ chars of XML garbage).
+
+
 ### bug-007: Pre-existing data corruption: 18 profiles have "content-readiness: ready" injected into central-thesis text where dollar amounts (e.g. , ) used to be
 <!-- auto-bug-key: 2b05384c308c -->
 <!-- auto-resolve-when: regex=^# (RESOLVED) source=content/Admin Notes/data-corruption-fix-2026-04-29.md -->

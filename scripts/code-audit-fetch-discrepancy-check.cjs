@@ -3,10 +3,19 @@
  * code-audit-fetch-discrepancy-check.cjs — harness check for ADR-0030 §9.
  *
  * Reads data/code-audit-fetches.jsonl. Surfaces any entry where:
- *   - status = blocked-by-cf | unreachable | session-cap-reached | parse-failed
- *     and the most recent result-update for that fetch is still 'inconclusive'
+ *   - status = ok AND the most recent result-update is still 'inconclusive'
+ *     (parser ran on real content but couldn't decide — caller likely
+ *     forgot to call recordResult or the parser silently failed)
  *   - result = discrepancy and the discrepancy isn't yet linked to a
  *     bug-queue entry or an editorial-decision-pipeline record
+ *
+ * 2026-04-30 amended: blocked-by-cf / unreachable / session-cap-reached
+ * / parse-failed are TERMINAL network failures — the verdict
+ * 'inconclusive' is faithful to what happened (couldn't verify because
+ * couldn't reach source). The check formerly flagged these as "stuck",
+ * which conflated network failures with parser-bug failures. The
+ * caller doesn't need to recordResult on a fetch that never returned
+ * usable bytes — there's nothing to verify against.
  *
  * Steady state expectation: 0 unaddressed.
  *
@@ -65,16 +74,20 @@ for (const f of fetches) {
   const finalResult = update ? update.result : f.result;
   const linkedToBug = bugContent.includes(f.id);
 
-  // Stuck-inconclusive: fetch attempted, never marked verified or
-  // discrepancy. Suggests caller forgot to call recordResult().
-  if (finalResult === 'inconclusive' && f.status !== 'ok') {
+  // Stuck-inconclusive: fetch returned usable content (status=ok) but
+  // the verdict was never updated past 'inconclusive'. Suggests parser
+  // bug or caller forgot recordResult. Network failures (blocked-by-cf
+  // etc.) are NOT flagged here — they're terminal by construction.
+  // Skip if the fetch_id is referenced in bug-queue.md — that's the
+  // documented escape hatch for known parser limitations awaiting fix.
+  if (finalResult === 'inconclusive' && f.status === 'ok' && !linkedToBug) {
     findings.push({
       kind: 'inconclusive-stuck',
       fetch_id: f.id,
       url: f.url,
       status: f.status,
       timestamp: f.timestamp,
-      detail: `Fetch attempt with status=${f.status}; never marked verified/discrepancy. Caller may have forgotten to call recordResult().`,
+      detail: `Fetch returned ok but verdict stuck at 'inconclusive' — parser likely failed silently. Inspect the calling script's response-extraction logic.`,
     });
     continue;
   }

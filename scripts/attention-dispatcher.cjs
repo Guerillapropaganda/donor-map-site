@@ -339,6 +339,18 @@ const PRODUCERS = [
     args: ['--write'],
     timeout_ms: 180_000,
   },
+  // Cal-Access state-level campaign finance auto-block. Per-candidate
+  // panel summarizing CA state filings (top donors, IE support/oppose,
+  // per-cycle totals). Reads data/derived/cal-access-bulk.jsonl. Same
+  // cadence pattern as the other build-*-panels jobs. Surfaced
+  // 2026-04-30 by harness-self-audit unscheduled-builder check.
+  {
+    name: 'build-cal-access-panels',
+    schedule: '5 4 * * *',
+    script: 'scripts/build-cal-access-panels.cjs',
+    args: ['--write'],
+    timeout_ms: 180_000,
+  },
   // Data-panel builder — synthesizing summary block per entity (entity type,
   // sector, NAICS, EIN, class tags if approved, total political spend, top
   // politicians funded). Idempotent + bounded by `<!-- auto:data-panel -->`

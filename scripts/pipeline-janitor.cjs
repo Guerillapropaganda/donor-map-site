@@ -189,6 +189,13 @@ const KNOWN_OPTIONAL_BLOCKS = new Set([
   'auto:irs-990',
   'auto:offshore-records',
   'auto:data-panel',
+  // Cal-Access state-level campaign finance auto-block. Emitted by
+  // build-cal-access-panels.cjs onto CA-Gov-2026 candidate profiles
+  // and any other politician with cal-access-bulk edges. Optional
+  // because most non-CA politicians don't have CA state-level activity;
+  // absence is the norm. Surfaced 2026-04-30 by harness-self-audit
+  // block-name-drift check.
+  'auto:cal-access',
 ]);
 
 // ─── Pipeline-status awareness ──────────────────────────────────

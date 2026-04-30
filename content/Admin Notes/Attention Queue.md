@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: urgent
 status: open
-last-updated: '2026-04-29'
+last-updated: '2026-04-30'
 generated-by: scripts/lib/attention-queue.cjs
 ---
 
@@ -12,7 +12,7 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**33** blocking · **53** editorial decisions · **1071** background cleanup
+**34** blocking · **53** editorial decisions · **1070** background cleanup
 
 ---
 
@@ -290,21 +290,30 @@ Ready profile contains 28 em dashes in body, avg sentence length 19 words (targe
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### vault-audit: editorial-decision-provenance — 556 findings
+### vault-audit: dispatcher-alive — 1 finding
 
-ADR-0029 Rule 16 enforcement. Verifies every editorial-decision record in non-candidate state has decided_by + decided_at provenance, and that auto_revert_eligible is consistent with decided_by. Without provenance the weekly sample-audit cant tell what Claude did vs David did, and the safety net degrades silently. Hard-fails: missing decided_by, invalid decided_by, missing decided_at, inconsistent
+Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window — Dispatcher log file does not exist. Daemon has never run on this machine. Install the Windows Startup shortcut or run scripts/attention-dispatcher.bat manually.
 
 - **Where:** `/system-health`
 - **Cost:** ~5 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `vault-audit`
 
-### vault-audit: harness-self-audit — 21 findings
+### vault-audit: calibration-drift — 1 finding
 
-Meta-audit: unscheduled builders, stalled producers, auto-block taxonomy drift between janitor and builders — 21 stalled-producer
+Semantic regression detector. Loads data/calibration-fixture.jsonl (curated top-N facts: 'Pfizer top-15 must include Clyburn, McCarthy, Hoyer') and verifies the current data/relationships-per-profile.json artifact still satisfies them. Fires within the dispatcher cycle when any fixture's must_include names drop out of the actual top-N. Catches the structural class of bug behind the 2026-04-28 casc
 
 - **Where:** `/system-health`
-- **Cost:** ~15 min
+- **Cost:** ~5 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `vault-audit`
+
+### vault-audit: editorial-decision-provenance — 556 findings
+
+ADR-0029 Rule 16 enforcement. Verifies every editorial-decision record in non-candidate state has decided_by + decided_at provenance, and that auto_revert_eligible is consistent with decided_by. Without provenance the weekly sample-audit cant tell what Claude did vs David did, and the safety net degrades silently. Hard-fails: missing decided_by, invalid decided_by, missing decided_at, inconsistent
+
+- **Where:** `/system-health`
+- **Cost:** ~5 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `vault-audit`
 
@@ -717,9 +726,9 @@ Nancy Pelosi shows up in the donor lists of 36 different Agriculture/HELP commit
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`
 
-### vault-audit: duplicate-entity-profiles — 11 findings
+### vault-audit: duplicate-entity-profiles — 36 findings
 
-Two distinct vault profiles representing the same non-politician entity — donor/corporation/think-tank duplicates that the librarian sees as ambiguous and refuses to resolve. Detected via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. Editorial cleanup needed. — 11 duplicate group(s) found. Editorial cleanup: pick canonical profile per group, archive the other(s).
+Two distinct vault profiles representing the same non-politician entity — donor/corporation/think-tank duplicates that the librarian sees as ambiguous and refuses to resolve. Detected via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. Editorial cleanup needed. — 36 duplicate group(s) found. Editorial cleanup: pick canonical profile per group, archive the other(s).
 
 - **Where:** `/system-health`
 - **Cost:** ~30 min
@@ -780,18 +789,18 @@ Marcia Fudge has sponsored 14 bills in the "Agriculture and Food" policy area. T
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `contradiction-miner`
 
-### vault-audit: reconciliation-framework-tier-1 — 1 finding
+### vault-audit: reconciliation-framework-tier-1 — 7 findings
 
-Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 1 error, 5687 warn (5688 findings total).
+Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 7 error, 6685 warn (6692 findings total).
 
 - **Where:** `/system-health`
 - **Cost:** ~45 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `vault-audit`
 
-### vault-audit: frontmatter-schema — 232 findings
+### vault-audit: frontmatter-schema — 213 findings
 
-Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2955 scanned, 1689 with violations. 232 error(s) (universal/type-required/id/retired/unknown-type), 3085 info (proposed-required backfill per ADR-0023 Phase C/D).
+Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2955 scanned, 1684 with violations. 213 error(s) (universal/type-required/id/retired/unknown-type), 3085 info (proposed-required backfill per ADR-0023 Phase C/D).
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min
@@ -9586,15 +9595,6 @@ Referenced by 88 other vault profiles but has no file yet. Building a stub unloc
 - **Leverage:** ★★★★★
 - **Surfaced by:** `missing-profile-detector`
 
-### vault-audit: leftover-artifacts — 30 findings
-
-Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — 30 transient file(s) not gitignored (dedup backups, temp files, stray logs)
-
-- **Where:** `/system-health`
-- **Cost:** ~5 min
-- **Leverage:** ★★☆☆☆
-- **Surfaced by:** `vault-audit`
-
 ### vault-audit: story-pages-integrity — 25 findings
 
 Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings. — 25 integrity issue(s): 0 broken-ref, 1 stale, 24 duplicate
@@ -9606,7 +9606,7 @@ Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale bot
 
 ### vault-audit: class-tag-staleness — 8 findings
 
-Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation. — 8 reconciled proposals need human eye (2 conflict + 6 augmentation), oldest 13d. See ops /class-tags pag
+Reconciled class-tag proposals (augmentation + conflict) that need human review. Augmentation = proposal would add fields to a partially-tagged entity. Conflict = proposal disagrees with persisted single-value field. See ops /class-tags page filtered to status=conflict or status=augmentation. — 8 reconciled proposals need human eye (2 conflict + 6 augmentation), oldest 14d. See ops /class-tags pag
 
 - **Where:** `/system-health`
 - **Cost:** ~5 min
@@ -10225,9 +10225,9 @@ Mechanical data-complete promotion blocked by: typeReqs:contracts, blocked:NEEDS
 - **Leverage:** ★★☆☆☆
 - **Surfaced by:** `data-complete-stuck`
 
-### vault-audit: librarian-gap-audit — 355 findings
+### vault-audit: librarian-gap-audit — 435 findings
 
-Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 355 high-leverage gap(s) (≥10 appearances) — 3734 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3570 alias-cand
+Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 435 high-leverage gap(s) (≥10 appearances) — 3910 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3746 alias-cand
 
 - **Where:** `/system-health`
 - **Cost:** ~30 min
@@ -10434,7 +10434,7 @@ HMP is tagged dark-money-networked with capital_type=dark-money-vehicle. Total t
 
 ### vault-audit: pipeline-janitor — 250 findings
 
-Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3287 profiles. 250 had issues.
+Zombie auto-blocks, stale enrichment, A+ audit checks on ready/verified profiles — Scanned 3281 profiles. 250 had issues.
 
 - **Where:** `/system-health`
 - **Cost:** ~60 min
