@@ -260,4 +260,13 @@ if [ -n "$STAGED_PKG" ]; then
   fi
 fi
 
+# 10. ADR-0030 §8: code-audit-fetch sentinel — blocks commits where a
+# fetched URL leaks into profile content, where caf_<id> references are
+# unknown, or where refused-domain log entries are staged.
+echo "  -> code-audit-fetch-sentinel"
+node scripts/code-audit-fetch-sentinel.cjs
+if [ $? -ne 0 ]; then
+  exit 1
+fi
+
 echo "--- all gates passed ---"

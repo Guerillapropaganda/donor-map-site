@@ -385,6 +385,14 @@ const CHECKS = [
     timeout_ms: 15000,
     queue: { bucket: 'compounding', leverage: 3, cost_min: 5 },
   },
+  {
+    name: 'code-audit-fetch-discrepancy',
+    description: 'ADR-0030 §9 — surfaces unaddressed code-audit-fetch outcomes. Reads data/code-audit-fetches.jsonl. Findings = (a) fetches in inconclusive state with non-ok status (caller forgot to recordResult), or (b) fetches resulting in discrepancy that have not yet been linked to a bug-queue entry. Steady state = 0. Continuous monitoring of pipeline self-audit health under the Rule 13 carve-out.',
+    cmd: ['node', 'scripts/code-audit-fetch-discrepancy-check.cjs', '--json'],
+    parse: parseCodeAuditFetchDiscrepancy,
+    timeout_ms: 15000,
+    queue: { bucket: 'compounding', leverage: 3, cost_min: 5 },
+  },
 ];
 
 // ─── Output parsers (one per check) ────────────────────────────────
@@ -773,6 +781,16 @@ function parseAutoRevertPending(stdout, _stderr, _exit) {
   try {
     const j = JSON.parse(stdout);
     const note = j.findings_count === 0 ? 'no pending reverts' : `${j.findings_count} record(s) need re-review`;
+    return { findings_count: j.findings_count || 0, notes: note };
+  } catch { return { findings_count: 0, notes: '(json parse failed)' }; }
+}
+
+function parseCodeAuditFetchDiscrepancy(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const note = j.findings_count === 0
+      ? `clean (${j.log_size || 0} fetches in log)`
+      : `${j.findings_count} unaddressed (of ${j.log_size || 0} total fetches)`;
     return { findings_count: j.findings_count || 0, notes: note };
   } catch { return { findings_count: 0, notes: '(json parse failed)' }; }
 }
