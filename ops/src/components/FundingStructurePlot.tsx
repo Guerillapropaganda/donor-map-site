@@ -24,6 +24,8 @@ interface StructureRow {
   ca_direct: number
   ie_supporting: number
   ie_opposing: number
+  status?: "active" | "withdrew" | "suspended" | "default"
+  status_date?: string
 }
 
 const COLORS = {
@@ -83,10 +85,17 @@ export function FundingStructurePlot({ rows }: { rows: StructureRow[] }) {
           { key: "ie_supporting", value: r.ie_supporting },
           { key: "ie_opposing", value: r.ie_opposing },
         ]
+        const isInactive = r.status === "withdrew" || r.status === "suspended"
+        const statusBadge = r.status === "withdrew" ? (
+          <span className="ml-1 text-[9px] uppercase tracking-wider text-amber-400 border border-amber-700/60 px-1 py-0">withdrew</span>
+        ) : r.status === "suspended" ? (
+          <span className="ml-1 text-[9px] uppercase tracking-wider text-orange-400 border border-orange-700/60 px-1 py-0">suspended</span>
+        ) : null
         return (
-          <div key={r.candidate} className="grid grid-cols-[160px_1fr_120px] gap-3 items-center text-sm">
-            <div className="text-zinc-200 truncate" title={r.candidate}>
-              {r.candidate}
+          <div key={r.candidate} className={"grid grid-cols-[200px_1fr_120px] gap-3 items-center text-sm " + (isInactive ? "opacity-50" : "")}>
+            <div className="text-zinc-200 truncate flex items-center" title={r.candidate + (r.status_date ? ` (${r.status_date})` : "")}>
+              <span className="truncate">{r.candidate}</span>
+              {statusBadge}
             </div>
             <div className="relative">
               <div

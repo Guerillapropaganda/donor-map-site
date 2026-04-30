@@ -73,17 +73,6 @@
           "match_strength": "context"
         },
         {
-          "filer_id": "1303063",
-          "name": "YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM",
-          "category": "40002",
-          "sub_category": "40101",
-          "active": "Y",
-          "role": "controlled",
-          "city": "LOS ANGELES",
-          "st": "CA",
-          "match_strength": "context"
-        },
-        {
           "filer_id": "1234344",
           "name": "VILLARAIGOSA FOR MAYOR - GENERAL 2001",
           "category": "40002",
@@ -104,17 +93,6 @@
           "city": "LOS ANGELES",
           "st": "CA",
           "match_strength": "context"
-        },
-        {
-          "filer_id": "1270536",
-          "name": "CITIZENS FOR MORE POLICE IN OUR COMMUNITIES; MAJOR FUNDING BY FRIENDS OF ANTONIO VILLARAIGOSA",
-          "category": "40002",
-          "sub_category": "40101",
-          "active": "Y",
-          "role": "controlled",
-          "city": "LOS ANGELES",
-          "st": "CA",
-          "match_strength": "hint"
         },
         {
           "filer_id": "1305101",
@@ -277,7 +255,30 @@
           "match_strength": "hint"
         }
       ],
-      "_all_matches": 24
+      "_all_matches": 24,
+      "rejected": [
+        {
+          "filer_id": "1303063",
+          "name": "YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM",
+          "role_was": "controlled",
+          "rationale": "Ballot measure committee Villaraigosa sponsored as a coalition spokesperson, not a candidate-controlled committee. NAML: \"Yes on Prop S: ... by Mayor Villaraigosa\". Discovery script over-collected on category 40002 ballot-measure committees that name a politician.",
+          "decided_by": "claude-proposed",
+          "decided_at": "2026-04-30T18:04:26.206Z",
+          "session": "cc_p3_194"
+        },
+        {
+          "filer_id": "1270536",
+          "name": "CITIZENS FOR MORE POLICE IN OUR COMMUNITIES; MAJOR FUNDING BY FRIENDS OF ANTONIO VILLARAIGOSA",
+          "role_was": "controlled",
+          "rationale": "Ballot measure / advocacy coalition mentioning Friends of Antonio Villaraigosa as a partner. NAML: \"Citizens for More Police in our Communities; Major Funding by Friends of Antonio Villaraigosa\". Not a Villaraigosa-controlled committee.",
+          "decided_by": "claude-proposed",
+          "decided_at": "2026-04-30T18:04:26.208Z",
+          "session": "cc_p3_194"
+        }
+      ],
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.060Z"
     },
     "Betty Yee": {
       "vault_title": "Betty Yee",
@@ -360,22 +361,26 @@
           "match_strength": "hint"
         }
       ],
-      "ie_supporting": [
+      "ie_supporting": [],
+      "ie_opposing": [],
+      "other": [],
+      "_all_matches": 8,
+      "rejected": [
         {
           "filer_id": "1418587",
           "name": "NEWSOME, ALEX PADILLA, XAVIER BECERRA, BETTY YEE, FIONA MA, ELENI KOUNALAKIS, RICARDO LARA; RAN ACTION FUND COMMITTEE TO RECALL GAVIN",
-          "category": "0",
-          "sub_category": "40102",
-          "active": "T",
-          "role": "ie_supporting",
-          "city": "SAN DIEGO",
-          "st": "CA",
-          "match_strength": "hint"
+          "role_was": "ie_supporting",
+          "rationale": "Anti-Newsom recall coalition committee whose name lists multiple politicians including Yee, Becerra, Padilla, Ma, etc. NAML: \"Newsom, Alex Padilla, Xavier Becerra, Betty Yee, Fiona Ma, Eleni Kounalakis, Ricardo Lara; RAN Action Fund Committee to Recall Gavin\". Yee is mentioned as a coalition member; not a Yee-IE-supporting committee.",
+          "decided_by": "claude-proposed",
+          "decided_at": "2026-04-30T18:04:26.208Z",
+          "session": "cc_p3_194"
         }
       ],
-      "ie_opposing": [],
-      "other": [],
-      "_all_matches": 8
+      "status": "withdrew",
+      "status_date": "2026-04-XX",
+      "status_note": "Withdrew from active campaigning per audit prompt context cc_p3_191. Reportedly endorsed Steyer. Remains on ballot. Tier 2 — David verify date + endorsement.",
+      "status_decided_by": "claude-proposed",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Chad Bianco": {
       "vault_title": "Chad Bianco",
@@ -417,7 +422,10 @@
       "ie_supporting": [],
       "ie_opposing": [],
       "other": [],
-      "_all_matches": 3
+      "_all_matches": 3,
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Eric Swalwell": {
       "vault_title": "Eric Swalwell",
@@ -516,7 +524,12 @@
         }
       ],
       "other": [],
-      "_all_matches": 8
+      "_all_matches": 8,
+      "status": "suspended",
+      "status_date": "2026-04-12",
+      "status_note": "Suspended campaign per audit prompt context cc_p3_191; resigned House 2026-04-14. Tier 2 — David verify dates.",
+      "status_decided_by": "claude-proposed",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Katie Porter": {
       "vault_title": "Katie Porter",
@@ -548,7 +561,10 @@
       ],
       "ie_opposing": [],
       "other": [],
-      "_all_matches": 2
+      "_all_matches": 2,
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Matt Mahan": {
       "vault_title": "Matt Mahan",
@@ -635,7 +651,10 @@
       ],
       "ie_opposing": [],
       "other": [],
-      "_all_matches": 7
+      "_all_matches": 7,
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Steve Hilton": {
       "vault_title": "Steve Hilton",
@@ -655,7 +674,10 @@
       "ie_supporting": [],
       "ie_opposing": [],
       "other": [],
-      "_all_matches": 1
+      "_all_matches": 1,
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Tom Steyer": {
       "vault_title": "Tom Steyer",
@@ -698,7 +720,10 @@
         }
       ],
       "other": [],
-      "_all_matches": 3
+      "_all_matches": 3,
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Tony Thurmond": {
       "vault_title": "Tony Thurmond",
@@ -874,7 +899,10 @@
           "match_strength": "hint"
         }
       ],
-      "_all_matches": 15
+      "_all_matches": 15,
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     },
     "Xavier Becerra": {
       "vault_title": "Xavier Becerra",
@@ -959,17 +987,6 @@
       ],
       "ie_supporting": [
         {
-          "filer_id": "1418587",
-          "name": "NEWSOME, ALEX PADILLA, XAVIER BECERRA, BETTY YEE, FIONA MA, ELENI KOUNALAKIS, RICARDO LARA; RAN ACTION FUND COMMITTEE TO RECALL GAVIN",
-          "category": "0",
-          "sub_category": "40102",
-          "active": "T",
-          "role": "ie_supporting",
-          "city": "SAN DIEGO",
-          "st": "CA",
-          "match_strength": "hint"
-        },
-        {
           "filer_id": "1425978",
           "name": "BECERRA; RECALL OF XAVIER",
           "category": "0",
@@ -1016,7 +1033,21 @@
       ],
       "ie_opposing": [],
       "other": [],
-      "_all_matches": 12
+      "_all_matches": 12,
+      "rejected": [
+        {
+          "filer_id": "1418587",
+          "name": "NEWSOME, ALEX PADILLA, XAVIER BECERRA, BETTY YEE, FIONA MA, ELENI KOUNALAKIS, RICARDO LARA; RAN ACTION FUND COMMITTEE TO RECALL GAVIN",
+          "role_was": "ie_supporting",
+          "rationale": "Same anti-Newsom recall coalition committee. Becerra mentioned in NAML alongside Yee + others as coalition members. Not a Becerra-IE-supporting committee.",
+          "decided_by": "claude-proposed",
+          "decided_at": "2026-04-30T18:04:26.208Z",
+          "session": "cc_p3_194"
+        }
+      ],
+      "status": "active",
+      "status_decided_by": "default",
+      "status_decided_at": "2026-04-30T18:04:46.061Z"
     }
   }
 }

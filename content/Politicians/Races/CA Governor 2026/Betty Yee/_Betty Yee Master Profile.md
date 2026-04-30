@@ -58,6 +58,8 @@ opposes: "[[Donald Trump]]"
 
 *Showing 2026-cycle data only. Re-run with `--cycle all` for lifetime aggregation across mayor / Assembly / prior gov runs.*
 
+> [!warning] **WITHDREW** (2026-04-XX) — Withdrew from active campaigning per audit prompt context cc_p3_191. Reportedly endorsed Steyer. Remains on ballot. Tier 2 — David verify date + endorsement.
+
 **Direct contributions** (donor → candidate-controlled committees): **$698.5K** across 939 edges, 939 unique donors.
 **Same-name transfers** (likely self-fund / family vehicles): **$13.8K** across 13 record(s).
 
