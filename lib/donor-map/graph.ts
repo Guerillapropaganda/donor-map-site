@@ -81,6 +81,16 @@ const PERMISSIVE_EDGE_SOURCES = new Set<string>([
   // not vault entities by construction. Mint name-stubs so sponsorship
   // edges resolve and participate in influenceMap's policy_signal audit.
   "govinfo-bill-status",
+  // fec-oppexp emits campaign-committee → vendor monetary edges
+  // (operating expenditures: consultants, ad buyers, payroll vendors).
+  // Vendors don't have vault profiles by construction. Surfaced
+  // 2026-04-30 by audit-thesis-internal-consistency.cjs — 43,773 edges
+  // silently dropped before this. Same pattern as cal-access-expn.
+  "fec-oppexp",
+  // usaspending-bulk emits federal-agency → contractor edges. Agency
+  // side typically has no vault entity (we don't profile every federal
+  // department). 911 edges dropped before adding this.
+  "usaspending-bulk",
 ])
 
 /**
