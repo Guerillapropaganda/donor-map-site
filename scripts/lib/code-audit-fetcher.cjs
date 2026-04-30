@@ -55,11 +55,21 @@ const FETCH_LOG = path.join(ROOT, 'data', 'code-audit-fetches.jsonl');
 
 // ─── Allowlist (ADR-0030 §1 + §2) ────────────────────────────────────
 
-// Phase 1 — active 2026-04-30. Cal-Access only.
+// Phase 1 — active. See ADR-0030 §1 + §10 amendments.
 const PHASE_1_DOMAINS = new Set([
+  // Cal-Access (active 2026-04-30, original Phase 1)
   'cal-access.sos.ca.gov',
   'www.sos.ca.gov',
   'campaignfinance.cdn.sos.ca.gov',
+  // Federal legislative + voting (added 2026-04-30 amendment, ADR-0030 §10).
+  // Authorized for both per-URL audit fetches AND bulk-data downloads
+  // by ingest pipelines. See ADR-0030 §10 for amendment record.
+  'voteview.com',
+  'www.voteview.com',
+  'www.govinfo.gov',
+  'www.congress.gov',
+  'clerk.house.gov',
+  'www.senate.gov',
 ]);
 
 // Phase 2 — gated by per-pipeline activation. Format: { domain, gating_rationale }.
@@ -79,10 +89,9 @@ const PHASE_2_DOMAINS_NOT_YET_ENABLED = new Set([
   // FPPC — when CA enforcement DB integration ships
   'www.fppc.ca.gov',
   'fppc.ca.gov',
-  // Federal legislative — when congress.gov pipeline ships
-  'www.congress.gov',
+  // House member directories etc. (clerk.house.gov, congress.gov, senate.gov
+  // promoted to PHASE_1 by the 2026-04-30 amendment)
   'www.house.gov',
-  'www.senate.gov',
   // ProPublica Nonprofit Explorer — already Tier 1 in source registry
   'projects.propublica.org',
 ]);
