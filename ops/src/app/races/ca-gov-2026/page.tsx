@@ -129,10 +129,21 @@ export default function CAGov2026Page() {
     <div className="p-6 space-y-6">
       <PageHeader
         title="California Governor 2026"
-        whatThisDoes="Curation surface for the 2026 CA gubernatorial race. One row per candidate with readiness state, federal money (FEC + IRS 990), CA state money (Cal-Access direct + IE-supporting + IE-opposing), connection count, and editorial flags. Click any candidate to open their profile."
+        whatThisDoes="Curation surface for the 2026 CA gubernatorial race. One row per candidate with readiness state, federal money (FEC + IRS 990), CA state money (Cal-Access direct + IE-supporting + IE-opposing), connection count, and editorial flags."
         rightNow={`${data.candidate_count} candidates — ${shipReady} ship-ready, ${oneAway} one promotion away, ${needsWork} need work`}
-        action="Sort by money to rank by total spending. Click a row to jump to /profile. Cal-Access auto-blocks live on each candidate body — refresh by re-running scripts/ingest-cal-access-bulk.cjs and scripts/build-cal-access-panels.cjs --write."
+        action="Sort by money to rank by total spending. Click a row to jump to /profile. Cal-Access visuals available below the table."
       />
+
+      {/* Visuals link */}
+      <div className="flex gap-3 text-sm">
+        <Link
+          href="/races/ca-gov-2026/visuals"
+          className="px-3 py-1.5 border border-yellow-500 text-yellow-300 hover:bg-yellow-500/10 inline-flex items-center gap-2"
+        >
+          <span>📊</span>
+          <span>Donor-flow Sankey + funding-structure plot →</span>
+        </Link>
+      </div>
 
       {/* Cal-Access status banner */}
       {data.cal_access_status.startsWith("ingested") ? (
