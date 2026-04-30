@@ -126,6 +126,7 @@ export function makeStores(overrides: Partial<RawCanonicalStores> = {}): RawCano
     edges,
     legislators,
     fec_registry,
+    policies: overrides.policies ?? [],
     files_read: ["__fixture__"],
   }
 }

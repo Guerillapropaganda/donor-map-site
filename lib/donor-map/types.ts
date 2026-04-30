@@ -245,3 +245,91 @@ export interface DonorContradictionsResult {
   donor: Node
   pairs: DonorContradictionPair[]
 }
+
+// ─── ADR-0024 Phase 3 thesis queries ──────────────────────────────────
+
+export interface BothSidesDonorsOpts {
+  status?: EdgeStatus | "all"
+  min_confidence?: number
+  /** Minimum dollars to EACH of the two opposing politicians. Default 0. */
+  min_total_each?: number
+  cycle?: string
+  /** Cap on returned donors. Default 50. */
+  limit?: number
+}
+
+export interface BothSidesDonorPair {
+  donor: Node
+  pol_a: Node
+  pol_b: Node
+  total_to_a: number
+  total_to_b: number
+  /** Both edges that justify the bothsides claim. */
+  evidence: Edge[]
+}
+
+export interface BothSidesDonorsResult {
+  pairs: BothSidesDonorPair[]
+  /** True when the cap was hit and more candidates were truncated. */
+  truncated: boolean
+}
+
+export interface ClassProfileOpts {
+  status?: EdgeStatus | "all"
+  cycle?: string
+  /** Top-N donors per cluster. Default 10. */
+  top_donors_per_cluster?: number
+}
+
+export interface ClassDonorCluster {
+  /** capital_type or ideological_function value (e.g. "fossil-capital"). */
+  cluster_key: string
+  /** Which classification dimension this cluster represents. */
+  dimension: "capital_type" | "ideological_function" | "policy_stake" | "unclassified"
+  total_amount: number
+  donor_count: number
+  top_donors: Array<{ node: Node; amount: number }>
+}
+
+export interface ClassProfileResult {
+  /** The politician whose donor base is profiled. */
+  politician: Node
+  total_in: number
+  edge_count: number
+  /** Donors aggregated by capital_type tag. */
+  capital_clusters: ClassDonorCluster[]
+  /** Donors aggregated by ideological_function tag. */
+  ideological_clusters: ClassDonorCluster[]
+  /** Donors with no class tags — counts as a data-gap signal. */
+  unclassified: { total_amount: number; donor_count: number }
+}
+
+export interface InfluenceMapOpts {
+  status?: EdgeStatus | "all"
+  cycle?: string
+  top_donors_per_cluster?: number
+}
+
+export interface InfluenceMapResult {
+  politician: Node
+  /** Same shape as classProfile — donor clusters by capital_type and ideological_function. */
+  donor_class_profile: ClassProfileResult
+  /** Sponsorship + vote-on-policy data when available; null when the
+   * librarian has no such data ingested. */
+  policy_signal: {
+    available: boolean
+    /** When available=true: per-policy alignment scores. */
+    alignments?: Array<{
+      policy_id: string
+      policy_title: string
+      score: number
+      rationale: string
+    }>
+    /** When available=false: explanation of why, so callers can show
+     * an honest "data gap" UI rather than fabricate alignments. */
+    data_gaps: string[]
+  }
+  /** Convenience: the largest capital_type cluster (often the
+   * single-line "this candidate is bankrolled by X" headline). */
+  dominant_capital_cluster: ClassDonorCluster | null
+}

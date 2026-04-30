@@ -126,11 +126,24 @@ export interface RawFecRegistryEntry {
   [key: string]: unknown
 }
 
+export interface RawPolicy {
+  id: string
+  slug?: string
+  title: string
+  category?: string
+  plain_english?: string
+  /** Tags that link policies to donor class-tag dimensions. */
+  policy_stakes?: string[]
+  [key: string]: unknown
+}
+
 export interface RawCanonicalStores {
   entities: RawEntity[]
   edges: RawEdge[]
   legislators: RawLegislator[]
   fec_registry: Record<string, RawFecRegistryEntry>
+  /** ADR-0024 Phase 3: policies.jsonl loaded so policy nodes resolve. */
+  policies: RawPolicy[]
   /** Path of every file actually read, for diagnostics. */
   files_read: string[]
 }
@@ -192,5 +205,10 @@ export function loadCanonicalStores(opts: LoaderOptions = {}): RawCanonicalStore
     filesRead.push(fecRegistryFile)
   }
 
-  return { entities, edges, legislators, fec_registry: fecRegistry, files_read: filesRead }
+  // Policies (ADR-0024 Phase 3)
+  const policiesFile = path.join(dataDir, "policies.jsonl")
+  const policies = loadJsonl<RawPolicy>(policiesFile)
+  if (fs.existsSync(policiesFile)) filesRead.push(policiesFile)
+
+  return { entities, edges, legislators, fec_registry: fecRegistry, policies, files_read: filesRead }
 }

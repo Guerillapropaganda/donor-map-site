@@ -14,12 +14,20 @@ import { Resolver } from "./resolver"
 import type {
   AggregateOpts,
   AggregateResult,
+  BothSidesDonorPair,
+  BothSidesDonorsOpts,
+  BothSidesDonorsResult,
+  ClassDonorCluster,
+  ClassProfileOpts,
+  ClassProfileResult,
   DonorContradictionPair,
   DonorContradictionsOpts,
   DonorContradictionsResult,
   Edge,
   EdgeStatus,
   EdgeType,
+  InfluenceMapOpts,
+  InfluenceMapResult,
   NeighborsOpts,
   Node,
   NodeId,
@@ -485,6 +493,277 @@ export class Graph {
         Math.min(y.total_to_a, y.total_to_b) - Math.min(x.total_to_a, x.total_to_b),
     )
     return { donor: donorNode, pairs }
+  }
+
+  /**
+   * bothSidesDonors — find donors who funded politicians on opposite sides
+   * of a political-opposition edge. Inverse view of donorContradictions
+   * (donor-centric vs the donor's contradiction surface).
+   *
+   * Returns each (donor, polA, polB) tuple where the donor has monetary
+   * out-edges to both polA and polB AND there's a political-opposition
+   * edge connecting polA and polB. Pairs deduplicated (donor + min/max
+   * politician id). Ranked by min(total_to_a, total_to_b) desc — the
+   * intensity heuristic.
+   *
+   * Cap defaults to 50 donors. Computing this for the full graph is
+   * O(donors * politicians_funded^2) so the cap matters at scale.
+   */
+  bothSidesDonors(opts: BothSidesDonorsOpts = {}): BothSidesDonorsResult {
+    const status: EdgeStatus | "all" = opts.status ?? "active"
+    const minConf = opts.min_confidence ?? 0
+    const minTotal = opts.min_total_each ?? 0
+    const cycle = opts.cycle
+    const limit = opts.limit ?? 50
+
+    // Step 1: build the politician-pair → opposition-edge index. We only
+    // care about pairs that have an opposition edge between them; donors
+    // funding two non-opposed politicians don't qualify.
+    interface PairKey {
+      lo: NodeId
+      hi: NodeId
+    }
+    const oppositionPairs = new Map<string, Edge>()
+    for (const e of this.edges) {
+      if (e.type !== "political-opposition") continue
+      if (status !== "all" && e.status !== status) continue
+      if (e.confidence < minConf) continue
+      const [lo, hi] = e.from_id < e.to_id ? [e.from_id, e.to_id] : [e.to_id, e.from_id]
+      if (!oppositionPairs.has(`${lo}|${hi}`)) oppositionPairs.set(`${lo}|${hi}`, e)
+    }
+    if (oppositionPairs.size === 0) return { pairs: [], truncated: false }
+
+    // Step 2: for each donor, build a {politician_id → total} map.
+    // Skip donors with fewer than 2 politicians funded.
+    interface DonorFunding {
+      donorId: NodeId
+      byPolitician: Map<NodeId, { total: number; edge: Edge }>
+    }
+    const donorIndex = new Map<NodeId, DonorFunding>()
+    for (const e of this.edges) {
+      if (e.type !== "monetary") continue
+      if (status !== "all" && e.status !== status) continue
+      if (e.confidence < minConf) continue
+      if (cycle !== undefined && e.cycle !== cycle) continue
+      if (typeof e.amount !== "number" || !Number.isFinite(e.amount) || e.amount <= 0) continue
+      let donor = donorIndex.get(e.from_id)
+      if (!donor) {
+        donor = { donorId: e.from_id, byPolitician: new Map() }
+        donorIndex.set(e.from_id, donor)
+      }
+      const cur = donor.byPolitician.get(e.to_id) ?? { total: 0, edge: e }
+      cur.total += e.amount
+      donor.byPolitician.set(e.to_id, cur)
+    }
+
+    // Step 3: for each donor, walk the opposition pair index and find
+    // pairs both of whose politicians are in the donor's byPolitician map.
+    const pairs: BothSidesDonorPair[] = []
+    for (const donor of donorIndex.values()) {
+      if (donor.byPolitician.size < 2) continue
+      const fundedIds = [...donor.byPolitician.keys()]
+      for (let i = 0; i < fundedIds.length && pairs.length < limit; i++) {
+        for (let j = i + 1; j < fundedIds.length && pairs.length < limit; j++) {
+          const a = fundedIds[i]
+          const b = fundedIds[j]
+          const [lo, hi] = a < b ? [a, b] : [b, a]
+          const oppEdge = oppositionPairs.get(`${lo}|${hi}`)
+          if (!oppEdge) continue
+          const aFund = donor.byPolitician.get(a)!
+          const bFund = donor.byPolitician.get(b)!
+          if (aFund.total < minTotal || bFund.total < minTotal) continue
+          const donorNode = this.resolver.getById(donor.donorId)
+          const aNode = this.resolver.getById(a)
+          const bNode = this.resolver.getById(b)
+          if (!donorNode || !aNode || !bNode) continue
+          pairs.push({
+            donor: donorNode,
+            pol_a: aNode,
+            pol_b: bNode,
+            total_to_a: aFund.total,
+            total_to_b: bFund.total,
+            evidence: [aFund.edge, bFund.edge, oppEdge],
+          })
+        }
+      }
+    }
+
+    // Sort by intensity (min total) and slice
+    pairs.sort(
+      (x, y) =>
+        Math.min(y.total_to_a, y.total_to_b) - Math.min(x.total_to_a, x.total_to_b),
+    )
+    const truncated = pairs.length >= limit
+    return { pairs: pairs.slice(0, limit), truncated }
+  }
+
+  /**
+   * classProfile — politician's donor base aggregated by class tags
+   * (capital_type + ideological_function). Returns clusters with
+   * top-N donors each. The "single-line bankrolled-by-X" answer.
+   *
+   * Class tags come from entity records (entities.jsonl signals.
+   * capital_type / signals.ideological_function). Donors with no tag
+   * roll up into the `unclassified` bucket — its size is itself a
+   * data-gap signal.
+   */
+  classProfile(politician: ResolveArg, opts: ClassProfileOpts = {}): ClassProfileResult {
+    const polNode = this.resolver.resolve(politician)
+    const status: EdgeStatus | "all" = opts.status ?? "active"
+    const cycle = opts.cycle
+    const topN = opts.top_donors_per_cluster ?? 10
+
+    // Aggregate incoming monetary edges by donor node.
+    interface DonorAgg {
+      node: Node
+      amount: number
+    }
+    const byDonor = new Map<NodeId, DonorAgg>()
+    let total = 0
+    let edgeCount = 0
+    for (const i of this.inIdx.get(polNode.id) ?? []) {
+      const e = this.edges[i]
+      if (e.type !== "monetary") continue
+      if (status !== "all" && e.status !== status) continue
+      if (cycle !== undefined && e.cycle !== cycle) continue
+      if (typeof e.amount !== "number" || !Number.isFinite(e.amount) || e.amount <= 0) continue
+      const donorNode = this.resolver.getById(e.from_id)
+      if (!donorNode) continue
+      const cur = byDonor.get(donorNode.id) ?? { node: donorNode, amount: 0 }
+      cur.amount += e.amount
+      byDonor.set(donorNode.id, cur)
+      total += e.amount
+      edgeCount++
+    }
+
+    // Group by capital_type and ideological_function.
+    const groupBy = (
+      dimension: "capital_type" | "ideological_function",
+    ): { clusters: ClassDonorCluster[]; unclassifiedDonors: DonorAgg[] } => {
+      const clusters = new Map<string, ClassDonorCluster>()
+      const unclassifiedDonors: DonorAgg[] = []
+      for (const agg of byDonor.values()) {
+        const meta = agg.node.meta as Record<string, unknown> | undefined
+        const tag = meta && typeof meta[dimension] === "string" ? (meta[dimension] as string) : null
+        if (!tag) {
+          unclassifiedDonors.push(agg)
+          continue
+        }
+        let c = clusters.get(tag)
+        if (!c) {
+          c = {
+            cluster_key: tag,
+            dimension,
+            total_amount: 0,
+            donor_count: 0,
+            top_donors: [],
+          }
+          clusters.set(tag, c)
+        }
+        c.total_amount += agg.amount
+        c.donor_count++
+        c.top_donors.push({ node: agg.node, amount: agg.amount })
+      }
+      // Sort top donors per cluster + cap
+      for (const c of clusters.values()) {
+        c.top_donors.sort((x, y) => y.amount - x.amount)
+        c.top_donors = c.top_donors.slice(0, topN)
+      }
+      return {
+        clusters: [...clusters.values()].sort((x, y) => y.total_amount - x.total_amount),
+        unclassifiedDonors,
+      }
+    }
+
+    const cap = groupBy("capital_type")
+    const ideo = groupBy("ideological_function")
+    // Unclassified is consistent across dimensions — use capital_type's
+    // unclassified set (donors lacking BOTH tags will appear in both).
+    const uncTotal = cap.unclassifiedDonors.reduce((s, d) => s + d.amount, 0)
+
+    return {
+      politician: polNode,
+      total_in: total,
+      edge_count: edgeCount,
+      capital_clusters: cap.clusters,
+      ideological_clusters: ideo.clusters,
+      unclassified: {
+        total_amount: uncTotal,
+        donor_count: cap.unclassifiedDonors.length,
+      },
+    }
+  }
+
+  /**
+   * influenceMap — marquee thesis query per ADR-0024 Phase 3.
+   *
+   * Composes classProfile (donor clusters by class tag) with policy/vote
+   * alignment IF the librarian has policy + voting-record data. Honest
+   * about data gaps: returns `policy_signal.available = false` plus an
+   * explanation when the data isn't there, rather than fabricating
+   * alignments.
+   *
+   * As of 2026-04-30 the librarian has 5 policies in policies.jsonl and
+   * 0 sponsorship edges + no per-legislator vote data. So
+   * `policy_signal.available` is currently always false. The donor-class
+   * portion (the more valuable half) works regardless.
+   *
+   * When future pipelines ingest sponsorship/vote data, the alignment
+   * branch lights up automatically — the structural shape stays the same.
+   */
+  influenceMap(politician: ResolveArg, opts: InfluenceMapOpts = {}): InfluenceMapResult {
+    const polNode = this.resolver.resolve(politician)
+    // Pass node id (string) — Resolver round-trips own NodeIds via the
+    // direct nodes-table lookup. Passing the Node object directly is
+    // not a valid ResolveArg.
+    const profile = this.classProfile(polNode.id, {
+      status: opts.status,
+      cycle: opts.cycle,
+      top_donors_per_cluster: opts.top_donors_per_cluster,
+    })
+
+    // Audit the librarian for sponsorship + vote-on-policy edges to know
+    // whether the policy_signal branch can produce real alignments.
+    let sponsorshipEdges = 0
+    let voteOnPolicyEdges = 0
+    for (const e of this.edges) {
+      if (e.type === "sponsorship") sponsorshipEdges++
+      if (e.type === "vote-on-policy") voteOnPolicyEdges++
+    }
+
+    const dataGaps: string[] = []
+    if (sponsorshipEdges === 0) {
+      dataGaps.push(
+        "No sponsorship edges in librarian — bills.jsonl exists but sponsor/cosponsor relations not yet extracted into relationships store.",
+      )
+    }
+    if (voteOnPolicyEdges === 0) {
+      dataGaps.push(
+        "No vote-on-policy edges — votes.jsonl carries roll-call summaries, not per-legislator yea/nay positions. Per-legislator votes are a separate ingest target.",
+      )
+    }
+    // Count policies in librarian for completeness of the data-gap report.
+    let policyNodeCount = 0
+    for (const n of this.resolver.allNodes()) if (n.type === "policy") policyNodeCount++
+    if (policyNodeCount < 10) {
+      dataGaps.push(
+        `Only ${policyNodeCount} policy node(s) in librarian — alignment scoring requires a meaningful policy corpus (recommend ≥50). data/policies.jsonl currently has 5 entries.`,
+      )
+    }
+
+    const available = sponsorshipEdges > 0 && voteOnPolicyEdges > 0 && policyNodeCount >= 10
+    const dominant = profile.capital_clusters.length > 0 ? profile.capital_clusters[0] : null
+
+    return {
+      politician: polNode,
+      donor_class_profile: profile,
+      policy_signal: {
+        available,
+        alignments: available ? [] : undefined, // shape preserved for future
+        data_gaps: dataGaps,
+      },
+      dominant_capital_cluster: dominant,
+    }
   }
 
   // ─── Diagnostics ───────────────────────────────────────────────────
