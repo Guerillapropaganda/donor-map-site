@@ -67,6 +67,10 @@ const PERMISSIVE_EDGE_SOURCES = new Set<string>([
   "fec-oth-transfers",
   "irs-pofd-8872",
   "icij-offshore-leaks",
+  // Bills are virtual nodes keyed "{TYPE}.{N}-{C}" e.g. "HR.1-119" —
+  // not vault entities by construction. Mint name-stubs so sponsorship
+  // edges resolve and participate in influenceMap's policy_signal audit.
+  "govinfo-bill-status",
 ])
 
 /**
@@ -74,9 +78,10 @@ const PERMISSIVE_EDGE_SOURCES = new Set<string>([
  * Tolerant: unknown or empty type collapses to "donor" since 100% of the
  * cal-access-bulk donors are individual contributors or org-form donors.
  */
-function normalizeStubType(rawType: string | undefined | null): "donor" | "politician" | "entity" | "unknown" {
+function normalizeStubType(rawType: string | undefined | null): "donor" | "politician" | "entity" | "bill" | "unknown" {
   switch ((rawType ?? "").toLowerCase()) {
     case "politician": return "politician"
+    case "bill": return "bill"
     case "entity":
     case "corporation":
     case "donor": return "donor"

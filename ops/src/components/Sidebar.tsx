@@ -54,6 +54,7 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/relationships/orphans", label: "↳ Orphan Triage", icon: "clipboard" },
       { href: "/librarian-gaps", label: "↳ Librarian Gaps", icon: "search" },
       { href: "/money-trail", label: "Money Trail", icon: "dollar" },
+      { href: "/thesis", label: "Thesis Queries", icon: "target" },
       { href: "/capitol-trades", label: "Capitol Trades", icon: "trending" },
       { href: "/class-tags", label: "Class Tags", icon: "target" },
       { href: "/policies", label: "Policies", icon: "book" },

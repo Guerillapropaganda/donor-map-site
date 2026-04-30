@@ -41,6 +41,7 @@ export type NodeType =
   | "media"
   | "think-tank"
   | "meta"
+  | "bill"
   | "unknown"
 
 /** A node in the in-memory graph. */
