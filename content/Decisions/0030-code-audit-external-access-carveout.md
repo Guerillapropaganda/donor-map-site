@@ -3,6 +3,7 @@ title: "ADR-0030: Code-Audit External Access Carve-out"
 type: adr
 status: accepted
 date: 2026-04-30
+last-amended: 2026-04-30
 relates-to: 0021, 0023, 0024, 0029
 amends: null
 ---
@@ -36,13 +37,23 @@ This is a carve-out from Rule 13, not a replacement of it. Rule 13's editorial p
 
 ## Scope
 
-### §1 — Allowlisted domains (Phase 1 — Cal-Access pipeline self-audit)
+### §1 — Allowlisted domains (Phase 1 — active)
 
 The following sources are allowed for Code-Claude external fetch:
 
+**Cal-Access (active 2026-04-30):**
 - `cal-access.sos.ca.gov` — Cal-Access committee detail pages
 - `www.sos.ca.gov` — California Secretary of State documentation (codebook PDFs, schema docs)
 - `campaignfinance.cdn.sos.ca.gov` — bulk dump CDN
+
+**Federal legislative + voting (added by 2026-04-30 amendment — see §10):**
+- `voteview.com`, `www.voteview.com` — UCLA Voteview NOMINATE + per-legislator roll-call data (`HSall_*.csv` bulk downloads)
+- `www.govinfo.gov` — Congress bulk data including `BILLSTATUS-{congress}-{type}.zip` cosponsor lineage
+- `www.congress.gov` — federal bill metadata
+- `clerk.house.gov` — House roll-call vote XML (per-legislator yea/nay)
+- `www.senate.gov` — Senate roll-call vote XML
+
+The 2026-04-30 amendment additionally authorizes **bulk-data downloads** from these federal sources for ingest pipelines, not just per-URL audit fetches. Bulk downloads are not subject to the `code-audit-fetcher` rate caps in §7 — they're one-shot multi-MB file pulls via wget/curl/script. The `data/code-audit-fetches.jsonl` log records bulk-download intent rather than per-URL detail (one entry per ingest run, listing source URLs).
 
 ### §2 — Allowlisted domains (Phase 2 — when each pipeline ships)
 
@@ -52,7 +63,7 @@ To be unlocked when an audit need arises for the corresponding pipeline. Each ad
 - `*.irs.gov` — IRS exempt-organization search, Forms 990 verification
 - `*.sec.gov` — SEC EDGAR primary
 - `fppc.ca.gov` — FPPC enforcement DB
-- `www.house.gov`, `www.senate.gov`, `www.congress.gov` — federal legislative
+- `www.house.gov` — federal legislative (member directories etc.; clerk.house.gov for roll calls is in §1 per 2026-04-30 amendment)
 - `projects.propublica.org/nonprofits/*` — Nonprofit Explorer (already Tier 1 in existing source registry)
 
 Activation rule: a domain in §2 becomes allowed for fetch when the corresponding pipeline (a) is active in the vault, AND (b) David approves activation in writing (commit message reference, admin note, or amendment to this ADR).
@@ -220,3 +231,44 @@ None blocking acceptance. The phased rollout is the deliberate answer to "what a
 ---
 
 **Summary.** ADR-0030 adds a narrow, logged, sentinel-enforced ability for Code Claude to verify pipeline output against the government primary source it claims to read from. It does not relax editorial protections. Every fetch is logged. Every discrepancy proposed as a correction goes through David's approval queue. The carve-out is restricted to government primary domains; news + aggregators + social stay out of scope. Rule 13 protects editorial content; ADR-0030 protects pipeline correctness; both can be true.
+
+---
+
+## §10 — Amendments
+
+### Amendment 2026-04-30 — Federal legislative + voting sources active
+
+**Authorized by David in session cc_p3_201 ("I authorize") to unblock ADR-0024 Phase 3 thesis queries `votingDivergence`, `policyAlignment`, and the cosponsor half of sponsorship edges.**
+
+**Domains promoted from §2 to §1 (active):**
+- `voteview.com`, `www.voteview.com`
+- `www.govinfo.gov`
+- `www.congress.gov`
+- `clerk.house.gov`
+- `www.senate.gov`
+
+**New scope: bulk-data downloads.** Phase 1 originally covered per-URL audit fetches through `scripts/lib/code-audit-fetcher.cjs`. The amendment additionally authorizes one-shot bulk-data downloads from these federal sources (e.g. `voteview.com/static/data/out/votes/HSall_votes.csv` ~600MB, `www.govinfo.gov/bulkdata/BILLSTATUS/119/HR/BILLSTATUS-119-HR.zip` ~50MB) via wget/curl/Node fetch. Bulk downloads are exempt from the per-domain rate cap in §7 — they are intentional ingest events, not exploratory crawls.
+
+**Provenance for bulk downloads:** one summary entry per ingest run in `data/code-audit-fetches.jsonl`:
+
+```json
+{
+  "id": "caf_bulk_<hash>",
+  "kind": "bulk-download",
+  "domain": "voteview.com",
+  "files_fetched": ["url1", "url2", ...],
+  "total_bytes": 712038400,
+  "purpose": "voteview-bulk ingest for vote-on-bill edges (D-prereq)",
+  "script": "scripts/ingest-voteview-bulk.cjs",
+  "session_id": "cc_p3_NNN"
+}
+```
+
+**Pipelines unblocked:**
+1. `scripts/ingest-voteview-bulk.cjs` — already wired, was waiting on CSVs in `data/bulk/`
+2. `scripts/ingest-bill-status-bulk.cjs` — already wired, was waiting on `BILLSTATUS-*.zip` in `C:/donor-map-data/bulk/Bill Status/`
+3. New script needed: per-legislator votes for 115th–119th congresses from clerk.house.gov + www.senate.gov XML (gap voteview doesn't cover post-2017 with the same richness; existing `votes.jsonl` has the source URLs)
+
+**Editorial protections unchanged.** Rule 13 still binds for profile-body URLs. The `code-audit-fetch-sentinel` still blocks any fetched URL from leaking into profile content. Bulk-downloaded data lands in `data/legislator-positions/` and `data/derived/govinfo-bill-status.jsonl` — librarian-consumed, not profile-body content.
+
+**Allowlist code change:** see corresponding update to `scripts/lib/code-audit-fetcher.cjs` PHASE_1_DOMAINS in the amendment commit.
