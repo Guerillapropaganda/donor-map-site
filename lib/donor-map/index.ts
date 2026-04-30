@@ -15,6 +15,15 @@
 export { Graph, type GraphStats } from "./graph"
 export { Resolver } from "./resolver"
 export { loadCanonicalStores, readJsonl, loadJsonl } from "./loader"
+export {
+  computeVotingDivergence,
+} from "./positions"
+export type {
+  Position,
+  VotingDivergenceOpts,
+  VotingDivergenceResult,
+  DivergentVote,
+} from "./positions"
 export type {
   LoaderOptions,
   RawCanonicalStores,

@@ -28,6 +28,10 @@ import type {
   EdgeType,
   InfluenceMapOpts,
   InfluenceMapResult,
+  InfluencePipeline,
+  InfluencePipelinesOpts,
+  InfluencePipelinesResult,
+  NodeType,
   NeighborsOpts,
   Node,
   NodeId,
@@ -765,6 +769,123 @@ export class Graph {
       },
       dominant_capital_cluster: dominant,
     }
+  }
+
+  /**
+   * influencePipelines — fan-out from a seed node up to maxHops, return
+   * the strongest path to each reachable terminal.
+   *
+   * Per ADR-0024 Phase 3: composes over BFS (mirrors paths() shape but
+   * without an explicit destination). The "pipeline" framing: trace the
+   * influence chain radiating from a donor / PAC / politician — donor →
+   * committee → recipient → sponsored bill, etc. Each reachable node
+   * within maxHops is a potential terminal.
+   *
+   * Ranking: weight = sum(amount when present, else confidence) along
+   * the chain. Per-terminal dedup keeps only the highest-weight path to
+   * each terminal node — so a hub seed's results are unique terminals,
+   * not redundant near-identical chains.
+   *
+   * Filters:
+   *   - terminal_types: limit terminals to specified node types
+   *     ("donor → politician → bill" pipelines via terminal_types: ['bill'])
+   *   - edge_types, status, min_confidence: per-edge during traversal
+   *
+   * Frontier cap matches paths() at 50k partials per hop to prevent
+   * exponential blow-up on hub seeds.
+   *
+   * Defaults: max_hops=2 (capped at 4), limit=25, status='active'.
+   */
+  influencePipelines(seed: ResolveArg, opts: InfluencePipelinesOpts = {}): InfluencePipelinesResult {
+    const seedNode = this.resolver.resolve(seed)
+    const maxHops = Math.min(4, Math.max(1, opts.max_hops ?? 2))
+    const status: EdgeStatus | "all" = opts.status ?? "active"
+    const minConf = opts.min_confidence ?? 0
+    const typeSet = opts.edge_types ? new Set(opts.edge_types) : null
+    const terminalTypeSet = opts.terminal_types ? new Set<NodeType>(opts.terminal_types) : null
+    const limit = opts.limit ?? 25
+    const FRONTIER_CAP = opts.frontier_cap ?? 50_000
+
+    const passes = (e: Edge): boolean => {
+      if (status !== "all" && e.status !== status) return false
+      if (e.confidence < minConf) return false
+      if (typeSet && !typeSet.has(e.type)) return false
+      return true
+    }
+
+    interface Partial {
+      at: NodeId
+      edges: Edge[]
+      visited: Set<NodeId>
+    }
+    /** Best partial (by weight) seen for each terminal node. */
+    const bestByTerminal = new Map<NodeId, Partial>()
+    let frontier: Partial[] = [{ at: seedNode.id, edges: [], visited: new Set([seedNode.id]) }]
+    let truncated = false
+
+    for (let hop = 0; hop < maxHops && frontier.length > 0; hop++) {
+      const next: Partial[] = []
+      let frontierFull = false
+      for (const p of frontier) {
+        if (frontierFull) break
+        const adj = new Set<number>([
+          ...(this.outIdx.get(p.at) ?? []),
+          ...(this.inIdx.get(p.at) ?? []),
+        ])
+        for (const i of adj) {
+          const e = this.edges[i]
+          if (!passes(e)) continue
+          const other = e.from_id === p.at ? e.to_id : e.from_id
+          if (p.visited.has(other)) continue
+          const newEdges = [...p.edges, e]
+          const newPartial: Partial = {
+            at: other,
+            edges: newEdges,
+            visited: new Set([...p.visited, other]),
+          }
+          // Record this terminal if it beats the prior best.
+          const w = pathWeight(newEdges)
+          const prior = bestByTerminal.get(other)
+          if (!prior || pathWeight(prior.edges) < w) {
+            bestByTerminal.set(other, newPartial)
+          }
+          // Continue extending unless we've hit the hop limit.
+          if (next.length >= FRONTIER_CAP) {
+            frontierFull = true
+            truncated = true
+            break
+          }
+          next.push(newPartial)
+        }
+      }
+      frontier = next
+    }
+
+    // Apply terminal_types filter, rank, and cap.
+    const candidates: InfluencePipeline[] = []
+    for (const [terminalId, p] of bestByTerminal) {
+      if (terminalTypeSet) {
+        const node = this.resolver.tryResolve(terminalId)
+        if (!node || !terminalTypeSet.has(node.type)) continue
+      }
+      const nodes = [seedNode.id]
+      for (const ed of p.edges) {
+        nodes.push(nodes[nodes.length - 1] === ed.from_id ? ed.to_id : ed.from_id)
+      }
+      candidates.push({
+        from_id: seedNode.id,
+        to_id: terminalId,
+        hops: p.edges.length,
+        weight: pathWeight(p.edges),
+        edges: p.edges,
+        nodes,
+      })
+    }
+    candidates.sort((a, b) => b.weight - a.weight)
+    const pipelines = candidates.slice(0, limit)
+    if (candidates.length > pipelines.length) truncated = true
+
+    return { seed: seedNode, pipelines, truncated }
   }
 
   // ─── Diagnostics ───────────────────────────────────────────────────

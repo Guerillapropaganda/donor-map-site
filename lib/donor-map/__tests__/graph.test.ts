@@ -592,6 +592,112 @@ describe("Graph.influenceMap", () => {
     assert.equal(r.dominant_capital_cluster?.cluster_key, "finance-capital")
   })
 
+  it("influencePipelines returns ranked pipelines from a seed (1-hop)", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_seed", name: "Mega Donor", profile_path: null, entity_type: "donor" },
+        { id: "ent_p1", name: "Senator A", profile_path: null, entity_type: "politician" },
+        { id: "ent_p2", name: "Senator B", profile_path: null, entity_type: "politician" },
+        { id: "ent_p3", name: "Senator C", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [
+        { id: "e1", from: "Mega Donor", to: "Senator A", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 5000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "e2", from: "Mega Donor", to: "Senator B", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 50000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "e3", from: "Mega Donor", to: "Senator C", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 1000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.influencePipelines("Mega Donor", { max_hops: 1 })
+    assert.equal(r.pipelines.length, 3, "3 reachable terminals at 1 hop")
+    assert.equal(r.pipelines[0].weight, 50000, "ranked by weight desc — Senator B first")
+    assert.equal(r.pipelines[1].weight, 5000)
+    assert.equal(r.pipelines[2].weight, 1000)
+    assert.equal(r.truncated, false)
+  })
+
+  it("influencePipelines per-terminal dedup keeps highest-weight path", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_seed", name: "Donor", profile_path: null, entity_type: "donor" },
+        { id: "ent_pol", name: "Politician", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [
+        { id: "small", from: "Donor", to: "Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 100, cycle: 2022, evidence: [], first_seen: "2022-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "big", from: "Donor", to: "Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 50000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.influencePipelines("Donor", { max_hops: 1 })
+    assert.equal(r.pipelines.length, 1, "one terminal — Politician")
+    assert.equal(r.pipelines[0].weight, 50000, "kept the bigger edge as best path")
+  })
+
+  it("influencePipelines respects terminal_types filter", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_seed", name: "Donor", profile_path: null, entity_type: "donor" },
+        { id: "ent_pol", name: "Politician", profile_path: null, entity_type: "politician" },
+        { id: "ent_corp", name: "Corp", profile_path: null, entity_type: "corporation" },
+      ],
+      edges: [
+        { id: "to_pol", from: "Donor", to: "Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 5000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "to_corp", from: "Donor", to: "Corp", type: "affiliation", direction: "directed", confidence: 0.9, source: "manual-ops", role: "investor", evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.influencePipelines("Donor", { max_hops: 1, terminal_types: ["politician"] })
+    assert.equal(r.pipelines.length, 1, "only politician terminal")
+    assert.equal(r.pipelines[0].to_id, "ent_pol")
+  })
+
+  it("influencePipelines reaches multi-hop terminals", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_seed", name: "PAC", profile_path: null, entity_type: "donor" },
+        { id: "ent_mid", name: "Politician", profile_path: null, entity_type: "politician" },
+        { id: "ent_far", name: "Other Politician", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [
+        { id: "h1", from: "PAC", to: "Politician", type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 10000, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+        { id: "h2", from: "Politician", to: "Other Politician", type: "political-opposition", direction: "directed", confidence: 0.9, source: "manual-ops", evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" },
+      ],
+    })
+    const g = new Graph(stores)
+    const r = g.influencePipelines("PAC", { max_hops: 2 })
+    assert.equal(r.pipelines.length, 2, "1-hop terminal + 2-hop terminal")
+    const farPipeline = r.pipelines.find((p) => p.to_id === "ent_far")
+    assert.ok(farPipeline, "reaches the 2-hop terminal")
+    assert.equal(farPipeline?.hops, 2)
+    assert.equal(farPipeline?.edges.length, 2)
+  })
+
+  it("influencePipelines returns empty when seed has no edges", () => {
+    const stores = makeStores({
+      entities: [
+        { id: "ent_seed", name: "Lonely Donor", profile_path: null, entity_type: "donor" },
+        { id: "ent_other", name: "Politician", profile_path: null, entity_type: "politician" },
+      ],
+      edges: [],
+    })
+    const g = new Graph(stores)
+    const r = g.influencePipelines("Lonely Donor")
+    assert.equal(r.pipelines.length, 0)
+    assert.equal(r.truncated, false)
+  })
+
+  it("influencePipelines limit cap marks truncated=true", () => {
+    const entities: any[] = [{ id: "ent_seed", name: "Hub", profile_path: null, entity_type: "donor" }]
+    const edges: any[] = []
+    for (let i = 0; i < 30; i++) {
+      entities.push({ id: `ent_t${i}`, name: `Target${i}`, profile_path: null, entity_type: "politician" })
+      edges.push({ id: `e${i}`, from: "Hub", to: `Target${i}`, type: "monetary", direction: "directed", confidence: 0.9, source: "fec-api", amount: 1000 + i, cycle: 2024, evidence: [], first_seen: "2024-01-01", last_verified: "2024-06-01", status: "active" })
+    }
+    const g = new Graph(makeStores({ entities, edges }))
+    const r = g.influencePipelines("Hub", { limit: 10 })
+    assert.equal(r.pipelines.length, 10)
+    assert.equal(r.truncated, true)
+  })
+
   it("loads policies from stores into the resolver as policy nodes", () => {
     const stores = makeStores({
       entities: [
