@@ -29,7 +29,7 @@ top-donors:
   - DeVos Family
   - American Federation for Children
   - Walton Family Foundation
-donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Student Loan Servicer Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[DeVos Family]] · [[McDonalds Corporation]] · [[Duke Energy]] · [[WinRed]] · [[DoorDash]] · [[Raytheon (RTX)]] · [[Alliance Coal, LLC PAC]] · [[Walmart - Walton Family]] · [[Nucor Corporation]] · [[Anthem - Elevance Health]] · [[MAJORITY PAC]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[Chevron]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Ron Estes]] · [[National Association of Manufacturers]] · [[Jim Jordan]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[Lockheed Martin]] · [[Gilead Sciences]] · [[National Rifle Association]] · [[Women Speak Out Pac]] · [[National Restaurant Association]] · [[AT&T - WarnerMedia]] · [[NORPAC]] · [[CVS Health - Aetna]] · [[Save America PAC]] · [[VIEW PAC - Value in Electing Women]] · [[Pfizer Inc.]] · [[Republican Jewish Coalition]] · [[Elliott Management]] · [[Charles Schwab]] · [[Instacart]] · [[Citadel - Kenneth Griffin]] · [[Wells Fargo]] · [[Verizon]] · [[US CHAMBER OF COMMERCE]] · [[Morgan Stanley]] · [[Bank of America]] · [[Lyft]] · [[American Enterprise Institute]] · [[CBRE Group]] · [[Apple]] · [[Blackstone Group]] · [[Majority PAC]] · [[AT&T]] · [[US Chamber of Commerce]] · [[Raytheon (RTX Corporation)]] · [[Koch Industries]] · [[Brett Guthrie]] · [[NRA Political Victory Fund]] · [[National Cattlemen's Beef Association]] · [[Gus M. Bilirakis]] · [[Akin Gump Strauss Hauer & Feld]] · [[Williams Companies]] · [[Mariannette Miller-Meeks]] · [[RON ESTES FOR CONGRESS]] · [[Family Research Council Action Political Action Committee]] · [[American College of Radiology Association PAC]] · [[PETE SESSIONS FOR CONGRESS]] · [[Campaign for Working Families]] · [[Gun Owners of America]] · [[Google - Alphabet]] · [[Mike Johnson]] · [[Steve Scalise]] · [[Southern Company]] · [[Pete Sessions]] · [[TEXANS FOR JODEY ARRINGTON]] · [[JIM JORDAN FOR CONGRESS]] · [[BURCHETT FOR CONGRESS]] · [[JOE WILSON FOR CONGRESS]] · [[Tom Emmer]] · [[MARIO DIAZ-BALART FOR CONGRESS]] · [[Paul Ryan]] · [[Anthem Health Plans of Virginia Political Action Committee]] · [[Mario Diaz-Balart]] · [[Jodey Arrington]] · [[Mike Rogers]] · [[Ruben Gallego]] · [[Joe Wilson]] · [[Tim Burchett]] · [[Virginia Sen. Foxx]] · [[Virginia Ann Sen. Foxx]] · [[UNITEMIZED UNDER 200 CONTRIBUTIONS]] · [[SEIU COPE]] · [[American Hospital Association PAC]] · [[Ford Motor Company]] · [[Northrop Grumman]] · [[Microsoft]] · [[Care Action]] · [[ConocoPhillips]] · [[Winning for Women PAC]] · [[Club for Growth INC PAC]] · [[General Motors]] · [[Honeywell International]] · [[RNC - Republican National Committee]] · [[Marathon Petroleum]] · [[National Multifamily Housing Council]] · [[Citigroup]] · [[Comcast - NBCUniversal]] · [[General Dynamics]]"
+donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Student Loan Servicer Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[DeVos Family]] · [[McDonalds Corporation]] · [[Duke Energy]] · [[WinRed]] · [[DoorDash]] · [[Raytheon (RTX)]] · [[Alliance Coal, LLC PAC]] · [[Walmart - Walton Family]] · [[Nucor Corporation]] · [[Anthem - Elevance Health]] · [[MAJORITY PAC]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[Chevron]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Ron Estes]] · [[National Association of Manufacturers]] · [[Jim Jordan]] · [[Associated General Contractors of America Political Action Committee]] · [[Tyson Foods]] · [[Lockheed Martin]] · [[Gilead Sciences]] · [[National Rifle Association]] · [[Women Speak Out Pac]] · [[National Restaurant Association]] · [[AT&T - WarnerMedia]] · [[NORPAC]] · [[CVS Health - Aetna]] · [[Save America PAC]] · [[VIEW PAC - Value in Electing Women]] · [[Pfizer Inc.]] · [[Republican Jewish Coalition]] · [[Elliott Management]] · [[Charles Schwab]] · [[Instacart]] · [[Citadel - Kenneth Griffin]] · [[Wells Fargo]] · [[Verizon]] · [[US CHAMBER OF COMMERCE]] · [[Morgan Stanley]] · [[Bank of America]] · [[Lyft]] · [[American Enterprise Institute]] · [[CBRE Group]] · [[Apple]] · [[Blackstone Group]] · [[Majority PAC]] · [[AT&T]] · [[US Chamber of Commerce]] · [[Raytheon (RTX Corporation)]] · [[Koch Industries]] · [[Brett Guthrie]] · [[NRA Political Victory Fund]] · [[National Cattlemen's Beef Association]] · [[Gus M. Bilirakis]] · [[Akin Gump Strauss Hauer & Feld]] · [[Williams Companies]] · [[Mariannette Miller-Meeks]] · [[RON ESTES FOR CONGRESS]] · [[Family Research Council Action Political Action Committee]] · [[American College of Radiology Association PAC]] · [[PETE SESSIONS FOR CONGRESS]] · [[Campaign for Working Families]] · [[Gun Owners of America]] · [[Google - Alphabet]] · [[Mike Johnson]] · [[Steve Scalise]] · [[Southern Company]] · [[Pete Sessions]] · [[TEXANS FOR JODEY ARRINGTON]] · [[JIM JORDAN FOR CONGRESS]] · [[BURCHETT FOR CONGRESS]] · [[JOE WILSON FOR CONGRESS]] · [[Tom Emmer]] · [[MARIO DIAZ-BALART FOR CONGRESS]] · [[Paul Ryan]] · [[Anthem Health Plans of Virginia Political Action Committee]] · [[Mario Diaz-Balart]] · [[Jodey Arrington]] · [[Mike Rogers]] · [[Ruben Gallego]] · [[Joe Wilson]] · [[Tim Burchett]]"
 related: "[[The Education Committee and Labor Alignment]] · [[DeVos Family]] · [[American Federation for Children]] · [[_Donald Trump Master Profile|Trump]] · [[Walton Family Foundation]]"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; run pipelines
@@ -52,6 +52,7 @@ total-raised: $18.7M
 career-total-source: FEC weball summary (cycles 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026)
 fec-committee-id: C00386748
 ---
+
 
 
 
@@ -145,6 +146,321 @@ fec-committee-id: C00386748
 
 <!-- auto:voting-record start -->
 
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 115th–119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 109th–114th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
 
-| Metric 
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 8,848 |
+| Substantive votes (Y/N) | 8,788 |
+| Votes with party majority | 8,116 |
+| Party-line loyalty | 92.4% |
+| Deviations from party | 671 |
+
+**Coverage:**
+
+- house 109/1: 669 votes
+- house 109/2: 541 votes
+- house 110/1: 1177 votes
+- house 110/2: 688 votes
+- house 111/1: 987 votes
+- house 111/2: 660 votes
+- house 112/1: 945 votes
+- house 112/2: 657 votes
+- house 113/1: 640 votes
+- house 113/2: 562 votes
+- house 114/1: 702 votes
+- house 114/2: 620 votes
+
+**Most recent party-line deviations (top 10 of 671):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2016-12-08 | h1319-114.1 | Nay | Y | HR 4919 |
+| 2016-11-14 | h1275-114.1 | Nay | Y | HR 985 |
+| 2016-09-14 | h1207-114.1 | Nay | Y | — |
+| 2016-09-07 | h1186-114.1 | Nay | Y | HR 5063 |
+| 2016-07-14 | h1176-114.1 | Yea | N | HR 5538 |
+| 2016-07-07 | h1078-114.1 | Nay | Y | HR 5485 |
+| 2016-06-16 | h1006-114.1 | Nay | Y | HR 5293 |
+| 2016-06-16 | h1008-114.1 | Nay | Y | HR 5293 |
+| 2016-06-16 | h1011-114.1 | Yea | N | HR 5293 |
+| 2016-06-16 | h1012-114.1 | Nay | Y | HR 5293 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
+<!-- auto:sponsored-bills start -->
+
+*Bills sponsored in the 108th–119th Congress, from GovInfo Bill Status bulk data. Ranked by enactment + recency.*
+
+| Metric | Value |
+|---|---:|
+| Total sponsored | 134 |
+| Enacted into law | 10 |
+| Top policy areas | Government Operations and Politics · Education · Labor and Employment |
+
+**Enacted laws (top 5):**
+
+| PL # | Date | Bill | Title |
+|---|---|---|---|
+| PL 117-273 | 2022-12-27 | HR.4250-117 | H.R. 4250, War Crimes Rewards Expansion Act |
+| PL 117-233 | 2022-12-19 | HR.5481-117 | To name the Department of Veterans Affairs community-based outpatient clinic in Forest Cit |
+| PL 116-103 | 2019-12-30 | HR.150-116 | GREAT Act |
+| PL 115-204 | 2018-07-23 | HR.951-115 | A bill to extend the deadline for commencement of construction of a hydroelectric project. |
+| PL 115-11 | 2017-03-27 | HJRES.37-115 | A joint resolution disapproving the rule submitted by the Department of Defense, the Gener |
+
+**Recent sponsored bills (non-enacted, top 5):**
+
+| Introduced | Bill | Policy area | Title |
+|---|---|---|---|
+| 2026-03-26 | HR.8102-119 | Labor and Employment | Workforce Investments Accountability Act |
+| 2026-02-26 | HR.7723-119 | Families | H.R. 7723, Safeguarding Taxpayer Dollars in Child Care Act of 2026 |
+| 2025-11-20 | HR.6188-119 | Arts, Culture, Religion | To amend title 36, United States Code, to designate the composition known as "Here Rests i |
+| 2025-11-19 | HR.6139-119 | Labor and Employment | Union Members Right to Know Act |
+| 2025-10-14 | HR.5749-119 | Government Operations and Politics | H.R. 5749, Official Time Reporting Act of 2025 |
+
+*Full list: query Ask with* `subject: bills, sponsor_bioguide: F000450` *· Source: GovInfo Bill Status XML bulk.*
+<!-- auto:sponsored-bills end -->
+
+#virginia-foxx #republican #north-carolina #house #committee-chair #education #for-profit-colleges #labor #student-debt #phase-6-gavel-power
+
+donors: [[DeVos Family]] [[American Federation for Children]] [[Walton Family Foundation]]
+
+---
+---
+
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 137 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (23)
+- Education (21)
+- Labor and Employment (15)
+- Health (12)
+- International Affairs (12)
+- Immigration (9)
+- Taxation (9)
+- Crime and Law Enforcement (8)
+- Civil Rights and Liberties, Minority Issues (5)
+- Economics and Public Finance (4)
+
+**Recent bills sponsored:**
+
+- HR 10425: To amend and reauthorize the Workforce Innovation and Opportunity Act and the Older Americans Act of 1965.
+- HR 10257: Protect Economic Freedom Act
+- HR 10087: Disaster Recovery and Resilience Act of 2024
+- HR 10088: Helene Recovery Support Act
+- HR 8573: Union Members Right to Know Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+## Who They Are
+
+Virginia Foxx. Republican, North Carolina's 5th District. Chair of the House Education and Workforce Committee (2023–2025; previously chaired 2017–2019). First elected to Congress in 2004 after 10 years in the North Carolina State Senate. Before politics, Foxx was President of Mayland Community College (1987–1994), a biographical detail she leverages for education expertise while running interference for the for-profit college industry that funds her campaigns. She is the single largest recipient of for-profit college industry campaign donations in Congress: $81,800 in the 2021–2022 cycle alone, nearly four times what any other member received.
+
+Net worth: $3.4–$10.5 million (2023 financial disclosure). Age 82 (born 1943). Ph.D. from UNC Greensboro. Now in her 11th term.
+
+- {{src:src_004136}} (Tier 1) (VERIFIED)
+- {{src:src_004136}} (Tier 1) (VERIFIED)
+
+---
+
+## The Central Thesis
+
+Virginia Foxx is the for-profit college industry's legislative shield. Her committee controls higher education policy, student loan rules, accreditation standards, Title IV funding eligibility, and regulatory oversight of colleges. Every major legislative action she has taken as chair, killing gainful employment rules, undermining the 90/10 rule, blocking the College Transparency Act, opposing Biden's student loan forgiveness, removes regulatory constraints that limit for-profit college profitability. The industry that depends on federal student loan dollars for survival funds her campaigns, and she uses her committee gavel to ensure those dollars keep flowing without accountability. The students who take on debt to attend these schools are the raw material; the for-profit shareholders are the beneficiaries.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Foxx publicly acknowledges the college cost crisis. Her own words: "As a society, it is time to face the music... We are scamming young Americans. College prices are skyrocketing, and college value is stagnating." Then she proposes eliminating gainful employment rules (which require colleges to prove graduates can repay their loans) and the 90/10 rule (which requires for-profits to get 10% of revenue from non-federal sources). She names the disease and then kills the treatment — because the treatment threatens the for-profit colleges that fund her.
+
+---
+
+## Donor Class Map
+
+### For-Profit Education Industry (Primary Donor Sector):
+Foxx is Congress's top recipient of for-profit college money. The relationship is structural and sustained.
+
+| Donor/Entity | Amount | Cycle | Notes |
+|--------------|--------|-------|-------|
+| For-profit college sector (total) | $81,800 | 2021–2022 | Nearly 4x any other member of Congress |
+| Full Sail University executives | $20,600 | 2017–2018 | Florida for-profit college |
+| Apollo Global Management | $52,700 | 2023–2024 | Private equity owner of University of Phoenix |
+| APSCU/CECU PAC | Top 3 donor | Multiple cycles | For-profit college trade association |
+
+- [Republic Report: As House Education Chair Probes For-Profit Colleges, Ranking Republican Foxx Takes Their Donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2) (VERIFIED)
+
+### Mega-Donor Individual Contributors:
+| Donor | Amount | Cycle | Connection |
+|-------|--------|-------|------------|
+| Stephen Schwarzman (Blackstone) | $6,636 | 2024 | Private equity; education investment |
+| Paul Singer (hedge fund) | $28,400 | 2016–2024 | Conservative mega-donor |
+| Ken Griffin (Citadel) | $8,882 | 2019–2023 | Hedge fund; anti-regulation |
+| Richard and Betsy DeVos | $5,800 | 2021 | [[DeVos Family]]; [[American Federation for Children]] founders |
+| Sheldon and Miriam Adelson | $18,400 | 2005–2009 | Mega-donor; Israel lobby |
+
+### Corporate PAC Donors (2023):
+McDonald's, Lowe's, Deere & Company, Discover Financial Services, Caterpillar, Abbott Laboratories, UPS, Home Depot, UBS, Boeing.
+
+### Funding Mix (2023–2024):
+- 61.04% large individual contributions
+- 36.72% PAC contributions
+- 2.23% small individual contributions
+
+- {{src:src_004136}} (Tier 1) (VERIFIED)
+
+---
+
+## Donation-to-Policy Timeline
+
+| Date | Event | Amount | Source |
+|------|-------|--------|--------|
+| 2017 | Foxx chairs Education Committee; receives $48,668+ from for-profit colleges in first year | $48,668+ | Republic Report |
+| 2017 | Foxx introduces PROSPER Act, eliminates gainful employment and 90/10 rules |, | Inside Higher Ed |
+| 2020 | Foxx pressures CECU (for-profit trade group) to increase GOP giving from industry |, | Republic Report |
+| 2021 | Richard and Betsy DeVos contribute $5,800 | $5,800 | FEC |
+| 2021–2022 | For-profit college sector gives Foxx $81,800, highest in Congress | $81,800 | Republic Report |
+| 2022-01 | Foxx attends fundraiser at Miami Media School (for-profit) with Arthur Keiser of Keiser University, while her committee was investigating for-profit college abuses |, | Republic Report |
+| 2023 | Foxx reclaims Education Committee chair |, | Higher Ed Dive |
+| 2023-05 | Foxx leads House vote overturning Biden student debt relief (218–203) |, | The Hill |
+| 2023–2024 | Apollo Global Management contributes $52,700 | $52,700 | OpenSecrets |
+| 2024 | Foxx introduces College Cost Reduction Act, rolls back gainful employment and 90/10 rules again |, | EdWorkforce Committee |
+
+> [!money]
+> The fundraiser at Miami Media School in January 2022 crystallizes the corruption pattern. Foxx attended a fundraiser hosted by a for-profit college executive — Arthur Keiser of Keiser University, which was facing law enforcement probes for student recruiting abuses — at the same time her committee was ostensibly investigating for-profit college practices. The investigator was fundraising from the investigated. The timeline is not even sequential — it's simultaneous.
+
+---
+
+### Key Legislative Actions
+
+### The PROSPER Act (2017):
+Foxx's flagship legislation as first-term chair would have reauthorized the Higher Education Act while gutting student protections: eliminating the "gainful employment" rule (requiring colleges to prove graduates can repay loans), dropping the "90/10 rule" (requiring for-profits to get 10% of revenue from non-federal sources), and weakening accountability standards across the board. The bill never passed the Senate but established Foxx's legislative priorities, a deregulation agenda written to for-profit college specifications.
+
+- [Inside Higher Ed: U.S. House committee leaks summary of broad plan for reauthorizing Higher Education Act](https://www.insidehighered.com/news/2017/11/30/us-house-committee-leaks-summary-broad-plan-reauthorizing-higher-education-act) (Tier 2) (VERIFIED)
+
+### Student Loan Forgiveness Opposition (2023):
+As committee chair, Foxx was the primary architect and spokesperson of the House resolution overturning Biden's student debt relief plan, which passed 218–203. Her framing: "Two-thirds of this debt transfer plan would go to the top half of earners. It takes from those in the lower half and gives to the upper half." After the Supreme Court struck down Biden's plan, she celebrated: "Mr. President, good riddance to your illegal, economically disastrous taxpayer-funded bailout for the wealthy." The "regressive" framing selectively ignores that 91% of targeted borrowers earned under $75,000.
+
+
+### College Cost Reduction Act (2024):
+Foxx's second attempt at the same deregulation agenda, rolling back Biden-era reinstatement of gainful employment and 90/10 rules. The pattern is persistent: the same donor-aligned deregulation reintroduced under different names across multiple sessions.
+
+### College Transparency Act Opposition:
+Foxx has fiercely opposed legislation requiring colleges to report standardized data on student outcomes, completion rates, graduate earnings, loan default rates. Transparency is the single greatest threat to for-profit college business models that depend on students enrolling without understanding the likely return. Foxx opposes it because her donors need students to remain uninformed.
+
+### Title IX Opposition (2024):
+Foxx vehemently opposed Biden's Title IX rule expanding gender identity protections, using culture-war framing to rally conservative support. This serves a dual function: it energizes the base on social issues while distracting from the committee's primary function of protecting for-profit college profitability.
+
+---
+
+## Analytical Patterns
+
+**Donor-Class Override:** Foxx's most prominent pattern. The for-profit college industry's policy preferences override every available data point. Rigorous studies from Indiana, Ohio, Louisiana, and Washington D.C. consistently show negative academic outcomes for voucher and for-profit college students. Voters reject voucher programs every time they vote directly (Kentucky 2024: lost every county). None of this evidence alters Foxx's legislative agenda, because the agenda is not evidence-driven, it is donor-driven.
+
+**Two-Audience Problem:** Foxx tells voters she's fighting college cost inflation and holding institutions accountable. She tells the for-profit college industry, at their fundraisers, in their venues, that she'll eliminate the regulations that constrain their revenue. The gap between the two messages is the for-profit college industry's profit margin.
+
+**Genuine Win + Structural Limit:** Foxx's rhetoric about college costs contains a genuine observation, tuition is too high and many students are scammed. But her proposed solutions (deregulation, reduced transparency, weakened gainful employment rules) make the problem worse by removing the mechanisms designed to constrain predatory pricing. She names the crisis, then protects the institutions causing it.
+
+**Revolving Door (personal):** Foxx's biography as President of Mayland Community College (1987–1994) creates a revolving door that predates her political career. She moved from running an educational institution to legislating on behalf of the education industry, her first-hand knowledge of the sector serves as both expertise and conflict of interest.
+
+---
+
+## Rhetorical Signature Moves
+
+**"Taxpayer bailout" inversion:** Foxx frames student loan forgiveness as a bailout for the wealthy, inverting the class dynamics. The students holding the debt are overwhelmingly working-class (median borrower income ~$35K, 62% Black, 71% women). The "wealthy" who benefit from Foxx's alternative, for-profit college deregulation, are the shareholders and private equity firms that own these schools. The rhetorical move transfers the "bailout" label from Wall Street to students.
+
+**"Accountability" as deregulation:** Foxx calls her deregulation proposals "accountability" measures. The PROSPER Act was framed as holding schools accountable, by eliminating the metrics that measure accountability. Removing gainful employment rules means schools no longer have to prove their graduates can repay loans. This is the opposite of accountability, rebranded.
+
+**Personal biography as authority:** Foxx invokes her role as Mayland Community College president to claim expertise on higher education. The expertise is real; the conflict of interest it creates is never acknowledged. Her knowledge of how the education sector works makes her a more effective advocate for the industry, not a more effective regulator of it.
+
+**Culture war as distraction:** Title IX and transgender sports controversies generate media coverage and base enthusiasm. They also redirect attention from Foxx's primary committee function: ensuring federal student loan dollars flow to for-profit colleges with minimal oversight. The culture war is the show; the deregulation is the business.
+
+---
+
+## Class Analysis
+
+Virginia Foxx serves the for-profit education industry and its private equity backers with exceptional directness. The for-profit college business model depends on federal student loan dollars, without Title IV funding, most for-profit institutions would collapse overnight. Foxx's committee controls the rules governing that funding: who qualifies, what accountability standards apply, and whether students can access meaningful data about institutional quality. Every major action she has taken as chair reduces accountability, weakens transparency, and preserves the flow of federal dollars to institutions that produce poor outcomes for students but reliable returns for shareholders. Apollo Global Management (University of Phoenix's parent) contributes $52,700 in the same cycle Foxx proposes eliminating the regulations that constrain their business. The [[DeVos Family]] contributes $5,800 while their [[American Federation for Children]] advances the same deregulation agenda through dark money channels. The students who borrow $200,000 to attend schools Foxx protects from accountability are the raw material. The private equity firms that own those schools are the clients.
+
+---
+
+## Sources
+
+- {{src:src_004136}} (Tier 1)
+- {{src:src_004136}} (Tier 1)
+- [House Education and Workforce Committee: Full committee membership](https://edworkforce.house.gov/committee/fullcommittee.htm) (Tier 1) (VERIFIED)
+- [EdWorkforce Committee: Chair Foxx releases new report on student debt](https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=412129) (Tier 1) (VERIFIED)
+- [Republic Report: As House Education Chair Probes For-Profit Colleges, Ranking Republican Foxx Takes Their Donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2)
+- [Truthout: Congresswoman Accepts Money Tied to For-Profit Colleges, Then Touts Schools' Efficiency](https://truthout.org/articles/congresswoman-accepts-money-tied-to-forprofit-colleges-then-touts-schools-efficiency/) (Tier 2) (VERIFIED)
+- [Truthout: Pro-Israel Billionaires Line Up Behind NC Republican Leading Campus Witch Hunt](https://truthout.org/articles/pro-israel-billionaires-line-up-behind-nc-republican-leading-campus-witch-hunt/) (Tier 2) (VERIFIED)
+- [The Hill: House passes measure overturning Biden's student debt forgiveness](https://thehill.com/homenews/education/4019425-house-passes-measure-overturning-bidens-student-debt-forgiveness-program/) (Tier 2)
+- [Inside Higher Ed: Who's Afraid of Virginia Foxx?](https://www.insidehighered.com/news/government/2023/03/08/foxx-back-charge-pledges-oversight-stronger-accountability) (Tier 2) (VERIFIED)
+- [Higher Ed Dive: Virginia Foxx reclaims chair of House education committee](https://www.highereddive.com/news/virginia-foxx-reclaims-chair-of-house-education-committee/640004/) (Tier 2) (VERIFIED)
+- [Inside Higher Ed: House committee leaks plan for reauthorizing Higher Education Act](https://www.insidehighered.com/news/2017/11/30/us-house-committee-leaks-summary-broad-plan-reauthorizing-higher-education-act) (Tier 2) (VERIFIED)
+- [New America: How the G.O.P. Became For-Profit College Abuse Deniers](https://www.newamerica.org/insights/gop/) (Tier 2) (VERIFIED)
+- [New Republic: GOP Lawmaker Erases Maxwell Frost's Student Debt Argument From the Record](https://newrepublic.com/post/172968/gop-lawmaker-virginia-foxx-erases-maxwell-frost-student-debt-argument-record) (Tier 2) (VERIFIED)
+- [Wikipedia: Virginia Foxx](https://en.wikipedia.org/wiki/Virginia_Foxx) (Tier 3) (VERIFIED)
+- [Ballotpedia: Virginia Foxx](https://ballotpedia.org/Virginia_Foxx) (Tier 3) (VERIFIED)
+- [GovTrack: Virginia Foxx voting record](https://www.govtrack.us/congress/members/virginia_foxx/400643) (Tier 3) (VERIFIED)
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | North Carolina |
+| Chamber | House of Representatives |
+| Bills Sponsored | 259 |
+| Bills Cosponsored | 1747 |
+
+**Policy areas:** Arts, Culture, Religion, Congress, Economics and Public Finance, Education, Energy, Families, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Science, Technology, Communications
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8102 | Workforce Investments Accountability Act | Referred to the House Committee on Education and Workforce. |
+| 1115 | Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of … | Motion to reconsider laid on the table Agreed to without objection. |
+| 7723 | Safeguarding Taxpayer Dollars in Child Care Act of 2026 | Placed on the Union Calendar, Calendar No. 509. |
+| — |  | On agreeing to the Foxx amendment (A001) Agreed to by the Yeas and Nays: 427 - 0 (Roll no. 40). |
+| 1014 | Providing for consideration of the bill (H.R. 7148) making further consolidated … | Motion to reconsider laid on the table Agreed to without objection. |
+| 992 | Providing for consideration of the bill (H.R. 7006) making further consolidated … | Motion to reconsider laid on the table Agreed to without objection. |
+| 6188 | To amend title 36, United States Code, to designate the composition known as "He… | Referred to the House Committee on the Judiciary. |
+| 6139 | Union Members Right to Know Act | Referred to the House Committee on Education and Workforce. |
+
+<!-- auto:congress-legislation end -->
+
+## Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[American Federation for Children]] — $3.1M lobbying spend (Aerospace, Agriculture, Animals)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
+<!-- auto:influence-cross-ref end -->
+
+### Voting Record
+
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: House passes measure overturning Biden's student debt forgiveness](https://thehill.com/homenews/education/4019425-house-passes-measure-overturning-bidens-student-debt-forgiveness-program/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/F000450)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

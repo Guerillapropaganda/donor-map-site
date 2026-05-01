@@ -238,8 +238,39 @@ export class Resolver {
     //    making "Bob Menendez" ambiguous and unresolvable.
     const entityByProfilePath = new Map<string, RawEntity>()
     const entityBioguideToNodeId = new Map<string, NodeId>()
+    // ADR-0001 class-tag fields live at the TOP LEVEL of entity records
+    // (e.capital_type, e.ideological_function, etc.), NOT inside e.signals.
+    // The resolver formerly only copied e.signals into node.meta which
+    // hid all 706 class-tagged donors from classProfile / influenceMap
+    // (cc_p3_209 thesis-page build surfaced this — every politician
+    // returned 0 capital_clusters even though entities.jsonl carries
+    // proper tags). Merge top-level class-tag fields into meta so
+    // classProfile can read them.
+    const CLASS_TAG_FIELDS = [
+      "capital_type",
+      "secondary_capital_type",
+      "class_position",
+      "ideological_function",
+      "worker_relationship",
+      "policy_stakes",
+      "serves_capital_type",
+      "class_origin",
+      "stated_positions",
+      "voting_record",
+      "contradiction_index",
+      "bloc_membership",
+      "primary_funders_class",
+      "tags_approved",
+    ] as const
     for (const e of stores.entities) {
       if (e.profile_path) entityByProfilePath.set(e.profile_path, e)
+      // Build meta = signals ⊎ top-level class-tag fields. signals wins
+      // on collision (signals is the canonical container for everything
+      // else; class tags are the documented exception).
+      const baseMeta: Record<string, unknown> = { ...(e.signals ?? {}) }
+      for (const f of CLASS_TAG_FIELDS) {
+        if (e[f] !== undefined && baseMeta[f] === undefined) baseMeta[f] = e[f]
+      }
       const node: Node = {
         id: nodeIdFor(e, e.name, e.profile_path),
         name: e.name,
@@ -247,7 +278,7 @@ export class Resolver {
         profile_path: e.profile_path,
         ids: { entity_id: e.id },
         aliases: [e.name],
-        meta: e.signals ?? {},
+        meta: baseMeta,
       }
       // Honor entity-declared bioguide. Source of truth — entity records
       // know their identity; legislator-step name-form matching only fills
