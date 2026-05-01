@@ -52,6 +52,7 @@ const {
   contributorName,
   isoDate,
   cycleFromDate,
+  cycleAttribution,
   BULK_DIR,
 } = require('./lib/cal-access-helpers.cjs');
 
@@ -229,6 +230,7 @@ function applyDonorAlias(donorName, aliasMap) {
   let droppedNoDonor = 0;
   let droppedNoAmount = 0;
   let droppedNonDonor = 0;
+  let cycleDivergenceCount = 0;
   const nonDonorMoneyByName = new Map();
 
   for await (const row of streamTSV(tablePath('RCPT_CD'), { limit: LIMIT || Infinity })) {
@@ -272,10 +274,15 @@ function applyDonorAlias(donorName, aliasMap) {
     const amount = parseFloat(row.AMOUNT || '0');
     if (!amount || amount <= 0) { droppedNoAmount++; continue; }
 
-    // Cycle from date
-    const dateIso = isoDate(row.RCPT_DATE);
-    const cycle = cycleFromDate(dateIso);
+    // Cycle attribution — use DATE_THRU when it diverges from RCPT_DATE by
+    // >1 cycle (amended filing of a historical transaction). Phase 5 fix.
+    const cycleAttr = cycleAttribution(row.RCPT_DATE, row.DATE_THRU);
+    const cycle = cycleAttr.cycle;
+    const dateIso = cycleAttr.date_used === 'date_thru' ? cycleAttr.thru_iso : cycleAttr.rcpt_iso;
     if (!cycle) continue;
+    if (cycleAttr.divergence_detected) {
+      cycleDivergenceCount++;
+    }
 
     // Aggregation
     // For controlled committees: edge target = candidate name
@@ -314,6 +321,9 @@ function applyDonorAlias(donorName, aliasMap) {
   const p3secs = ((Date.now() - p3t0) / 1000).toFixed(1);
   console.log(`\n  ${rcptRows} RCPT rows scanned in ${p3secs}s`);
   console.log(`  matched=${matched}  unmatched=${unmatched}  dropped_no_donor=${droppedNoDonor}  dropped_no_amount=${droppedNoAmount}  dropped_non_donor=${droppedNonDonor}`);
+  if (cycleDivergenceCount > 0) {
+    console.log(`  cycle-divergence: ${cycleDivergenceCount} amended filings (used DATE_THRU instead of RCPT_DATE)`);
+  }
   if (aliasHits.size > 0) {
     const totalAliasHits = [...aliasHits.values()].reduce((a, b) => a + b, 0);
     console.log(`  alias merges: ${totalAliasHits} receipts collapsed across ${aliasHits.size} variant strings`);

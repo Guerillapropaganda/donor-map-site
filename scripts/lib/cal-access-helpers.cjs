@@ -179,12 +179,55 @@ function cycleFromDate(dateStr) {
   return y + 1; // off-year contribution counts toward the next election
 }
 
+/**
+ * Cycle attribution that prefers transaction date (DATE_THRU) over filing
+ * date (RCPT_DATE) when they diverge — fixes the amended-filing bug where
+ * a 2016 transaction filed via 2025 amendment got tagged as cycle=2026.
+ *
+ * Logic:
+ *   - If only RCPT_DATE present → use it (most common case)
+ *   - If only DATE_THRU present → use it (rare but valid)
+ *   - If BOTH present → check divergence:
+ *       - Same year or off-by-one (normal for late-cycle filings) → RCPT_DATE
+ *       - More than 1 cycle apart → DATE_THRU is the actual transaction date,
+ *         use it; flag the divergence so the harness can audit it
+ *
+ * Returns: { cycle: number|null, date_used: 'rcpt'|'date_thru'|null,
+ *            divergence_detected: boolean, rcpt_iso: string, thru_iso: string }
+ */
+function cycleAttribution(rcptDateRaw, dateThruRaw) {
+  const rcptIso = isoDate(rcptDateRaw);
+  const thruIso = isoDate(dateThruRaw);
+  const rcptCycle = cycleFromDate(rcptIso);
+  const thruCycle = cycleFromDate(thruIso);
+
+  if (!rcptCycle && !thruCycle) {
+    return { cycle: null, date_used: null, divergence_detected: false, rcpt_iso: rcptIso, thru_iso: thruIso };
+  }
+  if (rcptCycle && !thruCycle) {
+    return { cycle: rcptCycle, date_used: 'rcpt', divergence_detected: false, rcpt_iso: rcptIso, thru_iso: thruIso };
+  }
+  if (!rcptCycle && thruCycle) {
+    return { cycle: thruCycle, date_used: 'date_thru', divergence_detected: false, rcpt_iso: rcptIso, thru_iso: thruIso };
+  }
+  // Both present — detect divergence
+  const yearDelta = Math.abs(rcptCycle - thruCycle);
+  if (yearDelta <= 2) {
+    // Within 1 cycle — normal late-filing pattern, prefer rcpt (matches pre-fix behavior)
+    return { cycle: rcptCycle, date_used: 'rcpt', divergence_detected: false, rcpt_iso: rcptIso, thru_iso: thruIso };
+  }
+  // More than 1 cycle apart — RCPT is an amendment of a historical transaction.
+  // Use DATE_THRU as the real transaction cycle.
+  return { cycle: thruCycle, date_used: 'date_thru', divergence_detected: true, rcpt_iso: rcptIso, thru_iso: thruIso };
+}
+
 module.exports = {
   BULK_DIR,
   tablePath,
   assertBulkDir,
   streamTSV,
   loadTSV,
+  cycleAttribution,
   buildFilingToFiler,
   buildFilerNames,
   buildFilerCategories,
