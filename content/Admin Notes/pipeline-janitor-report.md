@@ -4,13 +4,13 @@ type: admin-note
 note-type: data
 priority: normal
 status: open
-last-updated: '2026-04-30'
+last-updated: '2026-05-01'
 generated-by: scripts/pipeline-janitor.cjs
 ---
 
 # Pipeline Janitor Report
 
-Generated: 2026-04-30T19:45:50.245Z
+Generated: 2026-05-01T16:23:11.981Z
 Mode: DRY RUN (report only)
 
 ## Pipeline Status
@@ -24,7 +24,7 @@ Findings below are split into three buckets:
 
 ## Summary
 
-- Profiles scanned: 3291
+- Profiles scanned: 3304
 - Profiles at ready/verified audited: 250
 - Profiles with issues: **250**
 - Total issues: 573

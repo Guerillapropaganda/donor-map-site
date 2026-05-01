@@ -1,8 +1,189 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-30
+last-updated: 2026-05-01
 ---
+
+## HANDOFF — 2026-05-01 (cc_p3_220 → cc_p3_245, editorial pivot to beat-style site + CA Gov 2026 dossier sprint + Perplexity verification rounds + homepage/first-beat prototypes)
+
+**Context:** Code Claude. Worktree `claude/unruffled-gauss-7bde0b`, Opus 4.7 (1M context). 14 commits across one extended session. Started from cc_p3_209 handoff (PUNCHY-WOW editorial pivot was the mandate). Strategic conversation locked in beat-style site direction (one investigator voice, one race at a time, no database surface). Built CA Gov 2026 dossier sprint with two Perplexity-verified rounds (anti-Steyer + Becerra), shipped homepage + first beat prototypes, and locked in two permanent editorial standards.
+
+### THIS SESSION'S DELIVERABLES (all shipped to v4 branch)
+
+**STRATEGIC PIVOT — beat-style site, not database (cc_p3_220 → cc_p3_222)**
+Multi-turn editorial conversation locked in a fundamentally different product shape:
+- Drop "1,500 profile database" framing entirely from public site
+- Public surface = homepage + per-beat investigation pages, nothing else
+- Vault stays as private research scaffolding for David's curation
+- One person investigative voice ("I name the donors. I map the money. I show the contradictions.")
+- One race / one investigation at a time
+- Each beat is its own permalinkable page with hero visualization + receipts + sources
+- All operations pages stay private (queries, librarian, harness, dashboards = David's tooling)
+- Class-traitor framing applies AT BEAT LEVEL when the data supports it; homepage frames the project itself
+
+**CHART COMPONENTS PROTOTYPE (cc_p3_223 — `prototype/charts.html`)**
+4 reusable visualization components in brutalist Donor Map design language:
+- DonorClassPie (real McConnell data, 11 capital clusters, donut + legend)
+- DonorStripe (4-segment money composition bar)
+- VotingDivergenceSparkline (Manchin 20%, divergence-distance encoding)
+- MoneyFlowSankey (donor → committee → recipient ribbons)
+View at `http://localhost:8096/charts`. HTML/SVG prototype shape; needs porting to Quartz components for live integration.
+
+**ADR-0030 §10 AMENDMENT 2026-05-01 (cc_p3_224 — `content/Decisions/0030-code-audit-external-access-carveout.md`)**
+Adds 3 UK government primary-source domains to §1 active allowlist:
+- search.electoralcommission.org.uk (UK EC donations DB)
+- find-and-update.company-information.service.gov.uk (Companies House)
+- hansard.parliament.uk (UK Parliament debate record)
+Authorized scope: foreign-operator vault entries where pre-US political career is load-bearing context for current US-political relevance. Hilton was the immediate trigger. Allowlist updated in `scripts/lib/code-audit-fetcher.cjs` PHASE_1_DOMAINS.
+
+**HILTON UK RESEARCH (cc_p3_225–227 — `content/Admin Notes/ca-gov-2026-hilton-uk-research-2026-05-01.md`)**
+Companies House primary-source verification:
+- Crowdpac Limited (UK) #10133929 wound up via **Members' Voluntary Liquidation 2019-2020** (LIQ01/LIQ13/GAZ2 forms — solvent deliberate wind-down, NOT dormant strike-off or compulsory liquidation)
+- Director: HILTON, Stephen Glenn Charles (full legal name confirmed)
+- Co-directors: Paul Hilder, Gisel Lynn Kordestani (likely related to Omid Kordestani — Companies House confirms Omid has UK director records)
+- UK EC: ZERO donations from Hilton or Whetstone — substantive negative finding (both were Conservative Party EMPLOYEES, not donor-class members)
+- Hansard CF-blocked, defer to manual research
+
+David's Perplexity research (`Hilton_Verification_Followups.md`) corrected multiple training-knowledge errors:
+- Whetstone is at Sierra (AI startup chaired by Bret Taylor, OpenAI's board chair), NOT OpenAI
+- HPE and Nextdoor never happened — drop from her CV
+- Naturalization confirmed May 11, 2021, San Francisco USCIS field office (triple-sourced)
+- "Crowdpac lawsuit between Hilton and Hilder" DOES NOT EXIST — actual federal proceeding was FEC MUR 7309/7399 filed by Republican former House candidates
+- Real Hilton lawsuit: *Hilton v. Weber* (Sept 4 2025) — challenging CA Sec of State on Prop 50 / redistricting — preliminary injunction denied
+- British citizenship status discrepancy worth flagging (Wikipedia: renounced; Wikidata + 2026 sources: dual citizen)
+
+**CA GOV 2026 DOSSIER SPRINT — Phases 1-5e (cc_p3_228–238 — `content/Admin Notes/ca-gov-2026-dossiers/`)**
+9 candidate research dossiers compiled from helper-verified Cal-Access primary records:
+- Becerra, Porter, Steyer, Hilton, Bianco, Villaraigosa, Mahan, Thurmond (deep) + Ware (structural investigation — why third parties can't win)
+- Each carries top donors with $ amounts, dominant capital cluster, biggest contradiction, vote/stance history, confidence flags, open verification questions
+- Cross-cutting summary in `_summary.md`
+- 13 derived JSON extracts in `data/derived/ca-gov-2026/`
+- 6 reusable scripts in `scripts/` for future races
+
+Three correction rounds (Phase 5b → 5c → 5d) surfaced four distinct librarian misattribution patterns:
+1. Cycle-misattribution on amended filings (RCPT_DATE conflated with DATE_THRU)
+2. Direction-flow misattribution on opposition committees ("NO ON [CANDIDATE]" pattern not respected)
+3. Duplicate-counting on similar-spelling donor names (PG&E Corp vs Pacific Gas & Electric Corp)
+4. Candidate-self-fund undercount (graph-integrity partition not surfaced in dossier views)
+
+**LIBRARIAN DATA-QUALITY INFRASTRUCTURE (cc_p3_239 — Phase 5e structural fix)**
+- Pipeline fix: `cycleAttribution()` helper in `scripts/lib/cal-access-helpers.cjs` uses DATE_THRU when it diverges from RCPT_DATE by >1 cycle. Updated `scripts/ingest-cal-access-bulk.cjs` to use helper.
+- 4 harness checks built + wired into `scripts/vault-audit.cjs` via new `parseGenericFindings` parser:
+  - `scripts/cycle-divergence-check.cjs`
+  - `scripts/opposition-committee-direction-check.cjs` (initial run: 25 override-file gaps, 0 librarian leaks)
+  - `scripts/donor-name-clustering-check.cjs` (initial run: 40 missing aliases including Reed Hastings $29M)
+  - `scripts/self-fund-integration-check.cjs` (initial run: 2 self-fund candidates, 0 profile gaps)
+- New `scripts/lib/cal-access-claim-verifier.cjs` — verified-claim helper for forensic dossier extraction. Direct primary-source filing trace through CVR_CAMPAIGN_DISCLOSURE_CD, FILERNAME_CD pro/anti identification, self-fund partition reading. Public API: findCommitteeRole, findContributions, verifyContribution, getSelfFundTotal.
+
+Re-verification via the helper found Mahan IE PAC was 4× undercounted (~$2M previously identified vs ~$8M+ verified). Phase 5e dossier extensions written for Mahan, Porter, Villaraigosa, Thurmond.
+
+**ANTI-STEYER PERPLEXITY VERIFICATION (cc_p3_240 — David ran research pass)**
+`Anti_Steyer_Verification_Report.md` confirmed 8/8 prior claims with substantive corrections:
+1. PG&E + IBEW total = $10,050,000 (not $10,025,000) — missed second IBEW $25K contribution on 4/20/2026
+2. Committee 1489677 first F410 was 3/27/2026 (not 4/1/2026) — 4/1 was an amendment effective date
+3. **Compliance firms tiered, not single-shop:** Nielsen Merksamer (San Rafael) files for 1490270 + Mahan IE PACs (1487425, 1488176). **Deane & Company (Sacramento)** files for 1489677 (anti-Steyer spender) + CAR-adjacent FAIRPAC. Different firms, industry-aligned division of labor.
+4. The "$21,025,000" is contributions RAISED to oppose Steyer, not expenditures MADE. Schedule D actual IE-spending through 4/17 = $13,892,448.41.
+5. Independently confirmed by FPPC's own Top 10 Contributors page (matches to dollar).
+
+Bonus deeper trace found ~$31M total anti-Steyer infrastructure (1489677 itself spending $21M, with funders including PG&E via 1490270 transfer, CA Realtors $5M, Cal Chamber JOBSPAC $5M, CA Building Industry $1M, CCPOA $25K, plus admin support from CA Electric Utility Industry Labor-Management Cooperation Committee).
+
+Corrections applied to Steyer dossier + memes via `scripts/apply-perplexity-anti-steyer-corrections.cjs`.
+
+**MAY 1 MEMES + DETAIL PAGE (cc_p3_241–243 — `prototype/memes-may-1.html`)**
+12 X-droppable memes (1080×1080) → consolidated to 6 per David's edit. Three story groups:
+1. PG&E vs Steyer + commissioned polling (3 memes)
+2. Becerra surge + Anthem coalition (2 memes)
+3. Crypto industry hedges all three lanes (1 combined meme)
+
+Each card brutalist Donor Map design, source-cited footer, all FPPC primary-source verified.
+Plus a long-form detail page (~1500 words) with the three-forces analysis + receipts.
+
+Important correction during build: the "Gudelunas poll commissioner" claim was unverifiable from primary FPPC records (came from a Twitter reply, not Madrid's disclosure or pollster attribution). Replaced with the verified $30K David Binder Research opposition polling expenditure (Cal-Access EXPN_CD filing 3138008).
+
+**BECERRA PERPLEXITY VERIFICATION (cc_p3_244 — David ran research pass)**
+`Becerra_Donor_Verification_Report.md` confirmed 10/10 donors with major editorial findings:
+- **Prime Healthcare Services**: HHS-OIG Corporate Integrity Agreement #2 was operative for Becerra's ENTIRE HHS tenure (March 19 2021 – January 20 2025). Plus $37.5M False Claims Act settlement July 2021. Then $20K to Becerra for Governor 2026 on 9/26/2025. Strongest direct conflict-of-interest finding on the donor list.
+- **Alonzo Cantu / DHR Health**: Co-founder of Doctors Hospital at Renaissance — directly affected by ACA §6001 / Stark Law. Federal qui tam case 2011-2022 dismissed (Cantu not liable). Plus $47,300 same-day Cantu-family donation cluster on 6/12/2025 — three of four are DHR-affiliated physicians.
+- **Raul Ayala title materially understated**: Cal-Access "Manager" → reality is senior physician executive (Ambulatory Medical Officer / DIO / CMO / President-Elect California Academy of Family Physicians) at Adventist Health
+- **Kelly Ayala = OB/GYN at Kaiser Permanente Fresno**, likely spouse to Raul (combined household $50,000)
+- **Morgan Chu = Partner + Chair of Litigation Practice at Irell & Manella**. Did the $1.2B Juno/Sloan Kettering vs Kite Pharma CAR-T case. No direct IRA-opposition work identified.
+- **AltaMed = largest FQHC in California**, $1.72B revenue, multiple HRSA grants under HHS during Becerra's tenure
+- **McNicholas firm** gave $944,124 across CA Democrats 2025-26, identical $25K to BOTH Becerra AND Porter (verified hedge-giving)
+- **Cindy Horn = Cynthia Harrell Horn**, wife of Alan Horn (Disney studio chair), no HHS hook (ideological giving)
+- **Glen Dake** = landscape architect (FASLA), NOT building architect — minor Cal-Access imprecision
+
+CORRECTIONS NOT YET APPLIED to Becerra dossier — that is first priority for next session.
+
+**HOMEPAGE + FIRST BEAT PROTOTYPES (cc_p3_245 — `prototype/home.html` + `prototype/beat-class-traitor.html`)**
+
+Homepage:
+- Brand: THE DONOR / Map. (italic serif on second word)
+- Tagline: "I name the donors. I map the money. I show the contradictions."
+- Mission (~35 words): "The Donor Map is one person following political money. One race at a time. Every donation pulled from primary-source filings. Every donor named. Every contradiction shown."
+- Featured beat card with daisy-chain SVG (5 industries → anti-Steyer committee → Steyer)
+- 3-card "more investigations" placeholder grid (Becerra, Mahan, Crypto hedge)
+- Dark footer with subscribe CTAs
+
+First beat at `/class-traitor`:
+- Headline: "$31 million to bury a class traitor."
+- Deck: "California's donor class organized against him: utility, realtors, chamber, developers, prison guards. The only billionaire in the race willing to break with them."
+- Hero visualization: full daisy-chain SVG (900×460)
+- Article body ~1100 words: lede + funder map + the daisy-chain structure + David Binder polling + class-traitor frame applied to Steyer specifically
+- Receipts table with $21,075,000 verified total + class tags per donor
+- Sources block: 5 direct primary-source URLs (Cal-Access committee detail pages, FPPC Top 10, bulk export). Methodology paragraph names FPPC tables traced.
+
+Wired `prototype/server.cjs` to serve /home + /class-traitor routes. Visual verification via Claude Preview tools.
+
+**TWO PERMANENT EDITORIAL STANDARDS LOCKED IN (saved to memory)**
+1. **No AI attribution in published material** (`feedback_no_ai_attribution_in_published.md`). Never credit Perplexity / Claude / AI / helper-script names in memes, beat pages, sources, methodology blocks. Sources are direct primary-source URLs only.
+2. **No em dashes / no AI vernacular in editorial prose** (`feedback_no_em_dashes_no_ai_vernacular.md`). 43 em dashes scrubbed from prototypes (1 home + 11 beat + 31 memes → all zero). Audit search for em-dash before publishing anything.
+
+### KNOWN ISSUES / CARVE-OUTS
+
+- **Public-routes.json still `["index"]` only.** Construction splash still serves at thedonormap.org. New homepage + first beat are PROTOTYPE HTML in `prototype/`, not yet ported to Quartz components or routed live. Construction splash by design — David explicitly wanted to keep it up while building.
+- **Becerra dossier needs Phase 5g update** with the Perplexity-verified findings: Prime Healthcare HHS-OIG CIA #2 + Cantu/DHR Stark Law context + Raul Ayala title correction + 9 other refinements. Not applied this session due to context budget.
+- **No Quartz component yet for BeatPage or new Homepage.** Prototype HTML only. Port is the next session's mechanical work.
+- **No `/site` page in ops app yet** for the editing/publish workflow David requested. Spec'd but not built.
+- **Operator Commands cheatsheet not updated** with the 4 new harness checks (cycle-divergence, opposition-committee-direction, donor-name-clustering, self-fund-integration). Add when next touching that doc.
+- **40 missing aliases** flagged by donor-name-clustering check (Reed Hastings $29M, Sergey Brin $2M, etc.) — should be backfilled into `data/cal-access-donor-aliases.json` and the bulk re-ingested with the cycleAttribution fix in place. Not done this session.
+- **Hansard search remains CF-blocked** across both endpoints. Defer to manual research at editorial time.
+
+### NEXT SESSION PRIORITIES (numbered, most important first)
+
+1. **Apply Becerra Phase 5g corrections to dossier** (~$15). Apply all Perplexity-verified findings from `Becerra_Donor_Verification_Report.md`: Prime Healthcare HHS-OIG CIA + Cantu/DHR Stark Law + Raul Ayala title correction + 9 other refinements. Replace the corresponding section in `content/Admin Notes/ca-gov-2026-dossiers/becerra.md`.
+
+2. **Port homepage prototype to Quartz** (~$30). `quartz/components/Homepage.tsx` + `content/index.md` driving the prototype's layout/content. Replace current LandingPage as the index route's renderer.
+
+3. **Port first beat prototype to Quartz** (~$30). `quartz/components/BeatPage.tsx` + `content/class-traitor.md` (root-level slug, no folder prefix). The beat-page component should drive any future beat from frontmatter + body markdown.
+
+4. **Build `/site` page in ops app for editing/publishing workflow** (~$40). Sections: Homepage editor (status + edit-in-Obsidian + preview), Beats list (each row with status/edit/preview/publish toggle), Drafts in progress, Coming-soon placeholders editor. Publish toggle writes `data/public-routes.json`.
+
+5. **Flip `data/public-routes.json`** from `["index"]` to `["index", "class-traitor"]` once the Quartz ports are done and David has done a voice pass on the beat prose (~$5).
+
+6. **Backfill alias map for 40 clustering findings + re-ingest cal-access-bulk** with the cycleAttribution fix (~$25). `data/cal-access-donor-aliases.json` gets the missing entries (Reed Hastings, Sergey Brin, etc.); then `node scripts/ingest-cal-access-bulk.cjs` re-runs to produce a clean librarian.
+
+7. **Continue beat-style site with second beat: Becerra "regulator who joined his regulators"** once #1 is applied. Same pattern — memes + tweets + page with hero visualization + receipts.
+
+### CRITICAL CONTEXT FOR NEXT SESSION
+
+**Editorial standards (load-bearing rules in memory):**
+- No AI attribution in any published material. Sources are direct primary-source URLs only. AI is internal infrastructure, not editorial credit.
+- No em dashes or AI vernacular ("furthermore," "crucially," "importantly," "ultimately," "it's not X but Y") in editorial prose. Audit before publishing.
+
+**Editorial frame:**
+- Homepage = brand level ("The Donor Map is one person following political money...")
+- Each beat = applies the frame to one specific story (e.g., the class-traitor frame applies to Steyer specifically; Becerra's beat will use a different frame the receipts support)
+- The class-traitor frame requires the donor class organizing AGAINST the candidate. Most candidates won't fit. Class loyalists get a different frame.
+
+**Verification pattern:**
+- Find via `scripts/lib/cal-access-claim-verifier.cjs`
+- Send specific claims to Perplexity for independent verification (template: `Anti_Steyer_Verification_Report.md` + `Becerra_Donor_Verification_Report.md` show the format that works)
+- Apply corrections before publishing
+- Don't publish unverified claims even if the helper says "verified" — David's editorial gut catches things the tools miss
+
+**Worktree:**
+- Current: `claude/unruffled-gauss-7bde0b` — 14 commits this session.
+- Commits: 52724e381, aee73b99e, 36b38e016, 32d59828f, dbad00f3c, 2a0f0ff65, cc8b0ef6c, 83e40774c, 78ee77329, e3aed5371, 73ef96cc4, 4b58ffe95, 78241ba76, b5773805c.
 
 ## HANDOFF — 2026-04-30 PM (cc_p3_200 → cc_p3_209 + 2 follow-ups, ADR-0024 Phase 3 D-completion + vault enrichment Tier 1 expansion + thesis pages + editorial-direction pivot)
 
