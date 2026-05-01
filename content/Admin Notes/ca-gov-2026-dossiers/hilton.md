@@ -17,7 +17,8 @@ audience: code-claude / david
 **Legal name:** Stephen Glenn Charles Hilton (per UK Companies House #10133929)
 **Profile:** [Steve Hilton.md](../../content/Politicians/Races/CA Governor 2026/Steve Hilton.md)
 **FPPC committee:** `1480425` · HILTON FOR GOVERNOR 2026
-**UK background research:** [ca-gov-2026-hilton-uk-research-2026-05-01.md](../ca-gov-2026-hilton-uk-research-2026-05-01.md) — full UK career arc, Crowdpac dissolution record, Whetstone career trail, three editorial story candidates (the naturalized populist / the Whetstone power-couple contradiction / the Big Society + Crowdpac pattern of failure)
+**UK background research:** [ca-gov-2026-hilton-uk-research-2026-05-01.md](../ca-gov-2026-hilton-uk-research-2026-05-01.md) — full UK career arc, Crowdpac dissolution record, Whetstone career trail, three editorial story candidates
+**UK verification follow-up:** [ca-gov-2026-hilton-uk-verifications-2026-05-01.md](../ca-gov-2026-hilton-uk-verifications-2026-05-01.md) — verifies open questions; key finding: Crowdpac Ltd UK was wound up via **Members' Voluntary Liquidation** (solvent deliberate wind-down, not dormant strike-off), Omid Kordestani UK director records confirmed (strengthens but does not prove Gisel-family link)
 
 ## State-level money (Cal-Access)
 
@@ -63,7 +64,7 @@ The "Fox media / outsider populist" archetype above is necessary-but-not-suffici
 
 - **Stephen Glenn Charles Hilton** (legal name, Companies House primary source) is a **Hungarian-British Oxford PPE** product whose career was 20+ years inside the UK Conservative Party machine, culminating as **Director of Strategy to Prime Minister David Cameron at #10 Downing Street, 2010-2012** — author of the "Big Society" policy framing that has been widely critiqued in UK political-science literature as branding for austerity-era public-service cuts.
 - The "outsider populist" identity is a **2017+ product** (Fox News *The Next Revolution* era), not a career-long identity. The career arc is the editorial story.
-- He was **Director of Crowdpac Limited (UK) #10133929** — a UK political-tech startup co-founded with Paul Hilder and a third director Gisel Lynn Kordestani (likely related to former Google Chief Business Officer Omid Kordestani — pending verification). The UK entity was incorporated April 2016 and **dissolved September 2020**, mapping to the period after the public Hilder-Hilton dispute over the US Crowdpac arm.
+- He was **Director of Crowdpac Limited (UK) #10133929** — a UK political-tech startup co-founded with Paul Hilder and a third director Gisel Lynn Kordestani (likely related to former Google Chief Business Officer Omid Kordestani — Companies House confirms Omid has UK director records, strengthening but not proving the family link). The UK entity was incorporated April 2016 and **wound up via Members' Voluntary Liquidation in 2019-2020** (filing forms LIQ01, LIQ13, GAZ2 — solvent deliberate wind-down, not a dormant strike-off or compulsory winding-up), dissolution finalized 2020-09-16. The MVL mechanism means the UK arm was actively *chosen* to be liquidated while solvent — a corporate decision, not a collapse.
 - He is married to **Rachel Whetstone**, a former Conservative Research Department / Howard's Political Secretary operative who has served as Senior VP / Chief Communications Officer at **Google (2005-2015), Uber (2015-2017, through the Susan Fowler crisis), Netflix, NextDoor, and now OpenAI (through the November 2023 Sam Altman board firing)**. She is one of Silicon Valley's most senior crisis-comms operators.
 
 **The screenshot-bait expansion.** "Steve Hilton's wife runs PR for OpenAI. His Fox News show called Silicon Valley 'the enemy.' Both can be true. Both are true."
