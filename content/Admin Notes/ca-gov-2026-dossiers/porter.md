@@ -90,6 +90,63 @@ Porter raised **$12M from 15,232 donors in the 2026 cycle** — average **$790/d
 
 The contradiction worth probing: a politician whose entire brand is "the donor class doesn't fund me" runs a $63M federal apparatus. Both can be true; the framing matters. The screenshot-bait fact: **15,232 individual 2026 donors at $790 average.** That's the rare thing in this race — neither Steyer's billionaire pattern nor an institutional-PAC stack. It's a real grassroots base. Story angle is the *reverse* of the corruption-investigation default — what does it look like to BUILD infrastructure outside the donor class, and what does that cost in a state where Steyer can drop $14M from one wallet?
 
+## VERIFIED FINDINGS (Phase 5e — 2026-05-01)
+
+Source: `scripts/lib/cal-access-claim-verifier.cjs` filing-trace through committee 1479597 ("PORTER FOR GOVERNOR 2026; KATIE" — confirmed pro-Porter, no opposition naming).
+
+### Top max-out donors (≥$10K), 2025 cycle
+
+| Donor | Amount | Stated employer | Date |
+|---|---:|---|---|
+| **Christian Larsen** | $39,200 | Ripple | 2025-06-17 |
+| Joe Kiani | $39,200 | Willow Laboratories | 2025-03-12 |
+| Donna M. Bower | $39,200 | n/a (retired) | 2025-05-23 |
+| Gerald Singleton | $32,600 | Singleton Schreiber, LLP | 2025-03-11 |
+| McNicholas & McNicholas, LLP | $25,000 | (law firm entity) | 2025-06-24 |
+| Roger McNamee | $20,000 | n/a (retired) | 2025-03-11 |
+| Benjamin Stockton | $13,000 | (multiple filings) | various |
+| Joanna Fox (Fox Law) | $10,000 | Fox Law | 2025-06-20 |
+| Wylie Aitken (Aitken Aitken & Cohn LLP) | $10,000 | Aitken, Aitken & Cohn, LLP | 2025-06-30 |
+| Brett Schreiber (Singleton & Schreiber LLP) | $10,000 | Singleton & Schreiber, LLP | 2025-06-25 |
+| Mark Roberts | $10,000 | Celmol, Inc. | 2025-03-11 |
+| Rick Matros | $10,000 | Sabra Healthcare REIT, Inc. | 2025-06-03 |
+
+### THE CRYPTO INDUSTRY CONTRADICTION — Christian Larsen of Ripple maxed out
+
+The single sharpest finding from Phase 5e Porter verification:
+
+**Christian Larsen** (executive chairman and co-founder of **Ripple Labs**) contributed $39,200 — the legal max — to Porter for Governor 2026 on 2025-06-17.
+
+Ripple is a major US crypto-industry company. The crypto industry's flagship political vehicle, **Fairshake PAC**, spent ~$10 million against Katie Porter's 2024 Senate campaign (extensively documented in her vault profile under `Fairshake and Crypto.md`). Coinbase CEO Brian Armstrong — whose company also funds Fairshake — has now contributed $500K to Matt Mahan's IE PAC in this same 2026 race (see Mahan dossier).
+
+**The structural contradiction.** Porter built her brand on rejecting corporate-PAC money and consumer-protection populism that includes hostile positioning toward crypto. Yet Ripple's executive chairman maxed out to her gubernatorial primary. Either:
+
+1. Larsen is a *personal* Democratic donor giving despite his industry's broader opposition to Porter
+2. Ripple has internally split with Coinbase / Fairshake on how to position toward Porter in 2026
+3. Larsen's giving signals crypto-industry hedging — back Porter as a Plan B if Mahan / their preferred candidates fail
+
+**David's verification at editorial time:** is Larsen broadly hostile to Coinbase/Fairshake's anti-Porter framing, or is this just personal Democratic giving against industry instincts? The contradiction is editorially substantive either way.
+
+### Plaintiffs-bar pattern — strong verified
+
+Porter's max-out donor base shows a clear plaintiffs-trial-lawyer concentration:
+- Singleton Schreiber LLP — Gerald Singleton ($32,600) + Brett Schreiber ($10,000)
+- Aitken Aitken & Cohn LLP — Wylie Aitken ($10,000)
+- McNicholas & McNicholas LLP ($25,000 entity contribution)
+- Fox Law — Joanna Fox ($10,000)
+
+Plaintiffs lawyers are the institutional financial base for the consumer-protection / anti-corporate Democratic policy lane. Porter's whiteboard-populist brand attracts this donor class precisely because her House oversight work (CFPB defense, Wall Street accountability hearings) translated to the kind of legal frameworks plaintiffs lawyers depend on. The Phase 5e verification confirms this lane runs through her real funder base, not just her brand.
+
+### Healthcare-tech executive contributions
+
+Joe Kiani (Willow Laboratories) maxed out — Kiani is best known as founder/CEO of Masimo Corporation (medical devices). He's a major Democratic donor with a documented pattern of contributing to consumer-protection and progressive Democratic candidates. Combined with Rick Matros (Sabra Healthcare REIT, $10K) and Roger McNamee (tech investor, $20K), Porter's high-end donor base includes notable healthcare/tech executive money — distinct from the small-dollar 15K-donor base that drives her headline numbers.
+
+### Open verification
+
+- Christian Larsen + Ripple positioning toward Fairshake — David's verification path: news coverage 2024-2026 of any Ripple-Coinbase-Fairshake alignment fractures
+- Donna M. Bower's repeat $39,200 (multiple filings) — confirm whether primary + general split or amended-filing duplicate
+- Roger McNamee positioning — public commentary on tech accountability
+
 ## Open questions for David
 
 - Of the 15,232 donors, how many are repeat-donors from her House and 2024 Senate campaigns vs. fresh acquisitions?

@@ -114,17 +114,23 @@ Steve Hilton is married to **Rachel Whetstone**, one of Silicon Valley's most se
 
 ### Whetstone career arc (public knowledge — David verifies before publishing)
 
-| Period | Role | Context |
+| Period | Role | Source quality |
 |---|---|---|
-| 1990s | **Conservative Research Department** (UK) | Where she met Steve Hilton. Tory political operative path. |
-| 2003-2005 | **Political Secretary to Michael Howard** (Conservative Party Leader) | UK political insider track |
-| 2005-2015 | **Senior VP, Communications & Public Policy, Google** | ~10 years at Google during the EU antitrust era, the Snowden / NSA-cooperation revelations, the YouTube content-moderation fights, the rise of Search-result regulation, and the start of the Google-Books controversy. Worked alongside Omid Kordestani (Senior VP of Sales — note the potential family connection to Crowdpac UK director Gisel Kordestani). |
-| 2015-2017 | **Senior VP / Chief Communications Officer, Uber** | Crisis-comms tenure DURING: Susan Fowler harassment revelations (Feb 2017), the Greyball law-enforcement-evasion scandal, Travis Kalanick's resignation, the #DeleteUber campaign. Departed amid the Holder Report crisis. |
-| 2017-2018 | Brief consulting / advisor period | |
-| 2018-2020 | **Chief Communications Officer, Netflix** | Through the original-content arms race, Netflix's HBO competition era. |
-| 2020-2022 | **Chief Communications Officer, Hewlett Packard Enterprise** (HPE) | *Verify date range — public reporting is less consistent on this period.* |
-| 2022-2023 | **Chief Communications Officer, NextDoor** | Brief tenure |
-| 2023-present | **Chief Communications Officer, OpenAI** | **Through the Sam Altman board firing + 5-day reinstatement saga (November 2023), the Sutskever / Toner board exit, and the 2024-2025 commercialization disputes.** Currently in role per public reporting. |
+| ~1990-1993 | Researcher, **Conservative Research Department** (UK) — where she met Steve Hilton | Tier 2 (Evening Standard 2005 profile) |
+| ~1993-1997 | **Special adviser to Home Secretary Michael Howard**, UK Home Office | Tier 2 (Evening Standard) |
+| ~1997-2003 | Carlton Communications / T-Mobile UK / **Portland Communications (co-founder)** | Tier 2 (BBC profile) |
+| Nov 2003-~2005 | **Political Secretary / Chief of Staff to Michael Howard** (Conservative Party leader) | Tier 2 (BBC profile) |
+| 2005-early 2015 | **SVP Communications & Public Policy, Google** — ~10 years through EU antitrust era, Snowden revelations, YouTube content-moderation fights, Google-Books controversy. Worked at the same firm during the same years as Omid Kordestani (Senior VP of Sales) | Tier 2 (BBC; The Hustle profile) |
+| ~mid-2015 to April 2017 | **Senior VP Policy and Communications, Uber** — crisis-comms tenure DURING: Susan Fowler harassment revelations (Feb 2017), Greyball law-enforcement-evasion scandal, Travis Kalanick's resignation, #DeleteUber campaign. Departed amid the Holder Report crisis | Tier 2 (Wikipedia + Gulf News) |
+| ~mid-2017 to ~July 2018 | **VP Communications, WhatsApp / Instagram / Messenger, Facebook** | Tier 2 (Wikipedia) |
+| August 2018 to early 2025 | **Chief Communications Officer, Netflix** — through the original-content arms race | Tier 2 + PRWeek Jul 2019 |
+| **March 3, 2025 to present** | **Communications lead, Sierra (AI startup)** | **Axios + O'Dwyer's PR (both date to March 3, 2025 hire announcement)** |
+
+**Critical correction from prior research:** Whetstone is **NOT at OpenAI**. She is at **Sierra**, an AI startup co-founded by **Bret Taylor** (former Salesforce CEO and **chair of OpenAI's board**) and **Clay Bavor** (former Google executive). The Sierra-OpenAI confusion came from Bret Taylor's OpenAI board chairmanship. Sierra ≠ OpenAI.
+
+**Corrections to drop:**
+- **HPE (Hewlett Packard Enterprise)** — was a confusion with Meg Whitman (HPE CEO) being someone Travis Kalanick consulted, not Whetstone working there. **No primary source places her at HPE.**
+- **Nextdoor** — was a confusion with Sarah Friar (Nextdoor CEO who later went to OpenAI). **No primary source places her at Nextdoor.**
 
 *David's verification needed — the dates above are training-knowledge baselines and need cross-checking against current public records. LinkedIn or company press releases are the primary sources for verification. None of the role transitions are private — they are publicly announced corporate hires.*
 
@@ -179,16 +185,35 @@ Three editorial angles emerge from the UK + Whetstone material. Each leans on di
 
 **Recommended treatment.** Companion piece to A or B. ~800 words.
 
-## Open questions for verification before publishing
+## David's Perplexity verification — 2026-05-01 (Hilton_Verification_Followups.md)
 
-1. **Stephen Glenn Charles Hilton legal-name confirmation.** Cross-check against US naturalization records and California voter registration. Companies House confirms; we want a US-side anchor too.
-2. **Gisel Kordestani → Omid Kordestani relationship.** If father/daughter (likely), the Google → Crowdpac institutional link is direct. If not (coincidence of surname), the Google connection is weaker.
-3. **Crowdpac dissolution reason.** The Companies House filing history shows 3 filings tracked. What was the cause of dissolution — voluntary strike-off, compulsory winding-up, member's voluntary liquidation? The filing-history endpoint returned data we can dig into in a follow-up.
-4. **Whetstone employment dates.** Training-knowledge baselines need cross-check against company press releases and LinkedIn. Specifically: HPE tenure dates, NextDoor tenure dates, OpenAI start date.
-5. **Crowdpac US legal dispute.** The Hilton/Hilder falling-out generated a lawsuit. What were the specific allegations, what was the resolution, who held what equity?
-6. **US naturalization year.** Public reporting cites 2021; confirm against USCIS-side records or news at-the-time announcements.
-7. **The financial scale of Crowdpac UK.** The filing-history endpoint indicated 3 filings — these include accounts (financial statements). Were the UK arm's accounts dormant or active? Dormant suggests the UK entity was a shell; active suggests real operation.
-8. **Hansard references to Hilton.** Currently CF-blocked. Defer to David's manual research at editorial time.
+David's Perplexity research pass resolved most open questions:
+
+1. **Stephen Glenn Charles Hilton legal name — CONFIRMED.** Companies House officer record and Wikidata Q3498953 both attest. California ballot designation is "STEVE HILTON, Republican, Small Business Owner" (Sonoma County Registrar; allowed under CA Elections Code §13104 known-as-name provision). USCIS naturalization certificate is not a public record but no public source contradicts the Companies House name.
+
+2. **Gisel Kordestani → Omid Kordestani relationship — STILL UNCONFIRMED.** Not addressed by David's Perplexity pass. Companies House showed Omid Kordestani has UK director records (same registry); same-surname circumstantial evidence stands.
+
+3. **Crowdpac dissolution reason — CORRECTED.** UK Crowdpac Ltd was wound up via Members' Voluntary Liquidation per Companies House filing forms (LIQ01, LIQ13, GAZ2 — verified earlier this session, see ca-gov-2026-hilton-uk-verifications-2026-05-01.md).
+
+4. **Whetstone employment dates — VERIFIED via Perplexity.** Drop HPE and Nextdoor (never happened — confusions with other people). Add March 3, 2025 Sierra hire (Axios + O'Dwyer's both confirm). She left Netflix early 2025; she is NOT at OpenAI (Sierra ≠ OpenAI; Sierra is co-founded by Bret Taylor who chairs OpenAI's board).
+
+5. **Crowdpac US lawsuit — DOES NOT EXIST.** Five-pass search through TechCrunch, Mediaite, The Hill, FEC, and Wikipedia found no Hilton vs. Hilder litigation. What actually happened May 15, 2018: Crowdpac suspended Republican fundraising; Hilton resigned same day; Gisel Kordestani named permanent CEO. The actual federal dispute went through FEC MUR 7309 + MUR 7399 (filed by Republican former House candidates Bassilian + DeMartini, alleging Crowdpac was an unregistered political committee). FEC found no reason to believe Crowdpac violated the Act, June 3, 2019. Hilder is NOT named as a party. **Drop the "Crowdpac dispute = lawsuit between Hilton and Hilder" framing from any editorial work — it is not in court records.**
+
+6. **US naturalization year — CONFIRMED May 11, 2021, San Francisco USCIS field office.** Triple-sourced: USCIS official Facebook video (Tier 1 — primary government social media), Adweek 2021-05-12 (Tier 2 confirmation), Hilton's own Twitter post (primary individual). Application announced 2019-07-07 on his Fox show — ~22 month process. Hilton's framing: "I chose to become an American in 2021."
+
+7. **Crowdpac UK financial scale — STILL OPEN.** The UK Companies House filing history was not pulled in this session for the Crowdpac UK PDF accounts. Available as one-shot fetch under ADR-0030 §10 if Crowdpac dissolution becomes a story angle.
+
+8. **Hansard references — STILL CF-BLOCKED.** Defer to David's manual browser research at editorial time.
+
+### NEW open questions surfaced by Perplexity research
+
+9. **British citizenship status discrepancy.** Wikipedia says Hilton renounced British citizenship as part of US naturalization; Wikidata + April 2026 social-media coverage describe him as a "dual British-American citizen." One of these is wrong. Verifiable via UK Home Office FOI on Form RN filings under Stephen Glenn Charles Hilton. Has potential ballot-eligibility implications under CA dual-citizenship questions.
+
+10. **The actual Hilton lawsuit that DOES exist.** *Hilton v. Weber* (filed September 4, 2025) — Hilton suing CA Secretary of State Shirley Weber over Proposition 50 / redistricting. Preliminary injunction denied. Different matter from the Crowdpac question; real and ongoing 2025 litigation against the official who runs his ballot. Editorially substantive: the candidate is in active litigation against the elections office whose ballot will list him. *Source: thearp.org/litigation/hilton-v-weber/.*
+
+11. **Sierra's cap table / disclosure scope.** If available, would scope the size of the Whetstone conflict-of-interest surface around Sacramento's AI legislative pipeline.
+
+12. **Hilton's most recent FPPC Form 700.** If filed as a candidate, would disclose Whetstone's current employer (Sierra) in the household financial-interest section — Tier 1 confirmation of the connection from a CA government primary source.
 
 ## Confidence flags
 

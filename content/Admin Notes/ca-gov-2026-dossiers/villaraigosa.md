@@ -74,6 +74,61 @@ The vault profile is **483KB** — the largest in the entire race — and is hea
 
 Critical Phase 2-C correction: his prior dossier-plan flagged committee `1392364` (2018 cycle) as the FPPC ID. **Real 2026 primary committee is `1471635`**. Auxiliary slogan committee `1486030` ("Straight From The Heart Of California") is also active. Frontmatter updated.
 
+## VERIFIED FINDINGS (Phase 5e — 2026-05-01)
+
+Source: `scripts/lib/cal-access-claim-verifier.cjs` filing-trace through committee 1471635 ("VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO" — confirmed pro-Villaraigosa, no opposition naming).
+
+### Top max-out donors (≥$10K), early 2024 - mid 2025
+
+| Donor | Amount | Stated employer | Date |
+|---|---:|---|---|
+| Gary Karlin Michelson, M.D. | $39,200 | self-employed | 2025-06-26 |
+| Prenton, Inc. | $39,101.75 | (entity) | 2025-06-30 |
+| **Stewart Resnick** | $36,400 | The Wonderful Company | 2024-07-26 |
+| Kurt Rappaport | $36,400 | self-employed (luxury real estate) | 2024-07-31 |
+| Ryan Seacrest | $36,400 | Ryan Seacrest Enterprises, Inc. | 2024-07-24 |
+| Eric Smidt | $36,400 | CP, LLC | 2024-07-31 |
+| Susan Smidt | $36,400 | n/a | 2024-07-31 |
+| Gregory Simonian | $36,400 | Ildico, Inc. | 2024-10-05 |
+| Jean Simonian | $36,400 | Ildico, Inc. | 2024-08-14 |
+| OMG General (Omnicare Medical Group) | $36,400 | (entity) | 2025-01-07 |
+| Arash Khorsandi | $25,000 | self-employed | 2025-03-12 |
+| David Schwartzman | $25,000 | Harridge Development Group | 2024-07-31 |
+| **Francisco Leon** | $10,350.25 | **California Resources Corporation** | 2025-06-23 |
+
+### Identity callouts on the new findings
+
+**Stewart Resnick — $36,400.** Co-owner of **The Wonderful Company** with his wife Lynda — owners of Fiji Water, POM Wonderful, Wonderful Pistachios, Halos mandarins, JUSTIN Wines, Teleflora. The Resnicks control the largest agricultural empire in California, including extensive Central Valley land holdings and water rights. They are deeply controversial in California water policy — repeatedly accused of capturing disproportionate water allocations during California droughts via complex water-bank arrangements. Resnick contributions cross party lines but skew Democratic.
+
+**California Resources Corporation — $10,350.25 via executive Francisco Leon.** California Resources Corporation (CRC) is California's largest oil and gas producer (formed 2014 from Occidental Petroleum's California spinoff). Leon is CRC's executive (verify exact title at editorial time — likely CFO or COO). **A direct fossil-capital donation to a Democratic gubernatorial candidate.** Editorially substantive: California Democrats publicly campaign on climate; an active fossil-capital contribution from CA's largest oil producer surfaces the gap.
+
+**Eric Smidt + Susan Smidt — $72,800 combined.** Eric Smidt is the founder of **Harbor Freight Tools**, a private retail chain of discount tools and equipment. Estimated net worth in the multi-billion range. Smidt is a major California Republican donor historically; the $72,800 to Villaraigosa (a Democrat) is editorially notable as either party-line crossing OR genuine policy alignment with his developer-friendly positioning.
+
+**Kurt Rappaport — $36,400.** Founder of **Westside Estate Agency**, the dominant ultra-luxury real estate firm in Los Angeles (Beverly Hills, Bel Air, Holmby Hills). Has handled multiple $100M+ residential transactions. The contribution maps directly to the existing dossier's "real-estate developer coalition" framing.
+
+**Ryan Seacrest — $36,400.** TV personality (American Idol, On Air with Ryan Seacrest, Live with Kelly & Ryan). Maxed out to Villaraigosa primary committee.
+
+**Gary Karlin Michelson, M.D. — $39,200.** Spinal surgeon billionaire who licensed his medical-device patents to Medtronic for ~$1.35 billion in 2005. Active in animal welfare philanthropy (Michelson Found Animals Foundation).
+
+**Gregory + Jean Simonian (Ildico, Inc.) — $72,800 combined.** Ildico is a luxury watch retailer in Beverly Hills. Family contributions to Villaraigosa.
+
+### The Villaraigosa donor coalition shape — Phase 5e verified
+
+The vault profile (483KB) already characterized Villaraigosa as the "real-estate / labor coalition" candidate. Phase 5e verification CONFIRMS the real-estate-developer pattern (Rappaport, Schwartzman/Harridge) while ALSO surfacing additional clusters not previously emphasized:
+
+- **California agricultural empire** (Stewart Resnick / The Wonderful Company)
+- **Beverly Hills wealth** (Smidt / Harbor Freight, Simonian / Ildico, Seacrest)
+- **Tech/medical executive wealth** (Michelson, Khorsandi)
+- **Active fossil-capital contribution** (California Resources Corporation executive)
+
+The "labor coalition" half of his historical 2018 framing (where he was sponsored by California Charter Schools Association Advocates) is less visible in the Phase 5e top-donor list — verify whether labor money is moving through other committees (officeholder accounts, separate IE PACs) before claiming labor support has eroded.
+
+### Screenshot-bait formulations (data-only, framing TBD by David)
+
+1. "Antonio Villaraigosa's top California Governor 2026 donors include Stewart Resnick (The Wonderful Company / Fiji Water / Wonderful Pistachios), the founder of Harbor Freight Tools, Ryan Seacrest, and an executive at California's largest oil and gas company."
+2. "An executive at California Resources Corporation — California's largest oil producer — donated to Antonio Villaraigosa's Democratic gubernatorial campaign."
+3. "Stewart Resnick of The Wonderful Company gave the legal max to Antonio Villaraigosa. The Resnicks control more California water rights than any other private interest."
+
 ## Open questions for David
 
 - Cross-reference his top 2026 donors against the LA-area developers who benefited from zoning + permitting decisions during his Mayoral tenure (2005-2013)

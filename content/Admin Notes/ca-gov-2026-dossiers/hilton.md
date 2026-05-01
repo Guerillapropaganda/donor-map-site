@@ -58,18 +58,47 @@ Hilton raised **$7.7M from 14,989 donors** at $515 average — a small-dollar Re
 
 What the data doesn't yet show: where his big institutional money is. Hilton has 0 FEC committees and 0 federal record. His 313KB master profile (Steve Hilton.md, single monolithic file — needs splitting into sub-pages before any editorial work) flags Murdoch / Crowdpac / Tory / Cameron-era political consulting and the Fox News pipeline. None of that infrastructure shows up directly in Cal-Access bulk because Murdoch-aligned dollars typically flow through dark-money 501(c)(4)s that don't disclose donor identities. **Screenshot-bait fact:** "Steve Hilton — Fox News host, no federal record, 14,989 small-dollar donors fund his California governor bid. The dark-money behind him: undisclosed."
 
-### UK background — surfaced this session (Phase 5, ADR-0030 §10 amendment 2026-05-01)
+### UK background + Whetstone trail — VERIFIED (Phase 5e, David's Perplexity pass 2026-05-01)
 
-The "Fox media / outsider populist" archetype above is necessary-but-not-sufficient for Hilton. The fuller archetype includes:
+The "Fox media / outsider populist" archetype above is necessary-but-not-sufficient for Hilton. The fuller archetype, incorporating David's Perplexity verification:
 
-- **Stephen Glenn Charles Hilton** (legal name, Companies House primary source) is a **Hungarian-British Oxford PPE** product whose career was 20+ years inside the UK Conservative Party machine, culminating as **Director of Strategy to Prime Minister David Cameron at #10 Downing Street, 2010-2012** — author of the "Big Society" policy framing that has been widely critiqued in UK political-science literature as branding for austerity-era public-service cuts.
+- **Stephen Glenn Charles Hilton** (legal name, Companies House primary source) is a **Hungarian-British Oxford PPE** product (Brasenose College, same as Cameron) whose career was 20+ years inside the UK Conservative Party machine, culminating as **Director of Strategy to Prime Minister David Cameron at #10 Downing Street, 2010-2012** — author of the "Big Society" policy framing.
+
 - The "outsider populist" identity is a **2017+ product** (Fox News *The Next Revolution* era), not a career-long identity. The career arc is the editorial story.
-- He was **Director of Crowdpac Limited (UK) #10133929** — a UK political-tech startup co-founded with Paul Hilder and a third director Gisel Lynn Kordestani (likely related to former Google Chief Business Officer Omid Kordestani — Companies House confirms Omid has UK director records, strengthening but not proving the family link). The UK entity was incorporated April 2016 and **wound up via Members' Voluntary Liquidation in 2019-2020** (filing forms LIQ01, LIQ13, GAZ2 — solvent deliberate wind-down, not a dormant strike-off or compulsory winding-up), dissolution finalized 2020-09-16. The MVL mechanism means the UK arm was actively *chosen* to be liquidated while solvent — a corporate decision, not a collapse.
-- He is married to **Rachel Whetstone**, a former Conservative Research Department / Howard's Political Secretary operative who has served as Senior VP / Chief Communications Officer at **Google (2005-2015), Uber (2015-2017, through the Susan Fowler crisis), Netflix, NextDoor, and now OpenAI (through the November 2023 Sam Altman board firing)**. She is one of Silicon Valley's most senior crisis-comms operators.
 
-**The screenshot-bait expansion.** "Steve Hilton's wife runs PR for OpenAI. His Fox News show called Silicon Valley 'the enemy.' Both can be true. Both are true."
+- **US naturalization confirmed May 11, 2021, San Francisco USCIS field office.** Triple-sourced (USCIS official Facebook video, Adweek 2021-05-12, Hilton's own contemporaneous tweet). Applied 2019-07-07 on his Fox show — ~22-month process. His framing: "I chose to become an American in 2021."
 
-**Three editorial story candidates** detailed in [the UK research doc](../ca-gov-2026-hilton-uk-research-2026-05-01.md): A) the naturalized populist career-arc piece, B) the Whetstone power-couple contradiction, C) the Big Society + Crowdpac dissolution pattern-of-failure piece. Recommended publishing order if running all three: A → B → C.
+- **British citizenship status — DISCREPANCY worth flagging.** Wikipedia says he renounced UK citizenship as part of naturalization; Wikidata + April 2026 social-media coverage describes him as "dual British-American." One is wrong. Worth resolution before publishing — has CA ballot-eligibility implications.
+
+- He was **Director of Crowdpac Limited (UK) #10133929** — co-founders Paul Hilder + Gisel Lynn Kordestani. UK entity incorporated April 2016, **wound up via Members' Voluntary Liquidation 2019-2020** (Companies House filing codes LIQ01/LIQ13/GAZ2 — solvent deliberate wind-down, not a dormant strike-off or compulsory winding-up). Dissolution finalized 2020-09-16.
+
+- **CRITICAL CORRECTION — there is no "Crowdpac lawsuit between Hilton and Hilder."** Earlier dossier text speculating about a US lawsuit was wrong. David's Perplexity research found zero court records. What actually happened May 15, 2018: Crowdpac suspended Republican fundraising; Hilton resigned same day; Gisel Kordestani named permanent CEO. The actual federal proceeding was **FEC MUR 7309 + MUR 7399**, filed by Republican former House candidates **Ron Bassilian** + **Frank DeMartini** alleging Crowdpac was an unregistered political committee. The FEC found NO REASON TO BELIEVE Crowdpac violated the Act on June 3, 2019. Hilder is not a party. Crowdpac then shut down May 2019 and was acquired by Prytany; rebranded as CrowdBlue in 2025.
+
+- **The actual ongoing Hilton lawsuit:** *Hilton v. Weber* (filed September 4, 2025) — Hilton suing California Secretary of State Shirley Weber over Proposition 50 / redistricting. **Preliminary injunction denied.** Editorially substantive: the candidate is in active litigation against the elections office whose ballot lists him.
+
+#### Whetstone trail — corrected via Perplexity
+
+He is married to **Rachel Whetstone**, a former Conservative Research Department / Special Adviser to Michael Howard / Political Secretary to Howard who became one of Silicon Valley's most senior crisis-comms executives. **Verified chronology:**
+
+- Conservative Research Department ~1990-1993 (where she met Hilton)
+- Special adviser to Home Secretary Michael Howard ~1993-1997
+- Carlton Communications / T-Mobile UK / Portland Communications ~1997-2003
+- Political Secretary / Chief of Staff to Michael Howard (Tory leader) Nov 2003-~2005
+- **SVP Communications & Public Policy, Google** 2005-early 2015 (EU antitrust era)
+- **SVP Policy & Communications, Uber** mid-2015-April 2017 (departed amid Susan Fowler / Holder Report crisis)
+- VP Communications WhatsApp/Instagram/Messenger, Facebook ~mid-2017-July 2018
+- **Chief Communications Officer, Netflix** August 2018-early 2025
+- **Communications lead, Sierra (AI startup)** **March 3, 2025-present**
+
+**HPE and Nextdoor never happened** — those entries in the prior dossier were errors (HPE was a confusion with Meg Whitman; Nextdoor was a confusion with Sarah Friar). **She is NOT at OpenAI** — Sierra is co-founded by Bret Taylor (OpenAI's board chair), and the OpenAI confusion came from that chairmanship link. **Sierra ≠ OpenAI.**
+
+#### The corrected Whetstone conflict-of-interest framing
+
+Whetstone's March 2025 move from Netflix to Sierra **changed the Sacramento conflict-of-interest surface significantly** — from streaming-industry comms (limited Sacramento exposure) to **AI-industry comms at a private AI startup chaired by OpenAI's board chair** (active Sacramento legislative pipeline: AB-2013 derivatives, AI safety bills, CPUC AI procurement). A governor whose spouse leads communications at a private AI startup with deep OpenAI-board-chair links has a substantially larger Sacramento conflict-of-interest exposure than a governor whose spouse runs comms for Netflix.
+
+**The screenshot-bait expansion (corrected).** "Steve Hilton's wife runs PR for an AI startup whose chairman also chairs OpenAI's board. His Fox News show called Silicon Valley 'the enemy.' Both can be true. Both are true."
+
+**Three editorial story candidates** detailed in [the UK research doc](../ca-gov-2026-hilton-uk-research-2026-05-01.md): A) the naturalized populist career-arc piece, B) the Whetstone power-couple contradiction (now sharper with the Sierra/OpenAI-chairman update), C) the Big Society + Crowdpac dissolution pattern-of-failure piece. Recommended publishing order: A → B → C.
 
 ## Open questions for David
 
