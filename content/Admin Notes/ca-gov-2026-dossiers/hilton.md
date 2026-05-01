@@ -14,8 +14,10 @@ audience: code-claude / david
 # CA Gov 2026 Dossier — Steve Hilton
 
 **Archetype:** Fox media / outsider populist (R)
+**Legal name:** Stephen Glenn Charles Hilton (per UK Companies House #10133929)
 **Profile:** [Steve Hilton.md](../../content/Politicians/Races/CA Governor 2026/Steve Hilton.md)
 **FPPC committee:** `1480425` · HILTON FOR GOVERNOR 2026
+**UK background research:** [ca-gov-2026-hilton-uk-research-2026-05-01.md](../ca-gov-2026-hilton-uk-research-2026-05-01.md) — full UK career arc, Crowdpac dissolution record, Whetstone career trail, three editorial story candidates (the naturalized populist / the Whetstone power-couple contradiction / the Big Society + Crowdpac pattern of failure)
 
 ## State-level money (Cal-Access)
 
@@ -54,6 +56,19 @@ audience: code-claude / david
 Hilton raised **$7.7M from 14,989 donors** at $515 average — a small-dollar Republican base that mirrors Porter's small-dollar Democratic base in shape (Hilton: 15K/$7.7M; Porter: 15K/$12M). The pattern is the same: populist-brand candidate aggregating thousands of $200-$1000 donations. The ideological content is opposite. **The same fundraising shape funds opposite politics.** This is one of the cleanest cross-cutting findings in the data and is a strong candidate for a parallel-profile editorial piece (Hilton vs. Porter as "twin small-dollar populists, opposite teams").
 
 What the data doesn't yet show: where his big institutional money is. Hilton has 0 FEC committees and 0 federal record. His 313KB master profile (Steve Hilton.md, single monolithic file — needs splitting into sub-pages before any editorial work) flags Murdoch / Crowdpac / Tory / Cameron-era political consulting and the Fox News pipeline. None of that infrastructure shows up directly in Cal-Access bulk because Murdoch-aligned dollars typically flow through dark-money 501(c)(4)s that don't disclose donor identities. **Screenshot-bait fact:** "Steve Hilton — Fox News host, no federal record, 14,989 small-dollar donors fund his California governor bid. The dark-money behind him: undisclosed."
+
+### UK background — surfaced this session (Phase 5, ADR-0030 §10 amendment 2026-05-01)
+
+The "Fox media / outsider populist" archetype above is necessary-but-not-sufficient for Hilton. The fuller archetype includes:
+
+- **Stephen Glenn Charles Hilton** (legal name, Companies House primary source) is a **Hungarian-British Oxford PPE** product whose career was 20+ years inside the UK Conservative Party machine, culminating as **Director of Strategy to Prime Minister David Cameron at #10 Downing Street, 2010-2012** — author of the "Big Society" policy framing that has been widely critiqued in UK political-science literature as branding for austerity-era public-service cuts.
+- The "outsider populist" identity is a **2017+ product** (Fox News *The Next Revolution* era), not a career-long identity. The career arc is the editorial story.
+- He was **Director of Crowdpac Limited (UK) #10133929** — a UK political-tech startup co-founded with Paul Hilder and a third director Gisel Lynn Kordestani (likely related to former Google Chief Business Officer Omid Kordestani — pending verification). The UK entity was incorporated April 2016 and **dissolved September 2020**, mapping to the period after the public Hilder-Hilton dispute over the US Crowdpac arm.
+- He is married to **Rachel Whetstone**, a former Conservative Research Department / Howard's Political Secretary operative who has served as Senior VP / Chief Communications Officer at **Google (2005-2015), Uber (2015-2017, through the Susan Fowler crisis), Netflix, NextDoor, and now OpenAI (through the November 2023 Sam Altman board firing)**. She is one of Silicon Valley's most senior crisis-comms operators.
+
+**The screenshot-bait expansion.** "Steve Hilton's wife runs PR for OpenAI. His Fox News show called Silicon Valley 'the enemy.' Both can be true. Both are true."
+
+**Three editorial story candidates** detailed in [the UK research doc](../ca-gov-2026-hilton-uk-research-2026-05-01.md): A) the naturalized populist career-arc piece, B) the Whetstone power-couple contradiction, C) the Big Society + Crowdpac dissolution pattern-of-failure piece. Recommended publishing order if running all three: A → B → C.
 
 ## Open questions for David
 

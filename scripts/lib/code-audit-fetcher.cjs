@@ -70,6 +70,18 @@ const PHASE_1_DOMAINS = new Set([
   'www.congress.gov',
   'clerk.house.gov',
   'www.senate.gov',
+  // UK government primary sources (added 2026-05-01 amendment, ADR-0030 §10).
+  // Authorized for foreign-operator vault entries where the operator's
+  // pre-US political career is load-bearing context for their current
+  // US-political relevance (e.g. Steve Hilton's Cameron-era Director of
+  // Strategy role for his 2026 California gubernatorial bid). Research-
+  // scaffolding only — never auto-written into profile bodies. Rule 13
+  // still binds.
+  'search.electoralcommission.org.uk',
+  'electoralcommission.org.uk',
+  'find-and-update.company-information.service.gov.uk',
+  'www.companieshouse.gov.uk',
+  'hansard.parliament.uk',
 ]);
 
 // Phase 2 — gated by per-pipeline activation. Format: { domain, gating_rationale }.
