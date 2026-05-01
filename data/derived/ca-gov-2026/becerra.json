@@ -1,0 +1,880 @@
+{
+  "candidate": "Xavier Becerra",
+  "slug": "becerra",
+  "lifetime": {
+    "total_raised": 25528035,
+    "total_spent": 0,
+    "unique_donors": 7738,
+    "unique_recipients": 0,
+    "top_50_donors": [
+      {
+        "name": "Becerra for Attorney General 2018",
+        "total": 1893268.5,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $393268.50 from \"Becerra for Attorney General 2018\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1500000.00 from \"Becerra for Attorney General 2018\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2018"
+        ]
+      },
+      {
+        "name": "Tigran Martinian",
+        "total": 105000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $12600.00 from \"Tigran Martinian\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $45600.00 from \"Tigran Martinian\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Joseph Molina",
+        "total": 102300,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Joseph Molina\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Joseph Molina\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "California State Pipe Trades Council PAC",
+        "total": 100700,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $15500.00 from \"California State Pipe Trades Council PAC\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $15500.00 from \"California State Pipe Trades Council PAC\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "California State Association of Electrical Workers",
+        "total": 100700,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $15500.00 from \"California State Association of Electrical Workers\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $54200.00 from \"California State Association of Electrical Workers\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Laborers Pacific Southwest Regional Organizing Coalition PAC",
+        "total": 97600,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $58400.00 from \"Laborers Pacific Southwest Regional Organizing Coalition PAC\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Laborers Pacific Southwest Regional Organizing Coalition PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Peter Chernin",
+        "total": 94300,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $31200.00 from \"Peter Chernin\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $18300.00 from \"Peter Chernin\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "California State Council of Laborers - SCC",
+        "total": 89400,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $58400.00 from \"California State Council of Laborers - SCC\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $15500.00 from \"California State Council of Laborers - SCC\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Faculty For Our University's Future, A Committee Sponsored By The California Faculty Association",
+        "total": 88500,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7750.00 from \"Faculty For Our University's Future, A Committee Sponsored By The California Faculty Association\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7750.00 from \"Faculty For Our University's Future, A Committee Sponsored By The California Faculty Association\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Eric Early",
+        "total": 86430.6,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $86430.60 from \"Eric Early\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2022"
+        ]
+      },
+      {
+        "name": "California Professional Firefighters PAC",
+        "total": 84900,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $58400.00 from \"California Professional Firefighters PAC\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10500.00 from \"California Professional Firefighters PAC\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Cindy Horn",
+        "total": 83000,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Cindy Horn\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $43800.00 from \"Cindy Horn\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "United Nurses Association of California/Union of Health Care Professionals PAC (UNAC PAC)",
+        "total": 80300,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $58400.00 from \"United Nurses Association of California/Union of Health Care Professionals PAC (UNAC PAC)\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7300.00 from \"United Nurses Association of California/Union of Health Care Professionals PAC (UNAC PAC)\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Southern California District Council of Laborers PAC Small Contributor Committee",
+        "total": 77200,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Southern California District Council of Laborers PAC Small Contributor Committee\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $47000.00 from \"Southern California District Council of Laborers PAC Small Contributor Committee\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Leonard Schaeffer",
+        "total": 76200,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Leonard Schaeffer\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Leonard Schaeffer\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "J. Christopher Reyes",
+        "total": 76000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"J. Christopher Reyes\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"J. Christopher Reyes\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "M. Jude Reyes",
+        "total": 76000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"M. Jude Reyes\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"M. Jude Reyes\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "Rick Caruso",
+        "total": 76000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Rick Caruso\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Rick Caruso\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Tina Caruso",
+        "total": 76000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Tina Caruso\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Tina Caruso\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Pechanga Band of Luiseno Indians",
+        "total": 73800,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $44600.00 from \"Pechanga Band of Luiseno Indians\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Pechanga Band of Luiseno Indians\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Standing Committee On Political Education Of The California Labor Federation, AFL-CIO",
+        "total": 73000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $73000.00 from \"Standing Committee On Political Education Of The California Labor Federation, AFL-CIO\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Agua Caliente Band of Cahuilla Indians",
+        "total": 71100,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Agua Caliente Band of Cahuilla Indians\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $41900.00 from \"Agua Caliente Band of Cahuilla Indians\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "PricewaterhouseCoopers LLP",
+        "total": 67000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $15000.00 from \"PricewaterhouseCoopers LLP\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $15000.00 from \"PricewaterhouseCoopers LLP\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "Operating Engineers Local No.3 Statewide PAC",
+        "total": 66700,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Operating Engineers Local No.3 Statewide PAC\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Operating Engineers Local No.3 Statewide PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "CSLEA Political Action Committee",
+        "total": 66000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $15600.00 from \"CSLEA Political Action Committee\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $10600.00 from \"CSLEA Political Action Committee\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "Santa Ynez Band Of Mission Indians",
+        "total": 64100,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Santa Ynez Band Of Mission Indians\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $9300.00 from \"Santa Ynez Band Of Mission Indians\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Robinson Calcagnie, Inc",
+        "total": 62400,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Robinson Calcagnie, Inc\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Robinson Calcagnie, Inc\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "United Food and Commercial Workers Western States Council Candidates PAC",
+        "total": 60800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 10 receipt(s) totaling $60800.00 from \"United Food and Commercial Workers Western States Council Candidates PAC\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Blue Shield of California",
+        "total": 60400,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Blue Shield of California\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Blue Shield of California\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Markstein Beverage Co",
+        "total": 60400,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Markstein Beverage Co\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Markstein Beverage Co\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Professional Engineers in California Government (PECG-PAC)",
+        "total": 58800,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Professional Engineers in California Government (PECG-PAC)\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Professional Engineers in California Government (PECG-PAC)\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Northern California Carpenters Regional Council Small Contributor Committee",
+        "total": 58400,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $14600.00 from \"Northern California Carpenters Regional Council Small Contributor Committee\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $14600.00 from \"Northern California Carpenters Regional Council Small Contributor Committee\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "California Teachers Association/Association for Better Citizenship",
+        "total": 58400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $58400.00 from \"California Teachers Association/Association for Better Citizenship\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "SEIU California State Council Small Contributor Committee",
+        "total": 58400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $58400.00 from \"SEIU California State Council Small Contributor Committee\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Wendy Meyer",
+        "total": 57900,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $11000.00 from \"Wendy Meyer\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $20000.00 from \"Wendy Meyer\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "California Nurses Association PAC (CNA-PAC)",
+        "total": 57400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $57400.00 from \"California Nurses Association PAC (CNA-PAC)\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "James Bennett",
+        "total": 57200,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"James Bennett\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $8800.00 from \"James Bennett\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Faustino Bernadett",
+        "total": 55270.34,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10500.00 from \"Faustino Bernadett\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Faustino Bernadett\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "California State Council of Laborers PAC",
+        "total": 54700,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $54700.00 from \"California State Council of Laborers PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Northern California District Council of Laborers PAC",
+        "total": 53800,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $14600.00 from \"Northern California District Council of Laborers PAC\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Northern California District Council of Laborers PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "CA Grocers Association PAC",
+        "total": 52644,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15000.00 from \"CA Grocers Association PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15000.00 from \"CA Grocers Association PAC\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "California Correctional Peace Officers Association PAC",
+        "total": 52600,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"California Correctional Peace Officers Association PAC\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"California Correctional Peace Officers Association PAC\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "Stewart Resnick",
+        "total": 52600,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Stewart Resnick\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Stewart Resnick\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "Brian Kabateck",
+        "total": 52600,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Brian Kabateck\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Brian Kabateck\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Lynda Resnick",
+        "total": 52600,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Lynda Resnick\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"Lynda Resnick\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Mark Friedman",
+        "total": 52600,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Mark Friedman\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7800.00 from \"Mark Friedman\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Glen Dake",
+        "total": 52315.1,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $17315.10 from \"Glen Dake\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Glen Dake\" to filer 1454809 (BECERRA FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2030) in 2022"
+        ]
+      },
+      {
+        "name": "Jules Buenabenta",
+        "total": 51900,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $41900.00 from \"Jules Buenabenta\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Jules Buenabenta\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      },
+      {
+        "name": "California Apartment Association Political Action Committee",
+        "total": 51700,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $29200.00 from \"California Apartment Association Political Action Committee\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7500.00 from \"California Apartment Association Political Action Committee\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020"
+        ]
+      },
+      {
+        "name": "Royal Business Bank",
+        "total": 51200,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Royal Business Bank\" to filer 1414167 (BECERRA FOR ATTORNEY GENERAL 2022) in 2020",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $20000.00 from \"Royal Business Bank\" to filer 1394091 (BECERRA FOR ATTORNEY GENERAL 2018) in 2018"
+        ]
+      }
+    ],
+    "top_25_recipients": []
+  },
+  "cycle_2026": {
+    "total_raised": 5747873,
+    "total_spent": 0,
+    "unique_donors": 5061,
+    "unique_recipients": 0,
+    "top_50_donors": [
+      {
+        "name": "California State Council of Laborers PAC",
+        "total": 54700,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $54700.00 from \"California State Council of Laborers PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Joseph Molina",
+        "total": 49700,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $49700.00 from \"Joseph Molina\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Southern California District Council of Laborers PAC Small Contributor Committee",
+        "total": 47000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $47000.00 from \"Southern California District Council of Laborers PAC Small Contributor Committee\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tigran Martinian",
+        "total": 45600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $45600.00 from \"Tigran Martinian\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Pechanga Band of Luiseno Indians",
+        "total": 44600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $44600.00 from \"Pechanga Band of Luiseno Indians\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Alexandra Seros",
+        "total": 42200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $42200.00 from \"Alexandra Seros\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Jules Buenabenta",
+        "total": 41900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $41900.00 from \"Jules Buenabenta\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Agua Caliente Band of Cahuilla Indians",
+        "total": 41900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $41900.00 from \"Agua Caliente Band of Cahuilla Indians\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Raul Ayala",
+        "total": 39950,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $39950.00 from \"Raul Ayala\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Altamed Health Network Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Altamed Health Network Inc.\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Cindy Horn",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Cindy Horn\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "LCCC PAC",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"LCCC PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Leonard Schaeffer",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Leonard Schaeffer\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Morgan Chu",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Morgan Chu\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Border Health Federal PAC",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Border Health Federal PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Laborers Pacific Southwest Regional Organizing Coalition PAC",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Laborers Pacific Southwest Regional Organizing Coalition PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Northern California District Council of Laborers PAC",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Northern California District Council of Laborers PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Chevron USA Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Chevron USA Inc.\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "California's Best",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"California's Best\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Alonzo Cantu",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Alonzo Cantu\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Kelly Ayala",
+        "total": 36926.35,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $36926.35 from \"Kelly Ayala\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Greyson Bryan",
+        "total": 28700,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $28700.00 from \"Greyson Bryan\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Arnoldo Casillas",
+        "total": 25650.25,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $25650.25 from \"Arnoldo Casillas\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Frank Perez",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Frank Perez\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Patrick McNicholas",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Patrick McNicholas\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tom Chavez",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Tom Chavez\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Minh Nguyen",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $25000.00 from \"Minh Nguyen\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Lawrence Gelman",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Lawrence Gelman\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Donna Bower",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $25000.00 from \"Donna Bower\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Bobby Saadian",
+        "total": 20500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $20500.00 from \"Bobby Saadian\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Karen Silverman",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"Karen Silverman\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Greg Adams",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $20000.00 from \"Greg Adams\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Prime Healthcare Services, Inc.",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $20000.00 from \"Prime Healthcare Services, Inc.\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Union of American Physicians and Dentists Medical Action Committee",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $20000.00 from \"Union of American Physicians and Dentists Medical Action Committee\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Jose Garza",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"Jose Garza\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Gary Dordick",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $20000.00 from \"Gary Dordick\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Ron Ulloa",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $20000.00 from \"Ron Ulloa\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Dolores Leal",
+        "total": 18384.07,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $18384.07 from \"Dolores Leal\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Peter Chernin",
+        "total": 18300,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $18300.00 from \"Peter Chernin\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Glen Dake",
+        "total": 17315.1,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $17315.10 from \"Glen Dake\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Santa Ynez Band Of Mission Indians",
+        "total": 16300,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $16300.00 from \"Santa Ynez Band Of Mission Indians\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Bruno Ulloa",
+        "total": 16229.01,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $16229.01 from \"Bruno Ulloa\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Robinson Calcagnie, Inc",
+        "total": 15600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Robinson Calcagnie, Inc\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Rick Caruso",
+        "total": 15600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Rick Caruso\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tina Caruso",
+        "total": 15600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"Tina Caruso\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "M. Jude Reyes",
+        "total": 15600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"M. Jude Reyes\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "J. Christopher Reyes",
+        "total": 15600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15600.00 from \"J. Christopher Reyes\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "California State Pipe Trades Council PAC",
+        "total": 15500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $15500.00 from \"California State Pipe Trades Council PAC\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "California State Association of Electrical Workers",
+        "total": 15500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $15500.00 from \"California State Association of Electrical Workers\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Jeffrey Silberman",
+        "total": 15128.75,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15128.75 from \"Jeffrey Silberman\" to filer 1480025 (BECERRA FOR GOVERNOR 2026) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": []
+  },
+  "incoming_edge_count": 10019,
+  "outgoing_edge_count": 0,
+  "cycles_active": [
+    "2018",
+    "2020",
+    "2022",
+    "2026"
+  ],
+  "committees_referenced": [
+    "1394091",
+    "1414167",
+    "1454809",
+    "1480025"
+  ],
+  "generated": "2026-05-01T13:41:23.271Z"
+}

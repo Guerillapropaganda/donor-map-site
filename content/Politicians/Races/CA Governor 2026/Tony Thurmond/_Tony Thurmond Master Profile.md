@@ -10,6 +10,9 @@ party: Democrat
 chamber: Governor
 state: California
 state-abbr: CA
+fppc-committee-id: "1461509"
+fppc-committee-name: "THURMOND FOR GOVERNOR 2026"
+fppc-committee-cycle: "2026"
 committees:
   - Education & Labor
 issues:

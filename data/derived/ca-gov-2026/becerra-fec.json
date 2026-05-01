@@ -1,0 +1,256 @@
+{
+  "candidate": "Xavier Becerra",
+  "slug": "becerra",
+  "fec_ids": [
+    "H2CA30143",
+    "C00264101"
+  ],
+  "total_raised_federal": 0,
+  "total_outgoing_federal": 2208330,
+  "incoming_edge_count": 0,
+  "outgoing_edge_count": 31,
+  "unique_donors": 0,
+  "unique_recipients": 30,
+  "sources_seen": [
+    "fec-oppexp"
+  ],
+  "cycles_active": [
+    "2004",
+    "2006",
+    "2010",
+    "2012",
+    "2014",
+    "2016",
+    "2018",
+    "2022"
+  ],
+  "top_50_donors": [],
+  "top_25_recipients": [
+    {
+      "name": "AUSTIN SCOTT FOR CONGRESS INC",
+      "total": 680526,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2008-2016, 105 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "OSSEN CARDENAS MEDIA",
+      "total": 260000,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2010-2014, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "ARUM GROUP, LLC",
+      "total": 250000,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2012-2016, 50 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "ATTEBERRY, KRISTA",
+      "total": 181000,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2004-2012, 30 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "ANNE LEWIS STRATEGIES, LLC",
+      "total": 110513,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2016-2016, 24 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CAPITAL STRATEGIES",
+      "total": 95226,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2016-2018, 18 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "LA QUINTA RESORT",
+      "total": 87972,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2010-2016, 10 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "GOODWIN SIMON STRATEGIC RESEARCH",
+      "total": 69452,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2016-2016, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "Democratic Governors Association",
+      "total": 50000,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2004-2004, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CROSHAW PRINTING",
+      "total": 49778,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2004-2010, 7 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CITY OF MONTEBELLO",
+      "total": 36711,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2004-2014, 6 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "SEASIDE POLITICAL PRINTING",
+      "total": 30836,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2012-2016, 5 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "ATTEBERRY, KRISTA  MS.",
+      "total": 29000,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2004-2006, 2 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "National Republican Senatorial Committee",
+      "total": 25153,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2010-2014, 4 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "KAUFMAN LEGAL GROUP",
+      "total": 23315,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2018-2018, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "FRANCHISE TAX BOARD",
+      "total": 22299,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2018-2018, 2 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "SAN ANTONIO WINERY",
+      "total": 22238,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2014-2016, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "NAVIGARE STRATEGY GROUP, LLC",
+      "total": 20000,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2012-2012, 4 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "TRIBUNE DIRECT",
+      "total": 19661,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2012-2012, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "NIELSEN, MICHAEL",
+      "total": 18500,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2004-2014, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "EVERYACTION INC",
+      "total": 16380,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2022-2022, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PREMIER PRODUCTS & PROMOTIONS",
+      "total": 16212,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2014-2016, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PACIFIC PALMS",
+      "total": 13068,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2016-2016, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PERKINS COIE LLP",
+      "total": 13061,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2012-2012, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "4DEGREES INC.",
+      "total": 12900,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2012-2012, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    }
+  ],
+  "generated": "2026-05-01T13:42:55.784Z"
+}

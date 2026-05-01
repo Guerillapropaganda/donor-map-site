@@ -10,6 +10,9 @@ party: Democrat
 chamber: Governor
 state: California
 state-abbr: CA
+fppc-committee-id: "1485077"
+fppc-committee-name: "STEYER FOR GOVERNOR 2026"
+fppc-committee-cycle: "2026"
 issues:
   - Energy & Climate
 top-donors:

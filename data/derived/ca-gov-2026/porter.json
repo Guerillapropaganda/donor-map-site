@@ -1,0 +1,1299 @@
+{
+  "candidate": "Katie Porter",
+  "slug": "porter",
+  "lifetime": {
+    "total_raised": 12035226,
+    "total_spent": 14022733,
+    "unique_donors": 15232,
+    "unique_recipients": 167,
+    "top_50_donors": [
+      {
+        "name": "Donna M. Bower",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Donna M. Bower\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Joe Kiani",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Joe Kiani\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Christian Larsen",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Christian Larsen\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Benjamin Stockton",
+        "total": 117300,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $117300.00 from \"Benjamin Stockton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "McNicholas & McNicholas, LLP",
+        "total": 103400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $103400.00 from \"McNicholas & McNicholas, LLP\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "First Foundation Bank",
+        "total": 93588.5,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 37 receipt(s) totaling $93588.50 from \"First Foundation Bank\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Brett Schreiber",
+        "total": 88400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $88400.00 from \"Brett Schreiber\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Gerald B. Singleton",
+        "total": 85000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $85000.00 from \"Gerald B. Singleton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Jana Simpson",
+        "total": 80800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $80800.00 from \"Jana Simpson\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "DRIVE Committee",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"DRIVE Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Rickard K. Robbins",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Rickard K. Robbins\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Lyna Lam",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Lyna Lam\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "California Teamsters Public Affairs Council",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"California Teamsters Public Affairs Council\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal, Air, Rail and Transportation Workers' International Association Political Action League (FEC PAC ID #C00007542)",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Sheet Metal, Air, Rail and Transportation Workers' International Association Political Action League (FEC PAC ID #C00007542)\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal Workers Local Union 104 Political Committee",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Sheet Metal Workers Local Union 104 Political Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal, Air, Rail, Transportation Workers' International Union (SMART) Local 105 PAC Small Contributor Committee",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Sheet Metal, Air, Rail, Transportation Workers' International Union (SMART) Local 105 PAC Small Contributor Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "United Auto Workers",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"United Auto Workers\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Chris Duro",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Chris Duro\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "John Lincoln",
+        "total": 70000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $70000.00 from \"John Lincoln\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Margaret Singleton",
+        "total": 68900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 11 receipt(s) totaling $68900.00 from \"Margaret Singleton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal Workers Local 206 PAC",
+        "total": 64800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $64800.00 from \"Sheet Metal Workers Local 206 PAC\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Middle Seat Consulting, LLC",
+        "total": 61764.72,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $61764.72 from \"Middle Seat Consulting, LLC\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Roger McNamee",
+        "total": 60000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $60000.00 from \"Roger McNamee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Ann E. Vitti",
+        "total": 60000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $60000.00 from \"Ann E. Vitti\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers (IBEW) PAC Educational Fund",
+        "total": 60000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $60000.00 from \"International Brotherhood of Electrical Workers (IBEW) PAC Educational Fund\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Roberts",
+        "total": 51500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $51500.00 from \"Mark Roberts\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Todd Becker",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"Todd Becker\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Elizabeth Cabraser",
+        "total": 49600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 72 receipt(s) totaling $49600.00 from \"Elizabeth Cabraser\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "California Conference Board, Amalgamated Transit Union PAC Small Contributor Committee",
+        "total": 49000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $49000.00 from \"California Conference Board, Amalgamated Transit Union PAC Small Contributor Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Karla Jurvetson",
+        "total": 47100,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 9 receipt(s) totaling $47100.00 from \"Karla Jurvetson\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Shannon Hunt-Scott",
+        "total": 45000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $45000.00 from \"Shannon Hunt-Scott\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Gerald Singleton",
+        "total": 42500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $42500.00 from \"Gerald Singleton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Marco Zappacosta",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $40000.00 from \"Marco Zappacosta\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Marcy Carsey",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $40000.00 from \"Marcy Carsey\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Wylie Aitken",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $40000.00 from \"Wylie Aitken\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Fund Her PAC",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $40000.00 from \"Fund Her PAC\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $40000.00 from \"National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Heidi Lindelof",
+        "total": 39998,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $39998.00 from \"Heidi Lindelof\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "David A. Pyle",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"David A. Pyle\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Andrew Schwartzberg",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Andrew Schwartzberg\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "California Association of Professional Scientists (CAPS PAC) Small Contributor Committee",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"California Association of Professional Scientists (CAPS PAC) Small Contributor Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Liz Owens",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Liz Owens\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Consumer Attorneys of California Political Action Committee",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Consumer Attorneys of California Political Action Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Jaime Schwartzberg",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Jaime Schwartzberg\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Rick Matros",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $39000.00 from \"Rick Matros\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "David Goren",
+        "total": 37000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $37000.00 from \"David Goren\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Christine Spagnoli",
+        "total": 32000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $32000.00 from \"Christine Spagnoli\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Phillip Ramos",
+        "total": 31500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 21 receipt(s) totaling $31500.00 from \"Phillip Ramos\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Garrett Kirk, Jr.",
+        "total": 30000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $30000.00 from \"Garrett Kirk, Jr.\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Clay Kenan Kirk",
+        "total": 30000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $30000.00 from \"Clay Kenan Kirk\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Middle Seat Consulting, LLC",
+        "total": 4181096.04,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $47301.48 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Middle Seat Consulting, LLC\" in 2026, role=fundraising-event",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $67500.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Middle Seat Consulting, LLC\" in 2026, role=consultant"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Meta Platforms, Inc.",
+        "total": 1556587.1,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $1556587.10 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Meta Platforms, Inc.\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Payroll Data Processing, Inc.",
+        "total": 1136980.86,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 285 expenditure(s) totaling $1136980.86 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Payroll Data Processing, Inc.\" in 2026, role=staff-salary"
+        ],
+        "role": "staff-salary"
+      },
+      {
+        "name": "ActBlue Technical Services",
+        "total": 504844.83,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 484 expenditure(s) totaling $504844.83 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"ActBlue Technical Services\" in 2026, role=office-expense"
+        ],
+        "role": "office-expense"
+      },
+      {
+        "name": "GBAO Strategies",
+        "total": 441665.86,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $2765.86 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"GBAO Strategies\" in 2026, role=staff-travel — sample: \"1/21/26, Lodging, Los Angeles, CA, Campaign Retreat, 1\"",
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $438900.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"GBAO Strategies\" in 2026, role=polling"
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Capital One",
+        "total": 310686.29,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 43 expenditure(s) totaling $310686.29 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Capital One\" in 2026, role=vendor-payment — sample: \"Credit Card Payment\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "United States Treasury",
+        "total": 301570.37,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 95 expenditure(s) totaling $301570.37 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"United States Treasury\" in 2026, role=staff-salary"
+        ],
+        "role": "staff-salary"
+      },
+      {
+        "name": "Katharine Meyer Borst",
+        "total": 279000,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $36000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Katharine Meyer Borst\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 21 expenditure(s) totaling $243000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Katharine Meyer Borst\" in 2026, role=fundraising-event"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Wavelength Strategy, LLC",
+        "total": 260468.75,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $249163.64 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Wavelength Strategy, LLC\" in 2026, role=vendor-payment — sample: \"Production Costs\"",
+          "Cal-Access EXPN_CD: 18 expenditure(s) totaling $10275.84 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Wavelength Strategy, LLC\" in 2026, role=staff-travel"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Leverage Digital, LLC",
+        "total": 253000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $253000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Leverage Digital, LLC\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "NGP Van dba EveryAction, Inc.",
+        "total": 243100,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 33 expenditure(s) totaling $243100.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"NGP Van dba EveryAction, Inc.\" in 2026, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Switchboard Public Benefit Corporation",
+        "total": 226085.54,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 14 expenditure(s) totaling $226085.54 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Switchboard Public Benefit Corporation\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Lynh Tran",
+        "total": 204417.39000000004,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $129.54 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Lynh Tran\" in 2026, role=office-expense",
+          "Cal-Access EXPN_CD: 46 expenditure(s) totaling $193110.39 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Lynh Tran\" in 2026, role=staff-salary"
+        ],
+        "role": "office-expense"
+      },
+      {
+        "name": "MPWR Media Strategies, LLC",
+        "total": 199581.66,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $190000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"MPWR Media Strategies, LLC\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 25 expenditure(s) totaling $9581.66 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"MPWR Media Strategies, LLC\" in 2026, role=staff-travel"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Click Strategies",
+        "total": 198000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 13 expenditure(s) totaling $198000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Click Strategies\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Ripple Effect Strategies, LLC",
+        "total": 191690,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $191690.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Ripple Effect Strategies, LLC\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "LAC, Inc.",
+        "total": 190427.75,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 28 expenditure(s) totaling $181723.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"LAC, Inc.\" in 2026, role=fundraising-event",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $155.40 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"LAC, Inc.\" in 2026, role=candidate-travel"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Grassroots Media, LLC",
+        "total": 188445,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $188445.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Grassroots Media, LLC\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Tatango",
+        "total": 172493.11,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 43 expenditure(s) totaling $172493.11 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Tatango\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Deane & Company",
+        "total": 157759.26,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 25 expenditure(s) totaling $157759.26 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Deane & Company\" in 2026, role=professional"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "Erica Kwiatkowski Nielsen",
+        "total": 150000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 10 expenditure(s) totaling $150000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Erica Kwiatkowski Nielsen\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Grassroots Analytics",
+        "total": 143150.79,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $143150.79 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Grassroots Analytics\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Anne Lewis Strategies, LLC dba MissionWired",
+        "total": 119200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $119200.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Anne Lewis Strategies, LLC dba MissionWired\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Blue Action, Inc.",
+        "total": 115900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $115900.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Blue Action, Inc.\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Bedford Grove",
+        "total": 111919.12,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $429.84 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Bedford Grove\" in 2026, role=meetings — sample: \"3/13/25, Fundraising Meeting, 3, Including Candidate\"",
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $1114.28 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Bedford Grove\" in 2026, role=staff-travel"
+        ],
+        "role": "meetings"
+      }
+    ]
+  },
+  "cycle_2026": {
+    "total_raised": 12035226,
+    "total_spent": 14022733,
+    "unique_donors": 15232,
+    "unique_recipients": 167,
+    "top_50_donors": [
+      {
+        "name": "Donna M. Bower",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Donna M. Bower\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Joe Kiani",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Joe Kiani\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Christian Larsen",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Christian Larsen\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Benjamin Stockton",
+        "total": 117300,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $117300.00 from \"Benjamin Stockton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "McNicholas & McNicholas, LLP",
+        "total": 103400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $103400.00 from \"McNicholas & McNicholas, LLP\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "First Foundation Bank",
+        "total": 93588.5,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 37 receipt(s) totaling $93588.50 from \"First Foundation Bank\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Brett Schreiber",
+        "total": 88400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $88400.00 from \"Brett Schreiber\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Gerald B. Singleton",
+        "total": 85000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $85000.00 from \"Gerald B. Singleton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Jana Simpson",
+        "total": 80800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $80800.00 from \"Jana Simpson\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "DRIVE Committee",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"DRIVE Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Rickard K. Robbins",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Rickard K. Robbins\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Lyna Lam",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Lyna Lam\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "California Teamsters Public Affairs Council",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"California Teamsters Public Affairs Council\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal, Air, Rail and Transportation Workers' International Association Political Action League (FEC PAC ID #C00007542)",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Sheet Metal, Air, Rail and Transportation Workers' International Association Political Action League (FEC PAC ID #C00007542)\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal Workers Local Union 104 Political Committee",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Sheet Metal Workers Local Union 104 Political Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal, Air, Rail, Transportation Workers' International Union (SMART) Local 105 PAC Small Contributor Committee",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Sheet Metal, Air, Rail, Transportation Workers' International Union (SMART) Local 105 PAC Small Contributor Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "United Auto Workers",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"United Auto Workers\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Chris Duro",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Chris Duro\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "John Lincoln",
+        "total": 70000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $70000.00 from \"John Lincoln\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Margaret Singleton",
+        "total": 68900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 11 receipt(s) totaling $68900.00 from \"Margaret Singleton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal Workers Local 206 PAC",
+        "total": 64800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $64800.00 from \"Sheet Metal Workers Local 206 PAC\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Middle Seat Consulting, LLC",
+        "total": 61764.72,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $61764.72 from \"Middle Seat Consulting, LLC\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Roger McNamee",
+        "total": 60000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $60000.00 from \"Roger McNamee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Ann E. Vitti",
+        "total": 60000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $60000.00 from \"Ann E. Vitti\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers (IBEW) PAC Educational Fund",
+        "total": 60000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $60000.00 from \"International Brotherhood of Electrical Workers (IBEW) PAC Educational Fund\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Roberts",
+        "total": 51500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $51500.00 from \"Mark Roberts\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Todd Becker",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"Todd Becker\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Elizabeth Cabraser",
+        "total": 49600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 72 receipt(s) totaling $49600.00 from \"Elizabeth Cabraser\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "California Conference Board, Amalgamated Transit Union PAC Small Contributor Committee",
+        "total": 49000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $49000.00 from \"California Conference Board, Amalgamated Transit Union PAC Small Contributor Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Karla Jurvetson",
+        "total": 47100,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 9 receipt(s) totaling $47100.00 from \"Karla Jurvetson\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Shannon Hunt-Scott",
+        "total": 45000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $45000.00 from \"Shannon Hunt-Scott\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Gerald Singleton",
+        "total": 42500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $42500.00 from \"Gerald Singleton\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Marco Zappacosta",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $40000.00 from \"Marco Zappacosta\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Marcy Carsey",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $40000.00 from \"Marcy Carsey\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Wylie Aitken",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $40000.00 from \"Wylie Aitken\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Fund Her PAC",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $40000.00 from \"Fund Her PAC\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $40000.00 from \"National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Heidi Lindelof",
+        "total": 39998,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $39998.00 from \"Heidi Lindelof\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "David A. Pyle",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"David A. Pyle\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Andrew Schwartzberg",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Andrew Schwartzberg\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "California Association of Professional Scientists (CAPS PAC) Small Contributor Committee",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"California Association of Professional Scientists (CAPS PAC) Small Contributor Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Liz Owens",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Liz Owens\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Consumer Attorneys of California Political Action Committee",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Consumer Attorneys of California Political Action Committee\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Jaime Schwartzberg",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Jaime Schwartzberg\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Rick Matros",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $39000.00 from \"Rick Matros\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "David Goren",
+        "total": 37000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $37000.00 from \"David Goren\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Christine Spagnoli",
+        "total": 32000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $32000.00 from \"Christine Spagnoli\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Phillip Ramos",
+        "total": 31500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 21 receipt(s) totaling $31500.00 from \"Phillip Ramos\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Garrett Kirk, Jr.",
+        "total": 30000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $30000.00 from \"Garrett Kirk, Jr.\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      },
+      {
+        "name": "Clay Kenan Kirk",
+        "total": 30000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $30000.00 from \"Clay Kenan Kirk\" to filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Middle Seat Consulting, LLC",
+        "total": 4181096.04,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $47301.48 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Middle Seat Consulting, LLC\" in 2026, role=fundraising-event",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $67500.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Middle Seat Consulting, LLC\" in 2026, role=consultant"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Meta Platforms, Inc.",
+        "total": 1556587.1,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $1556587.10 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Meta Platforms, Inc.\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Payroll Data Processing, Inc.",
+        "total": 1136980.86,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 285 expenditure(s) totaling $1136980.86 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Payroll Data Processing, Inc.\" in 2026, role=staff-salary"
+        ],
+        "role": "staff-salary"
+      },
+      {
+        "name": "ActBlue Technical Services",
+        "total": 504844.83,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 484 expenditure(s) totaling $504844.83 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"ActBlue Technical Services\" in 2026, role=office-expense"
+        ],
+        "role": "office-expense"
+      },
+      {
+        "name": "GBAO Strategies",
+        "total": 441665.86,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $2765.86 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"GBAO Strategies\" in 2026, role=staff-travel — sample: \"1/21/26, Lodging, Los Angeles, CA, Campaign Retreat, 1\"",
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $438900.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"GBAO Strategies\" in 2026, role=polling"
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Capital One",
+        "total": 310686.29,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 43 expenditure(s) totaling $310686.29 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Capital One\" in 2026, role=vendor-payment — sample: \"Credit Card Payment\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "United States Treasury",
+        "total": 301570.37,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 95 expenditure(s) totaling $301570.37 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"United States Treasury\" in 2026, role=staff-salary"
+        ],
+        "role": "staff-salary"
+      },
+      {
+        "name": "Katharine Meyer Borst",
+        "total": 279000,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $36000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Katharine Meyer Borst\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 21 expenditure(s) totaling $243000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Katharine Meyer Borst\" in 2026, role=fundraising-event"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Wavelength Strategy, LLC",
+        "total": 260468.75,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $249163.64 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Wavelength Strategy, LLC\" in 2026, role=vendor-payment — sample: \"Production Costs\"",
+          "Cal-Access EXPN_CD: 18 expenditure(s) totaling $10275.84 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Wavelength Strategy, LLC\" in 2026, role=staff-travel"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Leverage Digital, LLC",
+        "total": 253000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $253000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Leverage Digital, LLC\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "NGP Van dba EveryAction, Inc.",
+        "total": 243100,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 33 expenditure(s) totaling $243100.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"NGP Van dba EveryAction, Inc.\" in 2026, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Switchboard Public Benefit Corporation",
+        "total": 226085.54,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 14 expenditure(s) totaling $226085.54 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Switchboard Public Benefit Corporation\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Lynh Tran",
+        "total": 204417.39000000004,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $129.54 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Lynh Tran\" in 2026, role=office-expense",
+          "Cal-Access EXPN_CD: 46 expenditure(s) totaling $193110.39 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Lynh Tran\" in 2026, role=staff-salary"
+        ],
+        "role": "office-expense"
+      },
+      {
+        "name": "MPWR Media Strategies, LLC",
+        "total": 199581.66,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $190000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"MPWR Media Strategies, LLC\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 25 expenditure(s) totaling $9581.66 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"MPWR Media Strategies, LLC\" in 2026, role=staff-travel"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Click Strategies",
+        "total": 198000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 13 expenditure(s) totaling $198000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Click Strategies\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Ripple Effect Strategies, LLC",
+        "total": 191690,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $191690.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Ripple Effect Strategies, LLC\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "LAC, Inc.",
+        "total": 190427.75,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 28 expenditure(s) totaling $181723.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"LAC, Inc.\" in 2026, role=fundraising-event",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $155.40 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"LAC, Inc.\" in 2026, role=candidate-travel"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Grassroots Media, LLC",
+        "total": 188445,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $188445.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Grassroots Media, LLC\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Tatango",
+        "total": 172493.11,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 43 expenditure(s) totaling $172493.11 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Tatango\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Deane & Company",
+        "total": 157759.26,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 25 expenditure(s) totaling $157759.26 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Deane & Company\" in 2026, role=professional"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "Erica Kwiatkowski Nielsen",
+        "total": 150000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 10 expenditure(s) totaling $150000.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Erica Kwiatkowski Nielsen\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Grassroots Analytics",
+        "total": 143150.79,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $143150.79 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Grassroots Analytics\" in 2026, role=vendor-payment — sample: \"Text Messages\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Anne Lewis Strategies, LLC dba MissionWired",
+        "total": 119200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $119200.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Anne Lewis Strategies, LLC dba MissionWired\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Blue Action, Inc.",
+        "total": 115900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $115900.00 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Blue Action, Inc.\" in 2026, role=vendor-payment — sample: \"Digital Media\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Bedford Grove",
+        "total": 111919.12,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $429.84 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Bedford Grove\" in 2026, role=meetings — sample: \"3/13/25, Fundraising Meeting, 3, Including Candidate\"",
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $1114.28 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Bedford Grove\" in 2026, role=staff-travel"
+        ],
+        "role": "meetings"
+      }
+    ]
+  },
+  "incoming_edge_count": 15232,
+  "outgoing_edge_count": 214,
+  "cycles_active": [
+    "2026"
+  ],
+  "committees_referenced": [
+    "1479597"
+  ],
+  "generated": "2026-05-01T13:41:23.283Z"
+}
