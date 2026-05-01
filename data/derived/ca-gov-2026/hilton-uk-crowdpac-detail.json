@@ -1,0 +1,63 @@
+{
+  "generated": "2026-05-01T14:54:52.880Z",
+  "fetches": [
+    {
+      "url": "https://find-and-update.company-information.service.gov.uk/company/10133929",
+      "status": "ok",
+      "code": 200,
+      "bytes": 34509
+    },
+    {
+      "url": "https://find-and-update.company-information.service.gov.uk/company/10133929/officers",
+      "status": "ok",
+      "code": 200,
+      "bytes": 43565
+    },
+    {
+      "url": "https://find-and-update.company-information.service.gov.uk/company/10133929/filing-history",
+      "status": "ok",
+      "code": 200,
+      "bytes": 51693
+    }
+  ],
+  "crowdpac_detail": {
+    "status": "fetched",
+    "bytes": 34509,
+    "company_name": "CROWDPAC LIMITED",
+    "company_status": "Dissolved",
+    "date_of_dissolution": "16 September 2020",
+    "date_of_incorporation": "19 April 2016",
+    "company_type": "Private limited Company",
+    "nature_of_business": [],
+    "registered_office": null,
+    "sample_html_around_status": "s --> Registered office address 3 Field Court, London, WC1R 5EF Company status Dissolved Dissolved on <dd class=\"data\" id=\"cessati"
+  },
+  "crowdpac_officers": {
+    "status": "fetched",
+    "bytes": 43565,
+    "steve_hilton_present": false,
+    "rachel_whetstone_present": false,
+    "officer_names": [
+      "KORDESTANI, Gisel Lynn",
+      "HILDER, Paul Michael",
+      "HILTON, Stephen Glenn Charles"
+    ],
+    "appointed_dates": [
+      "class=\"data\"> 19 April 2016",
+      "class=\"data\"> 19 April 2016",
+      "class=\"data\"> 19 April 2016"
+    ],
+    "sample": " 3 Field Court, London, WC1R 5EF Role Director Date of birth June 1974 <dl class=\"column-quarter"
+  },
+  "crowdpac_filings": {
+    "status": "fetched",
+    "bytes": 51693,
+    "filing_count": 3,
+    "filing_types": [
+      "GAZ2",
+      "TM01",
+      "CS01"
+    ],
+    "sample": "ompany numbers are not taken as a phone number --> CROWDPAC LIMITED filing history - Find and update company information - GOV.UK (function(){if(navigator.userAgent.match(/IEMobile\\/10\\.0/)){var d=document,c=\"appendChild\",a=d.createElement(\"style\");a[c](d.createTextNode(\"@-ms-viewport{width:auto!important}\"));d.getElementsByTagName(\"head\")[0][c](a);}})(); "
+  }
+}

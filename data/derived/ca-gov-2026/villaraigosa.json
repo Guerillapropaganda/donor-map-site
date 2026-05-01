@@ -1,0 +1,1364 @@
+{
+  "candidate": "Antonio Villaraigosa",
+  "slug": "villaraigosa",
+  "lifetime": {
+    "total_raised": 77638050,
+    "total_spent": 68366143,
+    "unique_donors": 20414,
+    "unique_recipients": 1018,
+    "top_50_donors": [
+      {
+        "name": "City of Los Angeles Ethics Commission",
+        "total": 7930461.34,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 62 receipt(s) totaling $3085501.34 from \"City of Los Angeles Ethics Commission\" to filer 1077478 (VILLARAIGOSA FOR MAYOR) in 2002",
+          "Cal-Access RCPT_CD: 21 receipt(s) totaling $3559892.00 from \"City of Los Angeles Ethics Commission\" to filer 1275257 (VILLARAIGOSA FOR MAYOR 2005 - GENERAL) in 2006"
+        ]
+      },
+      {
+        "name": "Friends of Antonio Villaraigosa",
+        "total": 1614102.3399999999,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $574602.34 from \"Friends of Antonio Villaraigosa\" to filer 1270536 (CITIZENS FOR MORE POLICE IN OUR COMMUNITIES; MAJOR FUNDING BY FRIENDS OF ANTONIO VILLARAIGOSA) in 2004",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1036500.00 from \"Friends of Antonio Villaraigosa\" to filer 1245233 (VILLARAIGOSA, FRIENDS OF ANTONIO) in 2002"
+        ]
+      },
+      {
+        "name": "Change to Win Political Education Account",
+        "total": 1500000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $1500000.00 from \"Change to Win Political Education Account\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Assembly Victory Fund",
+        "total": 1348936.96,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $1348936.96 from \"Assembly Victory Fund\" to filer 1230200 (VILLARAIGOSA, FRIENDS OF ANTONIO) in 2000"
+        ]
+      },
+      {
+        "name": "Sevice Employees Int'l Union",
+        "total": 750000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $750000.00 from \"Sevice Employees Int'l Union\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Afscme, Afl-cio",
+        "total": 500000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $500000.00 from \"Afscme, Afl-cio\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Los Angeles Police Protective League (LAPPL)",
+        "total": 380050,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $380050.00 from \"Los Angeles Police Protective League (LAPPL)\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "LUC Media Inc.",
+        "total": 371320.42,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $371320.42 from \"LUC Media Inc.\" to filer 1077478 (VILLARAIGOSA FOR MAYOR) in 2002"
+        ]
+      },
+      {
+        "name": "Anschutz Entertainment Group, Inc.",
+        "total": 356400,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $56400.00 from \"Anschutz Entertainment Group, Inc.\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2016",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $300000.00 from \"Anschutz Entertainment Group, Inc.\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "VILLARAIGOSA FOR GOVERNOR 2018, SPONSORED BY PUBLIC SAFETY ORGANIZATIONS; PUBLIC SAFETY OFFICERS FOR",
+        "total": 350000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $350000.00 from filer 1405973 (VILLARAIGOSA FOR GOVERNOR 2018, SPONSORED BY PUBLIC SAFETY ORGANIZATIONS; PUBLIC SAFETY OFFICERS FOR) to \"Antonio Villaraigosa\" in 2018, role=independent-expenditure — sample: \"RAD\""
+        ]
+      },
+      {
+        "name": "Clean Energy",
+        "total": 335000,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"Clean Energy\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $3000.00 from \"Clean Energy\" to filer 1275257 (VILLARAIGOSA FOR MAYOR 2005 - GENERAL) in 2006"
+        ]
+      },
+      {
+        "name": "Union Pacific Railroad",
+        "total": 303000,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $3000.00 from \"Union Pacific Railroad\" to filer 1250526 (VILLARAIGOSA OFFICEHOLDER ACCOUNT) in 2006",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $300000.00 from \"Union Pacific Railroad\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Edith Wasserman",
+        "total": 301000,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $300000.00 from \"Edith Wasserman\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Edith Wasserman\" to filer 1234344 (VILLARAIGOSA FOR MAYOR - GENERAL 2001) in 2002"
+        ]
+      },
+      {
+        "name": "UFCW International Union, CLC",
+        "total": 300000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $300000.00 from \"UFCW International Union, CLC\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Unite Here TIP State & Local Fund",
+        "total": 300000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $300000.00 from \"Unite Here TIP State & Local Fund\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Mayor's Committee for Government Excellence and Accountability",
+        "total": 275561.36,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $275561.36 from \"Mayor's Committee for Government Excellence and Accountability\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "United Firefighters of LA City Local 112 - Issues Committee",
+        "total": 250000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $250000.00 from \"United Firefighters of LA City Local 112 - Issues Committee\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Eli Broad",
+        "total": 223900,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Eli Broad\" to filer 1275257 (VILLARAIGOSA FOR MAYOR 2005 - GENERAL) in 2006",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $6000.00 from \"Eli Broad\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Southern California Pipe Trades District Council #16",
+        "total": 211600,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $175200.00 from \"Southern California Pipe Trades District Council #16\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $36400.00 from \"Southern California Pipe Trades District Council #16\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Laborers' International Union of N.A.",
+        "total": 200000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $200000.00 from \"Laborers' International Union of N.A.\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Robert Kotick",
+        "total": 195475.25,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $98675.25 from \"Robert Kotick\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2024",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $96800.00 from \"Robert Kotick\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Susan Samueli",
+        "total": 195200,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $116800.00 from \"Susan Samueli\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Susan Samueli\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Majestic Realty Co.",
+        "total": 175400,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $3000.00 from \"Majestic Realty Co.\" to filer 1250526 (VILLARAIGOSA OFFICEHOLDER ACCOUNT) in 2006",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $100000.00 from \"Majestic Realty Co.\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Emergency Medical PAC",
+        "total": 175200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $175200.00 from \"Emergency Medical PAC\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "California State Pipe Trades Council",
+        "total": 175200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $175200.00 from \"California State Pipe Trades Council\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Duty Free GRP Shared Expenses",
+        "total": 175200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $175200.00 from \"Duty Free GRP Shared Expenses\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Southwest Regional Council of Carpenters Political Action Fund",
+        "total": 174000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $174000.00 from \"Southwest Regional Council of Carpenters Political Action Fund\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Charles Schwab & Company, Inc.",
+        "total": 165449.71000000002,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $6091.85 from \"Charles Schwab & Company, Inc.\" to filer 1230200 (VILLARAIGOSA, FRIENDS OF ANTONIO) in 2002",
+          "Cal-Access RCPT_CD: 23 receipt(s) totaling $49643.73 from \"Charles Schwab & Company, Inc.\" to filer 1245233 (VILLARAIGOSA, FRIENDS OF ANTONIO) in 2006"
+        ]
+      },
+      {
+        "name": "Tutor Perini Corporation",
+        "total": 160400,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"Tutor Perini Corporation\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2024",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $87600.00 from \"Tutor Perini Corporation\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Associated General Contractors PAC",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"Associated General Contractors PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "California State Pipe Trades Council PAC",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"California State Pipe Trades Council PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "JRJ Corporation",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"JRJ Corporation\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "State Building and Construction Trades Council of California PAC",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"State Building and Construction Trades Council of California PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Boone Pickens",
+        "total": 150000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $150000.00 from \"Boone Pickens\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Christopher Albrecht",
+        "total": 145677.25,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $20702.00 from \"Christopher Albrecht\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"Christopher Albrecht\" to filer 1267602 (VILLARAIGOSA FOR MAYOR 2005) in 2006"
+        ]
+      },
+      {
+        "name": "Stewart Resnick",
+        "total": 142700,
+        "count": 7,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $3000.00 from \"Stewart Resnick\" to filer 1275257 (VILLARAIGOSA FOR MAYOR 2005 - GENERAL) in 2006",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $4000.00 from \"Stewart Resnick\" to filer 1267602 (VILLARAIGOSA FOR MAYOR 2005) in 2004"
+        ]
+      },
+      {
+        "name": "Eric Smidt",
+        "total": 139200,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $58400.00 from \"Eric Smidt\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"Eric Smidt\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2024"
+        ]
+      },
+      {
+        "name": "Continental Development Corporation",
+        "total": 138800,
+        "count": 6,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"Continental Development Corporation\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2024",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Continental Development Corporation\" to filer 1077478 (VILLARAIGOSA FOR MAYOR) in 2000"
+        ]
+      },
+      {
+        "name": "Marc Nathanson",
+        "total": 134700,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $56400.00 from \"Marc Nathanson\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2016",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $3000.00 from \"Marc Nathanson\" to filer 1275257 (VILLARAIGOSA FOR MAYOR 2005 - GENERAL) in 2006"
+        ]
+      },
+      {
+        "name": "Susan Smidt",
+        "total": 131200,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"Susan Smidt\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2024",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $58400.00 from \"Susan Smidt\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Los Angeles City Ethics Commission",
+        "total": 129913,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $61435.00 from \"Los Angeles City Ethics Commission\" to filer 1250526 (VILLARAIGOSA OFFICEHOLDER ACCOUNT) in 2004",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $29913.00 from \"Los Angeles City Ethics Commission\" to filer 1267602 (VILLARAIGOSA FOR MAYOR 2005) in 2006"
+        ]
+      },
+      {
+        "name": "Kurt Rappaport",
+        "total": 129200,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"Kurt Rappaport\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2024",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $56400.00 from \"Kurt Rappaport\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2016"
+        ]
+      },
+      {
+        "name": "Ryan Seacrest",
+        "total": 129200,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"Ryan Seacrest\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2024",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $56400.00 from \"Ryan Seacrest\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2016"
+        ]
+      },
+      {
+        "name": "Armen S. Khatchatourian",
+        "total": 127050,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Armen S. Khatchatourian\" to filer 1250526 (VILLARAIGOSA OFFICEHOLDER ACCOUNT) in 2004",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $116800.00 from \"Armen S. Khatchatourian\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Chad Brownstein",
+        "total": 120200,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $4000.00 from \"Chad Brownstein\" to filer 1267602 (VILLARAIGOSA FOR MAYOR 2005) in 2004",
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $67700.00 from \"Chad Brownstein\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Los Angeles Police Protective League PAC",
+        "total": 120000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $120000.00 from \"Los Angeles Police Protective League PAC\" to filer 1303063 (YES ON PROP S: A COALITION OF FIREFIGHTERS, POLICE OFFICERS, TAXPAYERS, WORKERS, BUS LEADERS & MAYOR VILLARAIGOSA. MAJOR FUNDING BY CHANGE TO WIN POLITICAL EDU ACCT & LA POLICE PROT LEAGUE PAC COMM) in 2008"
+        ]
+      },
+      {
+        "name": "Operating Engineers Local Union No. 12 Political Fund",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Operating Engineers Local Union No. 12 Political Fund\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "TELACU Industries, Inc.",
+        "total": 117400,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $5600.00 from \"TELACU Industries, Inc.\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $35000.00 from \"TELACU Industries, Inc.\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Henry Samueli",
+        "total": 116800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $116800.00 from \"Henry Samueli\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      },
+      {
+        "name": "Mordecai Notis",
+        "total": 116800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $116800.00 from \"Mordecai Notis\" to filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) in 2018"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Storefront Political Media",
+        "total": 12486150.32,
+        "count": 9,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $19267.47 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Storefront Political Media\" in 2018, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $5406.51 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Storefront Political Media\" in 2018, role=postage"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "LUC Media Inc.",
+        "total": 9536320,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $136625.00 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"LUC Media Inc.\" in 2002, role=radio-airtime",
+          "Cal-Access EXPN_CD: 12 expenditure(s) totaling $4627690.00 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"LUC Media Inc.\" in 2002, role=tv-advertising"
+        ],
+        "role": "radio-airtime"
+      },
+      {
+        "name": "Nuckels Media Partners, Inc.",
+        "total": 3676495.93,
+        "count": 8,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $8869.68 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Nuckels Media Partners, Inc.\" in 2026, role=staff-travel — sample: \"8/20/25-8/26/25, Hotel, Flight and Car Rental to Attend Film Shoot in Sacramento, 1\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $10000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Nuckels Media Partners, Inc.\" in 2024, role=web-ads"
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Knbc-tv",
+        "total": 3185165.25,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $221850.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Knbc-tv\" in 2026, role=tv-advertising",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $733605.25 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Knbc-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Kabc-tv",
+        "total": 3026312.75,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $183600.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Kabc-tv\" in 2026, role=tv-advertising",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $1243137.75 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Kabc-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Kcbs-tv",
+        "total": 2483020.75,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $102807.50 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Kcbs-tv\" in 2026, role=tv-advertising",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $972013.25 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Kcbs-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Putnam Partners, LLC",
+        "total": 1604378.2,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $7243.55 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Putnam Partners, LLC\" in 2018, role=radio-airtime",
+          "Cal-Access EXPN_CD: 11 expenditure(s) totaling $49731.00 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Putnam Partners, LLC\" in 2018, role=staff-travel — sample: \"3/28/17-3/30/17 and 4/17/17-4/18/17, Travel Costs to Attend Campaign Meeting, 1\""
+        ],
+        "role": "radio-airtime"
+      },
+      {
+        "name": "Hulsen Media Partners",
+        "total": 1325774.85,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 17 expenditure(s) totaling $1325774.85 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Hulsen Media Partners\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "RCBS Payroll",
+        "total": 1058152.6500000001,
+        "count": 6,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $472.50 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"RCBS Payroll\" in 2016, role=professional",
+          "Cal-Access EXPN_CD: 47 expenditure(s) totaling $759766.84 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"RCBS Payroll\" in 2026, role=staff-salary"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "Ktla-tv",
+        "total": 831934.75,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 15 expenditure(s) totaling $289350.00 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"Ktla-tv\" in 2002, role=tv-advertising — sample: \"Media buy - week 2\"",
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $196350.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Ktla-tv\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Premion (OTT)",
+        "total": 806684,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $806684.00 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Premion (OTT)\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Landslide Digital",
+        "total": 756250.49,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $96289.24 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Landslide Digital\" in 2026, role=web-ads",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $8700.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Landslide Digital\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "The Feldman Group, Inc.",
+        "total": 683973.5399999999,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $3384.96 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"The Feldman Group, Inc.\" in 2018, role=staff-travel — sample: \"4/14/17-4/19/17, Airfare and Car Rental to Meet with Candidate and Staff, 1\"",
+          "Cal-Access EXPN_CD: 26 expenditure(s) totaling $655350.12 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"The Feldman Group, Inc.\" in 2018, role=polling"
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Doak Carrier O'Donnell & Associates",
+        "total": 653305.47,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 20 expenditure(s) totaling $484964.47 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"Doak Carrier O'Donnell & Associates\" in 2002, role=tv-advertising",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $40000.00 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"Doak Carrier O'Donnell & Associates\" in 2002, role=consultant"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "The Mellman Group",
+        "total": 582244.38,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $384644.00 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"The Mellman Group\" in 2002, role=polling",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $177600.38 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"The Mellman Group\" in 2002, role=consultant"
+        ],
+        "role": "polling"
+      },
+      {
+        "name": "Kcal-tv",
+        "total": 566564,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $167569.00 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Kcal-tv\" in 2018, role=tv-advertising",
+          "Cal-Access EXPN_CD: 17 expenditure(s) totaling $376300.00 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"Kcal-tv\" in 2002, role=tv-advertising — sample: \"Media buy - week 2\""
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "S.O.S. Commercial Productions",
+        "total": 538822.04,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $538822.04 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"S.O.S. Commercial Productions\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Ampersand",
+        "total": 531118.25,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $531118.25 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Ampersand\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Tulchin Research",
+        "total": 511502.69,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $434000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Tulchin Research\" in 2026, role=polling",
+          "Cal-Access EXPN_CD: 27 expenditure(s) totaling $14269.19 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Tulchin Research\" in 2026, role=staff-travel — sample: \"11/14/24-11/15/24, Airfare and Transportation Costs to Attend Campaign Meetings in Los Angeles, 1\""
+        ],
+        "role": "polling"
+      },
+      {
+        "name": "Kabc-am",
+        "total": 505450,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $3850.00 from filer 1077478 (VILLARAIGOSA FOR MAYOR) to \"Kabc-am\" in 2002, role=radio-airtime — sample: \"Media buy - radio\"",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $501600.00 from filer 1234344 (VILLARAIGOSA FOR MAYOR - GENERAL 2001) to \"Kabc-am\" in 2002, role=tv-advertising — sample: \"Media buy - week 1\""
+        ],
+        "role": "radio-airtime"
+      },
+      {
+        "name": "Facebook",
+        "total": 486861.2,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $482379.36 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Facebook\" in 2018, role=tv-advertising",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $4481.84 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Facebook\" in 2026, role=web-ads"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Hulu, LLC",
+        "total": 482440.46,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $482440.46 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Hulu, LLC\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Maravich Associates, LLC",
+        "total": 479306.83999999997,
+        "count": 11,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $3699.99 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Maravich Associates, LLC\" in 2016, role=web-ads",
+          "Cal-Access EXPN_CD: 10 expenditure(s) totaling $2940.32 from filer 1392364 (VILLARAIGOSA FOR GOVERNOR 2018) to \"Maravich Associates, LLC\" in 2018, role=meetings — sample: \"8/15/17, Campaign Meeting, 7, Michelle Maravich and Eric Jaye-Authority to Approve Expenditures\""
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "JPM&M, Inc.",
+        "total": 474319.62,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 14 expenditure(s) totaling $64319.62 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"JPM&M, Inc.\" in 2026, role=tv-advertising",
+          "Cal-Access EXPN_CD: 22 expenditure(s) totaling $410000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"JPM&M, Inc.\" in 2026, role=consultant"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "All Direct Mail Services",
+        "total": 469203.08,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 19 expenditure(s) totaling $304727.57 from filer 1234344 (VILLARAIGOSA FOR MAYOR - GENERAL 2001) to \"All Direct Mail Services\" in 2002, role=postage",
+          "Cal-Access EXPN_CD: 20 expenditure(s) totaling $164475.51 from filer 1234344 (VILLARAIGOSA FOR MAYOR - GENERAL 2001) to \"All Direct Mail Services\" in 2002, role=literature"
+        ],
+        "role": "postage"
+      }
+    ]
+  },
+  "cycle_2026": {
+    "total_raised": 6096550,
+    "total_spent": 13804806,
+    "unique_donors": 870,
+    "unique_recipients": 224,
+    "top_50_donors": [
+      {
+        "name": "Clean Energy",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"Clean Energy\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Associated General Contractors PAC",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"Associated General Contractors PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "California State Pipe Trades Council PAC",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"California State Pipe Trades Council PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "JRJ Corporation",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"JRJ Corporation\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "State Building and Construction Trades Council of California PAC",
+        "total": 156800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $156800.00 from \"State Building and Construction Trades Council of California PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Operating Engineers Local Union No. 12 Political Fund",
+        "total": 117600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $117600.00 from \"Operating Engineers Local Union No. 12 Political Fund\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Steamfitters & Refrigeration U.A. Local 250 PAC Small Contributor Committee",
+        "total": 109200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $109200.00 from \"Steamfitters & Refrigeration U.A. Local 250 PAC Small Contributor Committee\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Habematolel Pomo of Upper Lake",
+        "total": 79200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $79200.00 from \"Habematolel Pomo of Upper Lake\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Heat and Frost Insulators and Asbestos Workers Local 5 - PAC",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Heat and Frost Insulators and Asbestos Workers Local 5 - PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Operating Engineers Local Union 3 Statewide PAC",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Operating Engineers Local Union 3 Statewide PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Gavin Polone",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Gavin Polone\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Peace Officers Research Association of California PAC (PORAC PAC)",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Peace Officers Research Association of California PAC (PORAC PAC)\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Southern California Pipe Trades District Council No. 16 Political Action Committee",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $78400.00 from \"Southern California Pipe Trades District Council No. 16 Political Action Committee\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Berry Corporation and Affiliated Entities(Willie Rivera)",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $78400.00 from \"Berry Corporation and Affiliated Entities(Willie Rivera)\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local No. 11 PAC",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"International Brotherhood of Electrical Workers Local No. 11 PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Marathon Petroleum Corporation and its Subsidiaries",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Marathon Petroleum Corporation and its Subsidiaries\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Vanir Construction Management, Inc.",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Vanir Construction Management, Inc.\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "AltaMed Health Network, Inc.",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"AltaMed Health Network, Inc.\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "COPE Healthcare Consulting, Inc.",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"COPE Healthcare Consulting, Inc.\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Susan Samueli",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Susan Samueli\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "California State Association of Electrical Workers General Fund",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"California State Association of Electrical Workers General Fund\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "David A. Pyle",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"David A. Pyle\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "District Council of Iron Workers of The State of California and Vicinity PAC",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"District Council of Iron Workers of The State of California and Vicinity PAC\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "California State Association of Electrical Workers",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"California State Association of Electrical Workers\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "California Resources Corporation and Subsidiaries(Matthew Alvarez)",
+        "total": 72800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"California Resources Corporation and Subsidiaries(Matthew Alvarez)\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Caliagua, Inc.",
+        "total": 63925.25,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $63925.25 from \"Caliagua, Inc.\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "First Foundation Bank",
+        "total": 63451.56,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 21 receipt(s) totaling $63451.56 from \"First Foundation Bank\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Election Digest - A Project of the Coalition for Literacy",
+        "total": 60000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $60000.00 from \"Election Digest - A Project of the Coalition for Literacy\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "IBEW PAC Educational Fund",
+        "total": 52500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $52500.00 from \"IBEW PAC Educational Fund\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Raleigh Property, LP",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"Raleigh Property, LP\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Brian Z. France",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"Brian Z. France\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Harry Sloan",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"Harry Sloan\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Maravich Associates, LLC(Michelle Maravich)",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $50000.00 from \"Maravich Associates, LLC(Michelle Maravich)\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "UA Local 38 COPE Fund",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"UA Local 38 COPE Fund\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Keith Brackpool",
+        "total": 48400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $48400.00 from \"Keith Brackpool\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Prenton, Inc.",
+        "total": 42000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $42000.00 from \"Prenton, Inc.\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Gary Karlin Michelson, M.D.",
+        "total": 42000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $42000.00 from \"Gary Karlin Michelson, M.D.\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Stuart Liner",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $40000.00 from \"Stuart Liner\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Khawar Siddique",
+        "total": 40000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $40000.00 from \"Khawar Siddique\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Frank Carrillo",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $39200.00 from \"Frank Carrillo\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Chevron",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Chevron\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Lance-Kashian & Company",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Lance-Kashian & Company\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Scott Brauninger",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Scott Brauninger\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "International Union of Painters & Allied Trades Legislative Educational Committee (MPO)",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"International Union of Painters & Allied Trades Legislative Educational Committee (MPO)\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "California-Nevada Conference of Operating Engineers Political Action Committee",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"California-Nevada Conference of Operating Engineers Political Action Committee\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Lorena Guerrero",
+        "total": 36400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $36400.00 from \"Lorena Guerrero\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Southern California Pipe Trades District Council #16",
+        "total": 36400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $36400.00 from \"Southern California Pipe Trades District Council #16\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "OMG General (Omnicare Medical Group)",
+        "total": 36400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $36400.00 from \"OMG General (Omnicare Medical Group)\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Reade Seiff",
+        "total": 35708.41,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $35708.41 from \"Reade Seiff\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      },
+      {
+        "name": "Fresenius Medical Care",
+        "total": 30000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $30000.00 from \"Fresenius Medical Care\" to filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Nuckels Media Partners, Inc.",
+        "total": 3600769.7600000002,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $8869.68 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Nuckels Media Partners, Inc.\" in 2026, role=staff-travel — sample: \"8/20/25-8/26/25, Hotel, Flight and Car Rental to Attend Film Shoot in Sacramento, 1\"",
+          "Cal-Access EXPN_CD: 29 expenditure(s) totaling $3494360.84 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Nuckels Media Partners, Inc.\" in 2026, role=tv-advertising"
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Hulsen Media Partners",
+        "total": 1325774.85,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 17 expenditure(s) totaling $1325774.85 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Hulsen Media Partners\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "RCBS Payroll",
+        "total": 765017.84,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 47 expenditure(s) totaling $759766.84 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"RCBS Payroll\" in 2026, role=staff-salary",
+          "Cal-Access EXPN_CD: 47 expenditure(s) totaling $5251.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"RCBS Payroll\" in 2026, role=professional"
+        ],
+        "role": "staff-salary"
+      },
+      {
+        "name": "Landslide Digital",
+        "total": 747550.49,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $96289.24 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Landslide Digital\" in 2026, role=web-ads",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $651261.25 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Landslide Digital\" in 2026, role=tv-advertising"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Ampersand",
+        "total": 531118.25,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $531118.25 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Ampersand\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "JPM&M, Inc.",
+        "total": 474319.62,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 14 expenditure(s) totaling $64319.62 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"JPM&M, Inc.\" in 2026, role=tv-advertising",
+          "Cal-Access EXPN_CD: 22 expenditure(s) totaling $410000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"JPM&M, Inc.\" in 2026, role=consultant"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Tulchin Research",
+        "total": 449502.69,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $434000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Tulchin Research\" in 2026, role=polling",
+          "Cal-Access EXPN_CD: 27 expenditure(s) totaling $14269.19 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Tulchin Research\" in 2026, role=staff-travel — sample: \"11/14/24-11/15/24, Airfare and Transportation Costs to Attend Campaign Meetings in Los Angeles, 1\""
+        ],
+        "role": "polling"
+      },
+      {
+        "name": "BCom Solutions, LLC",
+        "total": 344045.24,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $195000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"BCom Solutions, LLC\" in 2026, role=vendor-payment — sample: \"List Acquisition\"",
+          "Cal-Access EXPN_CD: 14 expenditure(s) totaling $96000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"BCom Solutions, LLC\" in 2026, role=consultant"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "iMedia Industries",
+        "total": 325180.32,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $325180.32 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"iMedia Industries\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Kcra-tv",
+        "total": 267112.5,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $267112.50 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Kcra-tv\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "MJE Strategies LLC",
+        "total": 239872.58,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $3025.10 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"MJE Strategies LLC\" in 2026, role=staff-travel — sample: \"9/13/25-9/16/25, Airfare to Attend Campaign Meetings in Los Angeles, 1\"",
+          "Cal-Access EXPN_CD: 15 expenditure(s) totaling $4347.48 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"MJE Strategies LLC\" in 2026, role=web-ads"
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Knbc-tv",
+        "total": 221850,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $221850.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Knbc-tv\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Ktla-tv",
+        "total": 196350,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $196350.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Ktla-tv\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Election Digest - A Project of the Coalition for Literacy",
+        "total": 187500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $187500.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Election Digest - A Project of the Coalition for Literacy\" in 2026, role=literature — sample: \"Slate Mailer\""
+        ],
+        "role": "literature"
+      },
+      {
+        "name": "Kabc-tv",
+        "total": 183600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $183600.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Kabc-tv\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Internal Revenue Service (IRS)",
+        "total": 183057.94,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $239.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Internal Revenue Service (IRS)\" in 2026, role=vendor-payment — sample: \"1120 POL Tax Payment\"",
+          "Cal-Access EXPN_CD: 47 expenditure(s) totaling $182818.94 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Internal Revenue Service (IRS)\" in 2026, role=staff-salary"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Hart Communications, LLC",
+        "total": 175200,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 13 expenditure(s) totaling $5200.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Hart Communications, LLC\" in 2026, role=office-expense",
+          "Cal-Access EXPN_CD: 15 expenditure(s) totaling $170000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Hart Communications, LLC\" in 2026, role=consultant"
+        ],
+        "role": "office-expense"
+      },
+      {
+        "name": "RMEM, Inc.",
+        "total": 172091.39,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 13 expenditure(s) totaling $132500.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"RMEM, Inc.\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $781.22 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"RMEM, Inc.\" in 2026, role=staff-travel — sample: \"1/13-1/15/26, Airfare, Car Rental and Hotel for Campaign Meeting in Burbank, 1\""
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Lisa Thompson",
+        "total": 141534,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $1534.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Lisa Thompson\" in 2026, role=fundraising-event — sample: \"Appetizers and Beverages Only\"",
+          "Cal-Access EXPN_CD: 12 expenditure(s) totaling $140000.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Lisa Thompson\" in 2026, role=consultant"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Trade Desk",
+        "total": 140871.12,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $111884.80 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Trade Desk\" in 2026, role=tv-advertising",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $28986.32 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Trade Desk\" in 2026, role=web-ads"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "SOCO Productions",
+        "total": 120250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $120250.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"SOCO Productions\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Google, Inc.",
+        "total": 110917.61,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $108178.45 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Google, Inc.\" in 2026, role=tv-advertising",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $2739.16 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Google, Inc.\" in 2026, role=web-ads"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Kerry F. Jacob",
+        "total": 108904.67000000001,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 23 expenditure(s) totaling $108869.07 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Kerry F. Jacob\" in 2026, role=staff-salary",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $35.60 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Kerry F. Jacob\" in 2026, role=web-ads"
+        ],
+        "role": "staff-salary"
+      },
+      {
+        "name": "Kcbs-tv",
+        "total": 102807.5,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $102807.50 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Kcbs-tv\" in 2026, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Rocket Science Strategies LLC",
+        "total": 91527,
+        "count": 5,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $89496.00 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Rocket Science Strategies LLC\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $600.45 from filer 1471635 (VILLARAIGOSA FOR GOVERNOR 2026; ANTONIO) to \"Rocket Science Strategies LLC\" in 2026, role=staff-travel — sample: \"11/12/25, Airfare to Attend Campaign Meetings in San Francisco, 1\""
+        ],
+        "role": "consultant"
+      }
+    ]
+  },
+  "incoming_edge_count": 24491,
+  "outgoing_edge_count": 1470,
+  "cycles_active": [
+    "2000",
+    "2002",
+    "2004",
+    "2006",
+    "2008",
+    "2016",
+    "2018",
+    "2020",
+    "2024",
+    "2026"
+  ],
+  "committees_referenced": [
+    "1077478",
+    "1230200",
+    "1234344",
+    "1245233",
+    "1250526",
+    "1267602",
+    "1270536",
+    "1275257",
+    "1303063",
+    "1392364",
+    "1404798",
+    "1405973",
+    "1471635"
+  ],
+  "generated": "2026-05-01T13:41:23.306Z"
+}

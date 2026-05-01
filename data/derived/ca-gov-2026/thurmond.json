@@ -1,0 +1,1372 @@
+{
+  "candidate": "Tony Thurmond",
+  "slug": "thurmond",
+  "lifetime": {
+    "total_raised": 24207879,
+    "total_spent": 34455292,
+    "unique_donors": 3316,
+    "unique_recipients": 802,
+    "top_50_donors": [
+      {
+        "name": "California Democratic Party",
+        "total": 591074.1,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $20012.10 from \"California Democratic Party\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022",
+          "Cal-Access RCPT_CD: 15 receipt(s) totaling $571062.00 from \"California Democratic Party\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "Tony Thurmond for Assembly 2016",
+        "total": 351060.09,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $351060.09 from \"Tony Thurmond for Assembly 2016\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2016"
+        ]
+      },
+      {
+        "name": "State Building and Construction Trades Council of California PAC",
+        "total": 209550,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 15 receipt(s) totaling $87600.00 from \"State Building and Construction Trades Council of California PAC\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $23250.00 from \"State Building and Construction Trades Council of California PAC\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020"
+        ]
+      },
+      {
+        "name": "California Federation of Teachers COPE",
+        "total": 202250,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $105050.00 from \"California Federation of Teachers COPE\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2018",
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $23500.00 from \"California Federation of Teachers COPE\" to filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) in 2016"
+        ]
+      },
+      {
+        "name": "Standing Committee on Political Education of the California Labor Federation, AFL-CIO",
+        "total": 180200,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $25500.00 from \"Standing Committee on Political Education of the California Labor Federation, AFL-CIO\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $15500.00 from \"Standing Committee on Political Education of the California Labor Federation, AFL-CIO\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020"
+        ]
+      },
+      {
+        "name": "SEIU Local 2015 State PAC",
+        "total": 169400,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $17000.00 from \"SEIU Local 2015 State PAC\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $64800.00 from \"SEIU Local 2015 State PAC\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "Service Employees International Union Local 1000 Candidate PAC",
+        "total": 168600,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $81000.00 from \"Service Employees International Union Local 1000 Candidate PAC\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022",
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $87600.00 from \"Service Employees International Union Local 1000 Candidate PAC\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "United Domestic Workers of America Action Fund",
+        "total": 164900,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $87600.00 from \"United Domestic Workers of America Action Fund\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $8500.00 from \"United Domestic Workers of America Action Fund\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local Union No. 617",
+        "total": 159000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $15000.00 from \"International Brotherhood of Electrical Workers Local Union No. 617\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $44800.00 from \"International Brotherhood of Electrical Workers Local Union No. 617\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "California Nurses Association Political Action Committee",
+        "total": 152100,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 15 receipt(s) totaling $15000.00 from \"California Nurses Association Political Action Committee\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"California Nurses Association Political Action Committee\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2016"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Boilermakers Local 92 PAC",
+        "total": 149100,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $8400.00 from \"International Brotherhood of Boilermakers Local 92 PAC\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016",
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $56400.00 from \"International Brotherhood of Boilermakers Local 92 PAC\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "Service Employees International Union Local 1021",
+        "total": 143100,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $25500.00 from \"Service Employees International Union Local 1021\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016",
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $30000.00 from \"Service Employees International Union Local 1021\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "SEIU United Healthcare Workers West PAC",
+        "total": 137800,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $73000.00 from \"SEIU United Healthcare Workers West PAC\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $64800.00 from \"SEIU United Healthcare Workers West PAC\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "Mia Aronson",
+        "total": 136999.99,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 10 receipt(s) totaling $51600.00 from \"Mia Aronson\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"Mia Aronson\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2024"
+        ]
+      },
+      {
+        "name": "California State Association of Electrical Workers",
+        "total": 124600,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $24600.00 from \"California State Association of Electrical Workers\" to filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) in 2014",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15500.00 from \"California State Association of Electrical Workers\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020"
+        ]
+      },
+      {
+        "name": "California State Council of Service Employees",
+        "total": 121600,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $73000.00 from \"California State Council of Service Employees\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $48600.00 from \"California State Council of Service Employees\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local 11",
+        "total": 119000,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $74800.00 from \"International Brotherhood of Electrical Workers Local 11\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022",
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $44200.00 from \"International Brotherhood of Electrical Workers Local 11\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "M. Quinn Delaney",
+        "total": 116100,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $9300.00 from \"M. Quinn Delaney\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $72800.00 from \"M. Quinn Delaney\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2024"
+        ]
+      },
+      {
+        "name": "California State Council Of Laborers PAC",
+        "total": 112150,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 10 receipt(s) totaling $112150.00 from \"California State Council Of Laborers PAC\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "California State Pipe Trades Council",
+        "total": 111400,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $46500.00 from \"California State Pipe Trades Council\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 9 receipt(s) totaling $64900.00 from \"California State Pipe Trades Council\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "Northern California Carpenters Regional Council Small Contributor Committee",
+        "total": 111100,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $18500.00 from \"Northern California Carpenters Regional Council Small Contributor Committee\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $12300.00 from \"Northern California Carpenters Regional Council Small Contributor Committee\" to filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) in 2014"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers Local 549 PAC",
+        "total": 109900,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $4400.00 from \"International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers Local 549 PAC\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2016",
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $57500.00 from \"International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers Local 549 PAC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2024"
+        ]
+      },
+      {
+        "name": "Anita Friedman",
+        "total": 105200,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $72800.00 from \"Anita Friedman\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2024",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $32400.00 from \"Anita Friedman\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local 595 PAC",
+        "total": 102000,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $12300.00 from \"International Brotherhood of Electrical Workers Local 595 PAC\" to filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) in 2014",
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $11500.00 from \"International Brotherhood of Electrical Workers Local 595 PAC\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016"
+        ]
+      },
+      {
+        "name": "Wayne Jordan",
+        "total": 101700,
+        "count": 5,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $8200.00 from \"Wayne Jordan\" to filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) in 2014",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $3600.00 from \"Wayne Jordan\" to filer 1310055 (THURMOND FOR SCHOOL BOARD, TONY) in 2008"
+        ]
+      },
+      {
+        "name": "Operating Engineers Local Union No. 3 Statewide PAC",
+        "total": 96400,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $18000.00 from \"Operating Engineers Local Union No. 3 Statewide PAC\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 19 receipt(s) totaling $78400.00 from \"Operating Engineers Local Union No. 3 Statewide PAC\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "Union of American Physicians and Dentists Small Contributor Committee",
+        "total": 95900,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 21 receipt(s) totaling $74400.00 from \"Union of American Physicians and Dentists Small Contributor Committee\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $3000.00 from \"Union of American Physicians and Dentists Small Contributor Committee\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020"
+        ]
+      },
+      {
+        "name": "Elizabeth Simons",
+        "total": 95000,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $38000.00 from \"Elizabeth Simons\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $33600.00 from \"Elizabeth Simons\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "Northern California Carpenters Regional Council",
+        "total": 94500,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $51400.00 from \"Northern California Carpenters Regional Council\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $17600.00 from \"Northern California Carpenters Regional Council\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2018"
+        ]
+      },
+      {
+        "name": "California Professional Firefighters",
+        "total": 94400,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $70400.00 from \"California Professional Firefighters\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022",
+          "Cal-Access RCPT_CD: 9 receipt(s) totaling $24000.00 from \"California Professional Firefighters\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020"
+        ]
+      },
+      {
+        "name": "Operating Engineers Local Union 3 Statewide PAC",
+        "total": 94300,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 20 receipt(s) totaling $87800.00 from \"Operating Engineers Local Union 3 Statewide PAC\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2018",
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $5500.00 from \"Operating Engineers Local Union 3 Statewide PAC\" to filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) in 2014"
+        ]
+      },
+      {
+        "name": "California Professional Firefighters Political Action Committee",
+        "total": 94100,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 24 receipt(s) totaling $88100.00 from \"California Professional Firefighters Political Action Committee\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2018",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $6000.00 from \"California Professional Firefighters Political Action Committee\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2016"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local 302",
+        "total": 92000,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2800.00 from \"International Brotherhood of Electrical Workers Local 302\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026",
+          "Cal-Access RCPT_CD: 11 receipt(s) totaling $89200.00 from \"International Brotherhood of Electrical Workers Local 302\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2024"
+        ]
+      },
+      {
+        "name": "Habematolel Pomo of Upper Lake (HPUL Project Operations)",
+        "total": 91800,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2800.00 from \"Habematolel Pomo of Upper Lake (HPUL Project Operations)\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $16200.00 from \"Habematolel Pomo of Upper Lake (HPUL Project Operations)\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "Faculty for Our University's Future, a Committee Sponsored by the California Faculty Association",
+        "total": 90300,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $62100.00 from \"Faculty for Our University's Future, a Committee Sponsored by the California Faculty Association\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 10 receipt(s) totaling $28200.00 from \"Faculty for Our University's Future, a Committee Sponsored by the California Faculty Association\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "California Teachers Association/Association for Better Citizenship",
+        "total": 89300,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 9 receipt(s) totaling $72900.00 from \"California Teachers Association/Association for Better Citizenship\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022",
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $16400.00 from \"California Teachers Association/Association for Better Citizenship\" to filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) in 2014"
+        ]
+      },
+      {
+        "name": "California Laborers for Equality and Progress",
+        "total": 87600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $87600.00 from \"California Laborers for Equality and Progress\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "Southwest Regional Council of Carpenters Political Action Fund",
+        "total": 87600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $87600.00 from \"Southwest Regional Council of Carpenters Political Action Fund\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "International Brotherhood Of Electrical Workers Local Union 302 PAC",
+        "total": 87600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 18 receipt(s) totaling $87600.00 from \"International Brotherhood Of Electrical Workers Local Union 302 PAC\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "United Nurses Associations Of California / Union Of Health Care Professionals PAC",
+        "total": 87600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 12 receipt(s) totaling $87600.00 from \"United Nurses Associations Of California / Union Of Health Care Professionals PAC\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "Plumbers & Steamfitters Local No. 467 State Political Action Fund",
+        "total": 87600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $87600.00 from \"Plumbers & Steamfitters Local No. 467 State Political Action Fund\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "Western States Council of Sheet Metal Workers",
+        "total": 86800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $86800.00 from \"Western States Council of Sheet Metal Workers\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "California Conference Board Amalgamated Transit Union PAC",
+        "total": 86500,
+        "count": 2,
+        "evidence": [
+          "Cal-Access RCPT_CD: 10 receipt(s) totaling $19000.00 from \"California Conference Board Amalgamated Transit Union PAC\" to filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) in 2016",
+          "Cal-Access RCPT_CD: 20 receipt(s) totaling $67500.00 from \"California Conference Board Amalgamated Transit Union PAC\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2018"
+        ]
+      },
+      {
+        "name": "Sprinkler Fitters Local 483 Statewide PAC",
+        "total": 86000,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $31200.00 from \"Sprinkler Fitters Local 483 Statewide PAC\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Sprinkler Fitters Local 483 Statewide PAC\" to filer 1460345 (THURMOND SUPERINTENDENT OF PUBLIC INSTRUCTION 2022 OFFICEHOLDER ACCOUNT; TONY) in 2024"
+        ]
+      },
+      {
+        "name": "California State Pipe Trades Council Political Action Committee",
+        "total": 85500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 14 receipt(s) totaling $85500.00 from \"California State Pipe Trades Council Political Action Committee\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "Baron Farwell",
+        "total": 84800,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $5000.00 from \"Baron Farwell\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020",
+          "Cal-Access RCPT_CD: 8 receipt(s) totaling $36000.00 from \"Baron Farwell\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local 595",
+        "total": 84100,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 11 receipt(s) totaling $48700.00 from \"International Brotherhood of Electrical Workers Local 595\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022",
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $29400.00 from \"International Brotherhood of Electrical Workers Local 595\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018"
+        ]
+      },
+      {
+        "name": "San Manuel Band of Mission Indians",
+        "total": 83600,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $14600.00 from \"San Manuel Band of Mission Indians\" to filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) in 2018",
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $56700.00 from \"San Manuel Band of Mission Indians\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      },
+      {
+        "name": "Professional Engineers in California Government",
+        "total": 83000,
+        "count": 3,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"Professional Engineers in California Government\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2024",
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $13000.00 from \"Professional Engineers in California Government\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2020"
+        ]
+      },
+      {
+        "name": "Pechanga Band of Luiseno Indians",
+        "total": 82800,
+        "count": 4,
+        "evidence": [
+          "Cal-Access RCPT_CD: 19 receipt(s) totaling $42900.00 from \"Pechanga Band of Luiseno Indians\" to filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) in 2018",
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $24300.00 from \"Pechanga Band of Luiseno Indians\" to filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) in 2022"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Sadler Strategic Media, Inc.",
+        "total": 8431475,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 38 expenditure(s) totaling $6631165.00 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Sadler Strategic Media, Inc.\" in 2018, role=tv-advertising",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $1800310.00 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Sadler Strategic Media, Inc.\" in 2022, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Tony Thurmond for Superintendent of Public Instruction 2018",
+        "total": 2144551.92,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $1071892.00 from filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) to \"Tony Thurmond for Superintendent of Public Instruction 2018\" in 2018, role=vendor-payment",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $767.92 from filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) to \"Tony Thurmond for Superintendent of Public Instruction 2018\" in 2018, role=candidate-travel — sample: \"4/29/18 - Candidate airfare for Social Compassion in Legislation event Santa Ana trip.\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Kpix-tv",
+        "total": 2121108,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $247180.00 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Kpix-tv\" in 2022, role=tv-advertising",
+          "Cal-Access EXPN_CD: 19 expenditure(s) totaling $1873928.00 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Kpix-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Tony Thurmond for Assembly 2018",
+        "total": 1415739.1700000002,
+        "count": 6,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $702120.18 from filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) to \"Tony Thurmond for Assembly 2018\" in 2016, role=vendor-payment",
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $3587.02 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Tony Thurmond for Assembly 2018\" in 2018, role=transfer"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Kgo-tv",
+        "total": 1364976.75,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 17 expenditure(s) totaling $1048649.25 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Kgo-tv\" in 2018, role=tv-advertising",
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $316327.50 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Kgo-tv\" in 2022, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Annie Eagan Consulting",
+        "total": 1330627.46,
+        "count": 19,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $1073.76 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Annie Eagan Consulting\" in 2018, role=fundraising-event",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $1250.79 from filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) to \"Annie Eagan Consulting\" in 2014, role=fundraising-event — sample: \"Reimbursed expense under the $500 Schedule g threshold.\""
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "SCN Strategies, Inc.",
+        "total": 1292386.1400000001,
+        "count": 7,
+        "evidence": [
+          "Cal-Access EXPN_CD: 27 expenditure(s) totaling $73406.85 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"SCN Strategies, Inc.\" in 2018, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $175.94 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"SCN Strategies, Inc.\" in 2018, role=meetings — sample: \"06/19/17- Fundraising/endorsement meeting in Los Angeles. Candidate in attendance.\""
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Kntv-tv",
+        "total": 1032541.84,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $130398.50 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Kntv-tv\" in 2022, role=tv-advertising",
+          "Cal-Access EXPN_CD: 19 expenditure(s) totaling $902143.34 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Kntv-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Ktvu-tv",
+        "total": 982945.95,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $209338.00 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Ktvu-tv\" in 2022, role=tv-advertising",
+          "Cal-Access EXPN_CD: 17 expenditure(s) totaling $773607.95 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Ktvu-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Rising Tide Interactive",
+        "total": 799998.67,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $799998.67 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Rising Tide Interactive\" in 2022, role=vendor-payment — sample: \"Digital ads\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "S.E. Owens & Company",
+        "total": 753749.12,
+        "count": 6,
+        "evidence": [
+          "Cal-Access EXPN_CD: 36 expenditure(s) totaling $274024.66 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"S.E. Owens & Company\" in 2018, role=professional",
+          "Cal-Access EXPN_CD: 28 expenditure(s) totaling $50595.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"S.E. Owens & Company\" in 2026, role=professional"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "Jacobson & Zilber Strategies LLC",
+        "total": 655540.36,
+        "count": 11,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $169262.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Jacobson & Zilber Strategies LLC\" in 2024, role=vendor-payment — sample: \"Digital video production\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $9623.43 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Jacobson & Zilber Strategies LLC\" in 2026, role=literature"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Storefront Political Media",
+        "total": 629615.2999999999,
+        "count": 23,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $3327.76 from filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) to \"Storefront Political Media\" in 2018, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $60000.00 from filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) to \"Storefront Political Media\" in 2016, role=consultant"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Kcra-tv",
+        "total": 625804,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $269059.00 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Kcra-tv\" in 2022, role=tv-advertising",
+          "Cal-Access EXPN_CD: 11 expenditure(s) totaling $356745.00 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Kcra-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "Annie Eagan Consulting, Inc.",
+        "total": 475664.75,
+        "count": 5,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $20000.00 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Annie Eagan Consulting, Inc.\" in 2020, role=vendor-payment — sample: \"Fundraising Services\"",
+          "Cal-Access EXPN_CD: 45 expenditure(s) totaling $430092.75 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Annie Eagan Consulting, Inc.\" in 2022, role=fundraising-event"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Mission Wired",
+        "total": 422932.24,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 44 expenditure(s) totaling $371782.24 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Mission Wired\" in 2024, role=vendor-payment — sample: \"Texting Campaign\"",
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $51150.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Mission Wired\" in 2026, role=vendor-payment — sample: \"Online fundraising\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "California Democratic Party",
+        "total": 406735.5,
+        "count": 21,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $125.00 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"California Democratic Party\" in 2020, role=contribution-out",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $2703.40 from filer 1392488 (THURMOND FOR ASSEMBLY 2018; TONY) to \"California Democratic Party\" in 2018, role=vendor-payment"
+        ],
+        "role": "contribution-out"
+      },
+      {
+        "name": "Madeline Franklin",
+        "total": 374116.43,
+        "count": 10,
+        "evidence": [
+          "Cal-Access EXPN_CD: 195 expenditure(s) totaling $4746.81 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Madeline Franklin\" in 2018, role=staff-travel — sample: \"11/30/17 - Staff travel for policy briefing. Candidate in attendance.\"",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $514.00 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Madeline Franklin\" in 2018, role=meetings — sample: \"06/25/17- Pride Parade Contingent in San Francisco. Candidate in attendance.\""
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "McKinley Pillows Fundraising, Inc.",
+        "total": 344533.99999999994,
+        "count": 9,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $2571.87 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"McKinley Pillows Fundraising, Inc.\" in 2020, role=professional",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $0.60 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"McKinley Pillows Fundraising, Inc.\" in 2022, role=office-expense"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "DSPolitical",
+        "total": 326383.91,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $326383.91 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"DSPolitical\" in 2022, role=vendor-payment — sample: \"Digital ads\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Kovr-tv",
+        "total": 316251,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $126692.50 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Kovr-tv\" in 2022, role=tv-advertising",
+          "Cal-Access EXPN_CD: 11 expenditure(s) totaling $189558.50 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"Kovr-tv\" in 2018, role=tv-advertising"
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "EMC Research",
+        "total": 310000,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $3000.00 from filer 1373771 (THURMOND FOR ASSEMBLY 2016; TONY) to \"EMC Research\" in 2016, role=polling",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $39500.00 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"EMC Research\" in 2022, role=polling"
+        ],
+        "role": "polling"
+      },
+      {
+        "name": "Bearstar Strategies, Inc.",
+        "total": 300962,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $245812.90 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Bearstar Strategies, Inc.\" in 2022, role=tv-advertising",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $55149.10 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"Bearstar Strategies, Inc.\" in 2022, role=vendor-payment — sample: \"Video Production\""
+        ],
+        "role": "tv-advertising"
+      },
+      {
+        "name": "The Henry Levy Group",
+        "total": 288343.94,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 33 expenditure(s) totaling $92106.74 from filer 1355575 (THURMOND FOR ASSEMBLY 2014, TONY) to \"The Henry Levy Group\" in 2014, role=professional",
+          "Cal-Access EXPN_CD: 40 expenditure(s) totaling $111960.05 from filer 1395467 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2018 (REOPENED); TONY) to \"The Henry Levy Group\" in 2018, role=professional"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "NGP Van, Inc.",
+        "total": 245874.62,
+        "count": 5,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $29737.50 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"NGP Van, Inc.\" in 2026, role=fundraising-event",
+          "Cal-Access EXPN_CD: 53 expenditure(s) totaling $47900.71 from filer 1414313 (THURMOND FOR SUPERINTENDENT OF PUBLIC INSTRUCTION 2022; RE-ELECT TONY) to \"NGP Van, Inc.\" in 2020, role=fundraising-event"
+        ],
+        "role": "fundraising-event"
+      }
+    ]
+  },
+  "cycle_2026": {
+    "total_raised": 327385,
+    "total_spent": 701437,
+    "unique_donors": 294,
+    "unique_recipients": 62,
+    "top_50_donors": [
+      {
+        "name": "Peter Nixon",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $20000.00 from \"Peter Nixon\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Boilermakers Local 92 PAC",
+        "total": 12500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $12500.00 from \"International Brotherhood of Boilermakers Local 92 PAC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "IBEW PAC Educational Fund (FEC ID #C90022351)",
+        "total": 12500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $12500.00 from \"IBEW PAC Educational Fund (FEC ID #C90022351)\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Angel",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $10000.00 from \"Mark Angel\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Melody Howe Weintraub",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Melody Howe Weintraub\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Faculty for our University's Future",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $10000.00 from \"Faculty for our University's Future\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local 551",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $10000.00 from \"International Brotherhood of Electrical Workers Local 551\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Plumbers, Steamfitters, and Refrigeration Fitters Local 393 PAC",
+        "total": 7500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $7500.00 from \"Plumbers, Steamfitters, and Refrigeration Fitters Local 393 PAC\" to filer 1460345 (THURMOND SUPERINTENDENT OF PUBLIC INSTRUCTION 2022 OFFICEHOLDER ACCOUNT; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Ali Sahabi",
+        "total": 7500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $7500.00 from \"Ali Sahabi\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Association of California State Supervisors PAC",
+        "total": 7000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $7000.00 from \"Association of California State Supervisors PAC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Richard Robbins",
+        "total": 6000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $6000.00 from \"Richard Robbins\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Kamilos Companies, LLC(Gerry Kamilos)",
+        "total": 5600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $5600.00 from \"Kamilos Companies, LLC(Gerry Kamilos)\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Plumbers and Steamfitters Local Union 398",
+        "total": 5500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $5500.00 from \"Plumbers and Steamfitters Local Union 398\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "James Ramos",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"James Ramos\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "IBEW 332 Education Fund (Sponsored by International Brotherhood of Electrical Workers Local 332)",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"IBEW 332 Education Fund (Sponsored by International Brotherhood of Electrical Workers Local 332)\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Sabrina Moyle",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Sabrina Moyle\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "University Professional and Technical Employees (UPTE) PAC",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"University Professional and Technical Employees (UPTE) PAC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Ponca Consulting, Inc.",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Ponca Consulting, Inc.\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Marn DDS Dental Practice PC",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Marn DDS Dental Practice PC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Jean-Philippe Turgeon",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Jean-Philippe Turgeon\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Sprinkler Fitters & Apprentices Local 483",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Sprinkler Fitters & Apprentices Local 483\" to filer 1460345 (THURMOND SUPERINTENDENT OF PUBLIC INSTRUCTION 2022 OFFICEHOLDER ACCOUNT; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Ashwin Patel",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Ashwin Patel\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Operating Engineers 3 Statewide PAC",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5000.00 from \"Operating Engineers 3 Statewide PAC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Dave Nicely",
+        "total": 4250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 7 receipt(s) totaling $4250.00 from \"Dave Nicely\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Moses Libitzky",
+        "total": 4201,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $4201.00 from \"Moses Libitzky\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Sabrina Cervantes for Senate 2024",
+        "total": 4000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $4000.00 from \"Sabrina Cervantes for Senate 2024\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Jose Medina for Riverside Board of Supervisors 2028",
+        "total": 4000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $4000.00 from \"Jose Medina for Riverside Board of Supervisors 2028\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Yvonne Molles",
+        "total": 3500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 17 receipt(s) totaling $3500.00 from \"Yvonne Molles\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Sophie Hahn",
+        "total": 3500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $3500.00 from \"Sophie Hahn\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Yurok Tribe",
+        "total": 3000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $3000.00 from \"Yurok Tribe\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "International Brotherhood of Electrical Workers Local 302",
+        "total": 2800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2800.00 from \"International Brotherhood of Electrical Workers Local 302\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Habematolel Pomo of Upper Lake (HPUL Project Operations)",
+        "total": 2800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2800.00 from \"Habematolel Pomo of Upper Lake (HPUL Project Operations)\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Gerry Kamilos",
+        "total": 2800,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2800.00 from \"Gerry Kamilos\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Plumbers, Steamfitters & Refrigeration Fitters Local 393 PAC",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Plumbers, Steamfitters & Refrigeration Fitters Local 393 PAC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Robert Nibbi",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Robert Nibbi\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Kent Putnam",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $2500.00 from \"Kent Putnam\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Plumbers & Steamfitters Local 467 State Political Action Fund",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Plumbers & Steamfitters Local 467 State Political Action Fund\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Alison Bernstein",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Alison Bernstein\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Sheet Metal Workers Local Union 104",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Sheet Metal Workers Local Union 104\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Anne Petrowsky",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"Anne Petrowsky\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Junkcat LLC(Nick Arzio)",
+        "total": 2200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2200.00 from \"Junkcat LLC(Nick Arzio)\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "International Union of Elevator Constructors Local No.8 PAC",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"International Union of Elevator Constructors Local No.8 PAC\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Tim Grayson for Assembly 2024",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2000.00 from \"Tim Grayson for Assembly 2024\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Theatrical State Employees Local 16 IATSE",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2000.00 from \"Theatrical State Employees Local 16 IATSE\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Jack Clarke Jr",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"Jack Clarke Jr\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Peralta Federation of Teachers COPE",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"Peralta Federation of Teachers COPE\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Glen Price",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"Glen Price\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Robert Ellinthorpe",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"Robert Ellinthorpe\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Barbara Flores",
+        "total": 1600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 16 receipt(s) totaling $1600.00 from \"Barbara Flores\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      },
+      {
+        "name": "Marcus Hibser",
+        "total": 1550,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $1550.00 from \"Marcus Hibser\" to filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Jacobson & Zilber Strategies LLC",
+        "total": 221697.06,
+        "count": 8,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $9623.43 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Jacobson & Zilber Strategies LLC\" in 2026, role=literature",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $392.98 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Jacobson & Zilber Strategies LLC\" in 2026, role=staff-travel — sample: \"01/29/26: Airfare to/from LAX to SFO to document town hall. Candidate in attendance.\""
+        ],
+        "role": "literature"
+      },
+      {
+        "name": "S.E. Owens & Company",
+        "total": 56780,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 28 expenditure(s) totaling $50595.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"S.E. Owens & Company\" in 2026, role=professional",
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $6185.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"S.E. Owens & Company\" in 2026, role=web-ads"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "Mission Wired",
+        "total": 51150,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $51150.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Mission Wired\" in 2026, role=vendor-payment — sample: \"Online fundraising\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Lake Research Partners",
+        "total": 47500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $47500.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Lake Research Partners\" in 2026, role=polling"
+        ],
+        "role": "polling"
+      },
+      {
+        "name": "Annie Eagan Consulting",
+        "total": 39833.1,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $39607.65 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Annie Eagan Consulting\" in 2026, role=vendor-payment — sample: \"Fundraising Services\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $225.45 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Annie Eagan Consulting\" in 2026, role=postage"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Connolly Consulting",
+        "total": 37500,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2500.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Connolly Consulting\" in 2026, role=vendor-payment — sample: \"Fundraising Services\"",
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $35000.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Connolly Consulting\" in 2026, role=consultant"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "NGP Van, Inc.",
+        "total": 29737.5,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $29737.50 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"NGP Van, Inc.\" in 2026, role=fundraising-event"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Yes on 50, The Election Rigging Response Act, Governor Newsom's Ballot Measure Committee",
+        "total": 22093.51,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $22093.51 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Yes on 50, The Election Rigging Response Act, Governor Newsom's Ballot Measure Committee\" in 2026, role=vendor-payment — sample: \"Town Hall\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "NWF Strategies",
+        "total": 21000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $21000.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"NWF Strategies\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "The Phone Consultants",
+        "total": 20564.1,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $20564.10 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"The Phone Consultants\" in 2026, role=contribution-out — sample: \"Town Hall\""
+        ],
+        "role": "contribution-out"
+      },
+      {
+        "name": "Southwest Airlines",
+        "total": 18941.46,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 73 expenditure(s) totaling $18771.98 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Southwest Airlines\" in 2026, role=candidate-travel — sample: \"05/21/25: Candidate airfare from Oakland to Los Angeles for meeting with Santa Monica Democratic Club. Candidate in atte\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $169.48 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Southwest Airlines\" in 2026, role=vendor-payment — sample: \"Canceled flight. Credit to be used in future period.\""
+        ],
+        "role": "candidate-travel"
+      },
+      {
+        "name": "California Democratic Party",
+        "total": 13510,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $7510.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"California Democratic Party\" in 2026, role=meetings — sample: \"05/30-06/01/25: Candidate ticket for California Democratic Party convention. Candidate in attendance.\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2500.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"California Democratic Party\" in 2026, role=campaign-paraphernalia"
+        ],
+        "role": "meetings"
+      },
+      {
+        "name": "Hart Communications, LLC",
+        "total": 13433.33,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $13433.33 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Hart Communications, LLC\" in 2026, role=vendor-payment — sample: \"Campaign Coordinator\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Diana Torres",
+        "total": 13000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $13000.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Diana Torres\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Union Graphics",
+        "total": 12552.79,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $3117.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Union Graphics\" in 2026, role=literature",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $9435.79 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Union Graphics\" in 2026, role=campaign-paraphernalia"
+        ],
+        "role": "literature"
+      },
+      {
+        "name": "Donor Stack, LLC",
+        "total": 6877.49,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $6877.49 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Donor Stack, LLC\" in 2026, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "California Secretary of State Elections Division",
+        "total": 6075,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $6075.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"California Secretary of State Elections Division\" in 2026, role=fundraising"
+        ],
+        "role": "fundraising"
+      },
+      {
+        "name": "Bullseye Marketing",
+        "total": 6074.8,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2000.80 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Bullseye Marketing\" in 2026, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $4074.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Bullseye Marketing\" in 2026, role=literature"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Meta Platforms",
+        "total": 5950,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $5950.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Meta Platforms\" in 2026, role=vendor-payment — sample: \"Digital ads\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "ActBlue, LLC",
+        "total": 5540.94,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 71 expenditure(s) totaling $5540.94 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"ActBlue, LLC\" in 2026, role=fundraising-event"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Secretary of State",
+        "total": 4968.58,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $4918.58 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Secretary of State\" in 2026, role=fundraising",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $50.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Secretary of State\" in 2026, role=vendor-payment — sample: \"Annual fee\""
+        ],
+        "role": "fundraising"
+      },
+      {
+        "name": "McKinley Pillows and Associates",
+        "total": 4961.16,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $4961.16 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"McKinley Pillows and Associates\" in 2026, role=vendor-payment — sample: \"Fundraising Services\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Yosemite Consulting LLC",
+        "total": 4250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $4250.00 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Yosemite Consulting LLC\" in 2026, role=vendor-payment — sample: \"Digital ads\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Mario's Place Catering & Banquets",
+        "total": 3627.9,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $3627.90 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Mario's Place Catering & Banquets\" in 2026, role=fundraising-event — sample: \"08/21/25: Fundraising dinner. Candidate in attendance.\""
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Marriott International",
+        "total": 3483.51,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $3483.51 from filer 1461509 (THURMOND FOR GOVERNOR 2026; TONY) to \"Marriott International\" in 2026, role=candidate-travel — sample: \"11/20-11/22/25: Candidate hotel room while in Philadelphia for Black Men in Education conference.  Candidate in attendan\""
+        ],
+        "role": "candidate-travel"
+      }
+    ]
+  },
+  "incoming_edge_count": 4487,
+  "outgoing_edge_count": 1349,
+  "cycles_active": [
+    "2008",
+    "2010",
+    "2014",
+    "2016",
+    "2018",
+    "2020",
+    "2022",
+    "2024",
+    "2026"
+  ],
+  "committees_referenced": [
+    "1268709",
+    "1310055",
+    "1355575",
+    "1373771",
+    "1392488",
+    "1395467",
+    "1414313",
+    "1460345",
+    "1461509"
+  ],
+  "generated": "2026-05-01T13:41:23.309Z"
+}

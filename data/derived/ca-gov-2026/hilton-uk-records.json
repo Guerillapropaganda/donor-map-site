@@ -1,0 +1,101 @@
+{
+  "generated": "2026-05-01T14:53:37.476Z",
+  "fetches": [
+    {
+      "stage": "UK EC donations search: donor surname Hilton (any ",
+      "url": "https://search.electoralcommission.org.uk/Search/Donations?currentPage=1&rows=50&sort=AcceptedDate&order=desc&tab=1&open=filter&et=pp&et=ppm&et=tp&et=perpar&et=rd&date=Reported&from=&to=&rptPd=&prePoll=true&postPoll=true&donorAcct=&donorAcctRecpt=&donorJson=null&include=null&accountingUnitsAccepted=true&donorName=hilton&donorTypeIndividual=true",
+      "status": "ok",
+      "code": 200,
+      "bytes": 56361
+    },
+    {
+      "stage": "UK EC donations search: donor surname Whetstone",
+      "url": "https://search.electoralcommission.org.uk/Search/Donations?currentPage=1&rows=50&sort=AcceptedDate&order=desc&tab=1&open=filter&et=pp&et=ppm&et=tp&et=perpar&et=rd&date=Reported&from=&to=&rptPd=&prePoll=true&postPoll=true&donorAcct=&donorAcctRecpt=&donorJson=null&include=null&accountingUnitsAccepted=true&donorName=whetstone&donorTypeIndividual=true",
+      "status": "ok",
+      "code": 200,
+      "bytes": 56361
+    },
+    {
+      "stage": "Companies House officer search: \"Steven Hilton\" di",
+      "url": "https://find-and-update.company-information.service.gov.uk/officers?q=steven+hilton",
+      "status": "unreachable",
+      "code": 404,
+      "bytes": 30460
+    },
+    {
+      "stage": "Companies House officer search: \"Rachel Whetstone\"",
+      "url": "https://find-and-update.company-information.service.gov.uk/officers?q=rachel+whetstone",
+      "status": "unreachable",
+      "code": 404,
+      "bytes": 30460
+    },
+    {
+      "stage": "Companies House company search: \"Crowdpac\" UK enti",
+      "url": "https://find-and-update.company-information.service.gov.uk/search/companies?q=crowdpac",
+      "status": "ok",
+      "code": 200,
+      "bytes": 640
+    },
+    {
+      "stage": "Hansard search: \"Steve Hilton\" mentions in UK parl",
+      "url": "https://hansard.parliament.uk/search?searchTerm=%22Steve+Hilton%22&house=All",
+      "status": "blocked-by-cf",
+      "code": 403,
+      "bytes": 5827
+    },
+    {
+      "stage": "Hansard search: \"Big Society\" debates — Cameron-er",
+      "url": "https://hansard.parliament.uk/search?searchTerm=%22Big+Society%22&house=All",
+      "status": "blocked-by-cf",
+      "code": 403,
+      "bytes": 5824
+    }
+  ],
+  "uk_ec": {
+    "donations_search": {
+      "status": "fetched",
+      "bytes": 56361,
+      "steve_hilton_hits": 0,
+      "rachel_whetstone_hits": 0,
+      "total_hilton_mentions": 0,
+      "sample_context": null
+    },
+    "party_finance_search": {
+      "status": "fetched",
+      "bytes": 56361,
+      "rachel_whetstone_hits": 0,
+      "total_whetstone_mentions": 0,
+      "sample_context": null
+    }
+  },
+  "companies_house": {
+    "hilton_director": {
+      "status": "unreachable",
+      "code": 404,
+      "bytes": 30460
+    },
+    "whetstone_director": {
+      "status": "unreachable",
+      "code": 404,
+      "bytes": 30460
+    },
+    "crowdpac_company": {
+      "status": "fetched",
+      "bytes": 640,
+      "crowdpac_results": 1,
+      "sample_context": "{\"start_index\":0,\"page_number\":1,\"total_results\":1,\"items_per_page\":20,\"items\":[{\"company_type\":\"ltd\",\"date_of_creation\":\"2016-04-19\",\"company_status\":\"dissolved\",\"title\":\"CROWDPAC LIMITED\",\"matches\":{\"snippet\":[]},\"address\":{\"postal_code\":\"WC1R 5EF\",\"premises\":\"3\",\"locality\":\"London\",\"address_line_1\":\"Field Court\"},\"address_snippet\":\"3 Field Court, London, WC1R 5EF\",\"company_number\":\"10133929\",\"kind\":\"searchresults#company\",\"snippet\":\"\",\"links\":{\"self\":\"/company/1013"
+    }
+  },
+  "hansard": {
+    "hilton_search": {
+      "status": "blocked-by-cf",
+      "code": 403,
+      "bytes": 5827
+    },
+    "big_society_attribution": {
+      "status": "blocked-by-cf",
+      "code": 403,
+      "bytes": 5824
+    }
+  }
+}

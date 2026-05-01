@@ -1,0 +1,833 @@
+{
+  "candidate": "Tom Steyer",
+  "slug": "steyer",
+  "lifetime": {
+    "total_raised": 14076563,
+    "total_spent": 0,
+    "unique_donors": 131,
+    "unique_recipients": 0,
+    "top_50_donors": [
+      {
+        "name": "STEYER FOR GOVERNOR 2026, A COALITION OF HOUSING ADVOCATES, LABOR AND SMALL BUSINESS; CALIFORNIA IS NOT FOR SALE, NO ON",
+        "total": 13892448.41,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $13892448.41 from filer 1489677 (STEYER FOR GOVERNOR 2026, A COALITION OF HOUSING ADVOCATES, LABOR AND SMALL BUSINESS; CALIFORNIA IS NOT FOR SALE, NO ON) to \"Tom Steyer\" in 2026, role=independent-expenditure — sample: \"Digital Media\""
+        ]
+      },
+      {
+        "name": "Nathaniel Simons",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Nathaniel Simons\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Alfred Clark",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Alfred Clark\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Richard Lawrence",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Richard Lawrence\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Dee Lawrence",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Dee Lawrence\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Douglas Ogden",
+        "total": 10150,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $10150.00 from \"Douglas Ogden\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "United Domestic Workers of America Action Fund",
+        "total": 8935.89,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $8935.89 from \"United Domestic Workers of America Action Fund\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Martin Slusser",
+        "total": 5900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5900.00 from \"Martin Slusser\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "American Exposition Services",
+        "total": 3417,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $3417.00 from \"American Exposition Services\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Climate First Bank",
+        "total": 3000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $3000.00 from \"Climate First Bank\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Paula Reynolds",
+        "total": 2940,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2940.00 from \"Paula Reynolds\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "David Rusenko",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"David Rusenko\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Ken Laroe",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2000.00 from \"Ken Laroe\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "James Presley",
+        "total": 1300,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $1300.00 from \"James Presley\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Patricia Reyes",
+        "total": 1295,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 19 receipt(s) totaling $1295.00 from \"Patricia Reyes\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "George Philippides",
+        "total": 1169.7,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $1169.70 from \"George Philippides\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Frances Elston",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Frances Elston\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Caryl Hart",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Caryl Hart\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Sheldon Whitehouse",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Sheldon Whitehouse\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Laurence Jacobs",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Laurence Jacobs\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Francis De Rosa",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Francis De Rosa\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tor Braham",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Tor Braham\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Mike Geraty",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Mike Geraty\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Ben Freeland",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Ben Freeland\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Margaret Sullivan",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Margaret Sullivan\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tiffany Treece",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Tiffany Treece\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Heising",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Mark Heising\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tim Disney",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Tim Disney\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Brian Kistler",
+        "total": 600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $600.00 from \"Brian Kistler\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Mitchell Berger",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Mitchell Berger\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Dave Chapl",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Dave Chapl\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Arlin Travis",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Arlin Travis\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Channing Dutton",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Channing Dutton\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Sharon Kegerreis",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Sharon Kegerreis\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Katie Porter",
+        "total": 436.28,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $436.28 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Tom Steyer\" in 2026, role=office-expense"
+        ]
+      },
+      {
+        "name": "Charles Steyer",
+        "total": 350,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $350.00 from \"Charles Steyer\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Connie Clooster",
+        "total": 309.9,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $309.90 from \"Connie Clooster\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Cynthia Rowland",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Cynthia Rowland\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "David Uthman",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"David Uthman\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Kamran Ghiasi",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Kamran Ghiasi\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Kevin Reed",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Kevin Reed\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Elinor McKenna",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Elinor McKenna\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Ann Notthoff",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Ann Notthoff\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Suzelle Smith",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Suzelle Smith\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Lesley Dunkelberger",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Lesley Dunkelberger\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Stuart Lipton",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Stuart Lipton\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Wendy Whelan",
+        "total": 222.85,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $222.85 from \"Wendy Whelan\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Kris Estrada",
+        "total": 196.91,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $196.91 from \"Kris Estrada\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Maria Platton",
+        "total": 180,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $180.00 from \"Maria Platton\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Wayne Wilcoxen",
+        "total": 150,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $150.00 from \"Wayne Wilcoxen\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": []
+  },
+  "cycle_2026": {
+    "total_raised": 14076563,
+    "total_spent": 0,
+    "unique_donors": 131,
+    "unique_recipients": 0,
+    "top_50_donors": [
+      {
+        "name": "STEYER FOR GOVERNOR 2026, A COALITION OF HOUSING ADVOCATES, LABOR AND SMALL BUSINESS; CALIFORNIA IS NOT FOR SALE, NO ON",
+        "total": 13892448.41,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $13892448.41 from filer 1489677 (STEYER FOR GOVERNOR 2026, A COALITION OF HOUSING ADVOCATES, LABOR AND SMALL BUSINESS; CALIFORNIA IS NOT FOR SALE, NO ON) to \"Tom Steyer\" in 2026, role=independent-expenditure — sample: \"Digital Media\""
+        ]
+      },
+      {
+        "name": "Nathaniel Simons",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Nathaniel Simons\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Alfred Clark",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Alfred Clark\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Richard Lawrence",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Richard Lawrence\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Dee Lawrence",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Dee Lawrence\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Douglas Ogden",
+        "total": 10150,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $10150.00 from \"Douglas Ogden\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "United Domestic Workers of America Action Fund",
+        "total": 8935.89,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $8935.89 from \"United Domestic Workers of America Action Fund\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Martin Slusser",
+        "total": 5900,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $5900.00 from \"Martin Slusser\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "American Exposition Services",
+        "total": 3417,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $3417.00 from \"American Exposition Services\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Climate First Bank",
+        "total": 3000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $3000.00 from \"Climate First Bank\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Paula Reynolds",
+        "total": 2940,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2940.00 from \"Paula Reynolds\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "David Rusenko",
+        "total": 2500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2500.00 from \"David Rusenko\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Ken Laroe",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2000.00 from \"Ken Laroe\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "James Presley",
+        "total": 1300,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $1300.00 from \"James Presley\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Patricia Reyes",
+        "total": 1295,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 19 receipt(s) totaling $1295.00 from \"Patricia Reyes\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "George Philippides",
+        "total": 1169.7,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $1169.70 from \"George Philippides\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Frances Elston",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Frances Elston\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Caryl Hart",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Caryl Hart\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Sheldon Whitehouse",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Sheldon Whitehouse\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Laurence Jacobs",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Laurence Jacobs\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Francis De Rosa",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Francis De Rosa\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tor Braham",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Tor Braham\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Mike Geraty",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Mike Geraty\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Ben Freeland",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Ben Freeland\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Margaret Sullivan",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Margaret Sullivan\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tiffany Treece",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Tiffany Treece\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Heising",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Mark Heising\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Tim Disney",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $1000.00 from \"Tim Disney\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Brian Kistler",
+        "total": 600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 6 receipt(s) totaling $600.00 from \"Brian Kistler\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Mitchell Berger",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Mitchell Berger\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Dave Chapl",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Dave Chapl\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Arlin Travis",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Arlin Travis\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Channing Dutton",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Channing Dutton\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Sharon Kegerreis",
+        "total": 500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $500.00 from \"Sharon Kegerreis\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Katie Porter",
+        "total": 436.28,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $436.28 from filer 1479597 (PORTER FOR GOVERNOR 2026; KATIE) to \"Tom Steyer\" in 2026, role=office-expense"
+        ]
+      },
+      {
+        "name": "Charles Steyer",
+        "total": 350,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $350.00 from \"Charles Steyer\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Connie Clooster",
+        "total": 309.9,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $309.90 from \"Connie Clooster\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Cynthia Rowland",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Cynthia Rowland\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "David Uthman",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"David Uthman\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Kamran Ghiasi",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Kamran Ghiasi\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Kevin Reed",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Kevin Reed\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Elinor McKenna",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Elinor McKenna\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Ann Notthoff",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Ann Notthoff\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Suzelle Smith",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Suzelle Smith\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Lesley Dunkelberger",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Lesley Dunkelberger\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Stuart Lipton",
+        "total": 250,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $250.00 from \"Stuart Lipton\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Wendy Whelan",
+        "total": 222.85,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $222.85 from \"Wendy Whelan\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Kris Estrada",
+        "total": 196.91,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $196.91 from \"Kris Estrada\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Maria Platton",
+        "total": 180,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $180.00 from \"Maria Platton\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      },
+      {
+        "name": "Wayne Wilcoxen",
+        "total": 150,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $150.00 from \"Wayne Wilcoxen\" to filer 1485077 (STEYER FOR GOVERNOR 2026) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": []
+  },
+  "incoming_edge_count": 131,
+  "outgoing_edge_count": 0,
+  "cycles_active": [
+    "2026"
+  ],
+  "committees_referenced": [
+    "1479597",
+    "1485077",
+    "1489677"
+  ],
+  "generated": "2026-05-01T13:41:23.284Z"
+}

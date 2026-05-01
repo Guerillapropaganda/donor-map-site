@@ -272,3 +272,47 @@ None blocking acceptance. The phased rollout is the deliberate answer to "what a
 **Editorial protections unchanged.** Rule 13 still binds for profile-body URLs. The `code-audit-fetch-sentinel` still blocks any fetched URL from leaking into profile content. Bulk-downloaded data lands in `data/legislator-positions/` and `data/derived/govinfo-bill-status.jsonl` — librarian-consumed, not profile-body content.
 
 **Allowlist code change:** see corresponding update to `scripts/lib/code-audit-fetcher.cjs` PHASE_1_DOMAINS in the amendment commit.
+
+### Amendment 2026-05-01 — UK government primary sources for foreign-operator vault entries
+
+**Authorized by David in session cc_p3_ca_gov_2026 ("Yes option A and B") to unblock the Steve Hilton dossier — Hilton's pre-US political career (2010-2012 Director of Strategy to PM David Cameron, prior Conservative Party advisory roles) is the load-bearing context for his 2026 California gubernatorial bid, but the relevant primary-source records sit on UK government domains that were never added to the §1 allowlist because no prior story crossed into UK politics.**
+
+**Scope of the amendment.** Adds three UK government domains to §1 (active). The pattern matches the 2026-04-30 federal-source amendment: government primary sources only, no news/aggregator/social, every fetch logged, the `code-audit-fetch-sentinel` still blocks fetched URLs from leaking into profile content.
+
+**Domains promoted to §1 (active):**
+
+1. **`search.electoralcommission.org.uk`** — UK Electoral Commission donations + political party finance database. The structured-disclosure regime closest to FEC for UK politics. Contains: registered donations to political parties + regulated entities, donor names, donor types, recipient parties, dates, amounts. Searchable interface; some endpoints serve JSON.
+2. **`find-and-update.company-information.service.gov.uk`** — UK Companies House. Contains: incorporation records, director appointments + resignations, registered offices, filing histories, persons with significant control, accounts. Free, comprehensive, structured. Relevant to Hilton via Crowdpac's UK entity history (if any) and any current or past UK directorships of Hilton or Whetstone.
+3. **`hansard.parliament.uk`** — Hansard official record of UK Parliament debates. Searchable archive of all parliamentary speeches and written answers since the 1800s. Relevant to Hilton via Cameron-era policy attribution (Big Society, austerity-era debates) and any contemporaneous parliamentary discussion that names him as Director of Strategy.
+
+**Why these three and not others.** The amendment scope is intentionally narrow — only the structured-disclosure UK gov domains directly analogous to the §1 US gov sources we already use:
+
+| Function | US source (already §1) | UK source (this amendment) |
+|---|---|---|
+| Campaign finance disclosure | `cal-access.sos.ca.gov`, `www.fec.gov` (§2) | `search.electoralcommission.org.uk` |
+| Corporate registry | `www.sec.gov` (§2) | `find-and-update.company-information.service.gov.uk` |
+| Legislative record | `clerk.house.gov`, `www.senate.gov` | `hansard.parliament.uk` |
+
+UK media outlets (BBC, Guardian, Telegraph, Times) are explicitly out of scope — they are news sources and Rule 13 keeps editorial URL verification in David's lane.
+
+**New scope: the foreign-operator carve-out frame.** Phase 1 was originally written for "Code Claude verifies pipeline output against the source the pipeline claims to read from." Hilton's UK records are not "pipeline output we are verifying" — they are *new* primary-source data we want to ingest into the dossier scaffolding. The amendment broadens §10's authorized purpose by one notch:
+
+> Code Claude may fetch government primary sources for foreign operators who appear in vault profiles **specifically when the operator's foreign-political career is load-bearing context for their current US-political relevance.** The fetch produces research scaffolding in `content/Admin Notes/` only — never directly into profile content. Rule 13 still applies to every URL that lands in profile body text.
+
+This narrows future creep: the carve-out is for documented operators in the vault, not "anyone interesting." Hilton qualifies (CA gubernatorial candidate, pre-US career was Cameron's Director of Strategy). A speculative person we aren't profiling does not qualify.
+
+**Pipelines unblocked:**
+
+1. `scripts/audit-hilton-uk-records.cjs` — new fetch script searching UK EC for Hilton + Whetstone donor history, Companies House for Crowdpac UK entity history + director records, Hansard for Cameron-era references.
+2. Future foreign-operator fetches follow the same pattern: per-script audit fetches under §10, results integrated into dossier-tier admin notes, never auto-written into profile bodies.
+
+**Editorial protections unchanged.** Rule 13 still binds for profile-body URLs. The `code-audit-fetch-sentinel` still blocks any fetched URL from leaking into profile content. Bot-block detection in the fetcher (`blocked-by-cf` enum) still captures Imperva/Cloudflare challenges as terminal non-results — UK gov domains may use similar protections.
+
+**Allowlist code change:** see corresponding update to `scripts/lib/code-audit-fetcher.cjs` PHASE_1_DOMAINS in the amendment commit. The three UK domains added to the active set; `electoralcommission.org.uk` (apex) and `www.companieshouse.gov.uk` (legacy) added as secondary entries to handle redirect targets.
+
+**What does NOT change with this amendment:**
+
+- The Phase 2 not-yet-enabled list (FEC, IRS, SEC, FPPC, etc.) is untouched.
+- News + aggregator + social media remain explicitly out of scope.
+- The session cap (60 fetches per domain) and per-domain rate limit (2s) apply to UK domains exactly as they apply to US.
+- Editorial verdicts on UK history remain David's lane (Rule 13 — defamation surface). Code Claude assembles factual records and source citations; David writes editorial framing.

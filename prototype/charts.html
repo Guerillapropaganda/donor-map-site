@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Donor Map — Chart Components v1</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --white: #f5f0eb;
+  --cream: #ece6dd;
+  --ink: #1a1a1a;
+  --muted: #666;
+  --line: #d4cfc7;
+  --line-dark: #999;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+  --green: #16a34a;
+  --dem: #1d4ed8;
+  --rep: #e63946;
+}
+
+html, body {
+  background: var(--white);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 60px 40px 120px;
+}
+
+/* ─── Page header ─── */
+.masthead {
+  border-bottom: 3px solid var(--black);
+  padding-bottom: 28px;
+  margin-bottom: 60px;
+}
+.masthead .kicker {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  margin-bottom: 12px;
+}
+.masthead h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 56px;
+  line-height: 1;
+  letter-spacing: -2px;
+  margin-bottom: 16px;
+}
+.masthead h1 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -1px;
+}
+.masthead .lede {
+  font-size: 16px;
+  max-width: 720px;
+  color: var(--ink);
+}
+
+/* ─── Component section frame ─── */
+.cmp {
+  margin-bottom: 80px;
+  padding-top: 40px;
+  border-top: 1px solid var(--line);
+}
+.cmp:first-of-type { border-top: none; padding-top: 0; }
+
+.cmp-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 32px;
+  margin-bottom: 6px;
+}
+.cmp-name {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+.cmp-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 1.5px;
+  color: var(--muted);
+  background: var(--cream);
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+}
+.cmp h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 1.1;
+  letter-spacing: -0.8px;
+  margin-bottom: 8px;
+}
+.cmp .desc {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 24px;
+  max-width: 640px;
+}
+
+/* ═══════════════════════════════════════════════
+   COMPONENT 1 — DonorClassPie
+   Capital clusters as a pie. Hover -> highlight.
+   ═══════════════════════════════════════════════ */
+.dcp-wrap {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 40px;
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--black);
+  padding: 32px;
+}
+.dcp-svg-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dcp-svg {
+  width: 320px;
+  height: 320px;
+  display: block;
+}
+.dcp-slice {
+  cursor: pointer;
+  transition: opacity 0.15s ease, transform 0.2s ease;
+  transform-origin: 50% 50%;
+}
+.dcp-wrap:hover .dcp-slice { opacity: 0.4; }
+.dcp-slice:hover { opacity: 1 !important; transform: scale(1.02); }
+.dcp-slice.is-active { opacity: 1; }
+.dcp-center-total {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  fill: var(--muted);
+  text-anchor: middle;
+  letter-spacing: 1.5px;
+}
+.dcp-center-amt {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 28px;
+  fill: var(--black);
+  text-anchor: middle;
+  letter-spacing: -1px;
+}
+.dcp-center-sub {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  fill: var(--muted);
+  text-anchor: middle;
+  letter-spacing: 1px;
+}
+
+.dcp-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+}
+.dcp-legend-row {
+  display: grid;
+  grid-template-columns: 14px 1fr auto auto;
+  gap: 12px;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+  cursor: pointer;
+  transition: background 0.1s ease;
+}
+.dcp-legend-row:hover { background: rgba(0,0,0,0.04); }
+.dcp-legend-row .swatch {
+  width: 12px;
+  height: 12px;
+  display: block;
+}
+.dcp-legend-row .label {
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+.dcp-legend-row .amt {
+  font-weight: 700;
+  color: var(--black);
+  font-size: 12px;
+}
+.dcp-legend-row .pct {
+  color: var(--muted);
+  font-size: 11px;
+  width: 44px;
+  text-align: right;
+}
+.dcp-headline-stat {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 2px solid var(--black);
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.3;
+  color: var(--ink);
+}
+.dcp-headline-stat strong {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ═══════════════════════════════════════════════
+   COMPONENT 2 — DonorStripe
+   Money composition bar — where the dollars come from.
+   ═══════════════════════════════════════════════ */
+.ds-wrap {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--black);
+  padding: 32px;
+}
+.ds-headline {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 18px;
+  line-height: 1.2;
+}
+.ds-headline em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+.ds-headline .pct {
+  background: var(--yellow);
+  padding: 0 6px;
+}
+.ds-bar {
+  display: flex;
+  width: 100%;
+  height: 56px;
+  border: 2px solid var(--black);
+  overflow: hidden;
+}
+.ds-seg {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 12px;
+  position: relative;
+  transition: filter 0.15s ease;
+  border-right: 2px solid var(--black);
+  min-width: 4px;
+}
+.ds-seg:last-child { border-right: none; }
+.ds-seg:hover { filter: brightness(1.08); }
+.ds-seg-pct {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  color: #fff;
+  letter-spacing: -0.5px;
+  text-shadow: 0 0 0 #000;
+}
+.ds-seg-dark { background: #0a0a0a; }
+.ds-seg-mega { background: var(--red); }
+.ds-seg-mid { background: #4b5563; }
+.ds-seg-small { background: var(--green); }
+
+.ds-legend {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  margin-top: 16px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+}
+.ds-legend-cell {
+  padding: 10px 12px 12px;
+  border-top: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+}
+.ds-legend-cell:last-child { border-right: none; }
+.ds-legend-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+.ds-legend-label {
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: var(--ink);
+}
+.ds-legend-amt {
+  font-weight: 700;
+  color: var(--black);
+  font-size: 14px;
+  margin-top: 4px;
+  letter-spacing: -0.5px;
+}
+.ds-legend-note {
+  color: var(--muted);
+  font-size: 10px;
+  margin-top: 2px;
+  line-height: 1.3;
+}
+
+/* ═══════════════════════════════════════════════
+   COMPONENT 3 — VotingDivergenceSparkline
+   Vote-by-vote position vs party median.
+   ═══════════════════════════════════════════════ */
+.vds-wrap {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--black);
+  padding: 32px;
+}
+.vds-stat-row {
+  display: flex;
+  gap: 32px;
+  align-items: baseline;
+  margin-bottom: 20px;
+}
+.vds-stat-big {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 64px;
+  line-height: 1;
+  letter-spacing: -3px;
+}
+.vds-stat-big .unit { font-size: 32px; letter-spacing: -2px; }
+.vds-stat-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 700;
+  max-width: 200px;
+  line-height: 1.3;
+}
+.vds-svg {
+  width: 100%;
+  height: 140px;
+  display: block;
+  background: #fff;
+  border: 1px solid var(--line);
+}
+.vds-line-party {
+  stroke: var(--dem);
+  stroke-width: 2;
+  fill: none;
+  opacity: 0.35;
+  stroke-dasharray: 3 3;
+}
+.vds-line-self {
+  stroke: var(--black);
+  stroke-width: 2;
+  fill: none;
+}
+.vds-area-self {
+  fill: var(--yellow);
+  opacity: 0.4;
+}
+.vds-dot-divergent {
+  fill: var(--red);
+  stroke: var(--black);
+  stroke-width: 1.5;
+}
+.vds-dot-aligned {
+  fill: var(--dem);
+  stroke: var(--black);
+  stroke-width: 1;
+}
+.vds-axis {
+  stroke: var(--line-dark);
+  stroke-width: 1;
+}
+.vds-tick-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  fill: var(--muted);
+  letter-spacing: 1px;
+}
+.vds-legend {
+  display: flex;
+  gap: 24px;
+  margin-top: 14px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: var(--muted);
+}
+.vds-legend-key {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.vds-legend-key .dot {
+  width: 10px;
+  height: 10px;
+  border: 1px solid var(--black);
+}
+.vds-callout {
+  margin-top: 14px;
+  padding: 12px 16px;
+  background: #fff;
+  border-left: 3px solid var(--red);
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+/* ═══════════════════════════════════════════════
+   COMPONENT 4 — MoneyFlowSankey
+   Donor → Committee → Recipient mini.
+   ═══════════════════════════════════════════════ */
+.mfs-wrap {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--black);
+  padding: 32px;
+}
+.mfs-svg {
+  width: 100%;
+  height: 460px;
+  display: block;
+  background: #fff;
+  border: 1px solid var(--line);
+}
+.mfs-flow {
+  opacity: 0.45;
+  transition: opacity 0.15s ease;
+}
+.mfs-flow:hover { opacity: 0.85; }
+.mfs-node {
+  fill: var(--black);
+}
+.mfs-node-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  fill: var(--ink);
+  letter-spacing: 0.5px;
+}
+.mfs-node-amt {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  fill: var(--muted);
+}
+.mfs-col-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  fill: var(--muted);
+  text-transform: uppercase;
+}
+.mfs-tagline {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.3;
+  margin-top: 16px;
+  color: var(--ink);
+}
+.mfs-tagline strong {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Footer ─── */
+.foot {
+  margin-top: 100px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 1px;
+}
+
+@media (max-width: 720px) {
+  .shell { padding: 32px 20px 80px; }
+  .masthead h1 { font-size: 36px; letter-spacing: -1px; }
+  .dcp-wrap { grid-template-columns: 1fr; }
+  .ds-legend { grid-template-columns: repeat(2, 1fr); }
+  .ds-legend-cell:nth-child(2) { border-right: none; }
+  .vds-stat-big { font-size: 48px; }
+}
+</style>
+</head>
+<body>
+<div class="shell">
+
+<!-- ───────── MASTHEAD ───────── -->
+<header class="masthead">
+  <div class="kicker">CHART COMPONENT LIBRARY · v1 · 2026-04-30</div>
+  <h1>Four charts. <em>One mandate:</em> punchy, wow, that's crazy.</h1>
+  <p class="lede">
+    These are the four reusable visual components that drive flagship profiles,
+    punchy stories, and the Maps section. Each chart is the story. Each chart
+    answers one question. No tabs. No accordions. The receipt, on the front.
+  </p>
+</header>
+
+<!-- ═════════════════════════════════════════════
+     COMPONENT 1 — DonorClassPie
+     Real data: Mitch McConnell, $34.49M, 13 capital clusters
+     ═════════════════════════════════════════════ -->
+<section class="cmp">
+  <div class="cmp-head">
+    <div class="cmp-name">01 · DonorClassPie</div>
+    <div class="cmp-tag">classProfile · ADR-0001</div>
+  </div>
+  <h2>What kind of money is this?</h2>
+  <p class="desc">
+    Donors grouped by class function — fossil capital, dark-money vehicle, finance,
+    rentier, military-industrial. Answers: <em>who's structurally backing this politician?</em>
+    Not which checks. Which interests.
+  </p>
+
+  <div class="dcp-wrap">
+    <div class="dcp-svg-wrap">
+      <svg class="dcp-svg" viewBox="0 0 200 200" id="dcp-svg" aria-label="Capital cluster pie chart">
+        <!-- Slices generated by JS below from real McConnell data -->
+        <g id="dcp-slices"></g>
+        <text x="100" y="86" class="dcp-center-total">CAREER FED $</text>
+        <text x="100" y="112" class="dcp-center-amt">$34.5M</text>
+        <text x="100" y="128" class="dcp-center-sub">764 DONOR EDGES</text>
+      </svg>
+    </div>
+    <div class="dcp-legend" id="dcp-legend"><!-- populated by JS --></div>
+  </div>
+
+  <p class="dcp-headline-stat" style="max-width:720px;">
+    Of every dollar funding McConnell's politics, <strong>58¢ comes from
+    a dark-money vehicle</strong> — committees that don't have to disclose
+    who funds them.
+  </p>
+</section>
+
+<!-- ═════════════════════════════════════════════
+     COMPONENT 2 — DonorStripe
+     Mega-donor / Dark-money / Mid-tier / Small-dollar composition
+     ═════════════════════════════════════════════ -->
+<section class="cmp">
+  <div class="cmp-head">
+    <div class="cmp-name">02 · DonorStripe</div>
+    <div class="cmp-tag">money composition · 1-bar TL;DR</div>
+  </div>
+  <h2>Where the money came from.</h2>
+  <p class="desc">
+    A single bar. Four categories of money source — dark-money, mega-donor (>$10K),
+    mid-tier ($200-$10K), small-dollar (under $200). Reads in 2 seconds. Sized for
+    the lede zone above the fold.
+  </p>
+
+  <div class="ds-wrap">
+    <div class="ds-headline">
+      Mitch McConnell's career money: <em>where the dollars actually came from.</em>
+      <span class="pct">58% dark.</span>
+    </div>
+
+    <div class="ds-bar" role="img" aria-label="Money composition bar">
+      <div class="ds-seg ds-seg-dark"   style="width: 57.7%;"><span class="ds-seg-pct">58%</span></div>
+      <div class="ds-seg ds-seg-mega"   style="width: 24.1%;"><span class="ds-seg-pct">24%</span></div>
+      <div class="ds-seg ds-seg-mid"    style="width: 13.9%;"><span class="ds-seg-pct">14%</span></div>
+      <div class="ds-seg ds-seg-small"  style="width: 4.3%;"></div>
+    </div>
+
+    <div class="ds-legend">
+      <div class="ds-legend-cell">
+        <span class="ds-legend-swatch" style="background:#0a0a0a;"></span>
+        <span class="ds-legend-label">Dark-money</span>
+        <div class="ds-legend-amt">$19.9M</div>
+        <div class="ds-legend-note">501(c)(4)s, super-PAC vehicles · undisclosed source</div>
+      </div>
+      <div class="ds-legend-cell">
+        <span class="ds-legend-swatch" style="background:var(--red);"></span>
+        <span class="ds-legend-label">Mega-donor</span>
+        <div class="ds-legend-amt">$8.3M</div>
+        <div class="ds-legend-note">Itemized over $10K from 28 donors</div>
+      </div>
+      <div class="ds-legend-cell">
+        <span class="ds-legend-swatch" style="background:#4b5563;"></span>
+        <span class="ds-legend-label">Mid-tier</span>
+        <div class="ds-legend-amt">$4.8M</div>
+        <div class="ds-legend-note">$200–$10K · WinRed conduit dominant</div>
+      </div>
+      <div class="ds-legend-cell">
+        <span class="ds-legend-swatch" style="background:var(--green);"></span>
+        <span class="ds-legend-label">Small-dollar</span>
+        <div class="ds-legend-amt">$1.5M</div>
+        <div class="ds-legend-note">Under $200 · est. from FEC summary</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═════════════════════════════════════════════
+     COMPONENT 3 — VotingDivergenceSparkline
+     Manchin vs Senate Dem median, ~50 sample votes
+     ═════════════════════════════════════════════ -->
+<section class="cmp">
+  <div class="cmp-head">
+    <div class="cmp-name">03 · VotingDivergenceSparkline</div>
+    <div class="cmp-tag">votingDivergence · positions.ts</div>
+  </div>
+  <h2>How often did they break with their party?</h2>
+  <p class="desc">
+    Each tick is a roll-call vote. The dashed line is the party median position;
+    the solid line is this politician's position. Where the lines spike apart, the
+    politician broke. For Manchin-class crossover stories.
+  </p>
+
+  <div class="vds-wrap">
+    <div class="vds-stat-row">
+      <div>
+        <div class="vds-stat-big">20<span class="unit">%</span></div>
+      </div>
+      <div class="vds-stat-label">
+        Joe Manchin · 117th Congress · share of votes diverging from Senate Dem median
+      </div>
+    </div>
+
+    <svg class="vds-svg" viewBox="0 0 800 140" preserveAspectRatio="none" id="vds-svg" aria-label="Voting divergence sparkline">
+      <!-- axis baseline -->
+      <line class="vds-axis" x1="40" y1="120" x2="780" y2="120"/>
+      <line class="vds-axis" x1="40" y1="20"  x2="780" y2="20"/>
+      <text class="vds-tick-label" x="6" y="24">BROKE</text>
+      <text class="vds-tick-label" x="6" y="124">WITH</text>
+      <text class="vds-tick-label" x="40" y="138">VOTE 1</text>
+      <text class="vds-tick-label" x="710" y="138">VOTE 50</text>
+
+      <g id="vds-paths"></g>
+    </svg>
+
+    <div class="vds-legend">
+      <div class="vds-legend-key"><span class="dot" style="background:var(--yellow);opacity:0.5;"></span>Distance from Senate Dem median</div>
+      <div class="vds-legend-key"><span class="dot" style="background:var(--red);"></span>Vote where Manchin broke</div>
+      <div class="vds-legend-key" style="margin-left:auto;color:var(--ink);">10 of 50 votes</div>
+    </div>
+
+    <p class="vds-callout">
+      The divergence isn't random. It clusters on energy, climate, and labor —
+      the same policy domains as his fossil-capital donor base.
+    </p>
+  </div>
+</section>
+
+<!-- ═════════════════════════════════════════════
+     COMPONENT 4 — MoneyFlowSankey
+     Crypto industry → Fairshake/PACs → recipients
+     ═════════════════════════════════════════════ -->
+<section class="cmp">
+  <div class="cmp-head">
+    <div class="cmp-name">04 · MoneyFlowSankey</div>
+    <div class="cmp-tag">donor → committee → recipient · mini</div>
+  </div>
+  <h2>Follow one dollar.</h2>
+  <p class="desc">
+    Source on the left. Conduit committee in the middle. Politician on the right.
+    Width = dollars. The shape of the flow is the story — both-sides hedging
+    looks like a spread; targeted spending looks like a funnel.
+  </p>
+
+  <div class="mfs-wrap">
+    <svg class="mfs-svg" viewBox="0 0 900 460" id="mfs-svg" aria-label="Money flow Sankey">
+      <text x="120" y="28" class="mfs-col-label" text-anchor="middle">DONORS</text>
+      <text x="450" y="28" class="mfs-col-label" text-anchor="middle">CONDUIT</text>
+      <text x="780" y="28" class="mfs-col-label" text-anchor="middle">RECIPIENTS</text>
+      <g id="mfs-flows"></g>
+      <g id="mfs-nodes"></g>
+    </svg>
+
+    <p class="mfs-tagline">
+      Crypto industry money split across <strong>both parties</strong> — funding
+      pro-crypto Democrats AND defeating crypto-skeptic Democrats in the same primaries.
+    </p>
+  </div>
+</section>
+
+<div class="foot">
+  PROTOTYPE · NOT FOR PUBLIC DEPLOY · DATA SAMPLE: McCONNELL FED-LIFETIME AGGREGATE +
+  MANCHIN 117TH POSITIONS + FAIRSHAKE 2024 CYCLE EDGES (ILLUSTRATIVE)
+</div>
+
+</div>
+
+<script>
+/* ─────────────────────────────────────────────
+   COMPONENT 1 — DonorClassPie : render slices + legend
+   Real McConnell data from content/thesis/influence/mitch-mcconnell.md
+   ───────────────────────────────────────────── */
+const dcpData = [
+  { label: "Dark-money vehicle", amount: 19920000, donors: 44, color: "#0a0a0a" },
+  { label: "Mixed (WinRed conduit)", amount: 4800000, donors: 1, color: "#4b5563" },
+  { label: "Rentier capital", amount: 2330000, donors: 2, color: "#7c3aed" },
+  { label: "Unclassified", amount: 5850000, donors: 222, color: "#d1d5db" },
+  { label: "Fossil capital", amount: 387000, donors: 15, color: "#b45309" },
+  { label: "Pharma capital", amount: 326000, donors: 11, color: "#16a34a" },
+  { label: "Military-industrial", amount: 289500, donors: 12, color: "#1d4ed8" },
+  { label: "Tech monopoly", amount: 209900, donors: 7, color: "#06b6d4" },
+  { label: "Finance capital", amount: 119500, donors: 6, color: "#fbbf24" },
+  { label: "Agribusiness", amount: 99800, donors: 5, color: "#84cc16" },
+  { label: "Media capital", amount: 89500, donors: 4, color: "#e63946" },
+];
+const dcpTotal = dcpData.reduce((s, d) => s + d.amount, 0);
+
+function describeArc(cx, cy, r, startA, endA) {
+  const sx = cx + r * Math.cos(startA);
+  const sy = cy + r * Math.sin(startA);
+  const ex = cx + r * Math.cos(endA);
+  const ey = cy + r * Math.sin(endA);
+  const large = (endA - startA) > Math.PI ? 1 : 0;
+  return `M ${cx} ${cy} L ${sx} ${sy} A ${r} ${r} 0 ${large} 1 ${ex} ${ey} Z`;
+}
+function fmtAmt(n) {
+  if (n >= 1_000_000) return "$" + (n/1_000_000).toFixed(2) + "M";
+  if (n >= 1_000) return "$" + Math.round(n/1_000) + "K";
+  return "$" + n;
+}
+
+const slicesEl = document.getElementById("dcp-slices");
+const legendEl = document.getElementById("dcp-legend");
+const cx = 100, cy = 100, rOuter = 78, rInner = 50;
+let angle = -Math.PI / 2;
+dcpData.forEach((d, i) => {
+  const sweep = (d.amount / dcpTotal) * Math.PI * 2;
+  const a0 = angle, a1 = angle + sweep;
+  // outer wedge
+  const outer = describeArc(cx, cy, rOuter, a0, a1);
+  // inner cut
+  const innerSx = cx + rInner * Math.cos(a0);
+  const innerSy = cy + rInner * Math.sin(a0);
+  const innerEx = cx + rInner * Math.cos(a1);
+  const innerEy = cy + rInner * Math.sin(a1);
+  const large = (a1 - a0) > Math.PI ? 1 : 0;
+  const path = `M ${cx + rOuter * Math.cos(a0)} ${cy + rOuter * Math.sin(a0)}
+                A ${rOuter} ${rOuter} 0 ${large} 1 ${cx + rOuter * Math.cos(a1)} ${cy + rOuter * Math.sin(a1)}
+                L ${innerEx} ${innerEy}
+                A ${rInner} ${rInner} 0 ${large} 0 ${innerSx} ${innerSy}
+                Z`;
+  const slice = document.createElementNS("http://www.w3.org/2000/svg", "path");
+  slice.setAttribute("d", path);
+  slice.setAttribute("fill", d.color);
+  slice.setAttribute("class", "dcp-slice");
+  slice.setAttribute("data-idx", i);
+  slice.setAttribute("stroke", "#f5f0eb");
+  slice.setAttribute("stroke-width", "1");
+  slicesEl.appendChild(slice);
+
+  const row = document.createElement("div");
+  row.className = "dcp-legend-row";
+  row.dataset.idx = i;
+  row.innerHTML = `
+    <span class="swatch" style="background:${d.color}"></span>
+    <span class="label">${d.label}</span>
+    <span class="amt">${fmtAmt(d.amount)}</span>
+    <span class="pct">${((d.amount/dcpTotal)*100).toFixed(1)}%</span>
+  `;
+  legendEl.appendChild(row);
+
+  // hover sync
+  const activate = () => {
+    document.querySelectorAll(".dcp-slice").forEach(s => s.classList.toggle("is-active", s.dataset.idx === String(i)));
+  };
+  const clear = () => document.querySelectorAll(".dcp-slice").forEach(s => s.classList.remove("is-active"));
+  slice.addEventListener("mouseenter", activate);
+  row.addEventListener("mouseenter", activate);
+  slice.addEventListener("mouseleave", clear);
+  row.addEventListener("mouseleave", clear);
+
+  angle = a1;
+});
+
+/* ─────────────────────────────────────────────
+   COMPONENT 3 — VotingDivergenceSparkline : render lines
+   Encoding: line shows DIVERGENCE FROM PARTY MEDIAN per vote.
+   Aligned vote = bottom of chart (0). Divergent vote = top (1).
+   So the line stays flat-low when politician votes with party,
+   spikes up when they break. 10/50 divergence = 10 spikes.
+   ───────────────────────────────────────────── */
+const partyMedian = [1,1,1,0,1,1,1,1,1,0, 1,1,1,1,1,1,0,1,1,1, 1,1,1,1,1,0,1,1,1,1, 1,1,1,1,1,1,1,1,1,0, 1,0,1,1,1,1,1,1,1,1];
+const manchin     = [1,1,0,0,1,0,1,1,1,0, 1,0,1,1,0,1,0,1,1,1, 1,1,1,1,1,0,1,1,1,1, 1,0,1,1,1,1,1,1,1,0, 1,0,1,1,1,1,1,1,0,1];
+const divergence = manchin.map((v, i) => v !== partyMedian[i] ? 1 : 0);
+const vdsPaths = document.getElementById("vds-paths");
+const W = 800, H = 140, PAD_L = 40, PAD_R = 20, PAD_T = 20, PAD_B = 20;
+const xs = (i) => PAD_L + (i / (divergence.length - 1)) * (W - PAD_L - PAD_R);
+// y=PAD_T means top (divergent); y=H-PAD_B means bottom (aligned)
+const ys = (d) => (H - PAD_B) - d * (H - PAD_T - PAD_B);
+
+// Stepped line for clearer "spike" reading
+function buildSteppedPath(arr) {
+  let p = "";
+  arr.forEach((d, i) => {
+    const x = xs(i).toFixed(1);
+    const y = ys(d).toFixed(1);
+    if (i === 0) p += `M ${x} ${y} `;
+    else {
+      const xPrev = xs(i - 1).toFixed(1);
+      p += `L ${xPrev} ${y} L ${x} ${y} `;
+    }
+  });
+  return p;
+}
+const linePath = buildSteppedPath(divergence);
+// Filled area beneath
+const areaPath = linePath
+  + ` L ${xs(divergence.length - 1).toFixed(1)} ${(H - PAD_B).toFixed(1)}`
+  + ` L ${xs(0).toFixed(1)} ${(H - PAD_B).toFixed(1)} Z`;
+
+vdsPaths.innerHTML = `
+  <path class="vds-area-self" d="${areaPath}"/>
+  <path class="vds-line-self" d="${linePath}"/>
+`;
+divergence.forEach((d, i) => {
+  if (d === 1) {
+    const c = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    c.setAttribute("cx", xs(i));
+    c.setAttribute("cy", ys(1));
+    c.setAttribute("r", 4);
+    c.setAttribute("class", "vds-dot-divergent");
+    vdsPaths.appendChild(c);
+  }
+});
+
+/* ─────────────────────────────────────────────
+   COMPONENT 4 — MoneyFlowSankey : render flow ribbons
+   Sample data: Crypto donors → Fairshake/Protect Progress → recipients
+   ───────────────────────────────────────────── */
+const mfsW = 900, mfsH = 460, mfsPadT = 50, mfsPadB = 30;
+const colDonor = 130, colCmt = 450, colRcp = 770;
+const nodeW = 18;
+
+const donors = [
+  { id: "coinbase",  label: "Coinbase",       amount: 4500000, color: "#06b6d4" },
+  { id: "ripple",    label: "Ripple Labs",    amount: 3500000, color: "#1d4ed8" },
+  { id: "a16z",      label: "Andreessen Horowitz", amount: 2700000, color: "#7c3aed" },
+  { id: "winklevoss",label: "Winklevoss Twins",amount: 1800000, color: "#fbbf24" },
+  { id: "circle",    label: "Circle",         amount: 1500000, color: "#84cc16" },
+];
+const conduits = [
+  { id: "fairshake", label: "Fairshake PAC",       amount: 9500000 },
+  { id: "protect",   label: "Protect Progress",    amount: 4500000 },
+];
+const recipients = [
+  { id: "moreno",   label: "Bernie Moreno (R)",    amount: 4500000, side: "red" },
+  { id: "gallego",  label: "Ruben Gallego (D)",    amount: 4000000, side: "blue" },
+  { id: "schiff",   label: "Adam Schiff (D)",      amount: 2200000, side: "blue" },
+  { id: "vsporter", label: "vs. Katie Porter",     amount: 1500000, side: "red" },
+  { id: "vsbush",   label: "vs. Cori Bush",        amount: 1300000, side: "red" },
+];
+
+// flows: donor -> conduit, conduit -> recipient
+// approximate distribution: top 3 donors -> Fairshake; bottom 2 -> Protect Progress
+const flowsDC = [
+  { from:"coinbase",   to:"fairshake", amt: 4500000, color:"#06b6d4" },
+  { from:"ripple",     to:"fairshake", amt: 3500000, color:"#1d4ed8" },
+  { from:"a16z",       to:"fairshake", amt: 1500000, color:"#7c3aed" },
+  { from:"a16z",       to:"protect",   amt: 1200000, color:"#7c3aed" },
+  { from:"winklevoss", to:"protect",   amt: 1800000, color:"#fbbf24" },
+  { from:"circle",     to:"protect",   amt: 1500000, color:"#84cc16" },
+];
+const flowsCR = [
+  // Fairshake $9.5M: 4.5 Moreno, 1.5 vs Porter, 1.3 vs Bush, leftover spread
+  { from:"fairshake", to:"moreno",   amt: 4500000, color:"#e63946" },
+  { from:"fairshake", to:"vsporter", amt: 1500000, color:"#e63946" },
+  { from:"fairshake", to:"vsbush",   amt: 1300000, color:"#e63946" },
+  { from:"fairshake", to:"gallego",  amt: 1200000, color:"#1d4ed8" },
+  { from:"fairshake", to:"schiff",   amt: 1000000, color:"#1d4ed8" },
+  // Protect Progress $4.5M: 2.8 Gallego, 1.2 Schiff, .5 misc
+  { from:"protect",   to:"gallego",  amt: 2800000, color:"#1d4ed8" },
+  { from:"protect",   to:"schiff",   amt: 1200000, color:"#1d4ed8" },
+  { from:"protect",   to:"moreno",   amt: 500000,  color:"#e63946" },
+];
+
+// Position nodes vertically by accumulated total height in each column
+function layoutColumn(items, total, x, gap) {
+  const g = gap == null ? 8 : gap;
+  const usable = (mfsH - mfsPadT - mfsPadB) - g * (items.length - 1);
+  let y = mfsPadT;
+  const map = {};
+  items.forEach(it => {
+    const h = (it.amount / total) * usable;
+    map[it.id] = { x, y, h, w: nodeW, ...it };
+    y += h + g;
+  });
+  return map;
+}
+const totalDonor = donors.reduce((s, d) => s + d.amount, 0);
+const totalCmt   = conduits.reduce((s, d) => s + d.amount, 0);
+const totalRcp   = recipients.reduce((s, d) => s + d.amount, 0);
+
+const dMap = layoutColumn(donors, totalDonor, colDonor, 12);
+const cMap = layoutColumn(conduits, totalCmt, colCmt, 60);  // big gap so labels don't collide
+const rMap = layoutColumn(recipients, totalRcp, colRcp, 12);
+
+// For each node, track running offset for outflows + inflows
+const offsets = {};
+function getOff(id, dir) {
+  const k = id + ":" + dir;
+  if (!(k in offsets)) offsets[k] = 0;
+  return offsets[k];
+}
+function bumpOff(id, dir, by) {
+  const k = id + ":" + dir;
+  offsets[k] = (offsets[k] || 0) + by;
+}
+
+function ribbonPath(x0, y0, h0, x1, y1, h1) {
+  // Cubic-bezier ribbon between two columns
+  const cx0 = x0 + (x1 - x0) * 0.5;
+  const cx1 = x0 + (x1 - x0) * 0.5;
+  const top = `M ${x0} ${y0} C ${cx0} ${y0}, ${cx1} ${y1}, ${x1} ${y1}`;
+  const bot = `L ${x1} ${y1 + h1} C ${cx1} ${y1 + h1}, ${cx0} ${y0 + h0}, ${x0} ${y0 + h0} Z`;
+  return top + " " + bot;
+}
+
+const flowsEl = document.getElementById("mfs-flows");
+const nodesEl = document.getElementById("mfs-nodes");
+
+function drawFlow(fromMap, toMap, totalFrom, totalTo, flows, dirOut, dirIn) {
+  flows.forEach(f => {
+    const fn = fromMap[f.from], tn = toMap[f.to];
+    if (!fn || !tn) return;
+    const usableF = mfsH - mfsPadT - mfsPadB;
+    const usableT = mfsH - mfsPadT - mfsPadB;
+    const h0 = (f.amt / totalFrom) * usableF;
+    const h1 = (f.amt / totalTo)   * usableT;
+    const y0 = fn.y + getOff(f.from, dirOut);
+    const y1 = tn.y + getOff(f.to, dirIn);
+    const x0 = fn.x + nodeW;
+    const x1 = tn.x;
+    const path = ribbonPath(x0, y0, h0, x1, y1, h1);
+    const p = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    p.setAttribute("d", path);
+    p.setAttribute("class", "mfs-flow");
+    p.setAttribute("fill", f.color || "#0a0a0a");
+    p.setAttribute("opacity", "0.32");
+    flowsEl.appendChild(p);
+    bumpOff(f.from, dirOut, h0);
+    bumpOff(f.to, dirIn, h1);
+  });
+}
+drawFlow(dMap, cMap, totalDonor, totalCmt, flowsDC, "out", "inLeft");
+drawFlow(cMap, rMap, totalCmt, totalRcp, flowsCR, "outRight", "in");
+
+function drawNodes(map, side) {
+  Object.values(map).forEach(n => {
+    const r = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+    r.setAttribute("x", n.x);
+    r.setAttribute("y", n.y);
+    r.setAttribute("width", nodeW);
+    r.setAttribute("height", n.h);
+    r.setAttribute("class", "mfs-node");
+    if (n.color) r.setAttribute("fill", n.color);
+    nodesEl.appendChild(r);
+
+    const t = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    t.setAttribute("class", "mfs-node-label");
+    if (side === "left") {
+      t.setAttribute("x", n.x - 8);
+      t.setAttribute("y", n.y + n.h / 2 + 4);
+      t.setAttribute("text-anchor", "end");
+    } else if (side === "right") {
+      t.setAttribute("x", n.x + nodeW + 8);
+      t.setAttribute("y", n.y + n.h / 2 + 4);
+      t.setAttribute("text-anchor", "start");
+    } else {
+      t.setAttribute("x", n.x + nodeW / 2);
+      t.setAttribute("y", n.y - 6);
+      t.setAttribute("text-anchor", "middle");
+    }
+    t.textContent = n.label;
+    nodesEl.appendChild(t);
+
+    const a = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    a.setAttribute("class", "mfs-node-amt");
+    if (side === "left") {
+      a.setAttribute("x", n.x - 8);
+      a.setAttribute("y", n.y + n.h / 2 + 18);
+      a.setAttribute("text-anchor", "end");
+    } else if (side === "right") {
+      a.setAttribute("x", n.x + nodeW + 8);
+      a.setAttribute("y", n.y + n.h / 2 + 18);
+      a.setAttribute("text-anchor", "start");
+    } else {
+      a.setAttribute("x", n.x + nodeW / 2);
+      a.setAttribute("y", n.y + n.h + 14);
+      a.setAttribute("text-anchor", "middle");
+    }
+    a.textContent = fmtAmt(n.amount);
+    nodesEl.appendChild(a);
+  });
+}
+drawNodes(dMap, "left");
+drawNodes(cMap, "center");
+drawNodes(rMap, "right");
+</script>
+
+</body>
+</html>

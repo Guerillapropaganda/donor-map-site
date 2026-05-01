@@ -1,0 +1,1317 @@
+{
+  "candidate": "Steve Hilton",
+  "slug": "hilton",
+  "lifetime": {
+    "total_raised": 7725880,
+    "total_spent": 8931154,
+    "unique_donors": 14989,
+    "unique_recipients": 395,
+    "top_50_donors": [
+      {
+        "name": "Stephen Hilton",
+        "total": 90199.95,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $90199.95 from \"Stephen Hilton\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Tim Draper",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Tim Draper\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Richard Spencer",
+        "total": 41196.18,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $41196.18 from \"Richard Spencer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Steven Craig",
+        "total": 39230,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39230.00 from \"Steven Craig\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Aubrey Chernick",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Aubrey Chernick\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Phil Pace",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Phil Pace\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Chris Larsen",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Chris Larsen\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Tami Suryan",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Tami Suryan\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Donald Friese",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Donald Friese\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Rupert Murdoch",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Rupert Murdoch\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Susan Groff",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Susan Groff\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "John McEntee",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"John McEntee\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Julie Dickson",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Julie Dickson\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Stephen Lopes",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $39200.00 from \"Stephen Lopes\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Andrea Friese",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Andrea Friese\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Phil Mickelson",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Phil Mickelson\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Christine Lucchetti",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Christine Lucchetti\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "DWO Enterprises, Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"DWO Enterprises, Inc.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Frank Suryan Jr.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Frank Suryan Jr.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Sergey Brin",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Sergey Brin\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Eric Brandt",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Eric Brandt\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Steve Bardack",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Steve Bardack\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Pacific Coast Companies Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Pacific Coast Companies Inc.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Thomas Saunders",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Thomas Saunders\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Joyce Chernick",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Joyce Chernick\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Kolokotrones",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Mark Kolokotrones\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "James Jameson",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"James Jameson\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Karen Spencer",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Karen Spencer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "J. Gregg Couch",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"J. Gregg Couch\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Geoff Palmer",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Geoff Palmer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Uber Technologies, Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Uber Technologies, Inc.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "T. Lawrence Jett",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"T. Lawrence Jett\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Michael Chunhan",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Michael Chunhan\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Chris Rufer",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Chris Rufer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Bergman",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Mark Bergman\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Tae Yun Kim",
+        "total": 39100,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39100.00 from \"Tae Yun Kim\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Scott Salton",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39000.00 from \"Scott Salton\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Joseph David Taormino",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $39000.00 from \"Joseph David Taormino\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Paul Newman",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39000.00 from \"Paul Newman\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Franklin Stonebanks",
+        "total": 38000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $38000.00 from \"Franklin Stonebanks\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Jim Harris",
+        "total": 35000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $35000.00 from \"Jim Harris\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "JW Howard/Attorneys, Ltd.",
+        "total": 32713.04,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $32713.04 from \"JW Howard/Attorneys, Ltd.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Maria Kelly",
+        "total": 32500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $32500.00 from \"Maria Kelly\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Britt Meyer",
+        "total": 29200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $29200.00 from \"Britt Meyer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Jeffrey Burns",
+        "total": 28634.64,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $28634.64 from \"Jeffrey Burns\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Homan Siman",
+        "total": 26000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $26000.00 from \"Homan Siman\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Joe Lonsdale",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Joe Lonsdale\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "J. David Taormino",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"J. David Taormino\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Robert Rosenthal",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Robert Rosenthal\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Cal Pacific Supply",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Cal Pacific Supply\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Rockwell Solutions",
+        "total": 1923374.57,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 32 expenditure(s) totaling $1923374.57 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Rockwell Solutions\" in 2026, role=literature"
+        ],
+        "role": "literature"
+      },
+      {
+        "name": "Convergence Media LLC",
+        "total": 1163010.2,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $130884.35 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Convergence Media LLC\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 22 expenditure(s) totaling $1032125.85 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Convergence Media LLC\" in 2026, role=vendor-payment — sample: \"Digital Advertising\""
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "USPO",
+        "total": 612260.6,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 21 expenditure(s) totaling $612260.60 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"USPO\" in 2026, role=postage"
+        ],
+        "role": "postage"
+      },
+      {
+        "name": "USPS",
+        "total": 377497.96,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $374427.96 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"USPS\" in 2026, role=postage",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $3070.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"USPS\" in 2026, role=literature"
+        ],
+        "role": "postage"
+      },
+      {
+        "name": "Pluvious Group LLC",
+        "total": 220713.05,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $14712.47 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Pluvious Group LLC\" in 2026, role=fundraising-event — sample: \"See Schedule G\"",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $92005.83 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Pluvious Group LLC\" in 2026, role=vendor-payment — sample: \"CNS and TRS\""
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "The KAL Group Inc.",
+        "total": 215369.04,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $139104.19 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"The KAL Group Inc.\" in 2026, role=vendor-payment — sample: \"PRO and POS\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $1570.98 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"The KAL Group Inc.\" in 2026, role=postage"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Targeted Victory",
+        "total": 206228.45,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $206228.45 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Targeted Victory\" in 2026, role=vendor-payment — sample: \"Digital Advertising\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Bespeak Network LLC",
+        "total": 200000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $200000.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Bespeak Network LLC\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Liquid Consulting LLC",
+        "total": 190795.67,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $177900.16 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Liquid Consulting LLC\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $12895.51 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Liquid Consulting LLC\" in 2026, role=vendor-payment — sample: \"POS, FND, MTGS\""
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Code 4 Media Group Inc.",
+        "total": 190572.1,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $5586.38 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Code 4 Media Group Inc.\" in 2026, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $184985.72 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Code 4 Media Group Inc.\" in 2026, role=meetings"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Matthew Ciepielowski",
+        "total": 186329.65000000002,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 11 expenditure(s) totaling $135030.76 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Matthew Ciepielowski\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 10 expenditure(s) totaling $51298.89 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Matthew Ciepielowski\" in 2026, role=vendor-payment — sample: \"6/14 to 6/30 Reimbursement for Meals, Car Service, Lodging and Air Travel for Multiple Meetings and Events\""
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "American Express",
+        "total": 181945.71,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $28363.43 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"American Express\" in 2026, role=fundraising-event — sample: \"6/18/2025 Fundraising Reception\"",
+          "Cal-Access EXPN_CD: 31 expenditure(s) totaling $153582.28 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"American Express\" in 2026, role=vendor-payment — sample: \"OFC, TRC and TRS: Sub Vendors on 6/11/25 Payment\""
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Axiom Strategies",
+        "total": 179491.29,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $22900.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Axiom Strategies\" in 2026, role=literature",
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $155000.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Axiom Strategies\" in 2026, role=consultant"
+        ],
+        "role": "literature"
+      },
+      {
+        "name": "Chase Card Services",
+        "total": 177092.03,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 12 expenditure(s) totaling $177092.03 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Chase Card Services\" in 2026, role=vendor-payment — sample: \"OFC, MTG, CMP, TRS and TRC\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Flo Communications",
+        "total": 131567.15,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $48375.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Flo Communications\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $23591.14 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Flo Communications\" in 2026, role=web-ads"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Gavin Elwes - Trifilm Pictures LLC",
+        "total": 120345.22,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $117420.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Gavin Elwes - Trifilm Pictures LLC\" in 2026, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2925.22 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Gavin Elwes - Trifilm Pictures LLC\" in 2026, role=staff-travel — sample: \"4/21 to 5/5   Flights for staff travel from New York to Los Angeles\""
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Better Mousetrap Digital",
+        "total": 118267.19,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $117759.69 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Better Mousetrap Digital\" in 2026, role=vendor-payment — sample: \"Digital Advertising\"",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $507.50 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Better Mousetrap Digital\" in 2026, role=fundraising-event"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Blitz Digital Group",
+        "total": 112657.8,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $11601.50 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Blitz Digital Group\" in 2026, role=vendor-payment — sample: \"Digital Advertising\"",
+          "Cal-Access EXPN_CD: 23 expenditure(s) totaling $61240.61 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Blitz Digital Group\" in 2026, role=fundraising-event"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "EyesOver LLC",
+        "total": 112500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $112500.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"EyesOver LLC\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Kevin Fairbrother",
+        "total": 105165.15,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $9328.42 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Kevin Fairbrother\" in 2026, role=staff-travel — sample: \"4/30 to 5/1 Fuel for Campaign Travel\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $1982.98 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Kevin Fairbrother\" in 2026, role=vendor-payment — sample: \"TRS and MTG\""
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Remington Research Group",
+        "total": 92640.31,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $92640.31 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Remington Research Group\" in 2026, role=campaign-paraphernalia"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Frontline Strategies LLC",
+        "total": 91952.54,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $91952.54 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Frontline Strategies LLC\" in 2026, role=vendor-payment — sample: \"Digital Advertising\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "eFundraising Connections",
+        "total": 91336.2,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 129 expenditure(s) totaling $42044.43 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"eFundraising Connections\" in 2026, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 116 expenditure(s) totaling $49291.77 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"eFundraising Connections\" in 2026, role=office-expense"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Amplify 360",
+        "total": 78636.94,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $573.37 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Amplify 360\" in 2026, role=meetings",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $5206.57 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Amplify 360\" in 2026, role=vendor-payment — sample: \"CNS and OFC\""
+        ],
+        "role": "meetings"
+      },
+      {
+        "name": "David Shames",
+        "total": 70740.63,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2428.69 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"David Shames\" in 2026, role=vendor-payment — sample: \"TRS and OFC: Mileage and Parking\"",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $8368.63 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"David Shames\" in 2026, role=staff-travel — sample: \"Reimbursements: 6/3-11/15 Mileage, Lodging and Parking for Multiple campaign events\""
+        ],
+        "role": "vendor-payment"
+      }
+    ]
+  },
+  "cycle_2026": {
+    "total_raised": 7725880,
+    "total_spent": 8931154,
+    "unique_donors": 14989,
+    "unique_recipients": 395,
+    "top_50_donors": [
+      {
+        "name": "Stephen Hilton",
+        "total": 90199.95,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $90199.95 from \"Stephen Hilton\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Tim Draper",
+        "total": 78400,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $78400.00 from \"Tim Draper\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Richard Spencer",
+        "total": 41196.18,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 5 receipt(s) totaling $41196.18 from \"Richard Spencer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Steven Craig",
+        "total": 39230,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39230.00 from \"Steven Craig\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Aubrey Chernick",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Aubrey Chernick\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Phil Pace",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Phil Pace\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Chris Larsen",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Chris Larsen\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Tami Suryan",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Tami Suryan\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Donald Friese",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Donald Friese\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Rupert Murdoch",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Rupert Murdoch\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Susan Groff",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Susan Groff\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "John McEntee",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"John McEntee\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Julie Dickson",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Julie Dickson\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Stephen Lopes",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $39200.00 from \"Stephen Lopes\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Andrea Friese",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Andrea Friese\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Phil Mickelson",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Phil Mickelson\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Christine Lucchetti",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Christine Lucchetti\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "DWO Enterprises, Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"DWO Enterprises, Inc.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Frank Suryan Jr.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Frank Suryan Jr.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Sergey Brin",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Sergey Brin\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Eric Brandt",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Eric Brandt\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Steve Bardack",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Steve Bardack\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Pacific Coast Companies Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Pacific Coast Companies Inc.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Thomas Saunders",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Thomas Saunders\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Joyce Chernick",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Joyce Chernick\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Kolokotrones",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Mark Kolokotrones\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "James Jameson",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"James Jameson\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Karen Spencer",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Karen Spencer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "J. Gregg Couch",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"J. Gregg Couch\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Geoff Palmer",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Geoff Palmer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Uber Technologies, Inc.",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Uber Technologies, Inc.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "T. Lawrence Jett",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"T. Lawrence Jett\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Michael Chunhan",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Michael Chunhan\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Chris Rufer",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39200.00 from \"Chris Rufer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Mark Bergman",
+        "total": 39200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $39200.00 from \"Mark Bergman\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Tae Yun Kim",
+        "total": 39100,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39100.00 from \"Tae Yun Kim\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Scott Salton",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39000.00 from \"Scott Salton\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Joseph David Taormino",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 3 receipt(s) totaling $39000.00 from \"Joseph David Taormino\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Paul Newman",
+        "total": 39000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $39000.00 from \"Paul Newman\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Franklin Stonebanks",
+        "total": 38000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $38000.00 from \"Franklin Stonebanks\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Jim Harris",
+        "total": 35000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $35000.00 from \"Jim Harris\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "JW Howard/Attorneys, Ltd.",
+        "total": 32713.04,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $32713.04 from \"JW Howard/Attorneys, Ltd.\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Maria Kelly",
+        "total": 32500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $32500.00 from \"Maria Kelly\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Britt Meyer",
+        "total": 29200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $29200.00 from \"Britt Meyer\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Jeffrey Burns",
+        "total": 28634.64,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $28634.64 from \"Jeffrey Burns\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Homan Siman",
+        "total": 26000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $26000.00 from \"Homan Siman\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Joe Lonsdale",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Joe Lonsdale\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "J. David Taormino",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"J. David Taormino\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Robert Rosenthal",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Robert Rosenthal\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      },
+      {
+        "name": "Cal Pacific Supply",
+        "total": 25000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $25000.00 from \"Cal Pacific Supply\" to filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) in 2026"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Rockwell Solutions",
+        "total": 1923374.57,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 32 expenditure(s) totaling $1923374.57 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Rockwell Solutions\" in 2026, role=literature"
+        ],
+        "role": "literature"
+      },
+      {
+        "name": "Convergence Media LLC",
+        "total": 1163010.2,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $130884.35 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Convergence Media LLC\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 22 expenditure(s) totaling $1032125.85 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Convergence Media LLC\" in 2026, role=vendor-payment — sample: \"Digital Advertising\""
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "USPO",
+        "total": 612260.6,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 21 expenditure(s) totaling $612260.60 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"USPO\" in 2026, role=postage"
+        ],
+        "role": "postage"
+      },
+      {
+        "name": "USPS",
+        "total": 377497.96,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $374427.96 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"USPS\" in 2026, role=postage",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $3070.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"USPS\" in 2026, role=literature"
+        ],
+        "role": "postage"
+      },
+      {
+        "name": "Pluvious Group LLC",
+        "total": 220713.05,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $14712.47 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Pluvious Group LLC\" in 2026, role=fundraising-event — sample: \"See Schedule G\"",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $92005.83 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Pluvious Group LLC\" in 2026, role=vendor-payment — sample: \"CNS and TRS\""
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "The KAL Group Inc.",
+        "total": 215369.04,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $139104.19 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"The KAL Group Inc.\" in 2026, role=vendor-payment — sample: \"PRO and POS\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $1570.98 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"The KAL Group Inc.\" in 2026, role=postage"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Targeted Victory",
+        "total": 206228.45,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $206228.45 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Targeted Victory\" in 2026, role=vendor-payment — sample: \"Digital Advertising\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Bespeak Network LLC",
+        "total": 200000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $200000.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Bespeak Network LLC\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Liquid Consulting LLC",
+        "total": 190795.67,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 7 expenditure(s) totaling $177900.16 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Liquid Consulting LLC\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $12895.51 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Liquid Consulting LLC\" in 2026, role=vendor-payment — sample: \"POS, FND, MTGS\""
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Code 4 Media Group Inc.",
+        "total": 190572.1,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $5586.38 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Code 4 Media Group Inc.\" in 2026, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $184985.72 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Code 4 Media Group Inc.\" in 2026, role=meetings"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Matthew Ciepielowski",
+        "total": 186329.65000000002,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 11 expenditure(s) totaling $135030.76 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Matthew Ciepielowski\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 10 expenditure(s) totaling $51298.89 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Matthew Ciepielowski\" in 2026, role=vendor-payment — sample: \"6/14 to 6/30 Reimbursement for Meals, Car Service, Lodging and Air Travel for Multiple Meetings and Events\""
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "American Express",
+        "total": 181945.71,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $28363.43 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"American Express\" in 2026, role=fundraising-event — sample: \"6/18/2025 Fundraising Reception\"",
+          "Cal-Access EXPN_CD: 31 expenditure(s) totaling $153582.28 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"American Express\" in 2026, role=vendor-payment — sample: \"OFC, TRC and TRS: Sub Vendors on 6/11/25 Payment\""
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Axiom Strategies",
+        "total": 179491.29,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 6 expenditure(s) totaling $22900.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Axiom Strategies\" in 2026, role=literature",
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $155000.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Axiom Strategies\" in 2026, role=consultant"
+        ],
+        "role": "literature"
+      },
+      {
+        "name": "Chase Card Services",
+        "total": 177092.03,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 12 expenditure(s) totaling $177092.03 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Chase Card Services\" in 2026, role=vendor-payment — sample: \"OFC, MTG, CMP, TRS and TRC\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Flo Communications",
+        "total": 131567.15,
+        "count": 4,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $48375.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Flo Communications\" in 2026, role=consultant",
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $23591.14 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Flo Communications\" in 2026, role=web-ads"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Gavin Elwes - Trifilm Pictures LLC",
+        "total": 120345.22,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $117420.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Gavin Elwes - Trifilm Pictures LLC\" in 2026, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2925.22 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Gavin Elwes - Trifilm Pictures LLC\" in 2026, role=staff-travel — sample: \"4/21 to 5/5   Flights for staff travel from New York to Los Angeles\""
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Better Mousetrap Digital",
+        "total": 118267.19,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $117759.69 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Better Mousetrap Digital\" in 2026, role=vendor-payment — sample: \"Digital Advertising\"",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $507.50 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Better Mousetrap Digital\" in 2026, role=fundraising-event"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Blitz Digital Group",
+        "total": 112657.8,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $11601.50 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Blitz Digital Group\" in 2026, role=vendor-payment — sample: \"Digital Advertising\"",
+          "Cal-Access EXPN_CD: 23 expenditure(s) totaling $61240.61 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Blitz Digital Group\" in 2026, role=fundraising-event"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "EyesOver LLC",
+        "total": 112500,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 9 expenditure(s) totaling $112500.00 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"EyesOver LLC\" in 2026, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Kevin Fairbrother",
+        "total": 105165.15,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $9328.42 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Kevin Fairbrother\" in 2026, role=staff-travel — sample: \"4/30 to 5/1 Fuel for Campaign Travel\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $1982.98 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Kevin Fairbrother\" in 2026, role=vendor-payment — sample: \"TRS and MTG\""
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Remington Research Group",
+        "total": 92640.31,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $92640.31 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Remington Research Group\" in 2026, role=campaign-paraphernalia"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Frontline Strategies LLC",
+        "total": 91952.54,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 8 expenditure(s) totaling $91952.54 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Frontline Strategies LLC\" in 2026, role=vendor-payment — sample: \"Digital Advertising\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "eFundraising Connections",
+        "total": 91336.2,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 129 expenditure(s) totaling $42044.43 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"eFundraising Connections\" in 2026, role=campaign-paraphernalia",
+          "Cal-Access EXPN_CD: 116 expenditure(s) totaling $49291.77 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"eFundraising Connections\" in 2026, role=office-expense"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "Amplify 360",
+        "total": 78636.94,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $573.37 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Amplify 360\" in 2026, role=meetings",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $5206.57 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"Amplify 360\" in 2026, role=vendor-payment — sample: \"CNS and OFC\""
+        ],
+        "role": "meetings"
+      },
+      {
+        "name": "David Shames",
+        "total": 70740.63,
+        "count": 3,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2428.69 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"David Shames\" in 2026, role=vendor-payment — sample: \"TRS and OFC: Mileage and Parking\"",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $8368.63 from filer 1480425 (HILTON FOR GOVERNOR 2026; STEVE) to \"David Shames\" in 2026, role=staff-travel — sample: \"Reimbursements: 6/3-11/15 Mileage, Lodging and Parking for Multiple campaign events\""
+        ],
+        "role": "vendor-payment"
+      }
+    ]
+  },
+  "incoming_edge_count": 14989,
+  "outgoing_edge_count": 552,
+  "cycles_active": [
+    "2026"
+  ],
+  "committees_referenced": [
+    "1480425"
+  ],
+  "generated": "2026-05-01T13:41:23.294Z"
+}

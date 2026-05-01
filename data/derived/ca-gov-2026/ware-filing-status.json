@@ -1,0 +1,24 @@
+{
+  "candidate": "Butch Ware",
+  "cycle": "2026",
+  "cal_access_bulk_hits": 0,
+  "cal_access_bulk_sample": [],
+  "fetches": [
+    {
+      "stage": "sos-candidate-list",
+      "status": "unreachable",
+      "code": 404,
+      "length": 50231,
+      "url": "https://www.sos.ca.gov/elections/upcoming-elections/2026-elections/candidates"
+    },
+    {
+      "stage": "cal-access-statewide-list",
+      "status": "blocked-by-cf",
+      "code": 200,
+      "length": 212,
+      "url": "https://cal-access.sos.ca.gov/Campaign/Candidates/list.aspx?session=2025&view=detail&type=Statewide"
+    }
+  ],
+  "interpretation": "Confirms Phase 1 finding: no Cal-Access bulk records for Butch Ware. He has not registered a CA campaign committee that has filed any disclosable contribution/expenditure with the FPPC. This is the structural baseline for the Phase 4 investigation: he is running (or considering running) without the institutional infrastructure that the top 5 candidates have already built.",
+  "generated": "2026-05-01T13:44:27.070Z"
+}

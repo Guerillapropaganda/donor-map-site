@@ -1,0 +1,168 @@
+[
+  {
+    "slug": "becerra",
+    "raised_2026": 5747873,
+    "spent_2026": 0,
+    "donors_2026": 5061,
+    "raised_lifetime": 25528035,
+    "spent_lifetime": 0,
+    "donors_lifetime": 7738,
+    "cycles": [
+      "2018",
+      "2020",
+      "2022",
+      "2026"
+    ],
+    "committees": [
+      "1394091",
+      "1414167",
+      "1454809",
+      "1480025"
+    ]
+  },
+  {
+    "slug": "porter",
+    "raised_2026": 12035226,
+    "spent_2026": 14022733,
+    "donors_2026": 15232,
+    "raised_lifetime": 12035226,
+    "spent_lifetime": 14022733,
+    "donors_lifetime": 15232,
+    "cycles": [
+      "2026"
+    ],
+    "committees": [
+      "1479597"
+    ]
+  },
+  {
+    "slug": "steyer",
+    "raised_2026": 14076563,
+    "spent_2026": 0,
+    "donors_2026": 131,
+    "raised_lifetime": 14076563,
+    "spent_lifetime": 0,
+    "donors_lifetime": 131,
+    "cycles": [
+      "2026"
+    ],
+    "committees": [
+      "1479597",
+      "1485077",
+      "1489677"
+    ]
+  },
+  {
+    "slug": "hilton",
+    "raised_2026": 7725880,
+    "spent_2026": 8931154,
+    "donors_2026": 14989,
+    "raised_lifetime": 7725880,
+    "spent_lifetime": 8931154,
+    "donors_lifetime": 14989,
+    "cycles": [
+      "2026"
+    ],
+    "committees": [
+      "1480425"
+    ]
+  },
+  {
+    "slug": "bianco",
+    "raised_2026": 4471555,
+    "spent_2026": 4246061,
+    "donors_2026": 7324,
+    "raised_lifetime": 4471555,
+    "spent_lifetime": 4246061,
+    "donors_lifetime": 7324,
+    "cycles": [
+      "2026"
+    ],
+    "committees": [
+      "1479095"
+    ]
+  },
+  {
+    "slug": "villaraigosa",
+    "raised_2026": 6096550,
+    "spent_2026": 13804806,
+    "donors_2026": 870,
+    "raised_lifetime": 77638050,
+    "spent_lifetime": 68366143,
+    "donors_lifetime": 20414,
+    "cycles": [
+      "2000",
+      "2002",
+      "2004",
+      "2006",
+      "2008",
+      "2016",
+      "2018",
+      "2020",
+      "2024",
+      "2026"
+    ],
+    "committees": [
+      "1077478",
+      "1230200",
+      "1234344",
+      "1245233",
+      "1250526",
+      "1267602",
+      "1270536",
+      "1275257",
+      "1303063",
+      "1392364",
+      "1404798",
+      "1405973",
+      "1471635"
+    ]
+  },
+  {
+    "slug": "mahan",
+    "raised_2026": 0,
+    "spent_2026": 20089,
+    "donors_2026": 0,
+    "raised_lifetime": 1715292,
+    "spent_lifetime": 2002157,
+    "donors_lifetime": 72,
+    "cycles": [
+      "2024",
+      "2026"
+    ],
+    "committees": [
+      "1473129"
+    ]
+  },
+  {
+    "slug": "thurmond",
+    "raised_2026": 327385,
+    "spent_2026": 701437,
+    "donors_2026": 294,
+    "raised_lifetime": 24207879,
+    "spent_lifetime": 34455292,
+    "donors_lifetime": 3316,
+    "cycles": [
+      "2008",
+      "2010",
+      "2014",
+      "2016",
+      "2018",
+      "2020",
+      "2022",
+      "2024",
+      "2026"
+    ],
+    "committees": [
+      "1268709",
+      "1310055",
+      "1355575",
+      "1373771",
+      "1392488",
+      "1395467",
+      "1414313",
+      "1460345",
+      "1461509"
+    ]
+  }
+]

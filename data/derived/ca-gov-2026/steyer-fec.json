@@ -1,0 +1,259 @@
+{
+  "candidate": "Tom Steyer",
+  "slug": "steyer",
+  "fec_ids": [
+    "P00012716"
+  ],
+  "total_raised_federal": 941,
+  "total_outgoing_federal": 335518397,
+  "incoming_edge_count": 1,
+  "outgoing_edge_count": 361,
+  "unique_donors": 1,
+  "unique_recipients": 360,
+  "sources_seen": [
+    "fec-api",
+    "fec-oppexp"
+  ],
+  "cycles_active": [
+    "2020",
+    "2022"
+  ],
+  "top_50_donors": [
+    {
+      "name": "Mislove, Alan Edward",
+      "total": 941,
+      "count": 1,
+      "evidence": [
+        "fec-body-table: | MISLOVE, ALAN EDWARD | $941 | $0 |"
+      ]
+    }
+  ],
+  "top_25_recipients": [
+    {
+      "name": "BUYING TIME LLC",
+      "total": 186258347,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 89 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "RISING TIDE INTERACTIVE",
+      "total": 77411514,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 80 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "THE MERRILL STRATEGY GROUP",
+      "total": 12602702,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 92 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PAYCHEX",
+      "total": 9575012,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 61 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "American Homes 4 Rent",
+      "total": 7417193,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 77 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CATECOMM",
+      "total": 3401630,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 67 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "FIELDWORKS LLC",
+      "total": 3013844,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 9 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "Anthem PAC",
+      "total": 1874081,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 9 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "ALLEN SCHNASER",
+      "total": 1587636,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "TRIPACTIONS INC.",
+      "total": 1420100,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 83 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "BEACON RESEARCH",
+      "total": 1374985,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 25 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PROGRESS PLEASE LLC",
+      "total": 1127771,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 45 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PATRONAGE",
+      "total": 986346,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 11 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "TOM STEYER PAC",
+      "total": 869690,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2022-2022, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "AB DATA",
+      "total": 700932,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 4 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "SEILER LLP",
+      "total": 690544,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 19 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PRINT FOR PROGRESS",
+      "total": 685470,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 22 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "NORTHWIND STRATEGIES",
+      "total": 643797,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 17 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "GETTHRU",
+      "total": 633634,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 16 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CDW DIRECT",
+      "total": 629784,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 32 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PARAMOUNT GROUP",
+      "total": 626563,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 11 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "UNIONSOURCE.COM",
+      "total": 571071,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 5 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CAPITAL SOLUTIONS-AMERICAN UNIONS EMBROIDERY & SCREENPRINTING",
+      "total": 523354,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 35 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CONCENTRIC ADVISORS INC.",
+      "total": 521581,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 40 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "FIELDWORKS, LLC",
+      "total": 520187,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 1 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    }
+  ],
+  "generated": "2026-05-01T13:42:55.787Z"
+}

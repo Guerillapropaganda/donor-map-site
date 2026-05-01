@@ -1,0 +1,689 @@
+{
+  "candidate": "Matt Mahan",
+  "slug": "mahan",
+  "lifetime": {
+    "total_raised": 1715292,
+    "total_spent": 2002157,
+    "unique_donors": 72,
+    "unique_recipients": 42,
+    "top_50_donors": [
+      {
+        "name": "Christian Larsen",
+        "total": 500000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $500000.00 from \"Christian Larsen\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "TALI Rapaport",
+        "total": 150000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $150000.00 from \"TALI Rapaport\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "American Petroleum & Convenience Store Association Inc.",
+        "total": 120000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 4 receipt(s) totaling $120000.00 from \"American Petroleum & Convenience Store Association Inc.\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Angelenos FOR Hochman FOR DA 2024",
+        "total": 110291.56,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $110291.56 from \"Angelenos FOR Hochman FOR DA 2024\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "SAM Harris",
+        "total": 100000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $100000.00 from \"SAM Harris\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Paq, Inc.",
+        "total": 100000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $100000.00 from \"Paq, Inc.\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Ronny Conway",
+        "total": 100000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $100000.00 from \"Ronny Conway\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "FRAN Mcdermott",
+        "total": 50000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $50000.00 from \"FRAN Mcdermott\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Future Generations Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - Future Generations Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Labor Management Cooperation Committee",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"Labor Management Cooperation Committee\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - California Business Coalition",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - California Business Coalition\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Golden GATE Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - Golden GATE Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Southern California Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - Southern California Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Marin Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - Marin Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Govern FOR California Courage Committee",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"Govern FOR California Courage Committee\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Muhammad Chaudhary",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"Muhammad Chaudhary\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - BAY AREA Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - BAY AREA Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - SAN Francisco Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - SAN Francisco Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "CG Bennington Lp-apartment Management Consultants",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"CG Bennington Lp-apartment Management Consultants\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Santa CRUZ Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - Santa CRUZ Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "JOHN Keller",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"JOHN Keller\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Common Sense Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - Common Sense Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - PALO ALTO Chapter",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"GFC Courage Committee - PALO ALTO Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Hamid Moghadam",
+        "total": 20000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $20000.00 from \"Hamid Moghadam\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "MARC Merrill",
+        "total": 15000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $15000.00 from \"MARC Merrill\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "League OF California Cities",
+        "total": 15000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $15000.00 from \"League OF California Cities\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Dalla Family Stores",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Dalla Family Stores\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Chevron Extra MILE",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Chevron Extra MILE\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "California Association OF Realtors Issues Mobilization Political Action Committee (impac)",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $10000.00 from \"California Association OF Realtors Issues Mobilization Political Action Committee (impac)\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Brian Singerman",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Brian Singerman\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Dalla Dental Group, Inc.",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Dalla Dental Group, Inc.\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "LDKV Management Inc.",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"LDKV Management Inc.\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GALT FUEL Enterprises LLC",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"GALT FUEL Enterprises LLC\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Santa Clara Chapter",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"GFC Courage Committee - Santa Clara Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Cosme Fagundo",
+        "total": 10000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $10000.00 from \"Cosme Fagundo\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Frank Schetter",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $5000.00 from \"Frank Schetter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Patrick Mockler",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $5000.00 from \"Patrick Mockler\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "JOE Lonsdale",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $5000.00 from \"JOE Lonsdale\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "STAN VAN Vleck",
+        "total": 5000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $5000.00 from \"STAN VAN Vleck\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "GFC Courage Committee - Sierra Chapter",
+        "total": 3000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $3000.00 from \"GFC Courage Committee - Sierra Chapter\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "ADAM Lambert",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"ADAM Lambert\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Jamel Perkins",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 1 receipt(s) totaling $2000.00 from \"Jamel Perkins\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Martin Schwartz",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"Martin Schwartz\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "David Sweet",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"David Sweet\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "MATT Gingery",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"MATT Gingery\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "JOHN Worthing",
+        "total": 2000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $2000.00 from \"JOHN Worthing\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Gerry Cohen",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $1000.00 from \"Gerry Cohen\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Danny Hoady",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $1000.00 from \"Danny Hoady\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Timothy Burke",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $1000.00 from \"Timothy Burke\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      },
+      {
+        "name": "Pilar Onate",
+        "total": 1000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access RCPT_CD: 2 receipt(s) totaling $1000.00 from \"Pilar Onate\" to filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) in 2024"
+        ]
+      }
+    ],
+    "top_25_recipients": [
+      {
+        "name": "Storefront Political Media",
+        "total": 964372.84,
+        "count": 8,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $2177.59 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Storefront Political Media\" in 2024, role=staff-travel",
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $1440.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Storefront Political Media\" in 2024, role=fundraising-event — sample: \"SEE SCHEDULE G\""
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "META",
+        "total": 359077.47,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 11 expenditure(s) totaling $359077.47 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"META\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "X Corp.",
+        "total": 271532.43,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 11 expenditure(s) totaling $271532.43 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"X Corp.\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Google",
+        "total": 60888.53,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 12 expenditure(s) totaling $60888.53 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Google\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Stenhouse Strategies, Inc.",
+        "total": 60050.54,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $60050.54 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Stenhouse Strategies, Inc.\" in 2024, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "JIM REED",
+        "total": 59334,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $59334.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"JIM REED\" in 2024, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "THE Trade DESK",
+        "total": 49305.78,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $49305.78 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"THE Trade DESK\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Youtube",
+        "total": 48572.81,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $48572.81 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Youtube\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Rutan & Tucker LLP",
+        "total": 39122.15,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $20510.11 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Rutan & Tucker LLP\" in 2024, role=professional",
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $18612.04 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Rutan & Tucker LLP\" in 2026, role=professional"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "Justin Kramer",
+        "total": 36235.37,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $36235.37 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Justin Kramer\" in 2024, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Numero, Inc.",
+        "total": 16630.93,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 25 expenditure(s) totaling $12964.93 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Numero, Inc.\" in 2024, role=office-expense",
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $3666.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Numero, Inc.\" in 2024, role=web-ads"
+        ],
+        "role": "office-expense"
+      },
+      {
+        "name": "Barbara Bernard",
+        "total": 12000,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $12000.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Barbara Bernard\" in 2024, role=consultant"
+        ],
+        "role": "consultant"
+      },
+      {
+        "name": "Cloud Hunter LLC",
+        "total": 7200,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $7200.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Cloud Hunter LLC\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "MAX Medina",
+        "total": 2726.5,
+        "count": 2,
+        "evidence": [
+          "Cal-Access EXPN_CD: 4 expenditure(s) totaling $2626.50 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"MAX Medina\" in 2024, role=vendor-payment — sample: \"GRAPHIC DESIGN\"",
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $100.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"MAX Medina\" in 2024, role=professional"
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Elmets Communications",
+        "total": 2313.14,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $2313.14 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Elmets Communications\" in 2024, role=fundraising-event"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Sacramento Production Services, Inc.",
+        "total": 2313.14,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $2313.14 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Sacramento Production Services, Inc.\" in 2024, role=fundraising-event"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "Charles Preston",
+        "total": 1595,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $1595.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Charles Preston\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "Pacific Print Resources",
+        "total": 1529.5,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 3 expenditure(s) totaling $1529.50 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Pacific Print Resources\" in 2024, role=campaign-paraphernalia"
+        ],
+        "role": "campaign-paraphernalia"
+      },
+      {
+        "name": "CITY OF SAN JOSE Department OF Parks, Recreation AND Neighborhood Services",
+        "total": 1440,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $1440.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"CITY OF SAN JOSE Department OF Parks, Recreation AND Neighborhood Services\" in 2024, role=fundraising-event"
+        ],
+        "role": "fundraising-event"
+      },
+      {
+        "name": "MATT Mahan",
+        "total": 1260.56,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 16 expenditure(s) totaling $1260.56 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"MATT Mahan\" in 2026, role=candidate-travel — sample: \"TRC, TWO GUESTS, 9/6/24, WORKING LUNCH, LANGER'S DELI\""
+        ],
+        "role": "candidate-travel"
+      },
+      {
+        "name": "Southwest Airlines",
+        "total": 649.95,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $649.95 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Southwest Airlines\" in 2024, role=vendor-payment — sample: \"TRS; ONE GUEST, 10/16/24, AIRFARE TO AND FROM WORKING MEETING, UBER\""
+        ],
+        "role": "vendor-payment"
+      },
+      {
+        "name": "Curtis Jaeger",
+        "total": 600,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $600.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Curtis Jaeger\" in 2024, role=web-ads"
+        ],
+        "role": "web-ads"
+      },
+      {
+        "name": "THE Lodge AT Sonoma Resort",
+        "total": 519.08,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $519.08 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"THE Lodge AT Sonoma Resort\" in 2024, role=candidate-travel"
+        ],
+        "role": "candidate-travel"
+      },
+      {
+        "name": "Enterprise Holdings, Inc.",
+        "total": 501.2,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 2 expenditure(s) totaling $501.20 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Enterprise Holdings, Inc.\" in 2024, role=staff-travel"
+        ],
+        "role": "staff-travel"
+      },
+      {
+        "name": "Kcalphotography LLC",
+        "total": 450,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $450.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Kcalphotography LLC\" in 2024, role=professional"
+        ],
+        "role": "professional"
+      }
+    ]
+  },
+  "cycle_2026": {
+    "total_raised": 0,
+    "total_spent": 20089,
+    "unique_donors": 0,
+    "unique_recipients": 3,
+    "top_50_donors": [],
+    "top_25_recipients": [
+      {
+        "name": "Rutan & Tucker LLP",
+        "total": 18612.04,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 5 expenditure(s) totaling $18612.04 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Rutan & Tucker LLP\" in 2026, role=professional"
+        ],
+        "role": "professional"
+      },
+      {
+        "name": "MATT Mahan",
+        "total": 1260.56,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 16 expenditure(s) totaling $1260.56 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"MATT Mahan\" in 2026, role=candidate-travel — sample: \"TRC, TWO GUESTS, 9/6/24, WORKING LUNCH, LANGER'S DELI\""
+        ],
+        "role": "candidate-travel"
+      },
+      {
+        "name": "Storefront Political Media",
+        "total": 216,
+        "count": 1,
+        "evidence": [
+          "Cal-Access EXPN_CD: 1 expenditure(s) totaling $216.00 from filer 1473129 (MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT) to \"Storefront Political Media\" in 2026, role=web-ads"
+        ],
+        "role": "web-ads"
+      }
+    ]
+  },
+  "incoming_edge_count": 72,
+  "outgoing_edge_count": 52,
+  "cycles_active": [
+    "2024",
+    "2026"
+  ],
+  "committees_referenced": [
+    "1473129"
+  ],
+  "generated": "2026-05-01T13:41:23.307Z"
+}

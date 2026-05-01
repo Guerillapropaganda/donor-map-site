@@ -23,6 +23,9 @@ source-types:
   - Congress
 state: California
 state-abbr: CA
+fppc-committee-id: "1479095"
+fppc-committee-name: "BIANCO FOR GOVERNOR 2026"
+fppc-committee-cycle: "2026"
 ---
 
 

@@ -1,0 +1,84 @@
+{
+  "generated": "2026-05-01T15:24:39.474Z",
+  "fetches": [
+    {
+      "url": "https://find-and-update.company-information.service.gov.uk/company/10133929/filing-history",
+      "status": "ok",
+      "code": 200,
+      "bytes": 51693
+    },
+    {
+      "url": "https://find-and-update.company-information.service.gov.uk/search/officers?q=omid+kordestani",
+      "status": "ok",
+      "code": 200,
+      "bytes": 10947
+    },
+    {
+      "url": "https://find-and-update.company-information.service.gov.uk/search/officers?q=gisel+kordestani",
+      "status": "ok",
+      "code": 200,
+      "bytes": 10999
+    },
+    {
+      "url": "https://hansard.parliament.uk/Commons/2010-07-19/debates",
+      "status": "blocked-by-cf",
+      "code": 403,
+      "bytes": 5745
+    }
+  ],
+  "q3_crowdpac_dissolution_reason": {
+    "status": "fetched",
+    "bytes": 51693,
+    "filing_form_codes_found": [
+      "GAZ2                ",
+      "LIQ13                ",
+      "LIQ01                "
+    ],
+    "accounts_form_codes": [
+      "AA                "
+    ],
+    "dissolution_cause_snippets": [
+      {
+        "pattern": "/winding[- ]up/i",
+        "snippet": "ng-type sft-toggled js-hidden\"> LIQ13 Return of final meeting in a members&#39; voluntary winding up "
+      }
+    ],
+    "filing_row_samples": [
+      "16 Sep 2020 GAZ2 Final Gazette dissolved following liquidation View PDF Final Gazette dissolved following liquidation - link opens in a new window - 1 page (1 page)",
+      "16 Jun 2020 LIQ13 Return of final meeting in a members&#39; voluntary winding up View PDF Return of final meeting in a members&#39; voluntary winding up - link opens in a new window - 13 pages (13 pages)",
+      "17 Jun 2019 LIQ01 Declaration of solvency View PDF Declaration of solvency - link opens in a new window - 5 pages (5 pages)",
+      "29 May 2019 AD01 Registered office address changed from C/O Mofo Notices, Citypoint 1 Ropemaker Street London EC2Y 9AW to 3 Field Court London WC1R 5EF on 29 May 2019 View PDF Registered office address changed from C/O Mofo Notices, Citypoint 1 Ropem",
+      "25 May 2019 600 Appointment of a voluntary liquidator View PDF Appointment of a voluntary liquidator - link opens in a new window - 3 pages (3 pages)",
+      "25 May 2019 RESOLUTIONS Resolutions LRESSP &#8208; Special resolution to wind up on 2019-05-01 View PDF Resolutions LRESSP &#8208; Special resolution to wind up on 2019-05-01 - link opens in a new window - 1 page (1 page)",
+      "26 Sep 2018 AA Total exemption full accounts made up to 31 December 2017 View PDF Total exemption full accounts made up to 31 December 2017 - link opens in a new window - 9 pages (9 pages) Download iXBRL",
+      "25 Sep 2018 TM01 Termination of appointment of Paul Michael Hilder as a director on 20 September 2018 View PDF Termination of appointment of Paul Michael Hilder as a director on 20 September 2018 - link opens in a new window - 1 page (1 page)",
+      "25 Sep 2018 TM01 Termination of appointment of Stephen Glenn Charles Hilton as a director on 14 May 2018 View PDF Termination of appointment of Stephen Glenn Charles Hilton as a director on 14 May 2018 - link opens in a new window - 1 page (1 page)",
+      "02 May 2018 CS01 Confirmation statement made on 18 April 2018 with no updates View PDF Confirmation statement made on 18 April 2018 with no updates - link opens in a new window - 3 pages (3 pages)",
+      "04 Oct 2017 AA Accounts for a small company made up to 31 December 2016 View PDF Accounts for a small company made up to 31 December 2016 - link opens in a new window - 6 pages (6 pages)",
+      "02 May 2017 CS01 Confirmation statement made on 18 April 2017 with updates View PDF Confirmation statement made on 18 April 2017 with updates - link opens in a new window - 5 pages (5 pages)",
+      "12 Dec 2016 AA01 Current accounting period shortened from 30 April 2017 to 31 December 2016 View PDF Current accounting period shortened from 30 April 2017 to 31 December 2016 - link opens in a new window - 3 pages (3 pages)",
+      "19 Apr 2016 NEWINC Incorporation Statement of capital on 2016-04-19 GBP 1 View PDF Incorporation Statement of capital on 2016-04-19 GBP 1 - link opens in a new window - 45 pages (45 pages)"
+    ],
+    "dormant_mentions": 0,
+    "verdict": "Reason unclear from initial parse — needs human review of filing history"
+  },
+  "q7_crowdpac_financials": null,
+  "q2_kordestani_relationship": {
+    "status": "fetched",
+    "bytes": 10947,
+    "omid_present": true,
+    "kordestani_results": 19,
+    "sample_context": "{\"items\":[{\"address\":{\"postal_code\":\"SE1 7ND\",\"country\":\"England\",\"address_line_1\":\"York Road\",\"premises\":\"10\",\"locality\":\"London\"},\"address_snippet\":\"10 York Road, London, England, SE1 7ND\",\"links\":{\"self\":\"/officers/QZPQvedCoz49KnDw9F08OaRxKz0/appointments\"},\"snippet\":\"\",\"kind\":\"searchresults#officer\",\"description\":\"Total number of appointments 1 - Born October 1963\",\"title\":\"Omid KORDESTANI\",\"matches\":{\"snippet\":[]},\"appointment_count\":1,\"date_of_birth\":\"October 1963\",\"description_identifiers\":[\"appointment-count\",\"born-on\"]},{\"date_of_birth\":\"October 1963\",\"description_identifiers\":[\"appointment-count\",\"born-on\"],\"appointment_count\":3,\"matches\":{\"snippet\":[]},\"title\":\"Omid KORDESTANI\",\"description\":\"Total number of appointments 3 - Born October 1963\",\"kind\":\"searchresults",
+    "verdict": "Omid Kordestani DOES have UK director records — Gisel-to-Omid linkage strengthened (still need direct family-relationship source)",
+    "gisel_search": {
+      "status": "fetched",
+      "bytes": 10999,
+      "results_text": "{\"items\":[{\"matches\":{\"snippet\":[]},\"appointment_count\":1,\"address\":{\"address_line_1\":\"Field Court\",\"postal_code\":\"WC1R 5EF\",\"premises\":\"3\",\"locality\":\"London\"},\"address_snippet\":\"3 Field Court, London, WC1R 5EF\",\"kind\":\"searchresults#officer\",\"snippet\":\"\",\"description\":\"Total number of appointments 1 - Born June 1974\",\"description_identifiers\":[\"appointment-count\",\"born-on\"],\"date_of_birth\":\"June 1974\",\"links\":{\"self\":\"/officers/txb_1193M8QEkyo4tLbX_fDr_Zs/appointments\"},\"title\":\"Gisel Lynn KORDESTANI\"},{\"links\":{\"self\":\"/officers/az1yTD0zg0Xbicv8f8z-b1afsVo/appointments\"},\"title\":\"Gisel Lynn KORDESTANI\",\"description_identifiers\":[\"appointment-count\",\"born-on\"],\"date_of_birth\":\"June 1974\",\"description\":\"Total number of appointments 1 - Born June 1974\",\"snippet\":\"\",\"address_snippet\":\"96/3, Commercial Quay, Edinburgh, Scotland, EH6 6LX\",\"kind\":\"searchresults#officer\",\"address\":{\"address_line_1\":\"Commercial Quay\",\"postal_code\":\"EH6 6LX\",\"country\":\"Scotland\",\"premises\":\"96/3\",\"locality\":\"Edinburgh\"},\"appointment_count\":1,\"matches\":{\"snippet\":[]}},{\"description\":\"Total numb"
+    }
+  },
+  "q8_hansard_alt_path": {
+    "status": "blocked-by-cf",
+    "code": 403,
+    "verdict": "Hansard archive pages also CF-protected. Defer to David browser-based research per ADR-0030 prior pattern."
+  }
+}

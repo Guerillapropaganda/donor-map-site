@@ -1,0 +1,273 @@
+{
+  "candidate": "Katie Porter",
+  "slug": "porter",
+  "fec_ids": [
+    "S4CA00522",
+    "H8CA45130",
+    "C00636571",
+    "C00831107"
+  ],
+  "total_raised_federal": 21619,
+  "total_outgoing_federal": 63506238,
+  "incoming_edge_count": 3,
+  "outgoing_edge_count": 103,
+  "unique_donors": 2,
+  "unique_recipients": 90,
+  "sources_seen": [
+    "fec-bulk",
+    "fec-oppexp"
+  ],
+  "cycles_active": [
+    "2018",
+    "2020",
+    "2022",
+    "2024",
+    "2026"
+  ],
+  "top_50_donors": [
+    {
+      "name": "League of Conservation Voters",
+      "total": 21601,
+      "count": 2,
+      "evidence": [
+        "FEC PAS2 bulk: 1 transactions totaling $50 in cycle 2024"
+      ]
+    },
+    {
+      "name": "J Street",
+      "total": 18,
+      "count": 1,
+      "evidence": [
+        "FEC PAS2 bulk: 1 transactions totaling $18 in cycle 2024"
+      ]
+    }
+  ],
+  "top_25_recipients": [
+    {
+      "name": "SCREEN STRATEGIES MEDIA",
+      "total": 28435610,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2024-2024, 10 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "MIDDLE SEAT",
+      "total": 10729146,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 98 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "GMMB",
+      "total": 3856075,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2018-2018, 22 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "WAVELENGTH STRATEGY, LLC",
+      "total": 3194942,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2022-2022, 12 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "RWT PRODUCTION, LLC",
+      "total": 3034224,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2024-2024, 29 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "MISSION CONTROL, INC.",
+      "total": 1518753,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2022-2022, 21 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "ActBlue",
+      "total": 1361275,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 86 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "PAYROLL DATA PROCESSING",
+      "total": 1291941,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2024, 112 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "American Homes 4 Rent",
+      "total": 781948,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2024-2024, 11 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "WAVELENGTH STRATEGY, INC.",
+      "total": 620700,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 5 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "INTERNAL REVENUE SERVICE",
+      "total": 586485,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2024-2026, 2 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "David McIntosh",
+      "total": 572450,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2022-2022, 9 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "DIXONDAVIS MEDIA GROUP, LLC",
+      "total": 478031,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 6 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "SCN STRATEGIES, INC.",
+      "total": 468575,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2018-2018, 8 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "MEYER BORST, KATHARINE",
+      "total": 409500,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2018-2022, 36 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "SAGUARO STRATEGIES, LLC",
+      "total": 368360,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2020, 21 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "TRUE BLUE ANALYTICS, LLC",
+      "total": 356000,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2022-2022, 19 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "OPRO, LLC",
+      "total": 335760,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2018-2020, 7 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "NGP VAN, INC.",
+      "total": 329700,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2024, 40 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "BF DIRECT, LLC",
+      "total": 313000,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 25 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "CHS MAILING, INC.",
+      "total": 258152,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2022, 15 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "TATANGO",
+      "total": 230275,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2024-2024, 35 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "FRANCHISE TAX BOARD",
+      "total": 228234,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2024-2026, 3 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "SWITCHBOARD PUBLIC BENEFIT CORP.",
+      "total": 227127,
+      "count": 2,
+      "evidence": [
+        "FEC oppexp, 2024-2024, 8 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    },
+    {
+      "name": "MBA CONSULTING GROUP",
+      "total": 224665,
+      "count": 1,
+      "evidence": [
+        "FEC oppexp, 2020-2024, 30 disbursements, category=n/a"
+      ],
+      "role": "operating-expense"
+    }
+  ],
+  "generated": "2026-05-01T13:42:55.786Z"
+}

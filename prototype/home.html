@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Donor Map</title>
+<meta name="description" content="I name the donors. I map the money. I show the contradictions.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav strip ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+  transition: border-color 0.15s ease;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+
+/* ─── Hero ─── */
+.hero {
+  padding: 100px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.hero-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 96px;
+  letter-spacing: -4px;
+  line-height: 0.95;
+  margin-bottom: 28px;
+}
+.hero h1 .a { display: block; }
+.hero h1 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -2px;
+}
+.hero .tagline {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 36px;
+  line-height: 1.25;
+  color: var(--ink);
+  max-width: 780px;
+  margin-bottom: 48px;
+  border-left: 4px solid var(--black);
+  padding-left: 28px;
+}
+.hero .tagline strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 6px;
+}
+.hero .mission {
+  font-family: 'Inter', sans-serif;
+  font-size: 19px;
+  line-height: 1.6;
+  color: var(--ink);
+  max-width: 720px;
+}
+.hero .mission strong {
+  font-weight: 700;
+}
+
+/* ─── Featured beat section ─── */
+.featured {
+  padding: 80px 32px;
+  border-bottom: 2px solid var(--black);
+}
+.featured-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.section-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+.beat-card {
+  display: grid;
+  grid-template-columns: 380px 1fr;
+  gap: 48px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+  padding: 40px;
+  text-decoration: none;
+  color: var(--ink);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.beat-card:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 6px 6px 0 var(--black);
+}
+.beat-card .visual {
+  background: var(--cream);
+  border: 2px solid var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  min-height: 280px;
+}
+.beat-card .visual svg {
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+}
+.beat-card .meta {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.beat-card .meta .date { margin-right: 16px; }
+.beat-card .meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 3px 10px;
+}
+.beat-card h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.05;
+  letter-spacing: -1.5px;
+  margin-bottom: 16px;
+}
+.beat-card h2 .h-red { background: var(--red); color: #fff; padding: 0 6px; }
+.beat-card .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 22px;
+  line-height: 1.35;
+  color: var(--ink);
+  margin-bottom: 24px;
+}
+.beat-card .read-more {
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--black);
+  padding-bottom: 4px;
+  display: inline-block;
+}
+
+/* ─── More beats grid (placeholder) ─── */
+.more-beats {
+  padding: 80px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.more-beats-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.more-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  margin-top: 24px;
+}
+.beat-mini {
+  background: var(--cream);
+  border: 2px solid var(--black);
+  padding: 28px;
+  font-family: 'Inter', sans-serif;
+}
+.beat-mini.placeholder {
+  background: transparent;
+  border: 2px dashed var(--line-strong);
+  color: var(--muted);
+  font-style: italic;
+}
+.beat-mini .meta-mini {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.beat-mini h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.1;
+  letter-spacing: -0.5px;
+  margin-bottom: 10px;
+}
+.beat-mini .placeholder-text {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.4;
+  color: var(--muted);
+}
+
+/* ─── Footer ─── */
+.footer {
+  padding: 60px 32px 80px;
+  background: var(--black);
+  color: var(--cream);
+}
+.footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 48px;
+}
+.footer h4 {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--yellow);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--cream);
+  margin-bottom: 12px;
+}
+.footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.footer p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #ccc;
+  margin-bottom: 14px;
+}
+.footer ul { list-style: none; }
+.footer ul li { margin-bottom: 10px; }
+.footer ul li a {
+  color: var(--cream);
+  text-decoration: none;
+  font-size: 14px;
+  border-bottom: 1px solid #555;
+}
+.footer ul li a:hover { border-bottom-color: var(--yellow); }
+.footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #888;
+  letter-spacing: 1px;
+  margin-top: 32px;
+  padding-top: 20px;
+  border-top: 1px solid #333;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .hero h1 { font-size: 56px; letter-spacing: -2px; }
+  .hero .tagline { font-size: 22px; }
+  .beat-card { grid-template-columns: 1fr; gap: 24px; padding: 28px; }
+  .beat-card h2 { font-size: 30px; }
+  .more-grid { grid-template-columns: 1fr; }
+  .footer-inner { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/class-traitor">Investigations</a>
+      <a href="#about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Hero ─── -->
+<section class="hero">
+  <div class="hero-inner">
+    <h1>
+      <span class="a">The Donor</span>
+      <span class="a"><em>Map.</em></span>
+    </h1>
+    <p class="tagline">
+      I name <strong>the donors</strong>. I map <strong>the money</strong>. I show <strong>the contradictions</strong>.
+    </p>
+    <p class="mission">
+      The Donor Map is one person following political money. One race at a time. Every donation pulled from primary-source filings. Every donor named. Every contradiction shown.
+    </p>
+  </div>
+</section>
+
+<!-- ─── Featured beat ─── -->
+<section class="featured">
+  <div class="featured-inner">
+    <div class="section-label">Latest investigation</div>
+    <a href="/class-traitor" class="beat-card">
+      <div class="visual">
+        <!-- Inline daisy-chain SVG: 5 industries → 1489677 → Steyer attack -->
+        <svg viewBox="0 0 360 240" xmlns="http://www.w3.org/2000/svg" aria-label="Anti-Steyer money flow diagram">
+          <defs>
+            <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+            </marker>
+          </defs>
+          <!-- Left column: 5 industries -->
+          <g font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#1a1a1a">
+            <rect x="6" y="14" width="120" height="28" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
+            <text x="66" y="32" text-anchor="middle">PG&amp;E ($10M)</text>
+
+            <rect x="6" y="54" width="120" height="28" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
+            <text x="66" y="72" text-anchor="middle">CA REALTORS ($5M)</text>
+
+            <rect x="6" y="94" width="120" height="28" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
+            <text x="66" y="112" text-anchor="middle">CA CHAMBER ($5M)</text>
+
+            <rect x="6" y="134" width="120" height="28" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
+            <text x="66" y="152" text-anchor="middle">DEVELOPERS ($1M)</text>
+
+            <rect x="6" y="174" width="120" height="28" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
+            <text x="66" y="192" text-anchor="middle">PRISON GUARDS ($25K)</text>
+          </g>
+
+          <!-- Center: anti-Steyer committee -->
+          <rect x="160" y="80" width="100" height="80" fill="#0a0a0a"/>
+          <text x="210" y="116" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" fill="#fbbf24">$21M</text>
+          <text x="210" y="130" text-anchor="middle" font-family="Space Mono, monospace" font-size="8" font-weight="700" fill="#fff">ANTI-STEYER</text>
+          <text x="210" y="142" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#aaa">COMMITTEE</text>
+
+          <!-- Right: target -->
+          <rect x="290" y="100" width="64" height="40" fill="#e63946"/>
+          <text x="322" y="122" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" fill="#fff">STEYER</text>
+          <text x="322" y="135" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#fff">TARGETED</text>
+
+          <!-- Arrows: industries → committee -->
+          <line x1="126" y1="28"  x2="160" y2="105" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow)"/>
+          <line x1="126" y1="68"  x2="160" y2="113" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow)"/>
+          <line x1="126" y1="108" x2="160" y2="120" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow)"/>
+          <line x1="126" y1="148" x2="160" y2="128" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow)"/>
+          <line x1="126" y1="188" x2="160" y2="135" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+          <!-- Arrow: committee → target -->
+          <line x1="260" y1="120" x2="290" y2="120" stroke="#e63946" stroke-width="2" marker-end="url(#arrow)"/>
+        </svg>
+      </div>
+      <div class="content">
+        <div class="meta">
+          <span class="date">May 1, 2026</span>
+          <span class="tag">CA Gov 2026</span>
+        </div>
+        <h2>$31 million to bury <span class="h-red">a class traitor</span>.</h2>
+        <p class="deck">
+          California's donor class organized against him: utility, realtors, chamber, developers, prison guards. The only billionaire in the race willing to break with them.
+        </p>
+        <span class="read-more">Read the receipts →</span>
+      </div>
+    </a>
+  </div>
+</section>
+
+<!-- ─── More beats (placeholder slots) ─── -->
+<section class="more-beats">
+  <div class="more-beats-inner">
+    <div class="section-label">More investigations</div>
+    <div class="more-grid">
+      <div class="beat-mini placeholder">
+        <div class="meta-mini">Coming soon</div>
+        <h3 style="color: var(--muted);">Becerra &amp; the regulator-to-funded pipeline</h3>
+        <p class="placeholder-text">The HHS Secretary now backed by the company he regulated.</p>
+      </div>
+      <div class="beat-mini placeholder">
+        <div class="meta-mini">Coming soon</div>
+        <h3 style="color: var(--muted);">Silicon Valley's deployed candidate</h3>
+        <p class="placeholder-text">$0 from voters. $8M from billionaires. Same campaign.</p>
+      </div>
+      <div class="beat-mini placeholder">
+        <div class="meta-mini">Coming soon</div>
+        <h3 style="color: var(--muted);">The crypto industry hedge</h3>
+        <p class="placeholder-text">One donor. Two parties. Same race.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── Footer ─── -->
+<footer class="footer" id="about">
+  <div class="footer-inner">
+    <div>
+      <div class="brand-footer">THE DONOR <em>Map.</em></div>
+      <p>One person following political money. Every donation pulled from primary-source filings. Every donor named. Every contradiction shown.</p>
+      <p>No paywall. No corporate owner. No editorial pressure from the people being investigated.</p>
+    </div>
+    <div>
+      <h4>Investigations</h4>
+      <ul>
+        <li><a href="/class-traitor">$31M to bury a class traitor</a></li>
+        <li><a href="#">Coming soon</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Connect</h4>
+      <ul>
+        <li><a href="#">Newsletter</a></li>
+        <li><a href="#">Bluesky</a></li>
+        <li><a href="#">Tip line</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="small">All data verified against primary-source filings · thedonormap.org</div>
+</footer>
+
+</body>
+</html>

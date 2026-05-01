@@ -265,6 +265,45 @@ const CHECKS = [
     timeout_ms: 60000,
     queue: { bucket: 'deciding', leverage: 3, cost_min: 60 },
   },
+  // ─── Phase 5 librarian-data-quality checks (added 2026-05-01) ─────
+  // Surfaced from CA Gov 2026 dossier work where bulk-derived edges
+  // produced multiple wrong findings (Steyer self-fund undercount,
+  // PG&E duplicate-count, opposition-committee direction misattribution,
+  // amended-filing cycle misattribution). Each check audits one
+  // failure mode in the cal-access-bulk ingestion or the dossier-
+  // extraction layer that consumes it.
+  {
+    name: 'cycle-divergence',
+    description: 'Cal-Access RCPT records where RCPT_DATE (filing date) and DATE_THRU (transaction date) diverge by >1 cycle. Pre-fix librarian misattributed cycle on these. Re-ingest with cycleAttribution() helper to fix.',
+    cmd: ['node', 'scripts/cycle-divergence-check.cjs', '--json'],
+    parse: parseGenericFindings,
+    timeout_ms: 600000,  // scans full 19M-row RCPT_CD bulk
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 10 },
+  },
+  {
+    name: 'opposition-committee-direction',
+    description: 'FPPC opposition committees ("NO ON [CANDIDATE]") audited against override-file role classification + librarian edge consistency. Detects pipeline-side override gaps + librarian-side direction-flow leaks.',
+    cmd: ['node', 'scripts/opposition-committee-direction-check.cjs', '--json'],
+    parse: parseGenericFindings,
+    timeout_ms: 60000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 10 },
+  },
+  {
+    name: 'donor-name-clustering',
+    description: 'Donor names in cal-access-bulk that cluster to the same normalized form across ≥2 raw variants but are NOT in the alias map. Each finding suggests a missed alias-merge that produces duplicate counting in dossier extracts.',
+    cmd: ['node', 'scripts/donor-name-clustering-check.cjs', '--json'],
+    parse: parseGenericFindings,
+    timeout_ms: 60000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 10 },
+  },
+  {
+    name: 'self-fund-integration',
+    description: 'Candidates with self-fund records in cal-access-self-funding.jsonl whose profile auto-blocks may not surface the self-fund total. Reading librarian-derived bulk only would undercount fundraising for these candidates.',
+    cmd: ['node', 'scripts/self-fund-integration-check.cjs', '--json'],
+    parse: parseGenericFindings,
+    timeout_ms: 60000,
+    queue: { bucket: 'compounding', leverage: 2, cost_min: 10 },
+  },
   {
     name: 'dispatcher-alive',
     description: 'Attention Queue dispatcher daemon liveness — log freshness during expected-uptime window',
@@ -431,6 +470,23 @@ function parseNoteAutoResolver(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'Resolver parse failed.' };
+  }
+}
+
+// Generic parser for checks that emit { check, findings_count, interpretation, ... }
+// in --json mode. Used by Phase 5 librarian-data-quality checks (cycle-
+// divergence, opposition-committee-direction, donor-name-clustering,
+// self-fund-integration).
+function parseGenericFindings(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    const total = j.findings_count || 0;
+    return {
+      findings_count: total,
+      notes: j.interpretation || (total === 0 ? 'Clean.' : `${total} finding(s).`),
+    };
+  } catch {
+    return { findings_count: 0, notes: 'generic check parse failed' };
   }
 }
 

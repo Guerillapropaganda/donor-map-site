@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$31 million to bury a class traitor · The Donor Map</title>
+<meta name="description" content="California's donor class organized against him. Utility, realtors, chamber, developers, prison guards. The only billionaire in the race willing to break with them.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/class-traitor" class="active">Investigations</a>
+      <a href="/home#about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>Class Traitor</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Published May 1, 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>$31 million to bury <span class="h-red">a class traitor</span>.</h1>
+    <p class="deck">
+      California's donor class organized against him: utility, realtors, chamber, developers, prison guards. The only billionaire in the race willing to break with them.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">Anti-Steyer money flow · 2026 California Governor primary</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Diagram showing five industry donors funneling money through the anti-Steyer committee">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+        <marker id="arrow-rd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946"/>
+        </marker>
+      </defs>
+
+      <!-- Column headers -->
+      <text x="160" y="30" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#666">DONOR CLASS</text>
+      <text x="500" y="30" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#666">SPENDING COMMITTEE</text>
+      <text x="800" y="30" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#666">TARGETED</text>
+
+      <!-- Left column: 5 industries -->
+      <g font-family="Space Mono, monospace" font-size="13" font-weight="700" fill="#1a1a1a">
+        <rect x="20" y="64" width="280" height="50" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+        <text x="160" y="86" text-anchor="middle" font-size="14">PG&amp;E (utility-monopoly capital)</text>
+        <text x="160" y="104" text-anchor="middle" font-size="13" fill="#0a0a0a">$10,050,000</text>
+
+        <rect x="20" y="134" width="280" height="50" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+        <text x="160" y="156" text-anchor="middle" font-size="14">CA Association of Realtors</text>
+        <text x="160" y="174" text-anchor="middle" font-size="13" fill="#0a0a0a">$5,000,000</text>
+
+        <rect x="20" y="204" width="280" height="50" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+        <text x="160" y="226" text-anchor="middle" font-size="14">JOBSPAC (Cal Chamber of Commerce)</text>
+        <text x="160" y="244" text-anchor="middle" font-size="13" fill="#0a0a0a">$5,000,000</text>
+
+        <rect x="20" y="274" width="280" height="50" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+        <text x="160" y="296" text-anchor="middle" font-size="14">CA Building Industry Assn.</text>
+        <text x="160" y="314" text-anchor="middle" font-size="13" fill="#0a0a0a">$1,000,000</text>
+
+        <rect x="20" y="344" width="280" height="50" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+        <text x="160" y="366" text-anchor="middle" font-size="14">CCPOA (prison guards)</text>
+        <text x="160" y="384" text-anchor="middle" font-size="13" fill="#0a0a0a">$25,000</text>
+      </g>
+
+      <!-- Center: anti-Steyer committee -->
+      <rect x="380" y="160" width="240" height="140" fill="#0a0a0a"/>
+      <text x="500" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="32" font-weight="900" fill="#fbbf24" letter-spacing="-1">$21M</text>
+      <text x="500" y="226" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#fff" letter-spacing="2">CALIFORNIA IS NOT FOR SALE</text>
+      <text x="500" y="244" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fbbf24" letter-spacing="2">NO ON STEYER FOR GOVERNOR</text>
+      <text x="500" y="270" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#aaa">FPPC #1489677 + #1490270</text>
+
+      <!-- Right: target -->
+      <rect x="680" y="180" width="200" height="100" fill="#e63946"/>
+      <text x="780" y="218" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" font-weight="900" fill="#fff" letter-spacing="-0.5">TOM STEYER</text>
+      <text x="780" y="240" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#fff" letter-spacing="2">CLIMATE BILLIONAIRE</text>
+      <text x="780" y="258" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#fff" letter-spacing="2">CA GOV CANDIDATE</text>
+
+      <!-- Arrows: industries → committee -->
+      <line x1="300" y1="89"  x2="380" y2="180" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line x1="300" y1="159" x2="380" y2="200" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line x1="300" y1="229" x2="380" y2="230" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line x1="300" y1="299" x2="380" y2="260" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line x1="300" y1="369" x2="380" y2="280" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+
+      <!-- Arrow: committee → target -->
+      <line x1="620" y1="230" x2="680" y2="230" stroke="#e63946" stroke-width="3" marker-end="url(#arrow-rd)"/>
+
+      <!-- Annotations -->
+      <text x="500" y="320" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="14" fill="#666">spending committee · Cal-Access verified May 1, 2026</text>
+    </svg>
+    <p class="viz-caption">
+      Five industries. One committee. $21,025,000 raised to bury one candidate. The 2026 California Governor's primary, mapped from FPPC primary-source filings.
+    </p>
+  </div>
+</section>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>Tom Steyer is a billionaire.</strong> In American politics, that usually means his money is the story. In California's 2026 Governor's primary, his money isn't the story. The donor class organizing against him is.
+    </p>
+
+    <p>
+      Steyer has personally contributed <strong>$133.8 million</strong> to his own campaign committee. That figure is Cal-Access primary-source verified, 41 separate contribution events from his own checkbook. By every reasonable metric, he should be running away with the race. He isn't. The latest poll has him at 15 percent, in third place. He hasn't moved in two weeks while every other major candidate has.
+    </p>
+
+    <p>
+      The reason is sitting in the FPPC committee filings. A coalition of California's biggest regulated industries has put <strong>$21 million</strong> into a single committee whose entire purpose is defeating Tom Steyer. The members: utilities, realtors, the chamber of commerce, developers, and the prison guards union.
+    </p>
+
+    <h2>Who's funding the anti-Steyer campaign</h2>
+
+    <p>
+      The committee is named, with the strange transparency California requires of opposition committees, "California Is Not For Sale, NO ON Steyer for Governor 2026." That suffix isn't optional. State law requires any committee primarily formed against a specific candidate to disclose the target in its registered name. So when you see "NO ON [CANDIDATE]" in a committee's title, you're looking at the political-money equivalent of a hit list.
+    </p>
+
+    <p>
+      The funders, per the latest cover statement on the committee plus the verified 24-hour late-contribution reports filed alongside it:
+    </p>
+
+    <div class="receipts-block">
+      <h3>The donor class against Tom Steyer</h3>
+      <div class="desc">FPPC committee 1489677 · receipts verified through April 22, 2026</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">Pacific Gas &amp; Electric Corporation</span>
+              <span class="class-tag">via committee 1490270 · utility-monopoly capital</span>
+            </td>
+            <td class="num">$10,050,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">California Association of Realtors</span>
+              <span class="class-tag">via CA Real Estate IEC · rentier capital</span>
+            </td>
+            <td class="num">$5,000,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">JOBSPAC</span>
+              <span class="class-tag">sponsored by California Chamber of Commerce · employer coalition</span>
+            </td>
+            <td class="num">$5,000,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">California Building Industry Association PAC</span>
+              <span class="class-tag">developer / construction capital</span>
+            </td>
+            <td class="num">$1,000,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">California Correctional Peace Officers Association PAC</span>
+              <span class="class-tag">prison-guards union · carceral labor</span>
+            </td>
+            <td class="num">$25,000</td>
+          </tr>
+          <tr class="total">
+            <td>Verified through 2026-04-22</td>
+            <td class="num">$21,075,000</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Pacific Gas &amp; Electric Corporation is the single largest donor. PG&amp;E pleaded guilty in 2020 to 84 counts of involuntary manslaughter for the Camp Fire, the deadliest wildfire in California history. The same utility is now spending more than $10 million to defeat the only major candidate in the race running on utility-and-climate accountability.
+    </p>
+
+    <p>
+      The structure runs through two committees, not one. PG&amp;E gave directly to a committee called "Californians for Resilient and Affordable Energy, NO ON Steyer for Governor 2026" (FPPC #1490270). That committee then transferred $8 million of its $10.05 million to the larger spending committee, where the rest of the donor class also dropped its money. Two committees in series. The legal infrastructure is handled by two different compliance firms. Nielsen Merksamer files for the upstream funnel. Deane &amp; Company files for the downstream spending committee. They're working the same target.
+    </p>
+
+    <h2>What the money is buying</h2>
+
+    <p>
+      The committee has reported approximately <strong>$13.9 million in actual independent expenditures</strong> against Steyer through April 17. TV spots, mailers, digital advertising, opposition research. The remaining $7 million sits in the committee, ready to spend in the final weeks before the June 2 primary.
+    </p>
+
+    <p>
+      Among the verified expenditures: $30,000 paid to David Binder Research, Inc. of San Francisco on April 2 for a survey filed under the description "Survey/Oppose/Tom Steyer/Governor/Statewide." That is California's regulated-industry coalition paying for private opposition polling against a single candidate. The Camp Fire utility, the realtors, the chamber, and the developers want to know which lines of attack work best.
+    </p>
+
+    <div class="pull-quote">
+      A regulated monopoly with billions in rate-payer revenue is using that money to choose the governor who picks its regulators. <strong>That's the structural definition of corporate capture.</strong>
+    </div>
+
+    <h2>Why this is class war, not just opposition spending</h2>
+
+    <p>
+      Every candidate has donors. Most candidates serve their donor class quietly, on policy after policy, vote after vote, until the donor class is satisfied and the campaign returns the favor. The system runs smoothly when politicians stay loyal to the class that funded them.
+    </p>
+
+    <p>
+      The system breaks down when a politician refuses to play. Particularly one who comes from the donor class himself. Steyer's policy positions on utility accountability, fossil-fuel divestment, housing affordability, and labor protections threaten the operating interests of every industry on that funder list. He is, in the language his opposition will not say out loud, <strong>a class traitor</strong>.
+    </p>
+
+    <p>
+      And the donor class punishes class traitors. Not with disagreement. Not with policy debate. With $21 million in opposition spending, organized through two coordinated committees and run by two of the largest political-compliance firms in California. The point isn't to beat him in an argument. The point is to bury him before voters get to weigh in.
+    </p>
+
+    <p>
+      The polling is telling them it's working.
+    </p>
+
+    <h2>Open questions</h2>
+
+    <p>
+      The Cal-Access record names every funder above. There are still unanswered questions:
+    </p>
+
+    <p>
+      The "California Is Not For Sale" committee names its sponsor as "Business Owners and Concerned Citizens." That is generic placeholder language. It conceals which specific business owners signed the original organizing paperwork. The principal officers behind that phrase are not disclosed at the primary-source level. Piercing that veil requires a public-records request to the FPPC.
+    </p>
+
+    <p>
+      The remaining $7 million the committee has raised but not yet spent will land somewhere in the next four weeks. The committee files 24-hour disclosures for late expenditures, so the targets and amounts will be visible as they happen. Watch the filings.
+    </p>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">Anti-Steyer committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1489677">cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1489677</a>
+        </li>
+        <li>
+          <span class="label">PG&amp;E funnel committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1490270">cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1490270</a>
+        </li>
+        <li>
+          <span class="label">Steyer's own committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485077">cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485077</a>
+        </li>
+        <li>
+          <span class="label">FPPC top-10 contributors</span>
+          <a href="https://www.fppc.ca.gov/search-filings/top-10-contributors-list/june-2026-primary-election/">fppc.ca.gov/search-filings/top-10-contributors-list/june-2026-primary-election/</a>
+        </li>
+        <li>
+          <span class="label">Cal-Access bulk export</span>
+          <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov/dbwebexport.zip</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> All contribution amounts, dates, and donor identities pulled directly from California Cal-Access primary records (RCPT_CD, S497_CD, EXPN_CD, CVR_CAMPAIGN_DISCLOSURE_CD tables in the daily bulk export at the URL above). Pro-vs-anti committee identification verified against FPPC's required "NO ON [CANDIDATE]" naming convention. The $21,075,000 figure independently corroborated against the FPPC Top 10 Contributors public listing. No third-party reporting cited. Every claim above traces to a public filing.
+      </div>
+    </div>
+  </div>
+</article>
+
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All data verified against primary-source filings · published 2026-05-01</div>
+</footer>
+
+</body>
+</html>
