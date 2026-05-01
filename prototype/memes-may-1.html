@@ -31,7 +31,6 @@ html, body {
   padding-bottom: 80px;
 }
 
-/* ─── Page header (off-card) ─── */
 .page-header {
   max-width: 1200px;
   margin: 40px auto 30px;
@@ -79,7 +78,6 @@ html, body {
   letter-spacing: 0.5px;
 }
 
-/* ─── Story group divider ─── */
 .story-group {
   max-width: 1200px;
   margin: 50px auto 20px;
@@ -107,19 +105,7 @@ html, body {
   font-weight: 400;
   color: #f0e5cf;
 }
-.story-group .receipts {
-  margin-top: 12px;
-  padding: 14px 18px;
-  background: rgba(255,255,255,0.04);
-  border-left: 3px solid #555;
-  font-family: 'Space Mono', monospace;
-  font-size: 12px;
-  color: #bbb;
-  line-height: 1.6;
-}
-.story-group .receipts strong { color: #fff; }
 
-/* ─── Meme grid ─── */
 .meme-grid {
   max-width: 1200px;
   margin: 30px auto 0;
@@ -136,26 +122,13 @@ html, body {
   height: 1080px;
   background: var(--cream);
   color: var(--ink);
-  padding: 80px;
+  padding: 70px 70px 60px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   margin: 0 auto;
   box-shadow: 0 8px 0 rgba(0,0,0,0.4);
   overflow: hidden;
-}
-.meme-id-badge {
-  position: absolute;
-  top: 24px;
-  right: 24px;
-  font-family: 'Space Mono', monospace;
-  font-size: 11px;
-  letter-spacing: 1.5px;
-  color: var(--muted);
-  background: var(--paper);
-  padding: 4px 10px;
-  border: 1px solid var(--line);
-  z-index: 10;
 }
 
 .meme .topbar {
@@ -172,20 +145,27 @@ html, body {
 .meme .topbar .brand {
   color: var(--black);
 }
-.meme .topbar .date { color: var(--muted); }
 
 .meme .footer {
   font-family: 'Space Mono', monospace;
-  font-size: 13px;
+  font-size: 12px;
   color: var(--muted);
-  line-height: 1.5;
+  line-height: 1.55;
   border-top: 2px solid var(--black);
-  padding-top: 16px;
+  padding-top: 14px;
   letter-spacing: 0.5px;
 }
 .meme .footer strong { color: var(--ink); }
 
-/* ─── Headline patterns ─── */
+.meme .body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px 0;
+}
+
+/* Headline patterns */
 .huge {
   font-family: 'Inter', sans-serif;
   font-weight: 900;
@@ -202,191 +182,128 @@ html, body {
 .big {
   font-family: 'Inter', sans-serif;
   font-weight: 900;
-  font-size: 88px;
+  font-size: 72px;
   line-height: 1;
-  letter-spacing: -3px;
+  letter-spacing: -2.5px;
 }
 .med {
   font-family: 'Inter', sans-serif;
   font-weight: 800;
-  font-size: 56px;
+  font-size: 44px;
   line-height: 1.05;
-  letter-spacing: -1.5px;
+  letter-spacing: -1px;
 }
-.serif {
+.med-serif {
   font-family: 'Instrument Serif', serif;
   font-style: italic;
   font-weight: 400;
+  font-size: 36px;
+  line-height: 1.25;
+  color: var(--ink);
 }
-.h-yellow { background: var(--yellow); padding: 0 14px; display: inline-block; }
-.h-red { background: var(--red); color: #fff; padding: 0 14px; display: inline-block; }
-.h-black { background: var(--black); color: #fff; padding: 0 14px; display: inline-block; }
-.h-blue { background: var(--blue); color: #fff; padding: 0 14px; display: inline-block; }
-
-/* ─── Stat blocks ─── */
-.stat-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 32px;
-  margin: 40px 0;
+.body-prose {
+  font-family: 'Instrument Serif', serif;
+  font-size: 22px;
+  line-height: 1.45;
+  color: var(--ink);
+  font-style: italic;
 }
-.stat-row.three { grid-template-columns: repeat(3, 1fr); }
-.stat-card {
-  border: 3px solid var(--black);
-  padding: 24px 28px;
-}
-.stat-card .label {
-  font-family: 'Space Mono', monospace;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-bottom: 8px;
-}
-.stat-card .num {
+.body-explain {
   font-family: 'Inter', sans-serif;
-  font-weight: 900;
-  font-size: 64px;
-  line-height: 1;
-  letter-spacing: -2px;
+  font-size: 18px;
+  line-height: 1.5;
+  color: var(--ink);
+  font-weight: 400;
 }
-.stat-card .num.red { color: var(--red); }
-.stat-card .num.blue { color: var(--blue); }
-.stat-card .num.black { color: var(--black); }
-.stat-card .sub {
-  font-family: 'Space Mono', monospace;
-  font-size: 13px;
-  color: var(--muted);
-  margin-top: 6px;
-  line-height: 1.4;
-}
+.h-yellow { background: var(--yellow); padding: 0 10px; display: inline-block; }
+.h-red { background: var(--red); color: #fff; padding: 0 12px; display: inline-block; }
+.h-black { background: var(--black); color: #fff; padding: 0 12px; display: inline-block; }
+.h-blue { background: var(--blue); color: #fff; padding: 0 12px; display: inline-block; }
 
-/* ─── Receipt list ─── */
+/* Receipt list */
 .receipt-list {
   font-family: 'Space Mono', monospace;
-  font-size: 24px;
-  line-height: 1.7;
+  font-size: 18px;
+  line-height: 1.55;
   border-top: 2px solid var(--black);
   border-bottom: 2px solid var(--black);
-  padding: 24px 0;
-  margin: 32px 0;
+  padding: 16px 0;
+  margin: 18px 0;
 }
 .receipt-list .row {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: 24px;
   align-items: baseline;
+  padding: 4px 0;
 }
-.receipt-list .row .name {
-  font-weight: 700;
-  color: var(--ink);
-}
-.receipt-list .row .val {
-  font-weight: 700;
-  color: var(--red);
-}
+.receipt-list .row .name { font-weight: 700; color: var(--ink); }
+.receipt-list .row .val { font-weight: 700; color: var(--red); }
 .receipt-list .total {
   border-top: 2px solid var(--black);
-  margin-top: 12px;
-  padding-top: 12px;
+  margin-top: 8px;
+  padding-top: 8px;
   font-weight: 900;
 }
 .receipt-list .total .val { color: var(--black); }
+.receipt-list .row.compact .name { font-size: 16px; }
+.receipt-list .row.compact .val { font-size: 16px; }
 
-/* ─── Side-by-side for the Larsen meme ─── */
+/* Side-by-side dual party */
 .dual {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0;
-  margin: 30px 0;
+  margin: 24px 0;
   border: 4px solid var(--black);
 }
 .dual .col {
-  padding: 36px 32px;
+  padding: 30px 24px;
   text-align: center;
 }
 .dual .col.r { background: rgba(230, 57, 70, 0.08); border-right: 2px solid var(--black); }
 .dual .col.l { background: rgba(29, 78, 216, 0.08); }
 .dual .col .party-tag {
   font-family: 'Space Mono', monospace;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 .dual .col.r .party-tag { color: var(--red); }
 .dual .col.l .party-tag { color: var(--blue); }
 .dual .col .who {
   font-family: 'Inter', sans-serif;
   font-weight: 900;
-  font-size: 52px;
-  letter-spacing: -1.5px;
+  font-size: 40px;
+  letter-spacing: -1px;
   line-height: 1.05;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 .dual .col .what {
   font-family: 'Instrument Serif', serif;
   font-style: italic;
-  font-size: 18px;
+  font-size: 16px;
   color: var(--muted);
 }
 .dual .col .amount {
-  margin-top: 18px;
+  margin-top: 14px;
   font-family: 'Inter', sans-serif;
   font-weight: 900;
-  font-size: 64px;
-  letter-spacing: -2px;
+  font-size: 48px;
+  letter-spacing: -1.5px;
 }
 .dual .col.r .amount { color: var(--red); }
 .dual .col.l .amount { color: var(--blue); }
 .dual .col .when {
   font-family: 'Space Mono', monospace;
-  font-size: 12px;
+  font-size: 11px;
   color: var(--muted);
-  margin-top: 6px;
+  margin-top: 4px;
 }
 
-/* ─── Tag/quote block ─── */
-.quote {
-  font-family: 'Instrument Serif', serif;
-  font-style: italic;
-  font-size: 36px;
-  line-height: 1.25;
-  border-left: 8px solid var(--black);
-  padding: 20px 0 20px 32px;
-  margin: 24px 0;
-  color: var(--ink);
-}
-
-/* ─── Bar chart for poll ─── */
-.poll-chart .row {
-  display: grid;
-  grid-template-columns: 240px 1fr 80px;
-  align-items: center;
-  gap: 16px;
-  padding: 8px 0;
-  font-family: 'Space Mono', monospace;
-  font-size: 16px;
-}
-.poll-chart .row .name { font-weight: 700; }
-.poll-chart .row .name.surge { color: var(--red); }
-.poll-chart .row .name.gain { color: var(--blue); }
-.poll-chart .row .bar-wrap {
-  height: 28px;
-  background: var(--paper);
-  position: relative;
-}
-.poll-chart .row .bar {
-  height: 100%;
-  background: var(--black);
-}
-.poll-chart .row .bar.surge { background: var(--red); }
-.poll-chart .row .bar.gain { background: var(--blue); }
-.poll-chart .row .pct { font-weight: 900; font-size: 18px; text-align: right; }
-
-/* ─── Detail page section ─── */
+/* Detail page */
 .detail-page {
   max-width: 800px;
   margin: 100px auto 0;
@@ -470,221 +387,170 @@ html, body {
 
 <div class="page-header">
   <h1>California Governor 2026 — <em>screenshot kit</em></h1>
-  <div class="lede">12 memes · 3 stories · all FPPC primary-source verified · May 1, 2026</div>
+  <div class="lede">6 memes · 3 stories · all FPPC primary-source verified · May 1, 2026</div>
   <div class="instructions">
-    <strong>How to use.</strong> Each card below is sized 1080×1080 (Bluesky / X / Instagram square). Hit <kbd>⌘ + Shift + 4</kbd> on Mac (or <kbd>Win + Shift + S</kbd> on Windows) and drag a region around any single card to grab it. Or scroll to one card, full-page screenshot, crop. Source citations are baked in — feel free to drop straight into a post. Backups for each story below the lead meme.
+    <strong>How to use.</strong> Each card below is sized 1080×1080 (Bluesky / X / Instagram square). Hit <kbd>⌘ + Shift + 4</kbd> on Mac (or <kbd>Win + Shift + S</kbd> on Windows) and drag a region around any single card to grab it. Or scroll to one card, full-page screenshot, crop. Source citations are baked in — feel free to drop straight into a post.
   </div>
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════
-     STORY 1 — PG&E vs. Steyer + the commissioned poll
+     STORY 1 — PG&E + opposition apparatus vs Steyer
      ════════════════════════════════════════════════════════════════ -->
 <div class="story-group">
   <div class="kicker">STORY 1 · UTILITY-VS-BILLIONAIRE</div>
-  <h2>PG&E spent ~$10 million to defeat Tom Steyer.<br/><em>Then the same coalition commissioned the poll showing him in third.</em></h2>
-  <div class="receipts">
-    <strong>Receipts:</strong> Pacific Gas &amp; Electric Corporation gave $8M (4/10/2026) + $1.975M (4/20/2026) to FPPC committee 1490270 ("Californians for Resilient and Affordable Energy, NO ON Steyer for Governor 2026"). Plus $50K from IBEW Local 1245 (PG&amp;E's utility workers). The poll commissioned by the related anti-Steyer committee 1489677 ("California Is Not For Sale") is what just dropped Steyer to 15% in the public narrative. <br/><strong>Source path:</strong> Cal-Access RCPT_CD + S497_CD + CVR_CAMPAIGN_DISCLOSURE_CD filing trace, verified 2026-05-01.
-  </div>
+  <h2>PG&E spent ~$10 million to defeat Tom Steyer.<br/><em>The same coalition is paying for opposition polling against him.</em></h2>
 </div>
 
 <div class="meme-grid">
 
-<!-- ───── MEME 1A — the headline number ───── -->
+<!-- ───── MEME 1 — combined $10M + Camp Fire + explanation ───── -->
 <div class="meme">
-  <div class="meme-id-badge">1A · STORY 1</div>
   <div class="topbar">
     <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
+    <span>CA GOV 2026</span>
   </div>
-  <div>
-    <div class="med" style="margin-bottom: 24px;">PG&amp;E spent</div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 18px;">PG&amp;E spent</div>
     <div class="huge"><span class="h-red">$10M</span></div>
-    <div class="med serif" style="margin-top: 28px; font-style: italic; font-weight: 400;">to defeat Tom Steyer.</div>
+    <div class="med-serif" style="margin-top: 22px;">to defeat Tom Steyer.</div>
+    <div class="body-prose" style="margin-top: 36px;">
+      The utility behind the Camp Fire — which pleaded guilty to <strong style="font-style: normal; font-weight: 900;">84 counts of involuntary manslaughter</strong> in 2020 — is funding the campaign against the only major candidate running on utility-and-climate accountability.
+    </div>
+    <div class="body-explain" style="margin-top: 22px;">
+      <strong>Why it matters:</strong> A regulated monopoly with billions in rate-payer revenue is using that money to choose the governor who picks its regulators. That's the structural definition of corporate capture.
+    </div>
   </div>
   <div class="footer">
-    <strong>FPPC committee 1490270</strong> · "Californians for Resilient and Affordable Energy, NO ON Steyer for Governor 2026" · primary-source filings 4/10 + 4/20/2026
+    <strong>FPPC committee 1490270</strong> · "Californians for Resilient and Affordable Energy, NO ON Steyer for Governor 2026" · primary-source filings 4/10 + 4/20/2026 · IBEW Local 1245 also contributed $50K · thedonormap.org
   </div>
 </div>
 
-<!-- ───── MEME 1B — the wildfire frame ───── -->
+<!-- ───── MEME 2 — corrected polling claim ───── -->
 <div class="meme">
-  <div class="meme-id-badge">1B · STORY 1</div>
   <div class="topbar">
     <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
+    <span>CA GOV 2026</span>
   </div>
-  <div>
-    <div class="med">The utility behind the<br/>Camp Fire is funding<br/>the campaign against</div>
-    <div class="big" style="margin-top: 24px;"><span class="h-yellow">the climate billionaire.</span></div>
-    <div class="serif" style="font-size: 26px; margin-top: 32px; color: var(--muted);">PG&amp;E pleaded guilty to 84 counts of involuntary manslaughter in 2020. Now they're spending $10 million to choose California's next governor.</div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 24px;">First they spent <span class="h-red">$10M</span><br/>to defeat Steyer.</div>
+    <div class="med">Then they paid</div>
+    <div class="huge" style="margin-top: 8px;"><span class="h-yellow">$30,000</span></div>
+    <div class="med-serif" style="margin-top: 18px;">for opposition polling against him.</div>
+    <div class="body-explain" style="margin-top: 28px;">
+      <strong>What the records show:</strong> FPPC committee 1489677 ("California Is Not For Sale, NO ON Steyer for Governor 2026") paid <strong style="background: none; font-weight: 700;">David Binder Research, Inc.</strong> $30,000 on April 2, 2026. Filing description: "<em style="font-style: italic;">Survey/Oppose/Tom Steyer/Governor/Statewide</em>." The same coalition that's spending eight figures to defeat him is also generating private polling on which attacks land.
+    </div>
   </div>
   <div class="footer">
-    Source: Cal-Access FPPC committee 1490270 · CRC + IBEW 1245 contributions verified via primary RCPT_CD filings
+    Cal-Access EXPN_CD filing 3138008 · CVR filer = 1489677 · same compliance shop (Nielsen Merksamer) as 1490270 · primary-source verified 2026-05-01 · thedonormap.org
   </div>
 </div>
 
-<!-- ───── MEME 1C — the meta-twist ───── -->
+<!-- ───── MEME 3 — receipt ledger ───── -->
 <div class="meme">
-  <div class="meme-id-badge">1C · STORY 1</div>
   <div class="topbar">
     <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
+    <span>RECEIPTS</span>
   </div>
-  <div>
-    <div class="med" style="margin-bottom: 24px;">First they spent <span class="h-red">$10M</span><br/>to defeat him.</div>
-    <div class="med">Then they commissioned</div>
-    <div class="huge serif" style="margin-top: 12px;"><em>the poll</em></div>
-    <div class="med">showing he's losing.</div>
-  </div>
-  <div class="footer">
-    Gudelunas Strategies poll, 4/23-27/2026, N=800 · commissioned per @madrid_mike thread by FPPC committee 1489677 ("California Is Not For Sale, NO ON Steyer for Governor 2026") · same compliance shop as 1490270 (Nielsen Merksamer)
-  </div>
-</div>
-
-<!-- ───── MEME 1D — the receipt ───── -->
-<div class="meme">
-  <div class="meme-id-badge">1D · STORY 1</div>
-  <div class="topbar">
-    <span class="brand">THE DONOR MAP</span>
-    <span class="date">RECEIPTS</span>
-  </div>
-  <div>
-    <div class="med" style="margin-bottom: 8px;">Anti-Steyer ledger</div>
-    <div class="serif" style="font-size: 24px; color: var(--muted); margin-bottom: 24px;">FPPC committee 1490270 — verified Q2 2026 receipts</div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 6px;">Anti-Steyer ledger</div>
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 18px;">FPPC committee 1490270 — verified Q2 2026 receipts</div>
     <div class="receipt-list">
       <div class="row"><span class="name">Pacific Gas &amp; Electric Corp</span> <span class="val">$8,000,000</span></div>
       <div class="row"><span class="name">PG&amp;E Corporation (4/20)</span> <span class="val">$1,975,000</span></div>
-      <div class="row"><span class="name">IBEW Local 1245</span> <span class="val">$50,000</span></div>
+      <div class="row"><span class="name">IBEW Local 1245 (PG&amp;E utility workers)</span> <span class="val">$50,000</span></div>
       <div class="row total"><span class="name">VERIFIED TOTAL</span> <span class="val">$10,025,000</span></div>
     </div>
-    <div class="serif" style="font-size: 20px; color: var(--muted); margin-top: 12px;">All filings traced to FPPC primary source 2026-05-01.</div>
+    <div class="body-explain" style="margin-top: 18px;">
+      <strong>Plus a separate anti-Steyer committee</strong> — <span style="font-family: 'Space Mono', monospace; font-size: 14px;">1489677</span> ("California Is Not For Sale") — paid David Binder Research $30,000 for opposition polling on 4/2/2026. Same compliance shop. Same target. Two committees, one coalition.
+    </div>
   </div>
   <div class="footer">
-    Cal-Access RCPT_CD filings 3137638, 3134124, 3135715 · CVR_CAMPAIGN_DISCLOSURE_CD filer = 1490270 · thedonormap.org
+    Cal-Access RCPT_CD filings 3137638, 3134124, 3135715 + EXPN_CD filing 3138008 · CVR_CAMPAIGN_DISCLOSURE_CD filer trace · primary-source verified · thedonormap.org
   </div>
 </div>
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════
-     STORY 2 — Becerra surge
+     STORY 2 — Becerra surge + Anthem coalition
      ════════════════════════════════════════════════════════════════ -->
 <div class="story-group">
   <div class="kicker">STORY 2 · WHO'S BUYING THE FRONT-RUNNER</div>
-  <h2>Becerra surged 9 points in two weeks.<br/><em>Anthem's founder maxed out to him on April 15, 2025.</em></h2>
-  <div class="receipts">
-    <strong>Receipts:</strong> Becerra moved 15% → 24% (4/14-18 → 4/23-27 Gudelunas poll). His top-15 donor list includes Leonard Schaeffer (founder/former CEO of WellPoint, now Anthem) at the legal max $39,200; California State Council of Laborers PAC ($54,700); Southern CA District Council of Laborers PAC ($47,000); Chevron USA Inc ($39,200); Pechanga Band ($44,600); Agua Caliente Band ($41,900). Becerra was HHS Secretary 2021-2025 with regulatory authority over Anthem's markets.<br/><strong>Source path:</strong> Cal-Access RCPT_CD filing 3071361 (Schaeffer) + CVR filer = 1480025 (Becerra for Governor 2026).
-  </div>
+  <h2>Becerra surged 9 points in two weeks.<br/><em>The founder of the company he used to regulate is funding him.</em></h2>
 </div>
 
 <div class="meme-grid">
 
-<!-- ───── MEME 2A — the surge ───── -->
+<!-- ───── MEME 4 — surge + polling ───── -->
 <div class="meme">
-  <div class="meme-id-badge">2A · STORY 2</div>
   <div class="topbar">
     <span class="brand">THE DONOR MAP</span>
-    <span class="date">POLL · 4/27/2026</span>
+    <span>POLL · 4/27/2026</span>
   </div>
-  <div>
+  <div class="body">
     <div class="med">Xavier Becerra,<br/>two weeks ago: <span class="h-black">15%</span></div>
-    <div class="med" style="margin-top: 18px;">Becerra <span style="color: var(--red);">today</span>:</div>
+    <div class="med" style="margin-top: 14px;">Becerra <span style="color: var(--red);">today</span>:</div>
     <div class="huge" style="margin-top: 8px;"><span class="h-red">24%</span></div>
-    <div class="serif" style="font-size: 26px; margin-top: 28px;">Who is paying for that 9-point surge?</div>
-  </div>
-  <div class="footer">
-    Gudelunas Strategies / @madrid_mike · 4/14-18 vs 4/23-27 mixed-mode N=800 · CA Governor primary 2026
-  </div>
-</div>
-
-<!-- ───── MEME 2B — the Anthem fact ───── -->
-<div class="meme">
-  <div class="meme-id-badge">2B · STORY 2</div>
-  <div class="topbar">
-    <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
-  </div>
-  <div>
-    <div class="med" style="margin-bottom: 28px;">Xavier Becerra spent four years</div>
-    <div class="big" style="margin-bottom: 24px;"><span class="h-blue">regulating Anthem.</span></div>
-    <div class="med">Two months after he left,</div>
-    <div class="big" style="margin-top: 16px;"><span class="h-yellow">Anthem's founder</span></div>
-    <div class="med" style="margin-top: 16px;">maxed out to his governor campaign.</div>
-  </div>
-  <div class="footer">
-    Leonard Schaeffer (Santa Monica) — founder &amp; former CEO of WellPoint Health Networks (now Anthem) — gave $39,200 (CA legal max) to Becerra for Governor 2026 on 4/15/2025. Cal-Access filing 3071361 · committee 1480025
-  </div>
-</div>
-
-<!-- ───── MEME 2C — the coalition map ───── -->
-<div class="meme">
-  <div class="meme-id-badge">2C · STORY 2</div>
-  <div class="topbar">
-    <span class="brand">THE DONOR MAP</span>
-    <span class="date">COALITION MAP</span>
-  </div>
-  <div>
-    <div class="med" style="margin-bottom: 16px;">Becerra's top donors:</div>
-    <div class="serif" style="font-size: 22px; color: var(--muted); margin-bottom: 28px;">2026 cycle, Cal-Access verified, top 7 by $</div>
-    <div class="receipt-list">
-      <div class="row"><span class="name">CA State Council of Laborers PAC</span> <span class="val" style="color: var(--ink);">$54,700</span></div>
-      <div class="row"><span class="name">SoCal District Council of Laborers PAC</span> <span class="val" style="color: var(--ink);">$47,000</span></div>
-      <div class="row"><span class="name">Pechanga Band of Luiseño Indians</span> <span class="val" style="color: var(--ink);">$44,600</span></div>
-      <div class="row"><span class="name">Agua Caliente Band of Cahuilla Indians</span> <span class="val" style="color: var(--ink);">$41,900</span></div>
-      <div class="row"><span class="name"><strong style="background: var(--yellow); padding: 0 4px;">Leonard Schaeffer (Anthem founder)</strong></span> <span class="val" style="color: var(--red);">$39,200</span></div>
-      <div class="row"><span class="name"><strong style="background: var(--yellow); padding: 0 4px;">Chevron USA Inc.</strong></span> <span class="val" style="color: var(--red);">$39,200</span></div>
-      <div class="row"><span class="name">Border Health Federal PAC</span> <span class="val" style="color: var(--ink);">$39,200</span></div>
+    <div class="med-serif" style="margin-top: 24px;">Who is paying for that 9-point surge?</div>
+    <div class="body-explain" style="margin-top: 24px;">
+      <strong>The picture:</strong> Becerra moved 15% → 24% (Gudelunas Strategies poll, N=800, 4/14-18 vs 4/23-27, mixed-mode English/Spanish). It happened while Steyer's $134M self-fund kept buying TV ads and PG&amp;E's $10M kept paying for negatives. Becerra got there <em style="font-style: italic;">without spending</em>. Someone else's money cleared the lane.
     </div>
   </div>
   <div class="footer">
-    <strong>Construction labor + healthcare insurance + fossil capital + tribal gaming.</strong> Cal-Access verified 2026-05-01.
+    Gudelunas Strategies / @madrid_mike · April 4/14-18 vs 4/23-27 · CA Governor primary 2026 · thedonormap.org
   </div>
 </div>
 
-<!-- ───── MEME 2D — Steyer vs Becerra contrast ───── -->
+<!-- ───── MEME 5 — combined: regulated Anthem + Anthem founder + top donors + receipts ───── -->
 <div class="meme">
-  <div class="meme-id-badge">2D · STORY 2</div>
   <div class="topbar">
     <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
+    <span>CA GOV 2026</span>
   </div>
-  <div>
-    <div class="serif" style="font-size: 32px; margin-bottom: 24px;">Steyer raised <strong style="font-family: Inter; font-style: normal; font-weight: 900;">$133.8 million.</strong></div>
-    <div class="serif" style="font-size: 32px; margin-bottom: 24px;">From <strong style="font-family: Inter; font-style: normal; font-weight: 900;">one donor.</strong></div>
-    <div class="serif" style="font-size: 32px; margin-bottom: 40px; color: var(--muted);">(Tom Steyer.)</div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 12px;">Xavier Becerra spent four years</div>
+    <div class="big" style="margin-bottom: 14px;"><span class="h-blue">regulating Anthem.</span></div>
+    <div class="med">Two months after he left,</div>
+    <div class="big" style="margin-top: 10px;"><span class="h-yellow">Anthem's founder</span></div>
+    <div class="med" style="margin-top: 10px;">maxed out to his governor campaign.</div>
 
-    <div class="serif" style="font-size: 32px; margin-bottom: 24px;">Becerra raised <strong style="font-family: Inter; font-style: normal; font-weight: 900;">$5.7 million.</strong></div>
-    <div class="serif" style="font-size: 32px; margin-bottom: 12px;">From <strong style="font-family: Inter; font-style: normal; font-weight: 900;">5,061 donors.</strong></div>
-    <div class="big" style="margin-top: 32px;"><span class="h-yellow">Becerra is winning.</span></div>
+    <div class="receipt-list" style="margin-top: 26px;">
+      <div class="row compact"><span class="name">CA State Council of Laborers PAC</span> <span class="val" style="color: var(--ink);">$54,700</span></div>
+      <div class="row compact"><span class="name">SoCal District Council of Laborers PAC</span> <span class="val" style="color: var(--ink);">$47,000</span></div>
+      <div class="row compact"><span class="name">Pechanga Band of Luiseño Indians</span> <span class="val" style="color: var(--ink);">$44,600</span></div>
+      <div class="row compact"><span class="name"><strong style="background: var(--yellow); padding: 0 4px;">Leonard Schaeffer (Anthem founder)</strong></span> <span class="val">$39,200</span></div>
+      <div class="row compact"><span class="name"><strong style="background: var(--yellow); padding: 0 4px;">Chevron USA Inc.</strong></span> <span class="val">$39,200</span></div>
+      <div class="row compact"><span class="name">Border Health Federal PAC</span> <span class="val" style="color: var(--ink);">$39,200</span></div>
+      <div class="row compact"><span class="name">Altamed Health Network Inc.</span> <span class="val" style="color: var(--ink);">$39,200</span></div>
+    </div>
+    <div class="body-explain" style="margin-top: 14px; font-size: 16px;">
+      Construction labor + healthcare insurance + fossil capital + tribal gaming. Becerra was Secretary of Health and Human Services 2021-2025 — direct regulatory authority over Anthem.
+    </div>
   </div>
   <div class="footer">
-    Cal-Access self-funding partition + 2026-cycle aggregate · Gudelunas poll 4/23-27: Becerra 24%, Steyer 15%
+    Leonard Schaeffer (Santa Monica) — founder &amp; former CEO of WellPoint / Anthem — gave $39,200 (CA legal max) to Becerra for Governor 2026 on 4/15/2025 · Cal-Access RCPT_CD filing 3071361 · CVR filer = 1480025 · thedonormap.org
   </div>
 </div>
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════
-     STORY 3 — Chris Larsen / Ripple hedge
+     STORY 3 — Crypto industry hedges all three lanes (1 combined meme)
      ════════════════════════════════════════════════════════════════ -->
 <div class="story-group">
-  <div class="kicker">STORY 3 · CRYPTO HEDGES BOTH SIDES</div>
-  <h2>Chris Larsen of Ripple maxed out to BOTH<br/><em>Steve Hilton (R) AND Katie Porter (D).</em></h2>
-  <div class="receipts">
-    <strong>Receipts:</strong> Christian "Chris" Larsen, executive chairman and co-founder of Ripple Labs, gave $39,200 (CA legal max) to "Porter for Governor 2026" (FPPC 1479597) on 6/17/2025 AND $39,200 to "Hilton for Governor 2026" (FPPC 1480425). Same person, opposite parties, same race. Plus Coinbase CEO Brian Armstrong gave $500K to Mahan's IE PAC the same cycle. The crypto industry isn't picking sides — it's owning both.<br/><strong>Source path:</strong> Cal-Access RCPT_CD filings traced to CVR filer IDs 1479597 (Porter) and 1480425 (Hilton).
-  </div>
+  <div class="kicker">STORY 3 · THE CRYPTO HEDGE</div>
+  <h2>Crypto-industry money is in <em>every lane</em> of the 2026 California governor race.</h2>
 </div>
 
 <div class="meme-grid">
 
-<!-- ───── MEME 3A — side by side ───── -->
+<!-- ───── MEME 6 — combined: Larsen dual party + Coinbase + framing ───── -->
 <div class="meme">
-  <div class="meme-id-badge">3A · STORY 3</div>
   <div class="topbar">
     <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
+    <span>CA GOV 2026</span>
   </div>
-  <div>
-    <div class="med" style="margin-bottom: 16px;">Chris Larsen of <span class="h-yellow">Ripple</span></div>
-    <div class="med" style="margin-bottom: 32px;">just maxed out to:</div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 8px;">Chris Larsen of <span class="h-yellow">Ripple</span></div>
+    <div class="med" style="margin-bottom: 18px;">just maxed out to:</div>
 
     <div class="dual">
       <div class="col r">
@@ -702,72 +568,21 @@ html, body {
         <div class="when">6/17/2025 · FPPC 1479597</div>
       </div>
     </div>
-    <div class="serif" style="font-size: 26px; text-align: center; margin-top: 24px;">Same person. Same race.<br/>Opposite parties.</div>
-  </div>
-  <div class="footer">
-    Cal-Access RCPT_CD primary-source verified 2026-05-01 · thedonormap.org
-  </div>
-</div>
 
-<!-- ───── MEME 3B — the frame ───── -->
-<div class="meme">
-  <div class="meme-id-badge">3B · STORY 3</div>
-  <div class="topbar">
-    <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
-  </div>
-  <div>
-    <div class="huge serif">The crypto<br/>industry isn't<br/>picking sides.</div>
-    <div class="big" style="margin-top: 32px;"><span class="h-red">It's owning both.</span></div>
-    <div class="serif" style="font-size: 24px; margin-top: 24px; color: var(--muted);">Ripple to Hilton (R) + Ripple to Porter (D) + Coinbase to Mahan (D) IE PAC + Fairshake legacy spending against Porter's 2024 Senate run. Same money. Every lane.</div>
-  </div>
-  <div class="footer">
-    Cal-Access verified Q1-Q2 2025-2026 · all FPPC primary source · thedonormap.org
-  </div>
-</div>
+    <div class="med-serif" style="text-align: center; font-size: 28px; margin: 16px 0;">Same person. Same race. Opposite parties.</div>
 
-<!-- ───── MEME 3C — Coinbase too ───── -->
-<div class="meme">
-  <div class="meme-id-badge">3C · STORY 3</div>
-  <div class="topbar">
-    <span class="brand">THE DONOR MAP</span>
-    <span class="date">CRYPTO IN CA 2026</span>
-  </div>
-  <div>
-    <div class="med" style="margin-bottom: 24px;">Crypto industry money in the<br/>2026 California governor race:</div>
-    <div class="receipt-list">
-      <div class="row"><span class="name">Chris Larsen (Ripple) → Hilton (R)</span> <span class="val">$39,200</span></div>
-      <div class="row"><span class="name">Chris Larsen (Ripple) → Porter (D)</span> <span class="val">$39,200</span></div>
-      <div class="row"><span class="name">Brian Armstrong (Coinbase CEO) → Mahan (D) IE PAC</span> <span class="val">$500,000</span></div>
-      <div class="row"><span class="name">Fairshake PAC → vs. Porter (federal, 2024 legacy)</span> <span class="val">~$10,000,000</span></div>
+    <div class="receipt-list" style="margin-top: 14px;">
+      <div class="row compact"><span class="name">Brian Armstrong (Coinbase CEO) → Mahan IE PAC</span> <span class="val">$500,000</span></div>
+      <div class="row compact"><span class="name">Fairshake PAC → vs. Porter (federal, 2024 legacy)</span> <span class="val">~$10,000,000</span></div>
     </div>
-    <div class="big" style="margin-top: 28px;"><span class="h-yellow">Three parties.</span></div>
-    <div class="big" style="margin-top: 8px;"><span class="h-yellow">One industry.</span></div>
+    <div class="body-explain" style="margin-top: 14px; font-size: 16px;">
+      The crypto industry isn't picking sides. It's owning <strong style="background: var(--red); color: #fff; padding: 0 4px;">all three lanes</strong> — Republican (Hilton), institutional Democrat (via the Mahan IE PAC), and the small-dollar populist (Porter, hedged).
+    </div>
   </div>
   <div class="footer">
-    Cal-Access (state) + FEC (federal) primary-source · thedonormap.org · 2026-05-01
+    Christian "Chris" Larsen, executive chairman of Ripple Labs — same individual contributing to both candidates · Cal-Access RCPT_CD filings traced via CVR filer trace to 1479597 + 1480425 · Coinbase Mahan IE PAC contribution via S497_CD · thedonormap.org · 2026-05-01
   </div>
 </div>
-
-<!-- ───── MEME 3D — quote-style ───── -->
-<div class="meme">
-  <div class="meme-id-badge">3D · STORY 3</div>
-  <div class="topbar">
-    <span class="brand">THE DONOR MAP</span>
-    <span class="date">CA GOV 2026</span>
-  </div>
-  <div>
-    <div class="serif" style="font-size: 36px; color: var(--muted); margin-bottom: 24px;">The same Ripple chairman who maxed out to Katie Porter</div>
-    <div class="big">also maxed out to</div>
-    <div class="huge" style="margin-top: 16px;"><span class="h-red">Steve Hilton.</span></div>
-    <div class="serif" style="font-size: 30px; margin-top: 36px;">Porter's brand: rejecting corporate money.<br/>Hilton's brand: <em>outsider populist.</em></div>
-    <div class="med" style="margin-top: 28px;"><span class="h-yellow">Pick a brand.</span></div>
-  </div>
-  <div class="footer">
-    Christian Larsen (executive chairman, Ripple Labs) — same individual, two FPPC committees, same race · primary-source verified
-  </div>
-</div>
-
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════
@@ -776,26 +591,31 @@ html, body {
 
 <article class="detail-page">
   <h1>What the May 1 California governor poll <em>actually</em> tells you.</h1>
-  <p class="deck">Three forces are tipping the scales in the most expensive non-presidential primary in California history. The polling that just landed was paid for by one of them.</p>
+  <p class="deck">Three forces are tipping the scales in the most expensive non-presidential primary in California history. The Camp Fire utility is one of them. So is a coalition of Silicon Valley billionaires. And the crypto industry is hedging across all three lanes.</p>
 
   <h2>The poll</h2>
-  <p>Mike Madrid published a Gudelunas Strategies poll on April 30: 800 likely voters, mixed-mode English/Spanish, 4/23-27. Becerra <strong>24%</strong>, Hilton <strong>23%</strong>, Steyer <strong>15%</strong>, Bianco <strong>13%</strong>, Porter <strong>10%</strong>, Mahan <strong>6%</strong>. Becerra moved nine points in two weeks. Steyer didn't move. Bianco lost a point. Porter dropped three.</p>
-  <p>Madrid disclosed the poll's commissioner in his thread: <strong>"the anti-Tom Steyer committee California Is Not For Sale."</strong> That's FPPC committee 1489677, registered 4/1/2026 as "Californians for the People, sponsored by Business Owners and Concerned Citizens." Same compliance shop (Nielsen Merksamer LLP, San Rafael) as the other major anti-Steyer committee, 1490270, which has received $9.975 million from Pacific Gas &amp; Electric.</p>
+  <p>Mike Madrid published a Gudelunas Strategies poll on April 30: 800 likely voters, mixed-mode English/Spanish, fielded April 23-27. <strong>Becerra 24%</strong>, <strong>Hilton 23%</strong>, Steyer 15%, Bianco 13%, Porter 10%, Mahan 6%. Becerra moved nine points in two weeks. Steyer didn't move. Bianco lost a point. Porter dropped three.</p>
+  <p>Madrid's caveat: "this poll was conducted before most of Steyer's multi-million dollar negative hits started." The next public poll will probably show Steyer dropping further.</p>
 
   <h2>Force #1 — PG&amp;E spent ~$10M to defeat Tom Steyer</h2>
-  <p>Cal-Access primary-source filing trace, verified May 1:</p>
+  <p>Cal-Access primary-source filing trace, verified May 1, 2026:</p>
   <table>
     <thead><tr><th>Donor</th><th>Amount</th><th>Date</th><th>Filing</th></tr></thead>
     <tbody>
       <tr><td>Pacific Gas &amp; Electric Corp</td><td>$8,000,000</td><td>2026-04-10</td><td>3137638 / 3134124</td></tr>
       <tr><td>PG&amp;E Corporation</td><td>$1,975,000</td><td>2026-04-20</td><td>3135715</td></tr>
-      <tr><td>IBEW Local 1245</td><td>$50,000</td><td>2026-04-10</td><td>3137638</td></tr>
+      <tr><td>IBEW Local 1245 (PG&amp;E utility workers)</td><td>$50,000</td><td>2026-04-10</td><td>3137638</td></tr>
       <tr><td><strong>Total verified</strong></td><td><strong>$10,025,000</strong></td><td></td><td></td></tr>
     </tbody>
   </table>
-  <p>PG&amp;E pleaded guilty to 84 counts of involuntary manslaughter for the Camp Fire in 2020 — that's the utility funding $10 million to defeat the only major candidate running on utility-and-climate accountability.</p>
+  <p>All contributions flowed into FPPC committee <strong>1490270</strong> ("Californians for Resilient and Affordable Energy, NO ON Steyer for Governor 2026") — the FPPC's required disclosure for committees primarily formed against a candidate. PG&amp;E pleaded guilty to 84 counts of involuntary manslaughter for the Camp Fire in 2020. The same utility is now spending $10 million to defeat the only major candidate running on utility-and-climate accountability.</p>
 
-  <h2>Force #2 — Silicon Valley billionaires, $8M+ for Matt Mahan</h2>
+  <h2>Force #2 — A second anti-Steyer committee paid for opposition polling</h2>
+  <p>Separately, FPPC committee <strong>1489677</strong> ("Californians for the People, sponsored by Business Owners and Concerned Citizens" / alternate registered name "STEYER FOR GOVERNOR 2026 ... CALIFORNIA IS NOT FOR SALE, NO ON") paid <strong>David Binder Research, Inc.</strong> (San Francisco) $30,000 on April 2, 2026, with the filing description: "Survey/Oppose/Tom Steyer/Governor/Statewide."</p>
+  <p>Both anti-Steyer committees use the same compliance firm — Nielsen Merksamer LLP, San Rafael — which is also the operator behind both pro-Mahan IE PACs. The same shop is filing for utility-aligned anti-Steyer money <em>and</em> tech-billionaire-aligned pro-Mahan money. That's not necessarily collusion; California's campaign-finance compliance ecosystem is centralized in a small number of firms. But it's a structural observation worth surfacing: the legal infrastructure for ostensibly opposing political projects runs through the same hands.</p>
+  <p><strong>Note on attribution.</strong> The polling that's driving the public narrative — Gudelunas Strategies for Mike Madrid — has a separate commissioner that has not been confirmed from primary FPPC records. The David Binder Research $30K is verified anti-Steyer polling. Don't conflate the two.</p>
+
+  <h2>Force #3 — Silicon Valley billionaires, $8M+ for Matt Mahan</h2>
   <p>Mahan's own gubernatorial campaign committee has raised <strong>$0</strong> from voters. The pro-Mahan IE PAC (FPPC 1487425, "California Back to Basics Supporting Matt Mahan") has raised at least $8 million from a tight cluster of Silicon Valley billionaires:</p>
   <ul style="margin: 12px 0 24px 24px; line-height: 1.8;">
     <li><strong>Michael Moritz</strong> (Sequoia Capital chairman): $2,000,000</li>
@@ -810,7 +630,7 @@ html, body {
   </ul>
   <p>Mahan polls at 6%. The deployed-vehicle model has a ceiling.</p>
 
-  <h2>Force #3 — Becerra's institutional Democratic coalition</h2>
+  <h2>Becerra's institutional Democratic coalition</h2>
   <p>The candidate who surged 9 points has a different fundraising shape: distributed, institutional, identifiable. His top 2026 donors:</p>
   <table>
     <thead><tr><th>Donor</th><th>Amount</th><th>Class</th></tr></thead>
@@ -819,31 +639,31 @@ html, body {
       <tr><td>Southern CA District Council of Laborers PAC</td><td>$47,000</td><td>construction labor</td></tr>
       <tr><td>Pechanga Band of Luiseño Indians</td><td>$44,600</td><td>tribal</td></tr>
       <tr><td>Agua Caliente Band of Cahuilla Indians</td><td>$41,900</td><td>tribal</td></tr>
-      <tr><td>Leonard Schaeffer (founder, Anthem)</td><td>$39,200</td><td>healthcare insurance</td></tr>
-      <tr><td>Chevron USA Inc.</td><td>$39,200</td><td>fossil capital</td></tr>
+      <tr><td><strong>Leonard Schaeffer (founder, Anthem)</strong></td><td>$39,200</td><td><strong>healthcare insurance</strong></td></tr>
+      <tr><td><strong>Chevron USA Inc.</strong></td><td>$39,200</td><td><strong>fossil capital</strong></td></tr>
       <tr><td>Border Health Federal PAC</td><td>$39,200</td><td>healthcare</td></tr>
       <tr><td>Altamed Health Network Inc.</td><td>$39,200</td><td>healthcare</td></tr>
     </tbody>
   </table>
   <p>Becerra was Secretary of Health and Human Services 2021-2025 — direct regulatory authority over Anthem's markets, ACA implementation, Medicare Advantage, Medicaid managed-care contracts. The founder of Anthem maxed out to him on April 15, 2025, two months after he left HHS.</p>
 
-  <h2>The Ripple hedge</h2>
+  <h2>The Ripple hedge — crypto industry across all three lanes</h2>
   <p>Crypto-industry money runs through this race in three vehicles:</p>
   <ul style="margin: 12px 0 24px 24px; line-height: 1.8;">
     <li><strong>Christian "Chris" Larsen</strong>, executive chairman of Ripple, gave $39,200 to Porter (D) and $39,200 to Hilton (R) — same person, opposite parties, same race.</li>
-    <li><strong>Brian Armstrong</strong>, Coinbase CEO, gave $500,000 to Mahan's IE PAC — Coinbase also funds Fairshake PAC, which spent $10M against Porter's 2024 Senate campaign.</li>
-    <li>The crypto industry isn't picking sides. It's owning all three lanes.</li>
+    <li><strong>Brian Armstrong</strong>, Coinbase CEO, gave $500,000 to Mahan's IE PAC. Coinbase also funds Fairshake PAC, which spent ~$10M against Porter's 2024 Senate campaign.</li>
+    <li>The crypto industry isn't picking sides. It's owning all three lanes simultaneously.</li>
   </ul>
 
   <h2>The Steyer self-fund context</h2>
   <p>Tom Steyer has personally contributed <strong>$133,776,122.76</strong> to his own gubernatorial committee across 41 contribution events. He's outspending his identified opposition roughly 13 to 1. The polling shows him flat at 15% — the opposition is winning the narrative even though Steyer is winning the dollar count.</p>
 
-  <h2>Where the race actually is</h2>
-  <p>Two candidates are consolidating into the top-two primary advance: <strong>Becerra (D) and Hilton (R)</strong>. Three candidates with substantial money apparatus are losing ground: Steyer (under negative blitz), Bianco (losing R lane to Hilton), Porter (squeezed). Mahan's $8M billionaire bloc isn't translating to votes.</p>
-  <p>And the Madrid caveat — "this poll was conducted before most of Steyer's multimillion-dollar negative hits started" — means the next poll likely shows Steyer dropping further. The Camp Fire utility's $10 million is buying the narrative even as Steyer's $134 million keeps buying TV time.</p>
+  <h2>Where the race actually is, May 1, 2026</h2>
+  <p>Two candidates are consolidating into the top-two primary advance: <strong>Becerra (D) and Hilton (R)</strong>. Three candidates with substantial money apparatus are losing ground: Steyer (under negative blitz from PG&amp;E + opposition polling), Bianco (losing R lane to Hilton's Fox-network reach), Porter (squeezed). Mahan's $8M billionaire bloc isn't translating to votes.</p>
+  <p>The Camp Fire utility's $10 million is buying the narrative even as Steyer's $134 million keeps buying TV time. The next poll will almost certainly show Steyer dropping further. Watch for whether Becerra holds the surge or whether the institutional-Democratic consolidation is itself fragile.</p>
 
   <div class="sources">
-    <strong>Sources.</strong> Gudelunas Strategies poll commissioned by FPPC committee 1489677, 4/23-27/2026, N=800 (Mike Madrid thread, 4/30/2026). All contribution amounts: California Cal-Access RCPT_CD + S497_CD bulk, traced through CVR_CAMPAIGN_DISCLOSURE_CD to confirm filer committee. Steyer self-fund: data/cal-access-self-funding.jsonl partition. Pro/anti committee identification: FILERNAME_CD per FPPC opposition-naming convention ("NO ON [CANDIDATE]" suffix). Compiled at thedonormap.org by Code Claude (Opus 4.7) using cal-access-claim-verifier.cjs primary-source filing-trace tooling. All data verified 2026-05-01.
+    <strong>Sources.</strong> Gudelunas Strategies poll, 4/23-27/2026, N=800 (Mike Madrid thread, 4/30/2026). All contribution amounts verified via California Cal-Access RCPT_CD + S497_CD bulk, traced through CVR_CAMPAIGN_DISCLOSURE_CD to confirm filer committee. Anti-Steyer polling expenditure: Cal-Access EXPN_CD filing 3138008 (David Binder Research, $30,000, "Survey/Oppose/Tom Steyer/Governor/Statewide"). Steyer self-fund: data/cal-access-self-funding.jsonl partition. Pro/anti committee identification: FILERNAME_CD per FPPC opposition-naming convention ("NO ON [CANDIDATE]" suffix). Compiled at thedonormap.org by Code Claude (Opus 4.7) using cal-access-claim-verifier.cjs primary-source filing-trace tooling. All data verified 2026-05-01.
   </div>
 </article>
 
