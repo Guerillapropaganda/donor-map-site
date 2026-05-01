@@ -170,10 +170,44 @@ async function findFilingFiler(filingId) {
   return result;
 }
 
+// ── Internal: FILING_ID → CMTE_ID index (built from CVR_CAMPAIGN_DISCLOSURE) ─
+let _filingToCmteCache = null;
+async function loadFilingToCmteId() {
+  if (_filingToCmteCache) return _filingToCmteCache;
+  const map = new Map();
+  const file = path.join(BULK_DIR, 'CVR_CAMPAIGN_DISCLOSURE_CD.TSV');
+  if (!fs.existsSync(file)) { _filingToCmteCache = map; return map; }
+  const stream = fs.createReadStream(file, { encoding: 'utf-8' });
+  const rl = readline.createInterface({ input: stream, crlfDelay: Infinity });
+  let isFirst = true;
+  let cols = {};
+  for await (const line of rl) {
+    if (isFirst) {
+      const headers = line.split('\t');
+      headers.forEach((h, i) => cols[h] = i);
+      isFirst = false;
+      continue;
+    }
+    const fields = line.split('\t');
+    const fid = fields[cols.FILING_ID];
+    const cmteId = fields[cols.FILER_ID];
+    if (fid && cmteId) {
+      // Only store the FIRST occurrence per filing_id (amendments share filing_id)
+      if (!map.has(fid)) map.set(fid, cmteId);
+    }
+  }
+  _filingToCmteCache = map;
+  return map;
+}
+
 // ── Public: search RCPT_CD + S497_CD for contributions ────────────────
 async function findContributions({ donor_name, recipient_committee_id, cycle, min_amount = 0, max_results = 100 }) {
   const out = [];
   const matchDonorName = donor_name ? new RegExp(donor_name, 'i') : null;
+  // Pre-load filing→cmte index when caller is filtering by recipient committee.
+  // Many raw rows have empty CMTE_ID directly; the actual recipient committee
+  // is the FILER_ID of the parent CVR filing.
+  const filingToCmte = recipient_committee_id ? await loadFilingToCmteId() : null;
 
   async function scan(file, isS497) {
     if (!fs.existsSync(file)) return;
@@ -194,16 +228,24 @@ async function findContributions({ donor_name, recipient_committee_id, cycle, mi
       const namf = isS497 ? fields[cols.ENTY_NAMF] : fields[cols.CTRIB_NAMF];
       const fullName = `${namf || ''} ${naml || ''}`.trim();
       if (matchDonorName && !matchDonorName.test(fullName)) continue;
-      const cmteId = isS497 ? fields[cols.CMTE_ID] : fields[cols.CMTE_ID];
+
+      // Determine recipient cmte_id with filing-trace fallback when raw is empty
+      let cmteId = fields[cols.CMTE_ID] || '';
+      const filingId = fields[cols.FILING_ID];
+      if (!cmteId && filingId && filingToCmte) {
+        cmteId = filingToCmte.get(filingId) || '';
+      }
       if (recipient_committee_id && cmteId !== String(recipient_committee_id)) continue;
+
       const amount = parseFloat(fields[cols.AMOUNT]) || 0;
       if (amount < min_amount) continue;
       const date = isS497 ? (fields[cols.CTRIB_DATE] || fields[cols.DATE_THRU]) : (fields[cols.DATE_THRU] || fields[cols.RCPT_DATE]);
       const isoDate = (date || '').match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})/);
       const yyyymmdd = isoDate ? `${isoDate[3]}-${isoDate[1].padStart(2,'0')}-${isoDate[2].padStart(2,'0')}` : null;
       if (cycle && yyyymmdd && !yyyymmdd.startsWith(String(cycle).slice(0, 3))) continue;
+
       out.push({
-        filing_id: fields[cols.FILING_ID],
+        filing_id: filingId,
         donor_name: fullName,
         donor_employer: isS497 ? fields[cols.CTRIB_EMP] : fields[cols.CTRIB_EMP],
         donor_occupation: isS497 ? fields[cols.CTRIB_OCC] : fields[cols.CTRIB_OCC],
