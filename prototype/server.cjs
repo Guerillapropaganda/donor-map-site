@@ -8,6 +8,7 @@ http.createServer((req, res) => {
   let file;
   if (url === '/v2') file = 'landing-v2.html';
   else if (url === '/charts' || url === '/charts.html') file = 'charts.html';
+  else if (url === '/memes' || url === '/memes-may-1' || url === '/memes-may-1.html') file = 'memes-may-1.html';
   else file = 'landing-v3.html';
   const filePath = path.join(__dirname, file);
   const content = fs.readFileSync(filePath, 'utf8');
