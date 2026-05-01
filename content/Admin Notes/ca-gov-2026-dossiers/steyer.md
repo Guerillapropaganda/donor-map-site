@@ -169,6 +169,52 @@ Three distinct librarian misattribution patterns surfaced across the Phase 5b/c/
 
 All four patterns warrant harness checks. The Phase 5d corrections demonstrate that primary-source filing-trace via CVR_CAMPAIGN_DISCLOSURE_CD is the source of truth — the librarian's derived edges are an approximation that needs auditing against this primary source.
 
+## PERPLEXITY-VERIFIED CORRECTIONS (Phase 5f — 2026-05-01)
+
+David's Perplexity verification pass on the anti-Steyer committee findings (Anti_Steyer_Verification_Report.md, 2026-05-01) confirmed 8 of 8 claims with the following refinements:
+
+### Corrections to apply
+
+**1. PG&E + IBEW total = $10,050,000 (not $10,025,000).** Prior trace missed a second IBEW Local 1245 contribution of $25,000 on 4/20/2026 (filing 3135715, line 2). True totals to committee 1490270:
+- PG&E Corporation: $8,000,000 (4/10) + $1,975,000 (4/20) = $9,975,000
+- IBEW Local 1245: $50,000 (4/10) + **$25,000 (4/20)** = $75,000
+- **Total: $10,050,000**
+
+Independently corroborated by Energy and Policy Institute report ("Both PG&E and IBEW 1245 made subsequent donations on April 20, 2026, of $1.975 million and $25,000 respectively").
+
+**2. Committee 1489677 first F410 was 3/27/2026, not 4/1/2026.** First electronic F410 filing was 3/27/2026 (filing 3129634); the 4/1/2026 effective date in FILERNAME_CD reflects an amendment that added the second name ("Californians for the People..."). The committee predates the 4/1 date by five days.
+
+**3. Compliance-firm framing was WRONG. Two firms, tiered structure.** My earlier "same compliance shop" claim was inaccurate. Verified split:
+
+| Committee | Compliance firm | Treasurer | Email |
+|---|---|---|---|
+| 1489677 (anti-Steyer spender) | **Deane & Company** (Sacramento) | Laiza Negrete | CASPeople@deaneandcompany.com |
+| 1490270 (PG&E funnel) | Nielsen Merksamer (San Rafael) | Evann Whitelam | FORM410@NMGOVLAW.COM |
+| 1487425 (Mahan IE — Back to Basics) | Nielsen Merksamer | Steven S. Lucas | FORM410@NMGOVLAW.COM |
+| 1488176 (Mahan IE — Deliver for CA) | Nielsen Merksamer | Elli Abdoli | FORM410@NMGOVLAW.COM |
+
+**Editorial significance — the corrected framing is sharper:** Two firms in tiered specialization. Nielsen Merksamer handles upstream "wholesale" donor-collection funnels (the PG&E committee + the Mahan IE PACs collecting from Silicon Valley). **Deane & Company** handles downstream "retail" spending committees (the anti-Steyer-spending 1489677 + CAR-adjacent FAIRPAC). The compliance work is divided along industry alignment: NM = utility/employer coalitions; D&C = Realtors/anti-Steyer spending. **Different firms, coordinated infrastructure pattern.**
+
+**4. The "$21,025,000 IE spending" framing needs terminology refinement.** Per FPPC's own Top 10 Contributors page (which independently confirms the $21,025,000 figure to the dollar), this is **contributions RAISED to oppose Steyer**, not expenditures MADE. Actual Schedule D IE-spending total through 4/17/2026 = **$13,892,448.41**. The remaining ~$7M+ has been raised but not yet appeared as expenditures (will land in subsequent F496 reports as ad buys are made). Don't conflate "raised to oppose" with "spent against."
+
+**5. JOBSPAC $5M — STILL ON BOOKS, not amended.** Filing 3137881 records JOBSPAC contribution dated 4/21/2026, which is outside the F460 reporting window (1/1 - 4/18). Will appear in next F460 (period closes 5/17, filed by 5/22). No amendment filed.
+
+**6. Bonus findings:**
+- **Schedule C in-kind from "California Electric Utility Industry Labor-Management Cooperation Committee"** — $4,110 for "PAC Administrative Services" — confirms the third sponsor named in CARFE's full title is providing in-kind labor admin support, not cash.
+- **David Binder Research subcontracted:** $9,875 to KGS Research, Inc. (Las Vegas) + $4,200 to Political Data, Inc. (Norwalk).
+- **California Real Estate Independent Expenditure Committee = filer 963026** (CAR's IEC vehicle), parent 1069777, LA address ZIP 90020.
+- **Treasurer Evann Whitelam** sits on 10 NM-affiliated committees; **Steven S. Lucas** sits on 50+. Useful entity-resolution data for future investigations.
+
+**7. Open question STILL UNRESOLVED:** Principal officer behind "Business Owners and Concerned Citizens" sponsor of 1489677 is **undisclosed at primary-source level**. No F460 cover sheet, F410, or sponsor disclosure names a principal officer. To pierce, would need FPPC public records request or MUR-style enforcement.
+
+### Verification source paths
+
+All corrections sourced from:
+- California Cal-Access bulk export, 2026-05-01 08:39 UTC snapshot
+- FPPC Top 10 Contributors list — June 2026 Primary Election (independent corroboration)
+- Energy and Policy Institute report on Becerra utility funding
+- Schedule D / Schedule E line-item analysis on filings 3137638 and 3138008
+
 ## Open questions for David
 
 - Confirm the principal-funder structure of committee 1485077 + 1489677 against the FPPC committee detail page (currently Imperva-blocked — defer to Phase 5 or alt verification path)
