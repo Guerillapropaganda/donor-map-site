@@ -4,6 +4,147 @@ type: system
 last-updated: 2026-04-30
 ---
 
+## HANDOFF — 2026-04-30 PM (cc_p3_200 → cc_p3_209 + 2 follow-ups, ADR-0024 Phase 3 D-completion + vault enrichment Tier 1 expansion + thesis pages + editorial-direction pivot)
+
+**Context:** Code Claude. Worktree `claude/festive-aryabhata-72c317`, Opus 4.7 (1M context). 14 commits to v4 across one extended session. Started from cc_p3_199 handoff (David's "go down the list" through options A/B/C/D), pivoted into vault audit work, then a 10-item Tier 1 expansion authorized mid-session ("I approve everything"), and ended on a strategic conversation about navigation/editorial direction shifting to PUNCHY-WOW.
+
+### THIS SESSION'S DELIVERABLES (all shipped to v4)
+
+**ADR-0024 Phase 3 D-completion (cc_p3_200 → cc_p3_205).**
+- cc_p3_200: 73,791 sponsorship edges from `data/bills.jsonl` (sponsor-only, BILLSTATUS bulk source path remained gated). New `scripts/derive-sponsorship-edges-from-bills.cjs`. Added `bill` to NodeType + `govinfo-bill-status` to PERMISSIVE_EDGE_SOURCES.
+- cc_p3_201: `/thesis` ops page with 3 admin-gated API routes (influence-map, class-profile, both-sides). 3 tabs.
+- cc_p3_202: ADR-0030 §10 amendment — voteview.com / govinfo.gov / clerk.house.gov / senate.gov / congress.gov added to active allowlist, bulk-data downloads authorized.
+- cc_p3_204: Voteview bulk ingest (715MB CSVs → 4.79M per-legislator vote positions, 108-114). New `lib/donor-map/positions.ts` standalone helper. `influencePipelines` Graph method + 6 unit tests. `votingDivergence` computeFn + 6 tests. 2 new /thesis tabs.
+- cc_p3_205: `policyAlignment` (groups by Congress.gov policy_area taxonomy, ~25 buckets) + `politicianContradictions` (REFRAMED — donor-sibling vote divergence; original "stated platform vs donor want" was unscoped without scraping). 7 unit tests. 2 new /thesis tabs. Bills.jsonl loaded into Graph at construction.
+
+**Audit work (cc_p3_206 + cc_p3_207 + cc_p3_208).**
+- cc_p3_206: First exercise of ADR-0030 §10 audit-fetch carve-out. Audited 28 fetches against live primary sources. Caught 949 corrupted Senate `result` fields in `data/votes.jsonl` (regex over-captured XML markup beyond `<vote_result>` close tag). Fixed mechanically via 3-fallback strategy. 0 give-ups.
+- cc_p3_207: Recovered 44,716 silently-dropped edges by adding `fec-oppexp` (43,773) + `usaspending-bulk` (911) to PERMISSIVE_EDGE_SOURCES. Graph 281k → 326k visible edges (+16%). New `scripts/audit-unresolved-edges.ts` permanent diagnostic.
+- cc_p3_208: Cleared 40 harness findings — fixed code-audit-fetch-discrepancy-check semantics (blocked-by-cf is terminal, not stuck), wired build-cal-access-panels into dispatcher, added auto:cal-access to pipeline-janitor EXPECTED_BLOCKS, ran bootstrap-worktree-data, synced 10 missing entities (Volodymyr Zelenskyy, Laphonza Butler, French Hill, Bezalel Smotrich, Itamar Ben-Gvir, CoreCivic, DSCC, NRSC, Never Back Down, Blackstone Real Estate Political Op).
+
+**Vault enrichment Tier 1 expansion — David approved "everything" (cc_p3_209, single commit train across 10 items).**
+- Provenance check semantics fix: -556 false positives (`stuck` is auto-detected pre-decision state, not human-decided)
+- Cross-source role-disagreement dedup: 1,592 fec-bulk edges dropped at load when fec-pas2 has same flow per ADR-0013 → -1,360 phantom-overcount warns
+- Frontmatter schema backfill from registries: 868 fields filled across 866 profiles (510 single-fec-committee, 353 multi-fec-committee, 2 bioguide, 2 entity-type, 1 parent). Format-preserving inject (no yaml.dump round-trip).
+- Pathless-stub-aliases promoted Tier 2 → Tier 1 with strict 1:1 fec_name predicate. CAREY FOR CONGRESS auto-merged into Mike Carey on first run. New Mike Carey calibration fixture.
+- Story-candidate dedup by evidence-count: 14 archived → story-pages-integrity duplicates 24 → 0
+- sync-entities-from-profiles wired into dispatcher (daily 4:30 AM)
+- Cosponsor edges via BILLSTATUS bulk: 12 zips (~136MB) downloaded from govinfo per ADR-0030 §10. 468,644 cosponsor edges added. Graph 326k → 795k edges (+144%). govinfo-bill-status.jsonl re-gitignored (346MB, over GitHub cap).
+- Topic-page-as-donor cleanup: 128 monetary edges deprecated where one endpoint matched `/\s+-\s+(The|A|An)\s+\w+/` article-subtitle pattern (e.g. "Medicare for All - The Policy That Broke the Party" → no longer cited as a donor)
+- A+ auto-block-runner: scope corrected — A+ findings are missing-FIELD not missing-BLOCK; mechanical subset already covered by schema backfill
+- ADR-0029 §10 amendment formalizes all 5 new auto-apply behaviors
+
+**Net harness impact across all 9 enrichment items:** 3,061 findings → ~1,100 (-1,961).
+
+**Phase A + C ("translate to website, gated"):**
+- Phase A: ran 5 build-*-panels scripts → 1,667 profiles updated with fresh auto-blocks
+- Phase B intentionally skipped (TIER_GATED_PUBLISHING=false stays — ProfileTabs hardening is a larger future session)
+- Phase C: new `scripts/build-thesis-pages.cjs` precomputes thesis-query results at build time, renders as static markdown. 10 pages: `content/thesis/index.md`, `content/thesis/both-sides.md`, `content/thesis/influence/{aoc,joe-manchin,mitch-mcconnell,bernie-sanders,elizabeth-warren,susan-collins,ted-cruz,chuck-schumer}.md`. NOT in `data/public-routes.json` — gated.
+- **Bonus librarian bug fix (cc_p3_209 phase-C bonus):** ADR-0001 class-tag fields (`capital_type`, `ideological_function`, etc.) live at TOP LEVEL of entity records; resolver was only copying `e.signals` into `node.meta`. ALL 706 class-tagged donors were invisible to `classProfile` / `influenceMap`. Fixed in `lib/donor-map/resolver.ts:241` — merge top-level class-tag fields into meta. After fix: McConnell shows 13 capital clusters (dominant: dark-money-vehicle $19.92M from 44 donors, then rentier-capital $2.33M, fossil-capital $387K, pharma, military-industrial, tech-monopoly, finance, agribusiness, media). Same shape across all 8 flagship pages.
+- Local-test verification on Quartz dev server: thesis pages render, McConnell master profile renders with 12 Money sections + 5 Key Votes sections in sidebar. Title-duplicate cosmetic issue caught + fixed (dropped `# H1` from build-thesis-pages.cjs templates since Quartz emits frontmatter title).
+
+### EDITORIAL-DIRECTION PIVOT (this is the next session's mandate)
+
+David's diagnosis after seeing the rendered thesis pages + McConnell profile: **"the site isn't as navigatable as I would like. Things don't CLICK. We don't have that WOW affect navigating the website."** Then sharpened: **"PUNCHY, WOW, THATS CRAZY type of editorial direction."** Then approved Option B (chart-component library, full-investment) and asked for a handoff capturing the direction.
+
+**The honest diagnosis I gave back:**
+- The site is a research database masquerading as a journalism site
+- Quartz mental model = academic/wiki publishing (TOC, breadcrumbs, tabs); journalism mental model = lede / pull-quote / chart-as-hero / story arc
+- The data depth is excellent; the framing is what's missing
+- ProPublica has the same data depth but opens with one stunning fact + chart. We open with a tab bar.
+- Quartz wasn't the wrong tool for v1 (publish-the-vault). It's the limiting tool for v2 (journalism). Migrating frameworks is huge work and doesn't fix the editorial gap. Stretching Quartz with custom components + content investment is the right move.
+
+**The redesign — top nav (5 items, exactly):**
+1. Today (chart-led homepage; replaces construction splash)
+2. Stories (punchy ~300-word format, chart-as-hero)
+3. Maps (Sankey / influence-pies / divergence sparklines / race breakdowns; the WOW destinations)
+4. Profiles (politician + donor lookup combined; replaces Politicians/Donors split)
+5. About / Methods
+
+Category tree (1195 Politicians / 808 Donors / 97 Stories / etc.) DEMOTED to footer "Browse everything" page.
+
+**Punchy story format:**
+- ~300 words MAX
+- ONE chart, big, top of page (60% of fold)
+- 10-word headline (brutal)
+- 50-word lede
+- 3 stat cards (the receipts)
+- Sources inline, never buried
+- Reads in 30 seconds, shareable on Bluesky/Twitter
+
+**Profile redesign (3 zones):**
+1. Visual lede zone: donor stripe + dominant-cluster pie + ONE killer stat + ~50-word headline overlay. NO long-form prose.
+2. Punchy fact cards (4-5): "Career $47M · 67% dark money · 13 capital clusters · 8 bills sponsored · 17 contradictions on record"
+3. Data tabs as backstop (current Money/Votes/Analysis/Sources stays — power-user reference material)
+4. Connections (related profiles, related stories)
+
+**Flagship list (David approved 12, can cut):**
+- Trump-orbit: Donald Trump, JD Vance, Marco Rubio, Stephen Miller
+- 2028 / rising Dems: AOC, Gavin Newsom, Gretchen Whitmer, JB Pritzker
+- Institutional: Mitch McConnell, Chuck Schumer, Nancy Pelosi
+- Cross-party narrative: Joe Manchin
+
+**Option B chart-component library (David picked this over Option A consistency):**
+4 components, hand-designed:
+- Donor-class pie (12 capital clusters as a pie / treemap)
+- Donor stripe (the existing Mega-Donors/Dark-Money percentage bar — already shipping on profile pages)
+- Voting-divergence sparkline (Manchin's 20% — line chart of vote-by-vote position vs party median)
+- Money-flow Sankey-mini (donor → committee → recipient, scaled-down version of the Cal-Access /races visuals)
+
+Each flagship gets the right chart for their story shape — Trump-orbit + corporate Dems get pie; Manchin-class get sparkline; Fairshake-type stories get Sankey.
+
+**Migration order David approved (refined):**
+1. Punchy story prototype + 1 prototype story (~$25-35 Opus). Pick "Fairshake PAC: $14.5M to crush progressive primaries" since the data is sharpest. Build the punchy template, ship one. See how it feels.
+2. Homepage with chart-led modules (~$40-60 Opus). Rotating hero + 3 cards (with sparkline previews) + numbers strip + 6 story-card grid.
+3. Build the 4 chart components (Option B library) (~$60-80 Opus).
+4. 3 flagship profiles in new shape — Trump, AOC, Newsom (~$50-70 Opus). Visual lede + fact cards + data tabs below.
+5. Maps as destinations (Sankey + thesis-page work surfaced publicly) (~$80-120 Opus).
+6. 5-item top nav + demote category tree (~$15-25 Opus).
+7. Remaining 9 flagships in shipped shape (~$80-120 Opus).
+
+**Total redesign budget estimate: ~$350-500 Opus across 6-8 sessions.**
+
+### KNOWN ISSUES / CARVE-OUTS
+
+- **TIER_GATED_PUBLISHING = false** in `quartz/constructionMode.ts` since 2026-04-21. ProfileTabs needs hardening (auto-blocks pile into main body, ProfileTabs can't locate expected section IDs, archived-only Sources lists render awkwardly, banner sat atop already-substantive editorial profiles). 446 data-complete profiles stay gated until the ProfileTabs fix ships. **Larger session.**
+- **Thesis pages exist but are gated** — not in `data/public-routes.json`. Adding `"thesis"`, `"thesis/both-sides"`, `"thesis/influence/{slug}"` would make them public independently of TIER_GATED_PUBLISHING.
+- **policyAlignment policy_signal.available always false** until vote-on-policy edges land. Bills carry `policy_area` but there's no bill→policy bridge yet. Editorial vocabulary expansion (data/policies.jsonl currently has 5 entries; gate needs ≥10) would unlock part of it.
+- **politicianContradictions reframed** — original definition required scraping campaign-promise data (out of scope). New def works on existing data but fixture coverage thin.
+- **govinfo-bill-status.jsonl is 346MB and gitignored.** bootstrap-worktree-data mirrors across worktrees but new clones must regenerate via `scripts/derive-cosponsor-edges-from-billstatus.cjs --write` (requires the BILLSTATUS-*.zip files at `C:/donor-map-data/bulk/Bill Status/`).
+- **Quartz table rendering collapses into stacked-row "cards"** at narrower widths instead of a grid layout. Functionally readable but design polish later if grid is wanted.
+
+### NEXT SESSION PRIORITIES (numbered, most important first)
+
+1. **Build punchy story template + prototype.** Pick Fairshake PAC's $14.5M anti-progressive-primary spend (data is sharpest). New `content/stories/punchy/` directory pattern. Custom Quartz component for the punchy-story shape (chart hero / 10-word headline / 50-word lede / 3 stat cards / inline sources). ~$25-35 Opus.
+
+2. **Build the 4 Option-B chart components.** `quartz/components/Charts/{DonorClassPie,DonorStripe,VotingDivergenceSparkline,MoneyFlowSankey}.tsx`. Each is a self-contained React+SVG component fed by precomputed JSON. The donor-stripe already exists on profile pages; harvest it. ~$60-80 Opus.
+
+3. **Replace homepage.** New `quartz/components/HomePageHero.tsx` with rotating chart-as-story. Plus the 3 sparkline-preview cards. Plus the numbers strip. Plus 6 story-card grid. ~$40-60 Opus.
+
+4. **3 flagship profiles in the new shape.** Trump, AOC, Newsom. Custom `quartz/components/FlagshipLede.tsx` for the visual-lede zone. Hand-pick the right chart per politician. ~$50-70 Opus.
+
+5. **Maps section.** `/maps/money-trail/{donor}`, `/maps/both-sides`, `/maps/influence/{politician}`. Surface thesis-page work + Cal-Access Sankey publicly. ~$80-120 Opus.
+
+6. **5-item top nav + demote category tree.** Update `quartz/components/DonorMapSidebar.tsx` and the `LandingPage` routing. ~$15-25 Opus.
+
+7. **Remaining 9 flagships.** Vance, Rubio, Miller, Whitmer, Pritzker, McConnell, Schumer, Pelosi, Manchin. Shipped pattern from #4. ~$80-120 Opus.
+
+### DAVID'S LANE (your eyes/clicks needed before next session)
+
+- **Decide: ship punchy stories on flagships first OR ship the homepage first?** I recommended punchy-story prototype first (cheapest, fastest signal on whether the format works). Homepage second. Either order works.
+- **Confirm or cut the 12-flagship list.** Especially: do you want Vance + Miller in or out? Pelosi (older-power) vs. Hakeem Jeffries (newer-power)? Pritzker definitely on or off?
+- **Pick the prototype story.** I suggested Fairshake $14.5M. Other good candidates: Leonard Leo's $1.6B network, Koch Network's seven-figure giving cycles, Steyer self-funding $133M to lose his own race.
+- **Weekly Tier 1 sample audit on `/audit-claude-decisions`** (~10 min, ADR-0029 mandate). Plenty of new Tier 1 records from this session.
+
+### CONTEXT FROM THIS SESSION
+
+- 14 commits shipped to v4 (last: `7366b56c5` — content-conflicts resolution after thesis-page H1 dedup fix).
+- Token usage ~$280-340 Opus (cc_p3_200 through cc_p3_209 + 4 follow-ups).
+- 1 new memory candidate flagged: David's editorial-direction pivot — "PUNCHY, WOW, THATS CRAZY" + magazine-shaped nav + Option B chart library. Worth saving as `feedback_punchy_editorial_direction.md` next session if I'm in.
+- Worktree: `claude/festive-aryabhata-72c317`. Many uncommitted Admin-Notes drift from harness runs in main repo; harmless.
+
+---
+
 ## HANDOFF — 2026-04-30 (cc_p3_179 → cc_p3_199, Cal-Access full pipeline + ADR-0030 + ADR-0024 Phase 3 + audit + 3 follow-up sweeps)
 
 **Context:** Code Claude. Worktree `claude/condescending-rosalind-c44631`, Opus 4.7 (1M context). ~21 commits to v4 across one extended session. Started from cc_p3_178 handoff queue (items 4 + 5 — Phase 2 + Phase 3 thesis queries) but pivoted to Cal-Access bulk ingest mid-stream when David flagged the CA-Gov 2026 race as the priority. Then cycled back to ADR-0024 Phase 3 + frontmatter Phase C-prelude after Cal-Access shipped.
