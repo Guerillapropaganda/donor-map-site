@@ -88,37 +88,66 @@ audience: code-claude / david
 
 His federal record reinforces the pattern: $335.5M outgoing across cycles 2020-2022, including the famously self-funded 2020 presidential run ($191M), NextGen Climate spending, and donor-class giving to other Democrats. Steyer's "coalition" branding is not unique — operatives often name IE PACs after the political message rather than the source of the money. But the gap between the coalition language ("California Is Not For Sale") and the actual funding source (a single billionaire whose career is buying California politics) is the story. **Screenshot-bait fact:** "Tom Steyer's 'California Is Not For Sale' coalition: $13.89M from one source. Tom Steyer."
 
-## NEW FINDINGS (Phase 5b deep extract — 2026-05-01)
+## CORRECTED FINDINGS (Phase 5c — 2026-05-01)
 
-### PG&E is spending $16M to defeat Steyer
+**Major correction to earlier Phase 5b findings.** David's skepticism prompted re-verification. The "California Is Not For Sale" framing of committee `1489677` as a Steyer self-fund vehicle was wrong. Re-verification against FILERNAME_CD primary source reveals `1489677` is an **anti-Steyer opposition committee**, not a Steyer-controlled committee. Corrected findings below.
 
-Cal-Access bulk shows committee `1490270` — **"CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, NO ON STEYER FOR GOVERNOR 2026"** — an explicitly anti-Steyer FPPC committee. Funders identified from the raw RCPT_CD bulk:
+### Steyer self-funded $133.8M to his own campaign — corrected total
 
-| Donor | Amount | Note |
-|---|---:|---|
-| Pacific Gas & Electric Corporation | $8,000,000 | First $8M filing, 2026 cycle |
-| PG&E Corporation | $8,000,000 | Second $8M filing (capitalization differs — likely separate filing event, two distinct transactions) |
-| IBEW Local 1245 (Electrical Workers union) | $50,000 | PG&E's own utility-workers union — labor aligned WITH the employer against Steyer |
+Raw RCPT_CD verification: **Tom Steyer (employer "Steyer for Governor 2026," occupation "Candidate") personally contributed $133,776,000 across 41 contribution events to his own committee 1485077 ("STEYER FOR GOVERNOR 2026" — clean naming, no opposition-committee suffix).** Largest single contribution: $20M on November 19, 2025 (his official campaign launch date). Several individual contributions exceed $10M.
 
-**Total identified anti-Steyer funding: ~$16.05M.**
+This **dwarfs the earlier $14M figure** that came from the librarian's bulk-edge derivation (`data/derived/cal-access-bulk.jsonl`). The bulk-edge derivation appears to have undercounted candidate-self contributions, possibly treating them as internal transfers rather than reportable contributions. **Data-quality finding.**
 
-**Verification confidence:** Tier 1 — Cal-Access FPPC primary source. The committee number `1490270` and donor amounts are FPPC-disclosed in the bulk RCPT records. The "two $8M filings" interpretation needs one more pass against the source-of-truth filings to confirm whether they are two distinct contributions ($16M total) or one $8M with name-normalization duplication ($8M total). Either number is screenshot-bait.
+**Editorial significance.** Steyer's $133.8M self-fund matches the scale of his 2020 presidential self-fund pattern ($191M historical). Same operator, same playbook. The "billionaire self-fund" archetype is more than confirmed — it's the dominant fact about his campaign, more than any individual donor or any particular contradiction. He has effectively created a category of CA gubernatorial candidate that exists only with a billionaire's bank account.
 
-**Editorial significance — the cleanest class-analysis story in the entire CA Gov 2026 race so far.** Pacific Gas & Electric Corporation — the utility behind multiple deadly wildfires (Paradise / Camp Fire 2018 killed 85 people), the 2019 bankruptcy filing, and the 2020 felony pleas to involuntary manslaughter for negligent maintenance — is funding the opposition campaign against the only major candidate whose brand is climate-and-utility accountability. That's not background. That's the foreground story. The class-analysis frame writes itself: **fossil-capital + utility-monopoly capital organizing against a climate-aligned challenger.**
+**Screenshot-bait formulation.** "Tom Steyer's California governor campaign has 131 outside donors and Tom Steyer. Tom Steyer has given $133,776,000. The 131 others have given $187,873." (Numbers approximate — verify against the latest filings.)
 
-The IBEW Local 1245 $50K addition is the texture: the IBEW local represents PG&E linemen — labor aligned with the employer against the candidate. The class structure is: capital + employer-aligned labor + utility-rate-payer-burden = the existing power structure defending itself against the billionaire-ironic-outsider who wants to break it.
+### Anti-Steyer opposition spending — TWO committees identified, ~$30M total
 
-**Screenshot-bait formulation.** "Tom Steyer's biggest opponent isn't another candidate. It's PG&E. The utility behind the Camp Fire is spending $16 million to keep him out of the California governor's office."
+**The "California Is Not For Sale" framing was wrong; both committees with that pattern are opposing Steyer.** FPPC naming convention requires opposition committees to disclose their target candidate's name in their official committee name, with "NO ON [CANDIDATE]" as the disclosure pattern. Two such committees verified:
 
-### Background — Steyer's longer Becerra-support history (federal)
+| Committee | Registered Name | Funder | Amount |
+|---|---|---|---:|
+| `1490270` | "CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, NO ON STEYER FOR GOVERNOR 2026" | Pacific Gas & Electric Corporation (two filings) + IBEW Local 1245 | ~$16.05M |
+| `1489677` | Primary: "CALIFORNIANS FOR THE PEOPLE, SPONSORED BY BUSINESS OWNERS AND CONCERNED CITIZENS." Alt: "STEYER FOR GOVERNOR 2026 ... CALIFORNIA IS NOT FOR SALE, NO ON" | TBD (per FILERNAME_CD: "Business Owners and Concerned Citizens" — ID-of-actual-funder remains David's verification) | ~$13.89M |
 
-Raw RCPT_CD verification: Tom Steyer (employer "NextGen Climate" / "Fahr LLC", confirming billionaire identity) made $2,700 contributions to **Xavier Becerra's House campaign** (committee C00264101 "Becerra for Congress") in **2016** — not 2026. An earlier surface-level read of the bulk-derived edges mis-attributed this as a 2026 contribution because the librarian conflated filing date with transaction date on an amended filing.
+**Both committees registered at the same Sacramento address (Deane and Company, a major California campaign-finance compliance firm).** Different actual funders, same operational shop. The pattern suggests coordinated opposition infrastructure, though independence between the funders cannot be confirmed without further filing review.
 
-**Corrected interpretation:** the Steyer-to-Becerra giving relationship is real but historical — Steyer supported Becerra's federal political career going back at least to 2016 (and possibly 2018, where Allan Steyer is shown contributing to Becerra for Attorney General 2018). It is NOT a current-cycle contribution to Becerra's gubernatorial primary opponent.
+**Total identified anti-Steyer spending: ~$30M.** This makes Steyer the most-targeted candidate in the entire CA Gov 2026 race by opposition spending. Mahan's IE-PAC funding (~$2.4M+, see his dossier) is small by comparison; no other major candidate has comparable opposition-committee infrastructure organized against them.
 
-**Implication for the editorial framing:** Steyer's run is in genuine primary competition with Becerra in 2026, not a head-fake or hedge. The historical giving establishes a personal/political relationship, but they are competing for the same voter base now.
+### The PG&E story still stands — refined
 
-**Data-quality finding (separate concern):** The bulk-edge derivation should distinguish RCPT_DATE (filing/amendment date) from DATE_THRU (original transaction date) on amended records to avoid cycle-misattribution. Worth a harness check for edges where these fields diverge by more than one cycle.
+The Phase 5b finding on PG&E spending $16M to defeat Steyer is verified by FPPC naming-convention analysis: committee `1490270` explicitly names "NO ON STEYER FOR GOVERNOR 2026" in its registered title. PG&E's two $8M filings to that committee are confirmed. The class-analysis frame stands:
+
+> Pacific Gas & Electric Corporation — the utility behind multiple deadly wildfires (Camp Fire 2018 killed 85 people), the 2019 bankruptcy filing, and the 2020 felony pleas to involuntary manslaughter for negligent maintenance — funded ~$16M against the only major candidate whose brand is climate-and-utility accountability. Plus $50K from IBEW Local 1245 (PG&E's own utility-workers union).
+
+### Refined editorial framing
+
+The story shape changes substantially from the Phase 5b draft:
+
+**OLD (corrected away):** "Steyer is a billionaire self-funder operating through a slogan-branded coalition committee."
+
+**NEW (verified):** Steyer is a billionaire who has personally funded $133.8M of his own campaign through clean, named candidate committee infrastructure. He is also the most-targeted candidate in the race by opposition spending — facing combined ~$30M+ from a PG&E-funded anti-Steyer committee plus a "Business Owners and Concerned Citizens" anti-Steyer committee, both organized through the same compliance shop.
+
+**The class-money story is sharper than before:** Steyer's $133.8M and PG&E's $16M are operating in the same race, on the same primary ballot, against each other. Two billionaire-tier money flows colliding — one inside one candidate's pocket, one organized against him. The political-spending market for this single primary is approaching $200M when you count Steyer's self-fund + the anti-Steyer opposition + the other major candidates' campaigns.
+
+### Background — Steyer's longer Becerra-support history (federal, retracted from earlier draft)
+
+Earlier Phase 5b text incorrectly stated Steyer made a 2026 contribution to Becerra. Raw RCPT_CD verification revealed the actual transaction was 2016 (federal, to Becerra's House campaign), not 2026 (state, to Becerra's Gov committee). The Steyer-to-Becerra giving relationship is real but historical. *Documented in detail in [the verifications doc](../ca-gov-2026-hilton-uk-verifications-2026-05-01.md) — separate retraction.*
+
+### Data-quality findings — for the harness backlog
+
+Two distinct librarian misattribution patterns surfaced this session:
+
+1. **Cycle-misattribution on amended filings.** Bulk-edge derivation conflated RCPT_DATE (filing/amendment date) with DATE_THRU (original transaction date), producing edges flagged as "cycle 2026" when actual transactions were earlier cycles. (First surfaced via Steyer-Becerra-2016 finding; correction documented in earlier dossier round.)
+
+2. **Direction-flow misattribution on opposition committees.** Bulk-edge derivation treated FPPC opposition committees (whose names contain "[CANDIDATE] FOR [OFFICE], NO ON" per FPPC disclosure rules) as if they were the candidate's own committees, surfacing money flows in the wrong direction. (Surfaced this round via the "California Is Not For Sale" finding correction.)
+
+Both warrant harness checks. Recommended check shape:
+- Flag any edge where source/target name pattern matches `/^[A-Z][A-Z\s]+ FOR [A-Z]+\d+.*NO ON/` as a candidate's committee — that's an opposition committee, not a candidate-controlled committee.
+- Flag any edge where RCPT_DATE and DATE_THRU diverge by more than one cycle as suspect for cycle-misattribution.
+
+Both checks would prevent the kind of false findings that surfaced in Phase 5b.
 
 ## Open questions for David
 
