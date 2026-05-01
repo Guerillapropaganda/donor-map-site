@@ -4,11 +4,9 @@ tags:
   - thesis
   - influence-map
 content-readiness: data-complete
-last-updated: 2026-04-30
-last-enriched: "2026-04-30"
+last-updated: 2026-05-01
+last-enriched: "2026-05-01"
 ---
-
-# Influence Map: Elizabeth Warren
 
 Total incoming: **$13.06M** across **44** donor edges in the librarian.
 

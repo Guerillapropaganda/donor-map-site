@@ -4,11 +4,9 @@ tags:
   - thesis
   - both-sides
 content-readiness: data-complete
-last-updated: 2026-04-30
-last-enriched: "2026-04-30"
+last-updated: 2026-05-01
+last-enriched: "2026-05-01"
 ---
-
-# Both-Sides Donors
 
 **100** donor(s) funded politicians on **opposite sides of a recorded opposition pair** at $5,000+ to each side (truncated; raise limit for full list).
 

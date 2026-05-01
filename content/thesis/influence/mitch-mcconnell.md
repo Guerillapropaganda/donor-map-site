@@ -4,11 +4,9 @@ tags:
   - thesis
   - influence-map
 content-readiness: data-complete
-last-updated: 2026-04-30
-last-enriched: "2026-04-30"
+last-updated: 2026-05-01
+last-enriched: "2026-05-01"
 ---
-
-# Influence Map: Mitch McConnell
 
 Total incoming: **$34.49M** across **764** donor edges in the librarian.
 

@@ -4,10 +4,8 @@ tags:
   - interactive
   - tool
 content-readiness: data-complete
-last-updated: 2026-04-30
+last-updated: 2026-05-01
 ---
-
-# Thesis Queries
 
 Pre-computed analysis from the donor map's relationship graph. Each page below answers one specific question by walking the librarian — the canonical resolver of every entity, every edge, every classification.
 
@@ -31,4 +29,4 @@ Pre-computed analysis from the donor map's relationship graph. Each page below a
 
 Numbers come from the unified librarian (ADR-0024). Sources include FEC bulk + API, FEC individual contributions, IRS 8872 dark-money filings, ICIJ offshore leaks, Cal-Access (California state-level), Voteview roll-call records, and govinfo.gov bill sponsorship + cosponsorship data.
 
-Re-built mechanically by `scripts/build-thesis-pages.cjs`. Last refresh: 2026-04-30 23:21 UTC.
+Re-built mechanically by `scripts/build-thesis-pages.cjs`. Last refresh: 2026-05-01 00:05 UTC.

@@ -62,8 +62,6 @@ content-readiness: data-complete
 last-updated: ${new Date().toISOString().slice(0, 10)}
 ---
 
-# Thesis Queries
-
 Pre-computed analysis from the donor map's relationship graph. Each page below answers one specific question by walking the librarian — the canonical resolver of every entity, every edge, every classification.
 
 ## Available analyses
@@ -100,8 +98,6 @@ content-readiness: data-complete
 last-updated: ${new Date().toISOString().slice(0, 10)}
 last-enriched: "${new Date().toISOString().slice(0, 10)}"
 ---
-
-# Both-Sides Donors
 
 ${bs.pairs.length === 0 ? 'No pairs match the current threshold.' : `**${bs.pairs.length}** donor(s) funded politicians on **opposite sides of a recorded opposition pair** at $5,000+ to each side${bs.truncated ? ' (truncated; raise limit for full list)' : ''}.`}
 
@@ -208,8 +204,6 @@ content-readiness: data-complete
 last-updated: ${new Date().toISOString().slice(0, 10)}
 last-enriched: "${new Date().toISOString().slice(0, 10)}"
 ---
-
-# Influence Map: ${pol.name}
 
 Total incoming: **${fmtMoney(r.donor_class_profile.total_in)}** across **${r.donor_class_profile.edge_count.toLocaleString()}** donor edges in the librarian.
 
