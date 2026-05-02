@@ -33,23 +33,71 @@ interface NavGroup {
   pinned?: boolean
 }
 
+// ─── 2026-05-02 IA reorganization ──────────────────────────────────────
+//
+// Mental-model shift: the product is BEATS (per-race investigative pages),
+// not vault profiles. The vault is the BACKEND, not the front door. The
+// daily editorial workflow is "open the active beat, see all its
+// artifacts, edit / verify / publish." Vault management is now a
+// research-tool layer underneath.
+//
+// Five groups:
+//   1. EDITORIAL  — daily product surface (active beat + workflow tools)
+//   2. RESEARCH   — cross-beat research backlog (dossiers, Perplexity,
+//                   verifications, audits, tips)
+//   3. PUBLISH    — distribution + sign-off layer (queue, public-routes,
+//                   social distribution)
+//   4. VAULT      — the old DAILY/ANALYZE/CONTENT vault tools, now filed
+//                   as backend research tools rather than the daily surface
+//   5. SYSTEM     — pipelines, system health, audits, reference, rulebook
+//
+// Existing routes are preserved. Items move to new groups; nothing is
+// deleted. New editorial entries that don't have pages yet point at
+// /under-construction with an explanation of what's coming.
+
 const NAV_GROUPS: NavGroup[] = [
   {
-    id: "daily",
-    label: "Daily",
+    id: "editorial",
+    label: "Editorial",
     pinned: true,
     items: [
       { href: "/", label: "Dashboard", icon: "grid", badgeKey: "harness" },
-      { href: "/attention", label: "Attention", icon: "target", badgeKey: "alerts" },
-      { href: "/signoff-queue", label: "Sign-off Queue", icon: "check" },
-      { href: "/profile", label: "Profile View", icon: "user" },
-      { href: "/editor", label: "Editor", icon: "edit" },
+      { href: "/under-construction?surface=active-beat", label: "Active Beat", icon: "edit" },
+      { href: "/under-construction?surface=beats", label: "Beats", icon: "file-text" },
+      { href: "/under-construction?surface=memes", label: "Memes", icon: "share" },
+      { href: "/under-construction?surface=charts", label: "Charts", icon: "trending" },
+      { href: "/site-preview", label: "Site Preview", icon: "globe" },
     ],
   },
   {
-    id: "analyze",
-    label: "Analyze",
+    id: "research",
+    label: "Research",
     items: [
+      { href: "/races/ca-gov-2026", label: "Race Dossiers", icon: "user" },
+      { href: "/under-construction?surface=perplexity-drops", label: "Perplexity Drops", icon: "clipboard" },
+      { href: "/under-construction?surface=verifications-open", label: "Verifications Open", icon: "check" },
+      { href: "/under-construction?surface=audit-findings", label: "Audit Findings", icon: "search" },
+      { href: "/tips", label: "Tip Line", icon: "mail", badgeKey: "tips" },
+      { href: "/notes", label: "Notes & Queues", icon: "clipboard", badgeKey: "notes" },
+    ],
+  },
+  {
+    id: "publish",
+    label: "Publish",
+    items: [
+      { href: "/signoff-queue", label: "Sign-off Queue", icon: "check" },
+      { href: "/under-construction?surface=public-routes", label: "Public Routes", icon: "globe" },
+      { href: "/distribution", label: "Distribution", icon: "share" },
+      { href: "/publisher", label: "Publisher", icon: "plus" },
+    ],
+  },
+  {
+    id: "vault",
+    label: "Vault",
+    items: [
+      { href: "/attention", label: "Attention", icon: "target", badgeKey: "alerts" },
+      { href: "/profile", label: "Profile View", icon: "user" },
+      { href: "/editor", label: "Editor", icon: "edit" },
       { href: "/relationships", label: "Relationships", icon: "link", badgeKey: "suggestions" },
       { href: "/relationships/orphans", label: "↳ Orphan Triage", icon: "clipboard" },
       { href: "/librarian-gaps", label: "↳ Librarian Gaps", icon: "search" },
@@ -59,12 +107,15 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/class-tags", label: "Class Tags", icon: "target" },
       { href: "/policies", label: "Policies", icon: "book" },
       { href: "/stories", label: "Stories", icon: "file-text" },
+      { href: "/sources", label: "Source Registry", icon: "globe" },
+      { href: "/urls", label: "URL Manager", icon: "globe" },
+      { href: "/calendar", label: "Calendar", icon: "calendar" },
       { href: "/query", label: "Query / Ask", icon: "search" },
     ],
   },
   {
-    id: "build",
-    label: "Build",
+    id: "system",
+    label: "System",
     items: [
       { href: "/system-health", label: "System Health", icon: "shield" },
       { href: "/pipelines", label: "Pipelines", icon: "zap" },
@@ -74,27 +125,6 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/change-log", label: "Change Log", icon: "clipboard" },
       { href: "/bugs", label: "Bugs & Deferred", icon: "bell" },
       { href: "/docs", label: "Reference", icon: "book" },
-    ],
-  },
-  {
-    id: "content",
-    label: "Content",
-    items: [
-      { href: "/sources", label: "Source Registry", icon: "globe" },
-      { href: "/urls", label: "URL Manager", icon: "globe" },
-      { href: "/races/ca-gov-2026", label: "CA Governor 2026", icon: "user" },
-      { href: "/site-preview", label: "Site Preview", icon: "globe" },
-      { href: "/tips", label: "Public Tips", icon: "mail", badgeKey: "tips" },
-      { href: "/notes", label: "Notes & Queues", icon: "clipboard", badgeKey: "notes" },
-      { href: "/calendar", label: "Calendar", icon: "calendar" },
-      { href: "/publisher", label: "Publisher", icon: "plus" },
-      { href: "/distribution", label: "Distribution", icon: "share" },
-    ],
-  },
-  {
-    id: "reference",
-    label: "Reference",
-    items: [
       { href: "/rules", label: "Rulebook", icon: "target" },
       // /account + /pricing hidden until Phase 2.5 setup is complete.
       // Pages still work if you visit by URL, but exposing them in the
@@ -140,7 +170,7 @@ interface StatusBadges {
   harness?: { findings: number }
 }
 
-const COLLAPSED_STORAGE_KEY = "donor-map-sidebar-collapsed-groups-v1"
+const COLLAPSED_STORAGE_KEY = "donor-map-sidebar-collapsed-groups-v2"
 
 export function Sidebar() {
   const pathname = usePathname()
@@ -148,8 +178,10 @@ export function Sidebar() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const [badges, setBadges] = useState<StatusBadges>({})
   const [collapsed, setCollapsed] = useState<Record<string, boolean>>(() => {
-    // Default-collapse all but Daily so first-load is short
-    return { analyze: true, build: true, content: true, reference: true }
+    // Default-collapse all but Editorial (the pinned daily-surface group).
+    // Research is the cross-beat backlog and stays expanded as well so the
+    // dossier / Perplexity / verifications backlog is one click away.
+    return { research: false, publish: true, vault: true, system: true }
   })
 
   // Load persisted collapse state once on mount
