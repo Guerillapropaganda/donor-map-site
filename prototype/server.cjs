@@ -12,6 +12,7 @@ http.createServer((req, res) => {
   else if (url === '/home' || url === '/home.html' || url === '/' ) file = 'home.html';
   else if (url === '/class-traitor' || url === '/beat-class-traitor' || url === '/beat-class-traitor.html') file = 'beat-class-traitor.html';
   else if (url === '/three-becerras' || url === '/beat-three-becerras' || url === '/beat-three-becerras.html') file = 'beat-three-becerras.html';
+  else if (url === '/chevron' || url === '/beat-chevron' || url === '/beat-chevron.html') file = 'beat-chevron.html';
   else if (url === '/donors-becerra-2026' || url === '/donors-becerra-2026.html') file = 'donors-becerra-2026.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else file = 'landing-v3.html';
