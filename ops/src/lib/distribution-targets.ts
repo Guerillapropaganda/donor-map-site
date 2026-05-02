@@ -81,6 +81,13 @@ export interface EngagementRecord {
   loggedAt: string
   /** A "voided" engagement is treated as deleted; we don't actually remove rows */
   voided?: boolean
+  /**
+   * Filename of an attached screenshot, served from the local filesystem
+   * via /api/distribution-screenshots/[filename]. Files live in
+   * data/distribution-screenshots/ and are gitignored (personal records).
+   * The filename is `{engagement-id}.{ext}` to make orphan-cleanup easy.
+   */
+  screenshot?: string
 }
 
 const TARGETS_PATH = path.join(process.cwd(), "..", "data", "distribution-targets.jsonl")
@@ -218,6 +225,7 @@ export function logEngagement(input: {
   receiptUsed?: string
   outcome?: EngagementOutcome
   notes?: string
+  screenshot?: string
 }): EngagementRecord {
   const now = new Date().toISOString()
   const entry: EngagementRecord = {
@@ -232,9 +240,19 @@ export function logEngagement(input: {
     outcome: input.outcome || "pending",
     notes: input.notes,
     loggedAt: now,
+    screenshot: input.screenshot,
   }
   appendJsonl(ENGAGEMENTS_PATH, entry)
   return entry
+}
+
+export function attachScreenshotToEngagement(id: string, filename: string): boolean {
+  const all = readJsonl<EngagementRecord>(ENGAGEMENTS_PATH)
+  const idx = all.findIndex((e) => e.id === id)
+  if (idx < 0) return false
+  all[idx] = { ...all[idx], screenshot: filename }
+  writeJsonl(ENGAGEMENTS_PATH, all)
+  return true
 }
 
 export function voidEngagement(id: string): boolean {

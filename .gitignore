@@ -25,6 +25,10 @@ data/bulk/**
 !data/bulk/
 !data/bulk/**/
 !data/bulk/**/README.md
+
+# Distribution screenshots (personal-records, not for commit)
+data/distribution-screenshots/**
+!data/distribution-screenshots/.gitkeep
 # Research subdirs — small curated source files (CSVs, markdown reports)
 # that we want preserved across machines + in version history. Each
 # subdir is named with the source + date (e.g. perplexity-2026-04-29).

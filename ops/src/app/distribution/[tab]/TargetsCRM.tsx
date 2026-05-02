@@ -126,7 +126,7 @@ export function TargetsCRM({ initialTargets, initialEngagements, knownPlatforms,
     }
   }
 
-  async function handleLogEngagement(targetId: string, payload: LogEngagementPayload) {
+  async function handleLogEngagement(targetId: string, payload: LogEngagementPayload, screenshot?: File) {
     try {
       const res = await fetch("/api/distribution-engagements", {
         method: "POST",
@@ -137,6 +137,17 @@ export function TargetsCRM({ initialTargets, initialEngagements, knownPlatforms,
       if (!res.ok) {
         setError(data.error || `HTTP ${res.status}`)
         return false
+      }
+      // If a screenshot was attached, upload it now and link to the engagement
+      if (screenshot && data.engagement?.id) {
+        const fd = new FormData()
+        fd.append("engagementId", data.engagement.id)
+        fd.append("file", screenshot)
+        const upRes = await fetch("/api/distribution-screenshots", { method: "POST", body: fd })
+        if (!upRes.ok) {
+          const upData = await upRes.json().catch(() => ({}))
+          setError(`engagement logged but screenshot failed: ${upData.error || `HTTP ${upRes.status}`}`)
+        }
       }
       await refresh()
       return true
@@ -377,7 +388,7 @@ function TargetCard({
   knownBeats: string[]
   onUpdate: (id: string, patch: Record<string, unknown>) => Promise<void>
   onDelete: (id: string) => Promise<void>
-  onLogEngagement: (targetId: string, payload: LogEngagementPayload) => Promise<boolean>
+  onLogEngagement: (targetId: string, payload: LogEngagementPayload, screenshot?: File) => Promise<boolean>
 }) {
   const [expanded, setExpanded] = useState(false)
   const [showLogForm, setShowLogForm] = useState(false)
@@ -460,8 +471,8 @@ function TargetCard({
               target={target}
               platforms={platforms}
               knownBeats={knownBeats}
-              onSubmit={async (payload) => {
-                const ok = await onLogEngagement(target.id, payload)
+              onSubmit={async (payload, screenshot) => {
+                const ok = await onLogEngagement(target.id, payload, screenshot)
                 if (ok) setShowLogForm(false)
               }}
               onCancel={() => setShowLogForm(false)}
@@ -491,7 +502,7 @@ function LogEngagementForm({
   target: TargetWithMetrics
   platforms: string[]
   knownBeats: string[]
-  onSubmit: (payload: LogEngagementPayload) => Promise<void>
+  onSubmit: (payload: LogEngagementPayload, screenshot?: File) => Promise<void>
   onCancel: () => void
 }) {
   const [type, setType] = useState<EngagementType>(target.kind === "adversarial" ? "quote-reply" : "tag")
@@ -502,11 +513,12 @@ function LogEngagementForm({
   const [receiptUsed, setReceiptUsed] = useState("")
   const [outcome, setOutcome] = useState<EngagementOutcome>("pending")
   const [notes, setNotes] = useState("")
+  const [screenshotFile, setScreenshotFile] = useState<File | null>(null)
   const [busy, setBusy] = useState(false)
 
   async function submit() {
     setBusy(true)
-    await onSubmit({ type, platform, date, myPostUrl: myPostUrl.trim() || undefined, theirPostUrl: theirPostUrl.trim() || undefined, receiptUsed: receiptUsed || undefined, outcome, notes: notes.trim() || undefined })
+    await onSubmit({ type, platform, date, myPostUrl: myPostUrl.trim() || undefined, theirPostUrl: theirPostUrl.trim() || undefined, receiptUsed: receiptUsed || undefined, outcome, notes: notes.trim() || undefined }, screenshotFile || undefined)
     setBusy(false)
   }
 
@@ -567,6 +579,19 @@ function LogEngagementForm({
       <Field label="Notes (optional)">
         <textarea value={notes} onChange={(e) => setNotes(e.target.value)} rows={2} style={{ ...inputStyle, resize: "vertical" }} />
       </Field>
+      <Field label="Screenshot (optional · PNG/JPG/WebP/GIF, ≤8MB)">
+        <input
+          type="file"
+          accept="image/png,image/jpeg,image/webp,image/gif"
+          onChange={(e) => setScreenshotFile(e.target.files?.[0] || null)}
+          style={{ ...inputStyle, padding: "5px 8px", cursor: "pointer" }}
+        />
+        {screenshotFile && (
+          <div style={{ marginTop: "4px", fontSize: "10px", color: "var(--color-text-dim)", fontFamily: "var(--font-mono, monospace)" }}>
+            ✓ {screenshotFile.name} · {(screenshotFile.size / 1024).toFixed(0)} KB
+          </div>
+        )}
+      </Field>
       <div style={{ display: "flex", gap: "8px", marginTop: "10px" }}>
         <button onClick={submit} disabled={busy} style={primaryBtnStyle}>{busy ? "Logging..." : "Log engagement"}</button>
         <button onClick={onCancel} style={secondaryBtnStyle}>Cancel</button>
@@ -577,16 +602,27 @@ function LogEngagementForm({
 
 function EngagementRow({ engagement }: { engagement: EngagementRecord }) {
   const outcomeColor = OUTCOME_COLORS[engagement.outcome] || "#737373"
+  const screenshotUrl = engagement.screenshot ? `/api/distribution-screenshots/${engagement.screenshot}` : null
   return (
-    <div style={{ padding: "8px 12px", background: "rgba(31, 41, 55, 0.3)", border: "1px solid #1f2937", display: "grid", gridTemplateColumns: "auto auto 1fr auto", gap: "10px", alignItems: "center" }}>
-      <span style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "10px", color: "var(--color-text-dim)" }}>{engagement.date}</span>
-      <span style={{ background: "#1f2937", padding: "2px 6px", fontFamily: "var(--font-mono, monospace)", fontSize: "10px", color: "var(--color-text)", letterSpacing: "0.5px" }}>{engagement.type}</span>
-      <span style={{ fontSize: "11px", color: "var(--color-text-dim)" }}>
-        {engagement.notes || (engagement.theirPostUrl ? <a href={engagement.theirPostUrl} target="_blank" rel="noopener noreferrer" style={{ color: "#5b8dce" }}>their post ↗</a> : "")}
-        {engagement.myPostUrl && <a href={engagement.myPostUrl} target="_blank" rel="noopener noreferrer" style={{ marginLeft: "8px", color: "#5b8dce" }}>my post ↗</a>}
-        {engagement.receiptUsed && <span style={{ marginLeft: "8px", color: "#fbbf24", fontFamily: "var(--font-mono, monospace)" }}>·{engagement.receiptUsed}</span>}
-      </span>
-      <span style={{ background: outcomeColor, color: outcomeColor === "#fbbf24" ? "#0a0a0a" : "#fff", padding: "2px 6px", fontFamily: "var(--font-mono, monospace)", fontSize: "9px", letterSpacing: "1px", textTransform: "uppercase" }}>{engagement.outcome}</span>
+    <div style={{ padding: "8px 12px", background: "rgba(31, 41, 55, 0.3)", border: "1px solid #1f2937" }}>
+      <div style={{ display: "grid", gridTemplateColumns: "auto auto 1fr auto", gap: "10px", alignItems: "center" }}>
+        <span style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "10px", color: "var(--color-text-dim)" }}>{engagement.date}</span>
+        <span style={{ background: "#1f2937", padding: "2px 6px", fontFamily: "var(--font-mono, monospace)", fontSize: "10px", color: "var(--color-text)", letterSpacing: "0.5px" }}>{engagement.type}</span>
+        <span style={{ fontSize: "11px", color: "var(--color-text-dim)" }}>
+          {engagement.notes || (engagement.theirPostUrl ? <a href={engagement.theirPostUrl} target="_blank" rel="noopener noreferrer" style={{ color: "#5b8dce" }}>their post ↗</a> : "")}
+          {engagement.myPostUrl && <a href={engagement.myPostUrl} target="_blank" rel="noopener noreferrer" style={{ marginLeft: "8px", color: "#5b8dce" }}>my post ↗</a>}
+          {engagement.receiptUsed && <span style={{ marginLeft: "8px", color: "#fbbf24", fontFamily: "var(--font-mono, monospace)" }}>·{engagement.receiptUsed}</span>}
+          {screenshotUrl && <span style={{ marginLeft: "8px", color: "#16a34a", fontFamily: "var(--font-mono, monospace)" }}>📷 screenshot</span>}
+        </span>
+        <span style={{ background: outcomeColor, color: outcomeColor === "#fbbf24" ? "#0a0a0a" : "#fff", padding: "2px 6px", fontFamily: "var(--font-mono, monospace)", fontSize: "9px", letterSpacing: "1px", textTransform: "uppercase" }}>{engagement.outcome}</span>
+      </div>
+      {screenshotUrl && (
+        <div style={{ marginTop: "6px" }}>
+          <a href={screenshotUrl} target="_blank" rel="noopener noreferrer" title="Click to open full-size">
+            <img src={screenshotUrl} alt="engagement screenshot" style={{ maxWidth: "320px", maxHeight: "200px", border: "1px solid #374151", display: "block" }} />
+          </a>
+        </div>
+      )}
     </div>
   )
 }
