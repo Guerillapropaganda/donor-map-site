@@ -50,36 +50,36 @@ export function writeStore(entries: VerificationEntry[]) {
 
 export type VerificationSeed = Omit<VerificationEntry, "status" | "updatedAt">
 
-/** Merge a hardcoded seed list with any persisted statuses. Idempotent.
- *  If a given id already exists in the store, status / notes / verifiedAt
- *  are preserved and label / detail / lane / url are refreshed from the
- *  seed (so editing the seed in the page file doesn't lose verification
- *  history). New seed entries are written with status: open. */
+/**
+ * Additive-only seed merge.
+ *
+ * Seeds whose id is NOT yet in the store are inserted with status: "open".
+ * Seeds whose id IS already in the store are returned exactly as the
+ * store has them - status, url, notes, label, detail, lane are NEVER
+ * overwritten by the catalog. This protects David's verification work
+ * from being silently reverted when a catalog field is edited later.
+ *
+ * The store is the source of truth. The catalog provides initial state
+ * for never-before-seen ids, full stop.
+ *
+ * The store file is only written when at least one new seed was
+ * inserted. Repeated calls with no new ids are pure reads.
+ *
+ * If David explicitly wants to re-pull catalog metadata onto an existing
+ * entry (e.g. updated label after a refactor), do it through a dedicated
+ * "Refresh from catalog" action, not silently on every page render.
+ */
 export function ensureSeeded(seeds: VerificationSeed[]): VerificationEntry[] {
   const existing = readStore()
   const byId = new Map(existing.map((e) => [e.id, e]))
   const now = new Date().toISOString()
   const result: VerificationEntry[] = []
-  let changed = false
+  const newEntries: VerificationEntry[] = []
   for (const seed of seeds) {
     const prev = byId.get(seed.id)
     if (prev) {
-      const updated: VerificationEntry = {
-        ...prev,
-        label: seed.label,
-        detail: seed.detail,
-        lane: seed.lane,
-        url: seed.url ?? prev.url,
-      }
-      result.push(updated)
-      if (
-        prev.label !== seed.label ||
-        prev.detail !== seed.detail ||
-        prev.lane !== seed.lane ||
-        prev.url !== seed.url
-      ) {
-        changed = true
-      }
+      // Additive-only: keep persisted state exactly as it is.
+      result.push(prev)
       byId.delete(seed.id)
     } else {
       const newEntry: VerificationEntry = {
@@ -88,10 +88,12 @@ export function ensureSeeded(seeds: VerificationSeed[]): VerificationEntry[] {
         updatedAt: now,
       }
       result.push(newEntry)
-      changed = true
+      newEntries.push(newEntry)
     }
   }
+  // Preserve any orphans that exist in the store but are no longer in
+  // the catalog (e.g. a seed removed mid-flight). Don't drop David's work.
   for (const orphan of byId.values()) result.push(orphan)
-  if (changed) writeStore(result)
+  if (newEntries.length > 0) writeStore(result)
   return result
 }

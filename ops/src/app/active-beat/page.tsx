@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { PageHeader } from "@/components/PageHeader"
-import { ensureSeeded } from "@/lib/beat-verifications"
+import { readStore } from "@/lib/beat-verifications"
 import { listBeats, type BeatRecord } from "@/lib/beats-catalog"
 import { runPreflight } from "@/lib/preflight"
 
@@ -21,10 +21,13 @@ import { runPreflight } from "@/lib/preflight"
 
 export default function ActiveBeatIndexPage() {
   const beats = listBeats()
-  // Seed all beats so verification counts are accurate without
-  // requiring the user to visit the per-beat page first.
-  beats.forEach((b) => ensureSeeded(b.verificationSeeds))
-
+  // Read the verifications store ONCE for the whole page render. We
+  // intentionally do NOT call ensureSeeded here - that's the [slug]
+  // page's job, called the first time a beat workspace loads. Calling
+  // it on every index render creates a write-amplification race with
+  // the API that David hits when he clicks Verify. The store is the
+  // source of truth; the catalog is initial state only.
+  const allEntries = readStore()
   const liveCount = beats.filter((b) => runPreflight(b).isLive).length
   const activeCount = beats.filter((b) => b.status === "active").length
 
@@ -42,19 +45,29 @@ export default function ActiveBeatIndexPage() {
       />
 
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(440px, 1fr))", gap: "16px" }}>
-        {beats.map((b) => (
-          <BeatCard key={b.slug} beat={b} />
-        ))}
+        {beats.map((b) => {
+          const entries = allEntries.filter((e) => e.beat === b.slug)
+          // Beats whose seeds haven't been initialized yet show their
+          // catalog seed count so the index isn't blank for new beats.
+          const totalCount = entries.length || b.verificationSeeds.length
+          return <BeatCard key={b.slug} beat={b} totalCount={totalCount} verifiedCount={entries.filter((e) => e.status === "verified").length} openCount={entries.filter((e) => e.status === "open").length} />
+        })}
       </div>
     </div>
   )
 }
 
-function BeatCard({ beat }: { beat: BeatRecord }) {
-  const verifications = ensureSeeded(beat.verificationSeeds).filter((v) => v.beat === beat.slug)
-  const verifiedCount = verifications.filter((v) => v.status === "verified").length
-  const openCount = verifications.filter((v) => v.status === "open").length
-  const totalCount = verifications.length
+function BeatCard({
+  beat,
+  totalCount,
+  verifiedCount,
+  openCount,
+}: {
+  beat: BeatRecord
+  totalCount: number
+  verifiedCount: number
+  openCount: number
+}) {
   const preflight = runPreflight(beat)
 
   const statusBadge = preflight.isLive
