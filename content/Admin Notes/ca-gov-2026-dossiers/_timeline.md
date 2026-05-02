@@ -32,8 +32,8 @@ This file is the editorial calendar between now and the primary. Each row has th
 - Eric Swalwell (US Rep): exited April 12, 2026
 - Betty Yee (former state controller): exited April 20, 2026, endorsed Steyer
 
-**Status uncertain (Perplexity Round 4 needed):**
-- Eleni Kounalakis (current Lt Governor): was widely expected to run; status as of May 2 not verified in our data
+**Verified withdrawn (Perplexity Round 4 closed 2026-05-02):**
+- Eleni Kounalakis (current Lt Governor): entered governor's race April 24, 2023 (FPPC 1460033). Withdrew August 8, 2025 after polling at 3% with $4.6M cash on hand. Now running for State Treasurer (FPPC 1483008) with $8.4M cash on hand and endorsements from Newsom, Pelosi, Hillary Clinton. Sacramento Bee endorsed her for Treasurer. Bearstar Strategies works for her.
 
 ## Timeline
 
@@ -55,11 +55,11 @@ These are the items that need to close before the corresponding beat ships. Most
 
 | Item | Source | Status | Blocks which beat |
 |---|---|---|---|
-| Becerra single-payer position | Perplexity (in flight) | Running | Becerra beat (the editorial keystone) |
+| Becerra single-payer position | Perplexity | DONE 2026-05-02; applied as Phase 5h | Becerra beat (the editorial keystone) |
 | Certified candidate list + remaining debate calendar | Perplexity Round 1 | Drafted, pending run | Timeline accuracy + ballot-ghost question |
-| CPCA Advocates funder map | Perplexity Round 2 | Drafted, pending run | Polling-layer beat (CPCA → AltaMed → Becerra finding) |
-| Steyer's polling apparatus | Perplexity Round 3 | Drafted, pending run | Steyer self-fund accuracy (the gap is itself a finding) |
-| Eleni Kounalakis status | Perplexity Round 4 | Drafted, pending run | Field-shape accuracy |
+| CPCA Advocates funder map | Perplexity Round 2 | DONE 2026-05-02; applied as Phase 5i + beat-page CPCA circuit section | Polling-layer beat |
+| Steyer's polling apparatus | Perplexity Round 3 | DONE 2026-05-02; corrected prior incorrect "no polling" claim. Steyer pays Global Strategy Group $865K through 1485077 | Polling-layer beat |
+| Eleni Kounalakis status | Perplexity Round 4 | DONE 2026-05-02; confirmed withdrawn 2025-08-08, now in Treasurer race | Field-shape accuracy |
 | Cal-Access cmte-ID-to-Gudelunas trace | `cal-access-claim-verifier.cjs` | Code Claude can run on demand | Polling-layer beat (Tier 1 verification of Sac Bee's Tier 2 sponsor identification) |
 | `data/2026-ca-gov-poll-tracker.jsonl` | Code Claude synthesis | Buildable from Perplexity polling dossier | Future poll-comparison charts on any beat |
 

@@ -229,22 +229,43 @@ function PageRow({ entry }: { entry: PageEntry }) {
         <StatusBadge status={entry.status} />
       </div>
       <div>
-        <div style={{ color: "var(--color-text)", fontWeight: 700, fontSize: "14px", marginBottom: "4px" }}>
+        <a
+          href={entry.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            color: "var(--color-text)",
+            fontWeight: 700,
+            fontSize: "14px",
+            marginBottom: "4px",
+            display: "block",
+            textDecoration: "none",
+            borderBottom: "1px solid transparent",
+            transition: "border-color 0.15s ease",
+          }}
+          className="hover:underline"
+        >
           {entry.title}
-        </div>
+        </a>
         <div style={{ color: "var(--color-text-dim)", fontSize: "12px", lineHeight: 1.5, marginBottom: "6px" }}>
           {entry.description}
         </div>
-        <code
+        <a
+          href={entry.url}
+          target="_blank"
+          rel="noopener noreferrer"
           style={{
             color: "var(--color-steel)",
             fontSize: "11px",
             fontFamily: "var(--font-mono, monospace)",
             wordBreak: "break-all",
+            textDecoration: "underline",
+            textDecorationStyle: "dotted",
+            textUnderlineOffset: "2px",
           }}
         >
           {entry.url}
-        </code>
+        </a>
       </div>
       <a
         href={entry.url}

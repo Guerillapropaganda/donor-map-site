@@ -308,6 +308,51 @@ This is materially stronger than the original framing because:
 - He has not stated a position on AB 1400 / CalCare revival or SB 770 / Section 1332 waiver groundwork. None of the three 2026 messages mention those bills by name. This is itself a finding (a 24-year congressional veteran and former HHS Secretary running for governor of California has not stated a position on the most consequential healthcare legislation in the state's recent history) but it is a different frame than "he opposes."
 - The 1994 hearing quote ("I do join my colleagues who support the single-payer plan") is cited via KFF / PolitiFact, not located by Perplexity at the GovInfo / Congress.gov primary transcript level. Treat as Tier 2 until David confirms.
 
+## Phase 5i: CPCA Advocates / AltaMed circuit (2026-05-02)
+
+Independent Perplexity verification of the EMC poll sponsor surfaced a tighter Becerra-aligned circuit than Phase 5g identified. Source: `content/Admin Notes/perplexity-research/2026-05-02-cpca-advocates-results.md`.
+
+### What CPCA Advocates is
+
+California Primary Care Association Advocates, formally registered with the IRS as Californiahealth Plus Advocates (EIN 81-1326638), is the 501(c)(4) advocacy affiliate of the California Primary Care Association (CPCA), a 501(c)(3) trade association representing approximately 2,300 community health centers across California. Both organizations share the same address (1231 I Street Suite 400, Sacramento) and overlapping board governance. CPCA Advocates was founded in 2016 specifically to enable lobbying and political activity that the 501(c)(3) parent cannot perform. The organization rebranded from "CaliforniaHealth+ Advocates" to "CPCA Advocates" in 2023.
+
+CPCA Advocates' most recent IRS 990 (FY2025): $4.27M revenue, 80% from contributions. Donor identities are not publicly disclosed; 501(c)(4)s are not required to publish Schedule B.
+
+### The four-channel circuit to Becerra
+
+| Channel | Finding | Source |
+|---|---|---|
+| **1. Membership and board seat** | AltaMed Health Services Corporation is a confirmed CPCA member. Berenice Nunez Constant, SVP Government Relations & Civic Engagement at AltaMed, is the **Treasurer of the CPCA Advocates Board** (2024-2025). | CPCA Member Directory; CPCA Advocates Board of Directors page |
+| **2. Endorsement** | CPCA Advocates formally endorsed Xavier Becerra for Governor on **November 10, 2025**. He is listed on the Becerra campaign endorsements page as "CA Primary Care Association Advocates." | CPCA Advocates Endorsements page; xavierbecerra2026.com/endorsements |
+| **3. Polling sponsorship** | CPCA Advocates **commissioned the EMC Research poll** fielded April 21-26, 2026 that showed Becerra surging into the top tier (21%, tied with Hilton). The poll was first reported by Politico CA Playbook on April 29, 2026. | Politico CA Playbook 2026-04-29; EMC Research; Decision Desk HQ |
+| **4. IE PAC funding** | CPCA Advocates is described by Politico CA Playbook (2026-04-29) as **"one of the super PAC's funders"** for **"Working Families for Healthy Communities Supporting Becerra for Governor 2026,"** a new IE PAC backing Becerra's gubernatorial campaign. | Politico CA Playbook 2026-04-29 |
+
+### Why the four channels matter together
+
+A trade association endorsing a candidate is normal political activity. A trade association polling on a candidate is normal political activity. A trade association funding an IE PAC for a candidate is normal political activity. A board seat occupied by a max donor's executive is normal. Any one of those channels in isolation reads as standard institutional support.
+
+The four channels together, all flowing to the same candidate at the same time, reveal that Becerra's "surge" is not a separate phenomenon from his donor base. It is the donor base. AltaMed gave Becerra $39,200 in July 2025. Their SVP sits as Treasurer on the board of the trade group. The trade group endorsed him in November 2025. The trade group commissioned the poll showing him surging in April 2026. The trade group funds the IE PAC that arrived in late April 2026 to amplify the surge through paid media. Each channel reinforces the others.
+
+The CPCA Advocates board is full of executives from FQHCs that bill Medi-Cal at FQHC rates. Single payer, if it consolidates payers and rewrites reimbursement, threatens that revenue structure. CPCA Advocates has **no public position on AB 1400 / SB 562 / CalCare**. The silence is editorially relevant given that the California Nurses Association and other progressive health groups are prominent CalCare supporters.
+
+### How this strengthens the bait-and-switch frame
+
+Phase 5h documented Becerra running three different single-payer messages to three different audiences. The CMA (doctors lobby) was Audience 3, where Becerra reportedly told doctors he "wasn't supportive of single payer." The CPCA circuit is the receipt for Audience 3:
+
+The same week Becerra was telling doctors privately he was not supportive of single payer, the trade group representing California's FQHCs (also threatened by single payer, also revenue-dependent on the existing reimbursement structure) was endorsing him, polling on him, and funding an IE PAC for him. The donor list explains which message is operative because the donor list is a coordinated set of healthcare-industry institutions with one preferred candidate.
+
+### Editorial implications
+
+- The Becerra beat page (`prototype/beat-three-becerras.html`) should add a new section on the CPCA circuit. The existing receipts table already lists AltaMed; the new section explains what AltaMed's $39,200 buys structurally beyond the line on the spreadsheet.
+- The polling-layer beat (currently on the Steyer page) should be updated: the EMC poll's CPCA Advocates sponsorship is now confirmed at primary-source level. The Becerra polling-surge framing gets sharper because three of the surge polls (Gudelunas, EMC, IVP) trace to either anti-Steyer industry money (Gudelunas) or pro-Becerra trade-group money (EMC). The exception is IVP (methodological).
+- A meme candidate writes itself: visualize the four channels (board seat, endorsement, poll sponsorship, IE PAC) all flowing to Becerra from CPCA Advocates, with AltaMed at the top of the diagram.
+
+### Data not yet verified (open Tier 1 follow-ups)
+
+- The exact dollar amount CPCA Advocates contributed to "Working Families for Healthy Communities Supporting Becerra for Governor 2026" requires Cal-Access primary-source verification. Politico's reporting names CPCA Advocates as "one of the super PAC's funders" but the IE PAC had not yet reported contributions at the time of Politico's article. As the IE PAC files Form 460 and Form 496 disclosures over the next 30 days, the dollar amount will become public.
+- The other "super PAC funders" (the rest of the coalition behind Working Families for Healthy Communities) are not yet identified. Likely an overlap with the FQHC member list of CPCA but that needs primary verification.
+- CPCA's contribution amount to Yes on Prop 35 is verified at $1,729,053 from the Patient Access to Care Fund. CPCA Advocates' separate political-spending history beyond the new Becerra IE is not yet mapped in this dossier.
+
 ## Open questions for David
 
 - What proportion of his 2026 donors are healthcare-industry-aligned (insurers, pharma, hospital systems, healthcare unions)?

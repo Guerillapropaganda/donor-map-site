@@ -14,6 +14,8 @@ verification-tier: mixed
 
 # California Political Polling Industry — 2026 Gubernatorial Race Dossier
 
+> **CORRECTION 2026-05-02:** Hook B finding (Steyer has no polling-firm retainers visible in Cal-Access) is **incorrect**. A follow-up Perplexity round on Steyer's polling apparatus (`2026-05-02-steyer-polling-apparatus-results.md`) located **Global Strategy Group LLC** in Cal-Access EXPN_CD bulk records: $865,142.27 across two Form 460 filings (3114184 and 3138973) on Steyer for Governor 2026 / FPPC 1485077, coded `POL` and described as "Polling." Jefrey Pollock of GSG was named publicly as Steyer's pollster in the November 19, 2025 Politico campaign-team announcement. The earlier round missed it because the search worked the live Cal-Access web interface rather than the bulk export. The bottom-line Steyer-side characterization in this file should be read as superseded by the dedicated Steyer-polling-apparatus results file. The Hook A (DBR / anti-Steyer) and Hook D (Gudelunas IE-sponsored) findings in this file remain accurate and verified.
+
 **Prepared:** May 1, 2026
 **Coverage period:** Industry history through 2018; deep coverage 2020–April 2026
 **Primary-source policy:** Every factual claim is sourced. Source-tier conventions follow the user's brief:
