@@ -248,6 +248,88 @@ html, body {
   padding: 0 4px;
 }
 
+/* ─── Tip box (brutalist) ─── */
+.tip-box {
+  display: flex;
+  align-items: stretch;
+  margin: 24px 0 8px;
+  border: 3px solid var(--black);
+  background: var(--paper);
+}
+.tip-box-stripes {
+  flex: 0 0 28px;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      var(--yellow) 0,
+      var(--yellow) 12px,
+      var(--black) 12px,
+      var(--black) 24px
+    );
+}
+.tip-box-body {
+  flex: 1;
+  padding: 22px 28px;
+}
+.tip-box-tag {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--cream);
+  background: var(--black);
+  padding: 4px 10px;
+  margin-bottom: 16px;
+}
+.tip-box-row {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 14px;
+  padding: 8px 0;
+  border-top: 1px solid var(--line);
+  font-size: 15px;
+  line-height: 1.5;
+}
+.tip-box-row:first-of-type { border-top: none; }
+.tip-box-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  align-self: start;
+  padding-top: 2px;
+}
+.tip-box-value {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: var(--ink);
+}
+.tip-box-value a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+.tip-box-value a:hover { background: var(--yellow); }
+.tip-box-fineprint {
+  margin: 18px 0 0;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--muted);
+  font-style: italic;
+}
+@media (max-width: 600px) {
+  .tip-box-stripes { flex-basis: 18px; }
+  .tip-box-body { padding: 18px 18px; }
+  .tip-box-row { grid-template-columns: 1fr; gap: 4px; }
+}
+
 /* ─── Receipts table ─── */
 .receipts-block {
   margin: 36px 0;
@@ -518,35 +600,54 @@ html, body {
       The Donor Map is a bet that human investigative judgment, cited evidence, class analysis, and a clear editorial voice will matter more in an AI-saturated media environment, not less. Verify any claim. Click any link. Challenge any pattern. Email if you find an error.
     </p>
 
-    <h2>How to read a beat page</h2>
-
-    <p>
-      Each beat opens with a deck that names the central finding. Then a hero visualization that maps the structural relationships. Then the evidence: receipts tables with primary-source committee IDs, timeline strips with dated events, quote blocks with full attribution. Each beat closes with a "What this page does not claim" section that names the limits of the investigation.
-    </p>
-
-    <p>
-      The "What this page does not claim" section is intentional. Investigative work is responsible for naming what is not in the record as much as what is. I do not claim donations bought positions when the timeline cannot prove it. I do not claim coordination among donors when communications evidence does not exist. I do not claim a poll was manufactured when the polling firm has documented methodology. I name what I have, and I name what I do not.
-    </p>
-
     <h2>How to support this</h2>
 
     <p>
-      The data layer is open and free. The vault on GitHub stays open-source. Facts are not copyrightable under U.S. law and I do not pretend otherwise.
+      The data and every published investigation are free to read. Facts are not copyrightable under U.S. law and I do not pretend otherwise.
     </p>
 
     <p>
-      What costs money is the ongoing labor: the freshness of the data, the depth of each investigation, the forensic audit pass on every page before it ships. If the work is useful to you and you can afford it, the project's <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Patreon</a> is the direct way to keep it going. No paywall on the work itself; the Patreon funds the next investigation.
+      What costs money is the labor: the freshness of the data, the depth of each investigation, the forensic audit pass on every page before it ships. If the work is useful to you and you can afford it, the project's <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Patreon</a> is the direct way to keep it going. No paywall on the work itself; the Patreon funds the next investigation.
     </p>
 
     <p>
-      Follow on <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Instagram</a> or <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Facebook</a> for new investigations as they ship.
+      Follow along:
+      <a href="https://x.com/thedonormap" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">X</a> ·
+      <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Instagram</a> ·
+      <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Facebook</a> ·
+      <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Patreon</a>.
+      New investigations land first on the channels above.
     </p>
 
     <h2>Tip line</h2>
 
     <p>
-      If you have a document, a filing, or a story I should investigate next: contact the project through the channels in the footer. Sources can remain anonymous. Documents are reviewed against the public record before any claim ships.
+      Have a document, a filing, an FPPC committee that doesn't smell right, or a story I should look at next? Send it. Sources can remain anonymous. Every tip is reviewed against the public record before any claim ships.
     </p>
+
+    <div class="tip-box">
+      <div class="tip-box-stripes" aria-hidden="true"></div>
+      <div class="tip-box-body">
+        <span class="tip-box-tag">Tip line · confidential</span>
+        <div class="tip-box-row">
+          <span class="tip-box-label">Email</span>
+          <a class="tip-box-value" href="mailto:tips@thedonormap.org?subject=Tip%20for%20The%20Donor%20Map">tips@thedonormap.org</a>
+        </div>
+        <div class="tip-box-row">
+          <span class="tip-box-label">DM</span>
+          <span class="tip-box-value">
+            <a href="https://x.com/thedonormap" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a>
+          </span>
+        </div>
+        <div class="tip-box-row">
+          <span class="tip-box-label">What helps</span>
+          <span class="tip-box-value">Names. Dates. Filings. Committee IDs. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </div>
 
     <!-- ─── Sources ─── -->
     <div class="sources-block">
@@ -554,10 +655,9 @@ html, body {
       <ul>
         <li><span class="label">Source tier</span> Tier 1 = primary records (Cal-Access, FEC, IRS 990, court records, FPPC enforcement, agency filings). Tier 2 = named-publication reporting that itself cites a primary record. Anything Tier 2 only is flagged in the prose. Aggregator-only and social-media-only sources are not used.</li>
         <li><span class="label">Quote attribution</span> Every quote names the speaker, the publication, and where applicable the surrounding context. Direct quotes appear in quotation marks. Paraphrases are explicitly labeled as paraphrases.</li>
-        <li><span class="label">Verification</span> Every URL on a published page passes editor verification before exposure. I do not auto-substitute URLs. I do not link to dead pages. When a primary source becomes unavailable, the citation flags it and the archived version is preserved.</li>
         <li><span class="label">Inferences flagged</span> When a claim depends on inference rather than direct evidence, the inference is flagged and the supporting basis is shown. Readers can challenge any inference and the underlying data is auditable.</li>
         <li><span class="label">Forensic audit</span> Every beat page is run through a structured stress-test before public exposure: claim validity, evidence quality, logical gaps, comparative baselines, what the page does not prove. The audit findings are folded into the page or surfaced as caveats.</li>
-        <li><span class="label">No AI attribution in published material</span> AI is internal infrastructure for synthesis and verification. AI is not editorial credit. Sources are direct primary-source URLs only.</li>
+        <li><span class="label">How AI is used here</span> I use AI as research and engineering infrastructure: ingesting bulk filings, building this site, drafting scaffolds, auditing logic, surfacing patterns across the donor data, and pressure-testing the prose. The editorial voice, the framing, the judgment calls about what is and is not a finding, and the final read on every page are mine. AI is a tool I use; AI is not the byline. No published claim ships unless a human has approved it.</li>
       </ul>
     </div>
 
