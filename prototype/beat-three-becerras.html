@@ -478,6 +478,107 @@ html, body {
   margin-top: 2px;
 }
 
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat {
+  display: flex;
+  align-items: stretch;
+  margin: 56px 0 0;
+  border: 3px solid var(--black);
+  background: var(--paper);
+}
+.tip-box-beat-stripes {
+  flex: 0 0 28px;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      var(--yellow) 0,
+      var(--yellow) 12px,
+      var(--black) 12px,
+      var(--black) 24px
+    );
+}
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--cream);
+  background: var(--black);
+  padding: 4px 10px;
+  margin-bottom: 14px;
+}
+.tip-box-beat-headline {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  color: var(--ink);
+  margin-bottom: 8px;
+}
+.tip-box-beat-headline em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+.tip-box-beat-desc {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 17px;
+  line-height: 1.45;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+.tip-box-beat-row {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 14px;
+  padding: 8px 0;
+  border-top: 1px solid var(--line);
+  font-size: 14px;
+  line-height: 1.5;
+}
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  align-self: start;
+  padding-top: 2px;
+}
+.tip-box-beat-value {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: var(--ink);
+}
+.tip-box-beat-value a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint {
+  margin: 14px 0 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--muted);
+  font-style: italic;
+}
+@media (max-width: 600px) {
+  .tip-box-beat-stripes { flex-basis: 18px; }
+  .tip-box-beat-body { padding: 18px 18px; }
+  .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; }
+}
+
 /* ─── Sources block ─── */
 .sources-block {
   margin-top: 60px;
@@ -1365,6 +1466,33 @@ html, body {
     <p>
       Two claims on this page have residual verification gaps. The 1994 congressional hearing quote ("I do, as I said before, join my colleagues who support the single-payer plan") is currently sourced via KFF Health News and PolitiFact. The original GovInfo or Congress.gov primary hearing transcript was not directly retrievable through the GovInfo search interface during this round; KQED's own reporting cross-references the 1994 testimony via the Becerra campaign website's archived video. The exact dollar amount CPCA Advocates has contributed to the new IE PAC ("Working Families for Healthy Communities Supporting Becerra for Governor 2026") will become public when Cal-Access Form 460 or Form 496 disclosures are filed over the next thirty days; until then the IE-funder relationship is documented only through Politico's April 29 reporting.
     </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">See something I <em>missed?</em></h3>
+        <p class="tip-box-beat-desc">A document, a filing, a Cal-Access committee that doesn't smell right, a Becerra-adjacent receipt I haven't traced. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Three%20Becerras%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">DM</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/thedonormap" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">Names. Dates. Filings. Committee IDs. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
 
     <!-- ─── Sources ─── -->
     <div class="sources-block">
