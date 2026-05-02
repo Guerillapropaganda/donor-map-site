@@ -64,7 +64,7 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/", label: "Dashboard", icon: "grid", badgeKey: "harness" },
       { href: "/under-construction?surface=active-beat", label: "Active Beat", icon: "edit" },
       { href: "/under-construction?surface=beats", label: "Beats", icon: "file-text" },
-      { href: "/under-construction?surface=memes", label: "Memes", icon: "share" },
+      { href: "/memes", label: "Memes", icon: "share" },
       { href: "/under-construction?surface=charts", label: "Charts", icon: "trending" },
       { href: "/site-preview", label: "Site Preview", icon: "globe" },
     ],
