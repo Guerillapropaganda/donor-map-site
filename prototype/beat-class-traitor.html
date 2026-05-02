@@ -411,6 +411,23 @@ html, body {
   margin-top: 2px;
 }
 
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat { display: flex; align-items: stretch; margin: 56px 0 0; border: 3px solid var(--black); background: var(--paper); }
+.tip-box-beat-stripes { flex: 0 0 28px; background: repeating-linear-gradient(135deg, var(--yellow) 0, var(--yellow) 12px, var(--black) 12px, var(--black) 24px); }
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 14px; }
+.tip-box-beat-headline { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 8px; }
+.tip-box-beat-headline em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.tip-box-beat-desc { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.45; color: var(--muted); margin-bottom: 14px; }
+.tip-box-beat-row { display: grid; grid-template-columns: 110px 1fr; gap: 14px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); align-self: start; padding-top: 2px; }
+.tip-box-beat-value { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink); }
+.tip-box-beat-value a { color: var(--blue); text-decoration: none; border-bottom: 1px solid currentColor; }
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
+@media (max-width: 600px) { .tip-box-beat-stripes { flex-basis: 18px; } .tip-box-beat-body { padding: 18px 18px; } .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; } }
+
 /* ─── Sources block ─── */
 .sources-block {
   margin-top: 60px;
@@ -645,6 +662,10 @@ html, body {
       The reason is sitting in the FPPC committee filings. A coalition of California's biggest regulated industries has put <strong>$21 million</strong> into a single committee whose entire purpose is defeating Tom Steyer. The members: utilities, realtors, the chamber of commerce, developers, and the prison guards union.
     </p>
 
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
+      This beat sits alongside two Becerra-focused investigations on the same race. <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">Three Becerras</a> documents the candidate the donor class is consolidating behind, and the donor coalition aligned with the softest version of his single-payer message. <a href="/chevron" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">/chevron</a> documents Becerra's defense of a $39,200 max contribution from Chevron USA Inc. The same political consultancy, Bearstar Strategies, runs the pro-Becerra IE messaging on one side of this race and the anti-Steyer IE messaging on the other.
+    </p>
+
     <nav class="toc" id="top" aria-label="Table of contents">
       <div class="toc-label">In this investigation</div>
       <ol>
@@ -743,7 +764,7 @@ html, body {
     </p>
 
     <p>
-      A second vendor name on the same committee's filings is <strong>Bearstar Strategies, Inc.</strong>, paid $49,800 on April 1 also for "Digital Media/Oppose/Tom Steyer/Governor/Statewide." Bearstar is the same firm running Xavier Becerra's pro-Becerra independent expenditure committee, and the same firm built around former Newsom chief of staff Jim DeBoo and the consultants who ran Newsom's election and anti-recall operations. The shop messaging against Steyer is the shop messaging for Becerra. They're not separate operations on either side of an arms-length wall. They're the same operation.
+      A second vendor name on the same committee's filings is <strong>Bearstar Strategies, Inc.</strong>, paid $49,800 on April 1 also for "Digital Media/Oppose/Tom Steyer/Governor/Statewide." Bearstar is the same firm running <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor;">Xavier Becerra's pro-Becerra independent expenditure committee</a>, and the same firm built around former Newsom chief of staff Jim DeBoo and the consultants who ran Newsom's election and anti-recall operations. The shop messaging against Steyer is the shop messaging for Becerra. They're not separate operations on either side of an arms-length wall. They're the same operation.
     </p>
 
     <p>
@@ -956,6 +977,34 @@ html, body {
     <p>
       The remaining $7 million the committee has raised but not yet spent will land somewhere in the next four weeks. The committee files 24-hour disclosures for late expenditures, so the targets and amounts will be visible as they happen. Watch the filings.
     </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">See something I <em>missed?</em></h3>
+        <p class="tip-box-beat-desc">A new FPPC late-expenditure filing, a Gudelunas poll release I haven't picked up, a cross-committee transfer that doesn't smell right. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Class%20Traitor%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">FPPC committee IDs. Cal-Access transaction numbers. Filing dates. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
 
     <!-- ─── Sources ─── -->
     <div class="sources-block">
