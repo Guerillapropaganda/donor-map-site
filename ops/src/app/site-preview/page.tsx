@@ -88,6 +88,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "About",
+    url: "http://localhost:8096/about",
+    description: "About page curated from the original 'Behind the Map' content into beat format. Why this exists, the class-analysis lens, how the site works, the standards it holds itself to. Linked from the homepage nav and the beat-page nav.",
+    status: "prototype",
+    category: "homepage",
+  },
+  {
     title: "Meme Kit · May 1",
     url: "http://localhost:8096/memes-may-1",
     description: "10 memes across 5 stories. 1080×1080 cards built for Bluesky / X / Instagram. Story 5 added 2026-05-02 with the Becerra bait-and-switch reveal.",
