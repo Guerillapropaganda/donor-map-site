@@ -133,3 +133,35 @@ export function computeWeekStats(weekStart: string, expectedSlotsByDay: Record<s
   const pct = expected > 0 ? Math.round((posted / expected) * 100) : 0
   return { posted, expected, pct }
 }
+
+/** Add or subtract N days from an ISO date (YYYY-MM-DD). */
+export function shiftDate(dateIso: string, days: number): string {
+  const d = new Date(dateIso + "T00:00:00Z")
+  d.setUTCDate(d.getUTCDate() + days)
+  return d.toISOString().slice(0, 10)
+}
+
+/**
+ * Recent weeks summary for the archive list.
+ *
+ * Returns the N most-recent week-Mondays (including the current week)
+ * with the count of posted entries for each. Used to render the
+ * "Past weeks" archive on the Cadence tab.
+ */
+export function listRecentWeeks(count: number, fromMondayIso?: string): Array<{ weekStart: string; postedCount: number }> {
+  const startMon = fromMondayIso || mondayOf(new Date().toISOString().slice(0, 10))
+  const entries = readLog()
+  const out: Array<{ weekStart: string; postedCount: number }> = []
+  for (let i = 0; i < count; i++) {
+    const ws = shiftDate(startMon, -7 * i)
+    const start = new Date(ws + "T00:00:00Z")
+    const end = new Date(start)
+    end.setUTCDate(end.getUTCDate() + 7)
+    const inWeek = entries.filter((e) => {
+      const d = new Date(e.date + "T00:00:00Z")
+      return d >= start && d < end && e.status === "posted"
+    })
+    out.push({ weekStart: ws, postedCount: inWeek.length })
+  }
+  return out
+}

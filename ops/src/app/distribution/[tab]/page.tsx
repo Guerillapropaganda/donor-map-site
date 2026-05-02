@@ -16,7 +16,7 @@ import {
 import { TabNav } from "../TabNav"
 import { BodyEditor } from "./BodyEditor"
 import { WeeklyCalendar } from "./WeeklyCalendar"
-import { mondayOf, dayDates, getEntriesForWeek } from "@/lib/distribution-log"
+import { mondayOf, dayDates, getEntriesForWeek, listRecentWeeks, shiftDate } from "@/lib/distribution-log"
 
 /**
  * /distribution/[tab] — multi-tab Distribution surface.
@@ -42,14 +42,16 @@ const VALID_TABS = new Set(["cadence", "queue", "targets", "algorithm"])
 
 interface PageProps {
   params: { tab: string }
+  searchParams?: { week?: string }
 }
 
 export function generateStaticParams() {
   return Array.from(VALID_TABS).map((tab) => ({ tab }))
 }
 
-export default function DistributionTabPage({ params }: PageProps) {
+export default function DistributionTabPage({ params, searchParams }: PageProps) {
   if (!VALID_TABS.has(params.tab)) notFound()
+  const requestedWeek = searchParams?.week && /^\d{4}-\d{2}-\d{2}$/.test(searchParams.week) ? searchParams.week : null
 
   let schedule: DistributionSchedule
   try {
@@ -89,7 +91,7 @@ export default function DistributionTabPage({ params }: PageProps) {
         action={ACTION_TEXT[params.tab] ?? ""}
       />
       <TabNav active={params.tab} />
-      {params.tab === "cadence" && <CadenceView schedule={schedule} />}
+      {params.tab === "cadence" && <CadenceView schedule={schedule} requestedWeek={requestedWeek} />}
       {params.tab === "queue" && <QueueView />}
       {params.tab === "targets" && <TargetsView schedule={schedule} />}
       {params.tab === "algorithm" && <AlgorithmView schedule={schedule} />}
@@ -125,15 +127,30 @@ const ACTION_TEXT: Record<string, string> = {
 
 // ─── Tab views ───────────────────────────────────────────────────────
 
-function CadenceView({ schedule }: { schedule: DistributionSchedule }) {
+function CadenceView({ schedule, requestedWeek }: { schedule: DistributionSchedule; requestedWeek: string | null }) {
   const today = new Date().toISOString().slice(0, 10)
-  const weekStart = mondayOf(today)
+  const currentMonday = mondayOf(today)
+  const weekStart = requestedWeek ? mondayOf(requestedWeek) : currentMonday
   const weekDates = dayDates(weekStart)
   const entries = getEntriesForWeek(weekStart)
   const todayDayIndex = weekDates.indexOf(today)
+  const isCurrentWeek = weekStart === currentMonday
+  const isPastWeek = weekStart < currentMonday
+  const isFutureWeek = weekStart > currentMonday
+  const prevWeek = shiftDate(weekStart, -7)
+  const nextWeek = shiftDate(weekStart, 7)
+  const recentWeeks = listRecentWeeks(8, currentMonday)
   return (
     <div>
-      <Section title="This week">
+      <Section title={isCurrentWeek ? "This week" : isPastWeek ? `Archived week of ${weekStart}` : `Future week of ${weekStart}`}>
+        <WeekNavigator
+          weekStart={weekStart}
+          prevWeek={prevWeek}
+          nextWeek={nextWeek}
+          currentMonday={currentMonday}
+          isCurrentWeek={isCurrentWeek}
+          tab="cadence"
+        />
         <WeeklyCalendar
           weekStart={weekStart}
           weekDates={weekDates}
@@ -141,13 +158,41 @@ function CadenceView({ schedule }: { schedule: DistributionSchedule }) {
           platforms={schedule.platforms}
           weeklyRhythm={schedule.weeklyRhythm}
           initialEntries={entries}
+          isPastWeek={isPastWeek}
+          isFutureWeek={isFutureWeek}
         />
+      </Section>
+
+      <Section title="Past weeks">
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: "8px" }}>
+          {recentWeeks.map((w) => (
+            <Link
+              key={w.weekStart}
+              href={`/distribution/cadence?week=${w.weekStart}`}
+              style={{
+                padding: "10px 12px",
+                background: w.weekStart === weekStart ? "rgba(251, 191, 36, 0.12)" : "rgba(31, 41, 55, 0.4)",
+                border: w.weekStart === weekStart ? "1px solid #fbbf24" : "1px solid #1f2937",
+                textDecoration: "none",
+                color: "var(--color-text)",
+                display: "block",
+              }}
+            >
+              <div style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "10px", letterSpacing: "1.5px", color: w.weekStart === weekStart ? "#fbbf24" : "var(--color-text-dim)", textTransform: "uppercase", marginBottom: "4px" }}>
+                {w.weekStart === currentMonday ? "Current" : "Week of"} {shortMonthDay(w.weekStart)}
+              </div>
+              <div style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "16px", fontWeight: 800, color: w.postedCount > 0 ? "#16a34a" : "var(--color-text-dim)" }}>
+                {w.postedCount} posted
+              </div>
+            </Link>
+          ))}
+        </div>
       </Section>
 
       <Section title="Weekly rhythm">
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))", gap: "8px" }}>
           {schedule.weeklyRhythm.map((d, i) => (
-            <DayCard key={d.day} day={d} isToday={i === todayDayIndex} />
+            <DayCard key={d.day} day={d} isToday={isCurrentWeek && i === todayDayIndex} />
           ))}
         </div>
       </Section>
@@ -324,6 +369,56 @@ function Section({ title, children }: { title: string; children: React.ReactNode
       {children}
     </section>
   )
+}
+
+function shortMonthDay(iso: string): string {
+  const d = new Date(iso + "T00:00:00Z")
+  return `${d.getUTCMonth() + 1}/${d.getUTCDate()}`
+}
+
+function WeekNavigator({
+  weekStart,
+  prevWeek,
+  nextWeek,
+  currentMonday,
+  isCurrentWeek,
+  tab,
+}: {
+  weekStart: string
+  prevWeek: string
+  nextWeek: string
+  currentMonday: string
+  isCurrentWeek: boolean
+  tab: string
+}) {
+  return (
+    <div style={{ display: "flex", gap: "6px", alignItems: "center", marginBottom: "16px", flexWrap: "wrap" }}>
+      <Link href={`/distribution/${tab}?week=${prevWeek}`} style={navBtnStyle}>← Prev</Link>
+      {!isCurrentWeek && (
+        <Link href={`/distribution/${tab}`} style={{ ...navBtnStyle, color: "#fbbf24", borderColor: "#fbbf24" }}>This week</Link>
+      )}
+      <Link href={`/distribution/${tab}?week=${nextWeek}`} style={navBtnStyle}>Next →</Link>
+      <span style={{ flex: 1 }} />
+      <span style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "11px", letterSpacing: "1px", color: "var(--color-text-dim)" }}>
+        viewing week of <strong style={{ color: isCurrentWeek ? "#fbbf24" : "var(--color-text)" }}>{shortMonthDay(weekStart)}</strong>
+        {weekStart < currentMonday && <span style={{ marginLeft: "8px", color: "#737373" }}>· archived</span>}
+        {weekStart > currentMonday && <span style={{ marginLeft: "8px", color: "#5b8dce" }}>· planning ahead</span>}
+      </span>
+    </div>
+  )
+}
+
+const navBtnStyle: React.CSSProperties = {
+  padding: "6px 12px",
+  fontFamily: "var(--font-mono, monospace)",
+  fontSize: "11px",
+  fontWeight: 700,
+  letterSpacing: "1.5px",
+  textTransform: "uppercase",
+  color: "var(--color-text)",
+  textDecoration: "none",
+  border: "1px solid #374151",
+  background: "transparent",
 }
 
 function DayCard({ day, isToday }: { day: DayRhythm; isToday?: boolean }) {

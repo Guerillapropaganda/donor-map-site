@@ -26,6 +26,8 @@ interface Props {
   platforms: PlatformRecord[]
   weeklyRhythm: DayRhythm[]
   initialEntries: LogEntry[]
+  isPastWeek?: boolean
+  isFutureWeek?: boolean
 }
 
 const PLATFORM_COLORS: Record<string, string> = {
@@ -57,7 +59,7 @@ function shortDate(iso: string): string {
   return `${d.getUTCMonth() + 1}/${d.getUTCDate()}`
 }
 
-export function WeeklyCalendar({ weekStart, weekDates, today, platforms, weeklyRhythm, initialEntries }: Props) {
+export function WeeklyCalendar({ weekStart, weekDates, today, platforms, weeklyRhythm, initialEntries, isPastWeek, isFutureWeek }: Props) {
   // Optimistic local state: set of "date|platform|slot" strings that are posted
   const initialPosted = useMemo(
     () => new Set(initialEntries.filter((e) => e.status === "posted").map((e) => keyOf(e.date, e.platform, e.slot))),
@@ -287,6 +289,8 @@ export function WeeklyCalendar({ weekStart, weekDates, today, platforms, weeklyR
 
       <p style={{ marginTop: "12px", fontSize: "11px", color: "var(--color-text-dim)", fontStyle: "italic" }}>
         Click any slot to toggle posted. State persists in <code>data/distribution-log.jsonl</code>. Saturday + Sunday are off-days per the rhythm; today's column is highlighted yellow.
+        {isPastWeek && <span style={{ display: "block", marginTop: "4px", color: "#737373" }}>This is an archived week. You can still backfill or correct posts; entries are preserved indefinitely.</span>}
+        {isFutureWeek && <span style={{ display: "block", marginTop: "4px", color: "#5b8dce" }}>You're planning ahead. Mark slots posted as the week unfolds.</span>}
       </p>
     </div>
   )
