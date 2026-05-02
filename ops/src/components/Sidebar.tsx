@@ -83,6 +83,7 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/sources", label: "Source Registry", icon: "globe" },
       { href: "/urls", label: "URL Manager", icon: "globe" },
       { href: "/races/ca-gov-2026", label: "CA Governor 2026", icon: "user" },
+      { href: "/site-preview", label: "Site Preview", icon: "globe" },
       { href: "/tips", label: "Public Tips", icon: "mail", badgeKey: "tips" },
       { href: "/notes", label: "Notes & Queues", icon: "clipboard", badgeKey: "notes" },
       { href: "/calendar", label: "Calendar", icon: "calendar" },
