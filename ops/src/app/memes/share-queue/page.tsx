@@ -4,6 +4,7 @@ import { useEffect, useState, useCallback } from "react"
 import Link from "next/link"
 import { PageHeader } from "@/components/PageHeader"
 import { getMeme, getBeat } from "@/lib/memes-catalog"
+import { intentUrl, profileUrl, PLATFORM_META, type Platform } from "@/lib/social-config"
 
 /**
  * Share queue · /memes/share-queue
@@ -21,7 +22,7 @@ interface QueueEntry {
   id: string
   memeId: string
   beat: string
-  platform: "x" | "bluesky" | "other"
+  platform: Platform
   caption: string
   status: Status
   createdAt: string
@@ -187,12 +188,9 @@ function QueueRow({ entry, updateStatus }: { entry: QueueEntry; updateStatus: (i
   const beat = getBeat(entry.beat)
   const [postedUrl, setPostedUrl] = useState("")
 
-  const intent =
-    entry.platform === "x"
-      ? `https://twitter.com/intent/tweet?text=${encodeURIComponent(entry.caption)}`
-      : entry.platform === "bluesky"
-      ? `https://bsky.app/intent/compose?text=${encodeURIComponent(entry.caption)}`
-      : null
+  const intent = intentUrl(entry.platform, entry.caption)
+  const profile = profileUrl(entry.platform)
+  const platformMeta = PLATFORM_META[entry.platform]
 
   const statusColor: Record<Status, string> = {
     draft: "#fbbf24",
@@ -270,7 +268,22 @@ function QueueRow({ entry, updateStatus }: { entry: QueueEntry; updateStatus: (i
         )}
         {entry.status === "approved" && intent && (
           <a href={intent} target="_blank" rel="noopener noreferrer" style={btnStyle("primary")}>
-            Open in {entry.platform.toUpperCase()} compose ↗
+            Open in {platformMeta.label} compose ↗
+          </a>
+        )}
+        {entry.status === "approved" && !intent && profile && (
+          <a
+            href={profile}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={btnStyle("primary")}
+            onClick={async () => {
+              try {
+                await navigator.clipboard.writeText(entry.caption)
+              } catch {}
+            }}
+          >
+            Copy caption + open {platformMeta.label} ↗
           </a>
         )}
         {entry.status === "approved" && (

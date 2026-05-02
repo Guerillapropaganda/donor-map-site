@@ -3,6 +3,7 @@ import fs from "node:fs"
 import path from "node:path"
 import { randomUUID } from "node:crypto"
 import { getMeme, getBeat, type BeatSlug } from "@/lib/memes-catalog"
+import type { Platform } from "@/lib/social-config"
 
 /**
  * Meme publish queue API · 2026-05-02
@@ -26,7 +27,7 @@ interface QueueEntry {
   id: string
   memeId: string
   beat: BeatSlug
-  platform: "x" | "bluesky" | "other"
+  platform: Platform
   caption: string
   status: "draft" | "approved" | "posted" | "rejected" | "archived"
   createdAt: string
@@ -69,7 +70,7 @@ export async function POST(req: NextRequest) {
     const { memeId, beat, platform, caption } = body as {
       memeId?: string
       beat?: BeatSlug
-      platform?: "x" | "bluesky" | "other"
+      platform?: Platform
       caption?: string
     }
     if (!memeId || !beat || !platform) {

@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Editorial workflow fonts (brutalist content tiles on /memes etc.).
+   Per the 2026-05-02 carve-out to "ops excluded from Design System":
+   editorial surfaces that preview brutalist work products may render
+   tiles in the site Design System fonts. Ops chrome stays dark. */
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
 :root {
   --color-bg: #0c0c0f;
   --color-bg-card: #141419;
