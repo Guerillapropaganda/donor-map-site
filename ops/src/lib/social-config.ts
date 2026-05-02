@@ -14,7 +14,7 @@
 export type Platform = "x" | "bluesky" | "instagram" | "facebook" | "other"
 
 export const SOCIAL_ACCOUNTS = {
-  x: { handle: "@thedonormap", url: "https://x.com/thedonormap" },
+  x: { handle: "@Guerillaprop", url: "https://x.com/Guerillaprop" },
   bluesky: { handle: "@thedonormap.bsky.social", url: "https://bsky.app/profile/thedonormap.bsky.social" },
   instagram: { handle: "@guerillaprop", url: "https://www.instagram.com/guerillaprop/" },
   facebook: { handle: "Guerilla Prop", url: "https://www.facebook.com/profile.php?id=100064085292406" },
