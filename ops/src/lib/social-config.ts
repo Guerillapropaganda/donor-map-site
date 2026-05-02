@@ -18,6 +18,7 @@ export const SOCIAL_ACCOUNTS = {
   bluesky: { handle: "@thedonormap.bsky.social", url: "https://bsky.app/profile/thedonormap.bsky.social" },
   instagram: { handle: "@guerillaprop", url: "https://www.instagram.com/guerillaprop/" },
   facebook: { handle: "Guerilla Prop", url: "https://www.facebook.com/profile.php?id=100064085292406" },
+  patreon: { handle: "Guerilla_Prop", url: "https://www.patreon.com/c/Guerilla_Prop" },
 }
 
 export const PLATFORM_META: Record<Platform, { label: string; canIntent: boolean; intentNote?: string }> = {
