@@ -62,7 +62,7 @@ const NAV_GROUPS: NavGroup[] = [
     pinned: true,
     items: [
       { href: "/", label: "Dashboard", icon: "grid", badgeKey: "harness" },
-      { href: "/under-construction?surface=active-beat", label: "Active Beat", icon: "edit" },
+      { href: "/active-beat", label: "Active Beat", icon: "edit" },
       { href: "/under-construction?surface=beats", label: "Beats", icon: "file-text" },
       { href: "/memes", label: "Memes", icon: "share" },
       { href: "/under-construction?surface=charts", label: "Charts", icon: "trending" },
