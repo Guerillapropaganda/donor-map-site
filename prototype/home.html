@@ -76,48 +76,120 @@ html, body {
 .nav-links a:hover { border-bottom-color: var(--black); }
 
 /* ─── Hero ─── */
-/* ─── Receipts ticker (brutalist motion) ─── */
-.ticker {
+/* ─── Manifesto strip (brutalist motion, brand-level) ─── */
+.manifesto {
   background: #0a0a0a;
   color: #f5f0eb;
   border-bottom: 4px solid #fbbf24;
-  overflow: hidden;
   position: relative;
+  overflow: hidden;
+  min-height: 96px;
 }
-.ticker-track {
-  display: flex;
-  gap: 0;
-  white-space: nowrap;
-  animation: ticker-scroll 90s linear infinite;
-  width: max-content;
-}
-.ticker-item {
-  display: inline-flex;
+.manifesto-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 26px 32px;
+  display: grid;
+  grid-template-columns: auto 1fr;
   align-items: center;
-  gap: 14px;
-  padding: 14px 36px;
-  font-family: 'Space Mono', monospace;
-  font-size: 13px;
-  letter-spacing: 0.5px;
-  border-right: 2px solid #1a1a1a;
+  gap: 28px;
+  position: relative;
+  z-index: 2;
 }
-.ticker-amount {
+.manifesto-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #fbbf24;
+  text-transform: uppercase;
+  border: 2px solid #fbbf24;
+  padding: 6px 12px;
+  white-space: nowrap;
+}
+.manifesto-stage {
+  position: relative;
+  height: 44px;
+  overflow: hidden;
+}
+.manifesto-line {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
   font-family: 'Inter', sans-serif;
   font-weight: 900;
-  font-size: 16px;
-  letter-spacing: -0.5px;
-  background: #fbbf24;
-  color: #0a0a0a;
-  padding: 2px 10px;
-  display: inline-block;
+  font-size: 30px;
+  letter-spacing: -1px;
+  line-height: 1;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(14px);
+  animation: manifesto-cycle 25s infinite;
 }
-.ticker-label { color: #ddd; }
-@keyframes ticker-scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+.manifesto-line em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #fbbf24;
+  margin: 0 4px;
+}
+.manifesto-line:nth-child(1) { animation-delay: 0s; }
+.manifesto-line:nth-child(2) { animation-delay: 5s; }
+.manifesto-line:nth-child(3) { animation-delay: 10s; }
+.manifesto-line:nth-child(4) { animation-delay: 15s; }
+.manifesto-line:nth-child(5) { animation-delay: 20s; }
+@keyframes manifesto-cycle {
+  0%   { opacity: 0; transform: translateY(14px); }
+  4%   { opacity: 1; transform: translateY(0); }
+  20%  { opacity: 1; transform: translateY(0); }
+  24%  { opacity: 0; transform: translateY(-14px); }
+  100% { opacity: 0; transform: translateY(-14px); }
+}
+.manifesto-counter {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ddd;
+  text-align: right;
+  white-space: nowrap;
+}
+.manifesto-counter strong {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: #f5f0eb;
+  background: #e63946;
+  padding: 2px 10px;
+  margin-bottom: 4px;
+}
+.manifesto-sweep {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  width: 100%;
+  background: linear-gradient(90deg, transparent 0%, #fbbf24 20%, #e63946 50%, #1d4ed8 80%, transparent 100%);
+  transform: translateX(-100%);
+  animation: manifesto-sweep 25s linear infinite;
+  z-index: 1;
+}
+@keyframes manifesto-sweep {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
 }
 @media (prefers-reduced-motion: reduce) {
-  .ticker-track { animation: none; }
+  .manifesto-line,
+  .manifesto-sweep { animation: none; }
+  .manifesto-line:nth-child(1) { opacity: 1; transform: translateY(0); }
+}
+@media (max-width: 720px) {
+  .manifesto-inner { grid-template-columns: 1fr; gap: 14px; }
+  .manifesto-line { font-size: 22px; }
+  .manifesto-counter { text-align: left; }
 }
 
 .hero {
@@ -399,31 +471,19 @@ html, body {
   </div>
 </nav>
 
-<!-- ─── Receipts ticker (brutalist motion) ─── -->
-<aside class="ticker" aria-label="Recent receipts">
-  <div class="ticker-track">
-    <div class="ticker-item"><span class="ticker-amount">$10,050,000</span> <span class="ticker-label">PG&amp;E to defeat Tom Steyer</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$30,000</span> <span class="ticker-label">DBR opposition poll · "Survey/Oppose/Tom Steyer/Governor/Statewide"</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">Anthem founder Schaeffer to Becerra</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$49,700</span> <span class="ticker-label">Molina Healthcare CEO to Becerra</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">DHR Health co-founder Cantu to Becerra</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">CA Realtors to defeat Steyer</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">Cal Chamber JOBSPAC to defeat Steyer</span></div>
-    <div class="ticker-item"><span class="ticker-amount">CMS</span> <span class="ticker-label">approves DHR Brownsville expansion · 2022-12-20 · over FAH+AHA opposition</span></div>
-    <div class="ticker-item"><span class="ticker-amount">4 channels</span> <span class="ticker-label">CPCA Advocates · all four · first ever for any candidate</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$54,700</span> <span class="ticker-label">CA State Council of Laborers to Becerra · #1 named donor</span></div>
-    <!-- Duplicated set for seamless loop -->
-    <div class="ticker-item"><span class="ticker-amount">$10,050,000</span> <span class="ticker-label">PG&amp;E to defeat Tom Steyer</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$30,000</span> <span class="ticker-label">DBR opposition poll · "Survey/Oppose/Tom Steyer/Governor/Statewide"</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">Anthem founder Schaeffer to Becerra</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$49,700</span> <span class="ticker-label">Molina Healthcare CEO to Becerra</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">DHR Health co-founder Cantu to Becerra</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">CA Realtors to defeat Steyer</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">Cal Chamber JOBSPAC to defeat Steyer</span></div>
-    <div class="ticker-item"><span class="ticker-amount">CMS</span> <span class="ticker-label">approves DHR Brownsville expansion · 2022-12-20 · over FAH+AHA opposition</span></div>
-    <div class="ticker-item"><span class="ticker-amount">4 channels</span> <span class="ticker-label">CPCA Advocates · all four · first ever for any candidate</span></div>
-    <div class="ticker-item"><span class="ticker-amount">$54,700</span> <span class="ticker-label">CA State Council of Laborers to Becerra · #1 named donor</span></div>
+<!-- ─── Manifesto strip (brutalist motion, brand-level) ─── -->
+<aside class="manifesto" aria-label="The Donor Map principles">
+  <div class="manifesto-inner">
+    <div class="manifesto-tag">THE DONOR MAP // 2026</div>
+    <div class="manifesto-stage" aria-live="polite">
+      <div class="manifesto-line">Facts <em>are</em> free.</div>
+      <div class="manifesto-line">Donors are <em>public</em> record.</div>
+      <div class="manifesto-line">Follow <em>the</em> money.</div>
+      <div class="manifesto-line">The pattern <em>is</em> the story.</div>
+      <div class="manifesto-line">Names. Dollars. <em>Receipts.</em></div>
+    </div>
   </div>
+  <div class="manifesto-sweep" aria-hidden="true"></div>
 </aside>
 
 <!-- ─── Hero ─── -->
