@@ -82,6 +82,27 @@ const PHASE_1_DOMAINS = new Set([
   'find-and-update.company-information.service.gov.uk',
   'www.companieshouse.gov.uk',
   'hansard.parliament.uk',
+  // Named-publication Tier 2 California political-press sources (added 2026-05-02
+  // amendment, ADR-0030 §11). Authorized for verification of quoted material
+  // already cited in editorial work — confirming wording, surrounding context,
+  // and that URLs resolve. NOT authorized for: substituting URLs (Rule 13 still
+  // binds), original research, aggregators, social media, opinion outlets,
+  // Substacks, partisan outlets. The seven domains below are an explicit
+  // allowlist; expansion requires an ADR amendment.
+  'laist.com',
+  'www.laist.com',
+  'kqed.org',
+  'www.kqed.org',
+  'sacbee.com',
+  'www.sacbee.com',
+  'politico.com',
+  'www.politico.com',
+  'calmatters.org',
+  'www.calmatters.org',
+  'latimes.com',
+  'www.latimes.com',
+  'sfchronicle.com',
+  'www.sfchronicle.com',
 ]);
 
 // Phase 2 — gated by per-pipeline activation. Format: { domain, gating_rationale }.

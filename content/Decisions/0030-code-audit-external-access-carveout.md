@@ -316,3 +316,59 @@ This narrows future creep: the carve-out is for documented operators in the vaul
 - News + aggregator + social media remain explicitly out of scope.
 - The session cap (60 fetches per domain) and per-domain rate limit (2s) apply to UK domains exactly as they apply to US.
 - Editorial verdicts on UK history remain David's lane (Rule 13 — defamation surface). Code Claude assembles factual records and source citations; David writes editorial framing.
+
+### Amendment 2026-05-02 — Named-publication Tier 2 sources for quote verification
+
+**Trigger:** the Becerra single-payer beat page (`prototype/beat-three-becerras.html`) cites the KQED article *"Becerra backpedals on single-payer as he woos powerful doctors lobby"* as the editorially load-bearing third-audience source. The forensic audit identified the KQED-cited Bravo paraphrase as the most vulnerable claim on the page. To verify quote accuracy and context, Code Claude needs to read the article. The original ADR-0030 §1 explicitly excludes "news, aggregators, social media." That exclusion was correct for the Cal-Access-pipeline-self-audit use case. It is wrong for the verification-of-cited-quotes use case the beat-style site has produced.
+
+This amendment opens a narrow allowlist of named-publication California political-press sources for verification fetches.
+
+**Active named-publication allowlist:**
+
+| Domain | Purpose |
+|---|---|
+| `laist.com` | LAist (KPCC / Southern California Public Radio); already cited in beat-page sources |
+| `kqed.org` | KQED (Northern California public radio); already cited |
+| `sacbee.com` | Sacramento Bee; already cited |
+| `politico.com` | Politico California Playbook + national Politico; already cited |
+| `calmatters.org` | CalMatters; already cited |
+| `latimes.com` | Los Angeles Times; already cited |
+| `sfchronicle.com` | San Francisco Chronicle; already cited |
+
+**Authorized purpose, narrowly defined:**
+
+1. Verifying that a quote attributed to a named source in our editorial work matches the wording in the publication's article.
+2. Reading the surrounding paragraph of a quote to confirm it is reproduced in context.
+3. Fetching the article URL to confirm it resolves and has not been redirected to a paywall or error page.
+
+**Out of scope:**
+
+- Substituting a URL with a different one. (Rule 13 is unchanged. Editor's lane.)
+- Original research from news sources beyond verification of already-cited material. The beat-page quote is the verification anchor; if Code Claude needs more reporting, that goes through Perplexity-via-David per Rule 14.
+- Aggregators, social media, opinion blogs, Substacks, partisan outlets. Same exclusion as the original §1.
+- Any publication not on the named-publication allowlist above. Future additions to the allowlist require an explicit ADR amendment.
+
+**Mechanical safeguards (existing, unchanged):**
+
+- All fetches log to `data/code-audit-fetches.jsonl` with timestamp, URL, content-type, response code, byte count.
+- The `code-audit-fetch-sentinel` pre-commit hook blocks any commit where a fetched URL appears in profile body content. The sentinel does not distinguish source class; if Code Claude pastes a fetched URL into a profile body, the commit is blocked regardless of whether the URL is government or news.
+- Per-domain rate limit: 2s between requests to the same domain.
+- Per-session cap: 60 fetches per domain per session (existing).
+- Bot-block detection (`blocked-by-cf` enum) for Imperva/Cloudflare challenges. Several California news outlets use Imperva; expect partial blocking on retrievals. Bot-block is a terminal non-result, not a retry.
+
+**Implementation:**
+
+- `scripts/lib/code-audit-fetcher.cjs` PHASE_1_DOMAINS gets the seven domains added.
+- A separate `verifyQuoteFromPublication(url, expectedQuote)` helper goes into the same library to mechanically check whether a fetched article contains a given quoted phrase, returning {found, surrounding_paragraph, content_class}.
+- The first use case is `scripts/verify-becerra-kqed-quotes.cjs`, which fetches the KQED article and confirms or denies the Bravo paraphrase + Underland direct quote.
+
+**What does NOT change:**
+
+- Rule 13 remains in force for all profile-body URLs. Editor's lane.
+- Aggregators / social / opinion / partisan outlets remain excluded.
+- Future allowlist expansion requires an ADR amendment, not a unilateral library edit.
+- The defamation surface around real people is unchanged: Code Claude assembles factual records and verifies quoted material against published sources; David writes the editorial framing and signs off on every URL that lands in published prose.
+
+**Why this is editorially safer than the alternative:**
+
+The alternative is leaving the beat page citing KQED quotes that Code Claude has never read. That is the riskier posture: the page asserts what KQED said and the assertion has not been verified at the article level. With this amendment, Code Claude can mechanically confirm the quote exists in the article before the page ships. Rule 13 still binds the URL to David's verification before publication; the amendment adds a verify-the-quote-against-the-article step that the beat-style site needs and the pipeline-self-audit version of ADR-0030 did not anticipate.
