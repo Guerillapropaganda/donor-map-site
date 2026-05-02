@@ -76,7 +76,14 @@ const PROTOTYPE_PAGES: PageEntry[] = [
   {
     title: "Three Becerras (DRAFT)",
     url: "http://localhost:8096/three-becerras",
-    description: "Second beat. 24 years of single-payer cosponsorships, three different 2026 messages, the donor list that picks one. Pending URL pass before public exposure.",
+    description: "Second beat. 24 years of single-payer cosponsorships, three different 2026 messages, the donor list whose interests the softest message serves. Revised 2026-05-02 after forensic audit. Pending URL pass before public exposure.",
+    status: "draft-isolated",
+    category: "beat",
+  },
+  {
+    title: "Becerra 2026 donor list (DRAFT)",
+    url: "http://localhost:8096/donors-becerra-2026",
+    description: "Companion to Three Becerras. Top fifteen donors plus the six healthcare-industry max donors with class tags and HHS-policy hooks. Lets the reader audit whether the healthcare-industry concentration on the main beat is selected or representative.",
     status: "draft-isolated",
     category: "beat",
   },
@@ -342,7 +349,7 @@ export default function SitePreviewPage() {
         title="Site Preview"
         whatThisDoes="Launcher for every URL in the project. Live site, Quartz dev build, prototype layer, and isolated drafts that aren't linked from anywhere. Click Open ↗ to open any page in a new tab."
         rightNow={`${liveEntries.length} route(s) live · ${PROTOTYPE_PAGES.length} prototype page(s) · ${QUARTZ_PAGES.length} Quartz-built page(s) listed`}
-        action="Click any Open ↗ button to launch the page in a new tab. If the local server isn't running you'll get connection-refused — start the matching server first."
+        action="Click any Open ↗ button to launch the page in a new tab. If the local server isn't running you'll get connection-refused; start the matching server first."
       />
 
       {/* ─── Server-running hint banner ───────────────────────────────── */}
@@ -388,7 +395,7 @@ export default function SitePreviewPage() {
       <Section
         title="Prototype layer (localhost:8096)"
         subtitle="Beat-style site under construction · handcrafted HTML"
-        hint="Start with Homepage to navigate organically through the site. The DRAFT · UNLINKED entries are not reachable by clicking through nav — those are what David asked this page to surface."
+        hint="Start with Homepage to navigate organically through the site. The DRAFT · UNLINKED entries are not reachable by clicking through nav. Those are what this page surfaces."
         entries={PROTOTYPE_PAGES}
       />
 
