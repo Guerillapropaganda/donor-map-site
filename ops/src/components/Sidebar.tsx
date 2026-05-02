@@ -109,7 +109,7 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/stories", label: "Stories", icon: "file-text" },
       { href: "/sources", label: "Source Registry", icon: "globe" },
       { href: "/urls", label: "URL Manager", icon: "globe" },
-      { href: "/calendar", label: "Calendar", icon: "calendar" },
+      { href: "/distribution", label: "Distribution", icon: "share" },
       { href: "/query", label: "Query / Ask", icon: "search" },
     ],
   },
