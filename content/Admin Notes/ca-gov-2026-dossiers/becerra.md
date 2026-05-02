@@ -228,6 +228,86 @@ The frame the data supports: **the regulator who joined his regulators, in recei
 
 The class-traitor frame does not apply to Becerra. The donor class is not organizing against him. They are placing him.
 
+## Phase 5h: Single-payer position layer (2026-05-02)
+
+Independent Perplexity verification of Becerra's public record on single-payer healthcare across three time windows. Source: `content/Admin Notes/perplexity-research/2026-05-02-becerra-single-payer-results.md`. The findings change the editorial frame from "regulator who joined his regulators" (Phase 5g) to a more specific bait-and-switch frame supported by direct quote evidence.
+
+### Federal House record (1993 to 2017): real single-payer advocacy
+
+Becerra cosponsored single-payer legislation seven separate times across four Congresses, with primary-source confirmation via GovTrack:
+
+| Bill | Date joined | Source |
+|---|---|---|
+| HR 1200, American Health Security Act of 1993 | 1993-03-03 | GovTrack bill 124835 + cosponsorship API |
+| HR 3960, American Health Security Act of 1994 | 1994-03-03 | GovTrack bill page |
+| HR 1200, American Health Security Act of 1995 | 1995-03-09 | GovTrack bill page |
+| HR 676, 109th Congress | 2005-11-17 | GovTrack bill 191242 + cosponsorship API |
+| HR 676, 110th Congress | 2007-06-13 | GovTrack bill 140197 + cosponsorship API |
+| HR 676, 111th Congress | 2009-03-17 | GovTrack bill 6754 + cosponsorship API |
+| HR 676, 112th Congress | 2011-05-13 | GovTrack bill 72741 + cosponsorship API |
+
+Direct quotes:
+- 1994 congressional hearing: "I do, as I said before, join my colleagues who support the single-payer plan." (KFF Health News fact-check, citing the hearing record but primary GovInfo transcript not located by Perplexity)
+- 2017 Fox News: "a supporter of Medicare for All for the 24 years that I was in Congress." (KFF Health News, post-House)
+
+Gaps in the record: no cosponsorship located in the 108th, 113th, 114th, or 115th Congresses.
+
+### HHS Secretary tenure (March 2021 to January 2025): served the administration line
+
+In Senate Finance confirmation hearing, when pressed by Sen. Mike Crapo on whether private-insurance holders would lose coverage under Medicare for All:
+
+> Becerra: "[I serve] at the pleasure of the President, [Biden] wanted to build on the Affordable Care Act, and that will be my mission."
+
+In the same hearing he endorsed implementing the Biden public-option agenda rather than single payer. In written Q&A, said Section 1332 waivers "can be one tool States can use" but did not connect that to California single payer or CalCare.
+
+Perplexity located no HHS press conference or in-office interview where Becerra publicly broke with the Biden administration to advocate Medicare for All. Source: Senate Finance transcript PDF at finance.senate.gov.
+
+This phase is consistent with HHS Secretary protocol. Not in itself evidence of position change. The frame-relevant question is what he says now that he is running for governor.
+
+### 2026 gubernatorial campaign: three different messages to three different audiences
+
+This is the finding.
+
+**Audience 1: voters reading his campaign website.** The xavierbecerra2026.com healthcare page states California can deliver relief "while building toward a universal, single-payer CalCare system that puts people before profits." It describes him as "an advocate for single payer" since his early years in Congress. The page does not mention AB 1400, SB 770, or Section 1332 waivers as specific commitments. It uses the broad "building toward" framing.
+
+**Audience 2: voters in unscripted interviews.** In an LAist interview, Becerra said:
+- Medicare is "essentially a single-payer healthcare system"
+- California could pursue single payer only by harmonizing federal, state, local, and private-sector rules
+- "I don't think this federal government's gonna help us get to single payer"
+
+The transcript contains no mention of CalCare, AB 1400, SB 770, or Section 1332 waivers. The framing has shifted from "building toward" to federal-feasibility hedging.
+
+**Audience 3: the doctors lobby (California Medical Association).** KQED reported, under the headline "Becerra backpedals on single-payer as he woos powerful doctors lobby":
+- Becerra campaign spokesperson Jonathan Underland: "A single payer system is the right goal but it's not possible under this administration."
+- CMA president René Bravo, paraphrasing what Becerra told doctors directly: "at this point, he wasn't supportive of single payer."
+
+The progression across the three audiences is: "building toward" (website) to "feasibility-hedged" (LAist) to "not supportive at this point" (CMA closed-door per KQED). The same candidate, the same election, the same week. Different audiences.
+
+### The frame the verified record supports
+
+The "regulator who joined his regulators" frame from Phase 5g is correct but understates what the receipts actually show. The fuller frame: a candidate with a real twenty-four-year single-payer record is now running on a campaign website that says "building toward CalCare" while privately telling the doctors lobby he is "not supportive at this point." The donor list, separately verified in Phase 5g, maps cleanly to the audience getting the private message: insurance-industry founder maxed out (Schaeffer / Anthem), the FQHC operating under Medi-Cal managed-care contracts (AltaMed), the hospital chain under active HHS-OIG Corporate Integrity Agreement (Prime Healthcare), the physician-owned hospital co-founder (Cantu / DHR).
+
+The frame is no longer "he opposes single payer." The frame is the contradiction itself: **what he says depends on who is listening**, and **the receipts on his donor list explain which message he means**.
+
+This is materially stronger than the original framing because:
+1. It does not require asserting a position he has not taken (the "supports" / "opposes" binary).
+2. Every claim traces to direct quote evidence in primary or named-publication reporting (GovTrack for the cosponsorships, Senate Finance transcript for HHS posture, his own campaign website + LAist transcript + KQED reporting for the three 2026 messages).
+3. The donor list independently verifies which audience is receiving the operative message. The structural pattern is the receipt.
+
+### Editorial implications
+
+- The Becerra beat page should structure the three-message reveal as the spine: prior record (24 years), HHS posture (administration line), 2026 three audiences. Then drop the donor list as the structural explanation.
+- A meme candidate writes itself: side-by-side quote blocks (campaign website vs CMA-reported quote) with the donor list at the bottom captioned "Three audiences. Three Becerras. The receipts pick one."
+- KQED is the most editorially load-bearing source. The KQED quote chain is what makes the bait-and-switch frame Tier 2 verifiable. Before publication, David should re-read the KQED article in full and confirm the Underland and Bravo quotes are reproduced accurately and in context.
+- The campaign-website language is direct from xavierbecerra2026.com. As the candidate's own controlled message, it is the cleanest counter-quote in the meme.
+- LAist, KQED, and the campaign site URLs all need David's URL-verification pass per Rule 13 before any of them go on a published page.
+
+### What is NOT supported by the record
+
+- Becerra has not taken a clean "no" position on single payer. The KQED-reported "not supportive at this point" is conditional on federal administration, not categorical.
+- He has not stated a position on AB 1400 / CalCare revival or SB 770 / Section 1332 waiver groundwork. None of the three 2026 messages mention those bills by name. This is itself a finding (a 24-year congressional veteran and former HHS Secretary running for governor of California has not stated a position on the most consequential healthcare legislation in the state's recent history) but it is a different frame than "he opposes."
+- The 1994 hearing quote ("I do join my colleagues who support the single-payer plan") is cited via KFF / PolitiFact, not located by Perplexity at the GovInfo / Congress.gov primary transcript level. Treat as Tier 2 until David confirms.
+
 ## Open questions for David
 
 - What proportion of his 2026 donors are healthcare-industry-aligned (insurers, pharma, hospital systems, healthcare unions)?
