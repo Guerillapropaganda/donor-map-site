@@ -15,6 +15,8 @@ import {
 } from "@/lib/distribution-schedule"
 import { TabNav } from "../TabNav"
 import { BodyEditor } from "./BodyEditor"
+import { WeeklyCalendar } from "./WeeklyCalendar"
+import { mondayOf, dayDates, getEntriesForWeek } from "@/lib/distribution-log"
 
 /**
  * /distribution/[tab] — multi-tab Distribution surface.
@@ -124,12 +126,28 @@ const ACTION_TEXT: Record<string, string> = {
 // ─── Tab views ───────────────────────────────────────────────────────
 
 function CadenceView({ schedule }: { schedule: DistributionSchedule }) {
+  const today = new Date().toISOString().slice(0, 10)
+  const weekStart = mondayOf(today)
+  const weekDates = dayDates(weekStart)
+  const entries = getEntriesForWeek(weekStart)
+  const todayDayIndex = weekDates.indexOf(today)
   return (
     <div>
+      <Section title="This week">
+        <WeeklyCalendar
+          weekStart={weekStart}
+          weekDates={weekDates}
+          today={today}
+          platforms={schedule.platforms}
+          weeklyRhythm={schedule.weeklyRhythm}
+          initialEntries={entries}
+        />
+      </Section>
+
       <Section title="Weekly rhythm">
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(160px, 1fr))", gap: "8px" }}>
-          {schedule.weeklyRhythm.map((d) => (
-            <DayCard key={d.day} day={d} />
+          {schedule.weeklyRhythm.map((d, i) => (
+            <DayCard key={d.day} day={d} isToday={i === todayDayIndex} />
           ))}
         </div>
       </Section>
@@ -308,23 +326,43 @@ function Section({ title, children }: { title: string; children: React.ReactNode
   )
 }
 
-function DayCard({ day }: { day: DayRhythm }) {
+function DayCard({ day, isToday }: { day: DayRhythm; isToday?: boolean }) {
   const isOff = day.type === "off"
+  const accent = DAY_COLORS[day.type] || "#374151"
   return (
     <div
       style={{
         padding: "12px 14px",
-        background: isOff ? "rgba(31, 41, 55, 0.2)" : "rgba(31, 41, 55, 0.5)",
-        border: `1px solid ${isOff ? "#1f2937" : DAY_COLORS[day.type] || "#374151"}`,
+        background: isToday ? "rgba(251, 191, 36, 0.12)" : isOff ? "rgba(31, 41, 55, 0.2)" : "rgba(31, 41, 55, 0.5)",
+        border: isToday ? "2px solid #fbbf24" : `1px solid ${isOff ? "#1f2937" : accent}`,
         opacity: isOff ? 0.6 : 1,
+        position: "relative",
       }}
     >
+      {isToday && (
+        <span
+          style={{
+            position: "absolute",
+            top: "-9px",
+            left: "10px",
+            background: "#fbbf24",
+            color: "#0a0a0a",
+            padding: "2px 8px",
+            fontFamily: "var(--font-mono, monospace)",
+            fontSize: "9px",
+            fontWeight: 700,
+            letterSpacing: "1.5px",
+          }}
+        >
+          TODAY
+        </span>
+      )}
       <div
         style={{
           fontFamily: "var(--font-mono, monospace)",
           fontSize: "10px",
           letterSpacing: "1.5px",
-          color: DAY_COLORS[day.type] || "var(--color-text-dim)",
+          color: isToday ? "#fbbf24" : accent,
           textTransform: "uppercase",
           marginBottom: "6px",
           fontWeight: 700,
