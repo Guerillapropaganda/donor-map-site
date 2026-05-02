@@ -11,6 +11,7 @@ http.createServer((req, res) => {
   else if (url === '/memes' || url === '/memes-may-1' || url === '/memes-may-1.html') file = 'memes-may-1.html';
   else if (url === '/home' || url === '/home.html' || url === '/' ) file = 'home.html';
   else if (url === '/class-traitor' || url === '/beat-class-traitor' || url === '/beat-class-traitor.html') file = 'beat-class-traitor.html';
+  else if (url === '/three-becerras' || url === '/beat-three-becerras' || url === '/beat-three-becerras.html') file = 'beat-three-becerras.html';
   else file = 'landing-v3.html';
   const filePath = path.join(__dirname, file);
   const content = fs.readFileSync(filePath, 'utf8');
