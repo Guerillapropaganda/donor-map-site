@@ -3,6 +3,8 @@ import path from "node:path"
 import Link from "next/link"
 import { PageHeader } from "@/components/PageHeader"
 import { memesByBeat } from "@/lib/memes-catalog"
+import { ensureSeeded, type VerificationSeed } from "@/lib/beat-verifications"
+import { VerificationRow } from "./VerificationRow"
 
 /**
  * Active Beat workspace · /active-beat
@@ -26,14 +28,6 @@ import { memesByBeat } from "@/lib/memes-catalog"
  * by pulling state into a small JSONL.
  */
 
-interface VerificationItem {
-  label: string
-  detail: string
-  lane: "Editor" | "Code Claude" | "Perplexity" | "Time-based"
-  status: "open" | "blocked" | "applied"
-  blockReason?: string
-}
-
 interface ChecklistItem {
   label: string
   detail: string
@@ -51,61 +45,160 @@ const ACTIVE_BEAT = {
   publicSlug: "three-becerras",
 }
 
-const OPEN_VERIFICATIONS: VerificationItem[] = [
+const VERIFICATION_SEEDS: VerificationSeed[] = [
   {
+    id: "becerra-kqed-url",
+    beat: "three-becerras",
     label: "URL pass: KQED article",
     detail:
-      "kqed.org/news/12082059/xavier-becerra-backpedals-on-single-payer · the editorially load-bearing third-audience source. Per Rule 13 every cited URL passes editor verification before public exposure.",
+      "The editorially load-bearing third-audience source. Per Rule 13 every cited URL passes editor verification before public exposure.",
     lane: "Editor",
-    status: "open",
+    url: "https://www.kqed.org/news/12082059/xavier-becerra-backpedals-on-single-payer-as-he-woos-powerful-doctors-lobby",
   },
   {
+    id: "becerra-laist-url",
+    beat: "three-becerras",
     label: "URL pass: LAist transcript",
     detail:
-      "laist.com 2026 transcript citing the federal-feasibility hedge quote. Code Claude can fetch via ADR-0030 §11; URL acceptance for the published page is Editor lane.",
+      "LAist 2026 transcript citing the federal-feasibility hedge quote. Code Claude can fetch via ADR-0030 §11; URL acceptance for the published page is Editor lane.",
     lane: "Editor",
-    status: "open",
+    url: "https://laist.com/news/politics/2026-election-california-primary-xavier-becerra-california-governor-transcript",
   },
   {
+    id: "becerra-senate-finance-url",
+    beat: "three-becerras",
     label: "URL pass: Senate Finance transcript PDF",
-    detail: "finance.senate.gov 473022.pdf for the 2021 confirmation hearing testimony.",
+    detail: "Senate Finance 473022.pdf for the 2021 confirmation hearing testimony.",
     lane: "Editor",
-    status: "open",
+    url: "https://www.finance.senate.gov/imo/media/doc/473022.pdf",
   },
   {
+    id: "becerra-campaign-healthcare-url",
+    beat: "three-becerras",
     label: "URL pass: Becerra campaign healthcare page",
     detail: "xavierbecerra2026.com/priorities/health-care/ for the 'building toward CalCare' direct quote.",
     lane: "Editor",
-    status: "open",
+    url: "https://www.xavierbecerra2026.com/priorities/health-care/",
   },
   {
-    label: "URL pass: 7 GovTrack cosponsorship URLs",
-    detail: "HR 1200/1993, HR 3960/1994, HR 1200/1995, HR 676 in 109th-112th Congresses.",
+    id: "becerra-govtrack-103-hr1200",
+    beat: "three-becerras",
+    label: "URL pass: GovTrack HR 1200 (American Health Security Act 1993)",
+    detail: "Becerra cosponsorship 1993-03-03.",
     lane: "Editor",
-    status: "open",
+    url: "https://www.govtrack.us/congress/bills/103/hr1200",
   },
   {
-    label: "Cal-Access F496 watch: 'Working Families for Healthy Communities Supporting Becerra for Governor 2026' IE PAC",
+    id: "becerra-govtrack-103-hr3960",
+    beat: "three-becerras",
+    label: "URL pass: GovTrack HR 3960 (American Health Security Act 1994)",
+    detail: "Becerra cosponsorship 1994-03-03.",
+    lane: "Editor",
+    url: "https://www.govtrack.us/congress/bills/103/hr3960",
+  },
+  {
+    id: "becerra-govtrack-104-hr1200",
+    beat: "three-becerras",
+    label: "URL pass: GovTrack HR 1200 (American Health Security Act 1995)",
+    detail: "Becerra cosponsorship 1995-03-09.",
+    lane: "Editor",
+    url: "https://www.govtrack.us/congress/bills/104/hr1200",
+  },
+  {
+    id: "becerra-govtrack-109-hr676",
+    beat: "three-becerras",
+    label: "URL pass: GovTrack HR 676 (109th Congress)",
+    detail: "Becerra cosponsorship 2005-11-17.",
+    lane: "Editor",
+    url: "https://www.govtrack.us/congress/bills/109/hr676",
+  },
+  {
+    id: "becerra-govtrack-110-hr676",
+    beat: "three-becerras",
+    label: "URL pass: GovTrack HR 676 (110th Congress)",
+    detail: "Becerra cosponsorship 2007-06-13.",
+    lane: "Editor",
+    url: "https://www.govtrack.us/congress/bills/110/hr676",
+  },
+  {
+    id: "becerra-govtrack-111-hr676",
+    beat: "three-becerras",
+    label: "URL pass: GovTrack HR 676 (111th Congress)",
+    detail: "Becerra cosponsorship 2009-03-17.",
+    lane: "Editor",
+    url: "https://www.govtrack.us/congress/bills/111/hr676",
+  },
+  {
+    id: "becerra-govtrack-112-hr676",
+    beat: "three-becerras",
+    label: "URL pass: GovTrack HR 676 (112th Congress)",
+    detail: "Becerra cosponsorship 2011-05-13.",
+    lane: "Editor",
+    url: "https://www.govtrack.us/congress/bills/112/hr676",
+  },
+  {
+    id: "becerra-cal-access-1480025",
+    beat: "three-becerras",
+    label: "URL pass: Cal-Access committee 1480025 (Becerra for Governor 2026)",
+    detail: "Primary-source committee page for all donor amounts cited on the page.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480025",
+  },
+  {
+    id: "becerra-march23-x-post",
+    beat: "three-becerras",
+    label: "URL pass: March 23 X post (verified primary)",
+    detail: "Status 2036208139507298516 at 6:27 PM. The verified March 23 wording.",
+    lane: "Editor",
+    url: "https://x.com/XavierBecerra/status/2036208139507298516",
+  },
+  {
+    id: "becerra-cpca-endorsement",
+    beat: "three-becerras",
+    label: "URL pass: CPCA Advocates endorsement of Becerra (2025-11-10)",
+    detail: "Org's own endorsement page; the first gubernatorial endorsement in the org's history.",
+    lane: "Editor",
+    url: "https://cpcaadvocates.org/CPCAAdvocates/ABOUT/MEDIA/CPCAAdvocates/MEDIA/News_Articles.aspx",
+  },
+  {
+    id: "becerra-fed-register-dhr-2022",
+    beat: "three-becerras",
+    label: "URL pass: Federal Register DHR Brownsville expansion approval (2022-12-20)",
+    detail: "The direct-influence finding. Federal Register notice; CMS approval over FAH+AHA opposition.",
+    lane: "Editor",
+    url: "https://www.federalregister.gov/documents/2022/12/20/2022-27566/medicare-program-approval-of-request-for-an-exception-to-the-prohibition-on-expansion-of-facility",
+  },
+  {
+    id: "becerra-fah-dhr-reaction",
+    beat: "three-becerras",
+    label: "URL pass: FAH reaction to DHR approval",
+    detail: "FAH characterization of approval as 'unfortunate precedent' weakening the law banning new physician-owned hospitals.",
+    lane: "Editor",
+    url: "https://fah.org/sets-an-unfortunate-precedent-fah-reacts-to-cms-decision-allowing-a-physician-owned-hospital-to-expand/",
+  },
+  {
+    id: "becerra-iepac-watch",
+    beat: "three-becerras",
+    label: "Cal-Access F496 watch: Working Families for Healthy Communities IE PAC",
     detail:
-      "Politico CA Playbook 4/29 named CPCA Advocates as 'one of the super PAC's funders.' Cal-Access bulk does not yet contain the committee's filings; F460/F496 disclosures will appear over the next 30 days. Not blocking publication; will tighten the CPCA-circuit dollar amount when filings land.",
+      "FPPC 1490885 formed April 30. Politico CA Playbook 4/29 named CPCA Advocates + Laborers as seed funders. Cal-Access bulk does not yet contain the committee's filings; F460/F496 disclosures will appear over the next 30 days. Not blocking publication; will tighten the CPCA-circuit dollar amount when filings land.",
     lane: "Time-based",
-    status: "blocked",
-    blockReason: "Filing window open through end of May",
   },
   {
+    id: "becerra-govinfo-1994",
+    beat: "three-becerras",
     label: "GovInfo 1994 hearing primary transcript",
     detail:
       "The 1994 hearing quote ('I do, as I said before, join my colleagues who support the single-payer plan') is currently sourced via KFF Health News and PolitiFact. GovInfo search interface is JS-locked; wssearch backend requires POST which our audit fetcher does not yet support. Quote remains attributed at Tier 2.",
     lane: "Code Claude",
-    status: "blocked",
-    blockReason: "GovInfo search JS-rendered; need POST support in audit fetcher",
   },
   {
+    id: "becerra-martinian",
+    beat: "three-becerras",
     label: "Tigran Martinian industry classification",
     detail:
       "$45,600 to FPPC committee 1480025 across 5 receipts. The remaining [UNVERIFIED] individual donor on the top-15 list. Perplexity round drafted.",
     lane: "Perplexity",
-    status: "open",
   },
 ]
 
@@ -239,8 +332,13 @@ export default function ActiveBeatPage() {
   const isLive = publicRoutes.includes(ACTIVE_BEAT.publicSlug)
   const memes = memesByBeat("three-becerras")
 
-  const openCount = OPEN_VERIFICATIONS.filter((v) => v.status === "open").length
-  const blockedCount = OPEN_VERIFICATIONS.filter((v) => v.status === "blocked").length
+  // Seed-merge: hardcoded VERIFICATION_SEEDS on first load, then preserve
+  // status across reloads from data/beat-verifications.jsonl.
+  const verifications = ensureSeeded(VERIFICATION_SEEDS).filter((v) => v.beat === "three-becerras")
+  const openCount = verifications.filter((v) => v.status === "open").length
+  const verifiedCount = verifications.filter((v) => v.status === "verified").length
+  const otherCount = verifications.length - openCount - verifiedCount
+  const verifiedRatio = `${verifiedCount} / ${verifications.length}`
 
   return (
     <div>
@@ -249,12 +347,12 @@ export default function ActiveBeatPage() {
         whatThisDoes="The pinned editorial workspace for the currently-active beat. All artifacts in one place: prototype URL, dossier, donor list page, memes, audit findings, open verifications, pre-publication checklist."
         rightNow={
           <span>
-            {openCount} open verification{openCount === 1 ? "" : "s"} · {blockedCount} blocked · dossier{" "}
+            {verifiedRatio} verified · {openCount} open · {otherCount} other · dossier{" "}
             {dossier.status || "(unknown status)"} · {dossier.lastUpdated ? `updated ${dossier.lastUpdated}` : "no last-updated stamp"} ·{" "}
             <strong style={{ color: isLive ? "#16a34a" : "#fbbf24" }}>{isLive ? "LIVE" : "NOT LIVE"}</strong>
           </span>
         }
-        action="Click into any artifact to open it in a new tab. Verifications and checklist items are read-only display in v1; mark them done by completing the underlying work and the page will reflect the change on next refresh."
+        action="Click ✓ Verify on each open URL after the editor URL pass to mark it good for publication. Verification state persists in data/beat-verifications.jsonl. When all Editor-lane URLs are verified the page is ready to ship."
       />
 
       {/* ─── Section 1: Artifacts ─────────────────────────────────── */}
@@ -295,11 +393,11 @@ export default function ActiveBeatPage() {
         </div>
       </Section>
 
-      {/* ─── Section 2: Open verifications ─────────────────────────── */}
-      <Section title={`Open verifications (${OPEN_VERIFICATIONS.length})`}>
+      {/* ─── Section 2: Verifications (interactive) ──────────────── */}
+      <Section title={`Verifications (${verifications.length})`}>
         <div style={{ display: "grid", gap: "8px" }}>
-          {OPEN_VERIFICATIONS.map((v, i) => (
-            <VerificationRow key={i} item={v} />
+          {verifications.map((v) => (
+            <VerificationRow key={v.id} entry={v} />
           ))}
         </div>
       </Section>
@@ -483,71 +581,7 @@ function ArtifactCard({
   )
 }
 
-function VerificationRow({ item }: { item: VerificationItem }) {
-  const statusColor = item.status === "applied" ? "#16a34a" : item.status === "blocked" ? "#737373" : "#fbbf24"
-  return (
-    <div
-      style={{
-        padding: "10px 14px",
-        background: "rgba(31, 41, 55, 0.4)",
-        border: "1px solid #1f2937",
-        borderRadius: "4px",
-      }}
-    >
-      <div style={{ display: "flex", alignItems: "start", gap: "12px" }}>
-        <span
-          style={{
-            background: statusColor,
-            color: item.status === "open" ? "#0a0a0a" : "#fff",
-            padding: "2px 8px",
-            fontSize: "10px",
-            fontWeight: 700,
-            letterSpacing: "1px",
-            textTransform: "uppercase",
-            whiteSpace: "nowrap",
-            flexShrink: 0,
-          }}
-        >
-          {item.status}
-        </span>
-        <span
-          style={{
-            background: "rgba(0, 0, 0, 0.3)",
-            color: "var(--color-text)",
-            padding: "2px 8px",
-            fontSize: "10px",
-            fontWeight: 700,
-            letterSpacing: "1px",
-            whiteSpace: "nowrap",
-            flexShrink: 0,
-            border: "1px solid #374151",
-          }}
-        >
-          {item.lane}
-        </span>
-        <div style={{ flex: 1, minWidth: 0 }}>
-          <div style={{ fontSize: "13px", fontWeight: 700, color: "var(--color-text)", marginBottom: "2px" }}>
-            {item.label}
-          </div>
-          <div style={{ fontSize: "11px", color: "var(--color-text-dim)", lineHeight: 1.5 }}>{item.detail}</div>
-          {item.blockReason && (
-            <div
-              style={{
-                fontSize: "10px",
-                color: "#fbbf24",
-                marginTop: "4px",
-                fontFamily: "var(--font-mono, monospace)",
-                letterSpacing: "0.5px",
-              }}
-            >
-              Block: {item.blockReason}
-            </div>
-          )}
-        </div>
-      </div>
-    </div>
-  )
-}
+// VerificationRow lives in ./VerificationRow as an interactive client component.
 
 function ChecklistRow({ item }: { item: ChecklistItem }) {
   const checkbox =
