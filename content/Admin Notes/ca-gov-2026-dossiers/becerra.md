@@ -366,3 +366,48 @@ The same week Becerra was telling doctors privately he was not supportive of sin
 - **FEC bulk:** Tier 1. Federal cycles 2004/2006/2010/2012/2014/2016/2018/2022 present.
 - **Vault narrative:** draft / needs work
 - **Living-people surface:** All factual claims must trace to primary source URL. Editorial verdicts are David's lane (Rule 13).
+
+---
+
+## Phase 5j · Catholic-Church-adjacent policy record (2026-05-02)
+
+Material from the 2026-05-02 Perplexity report on Becerra's documented public record on Catholic-Church-adjacent policy. Source: `Downloads/2026-05-02-becerra-catholic-policy-record.pplx.md`. **Filed for future use; not folded into the Three Becerras or Chevron beats since both are tightly scoped (healthcare-policy / fossil-fuel respectively).** Reserve for a future "Becerra and the Church" beat if it becomes editorial-relevant, or as background for any HHS-era "what else did he do" question.
+
+### California AG record (Jan 2017 - Mar 2021)
+
+- **May 2, 2019**: Letter to Archbishop José H. Gomez announcing a CA DOJ review of the Archdiocese of Los Angeles handling of clergy-abuse allegations and compliance with California's Child Abuse and Neglect Reporting Act. ([LA Times 2019-05-03](https://www.latimes.com/local/lanow/la-me-church-los-angeles-investigation-archdiocese-sex-abuse-20190503-story.html))
+- **December 10, 2019**: California prosecutors moved to subpoena six of the state's twelve Catholic dioceses or archdioceses (Los Angeles, San Francisco, Sacramento, Fresno, San Jose, Orange) as part of the clergy-abuse inquiry. ([LA Times 2019-12-10](https://www.latimes.com/california/story/2019-12-10/attorney-general-subpoenas-catholic-dioceses-california-priest-abuse-investigation); [NCR](https://www.ncronline.org/news/california-dioceses-expect-subpoenas-priest-investigation))
+- **Status at March 2021 departure**: Public final California DOJ report not located. Investigation passed to successor.
+- **November 21, 2018**: Conditionally approved Dignity Health / Catholic Health Initiatives transaction. Decision required California Hospital Medical Center to maintain women's reproductive services at current licensure and service levels for the initial five years after closing. ([OAG decision](https://oag.ca.gov/sites/all/files/agweb/pdfs/charities/nonprofithosp/dignity-ag-decision-112118.pdf))
+- **November 1, 2019**: Blocked St. Joseph Health System / Adventist Health merger, citing "potential to increase health costs, and potentially limits access and availability of healthcare services." LA Times reported St. Joseph Health's Catholic Ethical and Religious Directives bar or restrict abortions, IVF, contraception distribution, assisted suicide, gender-affirming care; the religious-restriction concern was part of the access calculus. ([LA Times 2019-11-01](https://www.latimes.com/business/story/2019-11-01/religious-issues-block-hospital-merger))
+- **March 3, 2021**: Disclosed investigation of Providence Health for applying Catholic ERDs to Hoag Memorial Hospital obstetric/gynecologic services. ([LA Times 2021-03-03](https://www.latimes.com/business/story/2021-03-03/becerra-providence-hoag))
+- **Pennsylvania grand jury report (2018)**: No CA DOJ press release, court filing, or Becerra statement located. No public position on file.
+- **AB 218 (2019, statute-of-limitations extension on childhood sexual-abuse civil claims)**: No CA DOJ position located.
+
+### HHS Secretary record (Mar 2021 - Jan 2025)
+
+- **October 2021 Title X final rule**: HHS/OPA revoked the 2019 Title X "compliance" rule and restored nondirective pregnancy-options counseling and referral. ([HHS OPA one-pager](https://opa.hhs.gov/sites/default/files/2021-10/2021-Title-X-Final-Rule-One-Pager-October-2021.pdf); [Federal Register](https://www.federalregister.gov/documents/2021/10/07/2021-21542/ensuring-access-to-equitable-affordable-client-centered-quality-family-planning-services))
+- **Catholic institutional opposition** filed before the final rule: USCCB, Southern Baptist ERLC, Catholic Medical Association, National Association of Catholic Nurses USA, National Catholic Bioethics Center submitted joint comments May 4, 2021. ([USCCB comments](https://www.usccb.org/sites/default/files/about/general-counsel/rulemaking/upload/2021.title-X-comments-final_1.pdf))
+- **January 30, 2023 contraceptive-mandate proposed rule**: HHS, Labor, Treasury proposed retaining the religious exemption, rescinding the moral exemption, and creating an "individual contraceptive arrangement" pathway. ([CMS fact sheet](https://www.cms.gov/newsroom/fact-sheets/coverage-certain-preventive-services-under-affordable-care-act-proposed-rules))
+- **December 2024**: HHS withdrew that proposed rule per USCCB's 2025 religious-liberty report.
+- **Section 1557 final rule (May 6, 2024)**: Interpreted sex-discrimination protections to include sexual orientation, gender identity, and (per USCCB's reading) "to some uncertain degree, abortion." Did not incorporate Title IX's religious-entity exemption. Catholic institutional opposition was material throughout the rulemaking.
+- **HHS-OCR enforcement actions specifically against named Catholic hospital systems** (CommonSpirit, Trinity Health, Ascension, Providence, Dignity Health) on EMTALA / merger conditions / emergency-room care **were not located in the reviewed source set** for 2021-2025.
+- **End-of-life-care defense (2020 Riverside County, AG-era)**: Compassion & Choices reported a Riverside County Superior Court ruling followed a Becerra motion defending California's End of Life Option Act. ([Compassion & Choices 2020-01-24](https://compassionandchoices.org/news/california-court-rules-passage-of-medical-aid-in-dying-law-was-constitutional/))
+
+### 2026 campaign posture
+
+- **Abortion access**: Campaign website states "abortion access is health care" and pledges to protect access. Cites HHS-era work ensuring Planned Parenthood funding flowed to states and clinics.
+- **Planned Parenthood Affiliates of California endorsement**: April 24, 2026. CEO Jodi Hicks credited Becerra's reproductive-freedom record across Congress, AG, HHS.
+- **Gender-affirming care for minors**: No specific 2026 commitment located on the campaign website. Bay Area Reporter (April 20, 2026) noted both Becerra and Steyer did not return the paper's questionnaire but expressed support for the trans community at an LGBTQ advocates' forum.
+- **Medical aid in dying**: No 2026 campaign statement located.
+- **Catholic-hospital merger review**: No 2026 campaign statement located. Notable gap given his AG record on St. Joseph/Adventist + Providence/Hoag.
+
+### Donor cross-reference
+
+String-scan of Becerra committee 1480025 (2026 governor) for Catholic-affiliated entities: small-dollar receipts from Providence employees, CommonSpirit physicians, St. Joseph Hospital / Dominican Hospital nurses, Dignity Health physicians (mostly $50-$100). **No major Catholic institutional donor** (CommonSpirit Health PAC, Dignity Health PAC, Providence Health PAC, Trinity Health, Ascension, Catholic Charities, Knights of Columbus, Napa Institute, USCCB) located in the receipt records.
+
+Note: Adventist Health-related receipts (Raul Ayala $33,900 + Kerry Heinrich $10,000) are religious-hospital-adjacent but Seventh-day Adventist, not Catholic.
+
+### Gap to flag
+
+The most consequential gap from the report: the documented administrative record (AG: blocked St. Joseph/Adventist over religious directives, opened Providence/Hoag investigation; HHS: reversed Title X gag rule, proposed contraceptive-mandate revisions opposed by USCCB) is materially stronger than the 2026 campaign posture currently states. The campaign website has direct abortion-access language but no located position on Catholic-hospital merger review, medical aid in dying, or gender-affirming-care-for-minors policy. **A Catholic Church-shaped editorial beat exists in the record if/when it becomes priority.**

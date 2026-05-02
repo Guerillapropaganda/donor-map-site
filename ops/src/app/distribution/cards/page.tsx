@@ -5,6 +5,7 @@ import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
 import { fetchVault } from "@/lib/vault-cache"
 import { PageHeader } from "@/components/PageHeader"
+import { CardsTabNav } from "@/components/CardsTabNav"
 import { CardReceipt } from "@/components/CardReceipt"
 import { CardDossier } from "@/components/CardDossier"
 import { CardLeak } from "@/components/CardLeak"
@@ -197,10 +198,12 @@ export default function DistributionPage() {
   return (
     <div>
       <PageHeader
-        title="Distribution"
-        whatThisDoes="Generate shareable content cards from any profile — social-media-sized images, plain-text snippets, dossier briefs. Pulls profile data + relationship graph and renders into the brutalist card formats (Receipt / Dossier / Leak / Web / Both-Sides / Contradiction / Mirror / Pipeline / Headline / Ticker / Wire / Redacted)."
-        action="Toggle Text vs Image mode at top. Pick a profile, then a card style. Image mode is screenshot-ready; Text mode gives you copy-paste content for tweets / threads / newsletter blurbs."
+        title="Cards · By Profile"
+        whatThisDoes="Generate shareable content cards from any profile in the vault: social-media-sized images, plain-text snippets, dossier briefs. Pulls profile data + relationship graph and renders into the brutalist card formats (Receipt, Dossier, Leak, Web, Both-Sides, Contradiction, Mirror, Pipeline, Headline, Ticker, Wire, Redacted). For curated per-beat memes, switch to By Beat above."
+        action="Toggle Text vs Image mode below. Pick a profile, then a card style. Image mode is screenshot-ready; Text mode gives you copy-paste content for tweets / threads / newsletter blurbs."
       />
+
+      <CardsTabNav active="profile" />
 
       {/* Mode toggle */}
       <div className="flex gap-2 mb-4">

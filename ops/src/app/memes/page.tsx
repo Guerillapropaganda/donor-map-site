@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { PageHeader } from "@/components/PageHeader"
+import { CardsTabNav } from "@/components/CardsTabNav"
 import { BEATS, MEMES, memesByBeat } from "@/lib/memes-catalog"
 
 /**
@@ -19,11 +20,13 @@ export default function MemesPage() {
   return (
     <div>
       <PageHeader
-        title="Memes"
-        whatThisDoes="Per-beat meme kits with share-workflow tooling. Click into a beat to see its memes with copy-caption, X/Bluesky compose intents, and send-to-publish-queue actions. The share queue surfaces drafted, approved, and posted memes across all beats."
+        title="Cards · By Beat"
+        whatThisDoes="Curated per-beat meme kits with share-workflow tooling. Click into a beat to see its memes with copy-caption, X/Bluesky compose intents, and send-to-publish-queue actions. The share queue surfaces drafted, approved, and posted memes across all beats. For ad-hoc cards from any profile in the vault, switch to By Profile above."
         rightNow={`${totalMemes} memes across ${BEATS.length} beats. Source HTML: prototype/memes-may-1.html.`}
         action="Click a beat to open its meme grid. Or click Share Queue to review queued / approved / posted items across all beats."
       />
+
+      <CardsTabNav active="beat" />
 
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "16px", marginBottom: "32px" }}>
         {BEATS.map((beat) => {

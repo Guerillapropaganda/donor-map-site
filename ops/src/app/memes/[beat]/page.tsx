@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation"
 import Link from "next/link"
 import { PageHeader } from "@/components/PageHeader"
+import { CardsTabNav } from "@/components/CardsTabNav"
 import { BEATS, getBeat, memesByBeat, type BeatSlug } from "@/lib/memes-catalog"
 import { MemeCard } from "./MemeCard"
 
@@ -54,6 +55,8 @@ export default async function PerBeatMemesPage({ params }: PageProps) {
         }
         action="Send to queue, approve, then click Open in X / Open in Bluesky compose. Image attachment is manual (intent URLs do not support image upload)."
       />
+
+      <CardsTabNav active="beat" />
 
       <div style={{ display: "grid", gridTemplateColumns: "1fr", gap: "16px" }}>
         {memes.map((meme) => (

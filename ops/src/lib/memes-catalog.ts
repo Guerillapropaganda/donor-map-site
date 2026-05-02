@@ -283,6 +283,88 @@ export const MEMES: MemeEntry[] = [
       topbarTag: "BECERRA · CA GOV 2026",
     },
   },
+  {
+    id: "may1-meme-11",
+    title: "$13,782,095 paid to Polaris Campaigns to attack Steyer",
+    story: "Story 6 · Anti-Steyer machine + Becerra silent gap",
+    beats: ["class-traitor"],
+    prototypeAnchor: "#meme-11",
+    prototypeUrlBase: BASE,
+    caption:
+      "$13,782,095 paid to one digital-ad vendor to attack one candidate.\n\nPolaris Campaigns, Inc. received the money from FPPC committee 1489677 across multiple Form 460 line items, every one filed under the description \"Digital Media / Oppose / Tom Steyer / Governor / Statewide.\"\n\nThat's the operational shop turning a regulated-industry coalition's $21 million into the digital ads flooding the feed of every California voter who looked up Steyer this cycle.\n\nthedonormap.org",
+    thumbnail: {
+      headlineLines: [
+        { text: "Anti-Steyer machine paid one vendor" },
+        { text: "$13,782,095", highlight: { phrase: "$13,782,095", color: "red" } },
+        { text: "to attack one candidate." },
+      ],
+      deck: "Polaris Campaigns, every Form 460 line filed under \"Digital Media / Oppose / Tom Steyer / Governor / Statewide.\"",
+      topbarTag: "STEYER · CA GOV 2026",
+    },
+  },
+  {
+    id: "may1-meme-12",
+    title: "Bearstar Strategies: same shop, both sides",
+    story: "Story 6 · Anti-Steyer machine + Becerra silent gap",
+    beats: ["class-traitor", "three-becerras"],
+    prototypeAnchor: "#meme-12",
+    prototypeUrlBase: BASE,
+    caption:
+      "Bearstar Strategies, Inc. took $49,800 from the anti-Steyer committee on April 1, 2026, filed as \"Digital Media / Oppose / Tom Steyer / Governor / Statewide.\"\n\nThe same firm runs Becerra's pro-Becerra independent expenditure committee.\n\nThe shop messaging against Steyer is the shop messaging for Becerra. The IE coalition's attack and the Becerra campaign's defense are the same operation.\n\nthedonormap.org",
+    thumbnail: {
+      headlineLines: [
+        { text: "The shop messaging" },
+        { text: "against Steyer", highlight: { phrase: "against Steyer", color: "red" } },
+        { text: "is the shop messaging" },
+        { text: "for Becerra.", highlight: { phrase: "for Becerra", color: "yellow" } },
+      ],
+      deck: "Bearstar Strategies. Same firm, both sides. April 1, 2026.",
+      topbarTag: "STEYER + BECERRA · CA GOV 2026",
+    },
+  },
+  {
+    id: "may1-meme-13",
+    title: "The 72-hour committee rename",
+    story: "Story 6 · Anti-Steyer machine + Becerra silent gap",
+    beats: ["class-traitor"],
+    prototypeAnchor: "#meme-13",
+    prototypeUrlBase: BASE,
+    caption:
+      "FPPC committee 1489677 was first filed March 27, 2026 under the name \"Californians for the People, sponsored by business owners and concerned citizens.\"\n\nAmended three days later: \"California is Not for Sale, NO ON Steyer for Governor 2026, a Coalition of Housing Advocates, Labor and Small Business.\"\n\nSame FPPC ID. Same filer. Same treasurer. Same Sacramento address.\n\nThe civic-sounding placeholder was the cover. The explicit anti-Steyer name was always the intent. No outlet has reported the rename.\n\nthedonormap.org",
+    thumbnail: {
+      headlineLines: [
+        { text: "Same FPPC ID." },
+        { text: "Two names" },
+        { text: "in 72 hours.", highlight: { phrase: "72 hours", color: "red" } },
+      ],
+      deck: "March 27 \"Californians for the People\" → March 30 \"California is Not for Sale, NO ON Steyer.\"",
+      topbarTag: "STEYER · CA GOV 2026",
+    },
+  },
+  {
+    id: "may1-meme-14",
+    title: "Becerra stopped cosponsoring single-payer in 2013",
+    story: "Story 6 · Anti-Steyer machine + Becerra silent gap",
+    beats: ["three-becerras"],
+    prototypeAnchor: "#meme-14",
+    prototypeUrlBase: BASE,
+    caption:
+      "Xavier Becerra cosponsored single-payer health care seven times in Congress: 1993, 1994, 1995, 2005, 2007, 2009, 2011.\n\nIn 2013 (113th Congress) and 2015 (114th Congress), Becerra was still in the House. He did not cosponsor HR 676 in either.\n\nHe stopped four years before he left office.\n\nThe \"30-year advocate\" framing his 2026 campaign uses describes 1993 through 2011 accurately. It elides the 2013-2016 silence on the same bill while he was still in office. The gap is in the public GovInfo bill-status record.\n\nthedonormap.org",
+    thumbnail: {
+      headlineLines: [
+        { text: "He cosponsored" },
+        { text: "7 times.", highlight: { phrase: "7 times", color: "yellow" } },
+        { text: "Then went" },
+        { text: "silent.", highlight: { phrase: "silent", color: "red" } },
+      ],
+      deck: "Becerra cosponsored single-payer 1993, 1994, 1995, 2005, 2007, 2009, 2011. Not in 2013. Not in 2015. Still in office.",
+      receipts: [
+        { name: "1993-2011 · cosponsored", value: "7 times" },
+        { name: "2013-2016 · cosponsored", value: "0 times" },
+      ],
+      topbarTag: "BECERRA · CA GOV 2026",
+    },
+  },
 ]
 
 export function memesByBeat(slug: BeatSlug): MemeEntry[] {
