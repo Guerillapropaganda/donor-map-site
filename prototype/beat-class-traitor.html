@@ -230,6 +230,105 @@ html, body {
   font-weight: 400;
 }
 
+/* ─── Hero arrow animation (brutalist motion) ─── */
+@keyframes daisy-arrow-pulse {
+  0%   { stroke-dashoffset: 200; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.25; stroke-width: 2; }
+}
+@keyframes target-arrow-pulse {
+  0%   { stroke-dashoffset: 100; opacity: 0; }
+  60%  { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0.6; }
+}
+.daisy-arrow {
+  stroke-dasharray: 200;
+  animation: daisy-arrow-pulse 3.6s ease-in-out infinite;
+}
+.daisy-arrow-1 { animation-delay: 0s; }
+.daisy-arrow-2 { animation-delay: 0.25s; }
+.daisy-arrow-3 { animation-delay: 0.5s; }
+.daisy-arrow-4 { animation-delay: 0.75s; }
+.daisy-arrow-5 { animation-delay: 1s; }
+.target-arrow {
+  stroke-dasharray: 100;
+  animation: target-arrow-pulse 3.6s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .daisy-arrow, .target-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
 .pull-quote {
   font-family: 'Instrument Serif', serif;
   font-style: italic;
@@ -512,14 +611,14 @@ html, body {
       <text x="780" y="258" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#fff" letter-spacing="2">CA GOV CANDIDATE</text>
 
       <!-- Arrows: industries → committee -->
-      <line x1="300" y1="89"  x2="380" y2="180" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
-      <line x1="300" y1="159" x2="380" y2="200" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
-      <line x1="300" y1="229" x2="380" y2="230" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
-      <line x1="300" y1="299" x2="380" y2="260" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
-      <line x1="300" y1="369" x2="380" y2="280" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="daisy-arrow daisy-arrow-1" x1="300" y1="89"  x2="380" y2="180" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="daisy-arrow daisy-arrow-2" x1="300" y1="159" x2="380" y2="200" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="daisy-arrow daisy-arrow-3" x1="300" y1="229" x2="380" y2="230" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="daisy-arrow daisy-arrow-4" x1="300" y1="299" x2="380" y2="260" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="daisy-arrow daisy-arrow-5" x1="300" y1="369" x2="380" y2="280" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
 
       <!-- Arrow: committee → target -->
-      <line x1="620" y1="230" x2="680" y2="230" stroke="#e63946" stroke-width="3" marker-end="url(#arrow-rd)"/>
+      <line class="target-arrow" x1="620" y1="230" x2="680" y2="230" stroke="#e63946" stroke-width="3" marker-end="url(#arrow-rd)"/>
 
       <!-- Annotations -->
       <text x="500" y="320" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="14" fill="#666">spending committee · Cal-Access verified May 1, 2026</text>
@@ -546,7 +645,19 @@ html, body {
       The reason is sitting in the FPPC committee filings. A coalition of California's biggest regulated industries has put <strong>$21 million</strong> into a single committee whose entire purpose is defeating Tom Steyer. The members: utilities, realtors, the chamber of commerce, developers, and the prison guards union.
     </p>
 
-    <h2>Who's funding the anti-Steyer campaign</h2>
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#funders">Who's funding the anti-Steyer campaign</a></li>
+        <li><a href="#buying">What the money is buying</a></li>
+        <li><a href="#polling">The polling layer</a></li>
+        <li><a href="#debate">What the polls bought going into the debate stage</a></li>
+        <li><a href="#class-war">Why this is class war, not just opposition spending</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="funders">Who's funding the anti-Steyer campaign</h2>
 
     <p>
       The committee is named, with the strange transparency California requires of opposition committees, "California Is Not For Sale, NO ON Steyer for Governor 2026." That suffix isn't optional. State law requires any committee primarily formed against a specific candidate to disclose the target in its registered name. So when you see "NO ON [CANDIDATE]" in a committee's title, you're looking at the political-money equivalent of a hit list.
@@ -618,7 +729,9 @@ html, body {
       The structure runs through two committees, not one. PG&amp;E gave directly to a committee called "Californians for Resilient and Affordable Energy, NO ON Steyer for Governor 2026" (FPPC #1490270). That committee then transferred $8 million of its $10.05 million to the larger spending committee, where the rest of the donor class also dropped its money. Two committees in series. The legal infrastructure is handled by two different compliance firms. Nielsen Merksamer files for the upstream funnel. Deane &amp; Company files for the downstream spending committee. They're working the same target.
     </p>
 
-    <h2>What the money is buying</h2>
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="buying">What the money is buying</h2>
 
     <p>
       The committee has reported approximately <strong>$13.9 million in actual independent expenditures</strong> against Steyer through April 17. TV spots, mailers, digital advertising, opposition research. The remaining $7 million sits in the committee, ready to spend in the final weeks before the June 2 primary.
@@ -632,7 +745,9 @@ html, body {
       A regulated monopoly with billions in rate-payer revenue is using that money to choose the governor who picks its regulators. <strong>That's the structural definition of corporate capture.</strong>
     </div>
 
-    <h2>The polling layer</h2>
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="polling">The polling layer</h2>
 
     <p>
       The opposition coalition is not just running TV ads. It is also generating the polling that justifies the TV ads. Two committees, two pollsters, two layers of the same operation.
@@ -667,6 +782,72 @@ html, body {
       </table>
     </div>
 
+    <figure style="margin: 24px 0 32px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 24px 0; background: var(--paper);">
+      <figcaption style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 20px; padding: 0 24px; text-align: center;">Same field dates · who paid for the poll</figcaption>
+      <svg viewBox="0 0 880 320" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; display: block; max-width: 880px; margin: 0 auto;" aria-label="Becerra polling comparison: IE-funded polls vs media-funded polls, same field window April 14 to 27, 2026">
+        <!-- Y-axis -->
+        <line x1="60" y1="40" x2="60" y2="260" stroke="#0a0a0a" stroke-width="2"/>
+        <line x1="60" y1="260" x2="820" y2="260" stroke="#0a0a0a" stroke-width="2"/>
+        <g font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a">
+          <text x="52" y="264" text-anchor="end">0%</text>
+          <text x="52" y="220" text-anchor="end">5%</text>
+          <text x="52" y="176" text-anchor="end">10%</text>
+          <text x="52" y="132" text-anchor="end">15%</text>
+          <text x="52" y="88" text-anchor="end">20%</text>
+          <text x="52" y="44" text-anchor="end">25%</text>
+        </g>
+        <!-- Reference line at consensus midpoint (~17%) -->
+        <line x1="60" y1="110" x2="820" y2="110" stroke="#0a0a0a" stroke-width="1" stroke-dasharray="4 4" opacity="0.4"/>
+        <text x="816" y="106" text-anchor="end" font-family="Instrument Serif, serif" font-style="italic" font-size="11" fill="#666">consensus</text>
+
+        <!-- IE-funded polls in red (Gudelunas 24, IVP 23, EMC 21) -->
+        <g>
+          <rect x="100" y="48"  width="100" height="212" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="150" y="40" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="18" fill="#0a0a0a">24%</text>
+          <text x="150" y="278" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a">GUDELUNAS</text>
+          <text x="150" y="294" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">anti-Steyer IE</text>
+        </g>
+        <g>
+          <rect x="220" y="56"  width="100" height="204" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="270" y="48" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="18" fill="#0a0a0a">23%</text>
+          <text x="270" y="278" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a">IVP</text>
+          <text x="270" y="294" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">high-propensity</text>
+        </g>
+        <g>
+          <rect x="340" y="76"  width="100" height="184" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="390" y="68" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="18" fill="#0a0a0a">21%</text>
+          <text x="390" y="278" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a">EMC</text>
+          <text x="390" y="294" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">CPCA Advocates</text>
+        </g>
+
+        <!-- Visual gap separator -->
+        <line x1="475" y1="40" x2="475" y2="260" stroke="#0a0a0a" stroke-width="3" stroke-dasharray="6 4"/>
+        <text x="475" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="11" fill="#e63946">11-POINT GAP</text>
+
+        <!-- Media-funded polls in steel-blue (CBS 13, Emerson 10) -->
+        <g>
+          <rect x="510" y="146" width="120" height="114" fill="#1d4ed8" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="570" y="138" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="18" fill="#0a0a0a">13%</text>
+          <text x="570" y="278" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" style="paint-order: stroke; stroke: #0a0a0a; stroke-width: 0;">CBS / YOUGOV</text>
+          <text x="570" y="294" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">media-funded</text>
+        </g>
+        <g>
+          <rect x="650" y="172" width="120" height="88" fill="#1d4ed8" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="710" y="164" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="18" fill="#0a0a0a">10%</text>
+          <text x="710" y="278" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700">EMERSON / ICP</text>
+          <text x="710" y="294" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">media-funded</text>
+        </g>
+
+        <!-- Legend -->
+        <g font-family="Space Mono, monospace" font-size="10" font-weight="700">
+          <rect x="260" y="304" width="14" height="10" fill="#e63946" stroke="#0a0a0a" stroke-width="1"/>
+          <text x="280" y="313" fill="#0a0a0a">IE-funded · Becerra-aligned commissioner</text>
+          <rect x="540" y="304" width="14" height="10" fill="#1d4ed8" stroke="#0a0a0a" stroke-width="1"/>
+          <text x="560" y="313" fill="#0a0a0a">Media-funded · neutral commissioner</text>
+        </g>
+      </svg>
+    </figure>
+
     <p>
       The pattern is operational. The Gudelunas releases timed immediately after Swalwell's exit on April 12 and Yee's withdrawal-and-Steyer-endorsement on April 20. The narrative effect is to consolidate non-Steyer Democratic voters behind the candidate the donor coalition prefers, because his policy platform is less aggressive toward PG&amp;E and corporate property taxes than Steyer's.
     </p>
@@ -687,7 +868,9 @@ html, body {
       <strong>The structural problem.</strong> Approximately one in four California governor polls released this cycle came from Democratic-aligned firms with no disclosed sponsor. The poll aggregators that average all the polls together do not down-weight anonymous-sponsor work. Every undisclosed-sponsor poll lands in the average with the same statistical weight as a public-interest PPIC or Berkeley IGS release. The coalition does not need to forge the polls. It only needs to commission enough of them.
     </p>
 
-    <h2>What the polls bought going into the debate stage</h2>
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="debate">What the polls bought going into the debate stage</h2>
 
     <p>
       On May 5 CNN hosts a two-hour live televised debate with seven qualified candidates: Bianco, Hilton, Becerra, Mahan, Porter, Steyer, Villaraigosa. The qualification criteria were $1 million raised plus 3 percent in two California gubernatorial polls by April 27. Anyone above 3 percent in two polls qualified. Becerra was always going to be on that stage.
@@ -701,7 +884,9 @@ html, body {
       The debate lands in the same 72-hour window when vote-by-mail ballots arrive in mailboxes statewide. California mails ballots to every registered voter automatically, and the first 10 to 15 percent of votes get cast in the four days after ballots arrive. Whatever narrative emerges from the May 5 debate is the narrative most early voters will carry into the marking of their ballots. The polling-layer money was a down payment on that.
     </p>
 
-    <h2>Why this is class war, not just opposition spending</h2>
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="class-war">Why this is class war, not just opposition spending</h2>
 
     <p>
       Every candidate has donors. Most candidates serve their donor class quietly, on policy after policy, vote after vote, until the donor class is satisfied and the campaign returns the favor. The system runs smoothly when politicians stay loyal to the class that funded them.
@@ -719,7 +904,9 @@ html, body {
       The polling is telling them it's working.
     </p>
 
-    <h2>Open questions</h2>
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="open-questions">Open questions</h2>
 
     <p>
       The Cal-Access record names every funder above. There are still unanswered questions:

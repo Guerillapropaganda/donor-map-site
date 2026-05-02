@@ -76,6 +76,50 @@ html, body {
 .nav-links a:hover { border-bottom-color: var(--black); }
 
 /* ─── Hero ─── */
+/* ─── Receipts ticker (brutalist motion) ─── */
+.ticker {
+  background: #0a0a0a;
+  color: #f5f0eb;
+  border-bottom: 4px solid #fbbf24;
+  overflow: hidden;
+  position: relative;
+}
+.ticker-track {
+  display: flex;
+  gap: 0;
+  white-space: nowrap;
+  animation: ticker-scroll 90s linear infinite;
+  width: max-content;
+}
+.ticker-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 36px;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  border-right: 2px solid #1a1a1a;
+}
+.ticker-amount {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 16px;
+  letter-spacing: -0.5px;
+  background: #fbbf24;
+  color: #0a0a0a;
+  padding: 2px 10px;
+  display: inline-block;
+}
+.ticker-label { color: #ddd; }
+@keyframes ticker-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ticker-track { animation: none; }
+}
+
 .hero {
   padding: 100px 32px 60px;
   border-bottom: 2px solid var(--black);
@@ -354,6 +398,33 @@ html, body {
     </div>
   </div>
 </nav>
+
+<!-- ─── Receipts ticker (brutalist motion) ─── -->
+<aside class="ticker" aria-label="Recent receipts">
+  <div class="ticker-track">
+    <div class="ticker-item"><span class="ticker-amount">$10,050,000</span> <span class="ticker-label">PG&amp;E to defeat Tom Steyer</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$30,000</span> <span class="ticker-label">DBR opposition poll · "Survey/Oppose/Tom Steyer/Governor/Statewide"</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">Anthem founder Schaeffer to Becerra</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$49,700</span> <span class="ticker-label">Molina Healthcare CEO to Becerra</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">DHR Health co-founder Cantu to Becerra</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">CA Realtors to defeat Steyer</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">Cal Chamber JOBSPAC to defeat Steyer</span></div>
+    <div class="ticker-item"><span class="ticker-amount">CMS</span> <span class="ticker-label">approves DHR Brownsville expansion · 2022-12-20 · over FAH+AHA opposition</span></div>
+    <div class="ticker-item"><span class="ticker-amount">4 channels</span> <span class="ticker-label">CPCA Advocates · all four · first ever for any candidate</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$54,700</span> <span class="ticker-label">CA State Council of Laborers to Becerra · #1 named donor</span></div>
+    <!-- Duplicated set for seamless loop -->
+    <div class="ticker-item"><span class="ticker-amount">$10,050,000</span> <span class="ticker-label">PG&amp;E to defeat Tom Steyer</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$30,000</span> <span class="ticker-label">DBR opposition poll · "Survey/Oppose/Tom Steyer/Governor/Statewide"</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">Anthem founder Schaeffer to Becerra</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$49,700</span> <span class="ticker-label">Molina Healthcare CEO to Becerra</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$39,200</span> <span class="ticker-label">DHR Health co-founder Cantu to Becerra</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">CA Realtors to defeat Steyer</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$5,000,000</span> <span class="ticker-label">Cal Chamber JOBSPAC to defeat Steyer</span></div>
+    <div class="ticker-item"><span class="ticker-amount">CMS</span> <span class="ticker-label">approves DHR Brownsville expansion · 2022-12-20 · over FAH+AHA opposition</span></div>
+    <div class="ticker-item"><span class="ticker-amount">4 channels</span> <span class="ticker-label">CPCA Advocates · all four · first ever for any candidate</span></div>
+    <div class="ticker-item"><span class="ticker-amount">$54,700</span> <span class="ticker-label">CA State Council of Laborers to Becerra · #1 named donor</span></div>
+  </div>
+</aside>
 
 <!-- ─── Hero ─── -->
 <section class="hero">
