@@ -14,6 +14,7 @@ import {
   type HashtagCohort,
 } from "@/lib/distribution-schedule"
 import { TabNav } from "../TabNav"
+import { BodyEditor } from "./BodyEditor"
 
 /**
  * /distribution/[tab] — multi-tab Distribution surface.
@@ -269,36 +270,25 @@ function AlgorithmView({ schedule }: { schedule: DistributionSchedule }) {
         )}
       </Section>
 
-      {(schedule.weeklyGoals.followersX || schedule.weeklyGoals.followersBluesky || schedule.weeklyGoals.patreonSupporters) && (
-        <Section title="Weekly goals">
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))", gap: "8px" }}>
-            {schedule.weeklyGoals.followersX && <GoalCard label="Followers · X" value={schedule.weeklyGoals.followersX.toLocaleString()} />}
-            {schedule.weeklyGoals.followersBluesky && <GoalCard label="Followers · Bluesky" value={schedule.weeklyGoals.followersBluesky.toLocaleString()} />}
-            {schedule.weeklyGoals.followersInstagram && <GoalCard label="Followers · IG" value={schedule.weeklyGoals.followersInstagram.toLocaleString()} />}
-            {schedule.weeklyGoals.patreonSupporters && <GoalCard label="Patreon supporters" value={schedule.weeklyGoals.patreonSupporters.toString()} />}
-            {schedule.weeklyGoals.engagementRate && <GoalCard label="Engagement %" value={`${schedule.weeklyGoals.engagementRate}%`} />}
-          </div>
-        </Section>
-      )}
+      <Section title="Weekly progress">
+        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: "8px" }}>
+          <ProgressCard label="Followers · X" actual={schedule.weeklyActual.followersX} target={schedule.weeklyGoals.followersX} />
+          <ProgressCard label="Followers · Bluesky" actual={schedule.weeklyActual.followersBluesky} target={schedule.weeklyGoals.followersBluesky} />
+          <ProgressCard label="Followers · IG" actual={schedule.weeklyActual.followersInstagram} target={schedule.weeklyGoals.followersInstagram} />
+          <ProgressCard label="Patreon supporters" actual={schedule.weeklyActual.patreonSupporters} target={schedule.weeklyGoals.patreonSupporters} />
+          <ProgressCard label="Engagement %" actual={schedule.weeklyActual.engagementRate} target={schedule.weeklyGoals.engagementRate} suffix="%" />
+        </div>
+        <p style={{ marginTop: "10px", fontSize: "11px", color: "var(--color-text-dim)", fontStyle: "italic" }}>
+          Update <code>weekly-actual</code> in distribution-schedule.md after each weekly review. Targets edit via <code>weekly-goals</code> in the same file.
+        </p>
+      </Section>
 
-      {schedule.body.trim() && (
-        <Section title="Notes (freeform)">
-          <div
-            style={{
-              padding: "16px 20px",
-              background: "rgba(31, 41, 55, 0.4)",
-              border: "1px solid #1f2937",
-              fontFamily: "var(--font-mono, monospace)",
-              fontSize: "12px",
-              color: "var(--color-text)",
-              lineHeight: 1.7,
-              whiteSpace: "pre-wrap",
-            }}
-          >
-            {schedule.body.trim()}
-          </div>
-        </Section>
-      )}
+      <Section title="Notes (freeform)">
+        <p style={{ fontSize: "12px", color: "var(--color-text-dim)", marginBottom: "12px", lineHeight: 1.6 }}>
+          Algorithm ideas, weekly review notes, experiments in flight. Markdown-formatted. Saved directly to the schedule file.
+        </p>
+        <BodyEditor initialBody={schedule.body} />
+      </Section>
     </div>
   )
 }
@@ -434,11 +424,53 @@ function LeverRow({ lever }: { lever: AlgorithmLever }) {
   )
 }
 
-function GoalCard({ label, value }: { label: string; value: string }) {
+function ProgressCard({
+  label,
+  actual,
+  target,
+  suffix = "",
+}: {
+  label: string
+  actual?: number
+  target?: number
+  suffix?: string
+}) {
+  // If neither set, render a placeholder
+  const hasAny = actual !== undefined || target !== undefined
+  if (!hasAny) {
+    return (
+      <div style={{ padding: "12px 16px", background: "rgba(31, 41, 55, 0.2)", border: "1px dashed #374151", textAlign: "center" }}>
+        <div style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "10px", letterSpacing: "1.5px", color: "var(--color-text-dim)", textTransform: "uppercase", marginBottom: "4px" }}>{label}</div>
+        <div style={{ fontSize: "12px", color: "var(--color-text-dim)", fontStyle: "italic" }}>not tracked yet</div>
+      </div>
+    )
+  }
+  const a = actual ?? 0
+  const t = target ?? 0
+  const pct = t > 0 ? Math.min(100, Math.round((a / t) * 100)) : 0
+  const onTrack = pct >= 100
+  const meterColor = onTrack ? "#16a34a" : pct >= 50 ? "#fbbf24" : "#e63946"
   return (
-    <div style={{ padding: "12px 16px", background: "rgba(31, 41, 55, 0.4)", border: "1px solid #1f2937", textAlign: "center" }}>
-      <div style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "10px", letterSpacing: "1.5px", color: "var(--color-text-dim)", textTransform: "uppercase", marginBottom: "4px" }}>{label}</div>
-      <div style={{ fontSize: "22px", fontWeight: 800, color: "#fbbf24", fontFamily: "var(--font-mono, monospace)" }}>{value}</div>
+    <div style={{ padding: "12px 16px", background: "rgba(31, 41, 55, 0.4)", border: "1px solid #1f2937" }}>
+      <div style={{ fontFamily: "var(--font-mono, monospace)", fontSize: "10px", letterSpacing: "1.5px", color: "var(--color-text-dim)", textTransform: "uppercase", marginBottom: "6px" }}>{label}</div>
+      <div style={{ display: "flex", alignItems: "baseline", gap: "8px", marginBottom: "6px" }}>
+        <span style={{ fontSize: "26px", fontWeight: 800, color: "#fbbf24", fontFamily: "var(--font-mono, monospace)", letterSpacing: "-0.5px" }}>
+          {actual !== undefined ? actual.toLocaleString() : "—"}{actual !== undefined ? suffix : ""}
+        </span>
+        <span style={{ fontSize: "12px", color: "var(--color-text-dim)", fontFamily: "var(--font-mono, monospace)" }}>
+          / {target !== undefined ? target.toLocaleString() + suffix : "—"}
+        </span>
+      </div>
+      {target && target > 0 && (
+        <>
+          <div style={{ height: "4px", background: "#1f2937", marginBottom: "4px" }}>
+            <div style={{ height: "4px", width: `${pct}%`, background: meterColor, transition: "width 0.3s" }} />
+          </div>
+          <div style={{ fontSize: "10px", color: meterColor, fontFamily: "var(--font-mono, monospace)", letterSpacing: "1px", fontWeight: 700 }}>
+            {pct}%{onTrack ? " · ON TARGET" : target > a ? ` · ${(target - a).toLocaleString()} TO GO` : ""}
+          </div>
+        </>
+      )}
     </div>
   )
 }

@@ -112,41 +112,65 @@ weekly-goals:
   patreon-supporters: 25
   engagement-rate: 5
 
+# Live numbers - update after each weekly review. Page renders
+# actual / target with a progress meter. Leave a metric blank if
+# you are not tracking it yet.
+weekly-actual:
+  followers-x: 0
+  followers-bluesky: 0
+  followers-instagram: 0
+  patreon-supporters: 0
+  engagement-rate: 0
+
 algorithm-levers:
-  - lever: "Reply within 30 minutes"
-    note: "X algorithm rewards fast replies under big accounts. First-mover quote-reply with receipt outperforms a 4-hour-late thread."
+  - lever: "Quote-reply within 30 minutes"
+    note: "X surfaces fresh replies under big accounts to their followers. First-mover quote-reply with a receipt beats a 4-hour-late standalone thread by an order of magnitude. Set a 30-minute window after a target posts."
     status: testing
-  - lever: "Native video / image"
-    note: "Image posts outperform link posts by approximately 3x on every platform. Brutalist meme tiles travel; bare URLs do not."
+  - lever: "Native image beats link"
+    note: "Image posts outperform link posts by roughly 3x across X, Bluesky, Threads, IG. Bare URLs trigger link-suppression on most platforms. Always attach the brutalist meme tile from the cards generator; put the URL in a follow-up reply, not the parent."
     status: confirmed
-  - lever: "Threads > standalone posts"
-    note: "5-7 post threads on X consistently get pinned by replies, which boosts subsequent reach."
+  - lever: "Thread structure: hook + receipts + URL + CTA"
+    note: "5 to 7 posts. Post 1 is the thesis sentence with no link. Posts 2-5 are receipts with images. Post 6 is the URL. Post 7 is the call to action (tip line, follow). Threads on X consistently get reply-pinned, which compounds reach."
     status: confirmed
-  - lever: "Cross-platform timing"
-    note: "Stagger by 30-60 minutes across platforms; same-content same-minute posting reads as automation and gets de-ranked."
+  - lever: "Cross-platform stagger"
+    note: "Stagger same-content posts by 30 to 60 minutes across platforms. Same-content same-minute posting reads as automation and triggers algorithmic de-ranking on every platform that has spam detection."
     status: testing
+  - lever: "Bluesky audience asymmetry"
+    note: "Bluesky's audience is journalists + researchers + academics. Receipts with primary-source URLs perform 2-3x what they do on X. Lean Bluesky for long-form receipts; lean X for quote-reply combat."
+    status: testing
+  - lever: "Reply-and-retreat"
+    note: "On a quote-reply, post the receipt and one sentence. Do NOT engage further down the thread unless the target responds substantively. Algorithm reads long arguments as toxic and de-ranks both sides."
+    status: testing
+  - lever: "First post stays under 240 chars"
+    note: "X compresses any post over 240 chars into 'show more.' First post of any thread or standalone needs to read complete in the preview. Receipts go in posts 2+."
+    status: confirmed
 ---
 
-## Algorithm levers (long form)
+# Algorithm levers (long form)
 
-This section is freeform. Use it to track what is working, what is not, and what to test next. The structured `algorithm-levers` field above is for the dashboard view; this is for the weekly review.
+Save edits with the button at the top. The structured `algorithm-levers` block above renders as cards on the page; this section is freeform for ideas, weekly review notes, and experiments in flight.
 
-### Currently testing
+## Currently testing
 
-(Empty. Add notes here as I run experiments.)
+- (add notes here as I run experiments)
 
-### Currently working
+## Currently working
 
-(Empty. Promote levers here from "testing" once they are clearly converting.)
+- (promote levers here from "testing" once they reliably convert)
 
-### Killed
+## Killed
 
-(Empty. Track what stopped working and why.)
+- (track what stopped working and why)
 
-## Weekly review notes
+# Weekly review notes
 
-Track week-over-week numbers and observations. One short entry per week.
+One short entry per week. Numbers + observations.
 
-### Week of 2026-05-04
+## Week of 2026-05-04
 
-(Placeholder.)
+- Followers X: started at 0
+- Followers Bluesky: started at 0
+- Followers IG: started at 0
+- Patreon supporters: 0
+- Notes:
+

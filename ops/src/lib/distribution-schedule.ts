@@ -63,6 +63,12 @@ export interface WeeklyGoals {
   engagementRate?: number
 }
 
+/**
+ * Same shape as WeeklyGoals; the live numbers David updates manually
+ * after each weekly review. Used to compute deltas in the Algorithm tab.
+ */
+export type WeeklyActual = WeeklyGoals
+
 export interface DistributionSchedule {
   title: string
   status: string
@@ -74,6 +80,7 @@ export interface DistributionSchedule {
   friendlyTargets: TargetRecord[]
   hashtagCohorts: HashtagCohort[]
   weeklyGoals: WeeklyGoals
+  weeklyActual: WeeklyActual
   algorithmLevers: AlgorithmLever[]
   /** Markdown body after the frontmatter, raw text */
   body: string
@@ -170,14 +177,18 @@ export function parseDistributionSchedule(): DistributionSchedule {
     tags: asArray(cohortsMap[id]),
   }))
 
-  const goalsMap = asObject(fm["weekly-goals"])
-  const weeklyGoals: WeeklyGoals = {
-    followersX: asNumber(goalsMap["followers-x"]) || undefined,
-    followersBluesky: asNumber(goalsMap["followers-bluesky"]) || undefined,
-    followersInstagram: asNumber(goalsMap["followers-instagram"]) || undefined,
-    patreonSupporters: asNumber(goalsMap["patreon-supporters"]) || undefined,
-    engagementRate: asNumber(goalsMap["engagement-rate"]) || undefined,
+  function readGoals(node: unknown): WeeklyGoals {
+    const m = asObject(node)
+    return {
+      followersX: asNumber(m["followers-x"]) || undefined,
+      followersBluesky: asNumber(m["followers-bluesky"]) || undefined,
+      followersInstagram: asNumber(m["followers-instagram"]) || undefined,
+      patreonSupporters: asNumber(m["patreon-supporters"]) || undefined,
+      engagementRate: asNumber(m["engagement-rate"]) || undefined,
+    }
   }
+  const weeklyGoals = readGoals(fm["weekly-goals"])
+  const weeklyActual = readGoals(fm["weekly-actual"])
 
   const rawLevers = Array.isArray(fm["algorithm-levers"]) ? (fm["algorithm-levers"] as Record<string, unknown>[]) : []
   const algorithmLevers: AlgorithmLever[] = rawLevers.map((l) => ({
@@ -197,6 +208,7 @@ export function parseDistributionSchedule(): DistributionSchedule {
     friendlyTargets,
     hashtagCohorts,
     weeklyGoals,
+    weeklyActual,
     algorithmLevers,
     body: parsed.content,
   }

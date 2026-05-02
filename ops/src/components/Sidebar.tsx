@@ -63,8 +63,8 @@ const NAV_GROUPS: NavGroup[] = [
     items: [
       { href: "/", label: "Dashboard", icon: "grid", badgeKey: "harness" },
       { href: "/active-beat", label: "Active Beats", icon: "edit" },
+      { href: "/distribution", label: "Distribution", icon: "share" },
       { href: "/under-construction?surface=beats", label: "Beats", icon: "file-text" },
-      { href: "/memes", label: "Memes", icon: "share" },
       { href: "/under-construction?surface=charts", label: "Charts", icon: "trending" },
       { href: "/site-preview", label: "Site Preview", icon: "globe" },
     ],
@@ -87,7 +87,6 @@ const NAV_GROUPS: NavGroup[] = [
     items: [
       { href: "/signoff-queue", label: "Sign-off Queue", icon: "check" },
       { href: "/under-construction?surface=public-routes", label: "Public Routes", icon: "globe" },
-      { href: "/distribution", label: "Distribution", icon: "share" },
       { href: "/publisher", label: "Publisher", icon: "plus" },
     ],
   },
@@ -109,7 +108,6 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/stories", label: "Stories", icon: "file-text" },
       { href: "/sources", label: "Source Registry", icon: "globe" },
       { href: "/urls", label: "URL Manager", icon: "globe" },
-      { href: "/distribution", label: "Distribution", icon: "share" },
       { href: "/query", label: "Query / Ask", icon: "search" },
     ],
   },
