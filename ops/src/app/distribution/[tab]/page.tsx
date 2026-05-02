@@ -16,7 +16,10 @@ import {
 import { TabNav } from "../TabNav"
 import { BodyEditor } from "./BodyEditor"
 import { WeeklyCalendar } from "./WeeklyCalendar"
+import { TargetsCRM } from "./TargetsCRM"
 import { mondayOf, dayDates, getEntriesForWeek, listRecentWeeks, shiftDate } from "@/lib/distribution-log"
+import { listTargetsWithMetrics, listRecentEngagements, addTarget, listTargets as listAllTargets } from "@/lib/distribution-targets"
+import { listBeats } from "@/lib/beats-catalog"
 
 /**
  * /distribution/[tab] — multi-tab Distribution surface.
@@ -289,34 +292,52 @@ function QueueView() {
 }
 
 function TargetsView({ schedule }: { schedule: DistributionSchedule }) {
-  return (
-    <div>
-      <Section title={`Adversarial (${schedule.adversarialTargets.length})`}>
-        <p style={{ fontSize: "12px", color: "var(--color-text-dim)", marginBottom: "12px", lineHeight: 1.6 }}>
-          Quote-reply with receipts. Per Rule 13, verify the handle on the platform before engagement; do not engage based on guesswork.
-        </p>
-        {schedule.adversarialTargets.length === 0 ? (
-          <EmptyState text="No adversarial targets defined yet." />
-        ) : (
-          <div style={{ display: "grid", gap: "8px" }}>
-            {schedule.adversarialTargets.map((t, i) => <TargetRow key={i} target={t} kind="adversarial" />)}
-          </div>
-        )}
-      </Section>
+  // One-time migration: if the targets store is empty AND the yaml seeded
+  // some example targets, copy them over. Yaml is now seed-only; the
+  // store is the source of truth from here on.
+  const existingTargets = listAllTargets()
+  if (existingTargets.length === 0) {
+    for (const t of schedule.adversarialTargets) {
+      if (t.handle && t.handle !== "@example_target") {
+        addTarget({
+          handle: t.handle,
+          platform: t.platform || "x",
+          kind: "adversarial",
+          tier: (t.tier === 1 || t.tier === 2 || t.tier === 3 ? t.tier : 2) as 1 | 2 | 3,
+          reason: t.reason || "",
+          receipts: t.receipts,
+          notes: t.note,
+          addedBy: "schedule-yaml-migration",
+        })
+      }
+    }
+    for (const t of schedule.friendlyTargets) {
+      if (t.handle && t.handle !== "@example_ally") {
+        addTarget({
+          handle: t.handle,
+          platform: t.platform || "x",
+          kind: "friendly",
+          tier: (t.tier === 1 || t.tier === 2 || t.tier === 3 ? t.tier : 2) as 1 | 2 | 3,
+          reason: t.reason || "",
+          notes: t.note,
+          addedBy: "schedule-yaml-migration",
+        })
+      }
+    }
+  }
 
-      <Section title={`Friendly (${schedule.friendlyTargets.length})`}>
-        <p style={{ fontSize: "12px", color: "var(--color-text-dim)", marginBottom: "12px", lineHeight: 1.6 }}>
-          Amplify and tag opportunistically. Reciprocity matters more than volume; engage with substance, not boilerplate.
-        </p>
-        {schedule.friendlyTargets.length === 0 ? (
-          <EmptyState text="No friendly targets defined yet." />
-        ) : (
-          <div style={{ display: "grid", gap: "8px" }}>
-            {schedule.friendlyTargets.map((t, i) => <TargetRow key={i} target={t} kind="friendly" />)}
-          </div>
-        )}
-      </Section>
-    </div>
+  const targets = listTargetsWithMetrics()
+  const recent = listRecentEngagements(50)
+  const knownPlatforms = Array.from(new Set(schedule.platforms.map((p) => p.id)))
+  const knownBeats = listBeats().map((b) => b.slug)
+
+  return (
+    <TargetsCRM
+      initialTargets={targets}
+      initialEngagements={recent}
+      knownPlatforms={knownPlatforms}
+      knownBeats={knownBeats}
+    />
   )
 }
 
