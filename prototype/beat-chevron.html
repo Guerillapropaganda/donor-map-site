@@ -1,0 +1,1122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>He took the check. Then he defended it. · The Donor Map</title>
+<meta name="description" content="$39,200 from Chevron landed in Xavier Becerra's 2026 California governor account on June 16, 2025. Ten months later he told voters Chevron was 'not the bad guy.' Two rivals refused fossil fuel money. He took it.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+  --green: #16a34a;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  flex-wrap: wrap;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header h1 .h-yellow { background: var(--yellow); padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* ─── Hero arrow animation ─── */
+@keyframes hero-arrow-pulse {
+  0%   { stroke-dashoffset: 300; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.2; stroke-width: 2; }
+}
+.hero-arrow {
+  stroke-dasharray: 300;
+  animation: hero-arrow-pulse 3s ease-in-out infinite;
+}
+.hero-arrow-1 { animation-delay: 0s; }
+.hero-arrow-2 { animation-delay: 0.4s; }
+.hero-arrow-3 { animation-delay: 0.8s; }
+@media (prefers-reduced-motion: reduce) {
+  .hero-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+/* ─── Red-flag hazard banner ─── */
+.red-flag {
+  display: flex;
+  align-items: stretch;
+  margin: 56px 0 16px;
+  border: 3px solid #0a0a0a;
+  background: #0a0a0a;
+  position: relative;
+}
+.red-flag-stripes {
+  flex: 0 0 64px;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      #fbbf24 0,
+      #fbbf24 14px,
+      #0a0a0a 14px,
+      #0a0a0a 28px
+    );
+}
+.red-flag-body {
+  flex: 1;
+  padding: 14px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #0a0a0a;
+}
+.red-flag-tag {
+  display: inline-block;
+  align-self: flex-start;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #0a0a0a;
+  background: #e63946;
+  padding: 3px 10px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+.red-flag-msg {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  letter-spacing: -0.3px;
+  color: #f5f0eb;
+  line-height: 1.25;
+}
+.red-flag-msg em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #fbbf24;
+}
+.red-flag-pulse {
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  background: #e63946;
+  border: 2px solid #f5f0eb;
+  animation: red-flag-pulse 1.6s ease-in-out infinite;
+}
+@keyframes red-flag-pulse {
+  0%, 100% { opacity: 1; transform: translateY(-50%) scale(1); }
+  50%      { opacity: 0.55; transform: translateY(-50%) scale(1.3); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .red-flag-pulse { animation: none; }
+}
+@media (max-width: 600px) {
+  .red-flag-stripes { flex-basis: 36px; }
+  .red-flag-msg { font-size: 15px; }
+  .red-flag-pulse { display: none; }
+}
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+.pull-quote .quote-attr {
+  display: block;
+  margin-top: 14px;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-style: normal;
+  letter-spacing: 1.5px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Three-up contrast cards (rivals row) ─── */
+.contrast-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 14px;
+  margin: 32px 0 8px;
+}
+@media (max-width: 720px) {
+  .contrast-row { grid-template-columns: 1fr; }
+}
+.contrast-card {
+  border: 3px solid var(--black);
+  padding: 18px 18px 20px;
+  background: var(--paper);
+}
+.contrast-card.becerra { background: #0a0a0a; color: var(--cream); }
+.contrast-card.becerra .contrast-name { color: var(--yellow); }
+.contrast-card.becerra .contrast-stance { color: var(--cream); }
+.contrast-card .contrast-tag {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+.contrast-card.becerra .contrast-tag {
+  color: var(--yellow);
+  background: transparent;
+}
+.contrast-card .contrast-name {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+.contrast-card .contrast-stance {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.4;
+  color: var(--ink);
+}
+.contrast-card .contrast-num {
+  display: inline-block;
+  margin-top: 12px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  background: var(--red);
+  color: #fff;
+  padding: 4px 10px;
+}
+.contrast-card.refused .contrast-num {
+  background: var(--green);
+}
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body id="top">
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      <a href="/three-becerras">Investigations</a>
+      <span class="sep">›</span>
+      <span>Becerra · Chevron</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA GOV 2026</span>
+      <span class="date">Draft May 2, 2026</span>
+      <span class="verified">★ Primary + named-publication sourced</span>
+    </div>
+    <h1>He took the check. Then he <span class="h-red">defended</span> it.</h1>
+    <p class="deck">
+      $39,200 from Chevron USA Inc. landed in Xavier Becerra's 2026 California governor account on June 16, 2025. It is the legal max. Ten months later, asked at a public forum why he kept it, he told voters Chevron was not the bad guy. Two of his rivals signed pledges refusing fossil fuel money. He took it.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">The Chevron timeline · California AG to California governor candidate</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Timeline showing Becerra inheriting an Exxon climate-fraud investigation as CA Attorney General in 2017, allowing it to stall, accepting $39,200 from Chevron in June 2025, and defending Chevron at a public forum in April 2026 after his successor filed the climate-deception suit naming Chevron in 2023.">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+      </defs>
+
+      <!-- Timeline rail -->
+      <line x1="60" y1="240" x2="840" y2="240" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="60" y="270" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#666" letter-spacing="2">JAN 2017</text>
+      <text x="840" y="270" text-anchor="end" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#666" letter-spacing="2">APR 2026</text>
+
+      <!-- Node 1: Inherits Exxon file -->
+      <circle cx="140" cy="240" r="9" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <line class="hero-arrow hero-arrow-1" x1="140" y1="232" x2="140" y2="172" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <rect x="20" y="60" width="240" height="110" fill="#fff" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="140" y="84" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#666" letter-spacing="2">JAN 2017 · INHERITED</text>
+      <text x="140" y="108" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#0a0a0a" letter-spacing="-0.3">Exxon climate-fraud</text>
+      <text x="140" y="128" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#0a0a0a" letter-spacing="-0.3">file from Harris</text>
+      <text x="140" y="152" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="13" fill="#666">never filed in 4 years</text>
+
+      <!-- Node 2: Bonta files climate-deception suit -->
+      <circle cx="380" cy="240" r="9" fill="#16a34a" stroke="#0a0a0a" stroke-width="3"/>
+      <line class="hero-arrow hero-arrow-2" x1="380" y1="248" x2="380" y2="298" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <rect x="280" y="298" width="200" height="100" fill="#fff" stroke="#16a34a" stroke-width="3"/>
+      <text x="380" y="320" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#16a34a" letter-spacing="2">SEP 2023 · BONTA</text>
+      <text x="380" y="344" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#0a0a0a" letter-spacing="-0.2">Files climate-deception</text>
+      <text x="380" y="362" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#0a0a0a" letter-spacing="-0.2">suit · names Chevron</text>
+      <text x="380" y="384" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="12" fill="#666">"decades of deception"</text>
+
+      <!-- Node 3: $39,200 Chevron donation -->
+      <circle cx="600" cy="240" r="11" fill="#e63946" stroke="#0a0a0a" stroke-width="3"/>
+      <line class="hero-arrow hero-arrow-3" x1="600" y1="232" x2="600" y2="172" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <rect x="490" y="60" width="220" height="110" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="600" y="84" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="2">JUN 16, 2025</text>
+      <text x="600" y="118" text-anchor="middle" font-family="Inter, sans-serif" font-size="32" font-weight="900" fill="#0a0a0a" letter-spacing="-1">$39,200</text>
+      <text x="600" y="140" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#0a0a0a" letter-spacing="0.5">Chevron USA Inc.</text>
+      <text x="600" y="158" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="12" fill="#0a0a0a">the legal max</text>
+
+      <!-- Node 4: Defense quote -->
+      <circle cx="800" cy="240" r="11" fill="#e63946" stroke="#0a0a0a" stroke-width="3"/>
+      <line class="hero-arrow hero-arrow-3" x1="800" y1="248" x2="800" y2="298" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <rect x="640" y="298" width="240" height="120" fill="#0a0a0a"/>
+      <text x="760" y="318" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fbbf24" letter-spacing="2">APR 29, 2026</text>
+      <text x="760" y="344" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#fff" letter-spacing="-0.2">"They're not</text>
+      <text x="760" y="362" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#fff" letter-spacing="-0.2">the bad guy."</text>
+      <text x="760" y="392" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="12" fill="#aaa">Becerra · Politico CA Climate</text>
+    </svg>
+    <p class="viz-caption">
+      Becerra inherited an Exxon climate-fraud file from Kamala Harris in 2017 and never filed it. His successor filed the broader climate-deception suit in 2023, naming Chevron. In 2025 Chevron sent Becerra the legal max. In 2026 Becerra defended the company.
+    </p>
+  </div>
+</section>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>The receipt is the cleanest part of this story.</strong> Cal-Access transaction 5869881, filing 3071361. Chevron USA Inc., $39,200, dated June 16, 2025, recipient committee 1480025 (Becerra for Governor 2026). The amount is the maximum a corporation can give a California gubernatorial candidate per election. Chevron gave the max.
+    </p>
+
+    <p>
+      What Becerra did with the check is the rest of this page. He did not return it. He did not say, when asked, that taking it had been a mistake. He used a public stage to defend the donor. Two of his rivals refused fossil fuel money. He took it and told voters Chevron is not the bad guy.
+    </p>
+
+    <!-- ─── Table of contents ─── -->
+    <nav class="toc" aria-label="On this page">
+      <div class="toc-label">On this page</div>
+      <ol>
+        <li><a href="#receipt">The receipt</a></li>
+        <li><a href="#defense">The defense</a></li>
+        <li><a href="#rivals">What two rivals did</a></li>
+        <li><a href="#exxon-file">The Exxon file</a></li>
+        <li><a href="#what-chevron-wants">What Chevron is asking the next governor for</a></li>
+        <li><a href="#el-segundo">The El Segundo refinery</a></li>
+        <li><a href="#ag-record">Becerra's California AG climate record</a></li>
+        <li><a href="#non-claims">What this page does not claim</a></li>
+        <li><a href="#sources">Sources</a></li>
+      </ol>
+    </nav>
+
+    <!-- ─── 1. The receipt ─── -->
+    <h2 id="receipt">The <em>receipt.</em></h2>
+
+    <p>
+      One transaction. One date. One donor. The 2026 California gubernatorial contribution limit is $39,200 per source per election. Chevron USA Inc., the U.S. operating subsidiary of Chevron Corporation, filed a single contribution to Becerra for Governor 2026 at exactly that amount. The Cal-Access record is below.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Chevron USA Inc. → Becerra for Governor 2026</h3>
+      <div class="desc">Cal-Access committee 1480025 · primary-source receipt</div>
+      <table class="receipts-table">
+        <thead>
+          <tr><th>Date</th><th>Donor</th><th>Filing / TX</th><th class="num">Amount</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2025-06-16</td>
+            <td><span class="donor-name">Chevron USA Inc.</span><span class="class-tag">corporation · oil & gas · San Ramon, CA</span></td>
+            <td>3071361 / 5869881</td>
+            <td class="num">$39,200</td>
+          </tr>
+          <tr class="total">
+            <td colspan="3">Total Chevron USA Inc. to Becerra 2026</td>
+            <td class="num">$39,200</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      No other Chevron USA Inc. transaction appears in the committee receipts file across the 12,259-row Cal-Access bulk extract for committee 1480025 through April 18, 2026. No employees of Chevron Corporation appear at the $1,000-or-more threshold under any "Chevron" employer string in the receipts data, but the employer field is unpopulated for the vast majority of the committee's individual donors. Western States Petroleum Association, the trade body Chevron belongs to, is not in the file. American Fuel & Petrochemical Manufacturers is not in the file. The single $39,200 corporate check is the entire fossil-fuel direct exposure on Becerra's filed receipts as of mid-April 2026.
+    </p>
+
+    <p>
+      That clean isolation is part of what makes the donation editorially significant. There is no plausible accident. There is no entity-name confusion to litigate. A single corporate check for the legal max from one of California's most lobbied-against companies sits on Becerra's contribution list. Chevron knew what it was doing. Becerra's campaign accepted it. That is the document the rest of this page rests on.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── 2. The defense ─── -->
+    <h2 id="defense">The <em>defense.</em></h2>
+
+    <p>
+      On April 29, 2026, Becerra was at a League of California Cities forum when KQED's Scott Schafer asked him directly why he had accepted Chevron money. The answer is in the record. Politico's California Climate newsletter published it the same day.
+    </p>
+
+    <div class="pull-quote">
+      "Chevron, that's the problem with politics, they're not the bad guy. Does everybody here drive an electric vehicle? You need Chevron, I need Chevron, my people of the state of California need Chevron."
+      <span class="quote-attr">Xavier Becerra · League of California Cities forum · April 29, 2026 · reported by Politico California Climate</span>
+    </div>
+
+    <p>
+      Read the answer slowly. The question is whether Becerra should have taken the donation. The answer is a question back to the audience about whether they drive electric vehicles. The framing inverts the accountability: the audience is asked to justify needing oil, not the candidate to justify taking oil money. Then the company is reclassified from <em>donor under scrutiny</em> to <em>civic necessity</em> in one phrase. <strong>"They're not the bad guy"</strong> closes the loop.
+    </p>
+
+    <p>
+      California Environmental Voters published a same-week response titled "Becerra is wrong about Big Oil." The headline is the argument. Climate Action California, a 6,500-member grassroots organization, voted to endorse Tom Steyer for governor and declined to place Becerra on the endorsement ballot at all, citing the Chevron donation as the disqualifying fact. These are not anonymous critics. They are named-organization positions on a record-of-events page. Both are sourced in the Politico story.
+    </p>
+
+    <p>
+      Becerra's spokesperson Jonathan Underland defended the donation in the same Politico piece, telling the newsletter Becerra <em>"has never been bought by a check"</em> and pointing to Becerra's record as California Attorney General challenging Trump-era rollbacks of fuel-efficiency standards, methane regulations, and fracking lease expansions. That defense is a real record. The next two sections weigh it.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── Hazard banner before rivals -->
+    <aside class="red-flag" role="note" aria-label="Pattern alert">
+      <div class="red-flag-stripes" aria-hidden="true"></div>
+      <div class="red-flag-body">
+        <span class="red-flag-tag">Red flag · contrast alert</span>
+        <span class="red-flag-msg">Two rivals signed <em>no-fossil-fuel</em> pledges. One took the max check and called the company <em>not the bad guy</em>.</span>
+      </div>
+      <div class="red-flag-pulse" aria-hidden="true"></div>
+    </aside>
+
+    <!-- ─── 3. What two rivals did ─── -->
+    <h2 id="rivals">What two <em>rivals</em> did.</h2>
+
+    <p>
+      The 2026 California governor primary has a roughly two-million-vote field. Three Democrats above 10 percent in current polling are Steyer, Becerra, and Porter. The other two have explicit fossil-fuel positions on the public record. Becerra's position is the donation and the defense.
+    </p>
+
+    <div class="contrast-row">
+      <div class="contrast-card refused">
+        <span class="contrast-tag">Tom Steyer</span>
+        <div class="contrast-name">Refused</div>
+        <p class="contrast-stance">Signed a public pledge not to accept fossil-fuel industry money. Called on Becerra to return the Chevron contribution.</p>
+        <span class="contrast-num">$0 from oil majors</span>
+      </div>
+      <div class="contrast-card refused">
+        <span class="contrast-tag">Katie Porter</span>
+        <div class="contrast-name">Refused</div>
+        <p class="contrast-stance">Signed the same pledge. No fossil-fuel donation has been reported in her committee receipts.</p>
+        <span class="contrast-num">$0 from oil majors</span>
+      </div>
+      <div class="contrast-card becerra">
+        <span class="contrast-tag">Xavier Becerra</span>
+        <div class="contrast-name">Took it.</div>
+        <p class="contrast-stance">Accepted $39,200 from Chevron USA Inc. on June 16, 2025. Defended the donation publicly on April 29, 2026.</p>
+        <span class="contrast-num">$39,200 · the max</span>
+      </div>
+    </div>
+
+    <p>
+      Steyer's pledge does not exist in a vacuum. He is being attacked by approximately $22 million of utility-and-industry independent expenditure spending in the same race, much of it organized by PG&E and the California Chamber of Commerce, with the explicit message that he is not the kind of billionaire he claims to be. That spending pattern is its own beat. What it demonstrates here is that the candidate Chevron-and-utility-aligned interests are spending tens of millions to defeat is the candidate who pledged not to take their money. The candidate they sent the check to is the one who took it.
+    </p>
+
+    <p>
+      A May 1, 2026 Sacramento Bee analysis added quantitative context. Across the 2024 and 2025 election cycles, Chevron gave directly to 21 and 11 California Democratic lawmakers respectively. Chevron donated more than $100,000 each to two Latino-leadership-caucus PACs over three years; those PACs in turn contributed more than $29,000 to Assemblymember Alex Lee, an early Steyer endorser. Chevron's three-year California political-causes total was $10.8 million. The company's 2025 California lobbying expenditure alone was $12,935,584, the highest of any single entity in the state. The $39,200 to Becerra is one transaction inside a much larger California political-influence infrastructure. Becerra is the candidate Chevron decided to fund directly at the legal limit in the 2026 governor primary.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── 4. The Exxon file ─── -->
+    <h2 id="exxon-file">The Exxon <em>file.</em></h2>
+
+    <p>
+      Becerra's posture toward the oil majors as California Attorney General is the historical pattern the 2026 Chevron defense fits inside. The clearest single test of that posture was an inherited investigation he allowed to stall.
+    </p>
+
+    <p>
+      In January 2016, then-California Attorney General Kamala Harris opened an investigation into ExxonMobil after the LA Times and Inside Climate News reported that Exxon's internal documents conflicted with the company's public statements minimizing climate science. New York and Massachusetts had already issued public subpoenas. When Harris won her U.S. Senate seat and Becerra was appointed Attorney General by Governor Jerry Brown in January 2017, the file was on his desk.
+    </p>
+
+    <p>
+      Eighteen California Democratic members of Congress urged Becerra in 2017 to continue the investigation. More than thirty environmental groups joined the call. By May 2017, the LA Times editorial board wrote that Becerra had not <em>"uttered a peep"</em> about the probe and that his office declined to confirm whether the investigation was even ongoing. He served as Attorney General until March 2021. <strong>No California lawsuit against ExxonMobil for climate fraud was filed during his four years in the office.</strong>
+    </p>
+
+    <p>
+      What was filed during those four years was a December 2020 amicus brief, a friend-of-the-court filing supporting Baltimore's separate climate-damages lawsuit against oil companies. An amicus brief is not a lawsuit. It is a legal opinion submitted in someone else's case. The substantive California state action against the oil majors was not brought.
+    </p>
+
+    <p>
+      Becerra's successor, Attorney General Rob Bonta, filed it. On September 16, 2023, Bonta sued BP, Chevron, ConocoPhillips, ExxonMobil, Shell, and the American Petroleum Institute on behalf of the people of California, alleging decades of deceptive marketing about the climate impact of fossil fuels. The complaint was amended on June 10, 2024, to add additional defendants. As of April 2026 the case is paused pending a U.S. Supreme Court decision on whether the cases belong in state or federal court. The substantive theory is the same theory the Harris investigation had been developing eight years earlier, before Becerra inherited the file.
+    </p>
+
+    <p>
+      The historical record here is not contested. The two structural facts are (1) Becerra inherited an active climate-fraud investigation against the oil majors and did not bring a state action in four years, and (2) his successor brought the action two years after Becerra left, naming Chevron among the defendants. <strong>The same Chevron then sent Becerra the legal max for his gubernatorial campaign.</strong> The Politico defense quote is what the candidate said when asked about that sequence in public.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── 5. What Chevron is asking the next governor for ─── -->
+    <h2 id="what-chevron-wants">What Chevron is <em>asking</em> the next governor for.</h2>
+
+    <p>
+      Donors do not write checks for sentiment. Chevron's policy asks for the next California governor are documented in the public record. Six are material as of May 2026.
+    </p>
+
+    <p>
+      <strong>Cap-and-Invest amendments at CARB.</strong> California reauthorized the cap-and-trade program through 2045 in September 2025 (SB 840 and AB 1207, signed by Newsom). The California Air Resources Board is now developing implementing regulations. In March 2026, Chevron sent a letter to Newsom and CARB warning that proposed implementing amendments would make California refinery operations uneconomic and threatening to shut its El Segundo and Richmond refineries if the rules pass. WSPA, Chevron's trade body, called the September 2025 reauthorization vote rushed and lobbied against it. The next governor sets CARB's appointment direction.
+    </p>
+
+    <p>
+      <strong>Low Carbon Fuel Standard tightening.</strong> CARB's amended LCFS regulation took effect July 1, 2025. It tightens carbon-intensity benchmarks toward a 30 percent reduction by 2030 and 90 percent by 2045. Tighter benchmarks make conventional petroleum-fuel blending more expensive. Chevron's stake is in delaying or weakening compliance schedules.
+    </p>
+
+    <p>
+      <strong>El Segundo refinery oversight after the October 2 fire.</strong> Detailed in the next section.
+    </p>
+
+    <p>
+      <strong>Richmond refinery permitting and air-quality settlements.</strong> The Bay Area Air Quality Management District reached a 2024 settlement with Chevron on Rule 6-5 violations requiring up to $138 million in payments and a community air-quality fund. A June 2025 settlement required additional air monitoring transparency. In December 2025, Chevron paid the air district $900,000 for monitoring failures. The City of Richmond's Community Benefits Agreement ties annual payments to the Richmond refinery's conditional use permit. Chevron's stake is in whether the next governor's appointees on CalGEM and the California Energy Commission tighten or loosen permits and enforcement.
+    </p>
+
+    <p>
+      <strong>The climate-deception lawsuit Bonta filed.</strong> The case naming Chevron is paused pending the Supreme Court federal-jurisdiction question. A new governor's Attorney General would manage the litigation strategy on remand. A governor who said publicly that Chevron is not the bad guy is signaling, however indirectly, what direction that strategy might take.
+    </p>
+
+    <p>
+      <strong>CalGEM oil-well permitting acceleration.</strong> In the first three weeks of January 2026, CalGEM approved more new drilling permits than in all of 2025, following the January 1, 2026 implementation of SB 237 (signed September 2025), which gave Kern County new authority over drilling decisions. The next governor's appointments to CalGEM and the CEC determine whether this acceleration continues or reverses. Chevron is one of the largest operators affected.
+    </p>
+
+    <p>
+      Six asks. One $39,200 check. The check does not buy any of these outcomes. The check buys access to the candidate who will make appointments and statements about all of them.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── 6. The El Segundo refinery ─── -->
+    <h2 id="el-segundo">The El Segundo <em>refinery.</em></h2>
+
+    <p>
+      The El Segundo refinery is the largest oil refinery on the West Coast. It produces approximately one-fifth of Southern California's motor vehicle fuel and roughly 40 percent of its jet fuel. On October 2, 2025, a massive fire broke out in the refinery's jet fuel Isomax unit. As of December 2025, neither Chevron nor state regulators had publicly released the cause of the fire.
+    </p>
+
+    <p>
+      The LA Times reported on October 4, 2025 that over the prior five years the El Segundo refinery had accumulated forty-six violations of environmental safety rules, and that over the prior decade it had accumulated seventeen OSHA violations across at least fifteen OSHA inspections, including September 2023 citations for heat illness prevention and missing ladderway guardrails. The South Coast Air Quality Management District filed a petition for variance against Chevron's El Segundo facility on October 24, 2025 (Case 831-408), following an earlier August 25, 2025 petition (Case 831-406).
+    </p>
+
+    <p>
+      CalMatters reported on October 9, 2025 that with the U.S. Chemical Safety Board defunded by the Trump administration, no state agency moved to fill the cause-investigation gap. The next governor's posture on whether California creates its own systematic refinery-safety investigation authority is now an open policy question with a real refinery fire and forty-six recent violations sitting in its file.
+    </p>
+
+    <p>
+      The donation arrived in June 2025. The fire arrived in October 2025. The defense quote arrived in April 2026. The donor's most material California facility is currently subject to the regulatory regime the next governor will inherit, with a recent industrial fire whose cause is still publicly undisclosed.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── 7. Becerra's California AG climate record ─── -->
+    <h2 id="ag-record">What the <em>defense</em> credits.</h2>
+
+    <p>
+      Becerra's spokesperson Underland pointed reporters to a real record. Becerra's California Attorney General office filed and joined a number of environmental cases against the Trump administration. The record is not an invention. It is also not what the question asked.
+    </p>
+
+    <p>
+      Cases his office filed or joined against the federal government on environmental matters during his AG tenure (January 2017 through March 2021) include: a January 2020 lawsuit jointly with Newsom and CARB challenging a federal Bureau of Land Management decision to open Central California to fracking; a September 2020 lawsuit leading 24 states against the EPA's rule gutting methane and VOC standards; an August 2020 lawsuit leading 15 states against the federal rule allowing rail transport of liquefied natural gas; a May 2020 gas-price-manipulation suit against Vitol and Freepoint Commodities related to the 2015 Torrance refinery explosion; a January 2021 challenge to the federal rule discounting public-health benefits of reducing air pollution; a December 2020 amicus brief supporting Baltimore's climate-damages lawsuit; comments opposing offshore lease expansion (March 2018) and supporting the City of Arvin's setback ordinance (June 2018).
+    </p>
+
+    <p>
+      Each of those is a defensive action against a federal Trump-era rollback or a procedural intervention in someone else's litigation. The category that is almost entirely absent is affirmative California state enforcement against the named oil majors for state-law violations. A January 2021 Gibson Dunn end-of-term review of Becerra's tenure characterized his office as having filed or joined more than one hundred suits against the Trump administration, with over half on environmental policy, and acknowledged that the review did not identify affirmative enforcement actions against California-based oil and gas companies for state-law violations during the same period.
+    </p>
+
+    <p>
+      <strong>The pattern is consistent across his AG record.</strong> Maximum aggression at the federal government on climate policy. Conspicuous restraint on direct enforcement against the California-headquartered or California-operating fossil-fuel companies whose conduct an attorney general has standing to pursue. Bonta filed the climate-deception suit. Becerra did not.
+    </p>
+
+    <p>
+      That distinction is not editorial. It is the difference between joining a defensive coalition against a federal regulation rollback and bringing a California state action against a California-operating oil company. Becerra did the first and not the second. Underland's defense of the donation cites the first record. The record that would have answered the Politico question is the second one.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── 8. What this page does not claim ─── -->
+    <h2 id="non-claims">What this page <em>does not</em> claim.</h2>
+
+    <p>
+      Investigative work names what is not in the record as much as what is. Five things this page does not claim, listed plainly so a reader can challenge any of them.
+    </p>
+
+    <ol style="margin: 24px 0 24px 24px; padding: 0;">
+      <li style="margin-bottom: 18px;"><strong>This page does not claim Chevron bought a policy outcome.</strong> A $39,200 contribution to a campaign account is access. It is not, by itself, evidence of a policy commitment from the candidate to the donor. The defense quote is the candidate's own characterization of the donor; it is a posture, not a vote, and Becerra has no votes to cast as a candidate. The structural alignment between the donor's asks and the candidate's public defense of the donor is the editorially relevant pattern. Coordination would require evidence beyond the public record.</li>
+      <li style="margin-bottom: 18px;"><strong>This page does not claim Becerra refused to bring the Exxon case for any specific reason.</strong> The contemporaneous internal decision-making at the California DOJ during 2017 through 2021 is not publicly documented. What is documented is that the file was open when he took office, that California members of Congress and named environmental groups asked him to continue it, and that no state action against ExxonMobil was filed during his tenure. The reasons for the non-action are not on the public record. Bonta's eventual filing in 2023, naming Chevron alongside Exxon, used the same evidentiary theory the inherited file had been developing.</li>
+      <li style="margin-bottom: 18px;"><strong>This page does not claim Becerra's anti-Trump environmental record is fictional.</strong> It is real. It is documented above. It is also a record of defensive litigation against federal rollbacks, not a record of state enforcement against the donor companies. The defense Underland offered to Politico cites the first category. The question Schafer asked was about the second.</li>
+      <li style="margin-bottom: 18px;"><strong>This page does not claim the El Segundo fire was caused by Chevron's donation history.</strong> The fire is a separate industrial-safety fact. Its cause has not been publicly determined as of December 2025. The reason it appears on this page is that the next governor's posture on refinery oversight is part of what the donation pays for in access terms, and the El Segundo facility is the donor's largest California asset under active regulatory scrutiny.</li>
+      <li style="margin-bottom: 18px;"><strong>This page does not claim Steyer or Porter are without donor problems of their own.</strong> Steyer's self-funding of his own campaign is its own structural fact. Both candidates' donor universes are auditable on the same Cal-Access. The contrast on this page is narrowly about the fossil-fuel pledge: Steyer signed it, Porter signed it, Becerra did not, and Becerra took the max check from a fossil-fuel company. Other axes of comparison belong on other pages.</li>
+    </ol>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <!-- ─── 9. Sources ─── -->
+    <div class="sources-block" id="sources">
+      <h3>Sources</h3>
+      <ul>
+        <li><span class="label">The donation</span>
+          California Cal-Access bulk export: committee 1480025 (Becerra for Governor 2026), receipt transaction 5869881, filing 3071361, dated June 16, 2025, $39,200 from Chevron USA Inc., San Ramon, CA. Source: <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov/dbwebexport.zip</a> · accessed May 2, 2026.
+        </li>
+        <li><span class="label">The defense quote</span>
+          Politico California Climate newsletter, "Big oil and California's governor's race: Becerra defends Chevron donation," April 29, 2026: <a href="https://www.politico.com/newsletters/california-climate/2026/04/29/big-oil-california-governor-race-becerra-00899309">politico.com/newsletters/california-climate/2026/04/29/big-oil-california-governor-race-becerra-00899309</a>
+        </li>
+        <li><span class="label">EnviroVoters response</span>
+          California Environmental Voters statement: <a href="https://envirovoters.org/becerra-is-wrong-about-big-oil/">envirovoters.org/becerra-is-wrong-about-big-oil/</a> · April 30, 2026.
+        </li>
+        <li><span class="label">Chevron CA political spending</span>
+          Sacramento Bee, "Chevron's California political donations," May 1, 2026: <a href="https://www.sacbee.com/news/politics-government/capitol-alert/article315586981.html">sacbee.com/news/politics-government/capitol-alert/article315586981.html</a>
+        </li>
+        <li><span class="label">Bonta climate-deception suit</span>
+          California Department of Justice press release, September 16, 2023: <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-lawsuit-against-oil-and-gas-companies">oag.ca.gov/news/press-releases/attorney-general-bonta-announces-lawsuit-against-oil-and-gas-companies</a> · amended June 10, 2024: <a href="https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-amended-complaint-lawsuit-against-five-largest">oag.ca.gov/news/press-releases/attorney-general-bonta-files-amended-complaint-lawsuit-against-five-largest</a>
+        </li>
+        <li><span class="label">Bonta suit pause</span>
+          E&E News, "California judge pauses climate lawsuits against oil and gas industry pending Supreme Court review," April 16, 2026: <a href="https://www.eenews.net/articles/california-judge-pauses-climate-lawsuits-against-oil-and-gas-industry-pending-supreme-court-review/">eenews.net/articles/california-judge-pauses-climate-lawsuits-against-oil-and-gas-industry-pending-supreme-court-review/</a>
+        </li>
+        <li><span class="label">Harris-era Exxon investigation</span>
+          LA Times, "California attorney general investigating ExxonMobil over climate change," January 20, 2016: <a href="https://www.latimes.com/business/la-fi-exxon-global-warming-20160120-story.html">latimes.com/business/la-fi-exxon-global-warming-20160120-story.html</a>
+        </li>
+        <li><span class="label">Becerra's silence on the file</span>
+          LA Times Editorial, "Where is California's investigation of ExxonMobil?" May 30, 2017: <a href="https://www.latimes.com/opinion/editorials/la-ed-becerra-exxonmobil-climate-change-schneiderman-20170530-story.html">latimes.com/opinion/editorials/la-ed-becerra-exxonmobil-climate-change-schneiderman-20170530-story.html</a>
+        </li>
+        <li><span class="label">Inherited investigation context</span>
+          Inside Climate News, "Exxon climate investigation: California AG urged to continue probe," February 7, 2017: <a href="https://insideclimatenews.org/news/07022017/exxon-climate-investigation-california-ag-xavier-becerra/">insideclimatenews.org/news/07022017/exxon-climate-investigation-california-ag-xavier-becerra/</a>
+        </li>
+        <li><span class="label">Becerra AG fracking suit</span>
+          California DOJ press release, January 17, 2020: <a href="https://oag.ca.gov/news/press-releases/attorney-general-becerra-governor-newsom-and-state-departments-file-lawsuit">oag.ca.gov/news/press-releases/attorney-general-becerra-governor-newsom-and-state-departments-file-lawsuit</a>
+        </li>
+        <li><span class="label">Becerra AG methane multistate</span>
+          California DOJ press release, September 14, 2020: <a href="https://oag.ca.gov/news/press-releases/attorney-general-becerra-leads-multistate-lawsuit-challenging-trump">oag.ca.gov/news/press-releases/attorney-general-becerra-leads-multistate-lawsuit-challenging-trump</a>
+        </li>
+        <li><span class="label">Becerra AG Baltimore amicus</span>
+          California DOJ press release, December 24, 2020: <a href="https://oag.ca.gov/news/press-releases/attorney-general-becerra-files-friend-court-brief-support-baltimore%E2%80%99s-effort">oag.ca.gov/news/press-releases/attorney-general-becerra-files-friend-court-brief-support-baltimore%E2%80%99s-effort</a>
+        </li>
+        <li><span class="label">Becerra AG end-of-term review</span>
+          Gibson Dunn, "California Attorney General End-of-Term Update," January 25, 2021: <a href="https://www.gibsondunn.com/wp-content/uploads/2021/01/california-attorney-general-end-of-term-update.pdf">gibsondunn.com/wp-content/uploads/2021/01/california-attorney-general-end-of-term-update.pdf</a>
+        </li>
+        <li><span class="label">El Segundo fire</span>
+          LA Times, "Chevron's El Segundo refinery had a history of safety, environmental violations," October 4, 2025: <a href="https://www.latimes.com/environment/story/2025-10-04/chevrons-el-segundo-refinery-had-a-history-of-safety-environmental-violations">latimes.com/environment/story/2025-10-04/chevrons-el-segundo-refinery-had-a-history-of-safety-environmental-violations</a>
+        </li>
+        <li><span class="label">El Segundo cause status</span>
+          LA Times, "Chevron fire air quality monitoring," December 18, 2025: <a href="https://www.latimes.com/environment/newsletter/2025-12-18/chevron-fire-air-quality-monitoring">latimes.com/environment/newsletter/2025-12-18/chevron-fire-air-quality-monitoring</a>
+        </li>
+        <li><span class="label">CSB defunding context</span>
+          CalMatters, "Refinery explosion, federal-state oversight," October 9, 2025: <a href="https://calmatters.org/environment/2025/10/refinery-explosion-federal-state-oversight/">calmatters.org/environment/2025/10/refinery-explosion-federal-state-oversight/</a>
+        </li>
+        <li><span class="label">AQMD petitions</span>
+          South Coast AQMD Case 831-408 petition: <a href="https://www.aqmd.gov/docs/default-source/agendas/hearing-board/case-documents/chevron--0831/408/chevron-831-408---petition---10-24-25.pdf">aqmd.gov · Case 831-408 · October 24, 2025</a>
+        </li>
+        <li><span class="label">Cap-and-Invest reauthorization</span>
+          CalMatters, "Climate change package legislature," September 13, 2025: <a href="https://calmatters.org/environment/2025/09/climate-change-package-legislature/">calmatters.org/environment/2025/09/climate-change-package-legislature/</a>
+        </li>
+        <li><span class="label">WSPA Cap-and-Invest opposition</span>
+          WSPA press release, September 8, 2025: <a href="https://www.wspa.org/resource/wspa-urges-legislators-to-reject-rushed-cap-and-trade-reauthorization/">wspa.org · "WSPA urges legislators to reject rushed cap-and-trade reauthorization"</a>
+        </li>
+        <li><span class="label">LCFS amendments</span>
+          California Office of Administrative Law approval / CARB LCFS amendment effective July 1, 2025: <a href="https://ww2.arb.ca.gov/our-work/programs/low-carbon-fuel-standard">ww2.arb.ca.gov/our-work/programs/low-carbon-fuel-standard</a>
+        </li>
+        <li><span class="label">BAAQMD Richmond settlement</span>
+          BAAQMD Rule 6-5 Chevron settlement agreement, February 12, 2024: <a href="https://www.baaqmd.gov/~/media/files/communications-and-outreach/news-and-events/penalties-and-assessments/2024/rule-6-5-chevron-baaqmd-settlement-agreement-final-fully-executed-with-attachments-pdf.pdf">baaqmd.gov · Rule 6-5 settlement</a>
+        </li>
+        <li><span class="label">CalGEM permit acceleration</span>
+          Center for Biological Diversity, "California approves 128 oil wells in two months, more than last three years combined," March 6, 2026: <a href="https://biologicaldiversity.org/w/news/press-releases/california-approves-128-oil-wells-in-two-months-more-than-last-three-years-combined-2026-03-06/">biologicaldiversity.org · 2026-03-06</a>
+        </li>
+        <li><span class="label">FPPC contribution limit</span>
+          California Fair Political Practices Commission state contribution limits effective January 1, 2025: <a href="https://www.fppc.ca.gov/learn/campaign-rules/state-contribution-limits.html">fppc.ca.gov/learn/campaign-rules/state-contribution-limits.html</a>
+        </li>
+      </ul>
+      <div class="methodology">
+        <strong>Methodology.</strong> The single direct contribution from Chevron USA Inc. is drawn from the California Secretary of State Cal-Access bulk export, RCPT_CD table, for filer 1480025 (Becerra for Governor 2026), confirmed against transaction ID 5869881 within filing 3071361. The defense quote is sourced to Politico California Climate's April 29, 2026 newsletter, which transcribed the question and answer at the League of California Cities forum. The Bonta climate-deception suit citation is taken from the California DOJ's own press releases. The El Segundo fire and historical-violations record is drawn from the LA Times environmental beat reporting. The Becerra AG environmental-litigation list is drawn from the California DOJ press archive and the Gibson Dunn end-of-term review. The Exxon-investigation-non-prosecution finding is drawn from contemporaneous LA Times editorial reporting and Inside Climate News coverage from 2017. The Sacramento Bee quantitative analysis of Chevron's California political-causes spend is drawn from the May 1, 2026 Capitol Alert column. No claim on this page asserts coordination, quid pro quo, or unlawful conduct by any party. The structural alignment described is between (1) a documented donation, (2) a documented public defense of the donor, (3) a documented historical pattern of restraint on state enforcement, and (4) documented current regulatory matters in front of the next governor.
+      </div>
+    </div>
+
+  </div>
+</article>
+
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/three-becerras" class="footer-cta">Three Becerras (healthcare)</a>
+  <a href="/home" class="footer-cta">More investigations</a>
+  <a href="/about" class="footer-cta">About</a>
+  <div class="small">All claims trace to a primary or named-publication source · last updated 2026-05-02</div>
+</footer>
+
+</body>
+</html>

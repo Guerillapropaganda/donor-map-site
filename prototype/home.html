@@ -384,6 +384,35 @@ html, body {
   line-height: 1.4;
   color: var(--muted);
 }
+.beat-mini.live {
+  text-decoration: none;
+  color: var(--ink);
+  display: block;
+  position: relative;
+  transition: background 0.15s;
+}
+.beat-mini.live:hover { background: var(--paper); }
+.beat-mini.live .meta-mini { color: var(--red); font-weight: 700; }
+.beat-mini.live h3 { color: var(--ink); }
+.beat-mini.live .deck-mini {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 17px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 12px;
+}
+.beat-mini.live .deck-mini .h-red { background: var(--red); color: #fff; padding: 0 4px; font-style: normal; font-family: 'Inter', sans-serif; font-weight: 900; }
+.beat-mini.live .read-more-mini {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--red);
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+}
 
 /* ─── Footer ─── */
 .footer {
@@ -584,15 +613,16 @@ html, body {
   <div class="more-beats-inner">
     <div class="section-label">More investigations</div>
     <div class="more-grid">
+      <a href="/chevron" class="beat-mini live">
+        <div class="meta-mini">Live · CA Gov 2026</div>
+        <h3>He took the check. Then he <span style="background: var(--red); color: #fff; padding: 0 4px;">defended</span> it.</h3>
+        <p class="deck-mini">$39,200 from Chevron landed in Becerra's governor account on June 16, 2025. Two rivals refused fossil fuel money. He took the legal max and called the company "not the bad guy."</p>
+        <span class="read-more-mini">Read the receipts →</span>
+      </a>
       <div class="beat-mini placeholder">
-        <div class="meta-mini">Pending</div>
+        <div class="meta-mini">Queued · in audit</div>
         <h3 style="color: var(--muted);">More investigations as the cycle develops</h3>
         <p class="placeholder-text">Each beat takes the same standard of work. Primary-source verification. Forensic audit. URL pass. I will not preview an investigation I have not done. Watch this space as new races become the next race.</p>
-      </div>
-      <div class="beat-mini placeholder">
-        <div class="meta-mini">Pending</div>
-        <h3 style="color: var(--muted);">&nbsp;</h3>
-        <p class="placeholder-text">&nbsp;</p>
       </div>
       <div class="beat-mini placeholder">
         <div class="meta-mini">Pending</div>
@@ -614,7 +644,8 @@ html, body {
     <div>
       <h4>Investigations</h4>
       <ul>
-        <li><a href="/three-becerras">What he says depends on who is listening (Becerra)</a></li>
+        <li><a href="/three-becerras">What he says depends on who is listening (Becerra · healthcare)</a></li>
+        <li><a href="/chevron">He took the check. Then he defended it. (Becerra · Chevron)</a></li>
       </ul>
     </div>
     <div>
