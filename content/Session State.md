@@ -1,7 +1,128 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-05-01
+last-updated: 2026-05-02
+---
+
+## HANDOFF — 2026-05-02 (Patreon brand pass + social media schedule + brand architecture decision)
+
+**Context:** Code Claude. Worktree `claude/zen-curran-39ac07`, Opus 4.7 (1M context). Single session focused on the Patreon donation surface + social media direction. Started after `c6705cd81` (homepage swap: Becerra featured + class-traitor moved + about page). Off-sprint work — original Apr 10–30 sprint window closed; this session built infrastructure for the publisher/distribution layer that sits next to the publication.
+
+### STRATEGIC DECISION — Brand architecture
+
+Locked in this session: **Guerilla Prop is the umbrella publisher. The Donor Map is the publication.**
+
+- The Donor Map (thedonormap.org) = the public-facing investigation site. Cream/yellow brutalist forensic register.
+- Guerilla Prop = the operation that makes The Donor Map possible. Red/black agitprop publisher register.
+- Same font family (Inter 900 + Instrument Serif italic + Space Mono), same no-rounding/no-shadow rules, different palette emphasis.
+- Sibling visual identity: same DNA, recognizably one operation. "GUERILLA *Prop.*" wordmark mirrors "The Donor *Map.*" pattern exactly.
+- Voice rule: "I" not "we" across both surfaces. Singular investigator, plural-by-implication operation.
+
+This decision should propagate to future external surfaces (LinkedIn, GitHub Sponsors, eventual newsletter, possible org formation).
+
+### THIS SESSION'S DELIVERABLES
+
+**Patreon visual brand (PNG exports at exact dimensions, retina @2x):**
+- `prototype/exports/banner.png` — 2500×1000, black bg with red halftone bleeds, "GUERILLA *Prop.*" centered wordmark, red redaction-bar motif, tagline "I name the donors. I map the money. I publish what they spent it to bury.", four corner stamps (GP · EST 2026 / publisher line / reader-funded / Independent · Reader-funded · No corporate owner)
+- `prototype/exports/avatar.png` — 1024×1024 red bg, white "GP" Inter 900 monogram, "GUERILLA / PROPAGANDA" Space Mono labels top + bottom, readable down to 40px (comment size)
+
+**Source files:**
+- `prototype/patreon-guerilla-prop.html` — single-source design file with banner + avatar + multi-size avatar previews + in-context Patreon page mockup
+- `prototype/export-patreon.cjs` — playwright-based export script. Run `node prototype/export-patreon.cjs` to regenerate both PNGs after any design tweak. (Required: `npm install playwright` + `npx playwright install chromium` — done this session, ~150MB Chromium at `C:\Users\third\AppData\Local\ms-playwright\`. Reusable for any future asset exports.)
+
+**Patreon copy (donation-only model, all in chat history for paste):**
+- Page name: "Guerilla Prop"
+- Short tagline: "Independent investigation. Publisher of The Donor Map."
+- About / "Tell your story": donation-only positioning, no patron-only content, no early-access promises. Voice consistent with homepage.
+- Welcome DM: "Thank you for funding this." pitch, no over-promises, invites reply with tips.
+- Upsell band header/sub: "Support Guerilla Prop / Fund the work. $3/month."
+
+**Tier ladder (donation-only, no benefits gating):**
+- $3 Reader — "My thanks. And the next donor still gets named."
+- $7 Patron — "My thanks. And the donor and his accountant both get named."
+- $15 Sustainer — "My thanks. And a whole filing gets read end to end."
+- $25 Backer — "My thanks. And a Saturday goes to the work instead of the side jobs."
+- $50 Benefactor — "My thanks. And one race gets investigated this month that wouldn't have."
+- ($100 Patron Saint optional ceiling — "My thanks. And the lights stay on without taking ad money.")
+
+Recommended ladder: 3-tier ($3 / $10 / $25) for cleanest tip-jar shape, or 4-tier including $50 for extra anchor.
+
+**Decisions made:**
+- Tip-jar model, not gated tiers. Pivoted from initial 3-tier "Reader / Patron / Source" with content benefits → donation-only after David clarified intent.
+- No tier imagery (would imply hierarchy that contradicts the "give what you can" pitch)
+- No first-post template needed (no patron-only posts)
+- Posting cadence on Patreon: 4-8 posts/month MAX, never post just to stay active
+- Page itself needs renaming in Patreon dashboard (currently still "The Donor Map" → should be "Guerilla Prop")
+
+**Social media schedule (NEW FILE — DRAFT, riff scheduled for next session):**
+- `content/Admin Notes/social-schedule.md` — mirrors `sprint-schedule.md` structure so Ops calendar can later parse it
+
+Contains:
+- Operating principle ("Post when there is a receipt. Engage when there is data. Otherwise stay quiet.")
+- Weekly rhythm (Mon = anchor, Tue/Thu = engagement days, Wed = receipt drop, Fri = working notes, Sat/Sun = OFF)
+- Per-platform cadence table (Bluesky / X / IG / Patreon / Threads / FB) with priority ranking, post counts, best times, content type
+- Engagement target tiers (T1 quote-reply with receipts, T2 follow + occasional, T3 tag opportunistically, do-not-engage list). Names only — every handle requires verification by David per Rule 13.
+- Content templates (anchor thread, quote-reply, mid-week receipt drop, working notes, Patreon post)
+- Hashtag guidance per platform
+- Metrics to track weekly
+- Verification items (David's lane)
+- Phase progression (pre-launch → active publication → full beat)
+
+Total target: ~4-5 hours/week of social work. If exceeding 6, over-investing in social and under-investing in the work.
+
+Stack ranking by ROI for the work: Bluesky (1) > X (2) > Instagram (3) > Patreon (4) > Threads (5) > Facebook (6, skip-or-cross-post).
+
+### KNOWN ISSUES / CARVE-OUTS
+
+- **Sprint window closed.** Original `sprint-schedule.md` covers 2026-04-10 → 2026-04-30. This session was off-sprint. `last-updated:` field bumped for cache-bust but no per-task updates were made (no sprint tasks touched). New sprint definition or "off-sprint maintenance" framing is a future decision.
+- **Main repo is in a half-merged state.** Behind `origin/v4` by 17 commits at session start, with unmerged paths in `content/Admin Notes/.attention-queue-store.json`, `Attention Queue.md`, `pipeline-janitor-report.md`, and `data/stories.jsonl`. Plus a large pile of staged + unstaged donor profile modifications. The worktree is clean and safe; the main repo needs merge resolution OR abort before next merge-to-v4. Flagged in preflight, not addressed this session.
+- **Vault YAML parses clean** (0 errors across the vault as of preflight 2026-05-02 13:53 CT).
+- **Last deploy** (commit `c6705cd81`) was in_progress at session start; should be confirmed green before next push.
+- **Public-routes.json still `["index"]` only.** Construction splash still serves at thedonormap.org. Patreon assets ship independently of the live site.
+
+### OPEN — Patreon items not yet touched
+
+Punch-list, ordered by leverage:
+
+1. **Vanity URL** — set `patreon.com/guerillaprop` in dashboard
+2. **Page rename** in Patreon dashboard (still "The Donor Map", should be "Guerilla Prop")
+3. **Social links** in sidebar (currently empty — should link thedonormap.org + Bluesky + X + tip-line)
+4. **First/pinned post** — feed is empty, anchor with intro post in the new voice
+5. **Goals** (Patreon's milestone goals) — donation-only pages need this for emotional hook. Suggested: "$500/mo = drop consulting side jobs. $1,500/mo = hire a researcher."
+6. **Mobile crop check** — preview banner on phone before declaring done
+7. **Posting cadence** — set to "As I publish" not weekly/daily
+8. **Charge upfront vs. monthly** — billing setting, David's call
+9. **Payout connection** — Stripe/PayPal/direct deposit (required before receiving)
+10. **Tax info** — W-9, address (required before payout)
+
+### NEXT SESSION PRIORITIES (numbered, most important first)
+
+1. **Riff on `content/Admin Notes/social-schedule.md`** — David's wanted next-session focus. Adjust cadence, add specific handles he already follows, edit voice on content templates, finalize the engagement tier lists. Probably 30-60 min of conversation.
+2. **Finish Patreon launch punch-list** above (items 1-10). Some are dashboard clicks David does himself; the page rename + goals + first pinned post need actual copy that can be written next session.
+3. **Port homepage prototype to Quartz** (~$30 Opus). `prototype/home.html` → `quartz/components/HomePage.tsx` + `content/index.md`. Replace LandingPage as index renderer.
+4. **Port class-traitor beat to Quartz** (~$30 Opus). `prototype/beat-class-traitor.html` → `quartz/components/BeatPage.tsx` + `content/class-traitor.md`. The component should drive any future beat from frontmatter + body markdown.
+5. **Build `/site` ops page** (~$40 Opus). For editing/publishing workflow David specced last session — homepage editor, beats list with publish toggle, drafts, coming-soon placeholders. Publish toggle writes `data/public-routes.json`.
+6. **Flip `data/public-routes.json`** from `["index"]` to `["index", "class-traitor"]` after #3 + #4 land (~$5).
+7. **Backfill 40 missing donor aliases** + re-ingest cal-access-bulk with cycleAttribution fix (~$25). Reed Hastings $29M, Sergey Brin $2M, etc. flagged by donor-name-clustering check last session.
+
+### DAVID'S LANE (your eyes/clicks needed before next session)
+
+- **Read `content/Admin Notes/social-schedule.md`** end-to-end before next session. Mark up what you want changed; we riff in the next chat.
+- **Verify the Tier 1/Tier 2 handles** in the schedule on each platform (Rule 13). I named people, not URLs.
+- **Decide tier ladder** — 3-tier ($3/$10/$25) or 4-tier (add $50). Pick the witty thank-you lines from the chat menu.
+- **Patreon dashboard tasks** — items 1-10 from the punch-list above. Some are dashboard-only (vanity URL, rename, payout, tax info); rest need copy I can write next session.
+- **Resolve main-repo merge state** OR confirm it's safe to ignore for now.
+
+### WORKTREE
+
+Current: `claude/zen-curran-39ac07`. Files added this session (uncommitted at session-save start):
+
+- `prototype/patreon-guerilla-prop.html` (new — design source for banner + avatar)
+- `prototype/export-patreon.cjs` (new — playwright export script)
+- `prototype/exports/banner.png` (new, 2500×1000 retina @2x)
+- `prototype/exports/avatar.png` (new, 1024×1024 retina @2x)
+- `content/Admin Notes/social-schedule.md` (new — DRAFT, awaiting next-session riff)
+
 ---
 
 ## HANDOFF — 2026-05-01 (cc_p3_220 → cc_p3_245, editorial pivot to beat-style site + CA Gov 2026 dossier sprint + Perplexity verification rounds + homepage/first-beat prototypes)

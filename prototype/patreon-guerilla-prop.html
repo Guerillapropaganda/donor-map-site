@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Guerilla Prop — Patreon Assets</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --red: #e63946;
+  --red-deep: #b8202e;
+  --white: #ffffff;
+}
+
+html, body {
+  background: #2a2a2a;
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  padding: 40px 20px 80px;
+}
+
+.page-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  color: #fbbf24;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin: 32px auto 12px;
+  max-width: 1600px;
+  padding: 0 8px;
+}
+.page-label .dim { color: #888; font-weight: 400; margin-left: 12px; }
+
+.spec-note {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #aaa;
+  letter-spacing: 1px;
+  margin: 0 auto 20px;
+  max-width: 1600px;
+  padding: 0 8px;
+}
+
+/* ─── Halftone red dot generator (CSS radial-gradient pattern) ─── */
+.halftone {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(circle at center, var(--red) 22%, transparent 24%);
+  background-size: 14px 14px;
+  opacity: 0.55;
+  mix-blend-mode: screen;
+  -webkit-mask-image: linear-gradient(120deg, black 0%, black 28%, transparent 60%);
+          mask-image: linear-gradient(120deg, black 0%, black 28%, transparent 60%);
+}
+.halftone-tr {
+  -webkit-mask-image: linear-gradient(300deg, black 0%, black 22%, transparent 55%);
+          mask-image: linear-gradient(300deg, black 0%, black 22%, transparent 55%);
+}
+
+/* ─── Grain overlay ─── */
+.grain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.08;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 1 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+
+/* ─── Banner 2500x1000 (Patreon cover spec) ─── */
+.banner {
+  width: 2500px;
+  height: 1000px;
+  background: var(--black);
+  color: var(--white);
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.banner .center {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 0 240px;
+}
+.banner .wordmark {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 260px;
+  line-height: 0.88;
+  letter-spacing: -9px;
+  color: var(--white);
+  white-space: nowrap;
+}
+.banner .wordmark em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -5px;
+  color: var(--red);
+  display: inline-block;
+}
+.banner .tagline {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 38px;
+  color: var(--cream);
+  margin-top: 40px;
+  letter-spacing: -0.3px;
+  line-height: 1.3;
+}
+.banner .tagline strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--red);
+  color: var(--white);
+  padding: 0 14px;
+}
+
+/* corner stamps */
+.banner .stamp-tl {
+  position: absolute;
+  top: 60px;
+  left: 80px;
+  z-index: 3;
+  border: 3px solid var(--red);
+  padding: 10px 20px;
+  font-family: 'Space Mono', monospace;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--red);
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+.banner .stamp-br {
+  position: absolute;
+  bottom: 60px;
+  right: 80px;
+  z-index: 3;
+  font-family: 'Space Mono', monospace;
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--cream);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: right;
+  line-height: 1.7;
+}
+.banner .stamp-br .b {
+  display: inline-block;
+  border-top: 1px solid var(--cream);
+  padding-top: 6px;
+  margin-top: 6px;
+  color: #999;
+  font-weight: 400;
+}
+.banner .stamp-bl {
+  position: absolute;
+  bottom: 60px;
+  left: 80px;
+  z-index: 3;
+  font-family: 'Space Mono', monospace;
+  font-size: 18px;
+  font-weight: 700;
+  color: #888;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+/* redaction bars motif */
+.banner .redact {
+  position: absolute;
+  z-index: 1;
+  background: var(--red);
+  height: 44px;
+}
+.banner .redact-1 { top: 240px; left: -80px; width: 480px; opacity: 0.85; }
+.banner .redact-2 { bottom: 260px; right: -80px; width: 400px; opacity: 0.85; }
+
+/* halftone scaled larger for 2500-wide canvas */
+.banner .halftone {
+  background-size: 28px 28px;
+}
+
+/* ─── Avatar 1024x1024 ─── */
+.avatar-row {
+  display: flex;
+  gap: 60px;
+  align-items: flex-start;
+  margin: 0 auto;
+  max-width: 1600px;
+  flex-wrap: wrap;
+}
+
+.avatar {
+  width: 1024px;
+  height: 1024px;
+  background: var(--red);
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.avatar .gp {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 720px;
+  line-height: 0.85;
+  letter-spacing: -40px;
+  color: var(--white);
+  z-index: 2;
+}
+.avatar .stamp-top {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-family: 'Space Mono', monospace;
+  font-size: 36px;
+  font-weight: 700;
+  color: var(--white);
+  letter-spacing: 12px;
+  z-index: 3;
+  text-transform: uppercase;
+}
+.avatar .stamp-bottom {
+  position: absolute;
+  bottom: 70px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-family: 'Space Mono', monospace;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--white);
+  letter-spacing: 6px;
+  z-index: 3;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+/* round-crop preview */
+.avatar-preview-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  padding-top: 20px;
+}
+.avatar-preview-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #aaa;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.avatar-preview {
+  background: var(--red);
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.avatar-preview .gp {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  color: var(--white);
+}
+.avatar-preview-256 { width: 256px; height: 256px; }
+.avatar-preview-256 .gp { font-size: 180px; letter-spacing: -10px; }
+.avatar-preview-80 { width: 80px; height: 80px; }
+.avatar-preview-80 .gp { font-size: 56px; letter-spacing: -3px; }
+.avatar-preview-40 { width: 40px; height: 40px; }
+.avatar-preview-40 .gp { font-size: 28px; letter-spacing: -1.5px; }
+
+/* ─── Mocked Patreon header preview ─── */
+.patreon-mock {
+  width: 1280px;
+  margin: 0 auto;
+  background: #ffffff;
+  border: 1px solid #ccc;
+}
+.patreon-mock .cover {
+  width: 100%;
+  height: 320px;
+  background: var(--black);
+  position: relative;
+  overflow: hidden;
+}
+.patreon-mock .cover-content {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.patreon-mock .cover-content .wordmark {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 132px;
+  line-height: 0.88;
+  letter-spacing: -5px;
+  color: var(--white);
+  text-align: center;
+}
+.patreon-mock .cover-content .wordmark em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--red);
+}
+.patreon-mock .meta {
+  padding: 60px 40px 40px;
+  position: relative;
+}
+.patreon-mock .meta .av {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: var(--red);
+  position: absolute;
+  top: -60px;
+  left: 40px;
+  border: 4px solid #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 84px;
+  letter-spacing: -5px;
+  color: var(--white);
+}
+.patreon-mock .meta h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  letter-spacing: -1px;
+  color: #000;
+  margin-bottom: 6px;
+}
+.patreon-mock .meta h1 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--red);
+}
+.patreon-mock .meta .sub {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  color: #555;
+}
+</style>
+</head>
+<body>
+
+<div class="page-label">Banner — 1600 × 400 <span class="dim">screenshot at 100% zoom, upload as cover image</span></div>
+<div class="spec-note">Patreon cover-image spec. Crops to roughly center on mobile; key elements stay center-aligned.</div>
+
+<div class="banner">
+  <div class="halftone"></div>
+  <div class="halftone halftone-tr"></div>
+  <div class="grain"></div>
+  <div class="redact redact-1"></div>
+  <div class="redact redact-2"></div>
+
+  <div class="stamp-tl">GP · EST 2026</div>
+  <div class="stamp-bl">Independent · Reader-funded · No corporate owner</div>
+  <div class="stamp-br">
+    Publisher of <strong style="color:var(--white);font-weight:700;">The Donor Map</strong><br>
+    <span class="b">thedonormap.org</span>
+  </div>
+
+  <div class="center">
+    <div class="wordmark">GUERILLA <em>Prop.</em></div>
+    <div class="tagline">
+      I <strong>name</strong> the donors. I <strong>map</strong> the money. I <strong>publish</strong> what they spent it to bury.
+    </div>
+  </div>
+</div>
+
+<div class="page-label">Avatar — 1024 × 1024 <span class="dim">square upload, Patreon round-crops it</span></div>
+<div class="spec-note">Designed to read at every size Patreon uses (page header 120px, feed 80px, comment 40px). Previews at right.</div>
+
+<div class="avatar-row">
+  <div class="avatar">
+    <div class="grain"></div>
+    <div class="stamp-top">GUERILLA</div>
+    <div class="gp">GP</div>
+    <div class="stamp-bottom">PROPAGANDA</div>
+  </div>
+
+  <div class="avatar-preview-wrap">
+    <div class="avatar-preview-label">256 px (page)</div>
+    <div class="avatar-preview avatar-preview-256"><div class="grain"></div><div class="gp">GP</div></div>
+    <div class="avatar-preview-label">80 px (feed)</div>
+    <div class="avatar-preview avatar-preview-80"><div class="gp">GP</div></div>
+    <div class="avatar-preview-label">40 px (comment)</div>
+    <div class="avatar-preview avatar-preview-40"><div class="gp">GP</div></div>
+  </div>
+</div>
+
+<div class="page-label">In-context preview <span class="dim">approximate Patreon page header layout</span></div>
+
+<div class="patreon-mock">
+  <div class="cover">
+    <div class="halftone"></div>
+    <div class="halftone halftone-tr"></div>
+    <div class="grain"></div>
+    <div class="cover-content">
+      <div class="wordmark">GUERILLA <em>Prop.</em></div>
+    </div>
+  </div>
+  <div class="meta">
+    <div class="av">GP</div>
+    <h1>Guerilla <em>Prop.</em></h1>
+    <div class="sub">Independent investigation. Publisher of The Donor Map.</div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-05-01-editorial-pivot-beat-style-site-perplexity-verifications-homepage-prototype'
+last-updated: '2026-05-02-off-sprint-patreon-brand-and-social-schedule'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
