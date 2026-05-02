@@ -119,10 +119,10 @@ const PERPLEXITY_ROUNDS = [
   { name: "Steyer polling apparatus (correction round)", status: "applied", date: "2026-05-02" },
   { name: "Ballot certification + debate calendar", status: "applied", date: "2026-05-02" },
   { name: "Tigran Martinian identification", status: "drafted, pending run", date: "pending" },
-  { name: "CPCA Advocates historical baseline (Round A)", status: "drafted, pending run", date: "pending" },
+  { name: "CPCA Advocates historical baseline (Round A)", status: "applied", date: "2026-05-02" },
   { name: "CMA parallel actions for Becerra (Round B)", status: "applied", date: "2026-05-02" },
   { name: "Becerra single-payer March 23 to April window (Round C)", status: "applied", date: "2026-05-02" },
-  { name: "Newsom 2018 single-payer retreat parallel (Round D)", status: "drafted, pending run", date: "pending" },
+  { name: "Newsom 2018 single-payer retreat parallel (Round D)", status: "applied", date: "2026-05-02" },
   { name: "Becerra HHS-era specific donor actions (Round E)", status: "applied", date: "2026-05-02" },
 ]
 
@@ -152,6 +152,16 @@ const AUDIT_PASSES = [
     name: "Round B (CMA parallel actions): negative finding folded in",
     date: "2026-05-02",
     status: "applied: CMA endorses (one channel) but does NOT commission polls, does NOT contribute via CALPAC, does NOT fund the IE PAC. CPCA structural claim stays focused on CPCA only. Added non-claim paragraph to 'What this page does not claim'",
+  },
+  {
+    name: "Round A (CPCA historical baseline): comparative-baseline gap CLOSED",
+    date: "2026-05-02",
+    status: "applied: every CPCA channel deployed for Becerra is a first in the org's history. First gubernatorial endorsement, first commissioned poll, first candidate IE committee, first statewide-office direct contribution. All four channels simultaneously for the first time. Against a 5x revenue increase. Plus AltaMed's continuous board presence FY2019 through FY2025. Plus the IE PAC co-seeded by California State Council of Laborers (Becerra's #1 donor) with Bearstar (Newsom's firm) leading media. The 'honest limit' caveat removed from the page; the unprecedented-at-every-dimension finding takes its place",
+  },
+  {
+    name: "Round D (Newsom 2018 retreat parallel): documented California pattern surfaced",
+    date: "2026-05-02",
+    status: "applied: new section 'The Newsom precedent' establishing that Becerra's 2026 trajectory follows a documented California Democratic gubernatorial pattern. Newsom's 'firm and absolute commitment' campaign pledge, Day-One executive orders, commission, AB 1400 non-endorsement, CalCare death without his support, SB 770 'complete betrayal' (CNA's words). Plus Blue Shield's $971K through pro-Newsom IE in 2018, $100K to inaugural fund, $20M to Project Homekey, $15M no-bid vaccine contract. KQED itself draws the parallel in the Becerra article. Page no longer makes the case as if Becerra is uniquely cynical; the case is the recurring California pattern",
   },
 ]
 
