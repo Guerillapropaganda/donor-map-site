@@ -120,10 +120,10 @@ const PERPLEXITY_ROUNDS = [
   { name: "Ballot certification + debate calendar", status: "applied", date: "2026-05-02" },
   { name: "Tigran Martinian identification", status: "drafted, pending run", date: "pending" },
   { name: "CPCA Advocates historical baseline (Round A)", status: "drafted, pending run", date: "pending" },
-  { name: "CMA parallel actions for Becerra (Round B)", status: "drafted, pending run", date: "pending" },
-  { name: "Becerra single-payer March 23 to April window (Round C)", status: "drafted, pending run", date: "pending" },
+  { name: "CMA parallel actions for Becerra (Round B)", status: "applied", date: "2026-05-02" },
+  { name: "Becerra single-payer March 23 to April window (Round C)", status: "applied", date: "2026-05-02" },
   { name: "Newsom 2018 single-payer retreat parallel (Round D)", status: "drafted, pending run", date: "pending" },
-  { name: "Becerra HHS-era specific donor actions (Round E)", status: "drafted, pending run", date: "pending" },
+  { name: "Becerra HHS-era specific donor actions (Round E)", status: "applied", date: "2026-05-02" },
 ]
 
 const AUDIT_PASSES = [
@@ -137,6 +137,21 @@ const AUDIT_PASSES = [
     name: "KQED quote verification + March 23 commitment surfaced",
     date: "2026-05-02",
     status: "applied: lede rewritten, six-week-window timeline locked",
+  },
+  {
+    name: "Round E (HHS donor actions): DHR Brownsville approval surfaced as direct-influence finding",
+    date: "2026-05-02",
+    status: "applied: new 'Direct influence: one finding, named' section with the Dec 20, 2022 CMS approval over FAH+AHA opposition; Anthem framing corrected (OIG audited Anthem during Becerra's tenure, no preferential treatment found)",
+  },
+  {
+    name: "Round C (March-April window): trajectory locked",
+    date: "2026-05-02",
+    status: "applied: March 23 X+Facebook posts verified; KQED 'deliver single-payer' wording flagged as Tier 2 pending platform confirmation; CalCare death April 21 + April 22/28 debates + April 29 CMA-endorsement-post added to timeline",
+  },
+  {
+    name: "Round B (CMA parallel actions): negative finding folded in",
+    date: "2026-05-02",
+    status: "applied: CMA endorses (one channel) but does NOT commission polls, does NOT contribute via CALPAC, does NOT fund the IE PAC. CPCA structural claim stays focused on CPCA only. Added non-claim paragraph to 'What this page does not claim'",
   },
 ]
 
