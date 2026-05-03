@@ -425,9 +425,9 @@ html, body {
 <!-- ─── Nav ─── -->
 <nav class="nav">
   <div class="nav-inner">
-    <a href="/home" class="brand">THE DONOR MAP</a>
+    <a href="/" class="brand">THE DONOR MAP</a>
     <div class="nav-links">
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
       <a href="/three-becerras" class="active">Investigations</a>
       <a href="/about">About</a>
     </div>
@@ -438,7 +438,7 @@ html, body {
 <header class="article-header">
   <div class="article-header-inner">
     <div class="breadcrumb">
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
       <span class="sep">›</span>
       Investigations
       <span class="sep">›</span>
@@ -546,7 +546,7 @@ html, body {
       <li><strong>Equipment leasing / Hispanic-philanthropy:</strong> one entry (Jules Buenabenta, founder of Jules and Associates Inc.; USC presidential commission Hispanic-equity advocacy), $41,900. Verified not healthcare-aligned.</li>
       <li><strong>Life-sciences IP litigation:</strong> one entry (Morgan Chu, Partner & Chair of Litigation Practice at Irell & Manella), $39,200. Pharma / biotech IP work, FDA-adjacent but not directly HHS-regulated.</li>
       <li><strong>Environmental philanthropy:</strong> one entry (Cindy Horn, NRDC board chair 2018-2020, Disney-studios household), $39,200. No HHS hook.</li>
-      <li><strong>Plaintiff bar:</strong> one entry (Tigran Martinian), $45,600. Founder of Martinian Lawyers Inc., a Los Angeles personal-injury, wrongful-death, and criminal-defense firm. California State Bar #247638. Cal-Access ZIP+4 (90068-2106) matches the State Bar registered firm address (2801 Cahuenga Blvd W, Los Angeles). Identity confirmed; the previous [UNVERIFIED] flag is lifted. Note: Cal-Access occupation and employer fields are blank for all five Martinian receipts, which is a reporting deficiency under California Government Code §84211 (employer and occupation must be disclosed for individual contributors of $100 or more). The disclosure deficiency is the committee's filing responsibility.</li>
+      <li><strong>Plaintiff bar:</strong> one entry (Tigran Martinian), $45,600. Founder of Martinian Lawyers Inc., a Los Angeles personal-injury, wrongful-death, and criminal-defense firm. California State Bar #247638. Cal-Access ZIP+4 (90068-2106) matches the State Bar registered firm address (2801 Cahuenga Blvd W, Los Angeles).</li>
     </ul>
 
     <p>
@@ -557,14 +557,6 @@ html, body {
 
     <p>
       The 5,046 donors below the top fifteen contributed approximately $3.0 million combined, average about $590. That distribution is consistent with a campaign that has both an institutional max-donor base (the rows above) and a small-dollar long tail (the donors below). The page does not detail the long tail because each donor below the max-donor tier contributes a small share of the total. Readers who want the long tail can pull the full RCPT_CD records from the Cal-Access bulk export.
-    </p>
-
-    <p>
-      Industry classification on individual donors is inherently imperfect. Cal-Access requires occupation and employer to be filed for individual contributions, but those fields are self-reported and frequently understated (I documented this in the main investigation: Cal-Access lists Cantu's occupation as "Developer" without mentioning his DHR Health co-founder role). All three individual donors flagged [UNVERIFIED] in earlier drafts have now been identified. Joseph Molina is the former CEO of Molina Healthcare Inc., the family business that contracts as a major Medi-Cal managed-care plan in California. Jules Buenabenta is founder and CEO of Jules and Associates Inc., an equipment-leasing company, and chairs the USC President's Advisory Commission on Advancing Educational Equity for Hispanics. Tigran Martinian is founder of Martinian Lawyers, a Los Angeles personal-injury and criminal-defense firm; his Cal-Access ZIP+4 matches the State Bar of California registered firm address.
-    </p>
-
-    <p>
-      Two filing-anomaly notes worth flagging on the public record. First, the Tigran Martinian receipts: all five are filed with blank occupation and blank employer fields totaling $45,600, which is a reporting deficiency under California Government Code §84211 (employer and occupation are required to be disclosed for individual contributors of $100 or more). Second, the file shows a $5,400 receipt dated June 30, 2025 from "Nelson Rising" of La Cañada Flintridge. Nelson C. Rising, co-founder of Rising Realty Partners and chairman emeritus of the Real Estate Roundtable, died on February 9, 2023, more than two years before that contribution date. The donation may originate from his estate, from a family member with the same name, or from a Cal-Access data-entry error. The receipt is reported as it appears in the primary record. No independent verification of donor identity is possible from the Cal-Access record alone.
     </p>
 
     <p>
@@ -601,10 +593,53 @@ html, body {
 <footer class="beat-footer">
   <div class="brand-footer">THE DONOR <em>Map.</em></div>
   <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
-  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="/" class="footer-cta">More Investigations</a>
   <a href="#" class="footer-cta">Share This</a>
   <div class="small">All claims trace to a primary or named-publication source · draft 2026-05-02 · pending editor URL pass before public exposure</div>
 </footer>
 
+<script data-share-handler="v1">
+(function () {
+  function init() {
+    var btn = Array.from(document.querySelectorAll(".footer-cta")).find(function (a) {
+      return a.textContent.trim() === "Share This";
+    });
+    if (!btn) return;
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      var url = window.location.href;
+      var title = document.title;
+      var metaDesc = document.querySelector('meta[name="description"]');
+      var desc = metaDesc ? metaDesc.content : "";
+      var shareData = { title: title, text: desc, url: url };
+      var fallback = function () {
+        var combined = title + "\n\n" + desc + "\n\n" + url;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(combined).then(function () {
+            var original = btn.textContent;
+            btn.textContent = "Link copied";
+            setTimeout(function () { btn.textContent = original; }, 2000);
+          }, function () { window.prompt("Copy this link:", url); });
+        } else {
+          window.prompt("Copy this link:", url);
+        }
+      };
+      if (navigator.share) {
+        navigator.share(shareData).catch(function (err) {
+          if (err && err.name === "AbortError") return;
+          fallback();
+        });
+      } else {
+        fallback();
+      }
+    });
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
 </body>
 </html>
