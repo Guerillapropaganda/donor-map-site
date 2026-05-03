@@ -207,8 +207,8 @@ function applyDonorAlias(donorName, aliasMap) {
   // ── Pass 1: filing → filer
   console.log('[ingest-cal-access-bulk] Pass 1: building filing→filer map from FILER_FILINGS_CD...');
   const p1t0 = Date.now();
-  const { map: filingToFiler, rowsScanned: ffRows } = await buildFilingToFiler();
-  console.log(`  ${ffRows} rows scanned, ${filingToFiler.size} filings mapped (${((Date.now() - p1t0) / 1000).toFixed(1)}s)`);
+  const { map: filingToFiler, rowsScanned: ffRows, supersededCount } = await buildFilingToFiler();
+  console.log(`  ${ffRows} rows scanned, ${filingToFiler.size} filings mapped (${supersededCount} superseded amendments dropped) (${((Date.now() - p1t0) / 1000).toFixed(1)}s)`);
 
   // ── Pass 2: filer name lookup (for fallback display + sanity)
   console.log('[ingest-cal-access-bulk] Pass 2: loading FILERNAME_CD...');
@@ -230,8 +230,15 @@ function applyDonorAlias(donorName, aliasMap) {
   let droppedNoDonor = 0;
   let droppedNoAmount = 0;
   let droppedNonDonor = 0;
+  let droppedDuplicateTran = 0;
   let cycleDivergenceCount = 0;
   const nonDonorMoneyByName = new Map();
+  // Cross-form dedup: same TRAN_ID often appears under both Form 496
+  // (24-hour late-contribution report) and Form 460 Schedule A
+  // (periodic report) for the same filer. Without this Set, every
+  // dual-reported transaction gets counted twice. Key: filer_id|TRAN_ID.
+  // Empty TRAN_ID is rare (~older records); those still go through.
+  const seenTransactions = new Set();
 
   for await (const row of streamTSV(tablePath('RCPT_CD'), { limit: LIMIT || Infinity })) {
     rcptRows++;
@@ -247,6 +254,14 @@ function applyDonorAlias(donorName, aliasMap) {
 
     const target = filerToTarget.get(recipientFilerId);
     if (!target) { unmatched++; continue; }
+
+    // Cross-form dedup. See seenTransactions declaration above.
+    const tranId = row.TRAN_ID || '';
+    if (tranId) {
+      const tranKey = `${recipientFilerId}|${tranId}`;
+      if (seenTransactions.has(tranKey)) { droppedDuplicateTran++; continue; }
+      seenTransactions.add(tranKey);
+    }
 
     matched++;
 
@@ -320,7 +335,7 @@ function applyDonorAlias(donorName, aliasMap) {
 
   const p3secs = ((Date.now() - p3t0) / 1000).toFixed(1);
   console.log(`\n  ${rcptRows} RCPT rows scanned in ${p3secs}s`);
-  console.log(`  matched=${matched}  unmatched=${unmatched}  dropped_no_donor=${droppedNoDonor}  dropped_no_amount=${droppedNoAmount}  dropped_non_donor=${droppedNonDonor}`);
+  console.log(`  matched=${matched}  unmatched=${unmatched}  dropped_no_donor=${droppedNoDonor}  dropped_no_amount=${droppedNoAmount}  dropped_non_donor=${droppedNonDonor}  dropped_duplicate_tran=${droppedDuplicateTran}`);
   if (cycleDivergenceCount > 0) {
     console.log(`  cycle-divergence: ${cycleDivergenceCount} amended filings (used DATE_THRU instead of RCPT_DATE)`);
   }

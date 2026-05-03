@@ -118,7 +118,7 @@ fec-committee-id: C00264101
 
 *Showing 2026-cycle data only. Re-run with `--cycle all` for lifetime aggregation across mayor / Assembly / prior gov runs.*
 
-**Direct contributions** (donor → candidate-controlled committees): **$5.75M** across 5061 edges, 5061 unique donors.
+**Direct contributions** (donor → candidate-controlled committees): **$5.54M** across 5061 edges, 5061 unique donors.
 **Same-name transfers** (likely self-fund / family vehicles): **$580** across 5 record(s).
 **IE supporting** (donor → independent expenditure PAC backing this candidate): **$100.0K** across 1 PAC(s).
 
@@ -128,32 +128,32 @@ fec-committee-id: C00264101
 
 | Donor | Total | Cycles | Txns |
 |---|---:|---:|---:|
-| California State Council of Laborers PAC | $54.7K | 2026 | 1 |
-| Joseph Molina | $49.7K | 2026 | 1 |
-| Southern California District Council of Laborers PAC Small Contributor Committee | $47.0K | 2026 | 1 |
-| Tigran Martinian | $45.6K | 2026 | 1 |
-| Pechanga Band of Luiseno Indians | $44.6K | 2026 | 1 |
 | Alexandra Seros | $42.2K | 2026 | 1 |
-| Jules Buenabenta | $41.9K | 2026 | 1 |
-| Agua Caliente Band of Cahuilla Indians | $41.9K | 2026 | 1 |
 | Raul Ayala | $40.0K | 2026 | 1 |
+| Pechanga Band of Luiseno Indians | $39.2K | 2026 | 1 |
 | Altamed Health Network Inc. | $39.2K | 2026 | 1 |
+| Jules Buenabenta | $39.2K | 2026 | 1 |
 | Cindy Horn | $39.2K | 2026 | 1 |
+| California State Council of Laborers PAC | $39.2K | 2026 | 1 |
 | LCCC PAC | $39.2K | 2026 | 1 |
 | Leonard Schaeffer | $39.2K | 2026 | 1 |
 | Morgan Chu | $39.2K | 2026 | 1 |
 | Border Health Federal PAC | $39.2K | 2026 | 1 |
+| Southern California District Council of Laborers PAC Small Contributor Committee | $39.2K | 2026 | 1 |
 | Laborers Pacific Southwest Regional Organizing Coalition PAC | $39.2K | 2026 | 1 |
+| Joseph Molina | $39.2K | 2026 | 1 |
 | Northern California District Council of Laborers PAC | $39.2K | 2026 | 1 |
 | Chevron USA Inc. | $39.2K | 2026 | 1 |
 | California's Best | $39.2K | 2026 | 1 |
+| Agua Caliente Band of Cahuilla Indians | $39.2K | 2026 | 1 |
 | Alonzo Cantu | $39.2K | 2026 | 1 |
 | Kelly Ayala | $36.9K | 2026 | 1 |
-| Greyson Bryan | $28.7K | 2026 | 1 |
+| Tigran Martinian | $30.0K | 2026 | 1 |
 | Arnoldo Casillas | $25.7K | 2026 | 1 |
 | Frank Perez | $25.0K | 2026 | 1 |
 | Patrick McNicholas | $25.0K | 2026 | 1 |
-| _+5036 more donors_ | _$4.77M_ | | |
+| Tom Chavez | $25.0K | 2026 | 1 |
+| _+5036 more donors_ | _$4.62M_ | | |
 
 #### Independent expenditure PACs supporting this candidate
 
@@ -165,7 +165,7 @@ fec-committee-id: C00264101
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1394091](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1394091) · [1482190](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1482190) · [1219963](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1219963). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1394091](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1394091) · [1482190](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1482190) · [1219963](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1219963). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

@@ -66,6 +66,12 @@ data/derived/fec-pas2.jsonl
 # locally during dedup passes before regen). Ops app doesn't import it. Flagship
 # readers get data via relationships.jsonl + relationships-per-profile.json.
 data/derived/fec-indiv-by-committee.jsonl
+# ingest-cal-access-bulk.cjs output. Crossed 50MB after the cross-form
+# TRAN_ID dedup fix landed 2026-05-03 (the dedup raised the file's per-edge
+# precision and expanded it slightly past the threshold). Local derived
+# data; readers consume via relationships.jsonl + cal-access auto-blocks
+# in profiles. Regenerate by re-running ingest-cal-access-bulk.cjs.
+data/derived/cal-access-bulk.jsonl
 # ingest-plaw-bulk.cjs output, 72MB. Ops Ask API loads it at startup on David's
 # local machine; not needed in the public Quartz build.
 data/bills.jsonl

@@ -64,41 +64,41 @@ opposes: "[[Donald Trump]]"
 *Showing 2026-cycle data only. Re-run with `--cycle all` for lifetime aggregation across mayor / Assembly / prior gov runs.*
 
 **Direct contributions** (donor → candidate-controlled committees): **$0** across 0 edges, 0 unique donors.
-**IE supporting** (donor → independent expenditure PAC backing this candidate): **$53.24M** across 2 PAC(s).
+**IE supporting** (donor → independent expenditure PAC backing this candidate): **$27.32M** across 2 PAC(s).
 
 **Controlled committees:** MAHAN, MAYOR BOBBIE SINGH-ALLEN, AND DISTRICT ATTORNEY THIEN HO; COMMON SENSE FOR SAFETY, YES ON PROP. 36, A BALLOT MEASURE COMMITTEE CONTROLLED BY MAYOR MATT `1473129` · MAHAN FOR SAN JOSE CITY COUNCIL DISTRICT 10 IN 2020; NEIGHBORS FOR MATT `1417738` · MAHAN FOR MAYOR 2024; NEIGHBORS FOR MATT `1462165` · MAHAN FOR MAYOR 2022; NEIGHBORS FOR MATT `1441269`
 
 #### Independent expenditure PACs supporting this candidate
 
-**MAHAN FOR GOVERNOR 2026; CALIFORNIA BACK TO BASICS SUPPORTING MATT** — $46.74M from 46 edges
+**MAHAN FOR GOVERNOR 2026; CALIFORNIA BACK TO BASICS SUPPORTING MATT** — $24.05M from 46 edges
 
 | Donor | Amount |
 |---|---:|
-| Michael Moritz | $6.00M |
-| Govern FOR California Action Committee | $3.00M |
-| RICK Caruso AND Affiliated Entities | $3.00M |
-| Patrick Collison | $2.98M |
-| Vinod Khosla | $2.20M |
-| Ashley Merrill | $2.04M |
-| Michael Seibel | $2.00M |
-| L. JOHN Doerr, III | $2.00M |
-| Steve Huffman | $2.00M |
-| NEIL Mehta | $2.00M |
+| Michael Moritz | $3.00M |
+| Govern FOR California Action Committee | $1.50M |
+| RICK Caruso AND Affiliated Entities | $1.50M |
+| Patrick Collison | $1.49M |
+| Vinod Khosla | $1.10M |
+| Ashley Merrill | $1.02M |
+| Michael Seibel | $1.00M |
+| REED Hastings | $1.00M |
+| L. JOHN Doerr, III | $1.00M |
+| Steve Huffman | $1000.0K |
 
-**MAHAN FOR GOVERNOR 2026; DELIVER FOR CALIFORNIA - MATT** — $6.50M from 17 edges
+**MAHAN FOR GOVERNOR 2026; DELIVER FOR CALIFORNIA - MATT** — $3.27M from 17 edges
 
 | Donor | Amount |
 |---|---:|
-| Sergey BRIN | $2.00M |
-| PAUL Buchheit | $2.00M |
-| California BACK TO Basics Supporting MATT Mahan FOR Governor 2026 | $565.3K |
-| Brian Singerman | $500.0K |
-| GARY Filizetti | $480.0K |
-| Blake Byers | $200.0K |
-| Michelle Boyers | $200.0K |
-| Nicholas Pritzker | $200.0K |
-| Eugene Frantz | $100.0K |
-| TED Schlein | $90.0K |
+| Sergey BRIN | $1.00M |
+| PAUL Buchheit | $1.00M |
+| California BACK TO Basics Supporting MATT Mahan FOR Governor 2026 | $282.7K |
+| Brian Singerman | $250.0K |
+| GARY Filizetti | $240.0K |
+| Blake Byers | $100.0K |
+| Michelle Boyers | $100.0K |
+| Nicholas Pritzker | $100.0K |
+| Eugene Frantz | $50.0K |
+| TED Schlein | $45.0K |
 
 #### Where the money goes (Cal-Access expenditures)
 
@@ -140,7 +140,7 @@ opposes: "[[Donald Trump]]"
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1473129](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1473129) · [1417738](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1417738) · [1462165](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1462165). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1473129](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1473129) · [1417738](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1417738) · [1462165](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1462165). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

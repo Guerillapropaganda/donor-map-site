@@ -108,7 +108,7 @@ opposes: "[[Donald Trump]], [[CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, 
 **Direct contributions** (donor → candidate-controlled committees): **$183.7K** across 129 edges, 129 unique donors.
 **Self-funding** (candidate → own committee, excluded from "direct" as self-loop): **$133.78M** across 1 self-loop record(s).
 **Same-name transfers** (likely self-fund / family vehicles): **$350** across 1 record(s).
-**IE opposing** (donor → IE PAC running against): **$79.15M** across 2 PAC(s).
+**IE opposing** (donor → IE PAC running against): **$51.08M** across 2 PAC(s).
 
 **Controlled committees:** STEYER FOR GOVERNOR 2026 `1485077`
 
@@ -145,16 +145,16 @@ opposes: "[[Donald Trump]], [[CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, 
 
 #### Independent expenditure PACs opposing this candidate
 
-**STEYER FOR GOVERNOR 2026, A COALITION OF HOUSING ADVOCATES, LABOR AND SMALL BUSINESS; CALIFORNIA IS NOT FOR SALE, NO ON** — $63.10M from 6 edges
+**STEYER FOR GOVERNOR 2026, A COALITION OF HOUSING ADVOCATES, LABOR AND SMALL BUSINESS; CALIFORNIA IS NOT FOR SALE, NO ON** — $35.02M from 6 edges
 
 | Donor | Amount |
 |---|---:|
-| California Real Estate Independent Expenditure Committee - California Association of Realtors | $20.00M |
-| Californians for Resilient and Affordable Energy, No on Steyer for Governor 2026 | $18.00M |
 | Californians for Resilient and Affordable Energy | $16.00M |
+| Californians for Resilient and Affordable Energy, No on Steyer for Governor 2026 | $8.00M |
+| California Real Estate Independent Expenditure Committee - California Association of Realtors | $5.00M |
 | JOBSPAC, a Bi-Partisan Coalition of California Employers, Sponsored by the California Chamber of Commerce | $5.00M |
-| California Building Industry Association PAC | $4.00M |
-| California Correctional Peace Officers Association PAC | $100.0K |
+| California Building Industry Association PAC | $1.00M |
+| California Correctional Peace Officers Association PAC | $25.0K |
 
 **CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, NO ON STEYER FOR GOVERNOR 2026** — $16.05M from 3 edges
 
@@ -199,7 +199,7 @@ opposes: "[[Donald Trump]], [[CALIFORNIANS FOR RESILIENT AND AFFORDABLE ENERGY, 
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485077](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485077). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485077](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485077). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 
