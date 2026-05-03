@@ -14,7 +14,17 @@ const filesToCopy = async (argv: Argv, cfg: QuartzConfig) => {
 const copyFile = async (argv: Argv, fp: FilePath) => {
   const src = joinSegments(argv.directory, fp) as FilePath
 
-  const name = slugifyFilePath(fp)
+  // Preserve .html extension for static HTML pages dropped into content/.
+  // The default slugifyFilePath strips .html (quartz/util/path.ts line 76:
+  // .html is in the strip list alongside .md), which produces files like
+  // public/three-becerras/index (no extension) that GitHub Pages cannot
+  // serve. Donor Map ships beat-page prototypes as static HTML inside
+  // content/<slug>/index.html — the static-HTML approach exists because
+  // markdown's rehype sanitizer escapes SVG <text> and <g> elements, and
+  // the beat pages are SVG-heavy. Preserving the raw path for .html files
+  // makes those pages reachable at /<slug>/.
+  const ext = path.extname(fp)
+  const name = ext === ".html" ? (fp as string) : slugifyFilePath(fp)
   const dest = joinSegments(argv.output, name) as FilePath
 
   // ensure dir exists
