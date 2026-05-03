@@ -2,22 +2,25 @@
 
 import { useEffect, useState, useRef } from "react"
 import Link from "next/link"
-import { useParams, useRouter } from "next/navigation"
+import { useParams } from "next/navigation"
 
 /**
- * Live + local editor for beat-page source.
+ * Live + local WYSIWYG editor for beat-page source.
  *
- * Workflow:
- *   1. Loads the prototype HTML file via GET /api/beat-source?slug=X
- *   2. Renders it in a monospace textarea so David can rewrite
- *      sections / fix typos / restructure
- *   3. "Save" button — POST /api/beat-source?slug=X — writes file
- *      locally (LIVE on localhost:8096, but NOT yet deployed)
- *   4. "Publish" button — POST /api/beat-source/publish?slug=X —
- *      git add + commit + push, triggers GitHub Actions deploy
+ * Renders the prototype HTML inside an iframe (via srcdoc) with an
+ * injected editor script that makes the article-header and
+ * article-body contenteditable. David clicks any prose text and
+ * types — same-origin postMessage extracts the modified HTML back
+ * to the parent for saving.
  *
- * Two-step model so David can iterate freely without spam-deploying
- * every keystroke. Save = local visible. Publish = goes live in 3-4min.
+ * SAVE writes the file locally (visible at localhost:8096 immediately,
+ * but NOT yet deployed). PUBLISH commits + pushes (deploys via
+ * GitHub Actions in ~3-4 min).
+ *
+ * What's editable: anything inside .article-header-inner or
+ * .article-body-inner (h1, deck, body prose, sources, methodology,
+ * tip box). What's NOT editable: nav, hero SVG, footer, page
+ * structure. Edit the raw HTML for those via the source toggle.
  */
 
 interface SourceState {
@@ -30,20 +33,94 @@ interface SourceState {
   loadedAt: string
 }
 
+// Script injected into the iframe to enable contenteditable + postMessage
+const EDITOR_INIT_SCRIPT = `
+<script>
+(function() {
+  // Make the article header + body editable. Leave nav, hero SVG, footer alone.
+  const editable = document.querySelectorAll(
+    '.article-header-inner, .article-body-inner'
+  );
+  editable.forEach(el => {
+    el.setAttribute('contenteditable', 'true');
+    el.style.outline = 'none';
+  });
+
+  // Visual hint: hovering an editable region gets a subtle highlight.
+  const style = document.createElement('style');
+  style.textContent = \`
+    [contenteditable="true"]:hover {
+      outline: 1px dashed rgba(29,78,216,0.4) !important;
+      outline-offset: 4px !important;
+    }
+    [contenteditable="true"]:focus {
+      outline: 2px solid #1d4ed8 !important;
+      outline-offset: 4px !important;
+    }
+  \`;
+  document.head.appendChild(style);
+
+  // Track dirty state — emit on first input.
+  let dirty = false;
+  document.addEventListener('input', () => {
+    if (!dirty) {
+      dirty = true;
+      window.parent.postMessage({type: 'BEAT_EDITOR_DIRTY'}, '*');
+    }
+  });
+
+  // Listen for parent commands.
+  window.addEventListener('message', (e) => {
+    if (!e.data || typeof e.data !== 'object') return;
+    if (e.data.type === 'BEAT_EDITOR_GET_HTML') {
+      // Strip contenteditable attr + injected script + style before returning
+      const clone = document.documentElement.cloneNode(true);
+      const editables = clone.querySelectorAll('[contenteditable]');
+      editables.forEach(el => el.removeAttribute('contenteditable'));
+      // Remove ALL style elements added by editor (they were appended last,
+      // so the last style element is ours). Match by content sentinel.
+      const styles = clone.querySelectorAll('style');
+      styles.forEach(s => {
+        if (s.textContent && s.textContent.indexOf('contenteditable') !== -1) {
+          s.remove();
+        }
+      });
+      // Remove the editor init script (the last <script> in <body>)
+      const scripts = clone.querySelectorAll('script');
+      scripts.forEach(s => {
+        if (s.textContent && s.textContent.indexOf('BEAT_EDITOR_GET_HTML') !== -1) {
+          s.remove();
+        }
+      });
+      const html = '<!DOCTYPE html>\\n' + clone.outerHTML;
+      e.source.postMessage({type: 'BEAT_EDITOR_HTML', html: html}, '*');
+    }
+    if (e.data.type === 'BEAT_EDITOR_RESET_DIRTY') {
+      dirty = false;
+    }
+  });
+
+  // Tell parent we're ready.
+  window.parent.postMessage({type: 'BEAT_EDITOR_READY'}, '*');
+})();
+</script>
+`
+
 export default function EditBeatSourcePage() {
   const params = useParams()
-  const router = useRouter()
   const slug = String(params?.slug ?? "")
 
   const [state, setState] = useState<SourceState | null>(null)
-  const [edited, setEdited] = useState<string>("")
+  const [iframeSrcDoc, setIframeSrcDoc] = useState<string>("")
   const [loading, setLoading] = useState(true)
   const [saving, setSaving] = useState(false)
   const [publishing, setPublishing] = useState(false)
   const [status, setStatus] = useState<string>("")
   const [error, setError] = useState<string>("")
   const [dirty, setDirty] = useState(false)
-  const textareaRef = useRef<HTMLTextAreaElement>(null)
+  const [showSource, setShowSource] = useState(false)
+  const [rawSource, setRawSource] = useState<string>("")
+  const iframeRef = useRef<HTMLIFrameElement>(null)
 
   // ───── Load source ─────
   useEffect(() => {
@@ -67,7 +144,13 @@ export default function EditBeatSourcePage() {
           lastModified: data.lastModified,
           loadedAt: new Date().toISOString(),
         })
-        setEdited(data.source)
+        setRawSource(data.source)
+        // Inject editor init script before </body>
+        const injected = data.source.replace(
+          /<\/body>/i,
+          EDITOR_INIT_SCRIPT + "\n</body>",
+        )
+        setIframeSrcDoc(injected)
         setLoading(false)
       })
       .catch((e) => {
@@ -76,6 +159,42 @@ export default function EditBeatSourcePage() {
       })
   }, [slug])
 
+  // ───── Listen for messages from iframe ─────
+  useEffect(() => {
+    function onMessage(e: MessageEvent) {
+      if (!e.data || typeof e.data !== "object") return
+      if (e.data.type === "BEAT_EDITOR_DIRTY") {
+        setDirty(true)
+      }
+    }
+    window.addEventListener("message", onMessage)
+    return () => window.removeEventListener("message", onMessage)
+  }, [])
+
+  // ───── Get current HTML from iframe (Promise wrapper) ─────
+  function getCurrentHtmlFromIframe(): Promise<string> {
+    return new Promise((resolve, reject) => {
+      const iframe = iframeRef.current
+      if (!iframe || !iframe.contentWindow) {
+        reject(new Error("iframe not ready"))
+        return
+      }
+      const timeout = setTimeout(() => {
+        window.removeEventListener("message", handler)
+        reject(new Error("iframe did not respond within 3s"))
+      }, 3000)
+      function handler(e: MessageEvent) {
+        if (e.data && e.data.type === "BEAT_EDITOR_HTML" && typeof e.data.html === "string") {
+          clearTimeout(timeout)
+          window.removeEventListener("message", handler)
+          resolve(e.data.html)
+        }
+      }
+      window.addEventListener("message", handler)
+      iframe.contentWindow.postMessage({ type: "BEAT_EDITOR_GET_HTML" }, "*")
+    })
+  }
+
   // ───── Save handler ─────
   async function save() {
     if (!state) return
@@ -83,19 +202,30 @@ export default function EditBeatSourcePage() {
     setStatus("")
     setError("")
     try {
+      // Get the current HTML from the iframe (reflects all WYSIWYG edits)
+      const sourceToSave = showSource ? rawSource : await getCurrentHtmlFromIframe()
       const res = await fetch(`/api/beat-source?slug=${encodeURIComponent(slug)}`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ source: edited }),
+        body: JSON.stringify({ source: sourceToSave }),
       })
       if (!res.ok) {
         const err = await res.json().catch(() => ({ error: "save failed" }))
         throw new Error(err.error || `HTTP ${res.status}`)
       }
       const data = await res.json()
-      setState((s) => (s ? { ...s, source: edited, bytes: edited.length, lastModified: data.savedAt } : s))
+      setState((s) =>
+        s ? { ...s, source: sourceToSave, bytes: sourceToSave.length, lastModified: data.savedAt } : s,
+      )
+      setRawSource(sourceToSave)
       setDirty(false)
-      setStatus(`Saved (${data.bytes.toLocaleString()} bytes) → ${data.files.length} files updated locally. Refresh prototype/8096 to see changes.`)
+      // Tell iframe to reset its dirty flag.
+      if (iframeRef.current?.contentWindow) {
+        iframeRef.current.contentWindow.postMessage({ type: "BEAT_EDITOR_RESET_DIRTY" }, "*")
+      }
+      setStatus(
+        `Saved (${data.bytes.toLocaleString()} bytes) → ${data.files.length} files updated locally. Refresh prototype/8096 to verify.`,
+      )
     } catch (e: any) {
       setError(`Save failed: ${e.message || e}`)
     } finally {
@@ -110,7 +240,11 @@ export default function EditBeatSourcePage() {
       setError("You have unsaved changes. Save first, then publish.")
       return
     }
-    if (!confirm(`Publish ${slug} to live site? This commits + pushes to origin/v4 and deploys via GitHub Actions in ~3-4 min.`)) {
+    if (
+      !confirm(
+        `Publish ${slug} to live site? This commits + pushes to origin/v4 and deploys via GitHub Actions in ~3-4 min.`,
+      )
+    ) {
       return
     }
     setPublishing(true)
@@ -139,26 +273,23 @@ export default function EditBeatSourcePage() {
     }
   }
 
-  // ───── Section jump (parse h2/h1 from edited content) ─────
-  const sections = (() => {
-    const matches: { label: string; pos: number }[] = []
-    const regex = /<h([12])[^>]*>([\s\S]*?)<\/h\1>/gi
-    let m
-    while ((m = regex.exec(edited)) !== null) {
-      const text = m[2].replace(/<[^>]+>/g, "").trim()
-      if (text) matches.push({ label: text.slice(0, 80), pos: m.index })
+  // ───── Toggle source view ─────
+  async function toggleSourceView() {
+    if (!showSource) {
+      // Switching FROM wysiwyg TO source — pull current HTML from iframe
+      try {
+        const html = await getCurrentHtmlFromIframe()
+        setRawSource(html)
+        setShowSource(true)
+      } catch (e: any) {
+        setError(`Could not extract HTML: ${e.message || e}`)
+      }
+    } else {
+      // Switching FROM source TO wysiwyg — re-inject and reload iframe
+      const injected = rawSource.replace(/<\/body>/i, EDITOR_INIT_SCRIPT + "\n</body>")
+      setIframeSrcDoc(injected)
+      setShowSource(false)
     }
-    return matches.slice(0, 30)
-  })()
-
-  function jumpTo(pos: number) {
-    if (!textareaRef.current) return
-    textareaRef.current.focus()
-    textareaRef.current.setSelectionRange(pos, pos)
-    // Scroll: rough heuristic via text height
-    const lineHeight = 18
-    const linesBefore = edited.slice(0, pos).split("\n").length
-    textareaRef.current.scrollTop = (linesBefore - 5) * lineHeight
   }
 
   // ───── Render ─────
@@ -184,14 +315,25 @@ export default function EditBeatSourcePage() {
   }
 
   return (
-    <div style={{ padding: 16, height: "calc(100vh - 32px)", display: "flex", flexDirection: "column", gap: 12 }}>
+    <div
+      style={{
+        padding: 16,
+        height: "calc(100vh - 32px)",
+        display: "flex",
+        flexDirection: "column",
+        gap: 12,
+      }}
+    >
       {/* Header */}
       <div style={{ display: "flex", alignItems: "center", gap: 16, flexWrap: "wrap" }}>
-        <Link href={`/active-beat/${slug}`} style={{ color: "#1d4ed8", fontWeight: 700, fontSize: 13 }}>
+        <Link
+          href={`/active-beat/${slug}`}
+          style={{ color: "#1d4ed8", fontWeight: 700, fontSize: 13 }}
+        >
           ← /active-beat/{slug}
         </Link>
         <h1 style={{ margin: 0, fontSize: 18, fontWeight: 800 }}>
-          Edit Source · {slug}
+          Edit · {slug}
         </h1>
         <code style={{ fontSize: 11, color: "var(--color-text-muted)" }}>
           {state?.prototype.split(/[\\/]/).slice(-2).join("/")}
@@ -201,6 +343,19 @@ export default function EditBeatSourcePage() {
             UNSAVED
           </span>
         )}
+        <span style={{ flex: 1 }} />
+        <span
+          style={{
+            fontSize: 11,
+            color: "var(--color-text-muted)",
+            background: "rgba(29, 78, 216, 0.12)",
+            border: "1px solid #1d4ed8",
+            padding: "3px 8px",
+            fontStyle: "italic",
+          }}
+        >
+          Click any prose to edit. SVG hero + nav + footer are not editable here.
+        </span>
       </div>
 
       {/* Toolbar */}
@@ -240,6 +395,22 @@ export default function EditBeatSourcePage() {
         >
           {publishing ? "PUBLISHING..." : "PUBLISH LIVE"}
         </button>
+        <button
+          onClick={toggleSourceView}
+          style={{
+            padding: "8px 14px",
+            background: showSource ? "#fbbf24" : "#1f2937",
+            color: showSource ? "#0a0a0a" : "#fff",
+            fontWeight: 700,
+            border: "1px solid #374151",
+            cursor: "pointer",
+            fontSize: 12,
+            letterSpacing: 1,
+          }}
+          title="Toggle between rendered preview and raw HTML"
+        >
+          {showSource ? "WYSIWYG" : "SOURCE"}
+        </button>
         <a
           href={`http://localhost:8096/${slug === "index" ? "home" : slug}`}
           target="_blank"
@@ -255,7 +426,7 @@ export default function EditBeatSourcePage() {
             border: "1px solid #374151",
           }}
         >
-          Preview prototype ↗
+          Prototype ↗
         </a>
         <a
           href={`https://thedonormap.org/${slug === "index" ? "" : slug + "/"}`}
@@ -274,10 +445,6 @@ export default function EditBeatSourcePage() {
         >
           Live ↗
         </a>
-        <span style={{ flex: 1 }} />
-        <span style={{ fontSize: 11, color: "var(--color-text-muted)", fontFamily: "monospace" }}>
-          {edited.length.toLocaleString()} bytes · {edited.split("\n").length} lines
-        </span>
       </div>
 
       {/* Status / error strip */}
@@ -308,79 +475,20 @@ export default function EditBeatSourcePage() {
         </div>
       )}
 
-      {/* Main editor area: section jumper + textarea */}
-      <div style={{ display: "grid", gridTemplateColumns: "220px 1fr", gap: 12, flex: 1, minHeight: 0 }}>
-        {/* Section jumper */}
-        <div
-          style={{
-            background: "var(--color-bg-secondary)",
-            border: "1px solid var(--color-border)",
-            padding: 12,
-            overflowY: "auto",
-            fontSize: 12,
-          }}
-        >
-          <div
-            style={{
-              fontFamily: "monospace",
-              fontSize: 10,
-              fontWeight: 700,
-              letterSpacing: 2,
-              color: "var(--color-text-muted)",
-              marginBottom: 8,
-            }}
-          >
-            JUMP TO SECTION
-          </div>
-          {sections.length === 0 ? (
-            <div style={{ color: "var(--color-text-muted)", fontStyle: "italic" }}>
-              (no h1 / h2 found)
-            </div>
-          ) : (
-            <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
-              {sections.map((s, i) => (
-                <button
-                  key={i}
-                  onClick={() => jumpTo(s.pos)}
-                  style={{
-                    textAlign: "left",
-                    background: "transparent",
-                    border: "none",
-                    color: "var(--color-text)",
-                    cursor: "pointer",
-                    fontSize: 12,
-                    padding: "4px 0",
-                    borderBottom: "1px dotted var(--color-border)",
-                    fontFamily: "inherit",
-                    lineHeight: 1.3,
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.color = "#1d4ed8"
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.color = "var(--color-text)"
-                  }}
-                >
-                  {s.label}
-                </button>
-              ))}
-            </div>
-          )}
-        </div>
-
-        {/* Textarea */}
+      {/* Main area: WYSIWYG iframe OR raw HTML textarea */}
+      {showSource ? (
         <textarea
-          ref={textareaRef}
-          value={edited}
+          value={rawSource}
           onChange={(e) => {
-            setEdited(e.target.value)
+            setRawSource(e.target.value)
             setDirty(e.target.value !== state?.source)
             setStatus("")
           }}
           spellCheck={false}
           style={{
             width: "100%",
-            height: "100%",
+            flex: 1,
+            minHeight: 0,
             fontFamily: "'Cascadia Code', 'Consolas', 'Courier New', monospace",
             fontSize: 13,
             lineHeight: 1.5,
@@ -392,30 +500,21 @@ export default function EditBeatSourcePage() {
             outline: "none",
             tabSize: 2,
           }}
-          onKeyDown={(e) => {
-            // Cmd/Ctrl+S → save
-            if ((e.metaKey || e.ctrlKey) && e.key === "s") {
-              e.preventDefault()
-              if (dirty && !saving) save()
-            }
-            // Tab → insert tab (default behavior loses focus)
-            if (e.key === "Tab") {
-              e.preventDefault()
-              const ta = textareaRef.current
-              if (!ta) return
-              const start = ta.selectionStart
-              const end = ta.selectionEnd
-              const newValue = edited.slice(0, start) + "  " + edited.slice(end)
-              setEdited(newValue)
-              setDirty(true)
-              // restore caret
-              setTimeout(() => {
-                if (ta) ta.setSelectionRange(start + 2, start + 2)
-              }, 0)
-            }
+        />
+      ) : (
+        <iframe
+          ref={iframeRef}
+          srcDoc={iframeSrcDoc}
+          sandbox="allow-same-origin allow-scripts"
+          style={{
+            width: "100%",
+            flex: 1,
+            minHeight: 0,
+            border: "1px solid var(--color-border)",
+            background: "#fff",
           }}
         />
-      </div>
+      )}
     </div>
   )
 }
