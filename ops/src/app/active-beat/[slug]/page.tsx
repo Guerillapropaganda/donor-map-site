@@ -72,6 +72,7 @@ export default function BeatWorkspacePage({ params }: PageProps) {
       <Section title="Artifacts">
         <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: "12px" }}>
           <ArtifactCard label="Beat page" sub={`prototype/${beat.prototypeFile}`} href={beat.prototypeUrl} external />
+          <ArtifactCard label="Edit source ✎" sub={`live + local editor for prototype/${beat.prototypeFile}`} href={`/active-beat/${beat.slug}/edit`} />
           {beat.donorListUrl && beat.donorListFile && (
             <ArtifactCard label="Donor list (companion)" sub={`prototype/${beat.donorListFile}`} href={beat.donorListUrl} external />
           )}
