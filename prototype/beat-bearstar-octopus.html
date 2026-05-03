@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>One shop. Three IEs. The Bearstar machine. · The Donor Map</title>
+<meta name="description" content="Bearstar Strategies has been on three independent expenditures in the same 2026 California governor's primary. Pro-Swalwell. Anti-Steyer. Pro-Becerra. The political-consulting infrastructure running both sides of the race, with one architect under federal indictment.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* ─── Hero arrow animation (brutalist motion) ─── */
+@keyframes daisy-arrow-pulse {
+  0%   { stroke-dashoffset: 200; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.25; stroke-width: 2; }
+}
+@keyframes target-arrow-pulse {
+  0%   { stroke-dashoffset: 100; opacity: 0; }
+  60%  { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0.6; }
+}
+.daisy-arrow {
+  stroke-dasharray: 200;
+  animation: daisy-arrow-pulse 3.6s ease-in-out infinite;
+}
+.daisy-arrow-1 { animation-delay: 0s; }
+.daisy-arrow-2 { animation-delay: 0.25s; }
+.daisy-arrow-3 { animation-delay: 0.5s; }
+.daisy-arrow-4 { animation-delay: 0.75s; }
+.daisy-arrow-5 { animation-delay: 1s; }
+.target-arrow {
+  stroke-dasharray: 100;
+  animation: target-arrow-pulse 3.6s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .daisy-arrow, .target-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat { display: flex; align-items: stretch; margin: 56px 0 0; border: 3px solid var(--black); background: var(--paper); }
+.tip-box-beat-stripes { flex: 0 0 28px; background: repeating-linear-gradient(135deg, var(--yellow) 0, var(--yellow) 12px, var(--black) 12px, var(--black) 24px); }
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 14px; }
+.tip-box-beat-headline { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 8px; }
+.tip-box-beat-headline em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.tip-box-beat-desc { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.45; color: var(--muted); margin-bottom: 14px; }
+.tip-box-beat-row { display: grid; grid-template-columns: 110px 1fr; gap: 14px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); align-self: start; padding-top: 2px; }
+.tip-box-beat-value { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink); }
+.tip-box-beat-value a { color: var(--blue); text-decoration: none; border-bottom: 1px solid currentColor; }
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
+@media (max-width: 600px) { .tip-box-beat-stripes { flex-basis: 18px; } .tip-box-beat-body { padding: 18px 18px; } .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; } }
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>Bearstar Octopus</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Draft May 2, 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>One shop. Three IEs. <span class="h-red">The Newsom-orbit machine.</span></h1>
+    <p class="deck">
+      Bearstar Strategies has been on three independent expenditures in the same 2026 California governor's primary. Pro-Swalwell. Anti-Steyer. Pro-Becerra. Polaris Campaigns took $13.78 million from the anti-Steyer side. The senior architect of their consulting hub was indicted on federal fraud charges four months before the launch. The Cal-Access expenditure files tell the story the candidate webpages don't.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">Bearstar Strategies · three independent expenditures · same 2026 California governor primary</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Diagram showing Bearstar Strategies operating three different independent expenditure committees in the same 2026 California governor primary">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+        <marker id="arrow-rd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946"/>
+        </marker>
+      </defs>
+
+      <!-- CENTER: Bearstar -->
+      <rect x="370" y="190" width="260" height="100" fill="#0a0a0a"/>
+      <text x="500" y="222" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="900" fill="#fbbf24" letter-spacing="-0.5">BEARSTAR STRATEGIES</text>
+      <text x="500" y="244" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="2">SAN FRANCISCO · NEWSOM ORBIT</text>
+      <text x="500" y="262" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#aaa">Smith · Clegg · Rodriguez · DeBoo</text>
+      <text x="500" y="278" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#aaa">CA SOS #1998426</text>
+
+      <!-- RIGHT TOP: Pro-Swalwell IE -->
+      <rect x="680" y="60" width="200" height="100" fill="#475569" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="780" y="86" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#fff">MARCH 2026</text>
+      <text x="780" y="108" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">PRO-SWALWELL IE</text>
+      <text x="780" y="128" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">launched · TV ads</text>
+      <text x="780" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="10" fill="#fbbf24">DISSOLVED · refunded donors</text>
+
+      <!-- RIGHT MIDDLE: Anti-Steyer IE -->
+      <rect x="680" y="190" width="200" height="100" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="780" y="216" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#fff">APRIL 2026</text>
+      <text x="780" y="238" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">ANTI-STEYER IE · #1489677</text>
+      <text x="780" y="256" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">$49,800 paid Apr 1</text>
+      <text x="780" y="274" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="10" fill="#fff">"Digital Media · Oppose Steyer"</text>
+
+      <!-- RIGHT BOTTOM: Pro-Becerra IE -->
+      <rect x="680" y="320" width="200" height="100" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="780" y="346" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#0a0a0a">MAY 2026</text>
+      <text x="780" y="368" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="1">PRO-BECERRA IE</text>
+      <text x="780" y="386" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">launched May 1</text>
+      <text x="780" y="404" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="10" fill="#0a0a0a">KCRA: "controversial"</text>
+
+      <!-- THREE ARMS: Bearstar to each IE -->
+      <line class="daisy-arrow daisy-arrow-1" x1="630" y1="220" x2="680" y2="110" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="daisy-arrow daisy-arrow-2" x1="630" y1="240" x2="680" y2="240" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="daisy-arrow daisy-arrow-3" x1="630" y1="260" x2="680" y2="370" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+
+      <!-- LEFT TOP: Polaris Campaigns (the $13.78M digital vendor) -->
+      <rect x="40" y="60" width="280" height="100" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="180" y="86" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#0a0a0a">POLARIS CAMPAIGNS</text>
+      <text x="180" y="108" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="1">$13,782,095</text>
+      <text x="180" y="124" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">to anti-Steyer IE</text>
+      <text x="180" y="140" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">5 EXPN_CD payments</text>
+      <text x="180" y="156" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#0a0a0a">also: $50.87M Newsom Prop 50</text>
+
+      <!-- LEFT BOTTOM: Williamson indictment context -->
+      <rect x="40" y="320" width="280" height="100" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="180" y="346" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#fff">NOV 2025 · INDICTMENT</text>
+      <text x="180" y="366" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">DANA WILLIAMSON · 23 COUNTS</text>
+      <text x="180" y="384" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">Newsom former chief of staff</text>
+      <text x="180" y="402" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#fff">Collaborative architect · DeBoo + Clegg</text>
+
+      <!-- LEFT arrows into Bearstar -->
+      <line x1="320" y1="110" x2="370" y2="220" stroke="#0a0a0a" stroke-width="1" stroke-dasharray="4 4"/>
+      <line x1="320" y1="370" x2="370" y2="260" stroke="#e63946" stroke-width="1" stroke-dasharray="4 4"/>
+
+      <!-- Annotations -->
+      <text x="450" y="448" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="13" fill="#333">Politico · Sacramento Bee · LA Times · KCRA · Cal-Access EXPN_CD primary verified May 2, 2026</text>
+    </svg>
+    <p class="viz-caption">
+      Bearstar at the center. Three IE arms reaching to three candidates in the same primary. Polaris Campaigns as the $13.78 million paid vendor on the anti-Steyer side. Williamson under federal indictment for billing Becerra's dormant campaign account, four months before Bearstar launches the pro-Becerra IE.
+    </p>
+  </div>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>The protagonist of this beat is not a candidate.</strong> It is a political-consulting firm. Bearstar Strategies, Inc., the San Francisco shop built around Ace Smith, Sean Clegg, Juan Rodriguez, and Newsom's former chief of staff Jim DeBoo, has been on three different independent expenditure committees in the same 2026 California governor's primary. Pro-Eric Swalwell in early March. Anti-Tom Steyer in April. Pro-Xavier Becerra in May. The same firm. The same Newsom-orbit address book. The same architecture, applied to whichever candidate the donor class is investing in that month.
+    </p>
+
+    <p>
+      The single largest paid vendor on the anti-Steyer side, Polaris Campaigns, took <strong>$13,782,095</strong> from committee 1489677 across five Cal-Access EXPN_CD line items in March and April 2026. The same firm took $50,870,203 from Newsom's Yes-on-Proposition-50 redistricting committee in 2025: the largest single payee on that campaign.
+    </p>
+
+    <p>
+      And the senior architect of the Democratic public-affairs hub these consultants belong to, "The Collaborative" co-architect Dana Williamson, was indicted on <strong>23 federal counts</strong> in November 2025 for billing Xavier Becerra's dormant state campaign account for fabricated consulting services. KCRA-TV reported on May 1, 2026 that Bearstar's launch of the pro-Becerra IE was notable specifically because, as KCRA put it, "some of the same consultants now connected with Bearstar were previously linked with a group tied with that case."
+    </p>
+
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
+      This beat sits alongside two other 2026 California Governor primary investigations. <a href="/class-traitor" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">$31 million to bury a class traitor</a> documents the donor coalition spending against Tom Steyer that this consulting firm runs. <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">Three Becerras</a> documents the candidate the same firm now backs through an IE on the other side of the same race. This page documents the firm itself, in the structure that connects them.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#three-ies">Three IEs in one primary</a></li>
+        <li><a href="#polaris">Polaris Campaigns: the $13.78 million paid vendor</a></li>
+        <li><a href="#deboo">Jim DeBoo and the Newsom-orbit network</a></li>
+        <li><a href="#bocc">"Business owners and concerned citizens" was placeholder</a></li>
+        <li><a href="#williamson">The Williamson indictment, four months earlier</a></li>
+        <li><a href="#collaborative">The Collaborative</a></li>
+        <li><a href="#structure">Why this is the structure of the race</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="three-ies">Three IEs in one primary</h2>
+
+    <p>
+      Bearstar Strategies, Inc. (CA SOS document number 1998426, registered January 15, 1997, principal address 131 Stillman Street, San Francisco, formerly SCN Public Relations and SCRB Strategies) is the political-consulting firm most closely associated with Gavin Newsom's political career. Its named partners are Averell "Ace" Smith (CEO and Registered Agent), Juan V. Rodriguez (CFO and Director), and Sean Clegg (Secretary). Jim DeBoo, Newsom's former chief of staff, is closely associated through The Collaborative consulting hub but operates under his own entity, DeBoo Communications.
+    </p>
+
+    <p>
+      Across the 2026 California Democratic gubernatorial primary, Bearstar has been on three independent expenditures in sequence:
+    </p>
+
+    <div class="receipts-block">
+      <h3>Bearstar's three IEs in one race</h3>
+      <div class="desc">Politico California Playbook April 17, 2026; KSFO/KCRA May 1, 2026; Cal-Access EXPN_CD primary extraction May 2, 2026</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>IE committee</th>
+            <th style="text-align: right;">Bearstar role</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">Pro-Eric Swalwell IE</span>
+              <span class="class-tag">launched early March 2026 with statewide TV ads · dissolved after Swalwell's exit · refunded donors</span>
+            </td>
+            <td class="num">organizing shop</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">California Is Not For Sale (anti-Steyer) · FPPC #1489677</span>
+              <span class="class-tag">$49,800 paid April 1, 2026 · "Digital Media/Oppose/Tom Steyer/Governor/Statewide" · Cal-Access EXPN_CD filing 3138008 VERIFIED</span>
+            </td>
+            <td class="num">paid vendor</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Pro-Xavier Becerra IE</span>
+              <span class="class-tag">launched May 1, 2026 · KCRA-TV: "controversial political consulting firm backing Xavier Becerra"</span>
+            </td>
+            <td class="num">organizing shop</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The pivot from pro-Swalwell to anti-Steyer and pro-Becerra was operational, not ideological. Politico California Playbook reported on April 17, 2026 that "Bearstar was behind an outside pro-Swalwell super PAC that launched in early March with TV ads." The same Politico Playbook noted in the same dispatch that Bearstar was "involved in a related super PAC created to oppose rival candidate Tom Steyer, an effort led by Jim DeBoo." When Swalwell exited the race after sexual-misconduct allegations, the pro-Swalwell IE dissolved and refunded donors. The anti-Steyer committee continued. Bearstar then launched the pro-Becerra IE on May 1.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="polaris">Polaris Campaigns: the $13.78 million paid vendor</h2>
+
+    <p>
+      The single largest paid vendor on the anti-Steyer committee's expenditure file is not Bearstar. It is <strong>Polaris Campaigns, Inc.</strong>, the Washington-DC-based media firm founded by Tom Pino. Polaris took <strong>$13,782,095</strong> from committee 1489677 across five Cal-Access EXPN_CD line items, every one filed under the description "Digital Media/Oppose/Tom Steyer/Governor/Statewide":
+    </p>
+
+    <div class="receipts-block">
+      <h3>Polaris Campaigns payments from anti-Steyer committee 1489677</h3>
+      <div class="desc">Cal-Access EXPN_CD primary extraction · committee 1489677 · May 2, 2026 snapshot</div>
+      <table class="receipts-table">
+        <thead><tr><th>Date</th><th style="text-align: right;">Amount</th></tr></thead>
+        <tbody>
+          <tr><td>March 31, 2026</td><td class="num">$3,000,000</td></tr>
+          <tr><td>April 3, 2026</td><td class="num">$117,483</td></tr>
+          <tr><td>April 6, 2026</td><td class="num">$2,356,525</td></tr>
+          <tr><td>April 13, 2026</td><td class="num">$4,500,000</td></tr>
+          <tr><td>April 17, 2026</td><td class="num">$3,808,087</td></tr>
+          <tr class="total"><td>Five-payment cumulative</td><td class="num">$13,782,095</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Polaris's other major 2026 California work was the Yes-on-Proposition-50 redistricting committee (FPPC #1380675, sponsored by Governor Newsom), where Polaris received <strong>$50,870,203</strong>: the largest single payee on the campaign that passed Prop 50 with 64 percent statewide support. Bearstar served as Creative and Production affiliate on the same Prop 50 campaign while Polaris handled media buying. Per Campaigns &amp; Elections' 2026 Reed Awards listing, this was a confirmed coordinated relationship between the two firms on the Newsom-orbit redistricting effort.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="deboo">Jim DeBoo and the Newsom-orbit network</h2>
+
+    <p>
+      Jim DeBoo, who served as Governor Gavin Newsom's chief of staff, is identified across multiple named publications as the lead on the anti-Steyer committee effort:
+    </p>
+
+    <ul>
+      <li><strong>Politico California Playbook</strong>, April 17, 2026: DeBoo "led" the anti-Steyer PAC effort.</li>
+      <li><strong>Sacramento Bee</strong>, April 20-21, 2026 (Lia Russell): DeBoo described as "leading the California Is Not For Sale anti-Steyer super PAC."</li>
+      <li><strong>LA Times</strong>, April 17, 2026: confirms Bearstar provides "media consulting to a committee running attack advertisements against environmentalist Tom Steyer" and that DeBoo "is helping on the anti-Steyer committee."</li>
+    </ul>
+
+    <p>
+      DeBoo does not appear on Bearstar's CA Secretary of State officer filings; he operates under DeBoo Communications. Under the No-on-33 ballot-measure coalition (sponsored by the California Apartment Association in 2024), DeBoo Communications received $225,000 while Bearstar Strategies received $598,019.89, per public Yes-on-33 documentation.
+    </p>
+
+    <p>
+      Other Bearstar partners on the 2025-2026 California work include <strong>Juan Rodriguez</strong>, who carried a separate documented related-party conflict: Consumer Watchdog reported on January 13, 2026 that Rodriguez held the media and consulting contract for Uber's anti-contingency-fee ballot initiative while engaged to Ramona Prieto, Uber's Head of Public Policy and Communications for the Western Region. Consumer Watchdog asked Uber's CEO and board to flag the related-party SEC disclosure obligation.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="bocc">"Business owners and concerned citizens" was placeholder</h2>
+
+    <p>
+      The anti-Steyer committee originally registered on <strong>March 27, 2026</strong> under a different name: "Californians for the People, sponsored by business owners and concerned citizens." Three days later, on March 30, an amended Form 410 changed the name to "California is Not for Sale, No on Steyer for Governor 2026, a Coalition of Housing Advocates, Labor and Small Business." Same FPPC ID. Same treasurer. Same Sacramento address.
+    </p>
+
+    <p>
+      Capitol Weekly reported on April 28-29, 2026 that the committee's only listed phone number routes to its treasurer firm, <strong>Deane &amp; Company</strong>, which declined to comment on the committee. Deane &amp; Company's president is Shawnda Deane, who previously served as treasurer for Tom Steyer's own Need to Impeach PAC, per Capital Research Center 2019 reporting. The Form 410 treasurer-of-record is <strong>Laiza Negrete</strong>, VP of Political Affairs for the California Association of Realtors. Negrete previously worked at Deane &amp; Company, creating an organizational link between the two entities. CAR is the committee's $5 million direct funder.
+    </p>
+
+    <p>
+      The committee's public spokesperson is <strong>Amelia Matier</strong>, a Bay Area Democratic strategist who has worked on multiple California ballot measure and candidate campaigns including as spokesperson for the 2024 Yes-on-Proposition-5 affordable housing bond and the 2022 No-on-Proposition-30 campaign.
+    </p>
+
+    <p>
+      The "business owners and concerned citizens" language was generic Form 410 placeholder, common in California practice when a committee is registered before its principal funder coalition is finalized. The actual organizational structure (DeBoo organizing, Bearstar consulting, Matier as spokesperson, Deane &amp; Company on treasury, Negrete as the Form 410 signatory bridging CAR and the treasurer firm) is consistent across the named-publication record. The "Coalition of Housing Advocates, Labor and Small Business" disclaimer language, like the original placeholder, is itself a soft-focus description: the committee's actual top funders are a utility giant (PG&amp;E), the state's largest real-estate trade association (CAR), the California Chamber's IE arm (JOBSPAC), the homebuilders (CBIA), and a prison-guard union (CCPOA).
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="williamson">The Williamson indictment, four months earlier</h2>
+
+    <p>
+      In November 2025, four months before the anti-Steyer committee was registered, the LA Times (November 13, 2025) reported a federal indictment against <strong>Dana Williamson</strong>, Newsom's former chief of staff and the architect of the political-consulting hub known as "The Collaborative." Williamson was charged on <strong>23 federal counts</strong> including bank fraud, tax fraud, and conspiracy, with allegations centered on billing Xavier Becerra's dormant state campaign account for fabricated consulting services and claiming luxury goods as business expenses. The fraud allegations against Williamson, taken at face value as the indictment alleges them, represent a documented pattern of the Newsom-orbit consulting infrastructure extracting money from a candidate's campaign account through fabricated billing.
+    </p>
+
+    <p>
+      Lobbyist Greg Campbell was named as a co-conspirator in the Williamson indictment. DeBoo, Clegg, and other Bearstar partners have <strong>not been charged</strong>. The LA Times reported that DeBoo and Clegg "have not been accused of any wrongdoing." Consumer Watchdog reported on January 13, 2026 that FBI surveillance notices had reportedly been received by "many associates and clients" of The Collaborative.
+    </p>
+
+    <div class="pull-quote">
+      Bearstar's pro-Becerra IE launched on May 1, 2026. Becerra is the candidate whose dormant state campaign account Williamson was allegedly billing for fabricated consulting services in the indictment. <strong>The same consulting infrastructure that allegedly defrauded Becerra in 2024 is now operating an independent expenditure to elect him in 2026.</strong>
+    </div>
+
+    <p>
+      That last paragraph is the structural fact that KCRA-TV's May 1, 2026 reporting flagged. KCRA wrote that Bearstar's pro-Becerra launch was notable because "some of the same consultants now connected with Bearstar were previously linked with a group tied with that case." Whether Becerra knew the consulting infrastructure now supporting his IE is the same network that had allegedly defrauded him is a question the named-publication record cannot yet answer. Whether the FBI investigation extends beyond Williamson and Campbell to other Collaborative principals is also open.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="collaborative">The Collaborative</h2>
+
+    <p>
+      "The Collaborative" is the name used in named-publication coverage (originally Politico in September 2020, cited in the LA Times November 13, 2025 reporting) for the integrated Democratic public-affairs hub that includes:
+    </p>
+
+    <ul>
+      <li><strong>Jim DeBoo</strong> as managing director</li>
+      <li><strong>Sean Clegg</strong> (Bearstar Strategies partner) as a partner</li>
+      <li><strong>Dana Williamson</strong> as architect (later Newsom Chief of Staff, indicted November 2025)</li>
+      <li><strong>Greg Campbell</strong> as lobbyist (named co-conspirator in Williamson indictment)</li>
+      <li><strong>Shannon Murphy</strong> of M Strategic Communications</li>
+    </ul>
+
+    <p>
+      The Collaborative is the institutional answer to a question California political journalism has been asking for years: where is the Newsom-orbit consulting infrastructure, and what does it do when Newsom is not personally on the ballot? The 2026 California gubernatorial primary is the answer in real time. Newsom is term-limited. The infrastructure stayed.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="structure">Why this is the structure of the race</h2>
+
+    <p>
+      Newsom is not on the 2026 California governor ballot. He is term-limited. But the political-consulting infrastructure that built and defended his career, including Bearstar Strategies, Polaris Campaigns, Jim DeBoo personally, Dana Williamson's Collaborative architecture, and Deane &amp; Company on treasury, is the operational backbone of the 2026 race anyway.
+    </p>
+
+    <p>
+      They worked for Eric Swalwell while he was the Newsom-orbit pick. When Swalwell collapsed, they pivoted to opposing Tom Steyer (the donor-class threat) and supporting Xavier Becerra (the donor-class-acceptable alternative). The simultaneous involvement in three IEs across one primary is a structural fact about California political consulting under one-party-dominant conditions: there is one major Democratic consulting infrastructure, and it operates wherever the influence opportunities are.
+    </p>
+
+    <p>
+      The Williamson indictment is the load-bearing structural detail. It is not that Bearstar is criminally implicated. It is that the consulting infrastructure operating the 2026 race is the same network whose senior architect is currently under federal indictment for billing a candidate's dormant campaign account for fabricated consulting. The pattern is documented and ongoing. KCRA noticed. Consumer Watchdog noticed. <strong>Putting the full architecture into one piece is what no other named publication has yet done.</strong>
+    </p>
+
+    <p>
+      The candidates are interchangeable. Swalwell exits, Becerra rises, the operation continues. The protagonist is the firm.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="open-questions">Open questions</h2>
+
+    <p>
+      <strong>Whether DeBoo, Clegg, or other Bearstar principals have been interviewed in the Williamson investigation.</strong> Bloomberg Law confirms the indictment; the witness list is sealed. Specific cooperation status is open.
+    </p>
+
+    <p>
+      <strong>The pro-Becerra IE's full FPPC filing.</strong> Committee name, FPPC ID, and donor list. KSFO/KCRA confirms the launch but the committee may not yet appear in the FPPC top-contributors list (which requires $1 million-plus raised). Watch the daily Cal-Access updates and the next FPPC top-contributors refresh.
+    </p>
+
+    <p>
+      <strong>Whether any FPPC coordination complaint has been filed regarding Bearstar's simultaneous involvement in opposing-side committees within the same primary.</strong> Politico noted the configuration; no formal complaint has surfaced in named-publication coverage as of May 2.
+    </p>
+
+    <p>
+      <strong>The Polaris Campaigns aggregate California work.</strong> Polaris's $50.87 million from Newsom's Yes-on-Prop-50 plus the $13.78 million from anti-Steyer plus the $46,800 from Planned Parenthood Affiliates of California Votes PAC verified through May 2, 2026 totals approximately $64.7 million in 12 months. Whether additional 2026 California payments to Polaris exist, particularly any payment to the new pro-Becerra IE, is open at the next Cal-Access refresh.
+    </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">A Collaborative document I should <em>see?</em></h3>
+        <p class="tip-box-beat-desc">A Bearstar contract, a Polaris invoice, a DeBoo Communications engagement letter, an FBI subpoena that reached one of these clients. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Bearstar%20Octopus%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">FPPC committee IDs. Cal-Access transaction numbers. Federal court case numbers. Filing dates. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">California Is Not For Sale (anti-Steyer) committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1489677">cal-access.sos.ca.gov / Detail / 1489677</a>
+        </li>
+        <li>
+          <span class="label">Bearstar Strategies website (firm and partner profiles)</span>
+          <a href="https://bearstarstrategies.com/team/">bearstarstrategies.com / team</a>
+        </li>
+        <li>
+          <span class="label">Polaris Campaigns team page</span>
+          <a href="https://polariscampaigns.com/team">polariscampaigns.com / team</a>
+        </li>
+        <li>
+          <span class="label">Cal-Access bulk export (raw EXPN_CD source)</span>
+          <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov / dbwebexport.zip</a>
+        </li>
+        <li>
+          <span class="label">FPPC top-10 contributors (June 2026 primary)</span>
+          <a href="https://www.fppc.ca.gov/search-filings/top-10-contributors-list/june-2026-primary-election/">fppc.ca.gov / top-10-contributors-list / june-2026-primary-election</a>
+        </li>
+        <li>
+          <span class="label">LA Times: Williamson federal indictment (Nov 13, 2025)</span>
+          <a href="https://www.latimes.com/california/story/2025-11-13/federal-fraud-case-newsom-political-orbit">latimes.com / 2025-11-13 / federal-fraud-case-newsom-political-orbit</a>
+        </li>
+        <li>
+          <span class="label">LA Times: Bearstar consulting + DeBoo on anti-Steyer (Apr 17, 2026)</span>
+          <a href="https://www.latimes.com/california/story/2026-04-17/powerful-california-institutions-backed-swalwells-rise-now-theyre-facing-questions">latimes.com / 2026-04-17 / powerful-california-institutions-backed-swalwells-rise</a>
+        </li>
+        <li>
+          <span class="label">Politico California Playbook: pro-Swalwell + anti-Steyer + DeBoo (Apr 17, 2026)</span>
+          <a href="https://www.politico.com/newsletters/california-playbook/2026/04/17/where-does-newsoms-orbit-land-now-00878288">politico.com / california-playbook / 2026-04-17 / where-does-newsoms-orbit-land-now</a>
+        </li>
+        <li>
+          <span class="label">Politico California Playbook: Gudelunas sponsor named (Apr 20, 2026)</span>
+          <a href="https://www.politico.com/newsletters/california-playbook/2026/04/20/world-cup-stress-test-for-la-00880259">politico.com / california-playbook / 2026-04-20 / world-cup-stress-test-for-la</a>
+        </li>
+        <li>
+          <span class="label">Sacramento Bee: DeBoo leading anti-Steyer committee (Apr 20-21, 2026)</span>
+          <a href="https://www.sacbee.com/news/politics-government/capitol-alert/article315470114.html">sacbee.com / capitol-alert / article315470114</a>
+        </li>
+        <li>
+          <span class="label">Sacramento Bee: PG&amp;E $8M to anti-Steyer + Bearstar (Apr 17, 2026)</span>
+          <a href="https://www.sacbee.com/news/politics-government/capitol-alert/article315437923.html">sacbee.com / capitol-alert / article315437923</a>
+        </li>
+        <li>
+          <span class="label">KSFO/KCRA: Bearstar backing Becerra IE (May 1, 2026)</span>
+          <a href="https://www.ksfo.com/2026/05/01/controversial-political-consulting-firm-backing-xavier-becerra/">ksfo.com / 2026-05-01 / controversial-political-consulting-firm-backing-xavier-becerra</a>
+        </li>
+        <li>
+          <span class="label">Capitol Weekly: anti-Steyer PAC name + Deane &amp; Company (Apr 28-29, 2026)</span>
+          <a href="https://capitolweekly.net/anti-steyer-pac-mimics-name-of-a-housing-advocacy-campaign/">capitolweekly.net / anti-steyer-pac-mimics-name-of-a-housing-advocacy-campaign</a>
+        </li>
+        <li>
+          <span class="label">Consumer Watchdog: Uber/Rodriguez related-party + Collaborative FBI surveillance context (Jan 13, 2026)</span>
+          <a href="https://consumerwatchdog.org/accountability/uber-needs-to-disclose-to-shareholders-its-executives-conflict-of-interest-on-contingency-fee-ballot-measure-ties-to-dana-williamson-scandal/">consumerwatchdog.org / uber-needs-to-disclose-to-shareholders</a>
+        </li>
+        <li>
+          <span class="label">Capital Research Center: Deane and Company / Need to Impeach (Jul 2019)</span>
+          <a href="https://capitalresearch.org/article/tom-steyers-itching-scratching-need-to-impeach/">capitalresearch.org / tom-steyers-itching-scratching-need-to-impeach</a>
+        </li>
+        <li>
+          <span class="label">Bizprofile.net (CA SOS Bearstar officer extract)</span>
+          <a href="https://www.bizprofile.net/ca/san-francisco/bearstar-strategies-inc">bizprofile.net / ca / san-francisco / bearstar-strategies-inc</a>
+        </li>
+        <li>
+          <span class="label">Campaigns &amp; Elections Reed Awards 2026 (Polaris/Bearstar Prop 50)</span>
+          <a href="https://campaignsandelections.com/awards/reed-awards/2026-reed-award-winners/">campaignsandelections.com / awards / reed-awards / 2026-reed-award-winners</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> All Cal-Access EXPN_CD payment amounts and dates are pulled directly from California Cal-Access primary records (raw extraction from dbwebexport.zip, May 2, 2026 snapshot). The Polaris Campaigns $13,782,095 figure sums five EXPN_CD line items in committee 1489677 dated March 31, April 3, April 6, April 13, and April 17, 2026. The Bearstar Strategies $49,800 payment is from the same committee dated April 1, 2026 (filing 3138008). The Polaris $50,870,203 figure on the Newsom Yes-on-Prop-50 committee 1380675 was previously aggregated by TransparencyUSA (now flagged for source cleanup) and is consistent with the Reed Awards 2026 listing for Best CTV Plan and Best Use of Online Targeting on a ballot initiative. The pro-Swalwell IE existence and dissolution is sourced to Politico California Playbook April 17, 2026; no FPPC filing number was confirmed in allowed sources for that committee. The pro-Becerra IE existence is sourced to KSFO/KCRA May 1, 2026; FPPC filing is pending. The "California is Not for Sale" full committee name and the March 27 to March 30, 2026 Form 410 amendment are sourced to FPPC Cal-Access plus contemporaneous Politico California Playbook reporting (March 31, 2026). The Williamson federal indictment (23 counts, November 2025) is sourced to LA Times November 13, 2025. The Collaborative architecture (DeBoo as managing director, Clegg as partner, Williamson as architect, Campbell as co-conspirator) is sourced to the same LA Times November 13, 2025 reporting plus Politico's earlier 2020 piece referenced by the Times. The Deane &amp; Company treasury role and the Shawnda Deane connection to Steyer's prior Need to Impeach treasury are sourced to Capitol Weekly April 28-29, 2026 and Capital Research Center July 2019. The Laiza Negrete CAR connection and the Bearstar partner officer details are sourced to bizprofile.net's CA SOS extract.
+      </div>
+    </div>
+  </div>
+</article>
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All data verified against primary-source filings · published 2026-05-01</div>
+</footer>
+
+</body>
+</html>

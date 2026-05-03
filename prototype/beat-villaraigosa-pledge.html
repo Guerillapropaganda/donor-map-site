@@ -1,0 +1,1040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The pledge he broke · The Donor Map</title>
+<meta name="description" content="In 2018, Antonio Villaraigosa promised never to take fossil-fuel money. In 2026, oil and gas companies are his largest organized donor bloc. Even his own donor class moved on.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* ─── Hero arrow animation (brutalist motion) ─── */
+@keyframes daisy-arrow-pulse {
+  0%   { stroke-dashoffset: 200; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.25; stroke-width: 2; }
+}
+@keyframes target-arrow-pulse {
+  0%   { stroke-dashoffset: 100; opacity: 0; }
+  60%  { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0.6; }
+}
+.daisy-arrow {
+  stroke-dasharray: 200;
+  animation: daisy-arrow-pulse 3.6s ease-in-out infinite;
+}
+.daisy-arrow-1 { animation-delay: 0s; }
+.daisy-arrow-2 { animation-delay: 0.25s; }
+.daisy-arrow-3 { animation-delay: 0.5s; }
+.daisy-arrow-4 { animation-delay: 0.75s; }
+.daisy-arrow-5 { animation-delay: 1s; }
+.target-arrow {
+  stroke-dasharray: 100;
+  animation: target-arrow-pulse 3.6s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .daisy-arrow, .target-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat { display: flex; align-items: stretch; margin: 56px 0 0; border: 3px solid var(--black); background: var(--paper); }
+.tip-box-beat-stripes { flex: 0 0 28px; background: repeating-linear-gradient(135deg, var(--yellow) 0, var(--yellow) 12px, var(--black) 12px, var(--black) 24px); }
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 14px; }
+.tip-box-beat-headline { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 8px; }
+.tip-box-beat-headline em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.tip-box-beat-desc { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.45; color: var(--muted); margin-bottom: 14px; }
+.tip-box-beat-row { display: grid; grid-template-columns: 110px 1fr; gap: 14px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); align-self: start; padding-top: 2px; }
+.tip-box-beat-value { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink); }
+.tip-box-beat-value a { color: var(--blue); text-decoration: none; border-bottom: 1px solid currentColor; }
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
+@media (max-width: 600px) { .tip-box-beat-stripes { flex-basis: 18px; } .tip-box-beat-body { padding: 18px 18px; } .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; } }
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>The Pledge He Broke</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Draft May 2, 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>The pledge he broke. <span class="h-red">The donors who took it.</span></h1>
+    <p class="deck">
+      In 2018, Antonio Villaraigosa publicly promised never to take fossil-fuel money. In 2026, oil and gas companies are his largest organized donor bloc, while the institutional donor class that put $22 million into his last governor run quietly walked. Even Reed Hastings moved on.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">2018 pledge · 2026 ledger · the same fossil-fuel companies on both sides of the line</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Diagram contrasting Villaraigosa's 2018 fossil-fuel pledge with his 2026 oil and gas donor list">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+      </defs>
+
+      <!-- Column headers -->
+      <text x="220" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">2018: THE PLEDGE</text>
+      <text x="220" y="50" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#333" letter-spacing="2">"NO FOSSIL FUEL MONEY"</text>
+
+      <text x="680" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">2026: THE LEDGER</text>
+      <text x="680" y="50" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#333" letter-spacing="2">CAL-ACCESS RCPT_CD VERIFIED</text>
+
+      <!-- LEFT: the 2018 pledge box -->
+      <rect x="60" y="80" width="320" height="320" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="220" y="118" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="20" fill="#0a0a0a">"I will not accept</text>
+      <text x="220" y="146" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="20" fill="#0a0a0a">contributions from</text>
+      <text x="220" y="174" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="22" fill="#e63946">oil companies</text>
+      <text x="220" y="206" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="20" fill="#0a0a0a">or named</text>
+      <text x="220" y="234" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="20" fill="#0a0a0a">fossil-fuel</text>
+      <text x="220" y="262" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="22" fill="#e63946">executives."</text>
+      <text x="220" y="320" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="2">SIGNED 2018</text>
+      <text x="220" y="340" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="2">NOT RE-SIGNED 2026</text>
+      <text x="220" y="372" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="11" fill="#333">LA Times May 26, 2025</text>
+
+      <!-- CENTER: arrow with eight years -->
+      <line x1="380" y1="240" x2="540" y2="240" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <text x="460" y="228" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="13" fill="#0a0a0a">8 YEARS</text>
+      <text x="460" y="260" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="11" fill="#333">pledge expires quietly</text>
+
+      <!-- RIGHT: the 2026 ledger box -->
+      <rect x="540" y="80" width="320" height="320" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="3"/>
+
+      <text x="700" y="110" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fbbf24" letter-spacing="2">FOSSIL-FUEL DONORS · 2026</text>
+
+      <line x1="560" y1="124" x2="840" y2="124" stroke="#fbbf24" stroke-width="1"/>
+
+      <text x="556" y="146" text-anchor="start" font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#fff">California Resources Corp</text>
+      <text x="844" y="146" text-anchor="end" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#e63946">$72,800</text>
+
+      <text x="556" y="172" text-anchor="start" font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#fff">Chevron</text>
+      <text x="844" y="172" text-anchor="end" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#e63946">$78,400</text>
+
+      <text x="556" y="198" text-anchor="start" font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#fff">Marathon Petroleum</text>
+      <text x="844" y="198" text-anchor="end" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#e63946">$78,400</text>
+
+      <text x="556" y="224" text-anchor="start" font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#fff">Berry Corporation</text>
+      <text x="844" y="224" text-anchor="end" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#e63946">$78,400</text>
+
+      <text x="556" y="250" text-anchor="start" font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#fff">Clean Energy (natural gas)</text>
+      <text x="844" y="250" text-anchor="end" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#e63946">$156,800</text>
+
+      <line x1="560" y1="266" x2="840" y2="266" stroke="#fbbf24" stroke-width="1"/>
+      <text x="556" y="290" text-anchor="start" font-family="Inter, sans-serif" font-weight="900" font-size="13" fill="#fff">TOTAL DOCUMENTED</text>
+      <text x="844" y="290" text-anchor="end" font-family="Inter, sans-serif" font-weight="900" font-size="20" fill="#fbbf24">$464,800</text>
+
+      <text x="700" y="332" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#aaa" letter-spacing="2">FPPC COMMITTEE 1471635</text>
+      <text x="700" y="362" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="11" fill="#aaa">Cal-Access RCPT_CD verified May 2, 2026</text>
+    </svg>
+    <p class="viz-caption">
+      The 2018 promise is on the left. The 2026 receipts are on the right. Same companies. No retraction. No re-signing.
+    </p>
+  </div>
+</section>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>In 2018, Antonio Villaraigosa was running for governor and signed a pledge.</strong> No contributions from oil companies. No contributions from named fossil-fuel executives. The pledge was the new rule going forward.
+    </p>
+
+    <p>
+      He has not re-signed that pledge in 2026.
+    </p>
+
+    <p>
+      He has, however, accepted <strong>$464,800 in primary-and-general contributions from California's biggest oil and gas producers and a major natural gas vehicle-fueling company</strong>: $72,800 from California Resources Corporation (the state's largest oil-and-gas producer, spun off from Occidental Petroleum), $78,400 each from Chevron, Marathon Petroleum, and Berry Corporation, plus $156,800 from Clean Energy (the natural-gas-vehicle fueling firm). His campaign bills him as the working-class affordability candidate. Restrictions on California oil production he calls "poppycock." The donors agree.
+    </p>
+
+    <p>
+      The 2018 promise is gone. The donors who would have been excluded under the 2018 pledge appear at the top of the 2026 ledger. And the donor class that put $22 million into his 2018 IE through Reed Hastings's checkbook? That money walked. Hastings's 2026 governor money went to Matt Mahan instead. The candidate who ran in 2018 as the donor class's investment vehicle is running in 2026 as the candidate the donor class moved off of, while still taking maxes from the industry he had once promised to refuse.
+    </p>
+
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
+      This beat sits alongside two other 2026 California Governor primary investigations. <a href="/class-traitor" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">$31 million to bury a class traitor</a> documents the regulated-industry coalition spending against Tom Steyer. <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">Three Becerras</a> documents the Democratic candidate the donor class is consolidating behind. This page documents the third Democrat in the consolidation pattern: the candidate who broke a promise and watched his historical donor base leave anyway.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#pledge">The 2018 pledge</a></li>
+        <li><a href="#ledger">The 2026 ledger</a></li>
+        <li><a href="#single-payer">Single-payer opposition meets healthcare-industry money</a></li>
+        <li><a href="#post-mayor">Post-mayor income: Mercury, Actum, infrastructure czar</a></li>
+        <li><a href="#hastings">Even Reed Hastings gave up</a></li>
+        <li><a href="#class-tag">The donor class is rationally allocating against its threats</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="pledge">The 2018 pledge</h2>
+
+    <p>
+      The Los Angeles Times documented Villaraigosa's 2018 pledge in its May 26, 2025 reporting on the 2026 race. Villaraigosa had signed a public commitment, during his prior 2018 gubernatorial campaign, not to accept contributions from oil companies or from named fossil-fuel executives at fossil-fuel entities. The pledge came shortly after he had accepted maximum-allowable contributions from several oil donors months earlier in 2017, but was the new rule going forward.
+    </p>
+
+    <p>
+      In 2026, he has not re-signed that pledge. He has not made any public statement that he no longer considers himself bound by it. He has simply accepted the maximums and not addressed the contradiction. The LA Times noted his current "all-of-the-above" energy framing, in which he describes restrictions on California oil production as "poppycock."
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="ledger">The 2026 ledger</h2>
+
+    <p>
+      The Cal-Access RCPT_CD raw extraction for committee 1471635 (Antonio Villaraigosa for Governor 2026) records the following oil-and-gas-and-natural-gas donor stack as of May 2, 2026:
+    </p>
+
+    <div class="receipts-block">
+      <h3>Fossil-fuel and natural-gas donors to committee 1471635</h3>
+      <div class="desc">Cal-Access RCPT_CD primary extraction · committee 1471635 · May 2, 2026 snapshot</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">California Resources Corporation and Subsidiaries</span>
+              <span class="class-tag">California's largest oil and gas producer · spun off from Occidental Petroleum</span>
+            </td>
+            <td class="num">$72,800</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Chevron Corporation and Its Subsidiaries</span>
+              <span class="class-tag">supermajor</span>
+            </td>
+            <td class="num">$78,400</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Marathon Petroleum Corporation and its Subsidiaries</span>
+              <span class="class-tag">oil refiner · operates in California</span>
+            </td>
+            <td class="num">$78,400</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Berry Corporation and Affiliated Entities</span>
+              <span class="class-tag">Kern County oil producer</span>
+            </td>
+            <td class="num">$78,400</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Clean Energy</span>
+              <span class="class-tag">natural-gas vehicle-fueling company · operates compressed/liquefied natural gas stations · NOT a renewable-energy firm</span>
+            </td>
+            <td class="num">$156,800</td>
+          </tr>
+          <tr class="total">
+            <td>Verified through 2026-05-02</td>
+            <td class="num">$464,800</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The contrast with the rest of the Democratic field is sharp. <strong>Tom Steyer signed a pledge not to accept fossil-fuel money in 2026. Katie Porter signed the same pledge. Matt Mahan stated his campaign does not accept oil and gas contributions.</strong> Among the major Democratic candidates, only Villaraigosa and Xavier Becerra are confirmed to have accepted such money. Politico California Climate (April 29, 2026) reported rivals using this fact in attack lines. The LA Times May 2025 piece broke the story.
+    </p>
+
+    <div class="pull-quote">
+      Villaraigosa's 2026 pitch is gas-price relief for working-class Californians. <strong>His donors are the companies whose revenue depends on gas prices staying high under California's carbon-cap structure.</strong>
+    </div>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="single-payer">Single-payer opposition meets healthcare-industry money</h2>
+
+    <p>
+      Villaraigosa is the only major Democratic gubernatorial candidate to explicitly oppose creating a state single-payer healthcare system. The LA Times (November 8, 2025) reported that at a 2025 candidate forum he separated himself from Betty Yee, Xavier Becerra, and Tony Thurmond on the question. He has called single-payer "snake oil."
+    </p>
+
+    <p>
+      The healthcare-sector donors to his 2026 committee are entities that benefit from continuation of the existing multi-payer system rather than its replacement:
+    </p>
+
+    <div class="receipts-block">
+      <h3>Healthcare-sector donors to a single-payer opponent</h3>
+      <div class="desc">Cal-Access RCPT_CD · committee 1471635</div>
+      <table class="receipts-table">
+        <thead>
+          <tr><th>Donor</th><th style="text-align: right;">Amount</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">AltaMed Health Network, Inc.</span>
+              <span class="class-tag">largest community health center network in the United States · Villaraigosa was paid advisor post-2013</span>
+            </td>
+            <td class="num">$78,400</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">COPE Healthcare Consulting, Inc.</span>
+              <span class="class-tag">healthcare consulting</span>
+            </td>
+            <td class="num">$78,400</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Fresenius Medical Care</span>
+              <span class="class-tag">German-owned dialysis giant · world's largest · litigated against California healthcare regulation per 9th Circuit Apr 7, 2026</span>
+            </td>
+            <td class="num">$15,000</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The Fresenius contribution is the most analytically clean example. Fresenius is the world's largest dialysis provider; it has actively opposed proposals for stronger California healthcare regulation, including litigation that the Ninth Circuit Court of Appeals decided April 7, 2026. Its donation to the only major Democrat opposing single-payer aligns with its regulatory interests against the policy that would most threaten its margins.
+    </p>
+
+    <p>
+      AltaMed is the largest federally qualified health center (FQHC) network in the United States. AltaMed receives substantial Medi-Cal managed-care reimbursement that depends on the existing public-private structure. Villaraigosa was a paid advisor to AltaMed after leaving the LA mayor's office in 2013 (LA Times November 24, 2017, tax-return reporting).
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="post-mayor">Post-mayor income: Mercury, Actum, infrastructure czar</h2>
+
+    <p>
+      Villaraigosa left the LA mayor's office on June 30, 2013. His tax returns released in November 2017 (LA Times) showed his adjusted gross income going from $167,542 in 2011 (as mayor) to $1,380,096 by 2014. The clients in the second half of 2013 alone:
+    </p>
+
+    <div class="receipts-block">
+      <h3>Disclosed consulting clients · second half of 2013</h3>
+      <div class="desc">LA Times tax-return reporting · November 24, 2017</div>
+      <table class="receipts-table">
+        <thead><tr><th>Client</th><th style="text-align: right;">Amount</th></tr></thead>
+        <tbody>
+          <tr><td><span class="donor-name">Herbalife International</span><span class="class-tag">senior advisor to CEO Michael Johnson</span></td><td class="num">$162,500</td></tr>
+          <tr><td><span class="donor-name">Banc of California</span><span class="class-tag">strategic advisor on Latino-community business expansion</span></td><td class="num">$150,000</td></tr>
+          <tr><td><span class="donor-name">Pro Tour Memorabilia</span><span class="class-tag">role unspecified</span></td><td class="num">$100,000</td></tr>
+          <tr><td><span class="donor-name">Harry Walker Agency</span><span class="class-tag">speaking fees</span></td><td class="num">$90,800</td></tr>
+          <tr><td><span class="donor-name">Edelman</span><span class="class-tag">senior advisor at world's largest PR firm</span></td><td class="num">$68,750</td></tr>
+          <tr><td><span class="donor-name">Cadiz Inc.</span><span class="class-tag">advisor on Mojave groundwater project · Keith Brackpool's company</span></td><td class="num">$50,000</td></tr>
+          <tr><td><span class="donor-name">Gateway Science and Engineering</span><span class="class-tag">role unspecified</span></td><td class="num">$30,000</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      <strong>Mercury Public Affairs</strong> (November 2018 - October 2021): Villaraigosa joined Mercury as co-chairman after losing the 2018 governor primary; promoted to partner in July 2020. Mercury's disclosed clients during his tenure included <strong>Hyundai, the government of Qatar, the government of Turkey, the California Charter Schools Association, Westlands Water District (Central Valley agriculture), Clorox, and Lyft</strong> per LA Times October 7, 2021 reporting on his eventual exit. Villaraigosa stated he would not personally register as a lobbyist and described his work as "strategic and crisis communications consulting." Mercury is an Omnicom subsidiary.
+    </p>
+
+    <p>
+      <strong>Actum LLC</strong> (January 2022 - August 2022): After leaving Mercury, Villaraigosa co-founded Actum LLC with Mercury co-founder Kirill Goncharenko, Barbara Boxer, and Fabian Nuñez. Actum's client roster included <strong>Hungary's government</strong> (Axios January 27, 2022) - a Viktor Orbán-linked engagement that drew scrutiny given Mercury's prior FARA exposure.
+    </p>
+
+    <p>
+      <strong>Infrastructure czar</strong> (August 2022 - July 2023): Governor Gavin Newsom appointed Villaraigosa as state infrastructure adviser at $35,000 per month, but the salary was paid by California Forward, a nonprofit, not by the state. CalMatters' June 17, 2025 reporting documented the donor list that funded the $381,820 Villaraigosa received: Port of San Diego ($30,000), SoCalGas ($17,500), Doordash ($10,000), Disney ($10,000), Southern California Edison ($10,000), AT&amp;T ($10,000), California Communications Association ($10,000). Each of these entities has regulatory interests before the state government Villaraigosa was advising.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="hastings">Even Reed Hastings gave up</h2>
+
+    <p>
+      The single sharpest editorial fact in this beat is that the donor class that bankrolled Villaraigosa's 2018 governor IE has, in 2026, walked.
+    </p>
+
+    <p>
+      In 2018, Reed Hastings (then Netflix CEO) gave $7 million to the IE committee <em>Families &amp; Teachers for Antonio Villaraigosa for Governor 2018, Sponsored by the California Charter Schools Association Advocates</em>. Eli Broad gave another $1.5 million. Per FPPC's June 2018 Primary Election top-contributors list, approximately $22 million flowed through California Charter Schools Association Advocates IE to support Villaraigosa in the 2018 cycle. KQED documented the spending pattern in its April 13, 2018 reporting.
+    </p>
+
+    <p>
+      In 2026, no equivalent CCSA-sponsored IE has materialized for Villaraigosa. The FPPC's February 12, 2026 top-contributors list for the June 2026 primary shows no Villaraigosa-supporting IE at the $1 million reporting threshold. <strong>Reed Hastings's 2026 California governor money instead went to Matt Mahan's IE committee, $1 million,</strong> per the same FPPC top-contributors disclosure.
+    </p>
+
+    <p>
+      The structural read: the institutional donor class that organized around Villaraigosa in 2018 has rationally moved to a different vehicle in 2026 (Mahan, the San Jose mayor with the Silicon Valley billionaire bloc behind him). That movement is not Villaraigosa's fault. It is the donor class allocating capital toward the candidate they expect to win, not the candidate they last invested in.
+    </p>
+
+    <div class="pull-quote">
+      <strong>The 2018 institutional donor base walked.</strong> The regulated-industry donor base stayed because the alternatives (Steyer, Porter) are worse for their interests. That is a portrait of who Villaraigosa is in 2026: the candidate the institutional class moved off of, holding onto the regulated-industry money he had once promised to refuse.
+    </div>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="class-tag">The donor class is rationally allocating against its threats</h2>
+
+    <p>
+      Read the full 2026 California gubernatorial Democratic donor maps side by side and a pattern emerges. Steyer's commercial-Prop-13 reform threatens fossil-fuel margins (rentier capital, tax structure for commercial real-estate-heavy firms). The fossil-fuel coalition opposes Steyer (the Class Traitor beat documents this) and supports Villaraigosa. Single-payer healthcare threatens the multi-payer healthcare incumbents. The healthcare incumbent coalition opposes single-payer and donates to Villaraigosa, Becerra, and other major Democrats not running on single-payer.
+    </p>
+
+    <p>
+      Villaraigosa's 2026 platform centers on "affordability for working-class Californians": lower housing costs, lower energy and gas prices, better schools, and public safety. The structural contradiction is not labor versus business (he genuinely has building-trades union backing). The structural contradiction is that:
+    </p>
+
+    <ul>
+      <li>The candidate pitching gas-price relief is funded by the companies whose revenue depends on gas prices staying high under California's carbon-cap structure.</li>
+      <li>The candidate opposing single-payer healthcare (the policy with the largest documented potential to lower working-class healthcare costs) is funded by healthcare entities that profit from the multi-payer status quo.</li>
+      <li>The candidate selling himself as the anti-special-interest insurgent took $381,820 from a Newsom-curated nonprofit funded by California utilities, AT&amp;T, and Disney.</li>
+    </ul>
+
+    <p>
+      The donor class is not making a moral judgment about Villaraigosa. It is rationally allocating capital toward the candidates whose platforms protect its margins. That allocation is the structural story of the 2026 California Democratic primary, not the personal story of any one candidate.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="open-questions">Open questions</h2>
+
+    <p>
+      Items in this record that remain open or warrant follow-up:
+    </p>
+
+    <p>
+      <strong>The exact text and date of the 2018 pledge.</strong> The LA Times May 26, 2025 reporting references it; the original signed-pledge document URL has not been retrieved in research. A primary-source link to the document would lock the 2018-versus-2026 comparison.
+    </p>
+
+    <p>
+      <strong>Whether the 2018 pledge had an explicit expiration.</strong> Was it a single-cycle commitment or a continuing one? Villaraigosa has not publicly addressed it either way.
+    </p>
+
+    <p>
+      <strong>Income from Mercury Public Affairs and Actum LLC.</strong> Specific dollar amounts are not publicly disclosed because Villaraigosa stated he would not register as a lobbyist personally. Federal LDA and California state Form 700 disclosures may close part of this gap.
+    </p>
+
+    <p>
+      <strong>The Reed Hastings → Mahan IE allocation.</strong> Confirmed by the FPPC June 2026 Primary Top Contributors list at $1 million. Whether other 2018 institutional Villaraigosa donors also shifted their 2026 money to Mahan or to other candidates would close the "donor class moved on" claim more tightly.
+    </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">Mercury or Actum disclosure I should <em>see?</em></h3>
+        <p class="tip-box-beat-desc">A federal LDA filing, a California Form 700, a Hungary or Qatar contract, a 2018 pledge document. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Villaraigosa%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">FPPC committee IDs. Cal-Access transaction numbers. LDA filing dates. Form 700 URLs. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">Antonio Villaraigosa for Governor 2026 committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1471635&amp;session=2025">cal-access.sos.ca.gov / Detail / 1471635</a>
+        </li>
+        <li>
+          <span class="label">Cal-Access bulk export (raw RCPT_CD source)</span>
+          <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov/dbwebexport.zip</a>
+        </li>
+        <li>
+          <span class="label">FPPC top-10 contributors (June 2026 primary)</span>
+          <a href="https://www.fppc.ca.gov/search-filings/top-10-contributors-list/june-2026-primary-election/">fppc.ca.gov / top-10-contributors-list / june-2026-primary-election</a>
+        </li>
+        <li>
+          <span class="label">FPPC top-10 contributors (June 2018 primary, archive)</span>
+          <a href="https://www.fppc.ca.gov/search-filings/top-10-contributors-list/june-2018-primary-election/">fppc.ca.gov / top-10-contributors-list / june-2018-primary-election</a>
+        </li>
+        <li>
+          <span class="label">LA Times: oil donors and the broken 2018 pledge</span>
+          <a href="https://www.latimes.com/politics/story/2025-05-26/oil-villaraigosa-fossil-fuel-governors-race">latimes.com / 2025-05-26 / oil-villaraigosa-fossil-fuel-governors-race</a>
+        </li>
+        <li>
+          <span class="label">LA Times: 2017 tax-return release (post-mayor consulting)</span>
+          <a href="https://www.latimes.com/politics/la-pol-ca-antonio-villaraigosa-tax-returns-20171124-htmlstory.html">latimes.com / antonio-villaraigosa-tax-returns 2017-11-24</a>
+        </li>
+        <li>
+          <span class="label">LA Times: Mercury exit (2021)</span>
+          <a href="https://www.latimes.com/politics/story/2021-10-07/former-elected-leaders-nunez-boxer-villaraigosa-mercury-public-affairs">latimes.com / 2021-10-07 / nunez-boxer-villaraigosa-mercury-public-affairs</a>
+        </li>
+        <li>
+          <span class="label">Politico: Mercury joining (2018)</span>
+          <a href="https://www.politico.com/story/2018/11/12/antonio-villaraigosa-lobbyist-mercury-984940">politico.com / 2018-11-12 / antonio-villaraigosa-lobbyist-mercury</a>
+        </li>
+        <li>
+          <span class="label">Axios: Actum and Hungary's government (2022)</span>
+          <a href="https://www.axios.com/2022/01/28/hungarys-quiet-democratic-lobby">axios.com / 2022-01-28 / hungarys-quiet-democratic-lobby</a>
+        </li>
+        <li>
+          <span class="label">CalMatters: California Forward funded the infrastructure-czar role</span>
+          <a href="https://calmatters.org/politics/2025/06/california-newsom-villaraigosa-infrastructure-project/">calmatters.org / 2025-06 / california-newsom-villaraigosa-infrastructure-project</a>
+        </li>
+        <li>
+          <span class="label">LAist: same story, parallel reporting</span>
+          <a href="https://laist.com/news/politics/newsom-gave-his-political-rival-a-380k-job-see-the-special-interests-who-paid-for-it">laist.com / newsom-gave-his-political-rival-a-380k-job</a>
+        </li>
+        <li>
+          <span class="label">LA Times: single-payer opposition (Nov 2025)</span>
+          <a href="https://www.latimes.com/california/story/2025-11-08/democrats-running-for-governor-talk-about-healthcare">latimes.com / 2025-11-08 / democrats-running-for-governor-talk-about-healthcare</a>
+        </li>
+        <li>
+          <span class="label">KQED: 2018 charter-school IE for Villaraigosa</span>
+          <a href="https://www.kqed.org/news/11661975/charter-schools-supporters-seek-to-prop-up-villaraigosa-in-governors-race">kqed.org / 2018-04-13 / charter-schools-supporters-seek-to-prop-up-villaraigosa</a>
+        </li>
+        <li>
+          <span class="label">CalMatters: 2026 fundraising scorecard</span>
+          <a href="https://calmatters.org/politics/2026/04/california-governor-race-financials/">calmatters.org / 2026-04 / california-governor-race-financials</a>
+        </li>
+        <li>
+          <span class="label">Politico California Climate: rivals on Big Oil money (April 2026)</span>
+          <a href="https://www.politico.com/newsletters/california-climate/2026/04/29/big-oil-california-governor-race-becerra-00899309">politico.com / california-climate / 2026-04-29 / big-oil-california-governor-race-becerra</a>
+        </li>
+        <li>
+          <span class="label">Ninth Circuit: Fresenius California regulation case (April 7, 2026)</span>
+          <a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2026/04/07/24-3655.pdf">cdn.ca9.uscourts.gov / 2026/04/07 / 24-3655.pdf</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> All 2026 contribution amounts, dates, donor identities, and donor occupations are pulled directly from California Cal-Access primary records (RCPT_CD raw data extraction from dbwebexport.zip, May 2, 2026 snapshot, committee 1471635). The fossil-fuel total of $464,800 sums five entity records: California Resources Corp $72,800, Chevron $78,400, Marathon Petroleum $78,400, Berry Corporation $78,400, Clean Energy $156,800; the Clean Energy entry covers two cycles (primary plus general tranches) per Cal-Access cumulative reporting. The 2018 pledge is sourced to LA Times May 26, 2025, which references but does not reproduce the original signed-pledge document; that document URL is an open-question item below. The 2018 IE total of approximately $22 million flowing through California Charter Schools Association Advocates is sourced to the FPPC June 2018 Primary Election top-10 contributors archive plus KQED April 13, 2018. The 2026 Reed Hastings $1 million to the Mahan IE is sourced to the FPPC June 2026 Primary Election top-10 contributors list (most recent update February 12, 2026). The post-mayor consulting income through 2016 is sourced to LA Times November 24, 2017 tax-return reporting. The Mercury Public Affairs client list (Hyundai, Qatar, Turkey, CCSA, Westlands, Clorox, Lyft) is sourced to LA Times October 7, 2021. The Actum LLC Hungary engagement is sourced to Axios January 27, 2022. The infrastructure-czar salary of $381,820 paid by California Forward and the named donor list (Port of San Diego, SoCalGas, Doordash, Disney, Southern California Edison, AT&amp;T, California Communications Association) are sourced to CalMatters June 17, 2025 and LAist June 17, 2025. The single-payer opposition is sourced to LA Times November 8, 2025. The Fresenius Medical Care California-regulation litigation is sourced to the Ninth Circuit Court of Appeals opinion dated April 7, 2026 (case 24-3655).
+      </div>
+    </div>
+  </div>
+</article>
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All data verified against primary-source filings · published 2026-05-01</div>
+</footer>
+
+</body>
+</html>

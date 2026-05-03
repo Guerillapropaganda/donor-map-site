@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The sheriff who seized the ballots · The Donor Map</title>
+<meta name="description" content="Riverside County Sheriff Chad Bianco's office took 650,000 ballots from the 2025 Prop 50 referendum on a warrant from a judge he had endorsed. Then he ran for governor on the same enforcement model.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* ─── Hero arrow animation (brutalist motion) ─── */
+@keyframes daisy-arrow-pulse {
+  0%   { stroke-dashoffset: 200; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.25; stroke-width: 2; }
+}
+@keyframes target-arrow-pulse {
+  0%   { stroke-dashoffset: 100; opacity: 0; }
+  60%  { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0.6; }
+}
+.daisy-arrow {
+  stroke-dasharray: 200;
+  animation: daisy-arrow-pulse 3.6s ease-in-out infinite;
+}
+.daisy-arrow-1 { animation-delay: 0s; }
+.daisy-arrow-2 { animation-delay: 0.25s; }
+.daisy-arrow-3 { animation-delay: 0.5s; }
+.daisy-arrow-4 { animation-delay: 0.75s; }
+.daisy-arrow-5 { animation-delay: 1s; }
+.target-arrow {
+  stroke-dasharray: 100;
+  animation: target-arrow-pulse 3.6s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .daisy-arrow, .target-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat { display: flex; align-items: stretch; margin: 56px 0 0; border: 3px solid var(--black); background: var(--paper); }
+.tip-box-beat-stripes { flex: 0 0 28px; background: repeating-linear-gradient(135deg, var(--yellow) 0, var(--yellow) 12px, var(--black) 12px, var(--black) 24px); }
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 14px; }
+.tip-box-beat-headline { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 8px; }
+.tip-box-beat-headline em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.tip-box-beat-desc { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.45; color: var(--muted); margin-bottom: 14px; }
+.tip-box-beat-row { display: grid; grid-template-columns: 110px 1fr; gap: 14px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); align-self: start; padding-top: 2px; }
+.tip-box-beat-value { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink); }
+.tip-box-beat-value a { color: var(--blue); text-decoration: none; border-bottom: 1px solid currentColor; }
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
+@media (max-width: 600px) { .tip-box-beat-stripes { flex-basis: 18px; } .tip-box-beat-body { padding: 18px 18px; } .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; } }
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>The Sheriff Who Seized the Ballots</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Draft May 2, 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>The sheriff seized <span class="h-red">650,000 ballots</span>. The judge who signed the warrant was one he had endorsed.</h1>
+    <p class="deck">
+      Chad Bianco's office took two-thirds of a million ballots from the 2025 Prop 50 referendum. The county refused to fund his outside counsel. Three months later he was on the CNN debate stage running for governor. The donors paying for the rise are the contractors operating inside his enforcement perimeter.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">Bianco's vertical · Riverside enforcement to gubernatorial campaign</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Diagram showing the structural arc from Bianco's 2014 Oath Keepers membership through 2025 ballot seizure to 2026 gubernatorial campaign">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+        <marker id="arrow-rd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946"/>
+        </marker>
+      </defs>
+
+      <!-- Timeline axis -->
+      <line x1="60" y1="240" x2="840" y2="240" stroke="#0a0a0a" stroke-width="3"/>
+
+      <!-- Column headers -->
+      <text x="450" y="28" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#333">A TWELVE-YEAR ARC, FOUR FACTS</text>
+
+      <!-- Node 1: 2014 Oath Keepers -->
+      <circle cx="130" cy="240" r="14" fill="#475569" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="40" y="80" width="180" height="120" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="130" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="16" fill="#0a0a0a">2014</text>
+      <text x="130" y="130" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="1">OATH KEEPERS</text>
+      <text x="130" y="148" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">paid membership</text>
+      <text x="130" y="162" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">as a lieutenant</text>
+      <text x="130" y="184" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#333">leaked Epik 2021</text>
+      <line x1="130" y1="200" x2="130" y2="226" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Node 2: 2018 elected Riverside Sheriff -->
+      <circle cx="320" cy="240" r="14" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="230" y="280" width="180" height="120" fill="#0a0a0a"/>
+      <text x="320" y="310" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="16" fill="#fbbf24">2018</text>
+      <text x="320" y="330" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">ELECTED SHERIFF</text>
+      <text x="320" y="348" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">Riverside County</text>
+      <text x="320" y="362" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">re-elected 2022</text>
+      <text x="320" y="384" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#aaa">$348K base salary</text>
+      <line x1="320" y1="226" x2="320" y2="280" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Node 3: 2025 Ballot seizure -->
+      <circle cx="540" cy="240" r="18" fill="#e63946" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="440" y="80" width="200" height="120" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="540" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="16" fill="#fff">2025</text>
+      <text x="540" y="130" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">650,000 BALLOTS</text>
+      <text x="540" y="148" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">seized · Prop 50</text>
+      <text x="540" y="162" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">warrant from Judge Kiel</text>
+      <text x="540" y="184" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#fff">whom Bianco endorsed</text>
+      <line x1="540" y1="200" x2="540" y2="222" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Node 4: 2026 Governor campaign -->
+      <circle cx="760" cy="240" r="14" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="660" y="280" width="200" height="120" fill="#0a0a0a"/>
+      <text x="760" y="310" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="16" fill="#fbbf24">2026</text>
+      <text x="760" y="330" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">CA GOV CANDIDATE</text>
+      <text x="760" y="348" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">$4.47M raised</text>
+      <text x="760" y="362" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">~12-14% polling</text>
+      <text x="760" y="384" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#aaa">CNN debate qualified</text>
+      <line x1="760" y1="226" x2="760" y2="280" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Year labels on axis -->
+      <text x="130" y="260" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#0a0a0a">2014</text>
+      <text x="320" y="260" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#0a0a0a">2018</text>
+      <text x="540" y="266" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="900" fill="#e63946">NOV 2025</text>
+      <text x="760" y="260" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#0a0a0a">2026</text>
+
+      <!-- Annotations -->
+      <text x="450" y="430" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="13" fill="#333">CalMatters investigation · LAist + NPR · SF Chronicle · Cal-Access RCPT_CD</text>
+    </svg>
+    <p class="viz-caption">
+      One sheriff. Twelve years. The constitutional-sheriff network that put him in office, the ballot-seizure incident that defined his record, and the gubernatorial campaign that turned the model into a statewide bid.
+    </p>
+  </div>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>The Riverside County Sheriff's office took 650,000 ballots from a public election.</strong> The election was the November 2025 Proposition 50 referendum that redrew California's congressional districts. The warrant authorizing the seizure came from Judge Jay Kiel, whom Sheriff Chad Bianco had personally endorsed in his 2022 judicial campaign and who had publicly praised Bianco. The Riverside County Board of Supervisors voted 4 to 1 to deny county funds for the outside legal counsel Bianco wanted to defend the seizure. California Attorney General Rob Bonta filed legal challenges.
+    </p>
+
+    <p>
+      Three months later, Bianco was on the May 5 CNN debate stage as a 2026 California gubernatorial candidate, polling 12 to 14 percent.
+    </p>
+
+    <p>
+      The donors paying for that rise include $156,800 from two companies sharing the same sibling managers in a single Corona, California, mailbox. They include $39,200 from the developer of a 40-million-square-foot industrial park inside Bianco's enforcement jurisdiction. They include $132,523 from law-enforcement union PACs, including $38,123 from his own department's labor organization. And in 2014, before he was elected sheriff, Bianco was a paid member of the Oath Keepers, confirmed by LAist and NPR independently from leaked membership databases. He has not denied it.
+    </p>
+
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
+      This beat sits alongside two other 2026 California Governor primary investigations. <a href="/class-traitor" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">$31 million to bury a class traitor</a> documents the regulated-industry coalition spending against Tom Steyer. <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">Three Becerras</a> documents the Democratic candidate the donor class is consolidating behind. This page documents the Republican candidate whose enforcement architecture itself is the structural story.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#seizure">The 650,000-ballot seizure</a></li>
+        <li><a href="#judge">The judge he had endorsed</a></li>
+        <li><a href="#donors">The donors operating inside his perimeter</a></li>
+        <li><a href="#aggregation">The FPPC aggregation question</a></li>
+        <li><a href="#cspoa">The Constitutional Sheriffs network</a></li>
+        <li><a href="#oathkeepers">The 2014 Oath Keepers prior</a></li>
+        <li><a href="#structure">Why this is structural, not personal</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="seizure">The 650,000-ballot seizure</h2>
+
+    <p>
+      In November 2025, California voters approved Proposition 50, redistricting the state's congressional map in response to the Trump administration's federal-redistricting push. The measure passed statewide with 64 percent support per California Secretary of State results.
+    </p>
+
+    <p>
+      In Riverside County, the sheriff's office under Chad Bianco took <strong>650,000 ballots</strong> from that election under the authority of a search warrant. CalMatters reported on March 26, 2026 that the seizure was tied to an alleged election fraud investigation. CalMatters' April 21, 2026 investigation, drawn from emails obtained under public records request, documented that the investigation pathway had been suggested to Bianco in a September 2022 email from Steve Tuminello, a figure in the Constitutional Sheriffs and Peace Officers Association network. Tuminello addressed Bianco as a "Constitutional Sheriff" and urged him to pursue an election fraud investigation.
+    </p>
+
+    <p>
+      California Attorney General Rob Bonta filed legal challenges to the seizure. The Riverside County Board of Supervisors voted <strong>4 to 1</strong> to deny Bianco's request for county-funded outside counsel to defend the seizure. The deciding vote against him came from his own party's Board majority.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="judge">The judge he had endorsed</h2>
+
+    <p>
+      The warrant authorizing the seizure was signed by <strong>Judge Jay Kiel</strong>, whom Bianco had personally endorsed in Kiel's 2022 judicial election campaign. Kiel had publicly praised Bianco. The structural relationship between the sheriff who needed the warrant and the judge who issued it was not arm's length. CalMatters reported the relationship as part of its April 21, 2026 email investigation.
+    </p>
+
+    <div class="pull-quote">
+      The structural model the Constitutional Sheriffs movement endorses is one where the county sheriff's authority supersedes federal and state law enforcement. <strong>The sheriff endorsing the judge who then issues warrants for the sheriff's investigations is that model running as designed.</strong>
+    </div>
+
+    <p>
+      Bianco's authority claim does not require any single bad actor in the warrant chain. It requires only that the political relationships among local-government actors operate as the Constitutional Sheriffs movement intends. Bianco endorsed Kiel in 2022. Kiel signed the 2025 warrant. The sheriff seized 650,000 ballots from a state election. None of the three steps requires anyone to have lied in any document.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="donors">The donors operating inside his perimeter</h2>
+
+    <p>
+      Bianco for Governor 2026 (FPPC committee 1479095) reported approximately <strong>$4,469,855</strong> in cumulative receipts through the May 2, 2026 Cal-Access primary extraction. Several of the largest donors are entities operating inside Riverside County under Bianco's enforcement jurisdiction or county contracts.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Top primary-committee donors with Riverside County exposure</h3>
+      <div class="desc">Cal-Access RCPT_CD primary extraction · committee 1479095 · May 2, 2026 snapshot</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">Downs Energy + M &amp; D Development, LLC</span>
+              <span class="class-tag">sibling-managed entities · Corona CA · FPPC aggregation question</span>
+            </td>
+            <td class="num">$156,800</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Highland Fairview Operating Co. &amp; Affiliated</span>
+              <span class="class-tag">developer · 40.6M sq ft logistics park in Moreno Valley (Riverside County)</span>
+            </td>
+            <td class="num">$39,200</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">R. J. Noble Company</span>
+              <span class="class-tag">Riverside County road / asphalt contractor</span>
+            </td>
+            <td class="num">$35,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Mediwaste Disposal LLC</span>
+              <span class="class-tag">Corona CA · medical / hazardous waste contractor for state and county facilities</span>
+            </td>
+            <td class="num">$20,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Walker Evans Construction &amp; Investments</span>
+              <span class="class-tag">Riverside CA · off-road racing legacy · Bianco eulogized Evans publicly</span>
+            </td>
+            <td class="num">$39,200</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="receipts-block">
+      <h3>Law-enforcement PAC contributions</h3>
+      <div class="desc">Cal-Access RCPT_CD primary extraction · committee 1479095 · May 2, 2026 snapshot</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">Peace Officers Research Association of California PAC</span>
+              <span class="class-tag">PORAC · 86,000+ public safety members · 960 organizations</span>
+            </td>
+            <td class="num">$39,200</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Riverside Sheriffs' Association Public Education Fund</span>
+              <span class="class-tag">Bianco's own department's labor organization</span>
+            </td>
+            <td class="num">$38,123</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Santa Barbara County Deputy Sheriffs' Association</span>
+              <span class="class-tag">law-enforcement union PAC</span>
+            </td>
+            <td class="num">$30,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Deputy Sheriffs' Association of San Diego County PAC</span>
+              <span class="class-tag">law-enforcement union PAC</span>
+            </td>
+            <td class="num">$25,000</td>
+          </tr>
+          <tr class="total">
+            <td>Verified law-enforcement PAC subtotal</td>
+            <td class="num">$132,523</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      <strong>Highland Fairview Operating Co.</strong> is led by Iddo Benzeevi, developing the World Logistics Center in Moreno Valley, Riverside County: a 40.6 million-square-foot industrial park described as one of the world's largest. The Banning Informer reported in 2013 that Highland Fairview's offices had been searched by federal agents in a political corruption investigation involving Moreno Valley City Council. Whether Highland Fairview entities currently hold Riverside County contracts of any kind is open at the Riverside County Clerk records level. The political-finance question is structural: a developer of a 40-million-square-foot industrial project in the sheriff's jurisdiction is a maximum donor to that sheriff's gubernatorial campaign.
+    </p>
+
+    <p>
+      <strong>R. J. Noble Company</strong> is a major Southern California road and asphalt contractor active in Orange and Riverside Counties. <strong>Mediwaste Disposal LLC</strong>, headquartered in Corona, manages medical and hazardous waste for state and county facilities in California. The Riverside County jail system, which Bianco runs, generates regulated medical and hazardous waste. Whether Mediwaste holds the current Riverside County jail medical-waste contract is open at the county records level.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="aggregation">The FPPC aggregation question</h2>
+
+    <p>
+      The largest single donor pair on Bianco's filings is <strong>Downs Energy</strong> and <strong>M &amp; D Development, LLC</strong>, both based at a single Corona, California, mailbox-service address and both managed by the same siblings: Michael Downs (president and owner of Downs Energy; managing partner of M&amp;D Development) and Sherry Messner (responsible agent and officer of M&amp;D; listed as owner of Downs Energy).
+    </p>
+
+    <p>
+      Downs Energy gave Bianco $39,200 on July 7, 2024 for the June primary and another $39,200 on December 30, 2024 for the November general election. M&amp;D Development gave two contributions of $39,200 each, both dated December 30, 2024. Combined: <strong>$156,800</strong>. Per Cal-Access RCPT_CD, those are the two largest single donor totals in the committee's filings.
+    </p>
+
+    <p>
+      Per FPPC rules, contributions from entities controlled by the same individuals must be aggregated and treated as a single donor's contributions. If aggregated, the combined $156,800 would exceed the maximum allowable from one source ($78,400 across both primary and general). The SF Chronicle reported the question on March 31, 2026; the FPPC spokesperson declined to comment on the specific donations. The Bianco campaign responded that the companies are independently operated and the donations comply with law. <strong>No formal FPPC enforcement action has been confirmed as of the May 2, 2026 research date.</strong>
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="cspoa">The Constitutional Sheriffs network</h2>
+
+    <p>
+      The Constitutional Sheriffs and Peace Officers Association (CSPOA) is the main organizational vehicle for what is commonly called the "constitutional sheriff" movement: the doctrine that elected county sheriffs hold authority that supersedes federal and state law enforcement within their counties. The movement's leader, Richard Mack, also served on the Oath Keepers board. CSPOA's view of sheriff authority is the explicit framework for the kind of action Bianco took with the 650,000-ballot seizure: the sheriff's office acting independently of state-level election authority.
+    </p>
+
+    <p>
+      CalMatters' April 21, 2026 investigation documented that Bianco was approached in a September 2022 email by <strong>Steve Tuminello</strong>, a figure in the constitutional sheriff network, who urged the election-fraud investigation pathway and addressed Bianco directly as a "Constitutional Sheriff." Bianco had attended week-long sessions at the Claremont Institute promoting Trump conservatism and received that institute's "Sheriff of the Year" award.
+    </p>
+
+    <p>
+      The CSPOA pathway from Tuminello's 2022 email to the 2025 ballot seizure to the 2026 governor's race is, when read together, the operational arc of one structural model. The sheriff who claims county-supreme authority. The judicial ally who issues the warrant. The state attorney general who challenges it. The county board that refuses to fund his defense. The candidate who turns the model into a statewide bid.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="oathkeepers">The 2014 Oath Keepers prior</h2>
+
+    <p>
+      In 2014, four years before Bianco was first elected sheriff, he paid one year of membership dues to the Oath Keepers as a Riverside Sheriff's Department lieutenant. The membership was confirmed by two independent named publications using leaked Oath Keepers membership data:
+    </p>
+
+    <ul>
+      <li><strong>LAist</strong>, October 5, 2021, reporter Frank Stoltze. Source: a data breach of Epik (a web host serving right-wing groups) executed by the Anonymous hacker group on September 13, 2021. Bianco's name appeared on the Oath Keepers membership list extracted from the leak.</li>
+      <li><strong>NPR</strong>, October 6, 2021, reporter Scott Neuman. Source: Distributed Denial of Secrets (DDoSecrets), a transparency collective. J.J. MacNab of the George Washington University Program on Extremism drew attention to the leak.</li>
+    </ul>
+
+    <p>
+      Bianco's own response, via LAist and NPR, was that he joined approximately February 2014 as a lieutenant before becoming sheriff, paid one year's dues, does not remember actively participating, and does not even remember joining. He has defended the Oath Keepers as "not anti-government" and blamed January 6 on "a few fringe people." <strong>He has not denied the membership.</strong>
+    </p>
+
+    <p>
+      Brian Levin of California State San Bernardino's Center for the Study of Hate and Extremism noted in NPR's coverage that in 2014 the Oath Keepers were "less radical, less confrontational" than at the time of January 6. The historical context matters. The 2014 Oath Keepers membership is not the central editorial claim of this beat. It is the historical context for the structural pattern that runs from CSPOA in 2022 through the ballot seizure in 2025 to the gubernatorial campaign in 2026.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="structure">Why this is structural, not personal</h2>
+
+    <p>
+      Every elected sheriff has donors. Most sheriffs serve their donor class quietly, on jail contracts, vendor relationships, and policing priorities, until the donor class is satisfied and the sheriff is re-elected. The system runs smoothly when the local enforcement model serves the local economic interests funding it.
+    </p>
+
+    <p>
+      The system breaks down when a sheriff turns the local model into a national-political statement. Bianco's 650,000-ballot seizure was not local enforcement of local crime. It was a county sheriff's intervention in a statewide election under a doctrine (constitutional-sheriff supremacy over state authority) that explicitly contests the structural framework California's election system runs on. The same enforcement architecture that funds his sheriff's office (developer money, county contractor money, law-enforcement union money) is now funding his gubernatorial campaign.
+    </p>
+
+    <p>
+      The donor class behind a Republican county sheriff running for higher office is structurally identical, in shape, to the donor class behind a Democratic billionaire running for that same office: a coalition of regulated industries whose business operates in the political space the candidate would influence. <strong>Different party. Different geography. Same model.</strong>
+    </p>
+
+    <p>
+      The polling has him at 12 to 14 percent. The CNN debate qualified him on $1 million raised plus 3 percent in two California gubernatorial polls by April 27. He cleared the threshold. The system that put him on that stage is the system this beat documents.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="open-questions">Open questions</h2>
+
+    <p>
+      Several specific items in this record remain open for verification or resolution:
+    </p>
+
+    <p>
+      <strong>The FPPC aggregation question on Downs Energy + M&amp;D Development.</strong> SF Chronicle reported the structural setup on March 31, 2026; the FPPC declined to comment on the specific donations. Whether the FPPC has formally opened an aggregation inquiry, and how that inquiry resolves, is open.
+    </p>
+
+    <p>
+      <strong>The Riverside County contracts held by Highland Fairview, R. J. Noble, and Mediwaste.</strong> The political-finance question is structural and visible in Cal-Access. The contractor question requires a Riverside County Clerk records request to confirm dollar amounts and dates of any specific contracts.
+    </p>
+
+    <p>
+      <strong>The status of AG Bonta's legal challenge to the Prop 50 ballot seizure.</strong> Resolution after the May 2 research date is open; the case may be on appeal.
+    </p>
+
+    <p>
+      <strong>Any FPPC complaint alleging coordination between Bianco's primary committee and any IE committee operating in his support.</strong> The FPPC June 2026 Primary Top Contributors list shows no IE committee for Bianco above the $1 million reporting threshold as of February 12, 2026. Late-cycle IE filings (Form 496) could change that; watch the daily Cal-Access updates.
+    </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">Riverside County contracts I should <em>see?</em></h3>
+        <p class="tip-box-beat-desc">A Highland Fairview entitlement, a Mediwaste jail-services contract, an R.J. Noble paving job, a CSPOA email I haven't picked up. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Bianco%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">FPPC committee IDs. Cal-Access transaction numbers. County contract numbers. Filing dates. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">Bianco for Governor 2026 committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095">cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095</a>
+        </li>
+        <li>
+          <span class="label">Cal-Access bulk export (raw RCPT_CD source)</span>
+          <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov/dbwebexport.zip</a>
+        </li>
+        <li>
+          <span class="label">FPPC top-10 contributors (June 2026 primary)</span>
+          <a href="https://www.fppc.ca.gov/search-filings/top-10-contributors-list/june-2026-primary-election/">fppc.ca.gov/search-filings/top-10-contributors-list/june-2026-primary-election/</a>
+        </li>
+        <li>
+          <span class="label">SF Chronicle: Downs / M&amp;D aggregation question</span>
+          <a href="https://www.sfchronicle.com/politics/article/contributions-bianco-violate-state-campaign-rules-22160676.php">sfchronicle.com / contributions-bianco-violate-state-campaign-rules</a>
+        </li>
+        <li>
+          <span class="label">CalMatters: ballot seizure</span>
+          <a href="https://calmatters.org/politics/2026/03/chad-bianco-ballots-seized-riverside/">calmatters.org / 2026-03 / chad-bianco-ballots-seized-riverside</a>
+        </li>
+        <li>
+          <span class="label">CalMatters investigation: Bianco emails + CSPOA pathway</span>
+          <a href="https://calmatters.org/investigation/2026/04/chad-bianco-emails/">calmatters.org / investigation / 2026-04 / chad-bianco-emails</a>
+        </li>
+        <li>
+          <span class="label">Politico: ballot seizure warrant</span>
+          <a href="https://www.politico.com/news/2026/04/08/california-sheriff-bianco-ballot-seizure-warrant-00864304">politico.com / 2026-04-08 / california-sheriff-bianco-ballot-seizure-warrant</a>
+        </li>
+        <li>
+          <span class="label">LAist: Oath Keepers membership</span>
+          <a href="https://laist.com/news/criminal-justice/riverside-sheriff-chad-bianco-once-was-an-oath-keeper-defends-the-extremist-group">laist.com / riverside-sheriff-chad-bianco-once-was-an-oath-keeper</a>
+        </li>
+        <li>
+          <span class="label">NPR: Oath Keepers membership confirmation</span>
+          <a href="https://www.npr.org/2021/10/06/1043651361/oath-keepers-california-sheriff-chad-bianco-january-6-us-capitol">npr.org / 2021-10-06 / oath-keepers-california-sheriff-chad-bianco</a>
+        </li>
+        <li>
+          <span class="label">PORAC endorsement press release</span>
+          <a href="https://porac.org/wp-content/uploads/PORAC-2025-Gov-Endorsements_Press-Release.pdf">porac.org / PORAC-2025-Gov-Endorsements</a>
+        </li>
+        <li>
+          <span class="label">CalMatters: tax returns + sheriff salary</span>
+          <a href="https://calmatters.org/politics/2026/03/tax-returns-governor-candidates/">calmatters.org / 2026-03 / tax-returns-governor-candidates</a>
+        </li>
+        <li>
+          <span class="label">CalMatters: GOP convention coverage</span>
+          <a href="https://calmatters.org/politics/2026/04/california-gop-convention-governor/">calmatters.org / 2026-04 / california-gop-convention-governor</a>
+        </li>
+        <li>
+          <span class="label">KESQ: first fundraising period</span>
+          <a href="https://kesq.com/news/2025/07/31/sheriff-bianco-raises-more-than-1-6-million-in-first-fundraising-period/">kesq.com / sheriff-bianco-raises-more-than-1-6-million</a>
+        </li>
+        <li>
+          <span class="label">Riverside County Sheriff's Office</span>
+          <a href="https://www.riversidesheriff.org/689/Sheriff-Chad-Bianco">riversidesheriff.org / Sheriff-Chad-Bianco</a>
+        </li>
+        <li>
+          <span class="label">CRPA endorsements</span>
+          <a href="https://crpa.org/2026-executive-candidates/">crpa.org / 2026-executive-candidates</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> All 2026 contribution amounts, dates, donor identities, and donor occupations are pulled directly from California Cal-Access primary records (RCPT_CD raw data extraction from dbwebexport.zip, May 2, 2026 snapshot, committee 1479095). The $4,469,855 cumulative receipts figure is from the same Cal-Access raw extraction. The $156,800 Downs Energy plus M&amp;D Development pair is documented across four contributions on July 7 and December 30, 2024; the FPPC aggregation question is structural under California's same-controller-aggregation rules. The Highland Fairview, R.J. Noble, Mediwaste, Walker Evans, and law-enforcement PAC amounts are individual records from the same Cal-Access primary extraction. The 650,000-ballot seizure, the Judge Kiel warrant relationship, the AG Bonta legal challenge, and the 4-1 Riverside County Board vote denying outside counsel are sourced to CalMatters' March 26 and April 21, 2026 reporting and the Politico April 8, 2026 ballot-seizure-warrant story. The Constitutional Sheriffs and Peace Officers Association pathway, the Tuminello September 2022 email addressing Bianco as a "Constitutional Sheriff," and the Claremont Institute "Sheriff of the Year" award are sourced to the CalMatters April 21, 2026 email investigation. The 2014 Oath Keepers paid membership is sourced to LAist (October 5, 2021) and NPR (October 6, 2021), with the underlying data sources being the Anonymous September 2021 Epik leak and the parallel DDoSecrets release. The PORAC endorsement is sourced to PORAC's own August 21, 2025 press release. The CNN debate qualification standard ($1M raised plus 3 percent in two qualifying polls) and the May 5 debate stage participants are sourced to public NewsNation/Yahoo coverage of the field.
+      </div>
+    </div>
+  </div>
+</article>
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All data verified against primary-source filings · published 2026-05-01</div>
+</footer>
+
+</body>
+</html>
