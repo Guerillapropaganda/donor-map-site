@@ -15,7 +15,7 @@ import type { VerificationSeed } from "./beat-verifications"
  *   archived   - retired
  */
 
-export type BeatStatus = "active" | "draft" | "published" | "archived"
+export type BeatStatus = "active" | "draft" | "published" | "archived" | "upcoming"
 
 export interface BeatChecklistItem {
   label: string
@@ -544,10 +544,291 @@ export const BEATS: BeatRecord[] = [
   },
 ]
 
+const CLASS_TRAITOR_SEEDS: VerificationSeed[] = [
+  {
+    id: "class-traitor-car-raa",
+    beat: "class-traitor",
+    label: "URL pass: CAR REALTOR Action Assessment (split-roll listed as 2026 threat)",
+    detail:
+      "Source for the CAR mechanism subsection. CAR own page identifies Split Roll, Lowering the Vote Threshold, and More Transfer Taxes as 2026 potential initiatives.",
+    lane: "Editor",
+    url: "https://www.car.org/advocacy/PACSnRAF/RAA",
+  },
+  {
+    id: "class-traitor-steyer-tax-loopholes",
+    beat: "class-traitor",
+    label: "URL pass: Steyer campaign tax-loopholes plan",
+    detail:
+      "Direct mirror of the policy collision with CAR. Steyer page promises to reform the commercial side of Prop 13.",
+    lane: "Editor",
+    url: "https://www.tomsteyer.com/issues/tax-loopholes",
+  },
+  {
+    id: "class-traitor-kqed-taxes",
+    beat: "class-traitor",
+    label: "URL pass: KQED — how the next governor will change your taxes",
+    detail: "KQED published April 14, 2026. Source for Steyer's 2027 special-election proposal on Political Breakdown.",
+    lane: "Editor",
+    url: "https://www.kqed.org/news/12079441/heres-how-californias-next-governor-will-change-your-taxes",
+  },
+  {
+    id: "class-traitor-politico-special-election",
+    beat: "class-traitor",
+    label: "URL pass: Politico — Steyer wants 2027 special election",
+    detail: "Politico February 18, 2026. Source for Steyer's commitment to do what it takes to get split roll passed.",
+    lane: "Editor",
+    url: "https://www.politico.com/news/2026/02/18/tom-steyer-wants-a-special-election-to-hike-corporate-taxes-in-2027-00786876",
+  },
+  {
+    id: "class-traitor-reuters-black-to-green",
+    beat: "class-traitor",
+    label: "URL pass: Reuters — From black to green",
+    detail:
+      "Reuters May 13, 2014. Primary source for Farallon financing of Bumi/Berau/Adaro Indonesian coal deals plus 220M Nexen and 125M Kinder Morgan exposure pre-2012 exit.",
+    lane: "Editor",
+    url: "https://www.reuters.com/article/world/from-black-to-green-us-billionaires-road-to-damascus-idUSBREA4C06C/",
+  },
+  {
+    id: "class-traitor-nyt-coal",
+    beat: "class-traitor",
+    label: "URL pass: NYT — Prominent environmentalist helped fund coal projects",
+    detail:
+      "NYT July 4, 2014. Source for Berau/Maules Creek/Indiabulls/Meiya coal financing under Steyer.",
+    lane: "Editor",
+    url: "https://www.nytimes.com/2014/07/05/us/politics/prominent-environmentalist-helped-fund-coal-projects.html",
+  },
+  {
+    id: "class-traitor-politico-cca",
+    beat: "class-traitor",
+    label: "URL pass: Politico — Steyer Farallon and CCA",
+    detail: "Politico October 24, 2016. Source for the 5.5 percent CCA holding (89.1M peak Q2 2005) and Steyer's student-leaders quote.",
+    lane: "Editor",
+    url: "https://www.politico.com/states/california/story/2016/10/tom-steyer-pursuing-racial-and-economic-justice-issues-invested-heavily-in-for-profit-prisons-106634",
+  },
+  {
+    id: "class-traitor-sacbee-tobacco",
+    beat: "class-traitor",
+    label: "URL pass: Sacramento Bee — Farallon and tobacco",
+    detail:
+      "Sacramento Bee October 12, 2016. Source for UST Inc and National Tobacco exposure plus the Gil Duran Steyer-opposed-and-lost-the-vote response.",
+    lane: "Editor",
+    url: "http://www.sacbee.com/news/politics-government/capitol-alert/article107857907.html",
+  },
+  {
+    id: "class-traitor-sacbee-trump-resorts",
+    beat: "class-traitor",
+    label: "URL pass: Sacramento Bee — Farallon and Trump Entertainment Resorts",
+    detail:
+      "Sacramento Bee November 3, 2016. Source for the 558K Trump Entertainment Resorts 2006 disclosure plus Mandalay/Station Casinos/Anchor Gaming.",
+    lane: "Editor",
+    url: "http://www.sacbee.com/news/politics-government/capitol-alert/article112425947.html",
+  },
+  {
+    id: "class-traitor-bloomberg-exit",
+    beat: "class-traitor",
+    label: "URL pass: Bloomberg — Steyer steps down at Farallon (second-largest investor after departure)",
+    detail:
+      "Bloomberg October 22, 2012. CRITICAL source for the honesty caveat: Steyer would remain the second-largest investor in the hedge fund after departure.",
+    lane: "Editor",
+    url: "https://www.bloomberg.com/news/articles/2012-10-22/farallon-s-steyer-to-step-down-as-spokes-named-manager",
+  },
+  {
+    id: "class-traitor-forbes-exit",
+    beat: "class-traitor",
+    label: "URL pass: Forbes — Steyer to step down at Farallon",
+    detail: "Forbes October 23, 2012. Source for the 20B AUM at exit figure.",
+    lane: "Editor",
+    url: "https://www.forbes.com/sites/kerryadolan/2012/10/23/california-hedge-fund-billionaire-tom-steyer-to-step-down-at-farallon/",
+  },
+  {
+    id: "class-traitor-nyt-factcheck",
+    beat: "class-traitor",
+    label: "URL pass: NYT 2020 fact-check on Steyer withdrew-from-fossil-fuels claim",
+    detail:
+      "NYT January 23, 2020. Source for the somewhat overstated rating on Steyer's 2020 debate claim. Critical for the partial-and-not-instantaneous honesty.",
+    lane: "Editor",
+    url: "https://www.nytimes.com/2020/01/23/us/politics/tom-steyer-factcheck-investments.html",
+  },
+  {
+    id: "class-traitor-latimes-cca-corecivic",
+    beat: "class-traitor",
+    label: "URL pass: LA Times — Steyer Farallon record as 2026 issue (CCA to CoreCivic)",
+    detail:
+      "LA Times April 6, 2026. Source for I deeply regret that Farallon made that investment 2019 quote and the CoreCivic Otay Mesa ICE continuation.",
+    lane: "Editor",
+    url: "https://www.latimes.com/california/story/2026-04-06/billionaire-candidate-for-california-governor-catching-heat-for-past-business-interests-wealth",
+  },
+]
+
+const BEATS_UPCOMING: BeatRecord[] = [
+  {
+    slug: "mahan",
+    publicSlug: "mahan",
+    title: "Mahan: the Silicon Valley billionaire bloc",
+    deck:
+      "$8M from a Silicon Valley billionaire cluster (Moritz, Merrill, Seibel, Collison) bankrolling a candidate San Jose voters didn't actually pick. The full donor map and what the bloc bought.",
+    prototypeFile: "(not yet built)",
+    prototypeUrl: "",
+    dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/mahan.md",
+    status: "upcoming",
+    verificationSeeds: [],
+    perplexityRounds: [{ name: "Mahan donor verification + IE structure", status: "queued (Prompt #3)", date: "queued" }],
+    auditPasses: [],
+    editorialChecklist: [
+      { label: "Target ship date", detail: "May 13, 2026 (Wed)", status: "pending" },
+      { label: "Source report exists", detail: "Downloads/2026-05-02-becerra-nonhealth-donor-machine-report.md (Mahan section)", status: "done" },
+      { label: "Perplexity verification round", detail: "Prompt #3 from emerging-beat-candidates queue", status: "pending" },
+      { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
+    ],
+  },
+  {
+    slug: "cop-coddler",
+    publicSlug: "cop-coddler",
+    title: "Cop-Coddler: Becerra's First Amendment record",
+    deck:
+      "The HHS Secretary who, as California AG, refused SB 1421 records on his own DOJ officers and threatened journalists with criminal prosecution. $300K from law-enforcement unions in 2026.",
+    prototypeFile: "(not yet built)",
+    prototypeUrl: "",
+    dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/becerra.md",
+    status: "upcoming",
+    verificationSeeds: [],
+    perplexityRounds: [],
+    auditPasses: [],
+    editorialChecklist: [
+      { label: "Target ship date", detail: "May 20, 2026 (Wed)", status: "pending" },
+      { label: "Source report exists", detail: "Downloads/2026-05-02-becerra-nonhealth-donor-machine-report.md (cop-coddler section)", status: "done" },
+      { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
+    ],
+  },
+  {
+    slug: "bearstar-octopus",
+    publicSlug: "bearstar-octopus",
+    title: "Bearstar Octopus: one shop, three IEs, Newsom-orbit",
+    deck:
+      "Bearstar Strategies + Polaris Campaigns + Jim DeBoo. The political-consulting infrastructure running both sides of the 2026 California gov primary. Process journalism on California's machine.",
+    prototypeFile: "(not yet built)",
+    prototypeUrl: "",
+    dossierPath: "content/Admin Notes/emerging-beat-candidates.md",
+    status: "upcoming",
+    verificationSeeds: [],
+    perplexityRounds: [{ name: "Bearstar + Polaris client maps", status: "queued (Prompt #4)", date: "queued" }],
+    auditPasses: [],
+    editorialChecklist: [
+      { label: "Target ship date", detail: "May 27, 2026 (Wed)", status: "pending" },
+      { label: "Perplexity verification round", detail: "Prompt #4 from emerging-beat-candidates queue", status: "pending" },
+      { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
+    ],
+  },
+  {
+    slug: "race-map",
+    publicSlug: "race-map",
+    title: "Race Map: cross-cutting donor overlay for primary-eve",
+    deck:
+      "Every CA gov primary candidate, every donor, every overlap. Primary-eve cross-cutting visualization showing which industries fund which candidates and where the donor pools overlap.",
+    prototypeFile: "(not yet built)",
+    prototypeUrl: "",
+    dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/_summary.md",
+    status: "upcoming",
+    verificationSeeds: [],
+    perplexityRounds: [
+      { name: "Porter donor + contradiction", status: "queued (Prompt #5)", date: "queued" },
+      { name: "Bianco donor + LE money", status: "queued (Prompt #6)", date: "queued" },
+      { name: "Villaraigosa donor + post-mayor income", status: "queued (Prompt #7)", date: "queued" },
+      { name: "Hilton US side donor + media network", status: "queued (Prompt #8)", date: "queued" },
+    ],
+    auditPasses: [],
+    editorialChecklist: [
+      { label: "Target ship date", detail: "June 1, 2026 (Mon, primary-eve)", status: "pending" },
+      { label: "Per-candidate Perplexity parity", detail: "Prompts 5-8 must close before this beat", status: "pending" },
+      { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
+    ],
+  },
+]
+
+const BEATS_ACTIVE_CLASS_TRAITOR: BeatRecord = {
+  slug: "class-traitor",
+  publicSlug: "class-traitor",
+  title: "$31 million to bury a class traitor",
+  deck:
+    "California's donor class organized against him: utility, realtors, chamber, developers, prison guards. The only billionaire in the race who turned against them. He didn't start outside the donor class. He left it. Partially. The class noticed.",
+  prototypeFile: "beat-class-traitor.html",
+  prototypeUrl: "http://localhost:8096/class-traitor",
+  dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/steyer.md",
+  status: "active",
+  verificationSeeds: CLASS_TRAITOR_SEEDS,
+  perplexityRounds: [
+    { name: "Anti-Steyer IE operation", status: "applied", date: "2026-05-01" },
+    { name: "Steyer financial-history stress test (Farallon record)", status: "applied", date: "2026-05-02" },
+    { name: "CAR anti-Steyer tax mechanism", status: "applied", date: "2026-05-02" },
+    { name: "Gudelunas / 1489677 spending update", status: "applied (with open question on payment trail)", date: "2026-05-02" },
+  ],
+  auditPasses: [
+    {
+      name: "Option C reframe pass: keep headline, metabolize Farallon record honestly",
+      date: "2026-05-02",
+      status: "applied: new #record section + Bloomberg second-largest-investor caveat + NYT 2020 fact-check + CCA-to-CoreCivic continuation",
+    },
+    {
+      name: "ChatGPT critique pass: tighten claims, scope donor-class definition",
+      date: "2026-05-02",
+      status: "applied: donor-class defined inline, point→function, operation→machine, polling-section trim",
+    },
+    {
+      name: "Chart rework pass: drop false category-mirror, fix label overflow",
+      date: "2026-05-02",
+      status: "applied: symmetry chart reframed Same wealth machine / two roles, callouts added, grey text bumped",
+    },
+  ],
+  editorialChecklist: [
+    {
+      label: "Symmetry chart (Farallon vs anti-Steyer coalition)",
+      detail: "Side-by-side stacked bars with red-shades-left / yellow-shades-right palette. Tobacco + CBIA + CCPOA labels in callouts.",
+      status: "done",
+    },
+    {
+      label: "Spend dam-break timeline",
+      detail: "Step chart April 2 to April 28 showing $30K → $20.04M with the April 24 +$5.13M jump highlighted.",
+      status: "done",
+    },
+    {
+      label: "His own record section (#record)",
+      detail: "Metabolizes the Farallon coal/CCA/casinos/tobacco record honestly with Bloomberg + NYT 2020 fact-check caveats.",
+      status: "done",
+    },
+    {
+      label: "CAR mechanism explanation",
+      detail: "Split-roll commercial-Prop-13 framing, not anti-housing.",
+      status: "done",
+    },
+    {
+      label: "Spend numbers refreshed to $20.04M",
+      detail: "Form 460 base + three Form 496 late filings + JOBSPAC and CRAE late receipts.",
+      status: "done",
+    },
+    {
+      label: "Open Questions section",
+      detail: "Includes Gudelunas payment trail unverified + Form 496 payee gap + remaining $1M deployment watch.",
+      status: "done",
+    },
+    {
+      label: "Tip box on the beat page",
+      detail: "Brutalist tip box at the bottom; routes to guerillapropaganda@proton.me.",
+      status: "done",
+    },
+  ],
+}
+
+BEATS.push(BEATS_ACTIVE_CLASS_TRAITOR)
+BEATS.push(...BEATS_UPCOMING)
+
 export function getBeat(slug: string): BeatRecord | null {
   return BEATS.find((b) => b.slug === slug) || null
 }
 
 export function listBeats(): BeatRecord[] {
   return BEATS
+}
+
+export function listBeatsByStatus(status: BeatStatus): BeatRecord[] {
+  return BEATS.filter((b) => b.status === status)
 }

@@ -77,7 +77,15 @@ function BeatCard({
       : { label: `${preflight.failingCount} GATE${preflight.failingCount === 1 ? "" : "S"} OPEN`, bg: "#1f2937", fg: "var(--color-text)" }
 
   const statusTagBg =
-    beat.status === "active" ? "#1d4ed8" : beat.status === "published" ? "#16a34a" : beat.status === "draft" ? "#fbbf24" : "#737373"
+    beat.status === "active"
+      ? "#1d4ed8"
+      : beat.status === "published"
+        ? "#16a34a"
+        : beat.status === "draft"
+          ? "#fbbf24"
+          : beat.status === "upcoming"
+            ? "#7c3aed"
+            : "#737373"
 
   return (
     <Link
