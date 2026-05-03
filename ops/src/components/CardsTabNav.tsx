@@ -3,8 +3,7 @@ import Link from "next/link"
 /**
  * Shared tab navigation across the unified Cards surface.
  *
- * The card-generator and meme-catalog used to live at /distribution/cards
- * and /memes respectively; this component appears at the top of both,
+ * The card-generator and meme-catalog both live under /distribution/cards now; this component appears at the top of both,
  * presenting them as two views of one feature: "By Profile" (search any
  * profile, generate a share image) vs "By Beat" (curated memes from the
  * meme kit, per beat).
@@ -16,7 +15,7 @@ export function CardsTabNav({ active }: { active: "profile" | "beat" }) {
   return (
     <div style={{ display: "flex", gap: "4px", marginBottom: "20px", borderBottom: "2px solid #1f2937", paddingBottom: "12px", flexWrap: "wrap" }}>
       <Link
-        href="/memes"
+        href="/distribution/cards/by-beat"
         style={{
           padding: "10px 16px",
           fontFamily: "var(--font-mono, monospace)",

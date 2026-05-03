@@ -4,7 +4,7 @@ import { CardsTabNav } from "@/components/CardsTabNav"
 import { BEATS, MEMES, memesByBeat } from "@/lib/memes-catalog"
 
 /**
- * Memes top-level · /memes
+ * Cards · By Beat · /distribution/cards/by-beat
  *
  * Lists every beat that has a meme kit, with a count of memes per beat
  * and a link to the per-beat sub-page. Plus a Share Queue link for the
@@ -35,7 +35,7 @@ export default function MemesPage() {
           return (
             <Link
               key={beat.slug}
-              href={`/memes/${beat.slug}`}
+              href={`/distribution/cards/by-beat/${beat.slug}`}
               style={{
                 display: "block",
                 padding: "20px 24px",
@@ -67,7 +67,7 @@ export default function MemesPage() {
         })}
 
         <Link
-          href="/memes/share-queue"
+          href="/distribution/cards/by-beat/share-queue"
           style={{
             display: "block",
             padding: "20px 24px",

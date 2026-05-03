@@ -114,7 +114,7 @@ const WHAT_THIS_DOES: Record<string, string> = {
   cadence:
     "Weekly posting rhythm. What to post on which platform on which day. Mon anchor / Tue+Thu engagement / Wed receipt drop / Fri working notes / Sat+Sun off. Per-platform: handle, posts-per-week target, best times, content type, priority rank.",
   queue:
-    "Drafts ready to post. Pulled live from data/meme-publish-queue.jsonl (the queue from /memes share workflow). Items show status, beat, target platform, and date.",
+    "Drafts ready to post. Pulled live from data/meme-publish-queue.jsonl (the queue from /distribution/cards/by-beat share workflow). Items show status, beat, target platform, and date.",
   targets:
     "Adversarial + friendly accounts to engage. Adversarial = quote-reply with receipts. Friendly = amplify and tag. Per row: handle, platform, tier, why, last engagement date.",
   algorithm:
@@ -123,7 +123,7 @@ const WHAT_THIS_DOES: Record<string, string> = {
 
 const ACTION_TEXT: Record<string, string> = {
   cadence: "Post when there is a receipt, engage when there is data, otherwise stay quiet. Edit the schedule in content/Admin Notes/distribution-schedule.md.",
-  queue: "Items shown here are drafted via /memes. Click a beat to jump into its meme catalog. Status flips as posts ship.",
+  queue: "Items shown here are drafted via /distribution/cards/by-beat. Click a beat to jump into its meme catalog. Status flips as posts ship.",
   targets: "Per Rule 13, every handle in tier 1 + 2 needs Editor verification before engagement. Add new targets by editing the schedule file.",
   algorithm: "Tier each lever testing / confirmed / killed. Promote levers from testing to confirmed once they reliably convert.",
 }
@@ -248,7 +248,7 @@ function QueueView() {
     <div>
       <Section title={`Drafted (${draft.length})`}>
         {draft.length === 0 ? (
-          <EmptyState text="No drafted items in the queue. Draft new memes via /memes." />
+          <EmptyState text="No drafted items in the queue. Draft new memes via /distribution/cards/by-beat." />
         ) : (
           <div style={{ display: "grid", gap: "8px" }}>
             {draft.map((q) => <QueueRow key={q.id} item={q} />)}
@@ -285,7 +285,7 @@ function QueueView() {
       )}
 
       <div style={{ marginTop: "20px", padding: "12px 16px", background: "rgba(31, 41, 55, 0.4)", border: "1px solid #1f2937", fontSize: "12px", color: "var(--color-text-dim)", lineHeight: 1.6 }}>
-        <strong style={{ color: "var(--color-text)" }}>Source:</strong> data/meme-publish-queue.jsonl. Items get drafted from the per-beat meme catalog at <Link href="/memes" style={{ color: "#5b8dce" }}>/memes</Link>. Status transitions: draft → approved → posted (or archived/rejected).
+        <strong style={{ color: "var(--color-text)" }}>Source:</strong> data/meme-publish-queue.jsonl. Items get drafted from the per-beat meme catalog at <Link href="/distribution/cards/by-beat" style={{ color: "#5b8dce" }}>/distribution/cards/by-beat</Link>. Status transitions: draft → approved → posted (or archived/rejected).
       </div>
     </div>
   )
@@ -696,7 +696,7 @@ function QueueRow({ item }: { item: QueueItem }) {
       <div style={{ display: "flex", gap: "10px", alignItems: "center", flexWrap: "wrap", marginBottom: "4px" }}>
         <span style={{ background: statusColor, color: item.status === "approved" ? "#0a0a0a" : "#fff", padding: "2px 8px", fontSize: "10px", fontWeight: 700, letterSpacing: "1px", textTransform: "uppercase", fontFamily: "var(--font-mono, monospace)" }}>{item.status}</span>
         {item.beat && (
-          <Link href={`/memes/${item.beat}`} style={{ fontSize: "11px", color: "#fbbf24", fontFamily: "var(--font-mono, monospace)", textDecoration: "none" }}>{item.beat}</Link>
+          <Link href={`/distribution/cards/by-beat/${item.beat}`} style={{ fontSize: "11px", color: "#fbbf24", fontFamily: "var(--font-mono, monospace)", textDecoration: "none" }}>{item.beat}</Link>
         )}
         {item.template && (
           <span style={{ fontSize: "10px", color: "var(--color-text-dim)", fontFamily: "var(--font-mono, monospace)", letterSpacing: "1px", textTransform: "uppercase" }}>{item.template}</span>

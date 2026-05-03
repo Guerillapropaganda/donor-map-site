@@ -473,7 +473,7 @@ export const BEATS: BeatRecord[] = [
       },
       {
         label: "Meme kit drafted",
-        detail: "10 memes across 5 stories. Five tagged for this beat. Captions queued via /memes ops surface.",
+        detail: "10 memes across 5 stories. Five tagged for this beat. Captions queued via /distribution/cards/by-beat ops surface.",
         status: "done",
       },
       {
