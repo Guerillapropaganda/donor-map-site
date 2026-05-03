@@ -74,7 +74,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.LandingPage(),
-      condition: (page) => page.fileData.slug === "index",
+      condition: (page) => page.fileData.slug === "index" && !isBeatPage(page),
     }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),

@@ -1,3 +1,671 @@
 ---
-title: The Donor Map
+title: "The Donor Map"
+type: beat
+slug: index
+description: "I name the donors. I map the money. I show the contradictions."
 ---
+
+<!-- HOMEPAGE: ported from prototype/home.html. Replaces the prior construction splash. -->
+<!-- The LandingPage component (construction splash) is suppressed on beat pages -->
+<!-- via the isBeatPage condition in quartz.layout.ts. -->
+
+<div class="beat-page-root">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav strip ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+  transition: border-color 0.15s ease;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+
+/* ─── Hero ─── */
+/* ─── Manifesto strip (brutalist motion, brand-level) ─── */
+.manifesto {
+  background: #0a0a0a;
+  color: #f5f0eb;
+  border-bottom: 4px solid #fbbf24;
+  position: relative;
+  overflow: hidden;
+  min-height: 96px;
+}
+.manifesto-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 26px 32px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 28px;
+  position: relative;
+  z-index: 2;
+}
+.manifesto-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #fbbf24;
+  text-transform: uppercase;
+  border: 2px solid #fbbf24;
+  padding: 6px 12px;
+  white-space: nowrap;
+}
+.manifesto-stage {
+  position: relative;
+  height: 44px;
+  overflow: hidden;
+}
+.manifesto-line {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  letter-spacing: -1px;
+  line-height: 1;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateY(14px);
+  animation: manifesto-cycle 25s infinite;
+}
+.manifesto-line em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #fbbf24;
+  margin: 0 4px;
+}
+.manifesto-line:nth-child(1) { animation-delay: 0s; }
+.manifesto-line:nth-child(2) { animation-delay: 5s; }
+.manifesto-line:nth-child(3) { animation-delay: 10s; }
+.manifesto-line:nth-child(4) { animation-delay: 15s; }
+.manifesto-line:nth-child(5) { animation-delay: 20s; }
+@keyframes manifesto-cycle {
+  0%   { opacity: 0; transform: translateY(14px); }
+  4%   { opacity: 1; transform: translateY(0); }
+  20%  { opacity: 1; transform: translateY(0); }
+  24%  { opacity: 0; transform: translateY(-14px); }
+  100% { opacity: 0; transform: translateY(-14px); }
+}
+.manifesto-counter {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ddd;
+  text-align: right;
+  white-space: nowrap;
+}
+.manifesto-counter strong {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: #f5f0eb;
+  background: #e63946;
+  padding: 2px 10px;
+  margin-bottom: 4px;
+}
+.manifesto-sweep {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 4px;
+  width: 100%;
+  background: linear-gradient(90deg, transparent 0%, #fbbf24 20%, #e63946 50%, #1d4ed8 80%, transparent 100%);
+  transform: translateX(-100%);
+  animation: manifesto-sweep 25s linear infinite;
+  z-index: 1;
+}
+@keyframes manifesto-sweep {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .manifesto-line,
+  .manifesto-sweep { animation: none; }
+  .manifesto-line:nth-child(1) { opacity: 1; transform: translateY(0); }
+}
+@media (max-width: 720px) {
+  .manifesto-inner { grid-template-columns: 1fr; gap: 14px; }
+  .manifesto-line { font-size: 22px; }
+  .manifesto-counter { text-align: left; }
+}
+
+.hero {
+  padding: 100px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.hero-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 96px;
+  letter-spacing: -4px;
+  line-height: 0.95;
+  margin-bottom: 28px;
+}
+.hero h1 .a { display: block; }
+.hero h1 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -2px;
+}
+.hero .tagline {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 36px;
+  line-height: 1.25;
+  color: var(--ink);
+  max-width: 780px;
+  margin-bottom: 48px;
+  border-left: 4px solid var(--black);
+  padding-left: 28px;
+}
+.hero .tagline strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 6px;
+}
+.hero .mission {
+  font-family: 'Inter', sans-serif;
+  font-size: 19px;
+  line-height: 1.6;
+  color: var(--ink);
+  max-width: 720px;
+}
+.hero .mission strong {
+  font-weight: 700;
+}
+
+/* ─── Featured beat section ─── */
+.featured {
+  padding: 80px 32px;
+  border-bottom: 2px solid var(--black);
+}
+.featured-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.section-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+.beat-card {
+  display: grid;
+  grid-template-columns: 380px 1fr;
+  gap: 48px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+  padding: 40px;
+  text-decoration: none;
+  color: var(--ink);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.beat-card:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 6px 6px 0 var(--black);
+}
+.beat-card .visual {
+  background: var(--cream);
+  border: 2px solid var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  min-height: 280px;
+}
+.beat-card .visual svg {
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+}
+.beat-card .meta {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.beat-card .meta .date { margin-right: 16px; }
+.beat-card .meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 3px 10px;
+}
+.beat-card h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.05;
+  letter-spacing: -1.5px;
+  margin-bottom: 16px;
+}
+.beat-card h2 .h-red { background: var(--red); color: #fff; padding: 0 6px; }
+.beat-card .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 22px;
+  line-height: 1.35;
+  color: var(--ink);
+  margin-bottom: 24px;
+}
+.beat-card .read-more {
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--black);
+  padding-bottom: 4px;
+  display: inline-block;
+}
+
+/* ─── More beats grid (placeholder) ─── */
+.more-beats {
+  padding: 80px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.more-beats-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.more-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  margin-top: 24px;
+}
+.beat-mini {
+  background: var(--cream);
+  border: 2px solid var(--black);
+  padding: 28px;
+  font-family: 'Inter', sans-serif;
+}
+.beat-mini.placeholder {
+  background: transparent;
+  border: 2px dashed var(--line-strong);
+  color: var(--muted);
+  font-style: italic;
+}
+.beat-mini .meta-mini {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.beat-mini h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.1;
+  letter-spacing: -0.5px;
+  margin-bottom: 10px;
+}
+.beat-mini .placeholder-text {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.4;
+  color: var(--muted);
+}
+.beat-mini.live {
+  text-decoration: none;
+  color: var(--ink);
+  display: block;
+  position: relative;
+  transition: background 0.15s;
+}
+.beat-mini.live:hover { background: var(--paper); }
+.beat-mini.live .meta-mini { color: var(--red); font-weight: 700; }
+.beat-mini.live h3 { color: var(--ink); }
+.beat-mini.live .deck-mini {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 17px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 12px;
+}
+.beat-mini.live .deck-mini .h-red { background: var(--red); color: #fff; padding: 0 4px; font-style: normal; font-family: 'Inter', sans-serif; font-weight: 900; }
+.beat-mini.live .read-more-mini {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--red);
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+}
+
+/* ─── Footer ─── */
+.footer {
+  padding: 60px 32px 80px;
+  background: var(--black);
+  color: var(--cream);
+}
+.footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 48px;
+}
+.footer h4 {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: var(--yellow);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--cream);
+  margin-bottom: 12px;
+}
+.footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.footer p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #ccc;
+  margin-bottom: 14px;
+}
+.footer ul { list-style: none; }
+.footer ul li { margin-bottom: 10px; }
+.footer ul li a {
+  color: var(--cream);
+  text-decoration: none;
+  font-size: 14px;
+  border-bottom: 1px solid #555;
+}
+.footer ul li a:hover { border-bottom-color: var(--yellow); }
+.footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #888;
+  letter-spacing: 1px;
+  margin-top: 32px;
+  padding-top: 20px;
+  border-top: 1px solid #333;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .hero h1 { font-size: 56px; letter-spacing: -2px; }
+  .hero .tagline { font-size: 22px; }
+  .beat-card { grid-template-columns: 1fr; gap: 24px; padding: 28px; }
+  .beat-card h2 { font-size: 30px; }
+  .more-grid { grid-template-columns: 1fr; }
+  .footer-inner { grid-template-columns: 1fr; }
+}
+</style>
+
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Manifesto strip (brutalist motion, brand-level) ─── -->
+<aside class="manifesto" aria-label="The Donor Map principles">
+  <div class="manifesto-inner">
+    <div class="manifesto-tag">THE DONOR MAP // 2026</div>
+    <div class="manifesto-stage" aria-live="polite">
+      <div class="manifesto-line">Facts <em>are</em> free.</div>
+      <div class="manifesto-line">Donors are <em>public</em> record.</div>
+      <div class="manifesto-line">Follow <em>the</em> money.</div>
+      <div class="manifesto-line">The pattern <em>is</em> the story.</div>
+      <div class="manifesto-line">Names. Dollars. <em>Receipts.</em></div>
+    </div>
+  </div>
+  <div class="manifesto-sweep" aria-hidden="true"></div>
+</aside>
+
+<!-- ─── Hero ─── -->
+<section class="hero">
+  <div class="hero-inner">
+    <h1>
+      <span class="a">The Donor</span>
+      <span class="a"><em>Map.</em></span>
+    </h1>
+    <p class="tagline">
+      I name <strong>the donors</strong>. I map <strong>the money</strong>. I show <strong>the contradictions</strong>.
+    </p>
+    <p class="mission">
+      The Donor Map is one person following political money. One race at a time. Every donation pulled from primary-source filings. Every donor named. Every contradiction shown.
+    </p>
+    <div style="margin-top: 36px; display: flex; gap: 14px; flex-wrap: wrap; align-items: center;">
+      <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 10px; background: var(--red); color: #fff; padding: 16px 28px; font-family: 'Inter', sans-serif; font-weight: 900; font-size: 16px; letter-spacing: 0.5px; text-decoration: none; border: 3px solid var(--black); box-shadow: 6px 6px 0 var(--black); transition: transform 0.1s ease, box-shadow 0.1s ease;" onmouseover="this.style.transform='translate(2px,2px)';this.style.boxShadow='4px 4px 0 var(--black)'" onmouseout="this.style.transform='translate(0,0)';this.style.boxShadow='6px 6px 0 var(--black)'">
+        Support on Patreon →
+      </a>
+      <span style="font-family: 'Instrument Serif', serif; font-style: italic; font-size: 16px; color: var(--muted);">Funds the next investigation. No paywall on the work.</span>
+    </div>
+  </div>
+</section>
+
+<!-- ─── Featured beat ─── -->
+<section class="featured">
+  <div class="featured-inner">
+    <div class="section-label">Latest investigation</div>
+    <a href="/three-becerras" class="beat-card">
+      <div class="visual">
+        <!-- Inline three-audiences SVG: Becerra at top → 3 audience messages -->
+        <svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" aria-label="Three audiences hearing three messages from Becerra on single payer">
+          <defs>
+            <marker id="arrow-bk-h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+            </marker>
+          </defs>
+
+          <!-- Top: Becerra source node -->
+          <rect x="140" y="14" width="80" height="44" fill="#0a0a0a"/>
+          <text x="180" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" fill="#fbbf24" letter-spacing="-0.5">BECERRA</text>
+          <text x="180" y="46" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#aaa">CA GOV 2026</text>
+
+          <!-- Three audience message boxes -->
+          <!-- Audience 1: campaign website (blue) -->
+          <rect x="6" y="98" width="100" height="60" fill="#fff" stroke="#1d4ed8" stroke-width="1.5"/>
+          <text x="56" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#1d4ed8" letter-spacing="1">WEBSITE / 3-23</text>
+          <text x="56" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"deliver single-</text>
+          <text x="56" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">payer for our state"</text>
+
+          <!-- Audience 2: LAist interview (black) -->
+          <rect x="130" y="98" width="100" height="60" fill="#fff" stroke="#0a0a0a" stroke-width="1.5"/>
+          <text x="180" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">LAIST</text>
+          <text x="180" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"this fed govt</text>
+          <text x="180" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">won't help us"</text>
+
+          <!-- Audience 3: doctors lobby (red) -->
+          <rect x="254" y="98" width="100" height="60" fill="#fff" stroke="#e63946" stroke-width="1.5"/>
+          <text x="304" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#e63946" letter-spacing="1">DOCTORS / KQED</text>
+          <text x="304" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"wasn't supportive</text>
+          <text x="304" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">of single payer"</text>
+
+          <!-- Arrows from Becerra to each audience -->
+          <line x1="155" y1="58" x2="56" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
+          <line x1="180" y1="58" x2="180" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
+          <line x1="205" y1="58" x2="304" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
+
+          <!-- Receipt band at bottom -->
+          <rect x="6" y="180" width="348" height="64" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
+          <text x="180" y="195" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">HEALTHCARE-INDUSTRY MAX DONORS</text>
+          <g font-family="Space Mono, monospace" font-size="8" fill="#0a0a0a">
+            <text x="14" y="212">Schaeffer (Anthem)</text><text x="170" y="212" text-anchor="end" font-weight="700">$39,200</text>
+            <text x="180" y="212">Molina Healthcare CEO</text><text x="346" y="212" text-anchor="end" font-weight="700">$49,700</text>
+            <text x="14" y="226">AltaMed (largest CA FQHC)</text><text x="170" y="226" text-anchor="end" font-weight="700">$39,200</text>
+            <text x="180" y="226">Cantu (DHR Health)</text><text x="346" y="226" text-anchor="end" font-weight="700">$39,200</text>
+            <text x="14" y="240">Prime Healthcare (HHS-OIG CIA)</text><text x="170" y="240" text-anchor="end" font-weight="700">$20,000</text>
+            <text x="180" y="240">Ayala household (Adventist+Kaiser)</text><text x="346" y="240" text-anchor="end" font-weight="700">$50,000</text>
+          </g>
+        </svg>
+      </div>
+      <div class="content">
+        <div class="meta">
+          <span class="date">May 2, 2026</span>
+          <span class="tag">CA Gov 2026</span>
+        </div>
+        <h2>What he says depends on <span class="h-red">who is listening</span>.</h2>
+        <p class="deck">
+          Xavier Becerra cosponsored single-payer bills seven times across four Congresses. On March 23 he said he was ready to "deliver single-payer health care for our state." Six weeks later he told the doctors lobby he was not supportive at this point. The receipts on his donor list explain who is acceptable to whom.
+        </p>
+        <span class="read-more">Read the receipts →</span>
+      </div>
+    </a>
+  </div>
+</section>
+
+<!-- ─── More beats (placeholder slots) ─── -->
+<section class="more-beats">
+  <div class="more-beats-inner">
+    <div class="section-label">More investigations</div>
+    <div class="more-grid">
+      <a href="/chevron" class="beat-mini live">
+        <div class="meta-mini">Live · CA Gov 2026</div>
+        <h3>He took the check. Then he <span style="background: var(--red); color: #fff; padding: 0 4px;">defended</span> it.</h3>
+        <p class="deck-mini">$39,200 from Chevron landed in Becerra's governor account on June 16, 2025. Two rivals refused fossil fuel money. He took the legal max and called the company "not the bad guy."</p>
+        <span class="read-more-mini">Read the receipts →</span>
+      </a>
+      <div class="beat-mini placeholder">
+        <div class="meta-mini">Queued · in audit</div>
+        <h3 style="color: var(--muted);">More investigations as the cycle develops</h3>
+        <p class="placeholder-text">Each beat takes the same standard of work. Primary-source verification. Forensic audit. URL pass. I will not preview an investigation I have not done. Watch this space as new races become the next race.</p>
+      </div>
+      <div class="beat-mini placeholder">
+        <div class="meta-mini">Pending</div>
+        <h3 style="color: var(--muted);">&nbsp;</h3>
+        <p class="placeholder-text">&nbsp;</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── Footer ─── -->
+<footer class="footer" id="about">
+  <div class="footer-inner">
+    <div>
+      <div class="brand-footer">THE DONOR <em>Map.</em></div>
+      <p>One person following political money. Every donation pulled from primary-source filings. Every donor named. Every contradiction shown.</p>
+      <p>No paywall. No corporate owner. No editorial pressure from the people being investigated.</p>
+    </div>
+    <div>
+      <h4>Investigations</h4>
+      <ul>
+        <li><a href="/three-becerras">What he says depends on who is listening (Becerra · healthcare)</a></li>
+        <li><a href="/chevron">He took the check. Then he defended it. (Becerra · Chevron)</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Connect</h4>
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Support on Patreon</a></li>
+        <li><a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+        <li><a href="#">Tip line</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="small">All data verified against primary-source filings · thedonormap.org</div>
+</footer>
+
+
+</div>
