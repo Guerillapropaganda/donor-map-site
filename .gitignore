@@ -72,6 +72,10 @@ data/derived/fec-indiv-by-committee.jsonl
 # data; readers consume via relationships.jsonl + cal-access auto-blocks
 # in profiles. Regenerate by re-running ingest-cal-access-bulk.cjs.
 data/derived/cal-access-bulk.jsonl
+
+# Inter .woff fonts cached by render-og-images.cjs. Sourced from
+# @fontsource/inter at runtime; not a vault asset, just a render cache.
+scripts/lib/.fonts/
 # ingest-plaw-bulk.cjs output, 72MB. Ops Ask API loads it at startup on David's
 # local machine; not needed in the public Quartz build.
 data/bills.jsonl
