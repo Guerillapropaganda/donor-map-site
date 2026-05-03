@@ -4,6 +4,74 @@ type: system
 last-updated: 2026-05-03
 ---
 
+## HANDOFF — 2026-05-03 EVENING (cc_p3_258 → cc_p3_265, Three Becerras forensic finishing + 3 new beats live + share-cards distribution kit + /memes route refactor + Hilton Perplexity audit folded)
+
+**Context:** Code Claude. Worktree `claude/sweet-kirch-69d1a3`, Opus 4.7 (1M context). Continued from this morning's cc_p3_246-270 Path B handoff. ~14 commits to v4 across one extended editorial-and-distribution session. Ended a long debugging detour over the ops `/memes` → `/distribution/cards/by-beat` route refactor that David had to escalate twice before I caught the right surface.
+
+### THIS SESSION'S DELIVERABLES (all shipped to v4 unless noted)
+
+**Three Becerras forensic finishing (cc_p3_258, commits `1706ed112` + `3b341eee7`).** Three folds.
+1. CPCA circuit graph rebuilt: channels reordered chronologically, red watershed bar at Apr 12-13 CMA-withdraws-Swalwell, +8/+17 day arrows pointing back at the bar (the strongest correlation finding — IE PAC formed 17 days after Swalwell collapse, EMC poll commissioned 8 days after), Becerra box flipped red→green ("support of every flow" not "target"), paper-color label backgrounds behind 5 source-channel verbs (endorses / commissions / funds / PAC check / co-seed) so arrow lines no longer cut through them.
+2. Calibration close prose punch in "One position, three finishes" — replaced abstract "voters reading the campaign website have the right to know which finish will land in office" with David's career-long-position + waddle-near-finish-line voter-rights frame ("When a candidate has stated a position across his career and starts to waddle as the finish line approaches, voters have a right to know which policy will land in office.")
+3. Second Becerra IE PAC paragraph — Cal-Access surfaced "Californios Unidos Por Becerra For Governor 2026" sponsored by **Laborers' International Union of North America Local 300** (first seen 2026-04-17), separate from the Working Families for Healthy Communities IE. Three-deep Laborers stack on Becerra: CA State Council $54,700 candidate-committee max + State Council co-seed of Working Families IE + Local 300's separate Latino-coalition IE.
+
+**Three new beat URLs live (cc_p3_259).**
+- `/donors-becerra-2026` ported from prototype + slug added to public-routes (fixes the line-1049 link in Three Becerras that had been 404'ing). Donors page editorial pass at the same time: removed Plaintiff bar `[UNVERIFIED]`-flag-is-lifted tail + two full process-exposure paragraphs ("Industry classification on individual donors is inherently imperfect..." / "Two filing-anomaly notes worth flagging..."). No more "in earlier drafts" or "[UNVERIFIED]" or first-person process narration in published material.
+- `/not-the-bad-guy` ported from `prototype/beat-chevron.html` — slug RENAMED from `/chevron` because chevron collided with the donor profile `content/Donors & Power Networks/Energy & Utilities/Chevron.md` (draft, with UNVERIFIED markers, blocking the publication-readiness pre-push gate). New slug picked up the headline Becerra quote.
+- `/class-traitor` ported from `prototype/beat-class-traitor.html` ($31M anti-Steyer beat). Public-routes is now `[index, three-becerras, about, donors-becerra-2026, not-the-bad-guy, class-traitor]`.
+
+**Site-wide nav fixes (cc_p3_260, commits `49331deac` + `f02019728`).** Three live-site bugs in one pass.
+- `/home` links 404'd everywhere — every page linked nav, breadcrumb, footer "More Investigations" CTA to `/home` which is not a public route. Bulk-replaced `href="/home"` → `href="/"` across 15 files, 56 occurrences.
+- Share This footer button was inert (`href="#"`). Wired to Web Share API with clipboard fallback + prompt() final fallback. Description pulls from each page's `meta name="description"`.
+- Tipline footer link on homepage scrolled to top. Built a brutalist-styled modal (cream panel, black/yellow striped header) with email + social reach + "what helps" + identity-protection fineprint. Closes via X / outside-click / Escape.
+- Followup commit fixed homepage tile that still pointed at the now-renamed `/chevron`, added `/class-traitor` card + footer Investigations list entry.
+
+**Hilton Perplexity audit folded (cc_p3_261).** David ran the round; results saved at `content/Admin Notes/perplexity-research/2026-05-03-hilton-funder-gaps-results.md`.
+- **Headline finding:** Hilton's March 6 2026 Form 700 discloses (a) Rachel Whetstone spouse income > $100K from Sierra Technology Inc., (b) Hilton **personally holds Sierra stock** (Schedule A-1), (c) ongoing Fox News Network LLC commentator salary $10K-$100K range while running for governor. Marriage-correlation story upgrades to **documented-financial-conflict-of-interest story** with Tier 1 CA primary-source anchor. The lead Hilton beat is now "Steve Hilton holds equity in an AI startup, his wife runs its comms, he's running to govern California while Sacramento writes AI laws."
+- Pro-Hilton IE PAC absence triple-verified. Brin dual-candidate hedge already reported by Politico Mar 4. Lighthouse Worldwide is a 5-donor employer cluster (~$196K), not a corporate donor (Google AI Overview was wrong). Hilton v. Weber dismissed Nov 4 2025 (procedurally over). UK citizenship NO DATA — still open.
+
+**Five next-round Perplexity prompts saved (cc_p3_262).** After David pivoted strategy to Bianco/Hilton compare-and-contrast: full prompt set at `content/Admin Notes/perplexity-prompts-2026-05-03-ca-gov.md`. Bianco / Porter / Mahan / Hilton-remaining / cross-candidate-hedge — all in the same Tier 1/2 + NO DATA template the Hilton round proved out. Run order: Bianco first.
+
+**Cross-candidate comparative donor-base audit (cc_p3_263).** Cal-Access derived bulk audit produced the four-candidate structural numbers David asked for. Hilton 14,989 donors / $7.73M / 39 max-out · Bianco 7,324 / $4.47M / 12 max-out · Porter 15,238 / $12.46M / 49 max-out · Mahan **58** unique donors / 63 receipts / **$53.24M** / 56 max-out (≈$918,000 per donor — 1,800× Hilton's). Bianco's top 12 are Inland Empire developers + sheriffs (M&D Development $78,400, Downs Energy $78,400, Highland Fairview $39,200, Haagen family ~$78K, PORAC PAC $39,200) — completely opposite donor class to Hilton's Silicon Valley + Murdoch base. Two Republicans, two California economic zones.
+
+**Share-cards distribution kit (cc_p3_264, commits `e652f4e53` + `1504b6a80`).** Three 1080×1080 brutalist share cards built at `prototype/share-cards-2026-05-03.html` — Three Becerras (BECERRA → 3 audiences daisy chain + healthcare donor band), Not the Bad Guy (Jan 2020 AG fracking suit → Jun 2025 Chevron $39,200 → Apr 2026 "not the bad guy" timeline), Class Traitor ($31M anti-Steyer stacked bar). html2canvas Copy as PNG buttons (clipboard write of image/png blob, ~430KB at 2160×2160). Wired into `prototype/server.cjs` route + `ops/src/app/site-preview/page.tsx` launcher entry. Catalog integration: extended `BeatSlug` union to add `not-the-bad-guy`, flipped `three-becerras` + `class-traitor` metadata to `status: published`, added 3 may3 share-card `MemeEntry` objects with pre-written X/Bluesky captions + structured thumbnail data + `#card-N` anchors.
+
+**`/memes` route DELETED, moved to `/distribution/cards/by-beat` (cc_p3_265, commits `5f7ac346f` + `96e31832e` + `3a0f3f873`).** Architectural change after David flagged the mismatch (twice) — "DELETE THAT MEMES/PAGE. WE ALREADY STATED WHERE THESE SHOULD GO." Full route move: `ops/src/app/memes/{page.tsx, [beat]/, share-queue/}` → `ops/src/app/distribution/cards/by-beat/`. CardsTabNav "By Beat" href repointed. /memes is a 404. Six call-site references updated (active-beat ArtifactCard, distribution/[tab] queue descriptions + Link, internal beat-tile Link, back-to-list links, beats-catalog copy text). Plus inline full-card render in the catalog: new `ops/src/components/ShareCardFull.tsx` (~360 lines, three SVG variants matching prototype HTML exactly, `forwardRef` for clipboard capture). Added `shareCardKind?:` to MemeEntry.thumbnail; set on the 3 may3 entries. MemeCard.tsx now conditionally renders ShareCardFull when shareCardKind set, plus Copy as PNG + Download buttons calling `renderCardCanvas()` (clones to hidden 1080×1080 wrapper, removes scale transform via `data-share-card-inner`, `await document.fonts.ready`, html2canvas at scale=2). Two render bugs fixed in the followup: highlight span wrap-bleed (added `display: inline-block` + `whiteSpace: nowrap`) and headline fontSize 56→50 + lineHeight 1.0→1.05 + letterSpacing -2→-1.5.
+
+### CRITICAL TODOs FOR NEXT SESSION
+
+1. **Run Bianco Perplexity round.** Saved prompt is ready at `content/Admin Notes/perplexity-prompts-2026-05-03-ca-gov.md`. Republican-side balance is the editorial-mix gap before any new Hilton beat ships — current published profile is two Becerra hits + one Steyer-defensive piece, partisan-skewed.
+
+2. **Bianco/Hilton compare-and-contrast beat.** All four candidates' structural numbers are in hand from cc_p3_263. Donor-class shape is the wedge — two Republicans funded by completely opposite California economic zones.
+
+3. **Hilton beat (Path A — Sierra equity story).** Tier 1 anchor on Form 700 (cc_p3_261). Lowest defamation surface, highest readability. Sidebar can fold in the Fox News commentator-while-running detail. Wait until the Bianco beat is done so the editorial mix is balanced before this lands.
+
+4. **Sunday-evening soft-launch FB-group distribution.** Three share cards copy-paste-ready from `/distribution/cards/by-beat/{slug}` — click Copy as PNG, paste into Facebook. Variants drafted in chat for each beat × 3 group-tone variants each.
+
+5. **Six remaining beat ports.** prototype HTML beats not yet live: `/bianco-ballots`, `/villaraigosa-pledge`, `/bearstar-octopus`, `/mahan`, `/cop-coddler`. Each needs the proven `cp prototype/beat-<slug>.html content/<slug>/index.html` + public-routes flip pattern + URL-pass verification (David's lane).
+
+### David's lane (decisions needed before next code work)
+
+- Pick which Bianco/Hilton frame leads — strongest reading right now is the donor-class-zone contrast ("two Republicans, two opposite California donor bases").
+- Run remaining Perplexity rounds in priority order — Bianco first.
+- URL-pass verification on the 3 newly-live beats (donors-becerra-2026 / not-the-bad-guy / class-traitor) before any further public exposure or promotion-amplification.
+- Test the Sunday-evening FB-group distribution flow on a 1-2 group sample before going wider.
+
+### Editorial standards locked in (memory)
+
+- No AI attribution in any published material.
+- No em dashes, no AI vernacular ("furthermore," "crucially," "importantly," "ultimately," "it's not X but Y").
+- Watch for triple-parallel rhythm tells, "This page does not claim..." scaffolding, over-symmetric beat templates.
+- **NEW from this session:** Distribution = first-person disclosed. Posting to Facebook groups from personal account: "I run thedonormap.org" lead, never "Guerrilla Propaganda just published" third-person framing. Honest disclosure beats deceptive optimization.
+- **NEW from this session:** No process-exposure in published material — no "[UNVERIFIED]" tells, no "in earlier drafts," no "I documented this in the main investigation." Process belongs in admin notes; published pages show only the verified record.
+
+### Worktree
+
+- Current: `claude/sweet-kirch-69d1a3`. ~14 commits this session. Final commit: `3a0f3f873` (share-card render fixes).
+- Ops dev server is currently running in this Claude session's background process (port 3333, started from main repo path). It dies when this session ends. For next session: `cd C:\Users\third\donor-map-site\ops && npx next dev -p 3333` (worktree has no node_modules; must be run from main repo).
+
+---
+
 ## HANDOFF — 2026-05-03 (cc_p3_246 → cc_p3_270, full Path B port + 5 new beats + WYSIWYG editor + Perplexity batch fold-in)
 
 **Context:** Code Claude. Worktree `claude/epic-khayyam-f90433`, Opus 4.7 (1M context). Session bridged 5/2 evening into 5/3 morning. ~20 commits to v4. Started from cc_p3_245 handoff (Anchor-3 polish pass). Closed out the May 6 anchor-3 launch path: homepage swap, three-becerras live, about live, plus the editor surface David asked for.

@@ -314,3 +314,20 @@ If Perplexity returns "no data" or clearly fabricates, **do not use the output**
 - Flag the gap in the destination doc prominently
 
 Fabrication risk is highest in C (legal precedent) and G (prior art) — always spot-check 2-3 cited cases against real search results before trusting the output.
+
+---
+
+## CA Gov 2026 candidate institutional-money audits
+
+**Use when:** Following up on cross-candidate gaps after structural Cal-Access audits. Each audit asks numbered questions with the same return format (URL · tier · date · one-line statement). NO DATA when Tier 1/2 sources are absent. No aggregators (TransparencyUSA, OpenSecrets aggregations) and no social media.
+
+The Hilton audit was the first of these (template proven 2026-05-03). The five prompts below are the next-round set following that audit's methodology.
+
+**Output destinations:**
+- Bianco prompt → `content/Admin Notes/perplexity-research/2026-05-03-bianco-funder-gaps-results.md`
+- Porter prompt → `content/Admin Notes/perplexity-research/2026-05-03-porter-funder-gaps-results.md`
+- Mahan prompt → `content/Admin Notes/perplexity-research/2026-05-03-mahan-funder-gaps-results.md`
+- Hilton followup → `content/Admin Notes/perplexity-research/2026-05-03-hilton-remaining-gaps-results.md`
+- Cross-candidate hedge → `content/Admin Notes/perplexity-research/2026-05-03-cross-candidate-hedge-results.md`
+
+The full prompt text is in `content/Admin Notes/perplexity-prompts-2026-05-03-ca-gov.md` (saved alongside the library so the prompt strings can be copy-pasted without scrolling through the library doc).
