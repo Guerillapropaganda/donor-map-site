@@ -47,6 +47,10 @@ export interface MemeEntry {
     receipts?: { name: string; value: string }[]
     /** Topbar tag (right side of the topbar), defaults to "CA GOV 2026". */
     topbarTag?: string
+    /** When set, MemeCard renders the full share-card layout (with embedded
+     *  SVG graph) instead of the structured-data thumbnail. The Copy as PNG
+     *  button captures the rendered ShareCardFull element directly. */
+    shareCardKind?: "three-becerras" | "not-the-bad-guy" | "class-traitor"
   }
 }
 
@@ -397,6 +401,7 @@ export const MEMES: MemeEntry[] = [
         { name: "Cantu (DHR Health co-founder)", value: "$39,200" },
       ],
       topbarTag: "BECERRA · CA GOV 2026",
+      shareCardKind: "three-becerras",
     },
   },
   {
@@ -421,6 +426,7 @@ export const MEMES: MemeEntry[] = [
         { name: '"Not the bad guy" forum', value: "Apr 29, 2026" },
       ],
       topbarTag: "BECERRA · CA GOV 2026",
+      shareCardKind: "not-the-bad-guy",
     },
   },
   {
@@ -445,6 +451,7 @@ export const MEMES: MemeEntry[] = [
         { name: "Coalition tracked", value: "~$10M" },
       ],
       topbarTag: "STEYER · CA GOV 2026",
+      shareCardKind: "class-traitor",
     },
   },
 ]
