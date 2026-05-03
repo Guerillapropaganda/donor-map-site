@@ -14,6 +14,11 @@ http.createServer((req, res) => {
   else if (url === '/three-becerras' || url === '/beat-three-becerras' || url === '/beat-three-becerras.html') file = 'beat-three-becerras.html';
   else if (url === '/chevron' || url === '/beat-chevron' || url === '/beat-chevron.html') file = 'beat-chevron.html';
   else if (url === '/donors-becerra-2026' || url === '/donors-becerra-2026.html') file = 'donors-becerra-2026.html';
+  else if (url === '/bianco-ballots' || url === '/beat-bianco-ballots' || url === '/beat-bianco-ballots.html') file = 'beat-bianco-ballots.html';
+  else if (url === '/villaraigosa-pledge' || url === '/beat-villaraigosa-pledge' || url === '/beat-villaraigosa-pledge.html') file = 'beat-villaraigosa-pledge.html';
+  else if (url === '/bearstar-octopus' || url === '/beat-bearstar-octopus' || url === '/beat-bearstar-octopus.html') file = 'beat-bearstar-octopus.html';
+  else if (url === '/mahan' || url === '/beat-mahan' || url === '/beat-mahan.html') file = 'beat-mahan.html';
+  else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else file = 'landing-v3.html';
   const filePath = path.join(__dirname, file);

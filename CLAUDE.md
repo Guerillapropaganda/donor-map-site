@@ -172,6 +172,16 @@ git push origin v4        # triggers GitHub Pages deploy
 
 Deploy workflow: `.github/workflows/deploy.yml`. Pre-commit and pre-push gates must pass first.
 
+### When you ship a new beat (or any prototype HTML)
+
+Three places must update together. Missing any one means the beat exists on disk but is invisible to David in his daily ops surfaces.
+
+1. **`prototype/server.cjs`** — add a `case` line so the file is served at its slug on `localhost:8096`. Without this, the URL 404s.
+2. **`ops/src/app/site-preview/page.tsx`** — append a record to `PROTOTYPE_PAGES` so the beat shows up on the Site Preview launcher page (`/site-preview` in ops). Without this, David has no UI surface that lists the beat. Use status `draft-isolated` for new beats not yet linked from homepage; `prototype` once linked.
+3. **`ops/src/lib/beats-catalog.ts`** — flip the beat record's `prototypeFile`, `prototypeUrl`, and `status` (typically to `active`). This is what `/active-beat`, `/beats`, and `/charts` ops pages read. Without this, the beat doesn't appear in the editorial workspace surfaces.
+
+These three updates are non-negotiable for any new prototype HTML beat. Same pattern applies for non-beat prototypes (meme kits, chart prototypes, donor lists). Commit all three together.
+
 ## Stories vs Relationships — what's the difference
 
 **Relationships** (`data/relationships.jsonl`, ~236K edges) are atomic facts: "A funded B," "A is married to B," "A opposed B." Each edge is one true thing. They answer **"what exists."** The librarian (ADR-0024) is the source of truth. The relationship graph is owned by the canonical store; profile frontmatter `donors:` / `opposes:` / `politicians-funded:` fields are read-caches derived from this graph (Rule 1).
