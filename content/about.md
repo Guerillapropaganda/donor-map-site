@@ -1,0 +1,682 @@
+---
+title: "About"
+type: beat
+slug: about
+description: "One person following political money. Why this project exists, the lens it uses, and the standards it holds itself to."
+---
+
+<!-- ABOUT PAGE: ported from prototype/about.html. Same Quartz beat pattern as Three Becerras. -->
+
+<div class="beat-page-root">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Tip box (brutalist) ─── */
+.tip-box {
+  display: flex;
+  align-items: stretch;
+  margin: 24px 0 8px;
+  border: 3px solid var(--black);
+  background: var(--paper);
+}
+.tip-box-stripes {
+  flex: 0 0 28px;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      var(--yellow) 0,
+      var(--yellow) 12px,
+      var(--black) 12px,
+      var(--black) 24px
+    );
+}
+.tip-box-body {
+  flex: 1;
+  padding: 22px 28px;
+}
+.tip-box-tag {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--cream);
+  background: var(--black);
+  padding: 4px 10px;
+  margin-bottom: 16px;
+}
+.tip-box-row {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 14px;
+  padding: 8px 0;
+  border-top: 1px solid var(--line);
+  font-size: 15px;
+  line-height: 1.5;
+}
+.tip-box-row:first-of-type { border-top: none; }
+.tip-box-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  align-self: start;
+  padding-top: 2px;
+}
+.tip-box-value {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: var(--ink);
+}
+.tip-box-value a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+.tip-box-value a:hover { background: var(--yellow); }
+.tip-box-fineprint {
+  margin: 18px 0 0;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--muted);
+  font-style: italic;
+}
+@media (max-width: 600px) {
+  .tip-box-stripes { flex-basis: 18px; }
+  .tip-box-body { padding: 18px 18px; }
+  .tip-box-row { grid-template-columns: 1fr; gap: 4px; }
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about" class="active">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      <span>About</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">The Donor Map</span>
+      <span class="date">Last updated 2026-05-02</span>
+    </div>
+    <h1>One person <span class="h-red">following the money</span>.</h1>
+    <p class="deck">
+      The Donor Map is an investigative project on political money. One race at a time. Every donation pulled from primary-source filings. Every donor named. Every contradiction shown.
+    </p>
+  </div>
+</header>
+
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>Why this exists.</strong> I watch hours of political pundits and reporters detailing crime after crime with one thought: why aren't these people in prison? People speak truth to power, and the powerful escape any consequences. What lets them slip past every scandal and face nothing?
+    </p>
+
+    <p>
+      The answer is clear. It is the money. The people funding the politicians are the ones holding up the systematic corruption. This project is an attempt to show the average voter that the policies they have been told about by their media consent speakers are a lie. The ulterior motives, the two-speak politicians, the ones with a public persona and a private one: they are following orders to their actual masters.
+    </p>
+
+    <p>
+      <strong>This is a systematic problem, not a cultural one.</strong>
+    </p>
+
+    <h2>The lens</h2>
+
+    <p>
+      When I read political news I try to look at it from a class and economic standpoint. Today's world consists of reactionary, small-minded solutions. We need a bigger lens. <strong>Who actually wants these policies implemented?</strong> Who actually believes the taxes they pay shouldn't service their own lives, and should instead service the billionaires and the controllers of society?
+    </p>
+
+    <p>
+      That is how my mind works. Question after question, trying to find the answers. I know the answers exist. But there are guardrails that prevent the normal working-class person from knowing the truth of how society really operates.
+    </p>
+
+    <p>
+      The politician works for incentives. The incentives come from the donors who fund their campaigns. That funding drove the legislation they supported in 2020 and the legislation they suddenly fearmonger against in 2024. Ideological standpoints do not really exist in a system based solely on profit.
+    </p>
+
+    <div class="pull-quote">
+      Money and power <strong>is</strong> the ideological standpoint. The class-analysis question is the only one you should be asking: who pays, and who gets paid?
+    </div>
+
+    <p>
+      My standpoint is not Democrat or Republican. It is who benefits from this policy, the worker or the powers that be. It cannot be a partisan lens when Wall Street funds both sides. Someone who calls themselves a Democrat but takes oil money will break party lines. Someone who calls themselves a Republican but takes labor money will break the other way. Where does the ideology actually stand?
+    </p>
+
+    <h2>How this site works</h2>
+
+    <p>
+      Each investigation on this site is a single beat focused on one race or one structural pattern. The current investigation is <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor;">Three audiences. Three Becerras.</a> on Xavier Becerra's 2026 California gubernatorial bid and the donor coalition that served the softest version of his single-payer position.
+    </p>
+
+    <p>
+      Every claim on every beat traces to a primary or named-publication source. Every dollar amount comes from California Cal-Access primary records. Every quote is attributed to its publication. When a source is Tier 2 (named-publication reporting that itself cites a primary record) it is flagged as such. When a claim is unverified, it is marked <code style="background: var(--paper); padding: 1px 4px; font-family: 'Space Mono', monospace; font-size: 13px;">[UNVERIFIED]</code> and treated as a question, not a finding.
+    </p>
+
+    <p>
+      No paywall. No corporate owner. No editorial pressure from the people being investigated.
+    </p>
+
+    <h2>Why this matters now</h2>
+
+    <p>
+      In twelve months you will ask an AI chatbot "who funds Katie Porter" and get a synthesized answer. That answer will be shallow. It will hedge. It will optimize for balanced over true. It will not name the pattern. It will not connect the dots across donors, think tanks, media, and policy outcomes. It will not tell you what this means.
+    </p>
+
+    <p>
+      Someone has to do that work.
+    </p>
+
+    <p>
+      The Donor Map is a bet that human investigative judgment, cited evidence, class analysis, and a clear editorial voice will matter more in an AI-saturated media environment, not less. Verify any claim. Click any link. Challenge any pattern. Email if you find an error.
+    </p>
+
+    <h2>How to support this</h2>
+
+    <p>
+      The data and every published investigation are free to read. Facts are not copyrightable under U.S. law and I do not pretend otherwise.
+    </p>
+
+    <p>
+      What costs money is the labor: the freshness of the data, the depth of each investigation, the forensic audit pass on every page before it ships. If the work is useful to you and you can afford it, the project's <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Patreon</a> is the direct way to keep it going. No paywall on the work itself; the Patreon funds the next investigation.
+    </p>
+
+    <p>
+      Follow along:
+      <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">X</a> ·
+      <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Instagram</a> ·
+      <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Facebook</a> ·
+      <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer" style="color: var(--blue); border-bottom: 1px solid currentColor;">Patreon</a>.
+      New investigations land first on the channels above.
+    </p>
+
+    <h2>Tip line</h2>
+
+    <p>
+      Have a document, a filing, an FPPC committee that doesn't smell right, or a story I should look at next? Send it. Sources can remain anonymous. Every tip is reviewed against the public record before any claim ships.
+    </p>
+
+    <div class="tip-box">
+      <div class="tip-box-stripes" aria-hidden="true"></div>
+      <div class="tip-box-body">
+        <span class="tip-box-tag">Tip line · confidential</span>
+        <div class="tip-box-row">
+          <span class="tip-box-label">Email</span>
+          <a class="tip-box-value" href="mailto:guerillapropaganda@proton.me?subject=Tip%20for%20The%20Donor%20Map">guerillapropaganda@proton.me</a>
+        </div>
+        <div class="tip-box-row">
+          <span class="tip-box-label">Reach me</span>
+          <span class="tip-box-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-row">
+          <span class="tip-box-label">What helps</span>
+          <span class="tip-box-value">Names. Dates. Filings. Committee IDs. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </div>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>The standards this site holds itself to</h3>
+      <ul>
+        <li><span class="label">Source tier</span> Tier 1 = primary records (Cal-Access, FEC, IRS 990, court records, FPPC enforcement, agency filings). Tier 2 = named-publication reporting that itself cites a primary record. Anything Tier 2 only is flagged in the prose. Aggregator-only and social-media-only sources are not used.</li>
+        <li><span class="label">Quote attribution</span> Every quote names the speaker, the publication, and where applicable the surrounding context. Direct quotes appear in quotation marks. Paraphrases are explicitly labeled as paraphrases.</li>
+        <li><span class="label">Inferences flagged</span> When a claim depends on inference rather than direct evidence, the inference is flagged and the supporting basis is shown. Readers can challenge any inference and the underlying data is auditable.</li>
+        <li><span class="label">Forensic audit</span> Every beat page is run through a structured stress-test before public exposure: claim validity, evidence quality, logical gaps, comparative baselines, what the page does not prove. The audit findings are folded into the page or surfaced as caveats.</li>
+        <li><span class="label">How AI is used here</span> I use AI as research and engineering infrastructure: ingesting bulk filings, building this site, drafting scaffolds, auditing logic, surfacing patterns across the donor data, and pressure-testing the prose. The editorial voice, the framing, the judgment calls about what is and is not a finding, and the final read on every page are mine. AI is a tool I use; AI is not the byline. No published claim ships unless a human has approved it.</li>
+      </ul>
+    </div>
+
+  </div>
+</article>
+
+
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All claims trace to a primary or named-publication source · last updated 2026-05-02</div>
+</footer>
+
+
+</div>
