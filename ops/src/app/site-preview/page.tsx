@@ -88,6 +88,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "Share cards · CA Gov 2026 beats (2026-05-03)",
+    url: "http://localhost:8096/share-cards-2026-05-03",
+    description: "Three 1080×1080 social-share cards, one per live beat (Three Becerras / Not the Bad Guy / Class Traitor). Each card has a Copy as PNG button — click, paste into Facebook. For Sunday-evening soft-launch FB-group posting.",
+    status: "active",
+    category: "kit",
+  },
+  {
     title: "Bianco · The Sheriff Who Seized the Ballots (DRAFT)",
     url: "http://localhost:8096/bianco-ballots",
     description: "Riverside County Sheriff Chad Bianco took 650,000 ballots from the 2025 Prop 50 referendum on a warrant from a judge he had endorsed. Donor-jurisdiction conflicts (Highland Fairview, Mediwaste, RJ Noble) plus $132K law-enforcement PAC stack plus 2014 Oath Keepers prior. Built 2026-05-02. Pending URL pass before public exposure.",
