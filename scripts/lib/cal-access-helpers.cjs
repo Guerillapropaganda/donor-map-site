@@ -76,22 +76,46 @@ async function loadTSV(filePath, opts = {}) {
  * of a receipt — RCPT_CD rows carry FILING_ID; the committee that filed
  * it lives one hop away in FILER_FILINGS_CD.
  *
+ * Amendment dedup: when a filer amends a Form 460, Cal-Access creates a
+ * NEW FILING_ID (with incremented FILING_SEQUENCE) and re-submits every
+ * receipt under that new filing. The original FILING_ID and its receipts
+ * remain in the export. Without dedup, every amended transaction is
+ * counted twice (or N times). The fix: per (FILER_ID, PERIOD_ID, FORM_ID),
+ * keep only the FILING_ID with the highest FILING_SEQUENCE. Earlier
+ * amendments' FILING_IDs get dropped from the map, so any RCPT_CD lookup
+ * for a superseded filing misses and is skipped as unmatched.
+ *
  * Returns Map<string, string>. Memory budget: ~2.8M entries = ~250-400MB.
  */
 async function buildFilingToFiler() {
-  const map = new Map();
+  // First pass: bucket filings by (filer, period, form) keeping max sequence.
+  const activeByBucket = new Map(); // key → { filing_id, sequence }
   let n = 0;
   for await (const row of streamTSV(tablePath('FILER_FILINGS_CD'))) {
     const fid = row.FILING_ID;
     const filer = row.FILER_ID;
-    if (fid && filer) {
-      // Multiple rows per filing (amendments). Last write wins, which
-      // gives us the most recent filing-level filer assignment.
-      map.set(fid, filer);
+    if (!fid || !filer) { n++; continue; }
+    const period = row.PERIOD_ID || '';
+    const form = row.FORM_ID || '';
+    const seq = parseInt(row.FILING_SEQUENCE || '0', 10) || 0;
+    const bucketKey = `${filer}|${period}|${form}`;
+    const cur = activeByBucket.get(bucketKey);
+    if (!cur || seq > cur.sequence) {
+      activeByBucket.set(bucketKey, { filing_id: fid, sequence: seq, filer });
     }
     n++;
   }
-  return { map, rowsScanned: n };
+
+  // Second pass: emit only the winning FILING_IDs.
+  const map = new Map();
+  let supersededCount = 0;
+  for (const { filing_id, filer } of activeByBucket.values()) {
+    map.set(filing_id, filer);
+  }
+  // n - map.size = total filings rows minus distinct (filer,period,form)
+  // buckets, which equals the number of superseded amendment rows dropped.
+  supersededCount = n - map.size;
+  return { map, rowsScanned: n, supersededCount };
 }
 
 /**

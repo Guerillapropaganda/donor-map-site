@@ -131,7 +131,7 @@ fec-committee-ids:
 
 **Direct contributions** (donor → candidate-controlled committees): **$8.13M** across 4408 edges, 4408 unique donors.
 **Same-name transfers** (likely self-fund / family vehicles): **$450** across 2 record(s).
-**IE supporting** (donor → independent expenditure PAC backing this candidate): **$43.96M** across 4 PAC(s).
+**IE supporting** (donor → independent expenditure PAC backing this candidate): **$20.80M** across 4 PAC(s).
 
 **Controlled committees:** SWALWELL FOR GOVERNOR 2026; ERIC `1485146` · SWALWELL JR. FOR CITY COUNCIL 2010, ERIC `1327203`
 
@@ -168,29 +168,29 @@ fec-committee-ids:
 
 #### Independent expenditure PACs supporting this candidate
 
-**SWALWELL FOR GOVERNOR 2026 SPONSORED BY SEIU CALIFORNIA STATE COUNCIL; NURSES AND EDUCATORS SUPPORTING** — $22.03M from 5 edges
+**SWALWELL FOR GOVERNOR 2026 SPONSORED BY SEIU CALIFORNIA STATE COUNCIL; NURSES AND EDUCATORS SUPPORTING** — $12.03M from 5 edges
 
 | Donor | Amount |
 |---|---:|
-| SEIU California State Council | $6.00M |
-| Dignity CA Service Employees International Union SEIU Local 2015 | $6.00M |
 | SEIU California State Council for Working People | $6.00M |
-| Service Employees International Union Local 1000 Issues PAC | $3.00M |
+| SEIU California State Council | $2.00M |
+| Dignity CA Service Employees International Union SEIU Local 2015 | $2.00M |
 | Canal Partners Media | $1.03M |
+| Service Employees International Union Local 1000 Issues PAC | $1.00M |
 
-**SWALWELL FOR GOVERNOR 2026; CALIFORNIANS FOR A FIGHTER IN SUPPORT OF ERIC** — $20.92M from 9 edges
+**SWALWELL FOR GOVERNOR 2026; CALIFORNIANS FOR A FIGHTER IN SUPPORT OF ERIC** — $7.76M from 9 edges
 
 | Donor | Amount |
 |---|---:|
-| California Medical Association Independent Expenditure Committee | $4.09M |
-| EMS Professionals for a Healthier California, A Project of Global Medical Response, Inc. | $4.00M |
-| Uber Innovation Political Action Committee | $4.00M |
-| DaVita Patient Protection Committee | $3.00M |
-| Stephen J. Cloobeck and affiliated entities | $2.00M |
-| California Dental Association PAC | $2.00M |
-| Driving California's Economy, Sponsored by CA New Car Dealers Association | $1.00M |
-| Andrew Nathan Schwartzberg | $500.0K |
-| California Association of Psychiatric Technicians, Inc. Political Action Fund | $320.0K |
+| Uber Innovation Political Action Committee | $2.00M |
+| California Medical Association Independent Expenditure Committee | $1.09M |
+| DaVita Patient Protection Committee | $1.00M |
+| Stephen J. Cloobeck and affiliated entities | $1.00M |
+| California Dental Association PAC | $1.00M |
+| EMS Professionals for a Healthier California, A Project of Global Medical Response, Inc. | $1.00M |
+| Driving California's Economy, Sponsored by CA New Car Dealers Association | $250.0K |
+| Andrew Nathan Schwartzberg | $250.0K |
+| California Association of Psychiatric Technicians, Inc. Political Action Fund | $160.0K |
 
 **SWALWELL FOR GOVERNOR 2026, A PROJECT OF GLOBAL MEDICAL RESPONSE, INC.; EMS PROFESSIONALS FOR A HEALTHIER CALIFORNIA FOR** — $1.01M from 1 edges
 
@@ -252,7 +252,7 @@ fec-committee-ids:
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485146](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485146) · [1327203](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1327203). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485146](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485146) · [1327203](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1327203). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

@@ -66,8 +66,8 @@ opposes: "[[Donald Trump]]"
 
 *Showing 2026-cycle data only. Re-run with `--cycle all` for lifetime aggregation across mayor / Assembly / prior gov runs.*
 
-**Direct contributions** (donor → candidate-controlled committees): **$6.10M** across 870 edges, 870 unique donors.
-**IE supporting** (donor → independent expenditure PAC backing this candidate): **$1.60M** across 1 PAC(s).
+**Direct contributions** (donor → candidate-controlled committees): **$4.03M** across 870 edges, 870 unique donors.
+**IE supporting** (donor → independent expenditure PAC backing this candidate): **$800.0K** across 1 PAC(s).
 
 **Controlled committees:** VILLARAIGOSA FOR MAYOR `1077478` · VILLARAIGOSA, FRIENDS OF ANTONIO `1245233` · VILLARAIGOSA, COMMITTEE TO ELECT ANTONIO `1069429` · VILLARAIGOSA, FRIENDS OF ANTONIO `1230200` · VILLARAIGOSA OFFICEHOLDER ACCOUNT, ASSEMBLY MEMBER ANTONIO `1071987` · VILLARAIGOSA FOR GOVERNOR 2018 `1392364` _+6 more_
 
@@ -75,44 +75,44 @@ opposes: "[[Donald Trump]]"
 
 | Donor | Total | Cycles | Txns |
 |---|---:|---:|---:|
-| Clean Energy | $156.8K | 2026 | 1 |
-| Associated General Contractors PAC | $156.8K | 2026 | 1 |
-| California State Pipe Trades Council PAC | $156.8K | 2026 | 1 |
-| JRJ Corporation | $156.8K | 2026 | 1 |
-| State Building and Construction Trades Council of California PAC | $156.8K | 2026 | 1 |
-| Operating Engineers Local Union No. 12 Political Fund | $117.6K | 2026 | 1 |
-| Steamfitters & Refrigeration U.A. Local 250 PAC Small Contributor Committee | $109.2K | 2026 | 1 |
-| Habematolel Pomo of Upper Lake | $79.2K | 2026 | 1 |
-| Heat and Frost Insulators and Asbestos Workers Local 5 - PAC | $78.4K | 2026 | 1 |
-| Operating Engineers Local Union 3 Statewide PAC | $78.4K | 2026 | 1 |
-| Gavin Polone | $78.4K | 2026 | 1 |
-| Peace Officers Research Association of California PAC (PORAC PAC) | $78.4K | 2026 | 1 |
-| Southern California Pipe Trades District Council No. 16 Political Action Committee | $78.4K | 2026 | 1 |
-| Berry Corporation and Affiliated Entities(Willie Rivera) | $78.4K | 2026 | 1 |
-| International Brotherhood of Electrical Workers Local No. 11 PAC | $78.4K | 2026 | 1 |
-| Marathon Petroleum Corporation and its Subsidiaries | $78.4K | 2026 | 1 |
-| Vanir Construction Management, Inc. | $78.4K | 2026 | 1 |
-| AltaMed Health Network, Inc. | $78.4K | 2026 | 1 |
+| Clean Energy | $78.4K | 2026 | 1 |
+| Operating Engineers Local Union No. 12 Political Fund | $78.4K | 2026 | 1 |
+| Associated General Contractors PAC | $78.4K | 2026 | 1 |
+| California State Pipe Trades Council PAC | $78.4K | 2026 | 1 |
 | COPE Healthcare Consulting, Inc. | $78.4K | 2026 | 1 |
-| Susan Samueli | $78.4K | 2026 | 1 |
-| California State Association of Electrical Workers General Fund | $78.4K | 2026 | 1 |
 | David A. Pyle | $78.4K | 2026 | 1 |
+| JRJ Corporation | $78.4K | 2026 | 1 |
+| State Building and Construction Trades Council of California PAC | $78.4K | 2026 | 1 |
 | District Council of Iron Workers of The State of California and Vicinity PAC | $78.4K | 2026 | 1 |
-| California State Association of Electrical Workers | $78.4K | 2026 | 1 |
 | California Resources Corporation and Subsidiaries(Matthew Alvarez) | $72.8K | 2026 | 1 |
-| _+845 more donors_ | _$3.68M_ | | |
+| Steamfitters & Refrigeration U.A. Local 250 PAC Small Contributor Committee | $72.8K | 2026 | 1 |
+| Election Digest - A Project of the Coalition for Literacy | $60.0K | 2026 | 1 |
+| Habematolel Pomo of Upper Lake | $59.2K | 2026 | 1 |
+| First Foundation Bank | $44.4K | 2026 | 1 |
+| Southern California Pipe Trades District Council No. 16 Political Action Committee | $42.0K | 2026 | 1 |
+| Prenton, Inc. | $42.0K | 2026 | 1 |
+| Gary Karlin Michelson, M.D. | $42.0K | 2026 | 1 |
+| Caliagua, Inc. | $39.7K | 2026 | 1 |
+| Heat and Frost Insulators and Asbestos Workers Local 5 - PAC | $39.2K | 2026 | 1 |
+| Operating Engineers Local Union 3 Statewide PAC | $39.2K | 2026 | 1 |
+| Gavin Polone | $39.2K | 2026 | 1 |
+| Peace Officers Research Association of California PAC (PORAC PAC) | $39.2K | 2026 | 1 |
+| Chevron | $39.2K | 2026 | 1 |
+| Lance-Kashian & Company | $39.2K | 2026 | 1 |
+| Berry Corporation and Affiliated Entities(Willie Rivera) | $39.2K | 2026 | 1 |
+| _+845 more donors_ | _$2.57M_ | | |
 
 #### Independent expenditure PACs supporting this candidate
 
-**VILLARAIGOSA FOR GOVERNOR 2026-STRAIGHT FROM THE HEART OF CALIFORNIA; ANTONIO** — $1.60M from 5 edges
+**VILLARAIGOSA FOR GOVERNOR 2026-STRAIGHT FROM THE HEART OF CALIFORNIA; ANTONIO** — $800.0K from 5 edges
 
 | Donor | Amount |
 |---|---:|
-| International Union of Operating Engineers Local No. 12 Political Fund | $400.0K |
-| State Building and Construction Trades Council of California IE PAC | $400.0K |
-| CA State Pipe Trades Council Political Action Fund | $400.0K |
-| District Council of Iron Workers of the State of CA and Vicinity Political Issues Committee | $200.0K |
-| District Council of Iron Workers of the State of CA and Vicinity PAC | $200.0K |
+| International Union of Operating Engineers Local No. 12 Political Fund | $200.0K |
+| State Building and Construction Trades Council of California IE PAC | $200.0K |
+| CA State Pipe Trades Council Political Action Fund | $200.0K |
+| District Council of Iron Workers of the State of CA and Vicinity Political Issues Committee | $100.0K |
+| District Council of Iron Workers of the State of CA and Vicinity PAC | $100.0K |
 
 #### Where the money goes (Cal-Access expenditures)
 
@@ -163,7 +163,7 @@ opposes: "[[Donald Trump]]"
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1077478](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1077478) · [1245233](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1245233) · [1069429](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1069429). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1077478](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1077478) · [1245233](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1245233) · [1069429](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1069429). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

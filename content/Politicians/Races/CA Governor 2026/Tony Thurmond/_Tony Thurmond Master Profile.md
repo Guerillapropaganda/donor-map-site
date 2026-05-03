@@ -150,7 +150,7 @@ opposes: "[[Donald Trump]]"
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1268709](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1268709) · [1318438](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1318438) · [1461509](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1461509). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1268709](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1268709) · [1318438](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1318438) · [1461509](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1461509). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

@@ -148,7 +148,7 @@ fppc-committee-cycle: "2026"
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479095](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095) · [1354860](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1354860) · [1397860](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1397860). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479095](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095) · [1354860](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1354860) · [1397860](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1397860). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

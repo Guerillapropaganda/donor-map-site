@@ -164,8 +164,8 @@ fec-committee-ids:
 
 *Showing 2026-cycle data only. Re-run with `--cycle all` for lifetime aggregation across mayor / Assembly / prior gov runs.*
 
-**Direct contributions** (donor → candidate-controlled committees): **$12.04M** across 15232 edges, 15232 unique donors.
-**Same-name transfers** (likely self-fund / family vehicles): **$10.9K** across 16 record(s).
+**Direct contributions** (donor → candidate-controlled committees): **$6.69M** across 15232 edges, 15232 unique donors.
+**Same-name transfers** (likely self-fund / family vehicles): **$6.0K** across 16 record(s).
 **IE supporting** (donor → independent expenditure PAC backing this candidate): **$426.1K** across 1 PAC(s).
 
 **Controlled committees:** PORTER FOR GOVERNOR 2026; KATIE `1479597`
@@ -174,32 +174,32 @@ fec-committee-ids:
 
 | Donor | Total | Cycles | Txns |
 |---|---:|---:|---:|
-| Donna M. Bower | $117.6K | 2026 | 1 |
-| Joe Kiani | $117.6K | 2026 | 1 |
-| Christian Larsen | $117.6K | 2026 | 1 |
-| Benjamin Stockton | $117.3K | 2026 | 1 |
-| McNicholas & McNicholas, LLP | $103.4K | 2026 | 1 |
-| First Foundation Bank | $93.6K | 2026 | 1 |
-| Brett Schreiber | $88.4K | 2026 | 1 |
-| Gerald B. Singleton | $85.0K | 2026 | 1 |
-| Jana Simpson | $80.8K | 2026 | 1 |
-| DRIVE Committee | $78.4K | 2026 | 1 |
-| Rickard K. Robbins | $78.4K | 2026 | 1 |
-| Lyna Lam | $78.4K | 2026 | 1 |
-| California Teamsters Public Affairs Council | $78.4K | 2026 | 1 |
-| Sheet Metal, Air, Rail and Transportation Workers' International Association Political Action League (FEC PAC ID #C00007542) | $78.4K | 2026 | 1 |
-| Sheet Metal Workers Local Union 104 Political Committee | $78.4K | 2026 | 1 |
-| Sheet Metal, Air, Rail, Transportation Workers' International Union (SMART) Local 105 PAC Small Contributor Committee | $78.4K | 2026 | 1 |
-| United Auto Workers | $78.4K | 2026 | 1 |
-| Chris Duro | $78.4K | 2026 | 1 |
-| John Lincoln | $70.0K | 2026 | 1 |
-| Margaret Singleton | $68.9K | 2026 | 1 |
-| Sheet Metal Workers Local 206 PAC | $64.8K | 2026 | 1 |
-| Middle Seat Consulting, LLC | $61.8K | 2026 | 1 |
-| Roger McNamee | $60.0K | 2026 | 1 |
-| Ann E. Vitti | $60.0K | 2026 | 1 |
-| International Brotherhood of Electrical Workers (IBEW) PAC Educational Fund | $60.0K | 2026 | 1 |
-| _+15207 more donors_ | _$9.96M_ | | |
+| First Foundation Bank | $57.2K | 2026 | 1 |
+| Gerald Singleton | $42.5K | 2026 | 1 |
+| Jana Simpson | $40.8K | 2026 | 1 |
+| Karla Jurvetson | $40.1K | 2026 | 1 |
+| David A. Pyle | $39.2K | 2026 | 1 |
+| DRIVE Committee | $39.2K | 2026 | 1 |
+| Andrew Schwartzberg | $39.2K | 2026 | 1 |
+| Rickard K. Robbins | $39.2K | 2026 | 1 |
+| Lyna Lam | $39.2K | 2026 | 1 |
+| McNicholas & McNicholas, LLP | $39.2K | 2026 | 1 |
+| Donna M. Bower | $39.2K | 2026 | 1 |
+| California Teamsters Public Affairs Council | $39.2K | 2026 | 1 |
+| Brett Schreiber | $39.2K | 2026 | 1 |
+| California Association of Professional Scientists (CAPS PAC) Small Contributor Committee | $39.2K | 2026 | 1 |
+| Sheet Metal, Air, Rail and Transportation Workers' International Association Political Action League (FEC PAC ID #C00007542) | $39.2K | 2026 | 1 |
+| Liz Owens | $39.2K | 2026 | 1 |
+| Joe Kiani | $39.2K | 2026 | 1 |
+| Christian Larsen | $39.2K | 2026 | 1 |
+| Consumer Attorneys of California Political Action Committee | $39.2K | 2026 | 1 |
+| Jaime Schwartzberg | $39.2K | 2026 | 1 |
+| Sheet Metal Workers Local Union 104 Political Committee | $39.2K | 2026 | 1 |
+| Sheet Metal, Air, Rail, Transportation Workers' International Union (SMART) Local 105 PAC Small Contributor Committee | $39.2K | 2026 | 1 |
+| United Auto Workers | $39.2K | 2026 | 1 |
+| Chris Duro | $39.2K | 2026 | 1 |
+| Benjamin Stockton | $39.1K | 2026 | 1 |
+| _+15207 more donors_ | _$5.68M_ | | |
 
 #### Independent expenditure PACs supporting this candidate
 
@@ -262,7 +262,7 @@ fec-committee-ids:
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479597](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479597). **As of: 2026-04-30**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479597](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479597). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 
