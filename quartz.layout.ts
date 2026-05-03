@@ -17,6 +17,16 @@ const isProfilePage = (page: any): boolean => {
   return PROFILE_TYPES.has(type)
 }
 
+// Beat pages (frontmatter `type: beat`) are standalone editorial pages
+// ported from prototype/beat-*.html. Each .md file embeds its own
+// prototype CSS scoped under .beat-page-root and its own nav/footer.
+// We suppress the Quartz chrome (sidebar, breadcrumbs, ProfileHeader,
+// ContentMeta, EvidencePanel, etc.) on these pages so the prototype's
+// brutalist design renders cleanly without conflicting wrappers.
+const isBeatPage = (page: any): boolean => {
+  return String(page.fileData.frontmatter?.type ?? "") === "beat"
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -68,11 +78,11 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && !isBeatPage(page),
     }),
     Component.ConditionalRender({
       component: Component.ArticleTitle(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && !isBeatPage(page),
     }),
     // ADR-0017: DataCompleteBanner removed from layout 2026-04-21.
     // Initial deploy review: the banner sat atop profiles with real
@@ -92,13 +102,14 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && !isBeatPage(page),
     }),
     Component.ConditionalRender({
       component: Component.EvidencePanel(),
       condition: (page) => {
         const slug = page.fileData.slug ?? ""
         if (slug === "index" || slug.endsWith("/index")) return false
+        if (isBeatPage(page)) return false
         const type = String(page.fileData.frontmatter?.type ?? "")
         return type !== "" && type !== "undefined" && type !== "unknown"
       },
@@ -133,17 +144,29 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   left: [
-    Component.DonorMapSidebar(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.MobileOnly(Component.Search()),
-    Component.MobileOnly(Component.Explorer({
-      filterFn: (node) => {
-        const seg = (node.slugSegment ?? "").toLowerCase()
-        return seg !== "tags" && seg !== "events" && seg !== "changelog" &&
-          seg !== "vault-maintenance" && seg !== "interactive" &&
-          seg !== "site-status"
-      },
-    })),
+    Component.ConditionalRender({
+      component: Component.DonorMapSidebar(),
+      condition: (page) => !isBeatPage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.MobileOnly(Component.Spacer()),
+      condition: (page) => !isBeatPage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.MobileOnly(Component.Search()),
+      condition: (page) => !isBeatPage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.MobileOnly(Component.Explorer({
+        filterFn: (node) => {
+          const seg = (node.slugSegment ?? "").toLowerCase()
+          return seg !== "tags" && seg !== "events" && seg !== "changelog" &&
+            seg !== "vault-maintenance" && seg !== "interactive" &&
+            seg !== "site-status"
+        },
+      })),
+      condition: (page) => !isBeatPage(page),
+    }),
   ],
   right: [
     // "What am I looking at?" — compact, gold-dominant chip in the right
@@ -151,12 +174,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({
       component: Component.ProfileReaderGuide(),
       condition: (page) => {
+        if (isBeatPage(page)) return false
         const type = String(page.fileData.frontmatter?.type ?? "")
         return ["politician", "state-politician", "local-politician",
           "donor", "corporation", "pac", "think-tank", "lobbying-firm"].includes(type)
       },
     }),
-    Component.DesktopOnly(Component.Search()),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.Search()),
+      condition: (page) => !isBeatPage(page),
+    }),
     // Profile TOC: custom tab-grouped table of contents for profile
     // pages. Built client-side after ProfileTabs, groups
     // .profile-section-card elements by data-tab, clicks switch
@@ -167,12 +194,24 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
-      condition: (page) => !isProfilePage(page),
+      condition: (page) => !isProfilePage(page) && !isBeatPage(page),
     }),
-    Component.DesktopOnly(Component.ProfileWidget()),
-    Component.EventTimeline(),
-    Component.RelatedProfiles(),
-    Component.DiscoveryPanel(),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.ProfileWidget()),
+      condition: (page) => !isBeatPage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.EventTimeline(),
+      condition: (page) => !isBeatPage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.RelatedProfiles(),
+      condition: (page) => !isBeatPage(page),
+    }),
+    Component.ConditionalRender({
+      component: Component.DiscoveryPanel(),
+      condition: (page) => !isBeatPage(page),
+    }),
   ],
 }
 

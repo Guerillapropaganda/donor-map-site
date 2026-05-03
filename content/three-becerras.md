@@ -1,0 +1,1575 @@
+---
+title: "Three audiences. Three Becerras."
+type: beat
+slug: three-becerras
+description: "Over six weeks in 2026, Xavier Becerra gave three different answers to the same question. The hardest version was reserved for the doctors lobby. The donor list names who he is currently acceptable to."
+---
+
+<!-- BEAT PAGE: ported from prototype/beat-three-becerras.html. -->
+<!-- Quartz layout suppresses sidebar / breadcrumbs / content-meta / -->
+<!-- evidence-panel for type:beat pages (see quartz.layout.ts isBeatPage). -->
+
+<div class="beat-page-root">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* ─── Hero arrow animation (brutalist motion) ─── */
+@keyframes hero-arrow-pulse {
+  0%   { stroke-dashoffset: 300; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.2; stroke-width: 2; }
+}
+.hero-arrow {
+  stroke-dasharray: 300;
+  animation: hero-arrow-pulse 3s ease-in-out infinite;
+}
+.hero-arrow-1 { animation-delay: 0s; }
+.hero-arrow-2 { animation-delay: 0.4s; }
+.hero-arrow-3 { animation-delay: 0.8s; }
+@media (prefers-reduced-motion: reduce) {
+  .hero-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+/* ─── Red-flag hazard banner (brutalist) ─── */
+.red-flag {
+  display: flex;
+  align-items: stretch;
+  margin: 56px 0 16px;
+  border: 3px solid #0a0a0a;
+  background: #0a0a0a;
+  position: relative;
+}
+.red-flag-stripes {
+  flex: 0 0 64px;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      #fbbf24 0,
+      #fbbf24 14px,
+      #0a0a0a 14px,
+      #0a0a0a 28px
+    );
+}
+.red-flag-body {
+  flex: 1;
+  padding: 14px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #0a0a0a;
+}
+.red-flag-tag {
+  display: inline-block;
+  align-self: flex-start;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #0a0a0a;
+  background: #e63946;
+  padding: 3px 10px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+.red-flag-msg {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  letter-spacing: -0.3px;
+  color: #f5f0eb;
+  line-height: 1.25;
+}
+.red-flag-msg em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #fbbf24;
+}
+.red-flag-pulse {
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  transform: translateY(-50%);
+  width: 14px;
+  height: 14px;
+  background: #e63946;
+  border: 2px solid #f5f0eb;
+  animation: red-flag-pulse 1.6s ease-in-out infinite;
+}
+@keyframes red-flag-pulse {
+  0%, 100% { opacity: 1; transform: translateY(-50%) scale(1); }
+  50%      { opacity: 0.55; transform: translateY(-50%) scale(1.3); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .red-flag-pulse { animation: none; }
+}
+@media (max-width: 600px) {
+  .red-flag-stripes { flex-basis: 36px; }
+  .red-flag-msg { font-size: 15px; }
+  .red-flag-pulse { display: none; }
+}
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat {
+  display: flex;
+  align-items: stretch;
+  margin: 56px 0 0;
+  border: 3px solid var(--black);
+  background: var(--paper);
+}
+.tip-box-beat-stripes {
+  flex: 0 0 28px;
+  background:
+    repeating-linear-gradient(
+      135deg,
+      var(--yellow) 0,
+      var(--yellow) 12px,
+      var(--black) 12px,
+      var(--black) 24px
+    );
+}
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--cream);
+  background: var(--black);
+  padding: 4px 10px;
+  margin-bottom: 14px;
+}
+.tip-box-beat-headline {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  color: var(--ink);
+  margin-bottom: 8px;
+}
+.tip-box-beat-headline em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+.tip-box-beat-desc {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 17px;
+  line-height: 1.45;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+.tip-box-beat-row {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 14px;
+  padding: 8px 0;
+  border-top: 1px solid var(--line);
+  font-size: 14px;
+  line-height: 1.5;
+}
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  align-self: start;
+  padding-top: 2px;
+}
+.tip-box-beat-value {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: var(--ink);
+}
+.tip-box-beat-value a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint {
+  margin: 14px 0 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--muted);
+  font-style: italic;
+}
+@media (max-width: 600px) {
+  .tip-box-beat-stripes { flex-basis: 18px; }
+  .tip-box-beat-body { padding: 18px 18px; }
+  .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; }
+}
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras" class="active">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>Three Becerras</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Draft May 2, 2026</span>
+      <span class="verified">★ Primary + named-publication sourced</span>
+    </div>
+    <h1>What he says depends on <span class="h-red">who is listening</span>.</h1>
+    <p class="deck">
+      Over six weeks in 2026, Xavier Becerra gave three different answers to the same question. The most restrictive version of his single-payer policy was reserved for the audience most directly exposed to it. The donor list names who he is currently acceptable to.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">Becerra's single-payer position · three audiences · 2026 California governor primary</div>
+    <svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" aria-label="Diagram showing Becerra delivering three different messages on single-payer to three different audiences, with healthcare-industry max donors at the bottom">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+      </defs>
+
+      <!-- Center: Becerra source node -->
+      <rect x="370" y="40" width="160" height="80" fill="#0a0a0a"/>
+      <text x="450" y="74" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="900" fill="#fbbf24" letter-spacing="-0.5">BECERRA</text>
+      <text x="450" y="94" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#fff" letter-spacing="2">2026 CA GOV CANDIDATE</text>
+      <text x="450" y="108" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#aaa" letter-spacing="1">7 SINGLE-PAYER BILLS</text>
+
+      <!-- Three audience boxes -->
+      <!-- Audience 1: campaign website (left, blue) -->
+      <rect x="20" y="170" width="280" height="120" fill="#fff" stroke="#1d4ed8" stroke-width="3"/>
+      <text x="160" y="194" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#1d4ed8" letter-spacing="2">AUDIENCE 1 · CAMPAIGN WEBSITE</text>
+      <text x="160" y="222" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="15" fill="#1a1a1a">"building toward a universal,</text>
+      <text x="160" y="240" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="15" fill="#1a1a1a">single-payer CalCare system"</text>
+      <text x="160" y="270" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#666">xavierbecerra2026.com</text>
+
+      <!-- Audience 2: LAist (center, black) -->
+      <rect x="310" y="170" width="280" height="120" fill="#fff" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="450" y="194" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="2">AUDIENCE 2 · LAIST INTERVIEW</text>
+      <text x="450" y="220" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="15" fill="#1a1a1a">"I don't think this federal government's</text>
+      <text x="450" y="238" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="15" fill="#1a1a1a">gonna help us get to single payer"</text>
+      <text x="450" y="270" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#666">LAist transcript, 2026</text>
+
+      <!-- Audience 3: doctors lobby (right, red) -->
+      <rect x="600" y="170" width="280" height="120" fill="#fff" stroke="#e63946" stroke-width="3"/>
+      <text x="740" y="194" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#e63946" letter-spacing="2">AUDIENCE 3 · THE DOCTORS LOBBY</text>
+      <text x="740" y="218" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="15" fill="#1a1a1a">spokesperson: "not possible</text>
+      <text x="740" y="236" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="15" fill="#1a1a1a">under this administration"</text>
+      <text x="740" y="252" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="14" fill="#1a1a1a">CMA: he "wasn't supportive"</text>
+      <text x="740" y="276" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" fill="#666">KQED, 2026</text>
+
+      <!-- Arrows from Becerra to each audience -->
+      <line class="hero-arrow hero-arrow-1" x1="400" y1="120" x2="160" y2="170" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="hero-arrow hero-arrow-2" x1="450" y1="120" x2="450" y2="170" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+      <line class="hero-arrow hero-arrow-3" x1="500" y1="120" x2="740" y2="170" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk)"/>
+
+      <!-- Bottom band: donor receipts -->
+      <rect x="20" y="340" width="860" height="120" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="450" y="362" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="2">HEALTHCARE-INDUSTRY MAX DONORS · BECERRA FOR GOVERNOR 2026</text>
+      <g font-family="Space Mono, monospace" font-size="13" fill="#0a0a0a">
+        <text x="40" y="392">Leonard Schaeffer</text>
+        <text x="40" y="408" font-size="10" fill="#666">founder of Anthem</text>
+        <text x="280" y="392" text-anchor="end" font-weight="700">$39,200</text>
+
+        <text x="320" y="392">AltaMed Health Network</text>
+        <text x="320" y="408" font-size="10" fill="#666">largest CA FQHC</text>
+        <text x="560" y="392" text-anchor="end" font-weight="700">$39,200</text>
+
+        <text x="600" y="392">Alonzo Cantu</text>
+        <text x="600" y="408" font-size="10" fill="#666">co-founder DHR Health</text>
+        <text x="850" y="392" text-anchor="end" font-weight="700">$39,200</text>
+
+        <text x="40" y="438">Prime Healthcare Services</text>
+        <text x="40" y="452" font-size="10" fill="#666">active HHS-OIG Corporate Integrity Agreement</text>
+        <text x="280" y="438" text-anchor="end" font-weight="700">$20,000</text>
+      </g>
+    </svg>
+    <p class="viz-caption">
+      The candidate at the top is the same. The audience changes. So does the message. The receipts at the bottom show which audience pays.
+    </p>
+  </div>
+</section>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>Over six weeks in 2026, Xavier Becerra gave three different answers to the same question. Depending on who was asking.</strong>
+    </p>
+
+    <p>
+      <strong>March 23, on his own social media:</strong> "I'm ready to go further as Governor and deliver single-payer health care for our state."
+    </p>
+
+    <p>
+      <strong>April 13, on public radio:</strong> "I don't think this federal government's gonna help us get to single payer."
+    </p>
+
+    <p>
+      <strong>Late April, behind closed doors with the California Medical Association:</strong> per the group's own president on the record, Becerra "said very clearly that, at this point, he wasn't supportive of single payer." His campaign spokesperson told KQED the same week: single payer is "the right goal but it's not possible under this administration."
+    </p>
+
+    <p>
+      Same election. Same candidate. Three different answers in a row, hardening as the audience grew more directly exposed to the policy. KQED's own headline called it backpedaling.
+    </p>
+
+    <p>
+      He has the record to back any of those positions up. Becerra cosponsored single-payer bills in Congress seven times, starting in 1993, the year he took office. That is twenty-four years of consistent public advocacy. The donor list to his governor campaign is what reveals which of the 2026 versions he has settled on. <strong>Of the top fifteen donors, five are healthcare-aligned, totaling roughly $207,000, about 45 percent of the top-fifteen dollars.</strong> Construction-labor PACs are the second-largest sector, tribal-gaming committees third. The healthcare concentration is not selection bias. It is the shape of the donor list.
+    </p>
+
+    <p>
+      I am not saying donations bought the position. There is no smoking gun in this story, no quid-pro-quo, no documented meeting where a check was traded for a vote. What the donor list does is name who he is acceptable to. Six healthcare-industry max contributors gave the legal limit to a candidate whose softest message is the one their business is served by. That is correlation. The page below shows the pattern in detail, names the one direct-influence finding the public record does establish, and names what the evidence does not prove.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#record">Twenty-four years on the record</a></li>
+        <li><a href="#hhs">Four years inside the regulator</a></li>
+        <li><a href="#three-audiences">Three audiences in 2026</a></li>
+        <li><a href="#receipts">The receipts</a></li>
+        <li><a href="#donor-interests">What each of these donors actually wants</a></li>
+        <li><a href="#timeline">Timeline</a></li>
+        <li><a href="#direct-influence">Direct influence: one finding, named</a></li>
+        <li><a href="#cpca-circuit">The CPCA circuit</a></li>
+        <li><a href="#newsom-precedent">The Newsom precedent</a></li>
+        <li><a href="#one-position">One position, three finishes</a></li>
+        <li><a href="#not-claiming">What this page does not claim</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="record">Twenty-four years on the record</h2>
+
+    <p>
+      Before he was Health and Human Services Secretary under Joe Biden, before he was California Attorney General, Xavier Becerra was a member of the U.S. House of Representatives for twenty-four years. During that time he co-sponsored single-payer healthcare legislation seven separate times. Three of them were the American Health Security Act, in 1993, 1994, and 1995. The other four were John Conyers' H.R. 676, the Expanded and Improved Medicare for All Act, in the 109th, 110th, 111th, and 112th Congresses. The cosponsorship records are public on GovTrack with API endpoints anyone can verify.
+    </p>
+
+    <p>
+      In a 1994 congressional hearing on health-system reform, Becerra said on the record, "I do, as I said before, join my colleagues who support the single-payer plan." In 2017, on Fox News, he described himself as "a supporter of Medicare for All for the 24 years that I was in Congress."
+    </p>
+
+    <p>
+      That is not the language of a hedger. That is the language of a candidate who, when he had nothing to lose, picked a side.
+    </p>
+
+    <p>
+      The cosponsorship pattern has one detail the long-form record makes clear that the campaign-website version does not. Becerra cosponsored H.R. 676 in the 109th, 110th, 111th, and 112th Congresses, which covered 2005 through 2012. He served two more full terms in the House after that, the 113th (2013-2014) and the 114th (2015-2016). The official GovInfo bill-status records for H.R. 676 in those two Congresses do not list him as a cosponsor in either. He stopped cosponsoring the bill four years before he left the House. The "30-year advocate" framing the campaign uses describes 1993 through 2011 accurately. It elides the 2013-through-2016 silence on the same bill while he was still in office. That gap is in the public record. The campaign has not addressed it.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="hhs">Four years inside the regulator</h2>
+
+    <p>
+      In March 2021, the Senate confirmed Becerra as Secretary of Health and Human Services. The Biden administration's stated healthcare agenda was not single payer. It was "build on the Affordable Care Act," with a federal public option as the marquee item. Becerra served that agenda. In his Senate Finance confirmation hearing, when Senator Mike Crapo pressed him on whether private-insurance holders would lose coverage to Medicare for All, Becerra answered that he served "at the pleasure of the President" and that Biden wanted to "build on the Affordable Care Act," and that "will be my mission."
+    </p>
+
+    <p>
+      No reporter has located an HHS press conference, an in-office interview, or any public statement during his tenure where Becerra broke with the administration to advocate for single payer. That is what HHS Secretaries do. Not in itself a betrayal.
+    </p>
+
+    <p>
+      But the regulatory portfolio he ran for four years was the entire policy surface that single payer would have replaced: Medicare Advantage, Medicaid managed care, Affordable Care Act marketplaces, drug-price negotiation under the Inflation Reduction Act, Federally Qualified Health Center reimbursement, hospital Corporate Integrity Agreements. Every regulated entity on the receiving end of those rules learned, over four years, that this Secretary was not the one who was going to put them out of business.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <aside class="red-flag" role="note" aria-label="Pattern alert">
+      <div class="red-flag-stripes" aria-hidden="true"></div>
+      <div class="red-flag-body">
+        <span class="red-flag-tag">Red flag · pattern alert</span>
+        <span class="red-flag-msg">One candidate. Three audiences. <em>Three different answers</em> to the same question.</span>
+      </div>
+      <div class="red-flag-pulse" aria-hidden="true"></div>
+    </aside>
+
+    <h2 id="three-audiences">Three audiences in 2026</h2>
+
+    <p>
+      In April 2025 Becerra launched his gubernatorial campaign. By May 2026 his single-payer position has split into three.
+    </p>
+
+    <p>
+      <strong>Audience one: voters who read the campaign website.</strong> The xavierbecerra2026.com healthcare page describes his agenda as "delivering relief while building toward a universal, single-payer CalCare system that puts people before profits." It calls him "an advocate for single payer" since his early years in Congress. The page does not commit to reviving AB 1400, the 2022 California single-payer bill that died on the Assembly floor without a vote. It does not commit to executing the Section 1332 federal-waiver groundwork from SB 770. It uses the broader, softer "building toward" formulation. Aspirational, not legislative.
+    </p>
+
+    <p>
+      <strong>Audience two: voters who hear him in unscripted interviews.</strong> In a sit-down with LAist, Becerra said Medicare is "essentially a single-payer healthcare system." He said California could pursue single payer only by harmonizing federal, state, local, and private-sector rules. And he said, "I don't think this federal government's gonna help us get to single payer." The transcript contains no mention of CalCare. It contains no mention of AB 1400. It contains no mention of SB 770. The framing has shifted from "building toward" to a federal-feasibility shrug.
+    </p>
+
+    <p>
+      <strong>Audience three: the doctors lobby.</strong> KQED's reporting, headlined "Becerra backpedals on single-payer as he woos powerful doctors lobby," carries two on-the-record quotations. The first is from Becerra's campaign spokesperson Jonathan Underland in a written statement to KQED: "A single payer system is the right goal but it's not possible under this administration, and right now we have a crisis on our hands. Trump is slashing Medi-Cal and handing tax breaks to billionaires while millions of Californians risk losing their coverage." The second is California Medical Association president Dr. René Bravo speaking on the record about what Becerra told CMA members at a private meeting: <strong>"He said very clearly that, at this point, he wasn't supportive of single payer."</strong> KQED's own reporting confirms the meeting and Bravo's account: "Becerra told the doctors that now was not the time for single payer and that making any kind of progress on it while President Trump was in office was unrealistic."
+    </p>
+
+    <p>
+      The CMA represents California's physicians as a regulated trade group. Their members bill private insurance, own private practices, and sit at the financial center of the system single payer would consolidate. The CMA, per KQED, "has long opposed efforts to establish a single-payer system in the state, arguing it is not economically feasible and would erode physician autonomy." The hardest version of Becerra's message is the one delivered to them.
+    </p>
+
+    <p>
+      The pivot is recent. <strong>Six weeks before the CMA meeting</strong>, on March 23, 2026, the anniversary of the Affordable Care Act's passage, Becerra deployed a coordinated multi-platform campaign message. His verified <a href="https://x.com/XavierBecerra/status/2036208139507298516" style="color: var(--blue); border-bottom: 1px solid currentColor;">X post</a> at 6:27 PM read: "I've been an advocate for single-payer health care for over 30 years. As Governor, I will fight to make sure that every Californian has affordable care. We can deliver real relief now while <strong>building toward a universal, single-payer system that puts people before profits.</strong>" The same wording was posted to his campaign Facebook page. KQED and LAist also attribute a second formulation to a March 23 social media post, in stronger language: "I proudly helped write it, pass it, and defend it in court. Now I'm ready to go further as Governor and deliver single-payer health care for our state." That second wording was not independently confirmed on X or Facebook in our search; it may be on Instagram (which blocks automated retrieval) or in a separate simultaneous post. We treat the verified X / Facebook wording as the operative March 23 record and the KQED-attributed "deliver single-payer" wording as Tier 2 pending platform confirmation.
+    </p>
+
+    <p>
+      The trajectory through April: April 13, LAist hedge ("I don't think this federal government's gonna help us get to single payer"). April 21, CalCare (Assembly Bill 1900) dies in the California Assembly Health Committee without even receiving a hearing. Becerra makes no public statement. April 22, Nexstar / Inside California Politics debate, single-payer absent. April 28, CBS / Pomona College debate, single-payer absent (healthcare framing is ACA defense plus attacking Trump). April 29, CMA endorsement, his own X post announcing it has the single-payer language stripped out and replaced with ACA-authorship language. Underland's KQED statement and Bravo's on-the-record account land at the end of this trajectory, not at the start of it. The March 23 "advocate for single-payer for over 30 years" message and the late-April "wasn't supportive at this point" message bracket a six-week-window that includes a state single-payer bill dying without hearing, two televised debates, and a private meeting with the trade group that has long opposed single-payer. KQED, characterizing the shift in its own headline, called it "backpedaling."
+    </p>
+
+    <figure style="margin: 24px 0 32px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 24px 0; background: var(--paper);">
+      <figcaption style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 18px; padding: 0 24px; text-align: center;">Six weeks · the language hardens</figcaption>
+      <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; padding: 0 12px; align-items: stretch;">
+        <div style="background: #fff; border: 2px solid #1d4ed8; padding: 10px;">
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1.5px; color: #1d4ed8; text-transform: uppercase; margin-bottom: 4px;">MAR 23</div>
+          <div style="font-family: 'Instrument Serif', serif; font-style: italic; font-size: 12px; line-height: 1.3; color: var(--ink);">"building toward a universal, single-payer system that puts people before profits."</div>
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; color: var(--muted); margin-top: 6px;">X / Facebook</div>
+        </div>
+        <div style="background: #fff; border: 2px solid #0a0a0a; padding: 10px;">
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1.5px; color: #0a0a0a; text-transform: uppercase; margin-bottom: 4px;">APR 13</div>
+          <div style="font-family: 'Instrument Serif', serif; font-style: italic; font-size: 12px; line-height: 1.3; color: var(--ink);">"I don't think this federal government's gonna help us get to single payer."</div>
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; color: var(--muted); margin-top: 6px;">LAist interview</div>
+        </div>
+        <div style="background: #fff; border: 2px solid var(--muted); padding: 10px;">
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1.5px; color: var(--muted); text-transform: uppercase; margin-bottom: 4px;">APR 21</div>
+          <div style="font-family: 'Inter', sans-serif; font-weight: 800; font-size: 13px; line-height: 1.2; color: var(--ink);">CalCare dies in committee.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 11px; line-height: 1.3; color: var(--ink); margin-top: 4px;">Becerra silent.</div>
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; color: var(--muted); margin-top: 6px;">AB 1900</div>
+        </div>
+        <div style="background: #fff; border: 2px solid var(--muted); padding: 10px;">
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1.5px; color: var(--muted); text-transform: uppercase; margin-bottom: 4px;">APR 22 · APR 28</div>
+          <div style="font-family: 'Inter', sans-serif; font-weight: 800; font-size: 13px; line-height: 1.2; color: var(--ink);">Two televised debates.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 11px; line-height: 1.3; color: var(--ink); margin-top: 4px;">Single-payer absent both times.</div>
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; color: var(--muted); margin-top: 6px;">Nexstar · CBS</div>
+        </div>
+        <div style="background: #fff; border: 2px solid #e63946; padding: 10px;">
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1.5px; color: #e63946; text-transform: uppercase; margin-bottom: 4px;">APR 27 · 28</div>
+          <div style="font-family: 'Instrument Serif', serif; font-style: italic; font-size: 12px; line-height: 1.3; color: var(--ink);">Private meeting with CMA. Bravo: "He said very clearly that, at this point, he wasn't supportive of single payer."</div>
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; color: var(--muted); margin-top: 6px;">via KQED</div>
+        </div>
+        <div style="background: #fff; border: 2px solid #e63946; padding: 10px;">
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1.5px; color: #e63946; text-transform: uppercase; margin-bottom: 4px;">APR 29</div>
+          <div style="font-family: 'Inter', sans-serif; font-weight: 800; font-size: 13px; line-height: 1.2; color: var(--ink);">CMA endorsement.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 11px; line-height: 1.3; color: var(--ink); margin-top: 4px;">Becerra's X post strips single-payer language entirely.</div>
+          <div style="font-family: 'Space Mono', monospace; font-size: 9px; color: var(--muted); margin-top: 6px;">CMA + X</div>
+        </div>
+      </div>
+      <div style="margin-top: 14px; padding: 0 24px; font-family: 'Instrument Serif', serif; font-style: italic; font-size: 14px; color: var(--muted); text-align: center;">Six weeks. Same election. Same candidate. The language hardens left to right.</div>
+    </figure>
+    <style>
+      @media (max-width: 900px) {
+        figure[style*="grid-template-columns: repeat(6"] > div[style*="grid-template-columns"] { grid-template-columns: repeat(2, 1fr) !important; }
+      }
+    </style>
+
+    <div class="pull-quote">
+      Three audiences. One position with three different finishes. <strong>The hardest finish is reserved for the audience most directly exposed to the policy.</strong>
+    </div>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="receipts">The receipts</h2>
+
+    <p>
+      Becerra's 2026 gubernatorial committee, FPPC #1480025, has raised approximately $5.7 million from 5,061 donors as of the most recent semi-annual filing. The averages tell one story. The maximum-contribution list tells another. Every donor on this list contributed at or near the $39,200 California legal maximum for an individual gubernatorial contribution. Every entity on this list is in healthcare. Every entity on this list operates under regulations Becerra ran for four years.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Healthcare-industry max donors to Becerra for Governor 2026</h3>
+      <div class="desc">Becerra for Governor 2026 · pulled directly from California's campaign-finance disclosure system</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">Leonard Schaeffer</span>
+              <span class="class-tag">founder and former CEO of WellPoint, the holding company that became Anthem</span>
+            </td>
+            <td class="num">$39,200</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">AltaMed Health Network, Inc.</span>
+              <span class="class-tag">largest Federally Qualified Health Center in California; HRSA grants directly under HHS during Becerra's tenure</span>
+            </td>
+            <td class="num">$39,200</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Alonzo Cantu</span>
+              <span class="class-tag">co-founder of DHR Health, one of the largest physician-owned hospital systems in the U.S.; Stark Law / ACA Section 6001 directly under HHS</span>
+            </td>
+            <td class="num">$39,200</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Prime Healthcare Services, Inc.</span>
+              <span class="class-tag">subject of an active HHS-OIG Corporate Integrity Agreement throughout Becerra's HHS tenure; estimated completion June 2026</span>
+            </td>
+            <td class="num">$20,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Raul Ayala (Adventist Health)</span>
+              <span class="class-tag">senior physician executive at Adventist Health Central California; rural FQHC reimbursement under HHS</span>
+            </td>
+            <td class="num">$33,900</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Kelly Ayala (Kaiser Permanente)</span>
+              <span class="class-tag">OB/GYN at Kaiser Permanente Fresno; same-day household contribution with Raul Ayala; Medi-Cal managed care under HHS</span>
+            </td>
+            <td class="num">$16,100</td>
+          </tr>
+          <tr class="total">
+            <td>Five donor entities, six contributions, three regulated industries</td>
+            <td class="num">$187,600</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Each of these entities lives inside the system single payer would replace. AltaMed bills Medi-Cal as a federally qualified health center. Kaiser bills Medicare Advantage and Medi-Cal managed care. Anthem, the company Schaeffer founded, sells Medicare Advantage plans, Medi-Cal managed-care contracts, and individual policies on the ACA exchanges. Prime Healthcare's revenue depends on Medicare reimbursement; its compliance program runs through the HHS-OIG agreement that was active for Becerra's entire HHS tenure. DHR Health is a physician-owned hospital that has been fighting to expand under Stark Law and ACA Section 6001 for fifteen years. Their interests aren't identical, and I get into where they differ in the next section. What they share is exposure to whatever the next governor decides to do with the system that pays them.
+    </p>
+
+    <p>
+      The Cantu Health donation also did not arrive alone. On the same day Alonzo Cantu personally maxed out, three additional donors with the Cantu surname gave on the same day from the same Texas counties: Carlos Garcia-Cantu, MD ($1,000), Leonel Cantu, MD ($5,000), and Melissa Cantu-Garza, PA ($2,100). Three of the four are DHR-affiliated physicians. The combined same-day household-and-affiliate cluster: $47,300.
+    </p>
+
+    <p>
+      <strong>The full donor list is at <a href="/donors-becerra-2026" style="color: var(--blue); border-bottom: 1px solid currentColor;">/donors-becerra-2026</a>.</strong> 5,061 contributors, $5.7 million raised. The healthcare-industry max donors above are six entities out of the top tier. The full list lets the reader audit whether the healthcare concentration is selected or representative. It is representative.
+    </p>
+
+    <p>
+      One donor on the same list is the subject of a separate investigation. Chevron USA Inc. gave Becerra the legal max ($39,200) on June 16, 2025. He defended the donation publicly on April 29, 2026, telling a League of California Cities forum that Chevron is "not the bad guy." That sequence and the historical record around it are documented at <a href="/chevron" style="color: var(--blue); border-bottom: 1px solid currentColor;">/chevron</a>.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="donor-interests">What each of these donors actually wants</h2>
+
+    <p>
+      Treating "the healthcare industry" as a single block oversimplifies. Each of these entities operates under different parts of the regulatory structure, with different revenue mechanics. The interests are not identical.
+    </p>
+
+    <ul style="margin: 16px 0 24px 24px; line-height: 1.8;">
+      <li><strong>Anthem (Schaeffer):</strong> private-payer health insurance. Sells Medicare Advantage, Medi-Cal managed care, and individual ACA marketplace plans. Single payer eliminates the private-insurance market that is Anthem's entire revenue base. <em>Maximally hostile to single payer.</em></li>
+      <li><strong>AltaMed (FQHC):</strong> Federally Qualified Health Center. Bills Medi-Cal at FQHC distinct rates plus collects HRSA Section 330 grants. A consolidated state payer with rate-restructuring could compress those distinct rates downward. <em>Operationally hostile to rapid consolidation; not necessarily hostile to a slower transition.</em></li>
+      <li><strong>Prime Healthcare (for-profit hospital chain):</strong> revenue is Medicare DRG payment plus commercial-insurance billing. Single payer with rate-setting consolidation threatens the higher commercial reimbursements that subsidize their for-profit margins. <em>Hostile to single payer.</em></li>
+      <li><strong>DHR Health (Cantu, physician-owned):</strong> already constrained by Stark Law and ACA Section 6001. Single payer with consolidated rate-setting would intensify those constraints and limit expansion options. <em>Hostile to single payer.</em></li>
+      <li><strong>Adventist Health (Raul Ayala) and Kaiser Permanente (Kelly Ayala):</strong> Medicare Advantage and Medi-Cal managed-care contracts. Kaiser's integrated payer-provider model is partially aligned with single payer in theory, but materially exposed to consolidation in practice. <em>Cautiously hostile.</em></li>
+    </ul>
+
+    <p>
+      The shared interest is not "no single payer ever." The shared interest is <strong>"no rapid consolidation that disrupts the current revenue structure during the next governor's term."</strong> A "building toward" candidate who frames single payer as a long-term goal but does not commit to specific implementation legislation matches that interest precisely. A candidate who pledges to sign AB 1400 on day one does not.
+    </p>
+
+    <p>
+      <strong>Counter-context: the labor donors.</strong> Becerra's top California donors include construction-labor PACs that are larger than several entries on the healthcare list: California State Council of Laborers PAC ($54,700), Southern California District Council of Laborers ($47,000), other LIUNA-affiliated committees. The construction Laborers are not in the healthcare industry. They have their own reasons to support a candidate: state infrastructure spending, prevailing-wage enforcement, public-sector project labor agreements. I am not claiming Becerra's donor base is healthcare-only. I am claiming the healthcare-industry slice of the max-donor list is structurally aligned with the softest version of his single-payer message. The labor PACs are independently aligned with a different policy agenda that does not bear on this question.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="timeline">Timeline</h2>
+
+    <p>
+      A central audit question for any donor-position story is timing. Did donations precede the messaging shift or follow it? The page is honest about what the timeline shows.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Donations and messaging on one axis</h3>
+      <div class="desc">Donations + public statements · April 2025 through April 2026</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Event</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background: rgba(230, 57, 70, 0.06);"><td><span class="donor-name">2022-12-20</span></td><td><strong>CMS approves DHR Health's physician-owned hospital expansion exception</strong> over Federation of American Hospitals + American Hospital Association opposition. Federal Register notice. Authority delegated from HHS Secretary Becerra. DHR opens Brownsville campus March 2023.</td></tr>
+          <tr><td><span class="donor-name">2025-04-01</span></td><td>Becerra files official paperwork to run for governor. The campaign committee starts taking donations.</td></tr>
+          <tr><td><span class="donor-name">2025-04-08</span></td><td>Alexandra Seros gives $39,200 (entertainment-industry household giving, not healthcare).</td></tr>
+          <tr><td><span class="donor-name">2025-04-15</span></td><td><strong>Schaeffer (Anthem founder) maxes out at $39,200.</strong> Two months after Becerra leaves HHS.</td></tr>
+          <tr><td><span class="donor-name">2025-05-27</span></td><td>Cindy Horn (no HHS hook, environmental philanthropy) gives $39,200.</td></tr>
+          <tr><td><span class="donor-name">2025-06-12</span></td><td><strong>Cantu (DHR Health co-founder) maxes out at $39,200.</strong> Same-day Cantu-family cluster: $47,300 total.</td></tr>
+          <tr><td><span class="donor-name">2025-06-17</span></td><td><strong>Raul + Kelly Ayala (Adventist + Kaiser) household: $50,000 combined.</strong></td></tr>
+          <tr><td><span class="donor-name">2025-06-19</span></td><td>Morgan Chu (Irell & Manella, life-sciences IP) gives $39,200.</td></tr>
+          <tr><td><span class="donor-name">2025-07-01</span></td><td><strong>AltaMed (largest CA FQHC) maxes out at $39,200.</strong></td></tr>
+          <tr><td><span class="donor-name">2025-09-26</span></td><td><strong>Prime Healthcare (active HHS-OIG CIA) gives $20,000.</strong></td></tr>
+          <tr><td><span class="donor-name">2025-11-10</span></td><td>CPCA Advocates formally endorses Becerra for Governor.</td></tr>
+          <tr><td><span class="donor-name">2026-01-15</span></td><td>CPCA Advocates PAC contributes $7,500 directly to Becerra for Governor. The first direct contribution from this PAC to any statewide-office candidate in its history.</td></tr>
+          <tr><td><span class="donor-name">2026-03-23</span></td><td><strong>Becerra ACA-anniversary social media campaign.</strong> Verified on X (status 2036208139507298516) and Facebook with the wording: "I've been an advocate for single-payer health care for over 30 years... We can deliver real relief now while building toward a universal, single-payer system." KQED and LAist additionally attribute the stronger formulation "Now I'm ready to go further as Governor and deliver single-payer health care for our state" to a March 23 post; that wording is not yet platform-confirmed (Tier 2 attribution).</td></tr>
+          <tr><td><span class="donor-name">2026-04-13</span></td><td>LAist / AirTalk interview. Becerra hedges on federal feasibility: "I don't think this federal government's gonna help us get to single payer." Makes structural-barriers case rather than delivery commitment. No mention of CalCare, AB 1400, or SB 770 by name.</td></tr>
+          <tr><td><span class="donor-name">2026-04-21</span></td><td><strong>CalCare (AB 1900) dies in California Assembly Health Committee without a hearing.</strong> Becerra makes no public statement.</td></tr>
+          <tr><td><span class="donor-name">2026-04-21 to 26</span></td><td>EMC Research poll commissioned by CPCA Advocates fielded. Shows Becerra surging to 21 percent, tied with Hilton.</td></tr>
+          <tr><td><span class="donor-name">2026-04-22</span></td><td>Nexstar / Inside California Politics debate. Becerra single-payer statements absent from available coverage.</td></tr>
+          <tr><td><span class="donor-name">2026-04-27 to 28</span></td><td>Private meeting between Becerra and California Medical Association physicians. Per KQED: "Becerra told the doctors that now was not the time for single payer." CMA president Dr. René Bravo, on the record: "He said very clearly that, at this point, he wasn't supportive of single payer." CMA had previously endorsed Eric Swalwell February 3 then withdrew the endorsement April 12 to 13 after sexual-assault allegations. Pivoted to Becerra after this meeting.</td></tr>
+          <tr><td><span class="donor-name">2026-04-28</span></td><td>CBS / Pomona College debate. Becerra healthcare framing centers on defending ACA premium tax credits and attacking Trump. Single-payer absent. Spokesperson Jonathan Underland writes to KQED the same week: "A single payer system is the right goal but it's not possible under this administration."</td></tr>
+          <tr><td><span class="donor-name">2026-04-29</span></td><td><strong>CMA endorses Becerra.</strong> Politico reports "Working Families for Healthy Communities Supporting Becerra for Governor 2026" IE PAC seed-funded by California State Council of Laborers + CPCA Advocates (NOT CMA). Becerra's own X post announcing the CMA endorsement: single-payer language absent, ACA-authorship language replaces it.</td></tr>
+          <tr><td><span class="donor-name">2026-04-30</span></td><td><strong>Working Families for Healthy Communities IE PAC formed</strong> (FPPC committee 1490885). Co-seed funders per Politico: California State Council of Laborers (Becerra's #1 named donor at $54,700) + CPCA Advocates. Bearstar Strategies (Newsom's consulting firm) leads media strategy. Bearstar is also the firm running the anti-Steyer IE expenditure for the same race; see <a href="/class-traitor" style="color: var(--blue); border-bottom: 1px solid currentColor;">/class-traitor</a> for that side of the same operation.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The timeline shows two distinct findings. First, the donations arrived across spring through fall 2025, almost all in the first six months of the campaign. The KQED-reported "not possible under this administration" message is from 2026. The campaign-website language has been "building toward CalCare" since the original campaign launch in April 2025. I have no evidence Becerra ran on a maximalist single-payer position in early 2025 and softened it after the donations arrived. <strong>The donor list and the soft messaging are correlation, not the causal pattern of donations buying a position change.</strong> Second, the December 20, 2022 CMS approval of DHR Health's Brownsville expansion exception is a documented HHS Secretary-era action that benefited a current max donor (Cantu) over major industry opposition. The donations followed the action. The action did not follow the donations.
+    </p>
+
+    <p>
+      The honest read: donations and softening were both products of the same underlying alignment that Becerra had been signaling through his HHS tenure (March 2021 through January 2025), a period during which he served the Biden "build on the ACA" line and did not break with the administration to advocate single payer. Healthcare-industry institutions read that record more closely than voters do. They knew what they were giving to before they gave.
+
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="direct-influence">Direct influence: one finding, named</h2>
+
+    <p>
+      Investigative work names what's in the record and what isn't. I audited HHS regulatory, enforcement, and contracting actions during Becerra's tenure as Secretary (March 2021 through January 2025). One action meets every test for a direct-influence finding: it was decided by Becerra's office, it was about one specific entity, it was material beyond routine business, and that entity is on Becerra's current donor list. That action is the December 20, 2022 CMS approval of DHR Health's hospital expansion.
+    </p>
+
+    <h3 style="font-family: 'Inter', sans-serif; font-weight: 800; font-size: 24px; margin: 24px 0 12px;">DHR Brownsville · CMS approval December 20, 2022</h3>
+
+    <figure style="margin: 24px 0 32px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 24px 0; background: var(--paper);">
+      <figcaption style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 18px; padding: 0 24px; text-align: center;">The DHR Brownsville approval timeline</figcaption>
+      <svg viewBox="0 0 880 220" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; display: block; max-width: 880px; margin: 0 auto;" aria-label="Timeline of the DHR Brownsville expansion approval from 2010 to 2025">
+        <!-- Baseline axis -->
+        <line x1="40" y1="120" x2="840" y2="120" stroke="#0a0a0a" stroke-width="3"/>
+        <!-- Tick marks -->
+        <g font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#0a0a0a">
+          <!-- 2010-03 ACA enacted -->
+          <line x1="60" y1="112" x2="60" y2="128" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="60" y="148" text-anchor="middle" font-size="10">2010-03</text>
+          <text x="60" y="92" text-anchor="middle" font-size="10" font-style="italic">ACA §6001 enacted</text>
+          <text x="60" y="80" text-anchor="middle" font-size="9" fill="#666">expansion ban begins</text>
+
+          <!-- 2021-10 DHR application -->
+          <line x1="280" y1="112" x2="280" y2="128" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="280" y="148" text-anchor="middle" font-size="10">2021-10</text>
+          <text x="280" y="92" text-anchor="middle" font-size="10" font-style="italic">DHR files</text>
+          <text x="280" y="80" text-anchor="middle" font-size="9" fill="#666">expansion request</text>
+
+          <!-- 2022-03 FAH/AHA opposition -->
+          <line x1="380" y1="112" x2="380" y2="128" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="380" y="148" text-anchor="middle" font-size="10">2022-03</text>
+          <rect x="340" y="62" width="80" height="22" fill="#0a0a0a"/>
+          <text x="380" y="78" text-anchor="middle" font-size="10" font-weight="700" fill="#fff">FAH + AHA</text>
+          <text x="380" y="56" text-anchor="middle" font-size="9" fill="#666">opposed</text>
+
+          <!-- 2022-12-20 CMS approval (RED, the smoking gun) -->
+          <line x1="500" y1="100" x2="500" y2="140" stroke="#e63946" stroke-width="4"/>
+          <circle cx="500" cy="120" r="9" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="500" y="160" text-anchor="middle" font-size="11" font-weight="900" fill="#e63946">2022-12-20</text>
+          <text x="500" y="174" text-anchor="middle" font-size="10" font-weight="700" fill="#0a0a0a">CMS APPROVES</text>
+          <text x="500" y="186" text-anchor="middle" font-size="9" fill="#666">over major industry opposition</text>
+
+          <!-- 2023-03 DHR opens -->
+          <line x1="600" y1="112" x2="600" y2="128" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="600" y="148" text-anchor="middle" font-size="10">2023-03</text>
+          <text x="600" y="92" text-anchor="middle" font-size="10" font-style="italic">DHR opens</text>
+          <text x="600" y="80" text-anchor="middle" font-size="9" fill="#666">Brownsville campus</text>
+
+          <!-- 2025-06-12 Cantu max-out (YELLOW, the donation) -->
+          <line x1="780" y1="105" x2="780" y2="135" stroke="#0a0a0a" stroke-width="3"/>
+          <rect x="730" y="65" width="100" height="32" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="780" y="80" text-anchor="middle" font-size="10" font-weight="900">CANTU MAXES OUT</text>
+          <text x="780" y="92" text-anchor="middle" font-size="10" font-weight="700">$39,200</text>
+          <text x="780" y="148" text-anchor="middle" font-size="10">2025-06-12</text>
+          <text x="780" y="160" text-anchor="middle" font-size="9" fill="#666">2.5 years after approval</text>
+        </g>
+        <!-- The "approved over opposition" emphasis bar -->
+        <line x1="380" y1="62" x2="500" y2="100" stroke="#e63946" stroke-width="2" stroke-dasharray="4 4"/>
+      </svg>
+    </figure>
+
+    <p>
+      DHR Health is the physician-owned hospital system Alonzo Cantu co-founded in Edinburg, Texas. Cantu is one of the six healthcare-industry max donors profiled above. Under the Affordable Care Act's Section 6001 (42 U.S.C. § 1395nn), physician-owned hospitals that received Medicare reimbursement before March 23, 2010 were grandfathered, but prohibited from expanding facility capacity. A narrow exception allows CMS to approve expansion for hospitals meeting indigent-care thresholds.
+    </p>
+
+    <p>
+      DHR filed an amended exception request on October 14, 2021 to operate a new remote campus in Brownsville, Texas, fifty-five miles from its main Edinburg campus. The Federation of American Hospitals and the American Hospital Association filed a joint comment letter on March 11, 2022 urging CMS to reject the application, arguing that the fifty-five-mile separation meant the "remote location" was effectively a new hospital, not an expansion. CMS approved the exception on December 20, 2022 and published the approval in the Federal Register. The Federation called the decision "extremely disappointing" and said it "weaken[ed] the law banning new physician-owned hospitals." DHR opened the Brownsville campus in March 2023.
+    </p>
+
+    <p>
+      The approval was made under authority delegated from the HHS Secretary. Becerra was in office on December 20, 2022. The decision was contested by the two largest hospital industry trade groups in the country and approved over their explicit opposition. DHR was named in the Federal Register approval notice.
+    </p>
+
+    <p>
+      Cantu personally maxed out to Becerra for Governor 2026 with a $39,200 contribution on June 12, 2025, more than two years after the approval. Border Health Federal PAC, the Cantu-orbit committee, contributed at the maximum to the same campaign. This is the cleanest entity-specific HHS action benefiting a current max donor that the public record contains.
+    </p>
+
+    <p>
+      <strong>What this finding establishes and what it does not.</strong> It establishes proximity and alignment. It does not establish preferential treatment beyond the documented approval itself. The donations arrived more than two years after the approval, not before. The public record does not document a meeting between Cantu and Becerra during the approval period, or any communication tying the contribution to the regulatory action. Cantu has been a prolific Democratic donor since at least 2008, when he bundled approximately $600,000 for Hillary Clinton from Rio Grande Valley physicians, characterized in his own framing as "protection money" against legislation restricting physician-owned hospitals. The 2022 CMS decision and the 2025 contribution don't require coordination to be editorially relevant. They establish that an HHS regulatory action favorable to one specific donor occurred during Becerra's tenure, over the explicit opposition of the two largest hospital industry trade groups in the country. That is the documented pattern. Coordination would be a stronger claim. I do not make it.
+    </p>
+
+    <h3 style="font-family: 'Inter', sans-serif; font-weight: 800; font-size: 24px; margin: 24px 0 12px;">Other HHS-era actions reviewed: industry-wide or adverse</h3>
+
+    <p>
+      The same audit examined HHS actions for the other named donors. Most are industry-wide. None match the DHR finding's combination of entity-specific, contested, donor-connected.
+    </p>
+
+    <ul style="margin: 16px 0 24px 24px; line-height: 1.8;">
+      <li><strong>Anthem (Schaeffer):</strong> Medicare Advantage rate increases for plan years 2022 to 2024 benefited all MA insurers, not Anthem specifically. The CY 2024 final increase of 3.32 percent was characterized by Center for Medicare Advocacy as the result of industry-wide insurance lobbying, not preferential treatment. The HHS-OIG actually published an adverse compliance audit of Anthem in May 2021 finding $3.47 million in net overpayments from unsupported diagnosis codes. Elevance Health subsequently sued Becerra in his official capacity over 2024 MA Star Ratings calculation. The Schaeffer max-out is post-departure money from a former regulated industry, not evidence of favorable Becerra treatment of Anthem during his tenure.</li>
+      <li><strong>AltaMed:</strong> received specific HRSA competitive awards (Teaching Health Center GME, PACE contract approval, $764,228 HIV-prevention grant) during the period. These were administered through standard agency processes; no Secretary-level political interference is documented. The Section 330 formula increases benefited all FQHCs.</li>
+      <li><strong>Prime Healthcare:</strong> the HHS-OIG Corporate Integrity Agreement #2 was executed June 9, 2021 and resulted in Prime paying a $37.5 million settlement. The CIA is an enforcement action, not a favorable one. The discretionary choice of CIA over exclusion preserved Prime's Medicare/Medicaid billing privileges, which is favorable relative to the worst-case alternative, but is the standard enforcement path for cases that do not warrant exclusion.</li>
+      <li><strong>Adventist Health (Raul Ayala):</strong> received a $749,997 HRSA Rural Residency Planning and Development award in FY 2024 through a competitive process. No evidence of preferential selection.</li>
+      <li><strong>Kaiser Permanente (Kelly Ayala):</strong> benefited from CalAIM approval (December 2021) and PHE-renewal-driven telehealth flexibilities. Both are industry-wide or state-program-wide, not entity-specific.</li>
+    </ul>
+
+    <p>
+      <strong>Direct influence I did not find.</strong> No documented meetings between Becerra and any named donor during his HHS years. No lobbying disclosure that names him personally as a contact (hundreds of healthcare lobbying filings name HHS as the agency lobbied; none singles him out). No communications between donors and the campaign on policy. That kind of evidence requires subpoena power, which I don't have. No specific policy commitment from Becerra that maps onto a named donor's stated ask. To go further than the DHR finding, you need investigative tools I can't get from the public record: FOIA on HHS-era communications, lobbying disclosure traced at the staffer level, direct attestation from people in the room. The DHR Brownsville approval is the one direct-influence finding the record gives me. I treat it as the named example, not as the rule.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="cpca-circuit">The CPCA circuit</h2>
+
+    <p>
+      The donor list is one layer. Underneath it is a second layer that explains where the polling and the IE money are coming from.
+    </p>
+
+    <p>
+      AltaMed Health Services Corporation, the largest Federally Qualified Health Center in California, gave Becerra $39,200 on July 1, 2025. That contribution sits one row above on the receipts table. What it does not show: AltaMed's Senior Vice President for Government Relations and Civic Engagement, <strong>Berenice Nunez Constant</strong>, sits as <strong>Treasurer of the Board of California Primary Care Association Advocates</strong>, the 501(c)(4) advocacy arm of the FQHC trade association. CPCA Advocates is a separate legal entity from AltaMed and from CPCA itself, but it shares an address, an executive infrastructure, and overlapping board governance with both. AltaMed's exec is on the board.
+    </p>
+
+    <p>
+      That CPCA Advocates board, with AltaMed as Treasurer, then did four things between November 2025 and April 2026:
+    </p>
+
+    <div class="receipts-block">
+      <h3>The four channels CPCA Advocates ran for Becerra</h3>
+      <div class="desc">November 2025 through April 2026 · primary or named-publication sourced</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Channel</th>
+            <th style="text-align: right;">Effect</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="donor-name">Nov 10, 2025</span></td>
+            <td>
+              <strong>Endorsement.</strong> CPCA Advocates formally endorsed Becerra for Governor.
+              <span class="class-tag">CPCA Advocates Endorsements page; xavierbecerra2026.com/endorsements lists "CA Primary Care Association Advocates"</span>
+            </td>
+            <td class="num" style="font-size: 11px; color: var(--ink); white-space: normal;">organizational backing</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">Apr 21–26, 2026</span></td>
+            <td>
+              <strong>Polling sponsorship.</strong> CPCA Advocates commissioned the EMC Research poll showing Becerra at 21%, tied with Hilton in the surge bracket.
+              <span class="class-tag">first reported by Politico CA Playbook 2026-04-29; the EMC poll ran during the Swalwell-exit consolidation window</span>
+            </td>
+            <td class="num" style="font-size: 11px; color: var(--ink); white-space: normal;">narrative oxygen</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">late Apr 2026</span></td>
+            <td>
+              <strong>IE PAC funding.</strong> CPCA Advocates is described by Politico as "one of the super PAC's funders" for "Working Families for Healthy Communities Supporting Becerra for Governor 2026," a new IE PAC backing Becerra.
+              <span class="class-tag">Politico CA Playbook 2026-04-29; exact dollar contribution pending the next campaign-finance filing</span>
+            </td>
+            <td class="num" style="font-size: 11px; color: var(--ink); white-space: normal;">paid media in his name</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">2024</span></td>
+            <td>
+              <strong>Track record of major spending.</strong> CPCA Advocates' Patient Access to Care Fund contributed $1,729,053 to Yes on Prop 35 (the 2024 MCO tax that funds Medi-Cal reimbursement). Established history of multi-million-dollar political deployment.
+              <span class="class-tag">California Secretary of State, Prop 35 contributions database</span>
+            </td>
+            <td class="num" style="font-size: 11px; color: var(--ink); white-space: normal;">$1.73M deployed</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Any one of those four channels in isolation reads as standard institutional support. A trade association endorses candidates. A trade association polls on candidates. A trade association funds IE PACs. A board seat occupied by a member's executive is normal governance. The four channels stacked together at the same time, all flowing toward the same candidate during the same six-month window, are the concentration on which this section rests. I am not claiming the poll number was manufactured. EMC is a real polling firm with documented methodology. I am claiming the poll showing Becerra at 21 percent was commissioned by an organization that endorsed Becerra, that funds an IE PAC for Becerra, and whose Treasurer is the executive of a max donor to Becerra. Whether that commissioning relationship affected the question wording, the sample composition, or the timing of the release, I cannot say from public records. I can say the surge number traveled through media coverage during the consolidation window and reinforced the candidate the commissioning organization had already endorsed.
+    </p>
+
+    <p>
+      <strong>The four-channel pattern is unprecedented in the organization's own history.</strong> Based on available IRS Form 990 filings (FY2017 through FY2025) and California Cal-Access campaign-finance records (2018 cycle through May 2026), every channel deployed for Becerra is a first.
+    </p>
+
+    <figure style="margin: 24px 0 32px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 24px 0; background: var(--paper); display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+      <div>
+        <figcaption style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 18px; padding: 0 24px; text-align: center;">Channels deployed per cycle</figcaption>
+        <svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; display: block;" aria-label="Stairstep bar chart of CPCA Advocates channels deployed per cycle, 2018 through 2026">
+          <line x1="40" y1="200" x2="380" y2="200" stroke="#0a0a0a" stroke-width="2"/>
+          <line x1="40" y1="40" x2="40" y2="200" stroke="#0a0a0a" stroke-width="2"/>
+          <g font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a">
+            <text x="32" y="204" text-anchor="end">0</text>
+            <text x="32" y="164" text-anchor="end">1</text>
+            <text x="32" y="124" text-anchor="end">2</text>
+            <text x="32" y="84" text-anchor="end">3</text>
+            <text x="32" y="44" text-anchor="end">4</text>
+          </g>
+          <!-- Bars: 2018=0, 2020=0, 2022=1 (endorse), 2024=2 (endorse+contribute), 2026=4 -->
+          <g>
+            <rect x="65" y="200" width="50" height="0" fill="#737373" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="125" y="200" width="50" height="0" fill="#737373" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="185" y="160" width="50" height="40" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="245" y="120" width="50" height="80" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="305" y="40" width="50" height="160" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+          </g>
+          <g font-family="Space Mono, monospace" font-size="10" fill="#0a0a0a">
+            <text x="90" y="220" text-anchor="middle">2018</text>
+            <text x="150" y="220" text-anchor="middle">2020</text>
+            <text x="210" y="220" text-anchor="middle">2022</text>
+            <text x="270" y="220" text-anchor="middle">2024</text>
+            <text x="330" y="220" text-anchor="middle" font-weight="900" fill="#e63946">2026</text>
+          </g>
+          <text x="330" y="32" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#e63946">ALL FOUR</text>
+        </svg>
+      </div>
+      <div>
+        <figcaption style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 18px; padding: 0 24px; text-align: center;">Org revenue · FY2017 to FY2025</figcaption>
+        <svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; display: block;" aria-label="Stairstep bar chart of CPCA Advocates total annual revenue, FY2017 through FY2025">
+          <line x1="50" y1="200" x2="390" y2="200" stroke="#0a0a0a" stroke-width="2"/>
+          <line x1="50" y1="40" x2="50" y2="200" stroke="#0a0a0a" stroke-width="2"/>
+          <g font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a">
+            <text x="42" y="204" text-anchor="end">$0</text>
+            <text x="42" y="160" text-anchor="end">$1M</text>
+            <text x="42" y="120" text-anchor="end">$2M</text>
+            <text x="42" y="80" text-anchor="end">$3M</text>
+            <text x="42" y="44" text-anchor="end">$4M</text>
+          </g>
+          <!-- Heights normalized to 200-y-pixel scale where $1M = 40px. FY17:$0.7M, FY18:$0.91M, FY19:$1.03M, FY20:$1.07M, FY21:$0.75M, FY22:$0.79M, FY23:$1.49M, FY24:$2.29M, FY25:$4.27M -->
+          <g>
+            <rect x="60"  y="172" width="34" height="28"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="98"  y="164" width="34" height="36"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="136" y="159" width="34" height="41"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="174" y="157" width="34" height="43"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="212" y="170" width="34" height="30"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="250" y="168" width="34" height="32"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="288" y="140" width="34" height="60"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="326" y="108" width="34" height="92"  fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+            <rect x="364" y="29"  width="22" height="171" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+          </g>
+          <g font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">
+            <text x="77" y="220" text-anchor="middle">FY17</text>
+            <text x="115" y="220" text-anchor="middle">FY18</text>
+            <text x="153" y="220" text-anchor="middle">FY19</text>
+            <text x="191" y="220" text-anchor="middle">FY20</text>
+            <text x="229" y="220" text-anchor="middle">FY21</text>
+            <text x="267" y="220" text-anchor="middle">FY22</text>
+            <text x="305" y="220" text-anchor="middle">FY23</text>
+            <text x="343" y="220" text-anchor="middle">FY24</text>
+            <text x="375" y="220" text-anchor="middle" font-weight="900" fill="#e63946">FY25</text>
+          </g>
+          <text x="375" y="22" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#e63946">$4.27M</text>
+        </svg>
+      </div>
+    </figure>
+
+    <div class="receipts-block">
+      <h3>What CPCA Advocates has and has not done across cycles</h3>
+      <div class="desc">2018 to 2026 · IRS 990s + Cal-Access primary records + ProPublica Nonprofit Explorer</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Dimension</th>
+            <th>Prior cycles 2018 to 2024</th>
+            <th>2026 Becerra</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Highest office endorsed</span></td><td>State Assembly</td><td><strong>Governor (first ever)</strong></td></tr>
+          <tr><td><span class="donor-name">Commissioned political poll</span></td><td>None documented</td><td><strong>EMC Research, April 21 to 26 (first ever)</strong></td></tr>
+          <tr><td><span class="donor-name">IE committee for a candidate</span></td><td>None (the 2024 Prop 35 committee was a ballot-measure committee, not a candidate IE)</td><td><strong>Working Families for Healthy Communities (first ever)</strong></td></tr>
+          <tr><td><span class="donor-name">Direct PAC contribution to statewide office</span></td><td>None at any statewide level</td><td><strong>$7,500 to Becerra for Governor (first ever, January 15, 2026)</strong></td></tr>
+          <tr><td><span class="donor-name">Channels deployed simultaneously</span></td><td>Maximum two (endorsement plus direct contribution)</td><td><strong>All four</strong></td></tr>
+          <tr><td><span class="donor-name">Organizational revenue underpinning the cycle</span></td><td>$788K (FY2022) to $1.49M (FY2023)</td><td><strong>$4.27M (FY2025), five times the prior baseline</strong></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      In every prior cycle the organization operated as a civic-engagement vehicle (2018, 2020, no PAC), a modest Assembly-level contributor (2022 to 2024), and a one-time ballot-measure powerhouse (the 2024 Prop 35 campaign at $1,729,053 from their Patient Access to Care Fund). In 2026 the organization crossed into a qualitatively different arena. The shift coincided with revenue more than doubling between FY2024 and FY2025.
+    </p>
+
+    <p>
+      Plus a finding on board continuity. Berenice Nunez Constant, AltaMed's SVP of Government Relations, has held continuous board representation at CPCA Advocates from at least FY2019 through the current FY2025, in roles ranging from Director to Treasurer. No other FQHC has had as consistent a board presence over the observed period. AltaMed's seat at the table predates the Becerra campaign by years.
+    </p>
+
+    <p>
+      Plus a finding on coalition shape. The new IE PAC, "Working Families for Healthy Communities Supporting Becerra for Governor 2026" (FPPC committee 1490885, formed April 30, 2026), was co-seeded by CPCA Advocates and the <strong>California State Council of Laborers</strong> per Politico's April 29 reporting. The California State Council of Laborers is the number-one named donor on Becerra's gubernatorial committee receipt list at $54,700. The IE PAC's media strategy is led by Bearstar Strategies, the firm with the closest ties to Governor Newsom's political operation. The "CPCA circuit" is more accurately the Laborers + CPCA Advocates + AltaMed coalition operating through multiple coordinated channels with the firm Newsom uses leading the IE side.
+    </p>
+
+    <p>
+      The honest qualifier the page used in earlier drafts (I lacked a comparative baseline, so I could not claim the four-channel pattern was unusual) is now closed. The baseline exists. The pattern is unusual. Every channel is a first in the organization's history. All four are deployed simultaneously for the first time. The target office is the highest in the organization's history. The total resources behind the cycle are five times any prior cycle. I am not asserting coordination among the donors; I am documenting that one organization's normal mode is two-channel Assembly-level support and its 2026 mode is four-channel gubernatorial support, and the 2026 candidate is the one whose donor list the organization's board members and members fund.
+    </p>
+
+    <p>
+      I have not located a public position by CPCA Advocates on AB 1400, SB 562, or any other California single-payer legislation. Other healthcare-aligned organizations (the California Nurses Association most prominently) are public CalCare supporters; CPCA Advocates is not on the supporter rolls and is not on any public opposition rolls I have located. I am flagging the absence as an information gap, not as implied positioning. A reader who wants to know the trade group's stance on the most consequential healthcare bill in California's recent past would not find an answer on the organization's published materials. That is a fact about the public record, not an inference about intent.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="newsom-precedent">The Newsom precedent</h2>
+
+    <p>
+      The Becerra trajectory is not new in California. KQED itself drew the parallel in the same article that broke the CMA-meeting account: "Becerra's backpedaling on single-payer is reminiscent of Gov. Gavin Newsom's retreat on the issue."
+    </p>
+
+    <p>
+      Newsom ran in 2018 on single-payer as his signature issue. To the California Nurses Association: "You have my firm and absolute commitment, as your next governor, that I will lead the effort to get it done." To skeptics: "If these can't-do Democrats were in charge, we would have never had Medicare and Social Security." As governor he signed Day-One executive orders on prescription-drug purchasing, then a letter to Trump asking for waivers. The substantive single-payer bill never followed. When the legislature's CalCare bill came up in 2022, Newsom said it had "not been presented to me." The bill died without a floor vote. He passed the much weaker SB 770 in 2023, which the same nurses' union called "a complete betrayal." A third CalCare bill died in committee in 2024 without his support.
+    </p>
+
+    <p>
+      Each Newsom hedge over those five years sounds like a Becerra hedge from this April. "These things take time" (Newsom, 2019) is the same shape as "I don't think this federal government's gonna help us get to single payer" (Becerra, 2026). "The ideal system is a single-payer system. It's one thing to say, it's another to do" (Newsom, 2022) is the same shape as the Becerra spokesperson's statement: "the right goal but it's not possible under this administration."
+    </p>
+
+    <p>
+      The shape repeats for a reason. The same insurance companies that funded Newsom's 2018 race ended up lobbying against the bills that would have implemented his promise. Blue Shield of California alone put nearly $1 million into a pro-Newsom independent expenditure committee in 2018, then later opposed CalCare. That is the campaign-to-governance gap California Democrats keep producing on this issue. I am not saying Becerra is running the playbook on purpose. I am saying the playbook exists, his six-week trajectory fits the earliest pages of it, and voters reading the campaign website are entitled to the precedent.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="one-position">One position, three finishes</h2>
+
+    <p>
+      You can read the three messages charitably and find a single position underneath: he supports single payer in principle, he doesn't see the federal government cooperating, and he isn't going to commit to a specific implementation right now. That reading is consistent. It is also the most generous reading available.
+    </p>
+
+    <p>
+      It still doesn't explain why the answer changes with the audience. The campaign website's "building toward a universal, single-payer CalCare system that puts people before profits" is the version voters reading his priorities page see. The LAist version is "I don't think this federal government's gonna help us get to single payer." No CalCare, no AB 1400, no SB 770 by name. The version his spokesperson gives KQED is the hardest: "the right goal but it's not possible under this administration." The more directly the audience is exposed to the policy, the harder the answer gets. The version delivered to the doctors' lobby is the one that says, in plain English, the policy isn't happening on this candidate's watch.
+    </p>
+
+    <p>
+      That is not a contradiction. It is a calibration. The page does not need to call it a contradiction to make the editorial point. A candidate can hold a coherent position and still choose, when speaking to the regulated industry that funds his campaign, to deliver the version of that position that costs them the least to hear. Voters reading the campaign website have the right to know which finish will land in office.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="not-claiming">What this page does not claim</h2>
+
+    <ul style="margin: 16px 0 24px 24px; line-height: 1.8;">
+      <li><strong>This page does not claim donations bought a position change.</strong> The timeline shows donations and softening tracking together, not donations preceding softening. The honest read is that both flow from an underlying alignment Becerra signaled through his HHS tenure.</li>
+      <li><strong>This page does not claim coordination among the donors.</strong> Six max donors with parallel interests in the same election cycle is structural alignment. Without communications evidence I do not have, it is not coordinated political action.</li>
+      <li><strong>This page does not claim the polls were manufactured.</strong> The EMC poll showing Becerra at 21 percent is a real polling firm's number with documented methodology. I claim only that the poll was commissioned by an organization simultaneously running three other channels of support for Becerra, and that aggregator hygiene has not down-weighted it accordingly.</li>
+      <li><strong>This page does not claim Becerra has explicitly opposed CalCare.</strong> He has not. He has also not explicitly stated a position on AB 1400, SB 770, or Section 1332 federal-waiver groundwork by name. The absence of a stated position is an information gap on the public record. I am flagging the gap; I am not assigning intent to it.</li>
+      <li><strong>The CPCA-Advocates four-channel pattern IS unusual in the organization's own history.</strong> Earlier drafts of this page included a non-claim acknowledging I lacked a comparative baseline. That gap is now closed: every channel deployed for Becerra is a first in CPCA Advocates' history (first gubernatorial endorsement, first commissioned poll, first candidate IE committee, first direct contribution to statewide office, all four channels for the first time simultaneously, against a 5x revenue increase). I make this claim with primary-source documentation across IRS 990 filings (FY2017 through FY2025) and Cal-Access RCPT records (2018 cycle through 2026 YTD). I am not claiming coordination among the donors. I am claiming the four-channel pattern is qualitatively different from anything the organization has done before.</li>
+      <li><strong>This page does not claim every entity on the healthcare donor list is uniformly hostile to single payer.</strong> Kaiser's integrated payer-provider model has partial structural alignment with single payer in theory; Federally Qualified Health Centers like AltaMed have mixed incentives depending on rate-restructuring details; some providers could benefit under specific implementation models. The shared interest is operational exposure to the existing reimbursement structure, not unanimous opposition.</li>
+      <li><strong>This page does not claim Anthem received favorable treatment from Becerra during his HHS tenure.</strong> The HHS-OIG audit of Anthem Community Insurance Company in May 2021 was an adverse action, finding $3.47 million in net overpayments from unsupported diagnosis codes. Elevance Health subsequently sued Becerra in his official capacity over 2024 MA Star Ratings calculation. Industry-wide Medicare Advantage rate increases benefited Anthem alongside all MA insurers. The Schaeffer max-out is post-departure money from a former regulated industry, not evidence of preferential Becerra treatment of Anthem.</li>
+      <li><strong>This page does not claim Becerra coordinated with the donor coalition on the December 2022 DHR Brownsville approval.</strong> The CMS approval was a regulatory decision Becerra's office had authority over, made over major industry opposition. Cantu's donations arrived more than two years later. The public record doesn't show a meeting, a communication, or a trade between Cantu and Becerra during the approval period. The pattern is structural: the regulator's decision helped the donor's business, the donation followed, and the relationship between Cantu and Democratic candidates was already on the record (in 2008 he bundled around $600,000 for Hillary Clinton from Rio Grande Valley physicians, which he himself called "protection money" against legislation restricting physician-owned hospitals). Coordination would be a stronger claim. The public record doesn't support it.</li>
+      <li><strong>This page does not claim the California Medical Association is running a four-channel circuit parallel to CPCA Advocates.</strong> CMA endorsed Becerra on April 29 (one channel). CMA did not commission a poll on the race; the EMC poll was sponsored by CPCA Advocates, a different organization. CALPAC, CMA's political action committee, has no recorded contribution to Becerra's governor campaign and did not contribute to the Working Families for Healthy Communities IE PAC. The structural CPCA Advocates pattern is not duplicated at CMA.</li>
+      <li><strong>This page does not claim the KQED-attributed "deliver single-payer" wording is verified at platform level.</strong> The verified March 23, 2026 post on X and Facebook reads: "We can deliver real relief now while building toward a universal, single-payer system that puts people before profits." KQED and LAist attribute the stronger "Now I'm ready to go further as Governor and deliver single-payer health care for our state" wording to a March 23 social media post; that exact phrasing was not located on X or Facebook in my search and may be on Instagram (which blocks automated retrieval) or in a separate simultaneous post. I treat the verified X / Facebook wording as the primary record and the KQED-attributed wording as Tier 2 pending platform confirmation.</li>
+      <li><strong>This page does not claim it has heard Becerra say the words "I am not supportive of single payer."</strong> The CMA meeting was private. What I have is CMA president Dr. René Bravo on the record describing what Becerra said: "He said very clearly that, at this point, he wasn't supportive of single payer." KQED's own reporting independently confirms the meeting and the message: "Becerra told the doctors that now was not the time for single payer." Both are direct quotations from the people in the room or from the publication that interviewed them. Neither is the candidate's own first-person words. A reader who wants to require first-person verbatim before crediting the CMA-meeting account is reading the standard correctly. This page treats the two on-the-record sources (Bravo speaking by name, KQED's own reporting summary) as the documentary basis for the third-audience finding.</li>
+    </ul>
+
+    <p>
+      Two claims on this page have residual verification gaps. The 1994 congressional hearing quote ("I do, as I said before, join my colleagues who support the single-payer plan") is currently sourced via KFF Health News and PolitiFact. The original GovInfo or Congress.gov primary hearing transcript was not directly retrievable through the GovInfo search interface during this round; KQED's own reporting cross-references the 1994 testimony via the Becerra campaign website's archived video. The exact dollar amount CPCA Advocates has contributed to the new IE PAC ("Working Families for Healthy Communities Supporting Becerra for Governor 2026") will become public when Cal-Access Form 460 or Form 496 disclosures are filed over the next thirty days; until then the IE-funder relationship is documented only through Politico's April 29 reporting.
+    </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">See something I <em>missed?</em></h3>
+        <p class="tip-box-beat-desc">A document, a filing, a Cal-Access committee that doesn't smell right, a Becerra-adjacent receipt I haven't traced. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Three%20Becerras%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">Names. Dates. Filings. Committee IDs. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">Cosponsorship: HR 1200, American Health Security Act of 1993</span>
+          <a href="https://www.govtrack.us/congress/bills/103/hr1200">govtrack.us/congress/bills/103/hr1200</a>
+        </li>
+        <li>
+          <span class="label">Cosponsorship: HR 3960, American Health Security Act of 1994</span>
+          <a href="https://www.govtrack.us/congress/bills/103/hr3960">govtrack.us/congress/bills/103/hr3960</a>
+        </li>
+        <li>
+          <span class="label">Cosponsorship: HR 1200, American Health Security Act of 1995</span>
+          <a href="https://www.govtrack.us/congress/bills/104/hr1200">govtrack.us/congress/bills/104/hr1200</a>
+        </li>
+        <li>
+          <span class="label">Cosponsorship: HR 676, 109th-112th Congresses</span>
+          <a href="https://www.govtrack.us/congress/bills/109/hr676">govtrack.us/congress/bills/109/hr676</a> ·
+          <a href="https://www.govtrack.us/congress/bills/110/hr676">110th</a> ·
+          <a href="https://www.govtrack.us/congress/bills/111/hr676">111th</a> ·
+          <a href="https://www.govtrack.us/congress/bills/112/hr676">112th</a>
+        </li>
+        <li>
+          <span class="label">Senate Finance confirmation hearing transcript</span>
+          <a href="https://www.finance.senate.gov/imo/media/doc/473022.pdf">finance.senate.gov/imo/media/doc/473022.pdf</a>
+        </li>
+        <li>
+          <span class="label">Becerra 2026 campaign healthcare page</span>
+          <a href="https://www.xavierbecerra2026.com/priorities/health-care/">xavierbecerra2026.com/priorities/health-care/</a>
+        </li>
+        <li>
+          <span class="label">LAist 2026 transcript</span>
+          <a href="https://laist.com/news/politics/2026-election-california-primary-xavier-becerra-california-governor-transcript">laist.com/news/politics/2026-election-california-primary-xavier-becerra-california-governor-transcript</a>
+        </li>
+        <li>
+          <span class="label">KQED: "Becerra backpedals on single-payer as he woos powerful doctors lobby"</span>
+          <a href="https://www.kqed.org/news/12082059/xavier-becerra-backpedals-on-single-payer-as-he-woos-powerful-doctors-lobby">kqed.org/news/12082059</a>
+        </li>
+        <li>
+          <span class="label">Becerra for Governor 2026 committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480025">cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480025</a>
+        </li>
+        <li>
+          <span class="label">Cal-Access bulk export</span>
+          <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov/dbwebexport.zip</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> Cosponsorship records pulled from GovTrack, which mirrors the official congressional bill-status data feed. Senate Finance confirmation testimony pulled from the Committee's own transcript PDF. 2026 campaign-website language quoted directly from xavierbecerra2026.com. LAist interview quoted from the publication's own published transcript. KQED quotations of spokesperson Jonathan Underland and California Medical Association president René Bravo reproduced from KQED's own published reporting. Donor amounts, dates, and donor identities pulled directly from California Cal-Access primary records (RCPT_CD, FILER_FILINGS_CD, CVR_CAMPAIGN_DISCLOSURE_CD tables in the daily bulk export at the URL above). Healthcare-industry classification of each donor entity verified against the donor's own public materials and IRS Form 990 filings where applicable. Every quote attributed to a named source. Every dollar figure traceable to a public filing.
+      </div>
+    </div>
+  </div>
+</article>
+
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All claims trace to a primary or named-publication source · draft 2026-05-02 · pending editor URL pass before public exposure</div>
+</footer>
+
+
+</div>
