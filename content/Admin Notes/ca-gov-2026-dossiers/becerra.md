@@ -411,3 +411,52 @@ Note: Adventist Health-related receipts (Raul Ayala $33,900 + Kerry Heinrich $10
 ### Gap to flag
 
 The most consequential gap from the report: the documented administrative record (AG: blocked St. Joseph/Adventist over religious directives, opened Providence/Hoag investigation; HHS: reversed Title X gag rule, proposed contraceptive-mandate revisions opposed by USCCB) is materially stronger than the 2026 campaign posture currently states. The campaign website has direct abortion-access language but no located position on Catholic-hospital merger review, medical aid in dying, or gender-affirming-care-for-minors policy. **A Catholic Church-shaped editorial beat exists in the record if/when it becomes priority.**
+
+---
+
+## Phase 5k · Steyer counter-attack readiness — what Becerra's red-box page leans on (2026-05-02)
+
+**Why this section exists.** Becerra's "Voters Need to Know" page (LA Times May 1, 2026 covered as a textbook red-boxing example) is built around Tom Steyer's pre-2012 Farallon record — coal financing in Indonesia, the 5.5% Corrections Corporation of America stake, tobacco, casinos, Trump Entertainment Resorts. That attack vector is going to surface in IE-funded ads in the final four weeks. The Class Traitor beat (`/class-traitor`) has now metabolized this record honestly; this dossier section captures the receipts so the next-up Becerra-focused work has parallel ammunition if the page itself becomes a beat (process-journalism on red-boxing, candidate C-003 in `emerging-beat-candidates.md`).
+
+Source for everything below: `Downloads/2026-05-02-steyer-financial-history-stress-test.pplx.md` (Perplexity verification round, May 2, 2026), citing primary-source SEC 13F filings and named-publication reporting from Reuters, NYT, Politico, Sacramento Bee, Forbes, Bloomberg, and the LA Times. Every claim below traces to one of those.
+
+### What the Becerra red-box page invites IEs to attack
+
+Steyer founded Farallon Capital Management in 1986. By his October 2012 announced exit, the firm had grown to roughly $20B AUM (Forbes/Reuters) or $36B at peak (LA Times 2019). Under his name during his tenure:
+
+| Asset class | Specifics | Source |
+|---|---|---|
+| Indonesian coal | Bumi Resources $500M Kaltim Prima purchase 2003; Berau Coal lending >$60M 2004+ (output 9M tons → 20M tons by 2012); Adaro Energy 11% stake 2005 ($110M loans + $5.5M direct) | Reuters 2014, NYT 2014 |
+| Australian coal | Maules Creek / Whitehaven Coal (2009 deal, hundreds of millions, projected 13M tons/yr) | NYT 2014 |
+| Indian coal-fired power | Indiabulls 2008+ (2,700 MW Amravati + 1,350 MW Nasik plants under construction) | NYT 2014 |
+| Chinese coal-fired power | Meiya Power (~7,000 MW across four plants) | NYT 2014 |
+| US public coal equities (Q4 2004 13F) | Peabody Energy $32.4M, Arch Coal $6.8M, Massey Energy $6.5M | Farallon 13F-HR Feb 14, 2005 |
+| Oil & gas infrastructure (2012 pre-exit) | Kinder Morgan $110.9M common + $13.8M warrants; Nexen oil-sands $220M | Farallon 13F-HR Nov 14, 2012; Reuters 2014 |
+| Private prisons | Corrections Corp of America: 53,100 shares Q1 2004 → 5.5% of CCA outstanding ($89.1M / 2.27M shares) Q2 2005; sold 2006 after student pressure | Politico 2016, Farallon 13F-HR Aug 15, 2005 |
+| Tobacco | UST Inc (smokeless-tobacco parent): 200,000 shares $4.575M in 2001 13F-HR/A; smaller positions 2007-2008. Plus stake in National Tobacco Company. Plus PT Djarum-led group taking control of PT Bank Central Asia | Sacramento Bee Oct 12, 2016; Farallon 13F filings |
+| Casinos | Caesars Entertainment $234.6M (Q4 2004), Harrah's Entertainment $399.2M (Q4 2007), Trump Entertainment Resorts $558,000 (Q1 2006), plus Mandalay Resort Group, Station Casinos, Anchor Gaming | Sacramento Bee Nov 3, 2016; Farallon 13F filings |
+
+### What Steyer's actual exit looked like (the honesty layer)
+
+This is what we need to be sharper on than the Becerra page is.
+
+- **Forbes Oct 23, 2012:** Steyer would "divest his share in Farallon to his partners."
+- **Bloomberg Oct 22, 2012:** Andrew Spokes becomes sole managing partner; partners buy Steyer's management-company share; **Steyer remains the second-largest investor in the hedge fund after departure.** This is the load-bearing nuance. Selling the management-company stake ≠ liquidating fund-investor exposure on the same day.
+- **NYT Jan 23, 2020:** Rated Steyer's debate claim "I withdrew my investments from fossil fuels" as "somewhat overstated." Cited residual fossil-fuel exposure on his then-current disclosures: Direct Petroleum Exploration, M.H. Carnegie funds linked to Strike Energy, MI Capital exposure to Summit Midstream Partners.
+- **Steyer's regret on CCA specifically (LA Times April 6, 2026, citing 2019 statement):** "I deeply regret that Farallon made that investment, and I personally ordered the investment in CCA to be sold because it did not accord with my values then or now." Politico 2016 has the contemporaneous Steyer statement: "We heard the concerns of student leaders — and in the end Farallon chose to sell the stock."
+- **Steyer's tobacco-investment line (Sacramento Bee Oct 12, 2016, via spokesman Gil Duran):** Steyer "opposed the tobacco investment, insisted on a full vote of Farallon partners, lost the vote." Total tobacco exposure was characterized as "a fraction of a fraction of one percentage point" of firm size.
+- **The post-2012 break is real:** $20M committed to Prop 39 (corporate tax loophole closure) before he formally left; $50M+ to Need to Impeach; $342M to his own 2020 presidential bid; $73M on progressive initiatives in same cycle; sustained NextGen Climate Action funding.
+
+### The CCA → CoreCivic 2026 continuation
+
+LA Times April 6, 2026 reports that Farallon's old CCA holding has become a 2026 issue specifically because **CoreCivic, CCA's renamed successor, now operates the Otay Mesa California facility that houses people picked up by ICE.** That is the live thread the Becerra page will pull most aggressively. Steyer's 2019 / 2026 regret quote covers the historical hold; it does not address the operational continuation through 2026.
+
+### Counter-frame the dossier supports for any future Becerra-focused beat
+
+If we ever build the red-box page itself as a beat (candidate C-003), the cleanest framing is *not* "Becerra is wrong about Steyer" — Becerra's facts are largely correct. The cleanest framing is **"Becerra is using a 2012-vintage attack as if 2026 Steyer were 2005 Steyer, while Becerra himself is the candidate currently financing his governorship through max contributions from the same regulated industries (Anthem founder, Prime Healthcare under HHS-OIG CIA, AltaMed under HHS funding, Chevron $39,200, Plumbers/Pipefitters $33K)."** The Class Traitor beat already does the Steyer-side metabolization; a Becerra-focused beat using the same record would do the symmetry case.
+
+### Open questions for David before any Becerra beat uses this material
+
+1. The Becerra "Voters Need to Know" page URL itself — capture during the next URL-pass session, log to `data/beat-verifications.jsonl` under any future beat slug.
+2. Does the Becerra campaign answer to the Steyer-side regret quotes? If yes, that response becomes its own receipt.
+3. The Politico 2016 CCA reporting names "Tom Steyer pursuing racial and economic justice issues invested heavily in for-profit prisons" as the article slug. Worth checking the full archive for the Mandalay/Station Casinos/Anchor Gaming Sacramento Bee details before any beat uses them as a one-line claim.
