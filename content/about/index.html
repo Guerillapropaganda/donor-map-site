@@ -507,9 +507,9 @@ html, body {
 <!-- ─── Nav ─── -->
 <nav class="nav">
   <div class="nav-inner">
-    <a href="/home" class="brand">THE DONOR MAP</a>
+    <a href="/" class="brand">THE DONOR MAP</a>
     <div class="nav-links">
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
       <a href="/three-becerras">Investigations</a>
       <a href="/about" class="active">About</a>
     </div>
@@ -520,7 +520,7 @@ html, body {
 <header class="article-header">
   <div class="article-header-inner">
     <div class="breadcrumb">
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
       <span class="sep">›</span>
       <span>About</span>
     </div>
@@ -670,10 +670,53 @@ html, body {
 <footer class="beat-footer">
   <div class="brand-footer">THE DONOR <em>Map.</em></div>
   <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
-  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="/" class="footer-cta">More Investigations</a>
   <a href="#" class="footer-cta">Share This</a>
   <div class="small">All claims trace to a primary or named-publication source · last updated 2026-05-02</div>
 </footer>
 
+<script data-share-handler="v1">
+(function () {
+  function init() {
+    var btn = Array.from(document.querySelectorAll(".footer-cta")).find(function (a) {
+      return a.textContent.trim() === "Share This";
+    });
+    if (!btn) return;
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      var url = window.location.href;
+      var title = document.title;
+      var metaDesc = document.querySelector('meta[name="description"]');
+      var desc = metaDesc ? metaDesc.content : "";
+      var shareData = { title: title, text: desc, url: url };
+      var fallback = function () {
+        var combined = title + "\n\n" + desc + "\n\n" + url;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(combined).then(function () {
+            var original = btn.textContent;
+            btn.textContent = "Link copied";
+            setTimeout(function () { btn.textContent = original; }, 2000);
+          }, function () { window.prompt("Copy this link:", url); });
+        } else {
+          window.prompt("Copy this link:", url);
+        }
+      };
+      if (navigator.share) {
+        navigator.share(shareData).catch(function (err) {
+          if (err && err.name === "AbortError") return;
+          fallback();
+        });
+      } else {
+        fallback();
+      }
+    });
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
 </body>
 </html>

@@ -491,9 +491,9 @@ html, body {
 <!-- ─── Nav ─── -->
 <nav class="nav">
   <div class="nav-inner">
-    <a href="/home" class="brand">THE DONOR MAP</a>
+    <a href="/" class="brand">THE DONOR MAP</a>
     <div class="nav-links">
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
       <a href="/three-becerras">Investigations</a>
       <a href="/about">About</a>
     </div>
@@ -662,5 +662,110 @@ html, body {
   <div class="small">All data verified against primary-source filings · thedonormap.org</div>
 </footer>
 
+<style data-tipline-modal="v1">
+.tipline-modal-overlay {
+  position: fixed; inset: 0; background: rgba(10,10,10,0.78);
+  display: none; align-items: center; justify-content: center;
+  z-index: 1000; padding: 24px;
+}
+.tipline-modal-overlay.open { display: flex; }
+.tipline-modal {
+  background: #f5f0eb; border: 3px solid #0a0a0a; max-width: 560px; width: 100%;
+  max-height: 90vh; overflow-y: auto; position: relative;
+  font-family: 'Inter', sans-serif; color: #1a1a1a;
+}
+.tipline-modal-stripes {
+  height: 8px; background: repeating-linear-gradient(90deg, #0a0a0a 0 12px, #fbbf24 12px 24px);
+}
+.tipline-modal-body { padding: 28px 32px 32px; }
+.tipline-modal-tag {
+  display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px;
+  font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+  background: #0a0a0a; color: #fbbf24; padding: 4px 10px; margin-bottom: 16px;
+}
+.tipline-modal h2 {
+  font-family: 'Inter', sans-serif; font-weight: 900; font-size: 30px;
+  letter-spacing: -1px; margin: 0 0 12px; line-height: 1.1;
+}
+.tipline-modal p { font-size: 15px; line-height: 1.55; margin: 0 0 18px; }
+.tipline-modal-row {
+  display: flex; gap: 14px; padding: 12px 0; border-top: 1px solid #d4cfc7;
+  font-size: 14px;
+}
+.tipline-modal-row:first-of-type { border-top: 2px solid #0a0a0a; }
+.tipline-modal-label {
+  font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700;
+  letter-spacing: 1.5px; text-transform: uppercase; color: #666; min-width: 96px;
+}
+.tipline-modal-value { flex: 1; }
+.tipline-modal-value a { color: #1d4ed8; text-decoration: underline; word-break: break-all; }
+.tipline-modal-fineprint {
+  margin-top: 16px; font-size: 12px; line-height: 1.55; color: #666;
+  font-style: italic;
+}
+.tipline-modal-close {
+  position: absolute; top: 16px; right: 16px; background: transparent;
+  border: 2px solid #0a0a0a; width: 32px; height: 32px; cursor: pointer;
+  font-family: 'Space Mono', monospace; font-weight: 700; font-size: 16px;
+  line-height: 1; color: #0a0a0a;
+}
+.tipline-modal-close:hover { background: #0a0a0a; color: #fbbf24; }
+</style>
+<div class="tipline-modal-overlay" id="tipline-modal" role="dialog" aria-modal="true" aria-labelledby="tipline-modal-title" hidden>
+  <div class="tipline-modal" role="document">
+    <button type="button" class="tipline-modal-close" aria-label="Close" data-tipline-close>&times;</button>
+    <div class="tipline-modal-stripes" aria-hidden="true"></div>
+    <div class="tipline-modal-body">
+      <span class="tipline-modal-tag">Tip line &middot; confidential</span>
+      <h2 id="tipline-modal-title">Send a tip</h2>
+      <p>Have a document, a filing, an FPPC committee that doesn't smell right, or a story I should look at next? Send it. Sources can remain anonymous.</p>
+      <div class="tipline-modal-row">
+        <span class="tipline-modal-label">Email</span>
+        <span class="tipline-modal-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20for%20The%20Donor%20Map">guerillapropaganda@proton.me</a></span>
+      </div>
+      <div class="tipline-modal-row">
+        <span class="tipline-modal-label">Reach me</span>
+        <span class="tipline-modal-value">
+          <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> &middot;
+          <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> &middot;
+          <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> &middot;
+          <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+        </span>
+      </div>
+      <div class="tipline-modal-row">
+        <span class="tipline-modal-label">What helps</span>
+        <span class="tipline-modal-value">Names. Dates. Filings. Committee IDs. A photograph of a document beats a paraphrase.</span>
+      </div>
+      <p class="tipline-modal-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+    </div>
+  </div>
+</div>
+<script data-tipline-modal-script="v1">
+(function () {
+  function init() {
+    var modal = document.getElementById("tipline-modal");
+    if (!modal) return;
+    var triggers = Array.from(document.querySelectorAll('a')).filter(function (a) {
+      var t = a.textContent.trim().toLowerCase();
+      return (t === "tip line" || t === "tipline") && (a.getAttribute("href") === "#" || a.getAttribute("href") === "#tipline");
+    });
+    if (!triggers.length) return;
+    function open(e) { if (e) e.preventDefault(); modal.hidden = false; modal.classList.add("open"); }
+    function close() { modal.classList.remove("open"); modal.hidden = true; }
+    triggers.forEach(function (a) { a.addEventListener("click", open); });
+    modal.addEventListener("click", function (e) {
+      if (e.target === modal || e.target.hasAttribute("data-tipline-close")) close();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && modal.classList.contains("open")) close();
+    });
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
 </body>
 </html>

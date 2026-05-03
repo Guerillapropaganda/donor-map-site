@@ -692,9 +692,9 @@ html, body {
 <!-- ─── Nav ─── -->
 <nav class="nav">
   <div class="nav-inner">
-    <a href="/home" class="brand">THE DONOR MAP</a>
+    <a href="/" class="brand">THE DONOR MAP</a>
     <div class="nav-links">
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
       <a href="/three-becerras" class="active">Investigations</a>
       <a href="/about">About</a>
     </div>
@@ -705,7 +705,7 @@ html, body {
 <header class="article-header">
   <div class="article-header-inner">
     <div class="breadcrumb">
-      <a href="/home">Home</a>
+      <a href="/">Home</a>
       <span class="sep">›</span>
       Investigations
       <span class="sep">›</span>
@@ -1371,7 +1371,7 @@ html, body {
           <text x="430" y="304" text-anchor="middle" font-size="10" font-family="Space Mono, monospace">Apr 21–26 · Becerra at 21%</text>
           <text x="430" y="317" text-anchor="middle" font-size="10" font-family="Space Mono, monospace" font-weight="700">commissioned by CPCA Advocates</text>
           <text x="566" y="278" font-family="Space Mono, monospace" font-size="10" font-weight="900" fill="#e63946">+8 DAYS</text>
-          <line x1="572" y1="269" x2="572" y2="258" stroke="#e63946" stroke-width="2" stroke-dasharray="3,2" marker-end="url(#cpca-arrow-red)"/>
+          <line x1="558" y1="278" x2="558" y2="258" stroke="#e63946" stroke-width="2" stroke-dasharray="3,2" marker-end="url(#cpca-arrow-red)"/>
 
           <!-- 5. IE PAC - Apr 30 - POST-EXIT (+17 days) -->
           <rect x="300" y="340" width="260" height="80" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
@@ -1380,7 +1380,7 @@ html, body {
           <text x="430" y="392" text-anchor="middle" font-size="9" font-family="Space Mono, monospace">Communities · Becerra 2026"</text>
           <text x="430" y="408" text-anchor="middle" font-size="9" font-family="Space Mono, monospace" font-weight="700">FPPC 1490885 · Bearstar media</text>
           <text x="566" y="354" font-family="Space Mono, monospace" font-size="10" font-weight="900" fill="#e63946">+17 DAYS</text>
-          <line x1="572" y1="345" x2="572" y2="258" stroke="#e63946" stroke-width="2" stroke-dasharray="3,2" marker-end="url(#cpca-arrow-red)"/>
+          <line x1="558" y1="354" x2="558" y2="258" stroke="#e63946" stroke-width="2" stroke-dasharray="3,2" marker-end="url(#cpca-arrow-red)"/>
 
           <!-- 6. Laborers $54,700 - undated -->
           <rect x="300" y="440" width="260" height="55" fill="#fff" stroke="#0a0a0a" stroke-width="2"/>
@@ -1714,10 +1714,53 @@ html, body {
 <footer class="beat-footer">
   <div class="brand-footer">THE DONOR <em>Map.</em></div>
   <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
-  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="/" class="footer-cta">More Investigations</a>
   <a href="#" class="footer-cta">Share This</a>
   <div class="small">All claims trace to a primary or named-publication source · draft 2026-05-02 · pending editor URL pass before public exposure</div>
 </footer>
 
+<script data-share-handler="v1">
+(function () {
+  function init() {
+    var btn = Array.from(document.querySelectorAll(".footer-cta")).find(function (a) {
+      return a.textContent.trim() === "Share This";
+    });
+    if (!btn) return;
+    btn.addEventListener("click", function (e) {
+      e.preventDefault();
+      var url = window.location.href;
+      var title = document.title;
+      var metaDesc = document.querySelector('meta[name="description"]');
+      var desc = metaDesc ? metaDesc.content : "";
+      var shareData = { title: title, text: desc, url: url };
+      var fallback = function () {
+        var combined = title + "\n\n" + desc + "\n\n" + url;
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(combined).then(function () {
+            var original = btn.textContent;
+            btn.textContent = "Link copied";
+            setTimeout(function () { btn.textContent = original; }, 2000);
+          }, function () { window.prompt("Copy this link:", url); });
+        } else {
+          window.prompt("Copy this link:", url);
+        }
+      };
+      if (navigator.share) {
+        navigator.share(shareData).catch(function (err) {
+          if (err && err.name === "AbortError") return;
+          fallback();
+        });
+      } else {
+        fallback();
+      }
+    });
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init);
+  } else {
+    init();
+  }
+})();
+</script>
 </body>
 </html>
