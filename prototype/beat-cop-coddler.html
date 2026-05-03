@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The top coddler of bad cops · The Donor Map</title>
+<meta name="description" content="As California Attorney General, Xavier Becerra refused to release SB 1421 records on his own DOJ officers and threatened journalists with criminal prosecution for legally obtaining a list of 12,000 convicted cops. Law-enforcement unions had given his 2018 campaign nearly $300,000.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* ─── Hero arrow animation (brutalist motion) ─── */
+@keyframes daisy-arrow-pulse {
+  0%   { stroke-dashoffset: 200; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.25; stroke-width: 2; }
+}
+@keyframes target-arrow-pulse {
+  0%   { stroke-dashoffset: 100; opacity: 0; }
+  60%  { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0.6; }
+}
+.daisy-arrow {
+  stroke-dasharray: 200;
+  animation: daisy-arrow-pulse 3.6s ease-in-out infinite;
+}
+.daisy-arrow-1 { animation-delay: 0s; }
+.daisy-arrow-2 { animation-delay: 0.25s; }
+.daisy-arrow-3 { animation-delay: 0.5s; }
+.daisy-arrow-4 { animation-delay: 0.75s; }
+.daisy-arrow-5 { animation-delay: 1s; }
+.target-arrow {
+  stroke-dasharray: 100;
+  animation: target-arrow-pulse 3.6s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .daisy-arrow, .target-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat { display: flex; align-items: stretch; margin: 56px 0 0; border: 3px solid var(--black); background: var(--paper); }
+.tip-box-beat-stripes { flex: 0 0 28px; background: repeating-linear-gradient(135deg, var(--yellow) 0, var(--yellow) 12px, var(--black) 12px, var(--black) 24px); }
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 14px; }
+.tip-box-beat-headline { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 8px; }
+.tip-box-beat-headline em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.tip-box-beat-desc { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.45; color: var(--muted); margin-bottom: 14px; }
+.tip-box-beat-row { display: grid; grid-template-columns: 110px 1fr; gap: 14px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); align-self: start; padding-top: 2px; }
+.tip-box-beat-value { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink); }
+.tip-box-beat-value a { color: var(--blue); text-decoration: none; border-bottom: 1px solid currentColor; }
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
+@media (max-width: 600px) { .tip-box-beat-stripes { flex-basis: 18px; } .tip-box-beat-body { padding: 18px 18px; } .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; } }
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>The Top Coddler of Bad Cops</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Draft May 2, 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>The state's <span class="h-red">top coddler of bad cops</span>.</h1>
+    <p class="deck">
+      The San Jose Mercury News editorial board's name for Xavier Becerra during his California Attorney General tenure. He refused to release SB 1421 misconduct records on his own DOJ officers. He threatened two Berkeley journalists with criminal prosecution for obtaining a list of 12,000 convicted cops through a lawful records request. Police unions had spent nearly $300,000 backing his 2018 campaign.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">SB 1421 enforcement timeline · January 2019 to February 2019 · attorney general office of Xavier Becerra</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Timeline of Becerras SB 1421 refusal, the FAC and KQED lawsuits, and the journalist criminal prosecution threat">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+      </defs>
+
+      <!-- Title bar -->
+      <text x="450" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">SIX WEEKS THAT DEFINED THE RECORD</text>
+
+      <!-- Timeline axis -->
+      <line x1="60" y1="240" x2="840" y2="240" stroke="#0a0a0a" stroke-width="3"/>
+
+      <!-- Node 1: Jan 1 2019 SB 1421 takes effect -->
+      <circle cx="120" cy="240" r="14" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="40" y="80" width="180" height="120" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="130" y="106" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">JAN 1, 2019</text>
+      <text x="130" y="128" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="1">SB 1421 TAKES EFFECT</text>
+      <text x="130" y="148" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">CA LE agencies must</text>
+      <text x="130" y="162" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">release misconduct records</text>
+      <text x="130" y="184" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#333">passed previous session</text>
+      <line x1="130" y1="200" x2="130" y2="226" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Node 2: Feb 5 Becerra refusal -->
+      <circle cx="320" cy="240" r="16" fill="#e63946" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="230" y="280" width="180" height="120" fill="#e63946" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="320" y="306" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#fff">FEB 5, 2019</text>
+      <text x="320" y="326" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">BECERRA REFUSES</text>
+      <text x="320" y="346" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">to release misconduct</text>
+      <text x="320" y="360" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">records of his own</text>
+      <text x="320" y="374" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">DOJ officers</text>
+      <text x="320" y="392" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#fff">"retroactivity concerns"</text>
+      <line x1="320" y1="226" x2="320" y2="280" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Node 3: Feb 14 First Amendment Coalition sues -->
+      <circle cx="500" cy="240" r="14" fill="#475569" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="410" y="80" width="180" height="120" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="500" y="106" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">FEB 14, 2019</text>
+      <text x="500" y="126" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#0a0a0a" letter-spacing="1">FAC SUES BECERRA</text>
+      <text x="500" y="148" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">First Amendment Coalition</text>
+      <text x="500" y="162" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">"worst example of any</text>
+      <text x="500" y="176" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">law enforcement agency"</text>
+      <text x="500" y="194" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#333">KQED joins March 5</text>
+      <line x1="500" y1="200" x2="500" y2="226" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Node 4: Feb 26 journalist threat -->
+      <circle cx="700" cy="240" r="18" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="3"/>
+      <rect x="610" y="280" width="200" height="120" fill="#0a0a0a"/>
+      <text x="710" y="306" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#fbbf24">FEB 26, 2019</text>
+      <text x="710" y="326" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fff" letter-spacing="1">CRIMINAL THREAT</text>
+      <text x="710" y="346" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">to two Berkeley journalists</text>
+      <text x="710" y="360" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">over a 12,000-name</text>
+      <text x="710" y="374" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#fff">convicted-officer list</text>
+      <text x="710" y="392" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#fbbf24">demanded list destroyed</text>
+      <line x1="710" y1="226" x2="710" y2="280" stroke="#0a0a0a" stroke-width="1"/>
+
+      <!-- Year labels on axis -->
+      <text x="130" y="262" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#0a0a0a">JAN 1</text>
+      <text x="320" y="266" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="900" fill="#e63946">FEB 5</text>
+      <text x="500" y="262" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#0a0a0a">FEB 14</text>
+      <text x="710" y="266" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="900" fill="#e63946">FEB 26</text>
+
+      <!-- Annotations -->
+      <text x="450" y="430" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="13" fill="#333">KQED Feb 5 + Feb 26 + March 5, 2019 · First Amendment Coalition Feb 14, 2019 · Freedom of the Press Foundation March 5, 2019 · CalMatters Feb 22, 2021</text>
+    </svg>
+    <p class="viz-caption">
+      The law took effect January 1. The state's chief law enforcement officer refused to comply with it for his own agents 35 days later. Press-rights groups sued. He threatened the journalists exposing the scope. The San Jose Mercury News editorial board called him the state's "top coddler of bad cops."
+    </p>
+  </div>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>SB 1421 took effect January 1, 2019.</strong> California's law enforcement agencies were now required to release records of serious officer misconduct and use-of-force incidents under the Public Records Act. The California Department of Justice itself was a covered agency. Its chief was Xavier Becerra.
+    </p>
+
+    <p>
+      Five weeks later, on February 5, 2019, Becerra refused to comply with public records requests for the misconduct files of his own DOJ law enforcement agents, citing retroactivity concerns. The First Amendment Coalition sued him on February 14, 2019. KQED joined the suit on March 5, 2019. The First Amendment Coalition characterized Becerra's office as setting <strong>"the worst example of any law enforcement agency in the state."</strong>
+    </p>
+
+    <p>
+      In the same window, two Berkeley investigative reporters obtained a list of nearly <strong>12,000 California law enforcement officers convicted of crimes</strong> through a lawful public records request. Becerra's office <strong>threatened them with criminal prosecution</strong> and demanded they destroy the document.
+    </p>
+
+    <p>
+      The San Jose Mercury News editorial board, summarizing the pattern in 2021, called Becerra <strong>"the state's top coddler of bad cops."</strong>
+    </p>
+
+    <p>
+      Law enforcement unions had spent nearly <strong>$300,000</strong> backing Becerra's 2018 attorney-general campaign. He continues to take police-union money in 2026, on his way to running for governor on a public-safety platform.
+    </p>
+
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
+      This beat sits alongside three other 2026 California Governor primary investigations on the same race. <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">Three Becerras</a> documents the candidate's healthcare-policy bait-and-switch. <a href="/chevron" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">Chevron</a> documents his $39,200 from Chevron USA Inc. and his "they're not the bad guy" defense quote. This page documents his First Amendment record as Attorney General.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#sb1421">SB 1421 and the Department of Justice exception</a></li>
+        <li><a href="#fac-suit">The First Amendment Coalition lawsuit</a></li>
+        <li><a href="#journalists">The criminal-prosecution threat to journalists</a></li>
+        <li><a href="#mercury-news">"The state's top coddler of bad cops"</a></li>
+        <li><a href="#money">Police union money: 2018 and 2026</a></li>
+        <li><a href="#asymmetry">The asymmetry: federal aggression, state restraint</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="sb1421">SB 1421 and the Department of Justice exception</h2>
+
+    <p>
+      SB 1421, the Right to Know Act, was signed into law in 2018 and took effect January 1, 2019. The statute amended the California Public Records Act to require disclosure of records concerning serious officer misconduct, including incidents of dishonesty, sexual assault by an officer, and officer-involved use of deadly force. The Legislature's intent was unambiguous: SB 1421 applied to all California law enforcement agencies, including the California Department of Justice.
+    </p>
+
+    <p>
+      KQED reported on February 5, 2019 that Becerra's office had refused to release SB 1421 records on its own DOJ agents in response to public records requests. The stated rationale was a retroactivity argument: that records of misconduct incidents predating the statute's effective date should not be subject to release. KQED's reporting documented the position as putting Becerra's office at odds with the Legislature's stated intent and out of step with the local agencies that had begun complying.
+    </p>
+
+    <p>
+      The legal posture mattered more than the technical retroactivity question. Becerra was the state's chief law enforcement officer. His office's public refusal to apply SB 1421 to its own DOJ officers signaled to local agencies that resistance was the official position of the Department of Justice itself.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="fac-suit">The First Amendment Coalition lawsuit</h2>
+
+    <p>
+      The First Amendment Coalition (FAC) is a Northern-California-based nonprofit that advocates for press and public access to government records. On February 14, 2019, the FAC filed suit against Becerra to force compliance with SB 1421's disclosure requirements for DOJ misconduct files. KQED joined the suit on March 5, 2019.
+    </p>
+
+    <p>
+      The First Amendment Coalition's public characterization of the Becerra office was, in plain language, that the Attorney General had set <strong>"the worst example of any law enforcement agency in the state"</strong> on SB 1421 compliance. That assessment came from the press-rights organization most directly engaged with California public-records litigation. It carried weight because the FAC's docket regularly includes municipal police departments, sheriffs' offices, and county DA offices that are individually resisting disclosure. The FAC's verdict was that the chief state-level law enforcement office was worse than any of them.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="journalists">The criminal-prosecution threat to journalists</h2>
+
+    <p>
+      In January and February 2019, two Berkeley-based investigative reporters obtained a list of nearly <strong>12,000 California law enforcement officers convicted of crimes</strong> through a lawful public records request. The list had been compiled internally by California state agencies and was responsive to a Public Records Act request the reporters had submitted.
+    </p>
+
+    <p>
+      KQED reported on February 26, 2019 that Becerra's office <strong>threatened the two journalists with criminal prosecution</strong> and demanded they destroy the document. The Freedom of the Press Foundation reported on March 5, 2019 that Becerra's office had refused to rule out legal action against the reporters in response to direct questions. The criminal-threat angle was unprecedented in modern California: a state attorney general's office threatening journalists with criminal prosecution for material the journalists had obtained through a lawful records request.
+    </p>
+
+    <div class="pull-quote">
+      The state's chief law enforcement officer threatened criminal prosecution against journalists who lawfully obtained a list of <strong>convicted</strong> California cops. <strong>The list was not classified. The list was not stolen. The list documented officers a court had already found guilty of crimes.</strong>
+    </div>
+
+    <p>
+      The First Amendment implications were straightforward: even if the underlying records had been improperly released to the journalists by a state agency clerical error (a contested question), the journalists had no legal exposure for receiving the document, and the AG's prosecution threat constituted a direct attempt to suppress lawfully-obtained newsworthy material. Press-rights organizations immediately characterized the threat as constitutionally unsupportable.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="mercury-news">"The state's top coddler of bad cops"</h2>
+
+    <p>
+      The phrase comes from a San Jose Mercury News editorial board assessment of Becerra's tenure, summarized in CalMatters' February 22, 2021 retrospective on his California attorney general record as he was being confirmed to head the federal Department of Health and Human Services in the Biden administration. The editorial language was notable because the Mercury News editorial board is not a left-of-center police-abolition outlet. It is a mainstream Bay Area institutional editorial voice. Its judgment that Becerra had been the state's top coddler of bad cops is the institutional press's summary verdict on the four-year arc.
+    </p>
+
+    <p>
+      CalMatters' February 22, 2021 retrospective placed the SB 1421 refusal and the journalist-prosecution threat in the broader context of Becerra's tenure: he had filed approximately 110 lawsuits against the Trump administration over four years (more than twice the number of suits Texas filed against Obama in eight years), with over half targeting environmental policy and an additional half-dozen defending the Affordable Care Act. The federal litigation posture won him national Democratic acclaim. The state-level enforcement record on California businesses, law enforcement agencies, and institutions where California had legal exposure drew civil-liberties criticism.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="money">Police union money: 2018 and 2026</h2>
+
+    <p>
+      Per CalMatters' February 22, 2021 reporting, law enforcement unions had spent <strong>approximately $300,000</strong> in independent expenditures and contributions supporting Becerra's 2018 California Attorney General campaign. The Mercury News editorial language about him being the state's top coddler of bad cops sat directly alongside the financial relationship: the candidate the police unions had backed had become the state's chief law enforcement officer, and his office had set the worst example of any California law enforcement agency on misconduct-records disclosure.
+    </p>
+
+    <p>
+      The 2026 governor campaign continues the pattern. Becerra's 2026 committee accepts contributions from law enforcement unions and from individual law enforcement officers. The full categorical totals are pending complete Cal-Access aggregation by union-PAC category; the structural fact is that the campaign has not refused this funding pool, and the candidate has not publicly addressed the SB 1421 / journalist-threat record from his AG tenure as part of his 2026 platform.
+    </p>
+
+    <p>
+      <em>The 2026 police-union contribution categorical totals are flagged for Perplexity verification pending. The structural pattern is documented in CalMatters' 2021 retrospective; the 2026-specific dollar aggregation requires the next dedicated verification round on Becerra's law-enforcement donor base.</em>
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="asymmetry">The asymmetry: federal aggression, state restraint</h2>
+
+    <p>
+      Becerra's institutional brand from his California attorney general tenure was federal litigation aggression: 110 lawsuits against the Trump administration, the most aggressive state-AG resistance to a federal administration in modern California history, with a litigation cost CalMatters estimated at $41 million in state resources.
+    </p>
+
+    <p>
+      The asymmetry is the subject of this beat. The same office that filed 110 federal lawsuits in four years against the Trump administration was the office that refused to comply with the Legislature's police-misconduct-records statute, sued by First Amendment Coalition and KQED, threatened journalists with criminal prosecution for receiving a lawfully-obtained convicted-officer list, and (per CalMatters citing the San Jose Mercury News editorial board) became "the state's top coddler of bad cops."
+    </p>
+
+    <p>
+      The asymmetry is not random. Federal litigation against a Republican administration produced national Democratic acclaim, Cabinet recruitment by the Biden administration, and a clear path to higher political office. State-level enforcement against California law enforcement agencies, by contrast, would have alienated the police-union donor base that had funded the 2018 AG run. The same calculus, applied consistently, produces both halves of the record. That is the structural reading.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="open-questions">Open questions</h2>
+
+    <p>
+      <strong>The full 2026 categorical total of law-enforcement-union money to Becerra's gubernatorial committee.</strong> CalMatters reported approximately $300,000 across the 2018 AG cycle. The 2026 cycle figure requires Cal-Access RCPT_CD aggregation across PORAC, individual deputy-sheriff associations, and city-police-officer associations. A dedicated Perplexity round on Becerra's law-enforcement donor base is recommended as a follow-up to this beat.
+    </p>
+
+    <p>
+      <strong>The current status of the SB 1421 enforcement against the DOJ's own records.</strong> Whether Bonta's AG office (which succeeded Becerra in 2021) has fully complied with SB 1421 disclosure for DOJ-internal misconduct files, or whether residual records remain undisclosed under the original retroactivity argument, is open.
+    </p>
+
+    <p>
+      <strong>The two Berkeley journalists' identities and any subsequent legal action.</strong> KQED's February 26, 2019 reporting referenced two Berkeley investigative reporters but did not name them in the published account. Their names, current employment, and whether they retained the 12,000-name list (or destroyed it under the AG's threat) are open questions worth following up.
+    </p>
+
+    <p>
+      <strong>Becerra's 2026-cycle public position on SB 1421 and police-misconduct disclosure.</strong> His campaign website and the public-record positions he has taken in 2026 forums on police accountability have not, in the named-publication record reviewed, included a retrospective on the SB 1421 enforcement decision he made as AG. Whether he stands by the retroactivity argument or has revised his view is open.
+    </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">A DOJ misconduct file I should <em>see?</em></h3>
+        <p class="tip-box-beat-desc">An undisclosed DOJ-internal SB 1421 record, a 2026 Becerra position statement on police accountability, a current police-union contribution disclosure, the original 12,000-name list. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Cop-Coddler%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">FPPC committee IDs. Cal-Access transaction numbers. Public Records Act request reference numbers. Court case numbers. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">KQED: AG refusal to release police misconduct files (Feb 5, 2019)</span>
+          <a href="https://www.kqed.org/news/11723281/california-attorney-general-refuses-to-release-police-misconduct-files-despite-new-law">kqed.org / 2019-02-05 / california-attorney-general-refuses-to-release-police-misconduct-files</a>
+        </li>
+        <li>
+          <span class="label">First Amendment Coalition: lawsuit filed against Becerra (Feb 14, 2019)</span>
+          <a href="https://firstamendmentcoalition.org/news/post/fac-sues-ca-attorney-general-to-force-disclosure-of-police-misconduct-files/">firstamendmentcoalition.org / fac-sues-ca-attorney-general</a>
+        </li>
+        <li>
+          <span class="label">KQED: secret list of 12,000 convicted cops (Feb 26, 2019)</span>
+          <a href="https://www.kqed.org/news/11728957/california-keeps-a-secret-list-of-criminal-cops-but-says-you-cant-have-it">kqed.org / 2019-02-26 / california-keeps-a-secret-list-of-criminal-cops</a>
+        </li>
+        <li>
+          <span class="label">KQED: KQED joins SB 1421 lawsuit (March 5, 2019)</span>
+          <a href="https://www.kqed.org/news/11730624/kqed-sues-attorney-general-fighting-for-access-to-police-misconduct-and-shooting-records">kqed.org / 2019-03-05 / kqed-sues-attorney-general</a>
+        </li>
+        <li>
+          <span class="label">Freedom of the Press Foundation: criminal-prosecution threat to journalists (March 5, 2019)</span>
+          <a href="https://freedom.press/issues/california-ag-refuses-rule-out-legal-action-against-public-records-journalists-new-statements/">freedom.press / california-ag-refuses-rule-out-legal-action-against-public-records-journalists</a>
+        </li>
+        <li>
+          <span class="label">CalMatters: Becerra California record retrospective (Feb 22, 2021)</span>
+          <a href="https://calmatters.org/politics/2021/02/xavier-becerra-california-record/">calmatters.org / 2021-02-22 / xavier-becerra-california-record</a>
+        </li>
+        <li>
+          <span class="label">Becerra for Governor 2026 committee</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480025">cal-access.sos.ca.gov / Detail / 1480025</a>
+        </li>
+        <li>
+          <span class="label">Cal-Access bulk export (raw RCPT_CD source)</span>
+          <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov / dbwebexport.zip</a>
+        </li>
+        <li>
+          <span class="label">SB 1421 statutory text (CA Legislative Information)</span>
+          <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB1421">leginfo.legislature.ca.gov / 201720180SB1421</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> The SB 1421 effective date (January 1, 2019) and statutory scope (records of officer dishonesty, sexual assault by an officer, and officer-involved use of deadly force) are sourced to the California Legislative Information posting of the enacted statute. The February 5, 2019 Becerra refusal of public records requests for DOJ misconduct files is sourced to KQED's February 5, 2019 reporting. The First Amendment Coalition lawsuit dated February 14, 2019 and KQED's joining of the suit on March 5, 2019 are sourced to FAC's own posted news release and KQED's March 5, 2019 reporting. The 12,000-name list of convicted officers and the criminal-prosecution threat to two Berkeley journalists are sourced to KQED's February 26, 2019 reporting and to Freedom of the Press Foundation's March 5, 2019 reporting. The "top coddler of bad cops" characterization from the San Jose Mercury News editorial board is referenced through CalMatters' February 22, 2021 retrospective on Becerra's California AG record, which is the named-publication source quoting the Mercury News editorial language. The approximately $300,000 in law-enforcement-union money supporting Becerra's 2018 AG campaign is sourced to the same CalMatters February 22, 2021 retrospective. The 110 lawsuits against the Trump administration figure and the $41 million state litigation cost estimate are sourced to the same CalMatters retrospective. The 2026 categorical total of law-enforcement-union contributions to Becerra's gubernatorial committee 1480025 is flagged as pending dedicated Perplexity verification before publication. All other claims trace to the named-publication sources cited inline above.
+      </div>
+    </div>
+  </div>
+</article>
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All data verified against primary-source filings · published 2026-05-01</div>
+</footer>
+
+</body>
+</html>

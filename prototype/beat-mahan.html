@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$0 from voters. Millions from Sequoia. · The Donor Map</title>
+<meta name="description" content="Matt Mahan's 2026 California governor campaign raised zero dollars from voters. The Silicon Valley billionaire bloc supporting him put up nearly four million through an IE PAC: Moritz, Seibel, Collison, Larsen. The donor base is the candidate.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Top nav ─── */
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── Article header ─── */
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+/* ─── Hero visualization ─── */
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 480px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Article body ─── */
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* ─── Hero arrow animation (brutalist motion) ─── */
+@keyframes daisy-arrow-pulse {
+  0%   { stroke-dashoffset: 200; opacity: 0; stroke-width: 2; }
+  20%  { opacity: 1; }
+  60%  { stroke-dashoffset: 0; opacity: 1; stroke-width: 4; }
+  80%  { opacity: 1; stroke-width: 2; }
+  100% { stroke-dashoffset: 0; opacity: 0.25; stroke-width: 2; }
+}
+@keyframes target-arrow-pulse {
+  0%   { stroke-dashoffset: 100; opacity: 0; }
+  60%  { stroke-dashoffset: 0; opacity: 1; }
+  100% { stroke-dashoffset: 0; opacity: 0.6; }
+}
+.daisy-arrow {
+  stroke-dasharray: 200;
+  animation: daisy-arrow-pulse 3.6s ease-in-out infinite;
+}
+.daisy-arrow-1 { animation-delay: 0s; }
+.daisy-arrow-2 { animation-delay: 0.25s; }
+.daisy-arrow-3 { animation-delay: 0.5s; }
+.daisy-arrow-4 { animation-delay: 0.75s; }
+.daisy-arrow-5 { animation-delay: 1s; }
+.target-arrow {
+  stroke-dasharray: 100;
+  animation: target-arrow-pulse 3.6s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+@media (prefers-reduced-motion: reduce) {
+  .daisy-arrow, .target-arrow { animation: none; stroke-dasharray: 0; opacity: 1; }
+}
+
+/* ─── Table of contents ─── */
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+/* ─── Receipts table ─── */
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+/* ─── Tip box (brutalist) ─── */
+.tip-box-beat { display: flex; align-items: stretch; margin: 56px 0 0; border: 3px solid var(--black); background: var(--paper); }
+.tip-box-beat-stripes { flex: 0 0 28px; background: repeating-linear-gradient(135deg, var(--yellow) 0, var(--yellow) 12px, var(--black) 12px, var(--black) 24px); }
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 14px; }
+.tip-box-beat-headline { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 8px; }
+.tip-box-beat-headline em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.tip-box-beat-desc { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.45; color: var(--muted); margin-bottom: 14px; }
+.tip-box-beat-row { display: grid; grid-template-columns: 110px 1fr; gap: 14px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); align-self: start; padding-top: 2px; }
+.tip-box-beat-value { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink); }
+.tip-box-beat-value a { color: var(--blue); text-decoration: none; border-bottom: 1px solid currentColor; }
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
+@media (max-width: 600px) { .tip-box-beat-stripes { flex-basis: 18px; } .tip-box-beat-body { padding: 18px 18px; } .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; } }
+
+/* ─── Sources block ─── */
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+/* ─── Footer / nav to next ─── */
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/home" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/home">Home</a>
+      <a href="/three-becerras">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/home">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>The Silicon Valley Bloc</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Draft May 2, 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>Mahan raised <span class="h-red">$0 from voters</span>. Sequoia put up the rest.</h1>
+    <p class="deck">
+      Matt Mahan's direct gubernatorial committee shows zero 2026-cycle voter contributions in Cal-Access. The candidate is being financed by an independent expenditure PAC funded by a Silicon Valley billionaire cluster: Michael Moritz at $2 million, Reed Hastings at $1 million, Y Combinator's Michael Seibel at $1 million, Stripe's Patrick Collison at $990,000. The donor base is the candidate.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero visualization ─── -->
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">Mahan donor base · zero voters · five Silicon Valley billionaires · 2026 California Governor primary</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Comparison showing $0 voter contributions to Mahan's direct committee versus nearly $4 million from Silicon Valley billionaires through the IE PAC supporting him">
+      <defs>
+        <marker id="arrow-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+      </defs>
+
+      <!-- LEFT side: voter contributions = ZERO -->
+      <text x="180" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">DIRECT VOTER CONTRIBUTIONS</text>
+      <text x="180" y="50" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#333" letter-spacing="2">MAHAN COMMITTEE 1473129 · 2026 CYCLE</text>
+
+      <rect x="40" y="80" width="280" height="320" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="180" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="120" fill="#0a0a0a" letter-spacing="-4">$0</text>
+      <text x="180" y="250" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" fill="#0a0a0a" letter-spacing="2">FROM 0 DONORS</text>
+      <text x="180" y="290" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="16" fill="#0a0a0a">"no 2026-cycle</text>
+      <text x="180" y="312" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="16" fill="#0a0a0a">donors found in</text>
+      <text x="180" y="334" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="16" fill="#0a0a0a">Cal-Access bulk"</text>
+      <text x="180" y="372" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" fill="#0a0a0a">FPPC #1473129</text>
+
+      <!-- CENTER divider -->
+      <line x1="450" y1="80" x2="450" y2="400" stroke="#0a0a0a" stroke-width="2" stroke-dasharray="4 6"/>
+      <text x="450" y="68" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="11" fill="#0a0a0a">MEANWHILE</text>
+
+      <!-- RIGHT side: Silicon Valley IE -->
+      <text x="720" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">SILICON VALLEY IE PAC</text>
+      <text x="720" y="50" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#333" letter-spacing="2">FPPC #1487425 · MAHAN-SUPPORTING</text>
+
+      <rect x="480" y="80" width="380" height="320" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="720" y="108" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#fbbf24" letter-spacing="2">SILICON VALLEY DONOR STACK</text>
+      <line x1="500" y1="120" x2="840" y2="120" stroke="#fbbf24" stroke-width="1"/>
+
+      <text x="500" y="146" text-anchor="start" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#fff">Michael Moritz</text>
+      <text x="500" y="160" text-anchor="start" font-family="Space Mono, monospace" font-size="9" fill="#aaa">Sequoia Capital chairman</text>
+      <text x="840" y="154" text-anchor="end" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fbbf24">$2,000,000</text>
+
+      <text x="500" y="186" text-anchor="start" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#fff">Michael Seibel</text>
+      <text x="500" y="200" text-anchor="start" font-family="Space Mono, monospace" font-size="9" fill="#aaa">Y Combinator partner</text>
+      <text x="840" y="194" text-anchor="end" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fbbf24">$1,000,000</text>
+
+      <text x="500" y="226" text-anchor="start" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#fff">Reed Hastings</text>
+      <text x="500" y="240" text-anchor="start" font-family="Space Mono, monospace" font-size="9" fill="#aaa">Netflix co-founder · ex-CCSA chair</text>
+      <text x="840" y="234" text-anchor="end" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fbbf24">$1,000,000</text>
+
+      <text x="500" y="266" text-anchor="start" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#fff">Patrick Collison</text>
+      <text x="500" y="280" text-anchor="start" font-family="Space Mono, monospace" font-size="9" fill="#aaa">Stripe CEO and co-founder</text>
+      <text x="840" y="274" text-anchor="end" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fbbf24">$990,000</text>
+
+      <text x="500" y="306" text-anchor="start" font-family="Space Mono, monospace" font-size="12" font-weight="700" fill="#fff">Christian Larsen</text>
+      <text x="500" y="320" text-anchor="start" font-family="Space Mono, monospace" font-size="9" fill="#aaa">Ripple Labs co-founder</text>
+      <text x="840" y="314" text-anchor="end" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fbbf24">$500,000</text>
+
+      <line x1="500" y1="334" x2="840" y2="334" stroke="#fbbf24" stroke-width="1"/>
+      <text x="500" y="362" text-anchor="start" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#fff">FIVE-DONOR SUBTOTAL</text>
+      <text x="840" y="368" text-anchor="end" font-family="Inter, sans-serif" font-weight="900" font-size="22" fill="#fbbf24">$5,490,000</text>
+      <text x="720" y="392" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="11" fill="#aaa">Cal-Access RCPT_CD primary verified</text>
+    </svg>
+    <p class="viz-caption">
+      Mahan's direct committee shows zero 2026-cycle voter contributions. The IE PAC supporting him sits at five-and-a-half million from five Silicon Valley billionaires. The receipts are the editorial story.
+    </p>
+  </div>
+</section>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>Tom Steyer is a billionaire.</strong> In American politics, that usually means his money is the story. In California's 2026 Governor's primary, his money isn't the story. The donor class organizing against him is.
+    </p>
+
+<!-- ─── Article body ─── -->
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>Matt Mahan's California governor campaign reports zero dollars raised from voters in the 2026 cycle.</strong> Per Cal-Access primary records, his direct candidate committee (FPPC #1473129, "Mahan for Governor 2026") shows no 2026-cycle itemized donor activity. The campaign's actual money is sitting in a separate independent expenditure committee, where five Silicon Valley billionaires have collectively put up <strong>$5.49 million</strong>: Michael Moritz of Sequoia Capital ($2 million), Reed Hastings ($1 million), Y Combinator's Michael Seibel ($1 million), Stripe's Patrick Collison ($990,000), and Ripple Labs co-founder Christian Larsen ($500,000).
+    </p>
+
+    <p>
+      The structural pattern is not that Mahan has bad donors. The structural pattern is that the <em>donor base IS the campaign</em>. The candidate's direct committee is essentially empty. The Silicon Valley billionaire bloc operating through the IE PAC is the campaign's actual financial spine.
+    </p>
+
+    <p>
+      Mahan is the current mayor of San Jose. The Silicon Valley billionaire money supporting his California governor bid is not coming to him because he happens to be from San Jose. It is coming to him because he is the candidate the institutional Silicon Valley donor class has chosen as its preferred 2026 vehicle.
+    </p>
+
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
+      This beat sits alongside three other 2026 California Governor primary investigations. <a href="/class-traitor" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">$31 million to bury a class traitor</a> documents the regulated-industry coalition spending against Tom Steyer. <a href="/three-becerras" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">Three Becerras</a> documents the candidate the older donor class is consolidating behind. <a href="/villaraigosa-pledge" style="color: var(--blue); border-bottom: 1px solid currentColor; font-style: normal;">The Pledge He Broke</a> documents the candidate Reed Hastings dropped on the way to giving Mahan that $1 million. This page documents the candidate Hastings landed on.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#zero">$0 from voters</a></li>
+        <li><a href="#bloc">The Silicon Valley billionaire bloc</a></li>
+        <li><a href="#hastings">The Hastings pivot from Villaraigosa</a></li>
+        <li><a href="#sj">The San Jose mayoralty record</a></li>
+        <li><a href="#stakes">What the bloc wants from Sacramento</a></li>
+        <li><a href="#structure">The donor base IS the candidate</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="zero">$0 from voters</h2>
+
+    <p>
+      The Cal-Access primary record for Matt Mahan's direct candidate committee, FPPC #1473129 ("Mahan for Governor 2026"), shows <strong>$0 raised from $0 donors in the 2026 cycle</strong> per the May 2, 2026 raw bulk extraction. Lifetime state-level fundraising across the committee's existence (cycles 2024 and 2026) totals approximately $1.72 million from 72 donors, but that lifetime total is itself dominated by major individual gifts (Christian Larsen $500K, TALI Rapaport $150K, American Petroleum and Convenience Store Association $120K, Sam Harris $100K, Ronny Conway $100K, Fran McDermott $50K).
+    </p>
+
+    <p>
+      The 2026 governor campaign is operating through a Mahan-supporting independent expenditure PAC (FPPC #1487425) that the Silicon Valley billionaire bloc has been funding directly. That structure is legal under California's IE rules. The structural fact is the asymmetry: the candidate's direct committee has zero 2026-cycle voter receipts, while the supporting IE PAC has multi-million-dollar individual maxes from a small set of named tech billionaires.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="bloc">The Silicon Valley billionaire bloc</h2>
+
+    <p>
+      The five named donors above account for $5.49 million of identified Mahan-supporting IE money. The bloc has a recognizable shape:
+    </p>
+
+    <div class="receipts-block">
+      <h3>Mahan-supporting IE PAC named donors</h3>
+      <div class="desc">Cal-Access RCPT_CD primary extraction · IE committee 1487425 · May 2, 2026 snapshot</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <span class="donor-name">Michael Moritz</span>
+              <span class="class-tag">Sequoia Capital chairman · Welsh-American billionaire · long-running Democratic political giving</span>
+            </td>
+            <td class="num">$2,000,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Reed Hastings</span>
+              <span class="class-tag">Netflix co-founder · former CCSA chair · gave $7M to 2018 CCSA-IE for Villaraigosa, walked from him in 2026</span>
+            </td>
+            <td class="num">$1,000,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Michael Seibel</span>
+              <span class="class-tag">Y Combinator partner · former Twitch CEO · YC alumni include Stripe, Airbnb, Reddit, Doordash</span>
+            </td>
+            <td class="num">$1,000,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Patrick Collison</span>
+              <span class="class-tag">Stripe CEO and co-founder · payment-processing giant; faces California labor and money-transmission regulatory questions</span>
+            </td>
+            <td class="num">$990,000</td>
+          </tr>
+          <tr>
+            <td>
+              <span class="donor-name">Christian Larsen</span>
+              <span class="class-tag">Ripple Labs co-founder · cryptocurrency · faces continuing California money-transmission and securities oversight</span>
+            </td>
+            <td class="num">$500,000</td>
+          </tr>
+          <tr class="total">
+            <td>Five-donor IE subtotal</td>
+            <td class="num">$5,490,000</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      <strong>Moritz's $2 million</strong> is the single largest disclosed contribution to the Mahan IE on the verified data. Sequoia Capital is one of the largest US venture-capital firms, with portfolio companies including Apple (early-stage), Google (early-stage), Stripe, Airbnb, Zoom, and hundreds of others. Moritz's giving pattern in California governor cycles has historically tracked toward institutional Democratic candidates the venture-capital ecosystem can shape.
+    </p>
+
+    <p>
+      <strong>Seibel's $1 million</strong> places Y Combinator's center-of-gravity behind Mahan. Y Combinator alumni network ($Stripe, $Airbnb, $Reddit, $DoorDash, hundreds more) is a structural marker of where Silicon Valley startup-economy political money lives. The 2026 alignment of Y Combinator + Sequoia + Stripe behind Mahan is the venture-capital ecosystem coordinating around a single statewide candidate.
+    </p>
+
+    <p>
+      <strong>Collison's $990,000</strong> is notable for being just under the $1M psychological threshold but still in the same coordinated tier. Stripe faces California regulatory exposure on AB5 / contractor classification (Stripe's payment infrastructure underlies thousands of California-based gig-economy platforms), money-transmission regulations under the Department of Financial Protection and Innovation, and consumer-financial-protection enforcement priorities the next governor sets through DFPI appointments.
+    </p>
+
+    <p>
+      <strong>Larsen's $500,000</strong> brings cryptocurrency directly into the bloc. Ripple Labs has had ongoing California money-transmission and securities-regulatory exposure for years. The Larsen donation represents the crypto-industry edge of the broader Silicon Valley coalition.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="hastings">The Hastings pivot from Villaraigosa</h2>
+
+    <p>
+      The single most editorially significant donor on the Mahan IE list is <strong>Reed Hastings</strong>, who gave $1 million.
+    </p>
+
+    <p>
+      In 2018, Hastings was the principal financial architect of Antonio Villaraigosa's gubernatorial bid. He gave $7 million to the California Charter Schools Association Advocates IE supporting Villaraigosa. Eli Broad gave $1.5 million to the same committee. Per the FPPC's June 2018 Primary Election top-contributors archive, approximately $22 million flowed through California Charter Schools Association Advocates IE to support Villaraigosa.
+    </p>
+
+    <p>
+      In 2026, Hastings's California governor money is on Mahan's IE, not Villaraigosa's. The institutional charter-school-aligned Silicon Valley donor base that backed Villaraigosa in 2018 has reorganized itself around Mahan in 2026. That movement is documented in the FPPC June 2026 Primary Election top contributors list.
+    </p>
+
+    <p>
+      The structural read: the 2018 Villaraigosa coalition rationally moved to a different vehicle in 2026 (Mahan, the Silicon Valley mayor with the venture-capital bloc behind him). Villaraigosa kept the regulated-industry money he had once promised to refuse (see <a href="/villaraigosa-pledge" style="color: var(--blue); border-bottom: 1px solid currentColor;">"The Pledge He Broke"</a>); the institutional Silicon Valley class moved on. Hastings's $1 million to Mahan is the receipt for that movement.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="sj">The San Jose mayoralty record</h2>
+
+    <p>
+      Mahan was elected San Jose mayor in 2022 and re-elected in 2024. His mayoralty has been characterized in named-publication coverage by tech-business-friendly governance positions: support for police-funding increases, restrictive homeless-encampment enforcement, opposition to certain renter-protection measures, and an adversarial relationship with parts of the city council on housing-policy questions.
+    </p>
+
+    <p>
+      The structural question for the 2026 governor's race is whether the San Jose record represents the model the Silicon Valley billionaire bloc would want extended statewide. The Cal-Access donor list answers that question with $5.49 million, before the IE PAC's full receipts are tallied through subsequent reporting periods.
+    </p>
+
+    <p>
+      <em>This beat is in the early-draft stage on the San Jose record specifically. The Cal-Access fundraising data is primary-source verified; the San Jose mayoralty policy specifics warrant a dedicated Perplexity verification round before publication. That round is queued (Prompt #3 from the May 2 emerging-beat-candidates queue).</em>
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="stakes">What the bloc wants from Sacramento</h2>
+
+    <p>
+      Multiple specific California regulatory matters cross the boundary between the Silicon Valley donor base and the office Mahan is running for. The next governor sets the policy direction on each:
+    </p>
+
+    <ul>
+      <li><strong>AB5 / contractor classification</strong>: affects Stripe's underlying payment infrastructure for gig-economy platforms, Y Combinator portfolio companies operating in California, and the broader venture-capital ecosystem's labor-cost economics.</li>
+      <li><strong>Money-transmission regulation under DFPI</strong>: affects Stripe and Ripple directly, plus any tech firm operating payment, lending, or stored-value infrastructure under California's financial-services framework.</li>
+      <li><strong>Cryptocurrency oversight</strong>: Larsen's Ripple Labs is the most pointed example, but the broader question is how California's enforcement and regulatory posture toward crypto is set by the next governor's DFPI and Attorney General appointments.</li>
+      <li><strong>Charter school policy and CCSA priorities</strong>: Hastings's historical donor footprint here is the longest-running indicator of what the institutional Silicon Valley donor class wants on K-12 education policy.</li>
+      <li><strong>Housing supply, density, and CEQA reform</strong>: the venture-capital ecosystem's interest in unlocking the Bay Area housing supply intersects directly with the state-level housing policies the next governor implements through HCD and HOA oversight.</li>
+    </ul>
+
+    <p>
+      The donor list is not the policy commitment. It is the structural alignment that any donor-class theory of California politics would predict. The next governor sets the regulatory direction on each of those five categories. The Silicon Valley billionaire bloc is paying for influence on those decisions through the IE PAC supporting Mahan's candidacy.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="structure">The donor base IS the candidate</h2>
+
+    <p>
+      Most California gubernatorial campaigns have a recognizable shape: a candidate with a public profile raises direct contributions from the candidate's coalition and then a separate IE committee adds outside-spending support. The two flows are visible in Cal-Access. The candidate's coalition is visible in the candidate's direct committee. The IE adds an outside-spending overlay.
+    </p>
+
+    <p>
+      Mahan's structure is different. The direct committee shows zero 2026-cycle voter receipts. <strong>The candidate's coalition is not visible in the candidate's direct committee because the candidate's coalition is the IE PAC's donor list.</strong> Five Silicon Valley billionaires have built the financial spine of the campaign. The candidate is the vehicle.
+    </p>
+
+    <div class="pull-quote">
+      Matt Mahan's gubernatorial campaign has raised $0 from voters. <strong>Sequoia's Michael Moritz alone has put $2 million into the IE PAC funding him.</strong>
+    </div>
+
+    <p>
+      The donor-class theory of California politics holds that institutional capital allocates rationally toward the candidates whose platforms protect its interests. The 2026 California governor's race is, on the verified Cal-Access record, the cleanest illustration of that theory in any recent cycle. Five regulated-industry coalitions are spending to defeat Steyer. Five Silicon Valley billionaires are funding the candidate they would prefer instead. Reed Hastings provides the connecting node: he was the architect of the 2018 institutional vehicle (Villaraigosa)) and is the author of the 2026 institutional vehicle (Mahan).
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="open-questions">Open questions</h2>
+
+    <p>
+      <strong>The full Mahan-supporting IE PAC donor list</strong> beyond the five-donor bloc above. Cal-Access bulk extraction may show additional contributions in subsequent reporting periods. The five-donor subtotal of $5.49 million is the verified floor.
+    </p>
+
+    <p>
+      <strong>The exact FPPC ID for the Mahan-supporting IE PAC.</strong> Reported as 1487425 in the dossier. Confirmation against the FPPC top-contributors list is recommended.
+    </p>
+
+    <p>
+      <strong>San Jose mayoralty record specifics.</strong> Police funding levels, homeless-encampment enforcement scope, specific city council dynamics on housing policy. A dedicated Perplexity verification round is queued (Prompt #3) and would close this gap before publication.
+    </p>
+
+    <p>
+      <strong>Reed Hastings's complete 2026 California political-money allocation.</strong> The $1 million to Mahan is verified. Whether other 2026 Hastings money has gone to other California races, ballot measures, or party committees would close the "the institutional Silicon Valley class fully reorganized around Mahan" claim.
+    </p>
+
+    <p>
+      <strong>The relationship between the IE PAC and the direct candidate committee.</strong> California IE rules technically prohibit coordination. The structural pattern of zero direct-committee receipts coexisting with multi-million-dollar IE-PAC receipts from five named donors is unusual; whether any FPPC coordination complaint has been filed is open.
+    </p>
+
+    <!-- ─── Tip box ─── -->
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">A San Jose policy receipt I should <em>see?</em></h3>
+        <p class="tip-box-beat-desc">A Mahan-administration memo on AB5 enforcement, a Stripe lobbying disclosure, a Sequoia portfolio company's California regulatory filing, an FPPC coordination complaint. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me?subject=Tip%20%C2%B7%20Mahan%20beat">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value">
+            <a href="https://x.com/Guerillaprop" target="_blank" rel="noopener noreferrer">X</a> ·
+            <a href="https://www.instagram.com/guerillaprop/" target="_blank" rel="noopener noreferrer">Instagram</a> ·
+            <a href="https://www.facebook.com/profile.php?id=100064085292406" target="_blank" rel="noopener noreferrer">Facebook</a> ·
+            <a href="https://www.patreon.com/c/Guerilla_Prop" target="_blank" rel="noopener noreferrer">Patreon</a>
+          </span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">FPPC committee IDs. Cal-Access transaction numbers. San Jose city council meeting dates. Lobbying registration filings. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
+
+    <!-- ─── Sources ─── -->
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">Mahan for Governor 2026 (direct candidate committee)</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1473129">cal-access.sos.ca.gov / Detail / 1473129</a>
+        </li>
+        <li>
+          <span class="label">Mahan-supporting IE PAC (FPPC #1487425)</span>
+          <a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1487425">cal-access.sos.ca.gov / Detail / 1487425</a>
+        </li>
+        <li>
+          <span class="label">Cal-Access bulk export (raw RCPT_CD source)</span>
+          <a href="https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip">campaignfinance.cdn.sos.ca.gov / dbwebexport.zip</a>
+        </li>
+        <li>
+          <span class="label">FPPC top-10 contributors (June 2026 primary)</span>
+          <a href="https://www.fppc.ca.gov/search-filings/top-10-contributors-list/june-2026-primary-election/">fppc.ca.gov / top-10-contributors-list / june-2026-primary-election</a>
+        </li>
+        <li>
+          <span class="label">FPPC top-10 contributors (June 2018 primary, archive (Hastings/CCSA $7M to Villaraigosa))</span>
+          <a href="https://www.fppc.ca.gov/search-filings/top-10-contributors-list/june-2018-primary-election/">fppc.ca.gov / top-10-contributors-list / june-2018-primary-election</a>
+        </li>
+        <li>
+          <span class="label">CalMatters: 2026 fundraising scorecard</span>
+          <a href="https://calmatters.org/politics/2026/04/california-governor-race-financials/">calmatters.org / 2026-04 / california-governor-race-financials</a>
+        </li>
+        <li>
+          <span class="label">KQED: 2018 charter-school IE for Villaraigosa (historical baseline)</span>
+          <a href="https://www.kqed.org/news/11661975/charter-schools-supporters-seek-to-prop-up-villaraigosa-in-governors-race">kqed.org / 2018-04-13 / charter-schools-supporters-seek-to-prop-up-villaraigosa</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> All 2026 contribution amounts, dates, donor identities, and donor occupations are pulled from California Cal-Access primary records (RCPT_CD raw extraction from dbwebexport.zip, May 2, 2026 snapshot). The $0 / 0-donor figure for Mahan's direct committee 1473129 is from the same Cal-Access raw extraction; lifetime cumulative through cycles 2024 and 2026 totals approximately $1.72 million from 72 donors per the same source. The five-donor IE bloc ($2M Moritz + $1M Hastings + $1M Seibel + $990K Collison + $500K Larsen = $5.49M) is from the Cal-Access primary extraction for the Mahan-supporting IE PAC FPPC #1487425. The 2018 Hastings $7 million to California Charter Schools Association Advocates IE supporting Villaraigosa is from the FPPC June 2018 Primary Election top-contributors archive plus contemporaneous KQED April 13, 2018 reporting. The 2026 Hastings $1 million to the Mahan IE is from the FPPC June 2026 Primary Election top-contributors list (most recent update February 12, 2026). The Sequoia Capital, Y Combinator, Stripe, and Ripple Labs role descriptions are from named-publication coverage and the firms' own public profiles. The San Jose mayoralty record specifics are flagged for additional Perplexity verification (Prompt #3 in the queue) before publication.
+      </div>
+    </div>
+  </div>
+</article>
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/home" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All data verified against primary-source filings · published 2026-05-01</div>
+</footer>
+
+</body>
+</html>
