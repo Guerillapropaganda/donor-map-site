@@ -1,7 +1,120 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-05-01
+last-updated: 2026-05-03
+---
+
+## HANDOFF — 2026-05-03 (cc_p3_246 → cc_p3_270, full Path B port + 5 new beats + WYSIWYG editor + Perplexity batch fold-in)
+
+**Context:** Code Claude. Worktree `claude/epic-khayyam-f90433`, Opus 4.7 (1M context). Session bridged 5/2 evening into 5/3 morning. ~20 commits to v4. Started from cc_p3_245 handoff (Anchor-3 polish pass). Closed out the May 6 anchor-3 launch path: homepage swap, three-becerras live, about live, plus the editor surface David asked for.
+
+### THIS SESSION'S DELIVERABLES (all shipped to v4 branch)
+
+**Main-repo merge recovery (cc_p3_246, commit `4849a0622`).**
+- Preflight surfaced 4 unmerged paths from a previously-aborted merge (.attention-queue-store.json + Attention Queue.md + pipeline-janitor-report.md + data/stories.jsonl) plus 18 staged-but-uncommitted session files in the main repo.
+- Cleared the unmerged-paths state by taking origin's version (verified no unique stories on the local side).
+- Reverted 1,533 regenerable producer outputs (content/ profile read-caches), 5 admin notes, bugs-manifest, no-net-change canonical drift.
+- Preserved 4 files with genuinely-new local data: data/beat-verifications.jsonl (+43 records), data/relationships.jsonl (+1,558 producer-discovered edges), data/class-tag-path-b-decisions.jsonl (+5), data/mechanical-readiness-decisions.jsonl (+1).
+
+**Class Traitor beat fold-in (cc_p3_247-251, commit `d7b39cc11`).**
+Three Perplexity returns (Steyer financial-history stress test, CAR anti-Steyer tax mechanism, Gudelunas/1489677 spending update) folded into prototype/beat-class-traitor.html ahead of May 6 launch:
+- Option C reframe: deck signals apostate framing ("the only billionaire in the race who turned against them"). New `#record` section metabolizes the Farallon coal/CCA/casinos/tobacco record honestly with Bloomberg's "second-largest investor after exit" + NYT's "somewhat overstated" 2020 fact-check.
+- New CAR mechanism paragraph: split-roll commercial-Prop-13 framing, not anti-housing.
+- Spend numbers refreshed $13.9M → $20.04M (3 Form 496 late filings + JOBSPAC $5M + CRAE $2M).
+- Gudelunas attribution softened (Sacramento Bee + Politico explicit; Cal-Access trail unverified).
+- Class-war section reframed (apostate honesty woven in).
+- 13 new sources + 13 new editor-lane verification entries appended.
+- Becerra dossier Phase 5k: full Steyer counter-attack readiness with Farallon record table + CCA-to-CoreCivic continuation.
+- New `content/Admin Notes/emerging-beat-candidates.md` logged 3 candidates (Farallon apostate / CAR cross-candidate / Becerra red-box page).
+
+**Two charts on Class Traitor (cc_p3_252, commit `a6ce766f1`, then refined in `1f0628868` + `2018cd4d7`).**
+- **Chart A — symmetry chart:** side-by-side stacked bars in #record. "Same wealth machine · two roles · fourteen years apart." Farallon documented exposure (red shades, left) vs anti-Steyer coalition (yellow shades, right). Tobacco + CBIA + CCPOA labels in callouts.
+- **Chart B — spend dam-break timeline:** step chart in #buying. April 2 → April 28 cumulative spend. The April 24 +$5.13M one-day jump highlighted as a yellow callout.
+- ChatGPT critique pass applied: donor-class defined inline, "point" → "function", "operation" → "machine", polling-section trim. 0 em-dashes, 0 AI vernacular.
+- Chart label overflows fixed: CCA · CoreCivic + Whitehaven · Peabody.
+
+**Ops `/beats` and `/charts` pages (cc_p3_253, commit `3e26ad3b9`).**
+- New `ops/src/app/beats/page.tsx` (catalog status board) and `ops/src/app/charts/page.tsx` (chart library).
+- New `ops/src/lib/charts-catalog.ts` with 8 chart records.
+- `ops/src/lib/beats-catalog.ts` extended: new "upcoming" status, Class Traitor record added with 13 verifications + 4 Perplexity rounds + 3 audit passes, four upcoming beats added (Mahan, Cop-Coddler, Bearstar Octopus, Race Map).
+- Sidebar updated to point at `/beats` and `/charts` (was `/under-construction`).
+- `/active-beat` ternary extended for "upcoming" status (purple #7c3aed).
+
+**8 Perplexity returns applied (cc_p3_254, commit `33df9c1dd`).**
+Steyer financial-history + CAR + Gudelunas + Bearstar/Polaris + Bianco + Villaraigosa + Ware status + Prop 14 + BOCC sponsor + Hilton + Porter. Source-hardening pass also processed.
+- Class Traitor beat: Polaris $13.78M VERIFIED via 5 Cal-Access EXPN_CD payments (Mar 31 / Apr 3 / Apr 6 / Apr 13 / Apr 17). Bearstar conflict sharpened (Swalwell + Steyer + Becerra simultaneously). BOCC structurally resolved (Jim DeBoo + Bearstar + Amelia Matier + Deane & Co + Laiza Negrete). 4 new sources.
+- Ware structural file rewritten — Mechanism 5 added (downstream procedural removal). Five wrong claims corrected (filing exists, GPCA endorsement, History dept, ballot removal, Mechanism 1 historical vote shares now primary-source verified).
+- emerging-beat-candidates.md: C-004 Williamson/Collaborative federal indictment, C-005 Bianco "Sheriff Who Seized the Ballots", C-006 Villaraigosa "Pledge He Broke" added.
+- beats-catalog.ts: new bianco-ballots + villaraigosa-pledge upcoming beats. Bearstar Octopus Perplexity applied + Williamson context logged.
+
+**Beat editorial drafts (cc_p3_255, commit `702fe6bee`).**
+- New `content/Admin Notes/beat-drafts-2026-05-02.md`: editorial sketches for Villaraigosa-pledge (2nd-tier groundbreaking), Bianco-ballots (1st-tier — "the sheriff seized 650,000 ballots on a warrant from a judge he had endorsed"), Bearstar Octopus (1st-tier structural). Each ends with a Groundbreaking? verdict + Recommendation.
+
+**3 new full prototype HTML beats (cc_p3_256, commit `241e568af`, +3,074 lines).**
+- prototype/beat-bianco-ballots.html (1033 lines) — 4-node timeline hero (2014 Oath Keepers / 2018 sheriff / 2025 ballot seizure / 2026 governor). 8 sections.
+- prototype/beat-villaraigosa-pledge.html (1040 lines) — 2018 promise vs 2026 ledger contrast hero. 7 sections.
+- prototype/beat-bearstar-octopus.html (1001 lines) — Bearstar-at-center octopus diagram with 3 IE arms. 8 sections.
+- All three: 0 em-dashes, 0 AI tics, brutalist palette, tip box + sources + methodology customized per beat.
+
+**2 more prototype beats (cc_p3_257, commit `30d3a8634`, +1,858 lines).**
+- prototype/beat-mahan.html (948 lines) — "$0 from voters / $5.49M from Silicon Valley billionaires" contrast hero.
+- prototype/beat-cop-coddler.html (886 lines) — 4-node SB 1421 enforcement timeline. Sources: KQED Feb 5 + Feb 26 + March 5 2019; FAC Feb 14; Freedom of the Press Foundation March 5 2019; CalMatters Feb 22 2021.
+- beats-catalog.ts: both flipped from upcoming → active with prototype paths. **5/5 new beat prototypes complete.**
+
+**Site Preview + CLAUDE.md beat-publication rule (cc_p3_258, commit `2647aa20e`).**
+- prototype/server.cjs: 5 new case lines (/bianco-ballots, /villaraigosa-pledge, /bearstar-octopus, /mahan, /cop-coddler).
+- ops/src/app/site-preview/page.tsx: 5 new PROTOTYPE_PAGES entries (status: draft-isolated).
+- CLAUDE.md: new "When you ship a new beat" section under Build + deploy. Three places must update together: prototype/server.cjs + ops site-preview PROTOTYPE_PAGES + beats-catalog.ts. Marked non-negotiable. Future Claude sessions will see the rule.
+
+**Path B Quartz port pilot — Three Becerras + About + Homepage (cc_p3_259-262, commits `69261858a` + `b02674cac` + `de6f65c5a` + `5c28defb4`).**
+- First attempt: ported prototype HTML to content/<slug>.md with embedded `<style>` + raw HTML body. Wrapped in `.beat-page-root` div. Added `isBeatPage` to quartz.layout.ts that suppresses standard chrome (Breadcrumbs, ArticleTitle, ContentMeta, EvidencePanel, sidebar, ProfileReaderGuide, Search, ProfileTOC, TableOfContents, ProfileWidget, EventTimeline, RelatedProfiles, DiscoveryPanel) for `type: beat` pages.
+- public-routes.json flipped: ["index", "three-becerras", "about"] — committed via main repo direct edit.
+- Homepage replacement: content/index.md replaced with new beat-style homepage prototype. LandingPage construction splash suppressed on beat-pages.
+
+**Static HTML pivot (cc_p3_263, commit `d81e8f60f` + `f8ba5b187`).**
+- David flagged: live render on https://thedonormap.org/ showed raw `<text>` SVG elements as text. Curl confirmed 24 escaped `&lt;text` instances — Quartz's rehype sanitizer was escaping SVG `<text>` and `<g>` elements inside the markdown-embedded HTML.
+- Pivoted: removed content/<slug>.md files. Added content/<slug>/index.html as static HTML files (prototype/beat-three-becerras.html copied verbatim). Same for content/index.html (homepage) + content/about/index.html.
+- Diagnosed Assets emitter behavior: `slugifyFilePath` strips `.html` extension (quartz/util/path.ts line 76), producing `public/three-becerras/index` (no extension) — GitHub Pages 404'd.
+- **Quartz core patch:** quartz/plugins/emitters/assets.ts copyFile() now preserves the raw path for `.html` files. Other extensions (.png, .pdf, .jpg) keep slugifyFilePath. Comment on the patch references the SVG-escape diagnosis.
+- After deploy: thedonormap.org/, /three-becerras/, /about/ all render the prototype designs cleanly.
+
+**Live + local WYSIWYG editor (cc_p3_264-265, commits `9833d8d61` + `f43ac9668`).**
+- New ops surface: `/active-beat/<slug>/edit` opens an iframe-based WYSIWYG editor.
+- Initial version: dark-theme monospace textarea with section jumper sidebar.
+- David: "I want to see it as if it were live, not html code."
+- Rebuilt as iframe + srcdoc + injected editor script that adds `contenteditable="true"` to `.article-header-inner` and `.article-body-inner`. postMessage between parent and iframe for save round-trip. Hover hint (dashed blue outline) + focus state (solid blue). SOURCE/WYSIWYG toggle button preserves edits across modes.
+- New API routes: GET/POST `/api/beat-source` (read + local save to BOTH prototype/<file>.html AND content/<slug>/index.html). POST `/api/beat-source/publish` (git add + commit + push to v4 → GitHub Actions deploys ~3-4 min).
+- Two-step model: SAVE LOCAL writes file (visible at localhost:8096 immediately, NOT yet deployed). PUBLISH LIVE commits + pushes (deploys via Actions).
+- Edit Source ✎ tile added to /active-beat/<slug> artifact grid.
+- Cmd/Ctrl+S keyboard shortcut for save. Tab inserts 2 spaces. Section-jumper parses h1/h2 from current edited content.
+
+### CRITICAL TODOs FOR NEXT SESSION
+
+1. **Audit pass on Three Becerras for Perplexity AI-tells.** Perplexity's read of the Three Becerras beat flagged three patterns: triple-parallel rhythm ("Same X. Same Y. Same Z."), "This page does not claim..." scaffolding, and length+symmetry tells. David asked me to log these and offer to audit-pass — that pass is queued, not yet done.
+
+2. **Port the remaining 5 beats to live.** Currently live on thedonormap.org: index (homepage), three-becerras, about. Still prototype-only at localhost:8096: class-traitor, chevron, bianco-ballots, villaraigosa-pledge, bearstar-octopus, mahan, cop-coddler. Each needs `cp prototype/beat-<slug>.html content/<slug>/index.html` + add to public-routes.json. Mechanical work via the existing pattern.
+
+3. **Race Map beat (June 1 target) and Ware structural essay** still deferred per David's "we'll work on race map and butch ware separately" instruction.
+
+4. **5 beats are in beats-catalog `active` but not in any verifications-store.** None of the 5 new beats have URL-pass verification entries; David needs to URL-pass before public exposure.
+
+### David's lane (decisions needed before next code work)
+
+- Pick which of the 5 new beats to graduate to live next, in what order. My recommendation per editorial weight: Class Traitor (May 6 anchor) → Bearstar Octopus (May 27 schedule) → Bianco-Ballots (post-primary) → Villaraigosa-Pledge → Mahan → Cop-Coddler.
+- Decide if the Path B static-HTML approach works for all of them (it's now proven on Three Becerras + About + homepage) or if the Quartz Assets patch needs additional refinement.
+- Run remaining Perplexity verification rounds: Mahan San Jose mayoralty record (Prompt #3 deeper); Cop-Coddler 2026 police-union categorical totals.
+
+### Editorial standards locked in (memory)
+
+- No AI attribution in any published material.
+- No em dashes, no AI vernacular ("furthermore," "crucially," "importantly," "ultimately," "it's not X but Y").
+- **NEW from this session:** Watch for triple-parallel rhythm, "This page does not claim..." scaffolding, and over-symmetric beat templates. These are AI fingerprints Perplexity caught in Three Becerras. Future beats should break the template asymmetrically when the story warrants it.
+
+### Worktree
+
+- Current: `claude/epic-khayyam-f90433` — ~20 commits this session.
+- Final commit: `f43ac9668` (WYSIWYG editor mode).
+
 ---
 
 ## HANDOFF — 2026-05-01 (cc_p3_220 → cc_p3_245, editorial pivot to beat-style site + CA Gov 2026 dossier sprint + Perplexity verification rounds + homepage/first-beat prototypes)

@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-05-01-editorial-pivot-beat-style-site-perplexity-verifications-homepage-prototype'
+last-updated: '2026-05-03-path-b-port-5-new-beats-wysiwyg-editor-perplexity-batch-foldin'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -3666,6 +3666,102 @@ phase_3_tasks:
       task: "Public launch Apr 30 (Thursday) — announce"
       scheduled: 2026-04-30
       status: pending
+
+    - id: cc_p3_246
+      task: "Main-repo merge recovery + producer-drift triage"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "4849a0622"
+      notes: "4 unmerged paths (.attention-queue-store.json, Attention Queue.md, pipeline-janitor-report.md, data/stories.jsonl) cleared by taking origin's version (verified 0 unique stories on local side). Reverted 1,533 regenerable producer outputs + 5 admin notes + bugs-manifest. Preserved 4 files with genuinely-new local data: data/beat-verifications.jsonl (+43 records — critical session data only in main repo), data/relationships.jsonl (+1,558 producer-discovered edges), data/class-tag-path-b-decisions.jsonl (+5), data/mechanical-readiness-decisions.jsonl (+1)."
+
+    - id: cc_p3_247
+      task: "Class Traitor beat: Option C reframe + Farallon record + CAR mechanism + spend refresh"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "d7b39cc11"
+      notes: "Three Perplexity returns (Steyer financial-history stress test, CAR anti-Steyer tax mechanism, Gudelunas/1489677 spending update) folded into prototype/beat-class-traitor.html ahead of May 6 launch. New #record section metabolizes Farallon coal/CCA/casinos/tobacco honestly with Bloomberg + NYT 2020 fact-check caveats. New CAR commercial-Prop-13 mechanism paragraph. Spend $13.9M → $20.04M with 3 Form 496 late filings + JOBSPAC/CRAE late receipts. 13 new sources + 13 new editor-lane verifications. Phase 5k of becerra.md mirrors the Farallon record. New emerging-beat-candidates.md logged 3 candidates."
+
+    - id: cc_p3_248
+      task: "Class Traitor: 2 charts (symmetry + spend dam-break timeline)"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "a6ce766f1, 1f0628868, 2018cd4d7"
+      notes: "Chart A: side-by-side stacked bars in #record. 'Same wealth machine · two roles · fourteen years apart.' Farallon documented exposure (red shades, left) vs anti-Steyer coalition (yellow shades, right). Chart B: step chart in #buying showing April 24 +$5.13M dam-break. ChatGPT critique pass applied across the beat: donor-class defined inline, 'point' → 'function', 'operation' → 'machine', polling-section trim. Chart label overflows fixed (CCA · CoreCivic + Whitehaven · Peabody)."
+
+    - id: cc_p3_249
+      task: "Ops /beats and /charts catalog pages"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "3e26ad3b9"
+      notes: "ops/src/app/beats/page.tsx (status board grouping live/active/upcoming/draft/published/archived), ops/src/app/charts/page.tsx (chart library), ops/src/lib/charts-catalog.ts (8 chart records). Sidebar updated. beats-catalog.ts extended: new 'upcoming' status, Class Traitor record added with full metadata + 13 verifications + 4 Perplexity rounds + 3 audit passes, four upcoming beats (Mahan May 13, Cop-Coddler May 20, Bearstar Octopus May 27, Race Map June 1)."
+
+    - id: cc_p3_250
+      task: "8 Perplexity returns applied (Steyer / CAR / Gudelunas / Bearstar+Polaris / Bianco / Villaraigosa / Ware / Prop 14 / BOCC / Hilton / Porter)"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "33df9c1dd"
+      notes: "Class Traitor: Polaris $13.78M VERIFIED via 5 Cal-Access EXPN_CD payments. Bearstar conflict sharpened (Swalwell + Steyer + Becerra simultaneously). BOCC structurally resolved (DeBoo + Bearstar + Matier + Deane & Co + Negrete). Ware structural file rewritten with 5 corrections + Mechanism 5 added (downstream procedural removal). emerging-beat-candidates.md +C-004 Williamson/Collaborative + C-005 Bianco-Ballots + C-006 Villaraigosa-Pledge. beats-catalog: bianco-ballots + villaraigosa-pledge upcoming beats. Bearstar Octopus Perplexity round logged."
+
+    - id: cc_p3_251
+      task: "Editorial sketches for 3 new beats (Bianco / Villaraigosa / Bearstar)"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "702fe6bee"
+      notes: "content/Admin Notes/beat-drafts-2026-05-02.md: thesis sketches before committing to full prototype build. Bianco-ballots ranked 1st-tier groundbreaking ('the sheriff seized 650,000 ballots on a warrant from a judge he had endorsed'). Bearstar Octopus 1st-tier structural. Villaraigosa-pledge 2nd-tier (hypocrisy + structural rejection). All three graduated to prototype build."
+
+    - id: cc_p3_252
+      task: "3 new full prototype HTML beats: Bianco / Villaraigosa / Bearstar"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "241e568af"
+      notes: "+3,074 lines. prototype/beat-bianco-ballots.html (1033 lines, 4-node timeline hero), prototype/beat-villaraigosa-pledge.html (1040 lines, 2018-vs-2026 contrast hero), prototype/beat-bearstar-octopus.html (1001 lines, octopus diagram with 3 IE arms). All three: 0 em-dashes, 0 AI tics, brutalist palette, customized tip box + sources + methodology."
+
+    - id: cc_p3_253
+      task: "2 more prototype beats: Mahan + Cop-Coddler. 5/5 complete."
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "30d3a8634"
+      notes: "+1,858 lines. prototype/beat-mahan.html (948 lines, $0 voters / $5.49M Silicon Valley billionaire bloc contrast). prototype/beat-cop-coddler.html (886 lines, 4-node SB 1421 enforcement timeline; sources KQED Feb 5/26 + March 5 2019, FAC Feb 14, Freedom of the Press Foundation March 5 2019, CalMatters Feb 22 2021). beats-catalog: both flipped from upcoming → active with prototype paths. 5/5 new beat prototypes complete (Bianco, Villaraigosa, Bearstar, Mahan, Cop-Coddler)."
+
+    - id: cc_p3_254
+      task: "Site Preview registration + CLAUDE.md beat-publication rule"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "2647aa20e"
+      notes: "prototype/server.cjs: 5 new case lines for the new beats. ops/src/app/site-preview/page.tsx: 5 new PROTOTYPE_PAGES entries (status: draft-isolated). CLAUDE.md: new 'When you ship a new beat' section under Build + deploy. Three places must update together (prototype/server.cjs + ops site-preview PROTOTYPE_PAGES + beats-catalog.ts). Marked non-negotiable. Future Claude sessions will see this rule."
+
+    - id: cc_p3_255
+      task: "Path B Quartz port pilot: Three Becerras + About + Homepage as content/<slug>.md (failed — SVG escaping)"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "69261858a, b02674cac, de6f65c5a, 5c28defb4"
+      notes: "First attempt: ported prototype HTML to content/<slug>.md with embedded <style> + raw HTML body. Wrapped in .beat-page-root div. Added isBeatPage helper to quartz.layout.ts that suppresses standard chrome (Breadcrumbs, ArticleTitle, ContentMeta, EvidencePanel, sidebar, ProfileReaderGuide, Search, ProfileTOC, TableOfContents, ProfileWidget, EventTimeline, RelatedProfiles, DiscoveryPanel) for type:beat pages. public-routes.json flipped: ['index', 'three-becerras', 'about']. Homepage: content/index.md replaced with new beat-style homepage prototype. LandingPage construction splash suppressed on beat-pages. ISSUE: Quartz's rehype sanitizer escaped SVG <text>/<g> elements (24 escaped instances on the live homepage), breaking the featured beat card and hero visualizations."
+
+    - id: cc_p3_256
+      task: "Static HTML pivot + Quartz Assets emitter patch (preserve .html extension)"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "d81e8f60f, f8ba5b187"
+      notes: "Pivoted from markdown approach. Removed content/<slug>.md files. Added content/<slug>/index.html as static HTML files (prototype/beat-three-becerras.html, prototype/about.html, prototype/home.html copied verbatim). Diagnosed Assets emitter: slugifyFilePath strips .html extension (quartz/util/path.ts line 76), producing public/three-becerras/index (no extension) — GitHub Pages 404'd. Quartz core patch: quartz/plugins/emitters/assets.ts copyFile() now preserves the raw path for .html files. Other extensions (.png, .pdf) keep slugifyFilePath. After deploy: thedonormap.org/, /three-becerras/, /about/ all render the prototype designs cleanly."
+
+    - id: cc_p3_257
+      task: "Live + local WYSIWYG editor for beat-page source"
+      status: done
+      completed_date: 2026-05-03
+      added_adhoc: true
+      commits: "9833d8d61, f43ac9668"
+      notes: "/active-beat/<slug>/edit page. New API routes: GET/POST /api/beat-source (read + local save to BOTH prototype/<file>.html AND content/<slug>/index.html). POST /api/beat-source/publish (git add + commit + push to v4). Initial version: dark-theme monospace textarea + section jumper. Rebuilt as iframe + srcdoc + injected editor script that adds contenteditable=true to .article-header-inner + .article-body-inner. postMessage round-trip for save. Hover hint (dashed blue) + focus state. SOURCE/WYSIWYG toggle preserves edits. Two-step model: SAVE LOCAL writes file (visible at localhost:8096), PUBLISH LIVE commits + pushes (deploys via Actions ~3-4 min). Edit Source ✎ tile added to /active-beat/<slug> artifact grid."
 ```
 
 ## Risk register
@@ -4058,4 +4154,5 @@ Built a natural-language query UI for the canonical edge store, then a systemic 
 - politician short-circuit on recipients_from: "Where does [politician] money go" returns clear explainer instead of "0 edges"
 
 **Session commit tally: 18 commits pushed to v4** — ask UI, ask API, loader fix, humanization, IE classifier, polish.
-**Schedule last updated: 2026-04-30 PM (Code Claude — ADR-0024 PHASE 3 D-COMPLETION + VAULT ENRICHMENT TIER 1 EXPANSION + THESIS PAGES + EDITORIAL-DIRECTION PIVOT. 14 commits to v4 across one extended session. cc_p3_200 sponsor edges from bills.jsonl (73,791). cc_p3_201 /thesis ops UI surface. cc_p3_202 ADR-0030 §10 amendment (voteview/govinfo/clerk/senate/congress). cc_p3_204 voteview ingest (4.79M positions) + influencePipelines + votingDivergence. cc_p3_205 policyAlignment + politicianContradictions REFRAMED. cc_p3_206 first ADR-0030 §10 audit caught 949 corrupted Senate result fields, fixed mechanically. cc_p3_207 recovered 44,716 silently-dropped edges (fec-oppexp + usaspending-bulk → permissive). cc_p3_208 cleared 40 harness findings + synced 10 missing entities. cc_p3_209 vault enrichment Tier 1 expansion (David approved everything): provenance check fix -556 / cross-source role dedup -1,360 phantom warns / schema backfill 868 fec-committee mappings / pathless-stub Tier 1 promotion (Carey ghost auto-merged) / story-candidate dedup -24 / sync-entities scheduled / cosponsor edges via BILLSTATUS bulk +468,644 / topic-page-as-donor cleanup -128 / A+ scope corrected / ADR-0029 §10 amendment formalized 5 new auto-apply behaviors. Net harness impact: 3,061 → ~1,100 (-1,961). LIBRARIAN BUG FIX: ADR-0001 class-tag fields lived at top-level of entity records but resolver only copied e.signals → 706 class-tagged donors invisible to classProfile/influenceMap. Fixed in lib/donor-map/resolver.ts. After fix: McConnell 13 capital clusters with real data. PHASE A+C TRANSLATE-TO-WEBSITE: ran 5 build-*-panels (1,667 profiles updated), built scripts/build-thesis-pages.cjs precomputing thesis-query results as static markdown (10 pages: index + both-sides + 8 flagship influence maps), all GATED via not-in-public-routes.json. EDITORIAL-DIRECTION PIVOT: David diagnosed site as research-database when it should be journalism. Approved redesign — 5-item top nav (Today/Stories/Maps/Profiles/About), punchy story format (~300 words, chart-as-hero, 30-second read), profile redesign with visual lede zone + fact cards + data tabs as backstop, OPTION B chart-component library (4 components: DonorClassPie, DonorStripe, VotingDivergenceSparkline, MoneyFlowSankey), 12 flagship politicians focused on todays-relevant figures (Trump/Vance/Rubio/Miller/AOC/Newsom/Whitmer/Pritzker/McConnell/Schumer/Pelosi/Manchin). Migration order: punchy story prototype first ($25-35 Opus), then chart components ($60-80), then homepage ($40-60), then 3 flagship profiles ($50-70), then maps section ($80-120), then nav redesign ($15-25), then 9 remaining flagships ($80-120). Total redesign budget ~$350-500 across 6-8 sessions. NEXT SESSION PRIORITIES: (1) build punchy story template + Fairshake $14.5M prototype, (2) build 4 Option-B chart components, (3) replace homepage with chart-led modules, (4) 3 flagship profiles in new shape (Trump/AOC/Newsom). DAVID LANE: confirm flagship list, pick prototype story, weekly Tier 1 sample audit on /audit-claude-decisions.)**
+**Schedule last updated: 2026-05-03 AM (Code Claude — PATH B QUARTZ PORT + 5 NEW BEATS + WYSIWYG EDITOR + PERPLEXITY BATCH FOLDIN. ~20 commits to v4. cc_p3_246 main-repo merge recovery (4 unmerged paths cleared, 43 verifications + 1,558 edges + 6 decisions preserved). cc_p3_247 Class Traitor Option C reframe + Farallon record + CAR mechanism + spend refresh ($13.9M → $20.04M). cc_p3_248 2 charts (symmetry + spend dam-break timeline) + ChatGPT critique pass. cc_p3_249 ops /beats and /charts pages. cc_p3_250 8 Perplexity returns applied (Bearstar/Polaris $13.78M VERIFIED, BOCC structurally resolved, Ware structural rewritten). cc_p3_251 editorial sketches for 3 new beats. cc_p3_252 3 new prototype HTML beats (Bianco-ballots, Villaraigosa-pledge, Bearstar-Octopus, +3,074 lines). cc_p3_253 2 more (Mahan, Cop-Coddler, +1,858 lines, 5/5 complete). cc_p3_254 site-preview registration + CLAUDE.md beat-publication rule. cc_p3_255 Path B Quartz pilot (failed — SVG escaping). cc_p3_256 STATIC HTML PIVOT + Quartz Assets emitter patch (preserves .html ext) — fix shipped, thedonormap.org/, /three-becerras/, /about/ all render cleanly. cc_p3_257 LIVE+LOCAL WYSIWYG EDITOR for beat-page source via /active-beat/<slug>/edit (iframe + srcdoc + contenteditable + postMessage save). NEXT SESSION PRIORITIES: (1) audit Three Becerras for Perplexity AI-tells (triple-parallel, 'this page does not claim' scaffolding, length+symmetry), (2) port remaining 5 beats to live (cp + public-routes flip), (3) Race Map + Ware structural deferred per David. EDITORIAL FEEDBACK: Perplexity flagged AI fingerprints in Three Becerras — watch for those patterns in future beats.)
+**Previous schedule update: 2026-04-30 PM (Code Claude — ADR-0024 PHASE 3 D-COMPLETION + VAULT ENRICHMENT TIER 1 EXPANSION + THESIS PAGES + EDITORIAL-DIRECTION PIVOT. 14 commits to v4 across one extended session. cc_p3_200 sponsor edges from bills.jsonl (73,791). cc_p3_201 /thesis ops UI surface. cc_p3_202 ADR-0030 §10 amendment (voteview/govinfo/clerk/senate/congress). cc_p3_204 voteview ingest (4.79M positions) + influencePipelines + votingDivergence. cc_p3_205 policyAlignment + politicianContradictions REFRAMED. cc_p3_206 first ADR-0030 §10 audit caught 949 corrupted Senate result fields, fixed mechanically. cc_p3_207 recovered 44,716 silently-dropped edges (fec-oppexp + usaspending-bulk → permissive). cc_p3_208 cleared 40 harness findings + synced 10 missing entities. cc_p3_209 vault enrichment Tier 1 expansion (David approved everything): provenance check fix -556 / cross-source role dedup -1,360 phantom warns / schema backfill 868 fec-committee mappings / pathless-stub Tier 1 promotion (Carey ghost auto-merged) / story-candidate dedup -24 / sync-entities scheduled / cosponsor edges via BILLSTATUS bulk +468,644 / topic-page-as-donor cleanup -128 / A+ scope corrected / ADR-0029 §10 amendment formalized 5 new auto-apply behaviors. Net harness impact: 3,061 → ~1,100 (-1,961). LIBRARIAN BUG FIX: ADR-0001 class-tag fields lived at top-level of entity records but resolver only copied e.signals → 706 class-tagged donors invisible to classProfile/influenceMap. Fixed in lib/donor-map/resolver.ts. After fix: McConnell 13 capital clusters with real data. PHASE A+C TRANSLATE-TO-WEBSITE: ran 5 build-*-panels (1,667 profiles updated), built scripts/build-thesis-pages.cjs precomputing thesis-query results as static markdown (10 pages: index + both-sides + 8 flagship influence maps), all GATED via not-in-public-routes.json. EDITORIAL-DIRECTION PIVOT: David diagnosed site as research-database when it should be journalism. Approved redesign — 5-item top nav (Today/Stories/Maps/Profiles/About), punchy story format (~300 words, chart-as-hero, 30-second read), profile redesign with visual lede zone + fact cards + data tabs as backstop, OPTION B chart-component library (4 components: DonorClassPie, DonorStripe, VotingDivergenceSparkline, MoneyFlowSankey), 12 flagship politicians focused on todays-relevant figures (Trump/Vance/Rubio/Miller/AOC/Newsom/Whitmer/Pritzker/McConnell/Schumer/Pelosi/Manchin). Migration order: punchy story prototype first ($25-35 Opus), then chart components ($60-80), then homepage ($40-60), then 3 flagship profiles ($50-70), then maps section ($80-120), then nav redesign ($15-25), then 9 remaining flagships ($80-120). Total redesign budget ~$350-500 across 6-8 sessions. NEXT SESSION PRIORITIES: (1) build punchy story template + Fairshake $14.5M prototype, (2) build 4 Option-B chart components, (3) replace homepage with chart-led modules, (4) 3 flagship profiles in new shape (Trump/AOC/Newsom). DAVID LANE: confirm flagship list, pick prototype story, weekly Tier 1 sample audit on /audit-claude-decisions.)**
