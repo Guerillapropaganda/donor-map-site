@@ -757,6 +757,7 @@ const BEATS_UPCOMING: BeatRecord[] = [
     perplexityRounds: [
       { name: "Porter donor + contradiction", status: "applied (Prompt #5) — surfaced Uber Innovation PAC $150K + plaintiff-bar concentration + Larsen Porter-Hilton hedge", date: "2026-05-03" },
       { name: "Porter app-based worker classification (follow-up)", status: "applied — confirmed PRO Act Yea vote 2021 + NO DATA on 2026 AB5/Prop 22 position + NO press has asked her about Uber money (perplexity-research/2026-05-03-porter-app-worker-classification-results.md)", date: "2026-05-03" },
+      { name: "Porter Uber press-coverage accountability audit (meta-press)", status: "applied — quantified asymmetry: Porter-Uber 0 accountability articles, Becerra-Chevron 5+, Villaraigosa-fossil 4+, Mahan-Armstrong 3+ donor-base mentions but 0 direct asks. Surfaces Mahan-Armstrong as a parallel accountability gap. Uber Innovation PAC giving map: Newsom Yes on Prop 1 $58,500, oppose-DeMaio $100K, CA GOP State $25K, Women in Power PAC, others. Per Politico Feb 7 2024, Teamsters alarmed Uber would pour $30M into CA politics via this PAC. (perplexity-research/2026-05-03-porter-uber-press-coverage-results.md)", date: "2026-05-03" },
       { name: "Bianco donor + LE money", status: "applied (Prompt #6)", date: "2026-05-02" },
       { name: "Bianco institutional money audit (M&D + Downs)", status: "applied", date: "2026-05-03" },
       { name: "Villaraigosa donor + post-mayor income", status: "applied (Prompt #7)", date: "2026-05-02" },

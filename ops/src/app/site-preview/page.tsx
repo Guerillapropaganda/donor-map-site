@@ -91,8 +91,8 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     title: "Share cards · CA Gov 2026 beats (2026-05-03)",
     url: "http://localhost:8096/share-cards-2026-05-03",
     description: "Three 1080×1080 social-share cards, one per live beat (Three Becerras / Not the Bad Guy / Class Traitor). Each card has a Copy as PNG button — click, paste into Facebook. For Sunday-evening soft-launch FB-group posting.",
-    status: "active",
-    category: "kit",
+    status: "live",
+    category: "meme",
   },
   {
     title: "Bianco · The Sheriff Who Seized the Ballots (DRAFT)",
