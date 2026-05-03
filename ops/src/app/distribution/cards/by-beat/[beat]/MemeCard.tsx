@@ -1,8 +1,9 @@
 "use client"
 
-import { useState } from "react"
+import { useRef, useState } from "react"
 import type { MemeEntry, BeatSlug } from "@/lib/memes-catalog"
 import { MemeThumbnail } from "@/components/MemeThumbnail"
+import { ShareCardFull } from "@/components/ShareCardFull"
 import { intentUrl, profileUrl, type Platform } from "@/lib/social-config"
 
 /**
@@ -23,8 +24,11 @@ export function MemeCard({ meme, beatSlug }: Props) {
   const [copyState, setCopyState] = useState<"idle" | "copied">("idle")
   const [queueState, setQueueState] = useState<"idle" | "queuing" | "queued" | "error">("idle")
   const [queueError, setQueueError] = useState<string | null>(null)
+  const [pngState, setPngState] = useState<"idle" | "rendering" | "copied" | "error">("idle")
+  const cardRef = useRef<HTMLDivElement>(null)
 
   const previewUrl = meme.prototypeUrlBase + meme.prototypeAnchor
+  const shareCardKind = meme.thumbnail.shareCardKind
 
   const xIntent = intentUrl("x", editedCaption)!
   const bskyIntent = intentUrl("bluesky", editedCaption)!
@@ -60,6 +64,86 @@ export function MemeCard({ meme, beatSlug }: Props) {
     }
   }
 
+  /** Render the ShareCardFull element to a 1080×1080 PNG. Used by both
+   *  Copy as PNG (clipboard) and Download PNG (file download). */
+  async function renderCardCanvas(): Promise<HTMLCanvasElement | null> {
+    if (!cardRef.current) return null
+    const html2canvas = (await import("html2canvas")).default
+    // Clone the card into a hidden 1080×1080 wrapper so the capture is
+    // exact full-size, regardless of the visible scaled-down preview.
+    const wrapper = document.createElement("div")
+    wrapper.style.position = "fixed"
+    wrapper.style.left = "-99999px"
+    wrapper.style.top = "0"
+    wrapper.style.width = "1080px"
+    wrapper.style.height = "1080px"
+    wrapper.style.background = "#f5f0eb"
+    const clone = cardRef.current.cloneNode(true) as HTMLElement
+    // Strip the scale transform so the clone renders at full size
+    const inner = clone.querySelector("[data-share-card-inner]") as HTMLElement | null
+    if (inner) inner.style.transform = "none"
+    clone.style.width = "1080px"
+    clone.style.height = "1080px"
+    wrapper.appendChild(clone)
+    document.body.appendChild(wrapper)
+    try {
+      return await html2canvas(clone, {
+        width: 1080,
+        height: 1080,
+        scale: 2,
+        backgroundColor: "#f5f0eb",
+        useCORS: true,
+        logging: false,
+      })
+    } finally {
+      wrapper.remove()
+    }
+  }
+
+  async function copyAsPng() {
+    setPngState("rendering")
+    try {
+      const canvas = await renderCardCanvas()
+      if (!canvas) throw new Error("no card ref")
+      const blob: Blob | null = await new Promise((res) => canvas.toBlob(res, "image/png"))
+      if (!blob) throw new Error("toBlob returned null")
+      if (!navigator.clipboard || !("write" in navigator.clipboard)) {
+        throw new Error("clipboard image write unsupported in this browser; use Download PNG")
+      }
+      // @ts-expect-error ClipboardItem is widely supported but not in older TS lib.dom
+      await navigator.clipboard.write([new ClipboardItem({ "image/png": blob })])
+      setPngState("copied")
+      setTimeout(() => setPngState("idle"), 2200)
+    } catch (err) {
+      console.error("copyAsPng:", err)
+      setPngState("error")
+      setTimeout(() => setPngState("idle"), 3500)
+    }
+  }
+
+  async function downloadPng() {
+    setPngState("rendering")
+    try {
+      const canvas = await renderCardCanvas()
+      if (!canvas) throw new Error("no card ref")
+      const blob: Blob | null = await new Promise((res) => canvas.toBlob(res, "image/png"))
+      if (!blob) throw new Error("toBlob returned null")
+      const url = URL.createObjectURL(blob)
+      const a = document.createElement("a")
+      a.href = url
+      a.download = `donormap-${meme.id}.png`
+      document.body.appendChild(a)
+      a.click()
+      a.remove()
+      setTimeout(() => URL.revokeObjectURL(url), 4000)
+      setPngState("idle")
+    } catch (err) {
+      console.error("downloadPng:", err)
+      setPngState("error")
+      setTimeout(() => setPngState("idle"), 3500)
+    }
+  }
+
   /** For IG/FB: copy caption to clipboard, then open the profile in a new
    *  tab. The button click also queues a draft entry so the post is tracked. */
   async function shareManual(platform: "instagram" | "facebook") {
@@ -86,9 +170,62 @@ export function MemeCard({ meme, beatSlug }: Props) {
         alignItems: "start",
       }}
     >
-      {/* Brutalist thumbnail (cream-bg, Donor Map design system) */}
+      {/* Brutalist thumbnail (cream-bg, Donor Map design system).
+          When shareCardKind is set, renders the full share card with
+          embedded SVG graph instead of the structured-data thumbnail. */}
       <div>
-        <MemeThumbnail meme={meme} />
+        {shareCardKind ? (
+          <ShareCardFull ref={cardRef} kind={shareCardKind} />
+        ) : (
+          <MemeThumbnail meme={meme} />
+        )}
+        {shareCardKind && (
+          <div style={{ display: "flex", gap: "6px", marginTop: "10px" }}>
+            <button
+              onClick={copyAsPng}
+              disabled={pngState === "rendering"}
+              style={{
+                flex: 1,
+                background: pngState === "copied" ? "#16a34a" : pngState === "error" ? "#7f1d1d" : "#fbbf24",
+                color: pngState === "copied" || pngState === "error" ? "#fff" : "#0a0a0a",
+                padding: "10px 14px",
+                fontSize: "11px",
+                fontWeight: 900,
+                letterSpacing: "1px",
+                border: "1px solid #0a0a0a",
+                cursor: pngState === "rendering" ? "wait" : "pointer",
+                textTransform: "uppercase",
+                fontFamily: "var(--font-mono, monospace)",
+              }}
+            >
+              {pngState === "rendering"
+                ? "Rendering..."
+                : pngState === "copied"
+                  ? "✓ Copied. Paste in FB."
+                  : pngState === "error"
+                    ? "Copy failed"
+                    : "Copy as PNG"}
+            </button>
+            <button
+              onClick={downloadPng}
+              disabled={pngState === "rendering"}
+              style={{
+                background: "transparent",
+                color: "var(--color-text)",
+                padding: "10px 14px",
+                fontSize: "11px",
+                fontWeight: 700,
+                letterSpacing: "1px",
+                border: "1px solid #374151",
+                cursor: pngState === "rendering" ? "wait" : "pointer",
+                textTransform: "uppercase",
+                fontFamily: "var(--font-mono, monospace)",
+              }}
+            >
+              Download
+            </button>
+          </div>
+        )}
         <a
           href={previewUrl}
           target="_blank"
