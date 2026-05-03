@@ -31,7 +31,7 @@ const CONFIG: Record<ShareCardKind, ShareCardConfig> = {
     headline: (
       <>
         What he says depends on{" "}
-        <span style={{ background: "#e63946", color: "#fff", padding: "0 8px" }}>who is listening</span>.
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>who is listening</span>.
       </>
     ),
     deck:
@@ -44,7 +44,7 @@ const CONFIG: Record<ShareCardKind, ShareCardConfig> = {
     headline: (
       <>
         He took the check. Then he{" "}
-        <span style={{ background: "#e63946", color: "#fff", padding: "0 8px" }}>defended</span> it.
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>defended</span> it.
       </>
     ),
     deck:
@@ -57,7 +57,7 @@ const CONFIG: Record<ShareCardKind, ShareCardConfig> = {
     headline: (
       <>
         $31 million to bury a{" "}
-        <span style={{ background: "#e63946", color: "#fff", padding: "0 8px" }}>class traitor</span>.
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>class traitor</span>.
       </>
     ),
     deck:
@@ -166,9 +166,9 @@ export const ShareCardFull = forwardRef<HTMLDivElement, Props>(function ShareCar
             style={{
               fontFamily: "Inter, sans-serif",
               fontWeight: 900,
-              fontSize: 56,
-              lineHeight: 1.0,
-              letterSpacing: "-2px",
+              fontSize: 50,
+              lineHeight: 1.05,
+              letterSpacing: "-1.5px",
               marginBottom: 18,
             }}
           >

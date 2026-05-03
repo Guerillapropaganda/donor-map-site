@@ -68,6 +68,13 @@ export function MemeCard({ meme, beatSlug }: Props) {
    *  Copy as PNG (clipboard) and Download PNG (file download). */
   async function renderCardCanvas(): Promise<HTMLCanvasElement | null> {
     if (!cardRef.current) return null
+    // Wait for web fonts (Inter, Space Mono, Instrument Serif) so the
+    // captured layout matches the visible one. Without this, html2canvas
+    // can capture a transient state where Inter hasn't applied and
+    // headlines wrap at fallback-font widths.
+    if (typeof document !== "undefined" && document.fonts && document.fonts.ready) {
+      await document.fonts.ready
+    }
     const html2canvas = (await import("html2canvas")).default
     // Clone the card into a hidden 1080×1080 wrapper so the capture is
     // exact full-size, regardless of the visible scaled-down preview.
