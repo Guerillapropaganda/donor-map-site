@@ -6,6 +6,7 @@ import { PageHeader } from "@/components/PageHeader"
 import { memesByBeat } from "@/lib/memes-catalog"
 import { ensureSeeded } from "@/lib/beat-verifications"
 import { getBeat, listBeats, type BeatRecord } from "@/lib/beats-catalog"
+import { getRebuttals } from "@/lib/rebuttals-catalog"
 import { runPreflight } from "@/lib/preflight"
 import { VerificationRow } from "../VerificationRow"
 import { PublishButton } from "./PublishButton"
@@ -46,6 +47,7 @@ export default function BeatWorkspacePage({ params }: PageProps) {
   const memes = memesByBeat(beat.slug)
   const preflight = runPreflight(beat)
   const allBeats = listBeats()
+  const rebuttals = getRebuttals(beat.slug)
 
   return (
     <div>
@@ -187,7 +189,46 @@ export default function BeatWorkspacePage({ params }: PageProps) {
         </Section>
       )}
 
-      {/* ─── Section 6: Preflight + Publish ───────────────────────── */}
+      {/* ─── Section 6: Counter-arguments + responses ─────────────── */}
+      {rebuttals && (
+        <Section title={`Counter-arguments + responses (${rebuttals.rebuttals.length})`}>
+          <div
+            style={{
+              padding: "12px 16px",
+              marginBottom: "16px",
+              border: "1px solid #374151",
+              borderLeft: "3px solid #fbbf24",
+              background: "rgba(251, 191, 36, 0.05)",
+              fontSize: "13px",
+              fontStyle: "italic",
+              color: "var(--color-text)",
+              lineHeight: 1.5,
+            }}
+          >
+            <strong style={{ fontStyle: "normal", display: "block", marginBottom: "4px", letterSpacing: "0.5px" }}>
+              GUIDING PRINCIPLE
+            </strong>
+            {rebuttals.guiding_principle}
+          </div>
+          <div style={{ display: "grid", gap: "16px" }}>
+            {rebuttals.rebuttals.map((r, i) => (
+              <RebuttalCard key={i} index={i + 1} rebuttal={r} />
+            ))}
+          </div>
+          <div
+            style={{
+              marginTop: "12px",
+              fontSize: "11px",
+              color: "var(--color-text-dim)",
+              fontFamily: "var(--font-mono, monospace)",
+            }}
+          >
+            Source: {rebuttals.source} · Last updated {rebuttals.last_updated}
+          </div>
+        </Section>
+      )}
+
+      {/* ─── Section 7: Preflight + Publish ───────────────────────── */}
       <Section title="Preflight + Publish">
         <div style={{ display: "grid", gap: "8px", marginBottom: "20px" }}>
           {preflight.gates.map((g) => (
@@ -305,6 +346,87 @@ function ArtifactCard({
         {sub}
       </div>
     </Comp>
+  )
+}
+
+function RebuttalCard({ index, rebuttal }: { index: number; rebuttal: { counter_argument: string; why_it_lands: string; response: string } }) {
+  return (
+    <div
+      style={{
+        padding: "16px 18px",
+        background: "rgba(31, 41, 55, 0.4)",
+        border: "1px solid #374151",
+        borderLeft: "3px solid #e63946",
+        display: "grid",
+        gap: "12px",
+      }}
+    >
+      <div style={{ display: "flex", gap: "12px", alignItems: "start" }}>
+        <span
+          style={{
+            fontFamily: "var(--font-mono, monospace)",
+            fontSize: "11px",
+            fontWeight: 700,
+            color: "#e63946",
+            letterSpacing: "1.5px",
+            flexShrink: 0,
+            paddingTop: "2px",
+          }}
+        >
+          #{index} COUNTER
+        </span>
+        <div style={{ fontSize: "14px", fontWeight: 700, color: "var(--color-text)", lineHeight: 1.4 }}>
+          {rebuttal.counter_argument}
+        </div>
+      </div>
+      <div style={{ display: "flex", gap: "12px", alignItems: "start", paddingLeft: "12px" }}>
+        <span
+          style={{
+            fontFamily: "var(--font-mono, monospace)",
+            fontSize: "10px",
+            fontWeight: 700,
+            color: "var(--color-text-dim)",
+            letterSpacing: "1.5px",
+            flexShrink: 0,
+            paddingTop: "2px",
+            minWidth: "80px",
+          }}
+        >
+          WHY IT LANDS
+        </span>
+        <div style={{ fontSize: "12px", color: "var(--color-text-dim)", lineHeight: 1.5, fontStyle: "italic" }}>
+          {rebuttal.why_it_lands}
+        </div>
+      </div>
+      <div
+        style={{
+          display: "flex",
+          gap: "12px",
+          alignItems: "start",
+          padding: "12px",
+          background: "rgba(22, 163, 74, 0.08)",
+          borderLeft: "2px solid #16a34a",
+        }}
+      >
+        <span
+          style={{
+            fontFamily: "var(--font-mono, monospace)",
+            fontSize: "10px",
+            fontWeight: 700,
+            color: "#16a34a",
+            letterSpacing: "1.5px",
+            flexShrink: 0,
+            paddingTop: "2px",
+            minWidth: "80px",
+          }}
+        >
+          RESPONSE
+        </span>
+        <div style={{ fontSize: "13px", color: "var(--color-text)", lineHeight: 1.55 }}>
+          {rebuttal.response}
+        </div>
+      </div>
+    </div>
   )
 }
 
