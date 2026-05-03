@@ -6,7 +6,7 @@ import { BEATS, getBeat, memesByBeat, type BeatSlug } from "@/lib/memes-catalog"
 import { MemeCard } from "./MemeCard"
 
 /**
- * Per-beat meme grid · /memes/[beat]
+ * Per-beat meme grid · /distribution/cards/by-beat/[beat]
  *
  * Renders all memes tagged with the given beat slug. Each card has the
  * share-workflow actions wired up: copy caption, open in X compose,
@@ -35,11 +35,11 @@ export default async function PerBeatMemesPage({ params }: PageProps) {
         whatThisDoes={`${memes.length} meme${memes.length === 1 ? "" : "s"} for this beat. Each card has caption copy, X/Bluesky compose intents, and a send-to-queue action.`}
         rightNow={
           <span>
-            <Link href="/memes" style={{ color: "var(--color-steel)", textDecoration: "underline" }}>
+            <Link href="/distribution/cards/by-beat" style={{ color: "var(--color-steel)", textDecoration: "underline" }}>
               ← All beats
             </Link>
             {" · "}
-            <Link href="/memes/share-queue" style={{ color: "var(--color-steel)", textDecoration: "underline" }}>
+            <Link href="/distribution/cards/by-beat/share-queue" style={{ color: "var(--color-steel)", textDecoration: "underline" }}>
               Share Queue
             </Link>
             {" · "}

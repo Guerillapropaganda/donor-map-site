@@ -81,7 +81,7 @@ export default function BeatWorkspacePage({ params }: PageProps) {
             sub={`${beat.dossierPath} · ${(dossier.bytes / 1024).toFixed(1)} KB`}
             href={`/profile?slug=${encodeURIComponent(beat.dossierPath.replace(/^content\//, "").replace(/\.md$/, ""))}`}
           />
-          <ArtifactCard label={`Memes (${memes.length})`} sub={`tagged for ${beat.slug} in /memes catalog`} href={`/memes/${beat.slug}`} />
+          <ArtifactCard label={`Memes (${memes.length})`} sub={`tagged for ${beat.slug} in /distribution/cards/by-beat catalog`} href={`/distribution/cards/by-beat/${beat.slug}`} />
           <ArtifactCard label="Site Preview" sub="all routes for this beat at a glance" href="/site-preview" />
         </div>
       </Section>

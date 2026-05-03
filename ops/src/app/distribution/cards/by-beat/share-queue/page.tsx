@@ -7,7 +7,7 @@ import { getMeme, getBeat } from "@/lib/memes-catalog"
 import { intentUrl, profileUrl, PLATFORM_META, type Platform } from "@/lib/social-config"
 
 /**
- * Share queue · /memes/share-queue
+ * Share queue · /distribution/cards/by-beat/share-queue
  *
  * Cross-beat list of every queued meme. Each row: meme title, beat,
  * platform, status, caption preview, action buttons (approve / reject /
@@ -92,7 +92,7 @@ export default function ShareQueuePage() {
               </>
             )}
             {" · "}
-            <Link href="/memes" style={{ color: "var(--color-steel)", textDecoration: "underline" }}>
+            <Link href="/distribution/cards/by-beat" style={{ color: "var(--color-steel)", textDecoration: "underline" }}>
               ← Memes
             </Link>
           </span>
