@@ -15,7 +15,7 @@
  * site link. Hashtags are minimal; we let the receipts speak.
  */
 
-export type BeatSlug = "three-becerras" | "class-traitor" | "race-overview"
+export type BeatSlug = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "race-overview"
 
 export interface BeatMeta {
   slug: BeatSlug
@@ -55,17 +55,25 @@ export const BEATS: BeatMeta[] = [
     slug: "three-becerras",
     title: "Three Becerras",
     description:
-      "Xavier Becerra's 2026 California gubernatorial bid: 24 years of single-payer cosponsorships, three different 2026 messages, the donor list whose interests the softest message serves.",
+      "Xavier Becerra's 2026 California gubernatorial bid: 24 years of single-payer cosponsorships, three different 2026 messages, the donor list whose interests the softest message serves. Live at thedonormap.org/three-becerras.",
     prototypeUrl: "http://localhost:8096/three-becerras",
-    status: "unpublished",
+    status: "published",
+  },
+  {
+    slug: "not-the-bad-guy",
+    title: "Not the Bad Guy (Becerra · Chevron)",
+    description:
+      "$39,200 from Chevron USA Inc. landed in Becerra's California governor account on June 16, 2025 (the legal max). Two rivals signed pledges refusing fossil fuel money. He kept the check and called the company 'not the bad guy' at a public forum on April 29, 2026. Live at thedonormap.org/not-the-bad-guy.",
+    prototypeUrl: "http://localhost:8096/not-the-bad-guy",
+    status: "published",
   },
   {
     slug: "class-traitor",
     title: "Class Traitor (Steyer)",
     description:
-      "$31 million in regulated-industry money to defeat Tom Steyer in the 2026 California gubernatorial primary. Currently unlinked from public homepage pending forensic audit pass.",
+      "~$31 million in regulated-industry money to defeat Tom Steyer in the 2026 California gubernatorial primary: PG&E $10M, CA Realtors $5M, CA Chamber $5M, BIA $1M, coalition tracked ~$10M more. Live at thedonormap.org/class-traitor.",
     prototypeUrl: "http://localhost:8096/class-traitor",
-    status: "unpublished",
+    status: "published",
   },
   {
     slug: "race-overview",
@@ -77,6 +85,7 @@ export const BEATS: BeatMeta[] = [
 ]
 
 const BASE = "http://localhost:8096/memes-may-1"
+const SHARE_CARDS_BASE = "http://localhost:8096/share-cards-2026-05-03"
 
 export const MEMES: MemeEntry[] = [
   {
@@ -363,6 +372,79 @@ export const MEMES: MemeEntry[] = [
         { name: "2013-2016 · cosponsored", value: "0 times" },
       ],
       topbarTag: "BECERRA · CA GOV 2026",
+    },
+  },
+  // ─── 2026-05-03 share-card kit (3 master beat cards) ───────────────────
+  {
+    id: "may3-three-becerras-share",
+    title: "Three Becerras · master share card",
+    story: "Sunday-evening soft-launch · FB-group share kit",
+    beats: ["three-becerras"],
+    prototypeAnchor: "#card-1",
+    prototypeUrlBase: SHARE_CARDS_BASE,
+    caption:
+      "Xavier Becerra cosponsored single-payer bills seven times across four Congresses. In 2026 he gave three different answers in six weeks about whether he still supports it.\n\nThe donor list explains which version he settled on. Six healthcare-industry max contributors. About $207,000. Roughly 45% of his top-fifteen dollars.\n\nWhat he says depends on who is listening:\nthedonormap.org/three-becerras",
+    thumbnail: {
+      headlineLines: [
+        { text: "What he says depends on" },
+        { text: "who is listening.", highlight: { phrase: "who is listening", color: "red" } },
+      ],
+      deck: "Six healthcare-industry max donors fund the candidate whose softest message is the one their business is served by.",
+      receipts: [
+        { name: "Schaeffer (Anthem founder)", value: "$39,200" },
+        { name: "AltaMed (largest CA FQHC)", value: "$39,200" },
+        { name: "Molina Healthcare (former CEO)", value: "$49,700" },
+        { name: "Cantu (DHR Health co-founder)", value: "$39,200" },
+      ],
+      topbarTag: "BECERRA · CA GOV 2026",
+    },
+  },
+  {
+    id: "may3-not-the-bad-guy-share",
+    title: "Not the Bad Guy · master share card",
+    story: "Sunday-evening soft-launch · FB-group share kit",
+    beats: ["not-the-bad-guy"],
+    prototypeAnchor: "#card-2",
+    prototypeUrlBase: SHARE_CARDS_BASE,
+    caption:
+      "$39,200 from Chevron USA Inc. landed in Xavier Becerra's California governor account on June 16, 2025. The legal max.\n\nTwo of his rivals signed pledges refusing fossil fuel money. He took the check.\n\nTen months later, asked at a public forum why he kept it: \"They're not the bad guy.\"\n\nthedonormap.org/not-the-bad-guy",
+    thumbnail: {
+      headlineLines: [
+        { text: "He took the check." },
+        { text: "Then he", highlight: { phrase: "defended it", color: "red" } },
+        { text: "defended it." },
+      ],
+      deck: "$39,200 from Chevron. The legal max. Two rivals signed pledges refusing fossil fuel money. He kept it and called the company not the bad guy.",
+      receipts: [
+        { name: "Chevron USA Inc. → Becerra", value: "$39,200" },
+        { name: "Date filed", value: "Jun 16, 2025" },
+        { name: '"Not the bad guy" forum', value: "Apr 29, 2026" },
+      ],
+      topbarTag: "BECERRA · CA GOV 2026",
+    },
+  },
+  {
+    id: "may3-class-traitor-share",
+    title: "Class Traitor · master share card",
+    story: "Sunday-evening soft-launch · FB-group share kit",
+    beats: ["class-traitor"],
+    prototypeAnchor: "#card-3",
+    prototypeUrlBase: SHARE_CARDS_BASE,
+    caption:
+      "California's donor class organized against Tom Steyer in 2026.\n\nPG&E $10M. CA Realtors $5M. CA Chamber $5M. CA Building Industry Association $1M. Coalition tracked ~$10M more.\n\nApproximately $31 million from regulated-industry money against the only billionaire in the race who pledged to refuse fossil-fuel and corporate money.\n\nFPPC committee 1489677. Top 10 Contributors list, June 2026 primary.\n\nthedonormap.org/class-traitor",
+    thumbnail: {
+      headlineLines: [
+        { text: "$31 million to bury a" },
+        { text: "class traitor.", highlight: { phrase: "class traitor", color: "red" } },
+      ],
+      deck: "California's donor class organized against the only billionaire who pledged to refuse fossil-fuel and corporate money.",
+      receipts: [
+        { name: "PG&E (utility monopoly)", value: "$10M" },
+        { name: "CA Realtors", value: "$5M" },
+        { name: "CA Chamber of Commerce", value: "$5M" },
+        { name: "Coalition tracked", value: "~$10M" },
+      ],
+      topbarTag: "STEYER · CA GOV 2026",
     },
   },
 ]
