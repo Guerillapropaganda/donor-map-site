@@ -199,6 +199,81 @@ const MAHAN_SEEDS: VerificationSeed[] = [
   },
 ]
 
+const CARACE26_MAP_SEEDS: VerificationSeed[] = [
+  {
+    id: "carace26-cal-access-portal",
+    beat: "carace26-map",
+    label: "URL pass: Cal-Access primary records (root anchor for the entire map)",
+    detail:
+      "ROOT SPINE. Every dollar amount on the page traces to Cal-Access RCPT_CD or EXPN_CD line-level disclosure. The whole-field count (60 named donors, 78 edges, 15 hedges, 6 cross-party) depends on the bulk export still being live and parseable. Verify the portal is up and that the bulk export at campaignfinance.cdn.sos.ca.gov/dbwebexport.zip is the freshest available. Re-check immediately before public exposure since later filings can shift any of the dollar figures cited in §1, §3, §4, and §5.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/",
+  },
+  {
+    id: "carace26-sfchron-md-downs",
+    beat: "carace26-map",
+    label: "URL pass: SF Chronicle Mar 31 2026 — M&D Development + Downs Energy aggregation reporting",
+    detail:
+      "Anchors §3 cluster card on the M&D + Downs Energy $156,800 contribution to Bianco. SF Chronicle floated the FPPC common-control question; the per-Perplexity-verification update softened the 'sibling-managed' framing to 'linked Downs-family Corona entities' since primary records support officer overlap (Michael J. Downs CEO + Sharon Messner secretary/CFO via SOS Bizfile) but not independently the family relationship. Verify the article URL still resolves and that the body text supports the aggregation question we cite.",
+    lane: "Editor",
+    url: "https://www.sfchronicle.com/politics/article/contributions-bianco-violate-state-campaign-rules-22160676.php",
+  },
+  {
+    id: "carace26-cdp-tracker-iii-poll",
+    beat: "carace26-map",
+    label: "URL pass: CDP Voter Index Tracking Survey III topline PDF (Apr 30-May 2 2026)",
+    detail:
+      "Anchors the candidate-percentage values displayed on each candidate node in the D3 graph (Hilton 18%, Bianco 14%, Becerra 18%, Steyer 12%, Porter 8%, Mahan 7%, Villaraigosa 2%). Evitarus, fielded April 30 to May 2 2026, 1,200 likely voters, ±2.83% MOE, commissioned by California Democratic Party. Verify the PDF still resolves at this URL and that the topline percentages match what the graph displays.",
+    lane: "Editor",
+    url: "https://cadem.org/wp-content/uploads/2026/05/FINAL-CA-Voter-Index-Tracking-Survey-III-Topline-05.03.26.pdf",
+  },
+  {
+    id: "carace26-cal-access-anti-steyer-ie-1490270",
+    beat: "carace26-map",
+    label: "URL pass: Cal-Access · Anti-Steyer IE PAC (FPPC 1490270)",
+    detail:
+      "Anchors §2 War 1 (Energy + utilities vs. Steyer, $10,050,000 verified). The two anti-edges in the D3 graph (PG&E $9.975M + IBEW Local 1245 $75K) point to this committee. Same committee surfaces in /class-traitor and the related share cards. Verify the committee detail page still shows the anti-Steyer name structure and the F496/F497 contribution records match the cited amounts.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1490270",
+  },
+  {
+    id: "carace26-cal-access-becerra-working-families-ie-1490885",
+    beat: "carace26-map",
+    label: "URL pass: Cal-Access · Working Families for Healthy Communities Supporting Becerra IE PAC (FPPC 1490885)",
+    detail:
+      "Anchors the NEW $2M IE-PAC node on the graph (LIUNA Pacific Southwest Regional Organizing Coalition PAC $2,000,000 + CPCA Advocates $115,200), surfaced by the 2026-05-04 Perplexity verification round filed at content/Admin Notes/perplexity-research/2026-05-04-race-map-verification.md. F496 filed 2026-05-01. Comparable in scale to the $9.975M anti-Steyer attack. Verify the committee filer ID, the funder names, and the IE-spending total before public exposure.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1490885",
+  },
+  {
+    id: "carace26-cal-access-pro-mahan-ie-back-to-basics",
+    beat: "carace26-map",
+    label: "URL pass: Cal-Access · Back to Basics California IE PAC (Mahan)",
+    detail:
+      "Anchors the Mahan $0-candidate / $43M-IE callout below §4 and the entire Mahan donor row in the D3 graph (Moritz $2M, Seibel $1M, Merrill $1M, Collison $990K, Armstrong $500K, Pritzker $500K, Mehta $500K, Singerman $250K, Caruso $250K). Confirm committee ID, that the top funders match, and that the cumulative total supports the '$43M from 61 people' framing on the Mahan share card.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/?session=2025",
+  },
+  {
+    id: "carace26-fppc-form700-portal-pechanga-tribal-fairness",
+    beat: "carace26-map",
+    label: "URL pass: Cal-Access · Pechanga Band cross-party hedge transactions (Bianco + Becerra + Porter)",
+    detail:
+      "Anchors the editorially load-bearing 'first cross-party tribal hedge in the field' claim in §1 and the §5 closing argument. Pechanga gave $25K Bianco + $44.6K Becerra + $25K Porter per the 2026-05-04 verification round. Verify each of the three transactions in the donor-name search before this is exposed publicly. The 'first cross-party tribal hedge' framing is a strong factual claim that depends on no other tribe having previously cross-cut R+D in this race.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Contributors/",
+  },
+  {
+    id: "carace26-larsen-identity-dedup",
+    beat: "carace26-map",
+    label: "URL pass: Cal-Access · Larsen identity verification (Hilton + Porter same-person same-Ripple-title check)",
+    detail:
+      "Anchors the cross-party Larsen hedge claim in §1 and the share card. Per 2026-05-04 verification (perplexity-research/2026-05-04-race-map-verification.md): Hilton filer 1480425 reports Chris Larsen $39,200 SF 94109 Ripple 'Exec chair'; Porter filer 1479597 reports Christian Larsen $39,200 SF 94109 Ripple 'Executive Chairman'. High-confidence same-person match. The prior $117,600 Porter total was duplicate/amended display rows for one transaction (INC592). Verify by viewing both filer pages and confirming the address/employer fields match before publishing the cross-party Larsen claim.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480425",
+  },
+];
+
 const HILTON_SEEDS: VerificationSeed[] = [
   {
     id: "hilton-form700-portal",
@@ -1199,8 +1274,9 @@ const BEATS_UPCOMING: BeatRecord[] = [
     prototypeUrl: "http://localhost:8096/carace26-map",
     dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/_summary.md",
     status: "active",
-    verificationSeeds: [],
+    verificationSeeds: CARACE26_MAP_SEEDS,
     perplexityRounds: [
+      { name: "Race-map verification gaps + cross-cutter discovery (8 questions)", status: "applied — Larsen identity high-confidence same-person, M&D/Downs primary records confirm officer overlap, CRC + Leon separate transactions, $2M Working Families IE PAC for Becerra surfaced, Habematolel Villa total $59.2K not $79K, Pechanga 3-way cross-party tribal hedge surfaced, Spencer-Hilton donor confirmed Fresno developer not alt-right, McEntee verified. Filed at content/Admin Notes/perplexity-research/2026-05-04-race-map-verification.md.", date: "2026-05-04" },
       { name: "Porter donor + contradiction", status: "applied (Prompt #5) — surfaced Uber Innovation PAC $150K + plaintiff-bar concentration + Larsen Porter-Hilton hedge", date: "2026-05-03" },
       { name: "Porter app-based worker classification (follow-up)", status: "applied — confirmed PRO Act Yea vote 2021 + NO DATA on 2026 AB5/Prop 22 position + NO press has asked her about Uber money (perplexity-research/2026-05-03-porter-app-worker-classification-results.md)", date: "2026-05-03" },
       { name: "Porter Uber press-coverage accountability audit (meta-press)", status: "applied — quantified asymmetry: Porter-Uber 0 accountability articles, Becerra-Chevron 5+, Villaraigosa-fossil 4+, Mahan-Armstrong 3+ donor-base mentions but 0 direct asks. Surfaces Mahan-Armstrong as a parallel accountability gap. Uber Innovation PAC giving map: Newsom Yes on Prop 1 $58,500, oppose-DeMaio $100K, CA GOP State $25K, Women in Power PAC, others. Per Politico Feb 7 2024, Teamsters alarmed Uber would pour $30M into CA politics via this PAC. (perplexity-research/2026-05-03-porter-uber-press-coverage-results.md)", date: "2026-05-03" },
@@ -1222,7 +1298,13 @@ const BEATS_UPCOMING: BeatRecord[] = [
     editorialChecklist: [
       { label: "Target ship date", detail: "June 1, 2026 (Mon, primary-eve)", status: "pending" },
       { label: "Per-candidate Perplexity parity", detail: "All four follow-up prompts (Porter, Hilton-followup, Resnick, Coinbase, Mahan-labor) applied 2026-05-03. Two macro cross-hedge stories now anchored: Bay Area capital (Brin/Caruso/Moritz) + Agribusiness/water (Resnicks).", status: "done" },
-      { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
+      { label: "Prototype HTML built", detail: "content/carace26-map/index.html + prototype/beat-carace26-map.html · ~1700 lines. Iteration 0 (static SVG hero) → Iteration 1 (D3 force-directed graph, 60 donors / 78 edges / 15 hedges / 6 cross-party) → §0 explainer for normies → §5 'Why this matters' kill-shot per ChatGPT critique → Mahan $0 callout. U-shape candidate ring pinned, donors orbit. Tooltip transparency applied.", status: "done" },
+      { label: "Race-map verification round (8 questions)", detail: "Perplexity verification round filed 2026-05-04 closed: Larsen identity, M&D/Downs primary-source check, CRC + Leon dedup, $2M Becerra IE PAC discovery (Working Families), Habematolel Villa total correction $79K → $59K + Thurmond add-on $39K, Pechanga 3-way cross-party tribal hedge surfaced, Spencer-Hilton donor confirmed Fresno developer (not alt-right), McEntee no business relationship to Hilton/Whetstone. All applied to graph data + share card + §1 hedge table + §3 M&D framing.", status: "done" },
+      { label: "Anti-candidate IE coverage fairness audit", detail: "Currently the graph shows only PG&E + IBEW Local 1245 attacking Steyer ($10.05M total). Need a Perplexity round to confirm we're not missing other anti-candidate IE PACs in the field — Bianco, Hilton, Becerra, Porter, Mahan, Villaraigosa, Thurmond. If any candidate has IE money against them we don't show, that's a fairness gap. Prompt drafted in next-session priorities.", status: "pending" },
+      { label: "OG share-card render", detail: "Registered in scripts/render-og-images.cjs (slug: 'carace26-map', headline: 'Eight candidates. 55 donors. 8 hedge bets.'). NOT yet executed — needs `node scripts/render-og-images.cjs` from main repo (worktree has no node_modules). Headline counts may need updating to 60/15/6 to match current state before render.", status: "pending" },
+      { label: "ShareCardFull SVG component", detail: "ops/src/components/ShareCardFull.tsx · RaceMapGraphic() built · cream/yellow/red brutalist styling · cross-party hedge receipt band shows top 4 by combined dollar (Brin / PORAC / Highland / Pechanga 3-way). Mirror in prototype/share-cards-2026-05-03.html as card-5.", status: "done" },
+      { label: "Memes-catalog distribution kit", detail: "3 entries in memes-catalog.ts: may4-carace26-map-share (master, shareCardKind: 'carace26-map'), may4-carace26-map-meme-cross-party (5-row receipt-stack thumbnail), may4-carace26-map-meme-pge-bury (typography punchline tagged to /class-traitor too).", status: "done" },
+      { label: "Public-routes.json exposure", detail: "BLOCKED on David URL-pass + sign-off. Per memory rule feedback_no_auto_public_route.md — Code Claude does not add slug to data/public-routes.json without explicit David authorization. URL-pass runs at /active-beat/carace26-map in ops.", status: "blocked" },
     ],
   },
   {
