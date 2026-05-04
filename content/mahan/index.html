@@ -162,6 +162,33 @@ html, body {
 .beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
 .beat-footer .small { font-family: 'Space Mono', monospace; font-size: 11px; color: #777; letter-spacing: 1px; margin-top: 32px; }
 
+/* ─── "What this donor list buys" matrix ─── */
+.asks-block { margin: 36px 0 24px; }
+.asks-block-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--muted); text-align: center; margin-bottom: 8px; }
+.asks-block-sub { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 18px; color: var(--muted); text-align: center; margin-bottom: 28px; }
+.ask-row { margin-bottom: 22px; padding: 28px; background: var(--paper); border: 2px solid var(--black); }
+.ask-row.candidate-pattern { border-color: var(--red); border-width: 3px; background: #faecec; }
+.ask-row.candidate-pattern .ask-cluster { color: var(--red); }
+.ask-header { display: flex; justify-content: space-between; align-items: baseline; gap: 18px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+.ask-cluster { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); }
+.ask-dollar { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 24px; letter-spacing: -0.5px; color: var(--ink); flex-shrink: 0; }
+.ask-row.candidate-pattern .ask-dollar { color: var(--red); }
+.ask-donors { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1.5px; color: var(--muted); text-transform: uppercase; margin-top: 10px; line-height: 1.5; }
+.ask-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-top: 18px; }
+@media (max-width: 600px) { .ask-grid { grid-template-columns: 1fr; gap: 18px; } .ask-header { flex-direction: column; gap: 4px; } }
+.ask-cell-label { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+.ask-cell-text { font-size: 15px; line-height: 1.5; color: var(--ink); }
+.ask-row.candidate-pattern .ask-cell-text strong { background: var(--red); color: #fff; padding: 0 4px; font-weight: 700; }
+.asks-stinger { margin: 12px 0 8px; text-align: center; font-family: 'Instrument Serif', serif; font-style: italic; font-size: 19px; color: var(--ink); line-height: 1.4; }
+.asks-stinger strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; background: var(--red); color: #fff; padding: 2px 8px; }
+
+/* ─── Red AB5-recursion callout (red-bordered, paper bg, sits in labor section) ─── */
+.recursion-callout { margin: 36px 0; padding: 28px; background: #faecec; border-left: 6px solid var(--red); border-top: 2px solid var(--red); border-bottom: 2px solid var(--red); border-right: 2px solid var(--red); }
+.recursion-callout .label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--red); text-transform: uppercase; margin-bottom: 12px; }
+.recursion-callout .body { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 24px; line-height: 1.35; color: var(--ink); }
+.recursion-callout .body strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; background: var(--red); color: #fff; padding: 2px 8px; }
+.recursion-callout .footnote { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--red); font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1.5px; color: var(--muted); }
+
 @media (max-width: 800px) {
   .article-header h1 { font-size: 44px; letter-spacing: -1.5px; }
   .article-header .deck { font-size: 22px; }
@@ -389,6 +416,7 @@ html, body {
         <li><a href="#candidate">The candidate committee, where the small dollars are supposed to be</a></li>
         <li><a href="#crosshedge">The cross-hedge: same donors, different candidates</a></li>
         <li><a href="#thielorbit">The Thiel orbit, without Thiel</a></li>
+        <li><a href="#asks">What this donor list buys</a></li>
         <li><a href="#labor">Labor: a record, not a position</a></li>
         <li><a href="#why">Why this matters: lane three of the donor class</a></li>
         <li><a href="#open-questions">Open questions</a></li>
@@ -739,6 +767,90 @@ html, body {
       </figcaption>
     </figure>
 
+    <h2 id="asks">What this donor list <em>buys</em></h2>
+
+    <p>
+      Naming the donors is the first step. The next step is asking what each group is trying to get out of California, and what the candidate they are funding has actually said and done about it. Three of the donor clusters in Mahan's filings line up with specific California rules where the industry has already taken a public position. The candidate's own record on those rules is the second column.
+    </p>
+
+    <div class="asks-block">
+      <div class="asks-block-label">Donor cluster · what the industry wants · Mahan's record</div>
+      <div class="asks-block-sub">Three groups of donors. Three California rules they care about. One candidate's record next to each.</div>
+
+      <!-- Row 1: Crypto industry · Coinbase -->
+      <div class="ask-row">
+        <div class="ask-header">
+          <div class="ask-cluster">Crypto industry · Coinbase</div>
+          <div class="ask-dollar">$578,400</div>
+        </div>
+        <div class="ask-donors">Brian Armstrong, CEO Coinbase · Elena Nadolinski, Coinbase executive</div>
+        <div class="ask-grid">
+          <div>
+            <div class="ask-cell-label">What the industry wants</div>
+            <div class="ask-cell-text">
+              California's new rule for cryptocurrency companies, the Digital Financial Assets Law, takes effect <strong>July 1, 2026</strong> — the same month as the Democratic primary. Crypto exchanges have lobbied for the rule to apply more narrowly, for friendly state treatment of stablecoins, and for the next governor's office to set a soft enforcement posture.
+            </div>
+          </div>
+          <div>
+            <div class="ask-cell-label">Mahan's record</div>
+            <div class="ask-cell-text">
+              No 2026 statement on the Digital Financial Assets Law. No 2026 statement on stablecoin treatment. No reporter has put the question to him on the record.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Row 2: AI industry · Frontier-model VCs -->
+      <div class="ask-row">
+        <div class="ask-header">
+          <div class="ask-cluster">AI industry · Silicon Valley VCs</div>
+          <div class="ask-dollar">$4,250,000+</div>
+        </div>
+        <div class="ask-donors">Michael Moritz (Sequoia) · Brian Singerman (ex-Founders Fund) · Joe Lonsdale (Palantir / 8VC) · Reid Hoffman (PayPal / Greylock) · Vinod Khosla (Khosla Ventures)</div>
+        <div class="ask-grid">
+          <div>
+            <div class="ask-cell-label">What the industry wants</div>
+            <div class="ask-cell-text">
+              Block California from passing the kind of AI safety law Governor Newsom vetoed in 2024 (SB 1047). Keep enforcement of the new AI training-data rule (AB 2013, in effect January 1, 2026) light. Get governor's-office picks they like at the agencies that oversee AI.
+            </div>
+          </div>
+          <div>
+            <div class="ask-cell-label">Mahan's record</div>
+            <div class="ask-cell-text">
+              No 2026 statement on a successor to SB 1047. No 2026 statement on how he would enforce AB 2013. No 2026 statement on the kind of people he would appoint to AI-relevant agencies.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Row 3: Gig-economy VCs (THE PUNCHLINE — red border, candidate pattern) -->
+      <div class="ask-row candidate-pattern">
+        <div class="ask-header">
+          <div class="ask-cluster">Gig-economy VCs · Y Combinator + Susa</div>
+          <div class="ask-dollar">$1,000,000+</div>
+        </div>
+        <div class="ask-donors">Garry Tan, CEO Y Combinator · Jared Friedman, Michael Seibel, Paul Buchheit (YC partners) · Chad and Denise Byers (Susa Ventures)</div>
+        <div class="ask-grid">
+          <div>
+            <div class="ask-cell-label">What the industry wants</div>
+            <div class="ask-cell-text">
+              Keep app-based workers — the people who drive for Uber, deliver for DoorDash, shop for Instacart — classified as independent contractors instead of employees under California's AB5 and Prop 22 rules. Block the federal PRO Act. Y Combinator's portfolio companies are directly exposed to how those rules get written.
+            </div>
+          </div>
+          <div>
+            <div class="ask-cell-label">Mahan's record</div>
+            <div class="ask-cell-text">
+              <strong>His own 2022 mayoral campaign was caught misclassifying 18 of its workers under AB5. The state labor commissioner ordered them reclassified as employees.</strong> He cast the only city council vote against ratifying San Jose city workers' raises in 2023. He has not stated a 2026 position on AB5 or the PRO Act.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="asks-stinger">
+      Three groups of donors. Three California rules they want a particular outcome on. One candidate, with no public position on any of them, except <strong>a personal record that points the same direction the donors do.</strong>
+    </p>
+
     <p class="pull-quote">
       The donor class doesn't pick a candidate. It picks a position. <strong>Anti-labor. Anti-Steyer. Pro-tech-policy.</strong> Whichever centrist Democrat makes the November ballot is fine. Whichever Republican qualifies is fine as a hedge.
     </p>
@@ -770,9 +882,13 @@ html, body {
       There is one other piece of public record on Mahan and worker classification. In October 2022, before he took office as mayor, <a class="cite" href="https://sanjosespotlight.com/san-jose-mayoral-candidate-matt-mahan-admits-employee-classification-error-ab5-ab-5-california-labor-law-election-2022/" target="_blank" rel="noopener">the California state labor commissioner received a complaint that his 2022 mayoral campaign had misclassified eighteen workers as independent contractors</a> instead of employees. The roles included volunteer coordinator, deputy field director, communications director, and campaign manager. The complaint was settled by reclassifying the workers as employees under California AB5.
     </p>
 
-    <p>
-      The candidate's own 2022 campaign was found to have crossed the line California's worker-classification law draws. Three years later, the same candidate is funded heavily by the venture capital firms that invest in companies whose business models depend on California's worker-classification rules holding still. <strong>Coincidence is not a claim. Pattern is a claim. The pattern is here.</strong>
-    </p>
+    <aside class="recursion-callout">
+      <div class="label">↓ The pattern</div>
+      <div class="body">
+        Mahan's own 2022 campaign was caught misclassifying its workers under California's AB5 law. Three years later, his biggest donors are <strong>the venture funds whose investments depend on AB5 not being enforced.</strong>
+      </div>
+      <div class="footnote">Coincidence is not a claim. Pattern is a claim. The pattern is here.</div>
+    </aside>
 
     <h2 id="why">Why this matters: <em>lane three of the donor class</em></h2>
 
