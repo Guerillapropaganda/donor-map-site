@@ -151,6 +151,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "Race Map · cross-cutting donor overlay (DRAFT)",
+    url: "http://localhost:8096/carace26-map",
+    description: "Eight candidates. 55 named donors. 8 multi-candidate hedge bets. 17 industry tags. Interactive D3 force-directed graph at the top of the page lets you hover any candidate to see their donors, hover any donor to see which candidates they fund. Filters: Hedge bets (the 8 cross-cutters), Attacks only (the 2 anti-Steyer edges from PG&E + IBEW). Sections §1 hedge-bet table, §2 industry wars, §3 aggregation/cluster patterns, §4 candidate-by-candidate shape comparison. Sourced from per-candidate dossiers in content/Admin Notes/ca-gov-2026-dossiers/. Built 2026-05-04. URL-pass pending in /active-beat/carace26-map. Two sourcing flags from extraction agent: Chris Larsen identity (same person funding Hilton + Porter?), and M&D/Downs Energy industry-tag confidence.",
+    status: "draft-isolated",
+    category: "beat",
+  },
+  {
     title: "About",
     url: "http://localhost:8096/about",
     description: "About page curated from the original 'Behind the Map' content into beat format. Why this exists, the class-analysis lens, how the site works, the standards it holds itself to. Linked from the homepage nav and the beat-page nav.",

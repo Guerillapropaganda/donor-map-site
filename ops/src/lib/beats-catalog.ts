@@ -1190,15 +1190,15 @@ const BEATS_UPCOMING: BeatRecord[] = [
     ],
   },
   {
-    slug: "race-map",
-    publicSlug: "race-map",
-    title: "Race Map: cross-cutting donor overlay for primary-eve",
+    slug: "carace26-map",
+    publicSlug: "carace26-map",
+    title: "California 2026 Governor: Where the money actually flows",
     deck:
-      "Every CA gov primary candidate, every donor, every overlap. Primary-eve cross-cutting visualization showing which industries fund which candidates and where the donor pools overlap.",
-    prototypeFile: "(not yet built)",
-    prototypeUrl: "",
+      "Cross-candidate hedge bets, industry wars, shell aggregations. Eight candidates, 55 named donors, 8 multi-candidate hedges, 17 industry tags. Interactive D3 force-directed graph at the top — hover any candidate to see their donors, hover any donor to see which candidates they fund. Backed by per-candidate dossier extracts in content/Admin Notes/ca-gov-2026-dossiers/. Replaces the typography-only Iteration 0 hero with a dense, hoverable visualization that turns the editorial argument into a map readers can read.",
+    prototypeFile: "beat-carace26-map.html",
+    prototypeUrl: "http://localhost:8096/carace26-map",
     dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/_summary.md",
-    status: "upcoming",
+    status: "active",
     verificationSeeds: [],
     perplexityRounds: [
       { name: "Porter donor + contradiction", status: "applied (Prompt #5) — surfaced Uber Innovation PAC $150K + plaintiff-bar concentration + Larsen Porter-Hilton hedge", date: "2026-05-03" },

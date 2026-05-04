@@ -164,6 +164,15 @@ const CARDS = [
     headlineSize: 110,
     headlineFont: 'Inter-Black',
   },
+  {
+    slug: 'carace26-map',
+    out: path.join(SHARE_DIR, 'carace26-map.png'),
+    headline: 'Eight candidates. 55 donors. 8 hedge bets.',
+    deck: 'The whole 2026 California governor money map. Same donor, both parties, five times. Interactive at thedonormap.org.',
+    accent: '#fbbf24',
+    headlineSize: 64,
+    headlineFont: 'Inter-Black',
+  },
 ];
 
 function buildCard(card, fonts) {

@@ -15,7 +15,7 @@
  * site link. Hashtags are minimal; we let the receipts speak.
  */
 
-export type BeatSlug = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton" | "race-overview"
+export type BeatSlug = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton" | "steyer" | "mahan" | "carace26-map" | "race-overview"
 
 export interface BeatMeta {
   slug: BeatSlug
@@ -86,6 +86,30 @@ export const BEATS: BeatMeta[] = [
       "Steve Hilton's March 6, 2026 candidate Form 700 puts him personally on Schedule A-1 holding equity in Sierra Technologies, Inc. (FMV Over $1,000,000), a private AI company at $10B valuation. His spouse Rachel Whetstone is on Schedule C with Over $100,000 income from the same Sierra as head of communications. Hilton also discloses ongoing Fox News Network commentator income while campaigning. Live at thedonormap.org/hilton.",
     prototypeUrl: "http://localhost:8096/hilton",
     status: "published",
+  },
+  {
+    slug: "steyer",
+    title: "Steyer (AI policy: brother runs the lobby)",
+    description:
+      "Tom Steyer is running on tighter California AI rules. His brother Jim runs Common Sense Media, the named advocate behind the three biggest CA AI bills (AB-1064 vetoed, AB-1709 pending, AB-2023 pending). Tom and Kat Taylor have donated $5M+ to the lobby. CalMatters May 4 2026 reporting (Jeanne Kuang). The Democratic-side mirror to /hilton — same family-AI-policy conflict shape, opposite policy direction. Live at thedonormap.org/steyer.",
+    prototypeUrl: "http://localhost:8096/steyer",
+    status: "published",
+  },
+  {
+    slug: "mahan",
+    title: "Mahan ($43M IE PAC, 61 people)",
+    description:
+      "Matt Mahan has raised $0 in his own candidate committee. The $43M+ on his side flows entirely through Back to Basics California, an Independent Expenditure PAC he legally cannot coordinate with. Sequoia (Moritz $2M), Y Combinator (Seibel $1M), Stripe (Collison $990K), Coinbase (Armstrong $500K), plus Pritzker, Caruso, Mehta, Ashley Merrill. Sand Hill Road's preferred candidate, no direct fundraising at all. Live at thedonormap.org/mahan.",
+    prototypeUrl: "http://localhost:8096/mahan",
+    status: "published",
+  },
+  {
+    slug: "carace26-map",
+    title: "Race Map (cross-cutting donor overlay)",
+    description:
+      "Eight candidates, 55 named donors, 8 multi-candidate hedge bets, 17 industry tags. Interactive D3 force-directed graph at the top — hover any candidate to see their donors, hover any donor to see which candidates they fund. Sections: §1 hedge bets, §2 industry wars, §3 aggregation/cluster patterns, §4 candidate-by-candidate shape comparison. The editorial synthesis the site has been promising since launch.",
+    prototypeUrl: "http://localhost:8096/carace26-map",
+    status: "unpublished",
   },
   {
     slug: "race-overview",
@@ -533,6 +557,279 @@ export const MEMES: MemeEntry[] = [
       ],
       deck: "California's governor signs AI safety bills, appoints the people who enforce them, and decides what AI software California state agencies buy.",
       topbarTag: "HILTON · CA GOV 2026",
+    },
+  },
+  // ─── 2026-05-04 not-the-bad-guy gap-fill (master share existed; +2 thumbnails) ───
+  {
+    id: "may4-not-the-bad-guy-meme-timeline",
+    title: "Chevron check landed June 2025. Defense came April 2026.",
+    story: "Becerra-Chevron timeline · receipt-stack thumbnail",
+    beats: ["not-the-bad-guy"],
+    prototypeAnchor: "#meme-becerra-chevron-timeline",
+    prototypeUrlBase: BASE,
+    caption:
+      "Xavier Becerra's Chevron-money timeline, primary-source verified through Cal-Access:\n\n· Jun 16, 2025 · Chevron USA Inc. → Becerra for Governor 2026 · $39,200 (the legal max)\n· Apr 29, 2026 · Becerra at California Environmental Voters forum: \"They're not the bad guy.\"\n\nTen months between the check and the public defense of the company that wrote it. Two of his rivals signed pledges refusing fossil-fuel money in the same election.\n\nFPPC committee 1480025. Cal-Access RCPT_CD primary-source verified.\n\nthedonormap.org/not-the-bad-guy",
+    thumbnail: {
+      headlineLines: [
+        { text: "$39,200 from Chevron." },
+        { text: "Then ten months later:" },
+        { text: '"They\'re not the bad guy."', highlight: { phrase: "not the bad guy", color: "red" } },
+      ],
+      deck: "Two of his rivals signed pledges refusing fossil-fuel money. He kept the check and defended the company that wrote it.",
+      receipts: [
+        { name: "Chevron USA Inc. → Becerra", value: "$39,200" },
+        { name: "Date filed", value: "Jun 16, 2025" },
+        { name: "California Environmental Voters forum", value: "Apr 29, 2026" },
+        { name: "Months between", value: "10" },
+      ],
+      topbarTag: "BECERRA · CA GOV 2026",
+    },
+  },
+  {
+    id: "may4-not-the-bad-guy-meme-quote-punchline",
+    title: '"They\'re not the bad guy." quote-as-punchline',
+    story: "Becerra-Chevron · typography punchline",
+    beats: ["not-the-bad-guy"],
+    prototypeAnchor: "#meme-becerra-chevron-quote",
+    prototypeUrlBase: BASE,
+    caption:
+      "Xavier Becerra, on accepting $39,200 from Chevron USA in his 2026 California governor campaign, asked at a public forum on April 29, 2026:\n\n\"They're not the bad guy.\"\n\nThe forum was hosted by California Environmental Voters. The check landed ten months earlier. Two of his rivals declined that money in the same election.\n\nthedonormap.org/not-the-bad-guy",
+    thumbnail: {
+      headlineLines: [
+        { text: "He took" },
+        { text: "$39,200 from Chevron.", highlight: { phrase: "$39,200 from Chevron", color: "yellow" } },
+        { text: "His defense:" },
+        { text: '"They\'re not the bad guy."', highlight: { phrase: "not the bad guy", color: "red" } },
+      ],
+      deck: "Xavier Becerra at the California Environmental Voters forum, April 29, 2026. The check landed June 16, 2025.",
+      topbarTag: "BECERRA · CA GOV 2026",
+    },
+  },
+  // ─── 2026-05-04 Steyer AI-policy beat · 3-meme launch kit ─────────────
+  {
+    id: "may4-steyer-share",
+    title: "Steyer · master share card · brother + AI lobby parallel",
+    story: "Steyer AI-policy · FB-group + X share kit",
+    beats: ["steyer"],
+    prototypeAnchor: "#card-5",
+    prototypeUrlBase: SHARE_CARDS_BASE,
+    caption:
+      "Tom Steyer is running for California governor on tighter AI regulation.\n\nHis brother Jim Steyer founded Common Sense Media in 2003 and has been its CEO for 23 years. Common Sense is the named advocate behind the three biggest California AI bills:\n\n· AB-1064 (LEAD for Kids Act) · vetoed by Newsom Sept 2025\n· AB-1709 (covered platforms age restriction) · pending in Assembly\n· AB-2023 (companion chatbot safety + audits) · pending\n\nTom and Kat Taylor have donated $5,000,000+ to Common Sense Media per CalMatters May 4 2026 reporting (Jeanne Kuang).\n\nThe Republican-side mirror is at thedonormap.org/hilton: same shape of family-AI conflict, opposite policy direction.\n\nthedonormap.org/steyer",
+    thumbnail: {
+      headlineLines: [
+        { text: "Tom Steyer wants" },
+        { text: "tighter AI rules", highlight: { phrase: "tighter AI rules", color: "yellow" } },
+        { text: "in California." },
+        { text: "His brother runs", highlight: { phrase: "His brother runs", color: "blue" } },
+        { text: "the lobby that writes them.", highlight: { phrase: "the lobby that writes them", color: "red" } },
+      ],
+      deck: "Common Sense Media, founded by Jim Steyer, is the named advocate behind AB-1064, AB-1709, and AB-2023. Tom and Kat Taylor have donated $5M+ to it.",
+      receipts: [
+        { name: "AB-1064 LEAD for Kids · Bauer-Kahan", value: "VETOED" },
+        { name: "AB-1709 platform age restriction", value: "PENDING" },
+        { name: "AB-2023 companion chatbot safety", value: "PENDING" },
+        { name: "Steyer family → Common Sense Media", value: "$5M+" },
+      ],
+      topbarTag: "STEYER · CA GOV 2026",
+    },
+  },
+  {
+    id: "may4-steyer-meme-three-bills",
+    title: "Three California AI bills, one named advocate, one family backing it",
+    story: "Steyer AI-policy · receipt-stack thumbnail",
+    beats: ["steyer"],
+    prototypeAnchor: "#meme-steyer-three-bills",
+    prototypeUrlBase: BASE,
+    caption:
+      "California's three biggest AI bills, all currently moving through Sacramento, all with the same named advocate organization:\n\n· AB-1064 LEAD for Kids Act (chatbot age-gate for minors) · vetoed by Newsom September 2025\n· AB-1709 covered platforms age restriction under 16 · pending in Assembly\n· AB-2023 companion chatbot safety + annual third-party audits · pending\n\nThe named advocate on all three: Common Sense Media. Founded 2003 by Jim Steyer. CEO for 23 years.\n\nTom Steyer and his wife Kat Taylor have donated $5,000,000+ to Common Sense Media per CalMatters May 4, 2026 reporting.\n\nthedonormap.org/steyer",
+    thumbnail: {
+      headlineLines: [
+        { text: "Three California AI bills." },
+        { text: "One named advocate.", highlight: { phrase: "One named advocate", color: "yellow" } },
+        { text: "One family", highlight: { phrase: "One family", color: "blue" } },
+        { text: "backing it.", highlight: { phrase: "backing it", color: "red" } },
+      ],
+      deck: "Tom Steyer is running on tighter AI rules. His brother runs the lobby pushing them. The family has donated $5M+ to that lobby.",
+      receipts: [
+        { name: "AB-1064 LEAD for Kids", value: "VETOED" },
+        { name: "AB-1709 age restriction <16", value: "PENDING" },
+        { name: "AB-2023 chatbot safety", value: "PENDING" },
+        { name: "Common Sense Media · CEO Jim Steyer", value: "23 years" },
+      ],
+      topbarTag: "STEYER · CA GOV 2026",
+    },
+  },
+  {
+    id: "may4-steyer-meme-five-million",
+    title: "$5 million into the lobby. Three bills. Same family.",
+    story: "Steyer AI-policy · structural punchline",
+    beats: ["steyer"],
+    prototypeAnchor: "#meme-steyer-five-million",
+    prototypeUrlBase: BASE,
+    caption:
+      "Tom Steyer and Kat Taylor have donated $5,000,000+ to Common Sense Media, the nonprofit founded by Tom's brother Jim Steyer in 2003.\n\nThat's the named advocate behind California's three most consequential AI bills currently in the legislature: AB-1064 (vetoed), AB-1709 (pending), AB-2023 (pending).\n\nTom Steyer is running for California governor on a platform of tighter AI regulation.\n\nThe California governor signs the bills the legislature passes. CalMatters published the $5M-plus figure on May 4, 2026 (Jeanne Kuang byline).\n\nthedonormap.org/steyer",
+    thumbnail: {
+      headlineLines: [
+        { text: "$5 million", highlight: { phrase: "$5 million", color: "yellow" } },
+        { text: "into the lobby." },
+        { text: "Three bills." },
+        { text: "Same family.", highlight: { phrase: "Same family", color: "red" } },
+      ],
+      deck: "Tom Steyer and Kat Taylor → Common Sense Media (founded by brother Jim Steyer). Common Sense → AB-1064, AB-1709, AB-2023.",
+      topbarTag: "STEYER · CA GOV 2026",
+    },
+  },
+  // ─── 2026-05-04 Mahan IE-PAC beat · 3-meme launch kit ─────────────────
+  {
+    id: "may4-mahan-share",
+    title: "Mahan · master share card · $43M IE PAC, $0 candidate",
+    story: "Mahan structure · FB-group + X share kit",
+    beats: ["mahan"],
+    prototypeAnchor: "#card-6",
+    prototypeUrlBase: SHARE_CARDS_BASE,
+    caption:
+      "Matt Mahan has raised $0 in his own candidate-controlled committee.\n\nThe $43,000,000+ on his side flows entirely through Back to Basics California, an Independent Expenditure PAC he is legally barred from coordinating with.\n\nTop disclosed funders to date:\n\n· Michael Moritz (Sequoia Capital) · $2,000,000\n· Michael Seibel (Y Combinator) · $1,000,000\n· Ashley Merrill (Lunya / Merrill household) · $1,000,000\n· Patrick Collison (Stripe) · $990,000\n· Brian Armstrong (Coinbase) · $500,000\n· John Pritzker (Pritzker family) · $500,000\n· Neil Mehta (Greenoaks Capital) · $500,000\n· Brian Singerman (Founders Fund) · $250,000\n· Rick Caruso (Caruso Affiliated) · $250,000\n\n61 people wrote almost all of it.\n\nthedonormap.org/mahan",
+    thumbnail: {
+      headlineLines: [
+        { text: "$43,000,000", highlight: { phrase: "$43,000,000", color: "yellow" } },
+        { text: "for Matt Mahan." },
+        { text: "61 people", highlight: { phrase: "61 people", color: "red" } },
+        { text: "wrote almost all of it." },
+      ],
+      deck: "Mahan has raised zero dollars in his own candidate committee. All money flows through an outside spending PAC he legally cannot coordinate with.",
+      receipts: [
+        { name: "Moritz · Sequoia", value: "$2M" },
+        { name: "Seibel · Y Combinator", value: "$1M" },
+        { name: "Merrill · Lunya / household", value: "$1M" },
+        { name: "Collison · Stripe", value: "$990K" },
+        { name: "Armstrong · Coinbase", value: "$500K" },
+      ],
+      topbarTag: "MAHAN · CA GOV 2026",
+    },
+  },
+  {
+    id: "may4-mahan-meme-zero-from-voters",
+    title: "$0 from voters. $43M from Sand Hill Road.",
+    story: "Mahan structure · receipt-stack thumbnail",
+    beats: ["mahan"],
+    prototypeAnchor: "#meme-mahan-zero-voters",
+    prototypeUrlBase: BASE,
+    caption:
+      "Matt Mahan, candidate-controlled-committee fundraising for the 2026 California governor's race, total to date: $0.\n\nMatt Mahan, Independent Expenditure PAC funding from the Silicon Valley billionaire class: $43,000,000+.\n\nThe IE PAC, Back to Basics California, is legally barred from coordinating with the candidate. Federal Fairshake PAC (Coinbase-backed) spent $10M against Katie Porter in 2024 using the same model.\n\nFPPC IE PAC committee verified through Cal-Access. Top funder list: Sequoia (Moritz $2M), Y Combinator (Seibel $1M), Stripe (Collison $990K), Coinbase (Armstrong $500K), plus Pritzker, Caruso, Mehta, Ashley Merrill.\n\nthedonormap.org/mahan",
+    thumbnail: {
+      headlineLines: [
+        { text: "$0", highlight: { phrase: "$0", color: "red" } },
+        { text: "from voters." },
+        { text: "$43,000,000", highlight: { phrase: "$43,000,000", color: "yellow" } },
+        { text: "from Sand Hill Road." },
+      ],
+      deck: "Mahan has not raised a candidate-committee dollar in this cycle. Every cent on his side comes through an outside spending PAC.",
+      receipts: [
+        { name: "Mahan candidate committee · raised", value: "$0" },
+        { name: "Back to Basics CA · IE PAC", value: "$43M+" },
+        { name: "Total disclosed donors to IE PAC", value: "61" },
+        { name: "Top single contribution (Moritz)", value: "$2M" },
+      ],
+      topbarTag: "MAHAN · CA GOV 2026",
+    },
+  },
+  {
+    id: "may4-mahan-meme-sand-hill-road",
+    title: "Same crypto money that opposed Porter federally now backs Mahan",
+    story: "Mahan structure · structural punchline · Coinbase parallel",
+    beats: ["mahan"],
+    prototypeAnchor: "#meme-mahan-coinbase-parallel",
+    prototypeUrlBase: BASE,
+    caption:
+      "Brian Armstrong, CEO of Coinbase, gave $500,000 to Back to Basics California, the IE PAC backing Matt Mahan.\n\nIn 2024, Coinbase's federal Fairshake PAC spent more than $10,000,000 attacking Katie Porter's US Senate campaign.\n\nNow Coinbase money is backing Mahan against Porter in the same 2026 California governor's race.\n\nThe federal model and the state model are the same: same companies, same operatives, same candidate selection. The only thing that changes is the disclosure name.\n\nthedonormap.org/mahan",
+    thumbnail: {
+      headlineLines: [
+        { text: "Same crypto money" },
+        { text: "spent $10M", highlight: { phrase: "spent $10M", color: "red" } },
+        { text: "against Porter in 2024." },
+        { text: "Now backing", highlight: { phrase: "Now backing", color: "yellow" } },
+        { text: "Mahan against her." },
+      ],
+      deck: "Coinbase CEO Brian Armstrong → Back to Basics California IE PAC → $500,000. Same company, same operatives, same candidate selection.",
+      topbarTag: "MAHAN · CA GOV 2026",
+    },
+  },
+  // ─── 2026-05-04 Race Map (carace26-map) · 3-meme launch kit ───────────
+  {
+    id: "may4-carace26-map-share",
+    title: "Race Map · master share card · whole field, all flows",
+    story: "Race Map launch · FB-group + X share kit",
+    beats: ["carace26-map"],
+    prototypeAnchor: "#card-7",
+    prototypeUrlBase: SHARE_CARDS_BASE,
+    caption:
+      "The 2026 California governor's race, every named donor, every overlap, mapped:\n\n· Eight candidates (Hilton, Bianco, Becerra, Steyer, Porter, Mahan, Villaraigosa, Thurmond)\n· 55 named donors at the institutional + max-out tier\n· 8 multi-candidate hedge bets — donors funding two or more candidates in the same race\n· 17 industry tags (tech VC, crypto, oil, police, real estate, plaintiffs, healthcare, utility, labor, agriculture, entertainment, finance, tribal, education, media, dark money, plus aggregation clusters)\n\nFive of the 8 hedges cross the R/D line. Same donor, both sides, same race.\n\nThe whole money map. Hover any candidate to see their donors. Hover any donor to see which candidates they fund.\n\nthedonormap.org/carace26-map",
+    thumbnail: {
+      headlineLines: [
+        { text: "Eight candidates." },
+        { text: "55 named donors.", highlight: { phrase: "55 named donors", color: "yellow" } },
+        { text: "8 hedge bets.", highlight: { phrase: "8 hedge bets", color: "red" } },
+      ],
+      deck: "The whole 2026 California governor's race, every overlap mapped. Five of the eight hedges cross the R/D line.",
+      receipts: [
+        { name: "Brin · Hilton (R) + Mahan (D)", value: "$1.04M" },
+        { name: "Larsen · Hilton (R) + Porter (D)", value: "$157K" },
+        { name: "Highland Fairview · Bianco (R) + Villaraigosa (D)", value: "$112K" },
+        { name: "PORAC · Bianco (R) + Villaraigosa (D)", value: "$117K" },
+      ],
+      topbarTag: "CA GOV 2026 · RACE MAP",
+    },
+  },
+  {
+    id: "may4-carace26-map-meme-cross-party",
+    title: "Same person. Both parties. Five hedges.",
+    story: "Race Map · cross-party hedge receipt-stack",
+    beats: ["carace26-map"],
+    prototypeAnchor: "#meme-racemap-cross-party",
+    prototypeUrlBase: BASE,
+    caption:
+      "Five named donors are funding both a Republican AND a Democrat in the 2026 California governor's race:\n\n· Sergey Brin (Google co-founder) · Hilton (R) $39K + Mahan (D) $1M IE PAC · $1.04M total\n· Christian Larsen (Ripple chairman) · Hilton (R) $39K + Porter (D) $118K · $157K total\n· Joe Lonsdale (Palantir / 8VC) · Hilton (R) $25K + Mahan (D) $78K · $103K total\n· Highland Fairview (Iddo Benzeevi) · Bianco (R) $39K + Villaraigosa (D) $73K · $112K total\n· PORAC PAC · Bianco (R) $39K + Villaraigosa (D) $78K · $117K total\n\nDonor-class hedging signals what the money actually wants: a policy outcome that's neutral on partisan label, specific on industry interest.\n\nCal-Access RCPT_CD primary-source verified.\n\nthedonormap.org/carace26-map",
+    thumbnail: {
+      headlineLines: [
+        { text: "Same person." },
+        { text: "Both parties.", highlight: { phrase: "Both parties", color: "red" } },
+        { text: "Five hedges.", highlight: { phrase: "Five hedges", color: "yellow" } },
+      ],
+      deck: "Cross-party donor-class hedging in the 2026 California governor's race. Same donor writes a check to both a Republican and a Democrat.",
+      receipts: [
+        { name: "Brin · Hilton + Mahan", value: "$1.04M" },
+        { name: "Larsen · Hilton + Porter", value: "$157K" },
+        { name: "Lonsdale · Hilton + Mahan", value: "$103K" },
+        { name: "Highland Fairview · Bianco + Villa", value: "$112K" },
+        { name: "PORAC · Bianco + Villa", value: "$117K" },
+      ],
+      topbarTag: "CA GOV 2026 · RACE MAP",
+    },
+  },
+  {
+    id: "may4-carace26-map-meme-pge-bury",
+    title: "$10M from one utility to bury one candidate",
+    story: "Race Map · single-industry-attack punchline · PG&E vs Steyer",
+    beats: ["carace26-map", "class-traitor"],
+    prototypeAnchor: "#meme-racemap-pge-bury",
+    prototypeUrlBase: BASE,
+    caption:
+      "Pacific Gas & Electric Corporation has spent $9,975,000 on the anti-Steyer Independent Expenditure PAC in the 2026 California governor's race. IBEW Local 1245 (PG&E's own union) added $75,000 to the same effort.\n\nVerified anti-Steyer total from utility-and-trades: $10,050,000.\n\nPG&E pleaded guilty to 84 counts of involuntary manslaughter for the 2018 Camp Fire. Tom Steyer is the only major candidate in the 2026 race who built his pre-political brand on holding utilities accountable for climate disasters.\n\nThe utility behind the Camp Fire is funding the campaign against utility-and-climate accountability. FPPC committee 1490270.\n\nthedonormap.org/carace26-map\nthedonormap.org/class-traitor",
+    thumbnail: {
+      headlineLines: [
+        { text: "$10,050,000", highlight: { phrase: "$10,050,000", color: "red" } },
+        { text: "from one utility" },
+        { text: "to bury", highlight: { phrase: "to bury", color: "yellow" } },
+        { text: "one candidate." },
+      ],
+      deck: "PG&E pleaded guilty to 84 counts of involuntary manslaughter for the 2018 Camp Fire. Tom Steyer is the only candidate running on utility accountability.",
+      receipts: [
+        { name: "PG&E Corp · 4/10 + 4/20", value: "$9,975,000" },
+        { name: "IBEW 1245 · PG&E's own union", value: "$75,000" },
+        { name: "Verified anti-Steyer total", value: "$10,050,000" },
+        { name: "FPPC committee", value: "1490270" },
+      ],
+      topbarTag: "CA GOV 2026 · RACE MAP",
     },
   },
 ]
