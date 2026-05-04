@@ -138,6 +138,15 @@ const CARDS = [
     headlineFont: 'Inter-Black',
   },
   {
+    slug: 'steyer',
+    out: path.join(SHARE_DIR, 'steyer.png'),
+    headline: 'He wants tighter AI rules. His brother runs the lobby that writes them.',
+    deck: "Tom Steyer's family has donated at least $5 million to Common Sense Media. The CA bills it advocates for would land on the next governor's desk.",
+    accent: '#1d4ed8',
+    headlineSize: 56,
+    headlineFont: 'Inter-Black',
+  },
+  {
     slug: 'holdings-hilton-2026',
     out: path.join(SHARE_DIR, 'holdings-hilton-2026.png'),
     headline: "Steve Hilton's full Form 700 portfolio.",

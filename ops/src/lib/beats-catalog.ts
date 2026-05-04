@@ -337,6 +337,81 @@ const HILTON_SEEDS: VerificationSeed[] = [
   },
 ]
 
+const STEYER_SEEDS: VerificationSeed[] = [
+  {
+    id: "steyer-calmatters-may-4",
+    beat: "steyer",
+    label: "URL pass: CalMatters May 4 2026 — the family-financial-tie article",
+    detail:
+      "THE FOUNDATIONAL EXTERNAL SOURCE. Jeanne Kuang's May 4, 2026 piece is the primary citation for: (1) Tom + Kat Steyer have donated AT LEAST $5 MILLION to Common Sense Media, (2) Jim Steyer is founder/CEO since 2003, (3) Common Sense Media is the named advocate behind AB-1064, AB-1709, AB-2023, (4) Newsom vetoed AB-1064, (5) Bay Area Council quote (Peter Leroe-Munoz), (6) Consumer Watchdog quote (Jamie Court), (7) Tom Steyer's response. Verify the article still resolves at this URL and the $5M figure + the three bill numbers + the two named-figure quotes are reproduced in the article text.",
+    lane: "Editor",
+    url: "https://calmatters.org/politics/2026/05/tom-steyer-brother-common-sense/",
+  },
+  {
+    id: "steyer-leginfo-ab1064",
+    beat: "steyer",
+    label: "URL pass: California Legislative Information · AB-1064 (2025-2026)",
+    detail:
+      "The 'Leading Ethical AI Development (LEAD) for Kids Act'. Bauer-Kahan principal author, Pellerin coauthor. Enrolled September 15, 2025. CalMatters reports it was vetoed by Newsom. Verify the bill exists at this URL, that the Legislative Counsel's Digest matches what the beat describes (chatbot age-gate for minors, prohibits encouragement of self-harm/suicide/violence/eating disorders, requires actual knowledge then reasonable determination of user age). Also verify the veto status if possible — leginfo's status field should show veto if it occurred.",
+    lane: "Editor",
+    url: "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1064",
+  },
+  {
+    id: "steyer-leginfo-ab1709",
+    beat: "steyer",
+    label: "URL pass: California Legislative Information · AB-1709 (2025-2026)",
+    detail:
+      "'Covered platforms: age restriction: e-Safety Advisory Commission'. Authors: Lowenthal, Alvarez, Bauer-Kahan, Bonta, Hoover, Muratsuchi, Patterson, Wicks; Senator Allen. Last amended April 23 2026. The bill prohibits social media platforms from allowing users under 16 to create accounts. Verify the bill exists at this URL and the Counsel's Digest matches the beat text. The 8-author bipartisan-ish lineup is referenced in the beat; verify both major parties are represented (Patterson is Republican).",
+    lane: "Editor",
+    url: "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB1709",
+  },
+  {
+    id: "steyer-leginfo-ab2023",
+    beat: "steyer",
+    label: "URL pass: California Legislative Information · AB-2023 (2025-2026)",
+    detail:
+      "'Companion chatbots: children's safety'. Wicks principal author + Bauer-Kahan; Sen. Padilla principal coauthor; Lowenthal coauthor. Last amended April 27 2026. Annual chatbot risk assessments, crisis protocols, parental controls; independent audits begin 180 days after AG regs (expected 2028); civil enforcement by AG and injured children. Verify the bill exists at this URL and the Counsel's Digest matches the beat text.",
+    lane: "Editor",
+    url: "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2023",
+  },
+  {
+    id: "steyer-commonsense-org",
+    beat: "steyer",
+    label: "URL pass: Common Sense Media organization homepage",
+    detail:
+      "The organizational homepage. Used as a Common Sense Media identity confirmation citation in the beat. Not the foundational source for any factual claim — those go through CalMatters and leginfo. But verify the URL still resolves and Jim Steyer is identifiable on the About / Leadership pages.",
+    lane: "Editor",
+    url: "https://www.commonsensemedia.org/",
+  },
+  {
+    id: "steyer-propublica-990",
+    beat: "steyer",
+    label: "URL pass: ProPublica Nonprofit Explorer · Common Sense Media Form 990 search",
+    detail:
+      "ProPublica Nonprofit Explorer search landing. Used in the beat as a 'where readers can find Form 990 filings' citation, not as a primary-source-of-financial-claims citation. Verify the URL still resolves and the search-by-name interface still works for 'Common Sense Media'.",
+    lane: "Editor",
+    url: "https://projects.propublica.org/nonprofits/",
+  },
+  {
+    id: "steyer-scotus-brown-emar",
+    beat: "steyer",
+    label: "URL pass: Brown v. Entertainment Merchants Association · 2011 SCOTUS opinion PDF",
+    detail:
+      "U.S. Supreme Court opinion striking down California's 2005 violent-video-game-restriction law on First Amendment grounds. Cited in the beat as the historical context that Common Sense's 2005 first major California legislative push was struck down. Verify the URL resolves to the actual opinion PDF on supremecourt.gov.",
+    lane: "Editor",
+    url: "https://www.supremecourt.gov/opinions/10pdf/08-1448.pdf",
+  },
+  {
+    id: "steyer-evitarus-may2-tweet",
+    beat: "steyer",
+    label: "URL pass: Evitarus / Ashley Zavala May 2 polling tweet",
+    detail:
+      "The Evitarus tracker polling number (Tom Steyer at 12 percent statewide, May 2 2026) is referenced in the lede. Verify the polling figure is sourced cleanly. Ashley Zavala's @ZavalaA Twitter/X account broke the topline. Optionally substitute a more durable URL (Evitarus's own report PDF if available, or the KCRA write-up). The X profile URL is a placeholder anchor; the polling claim itself should land on a non-social URL if you have one.",
+    lane: "Editor",
+    url: "https://x.com/ZavalaA",
+  },
+]
+
 const THREE_BECERRAS_SEEDS: VerificationSeed[] = [
   {
     id: "becerra-kqed-url",
@@ -1016,6 +1091,37 @@ const BEATS_UPCOMING: BeatRecord[] = [
       { label: "Prototype HTML", detail: "content/hilton/index.html + prototype/beat-hilton.html · ~625 lines. 3 Form 700 cards, 1 SVG (Sierra-OpenAI orbit), 2 receipts tables (top-15 + Lighthouse), 14 sources.", status: "done" },
       { label: "Public-routes.json exposure", detail: "BLOCKED on David URL-pass. Per memory rule feedback_no_auto_public_route.md — Code Claude does not add slug to data/public-routes.json without explicit David authorization. URL-pass runs at /active-beat/hilton in ops.", status: "blocked" },
       { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs once URL-pass clears", status: "pending" },
+    ],
+  },
+  {
+    slug: "steyer",
+    publicSlug: "steyer",
+    title: "Tom Steyer wants tighter AI rules. His brother runs the lobby that writes them.",
+    deck:
+      "Tom Steyer is running for California governor on tighter AI regulation. His brother Jim Steyer founded Common Sense Media in 2003 and has been its CEO for 23 years. Common Sense is the named advocate behind AB-1064 (LEAD for Kids Act, vetoed by Newsom in fall 2025), AB-1709 (social media age limit under 16, pending in Assembly), and AB-2023 (companion chatbot safety + annual third-party audits beginning 2028, pending). Tom and his wife Kat Taylor have donated at least $5M to Common Sense Media per CalMatters May 4 2026 reporting (Jeanne Kuang byline). Bay Area Council quote: 'Common Sense Media would have an outsized influence on California tech policy if Mr. Steyer ends up becoming the governor.' Republican-side mirror is at /hilton (Hilton + Whetstone + Sierra). This story is the Democratic-side parallel: same shape of family-AI conflict, opposite policy direction. The mechanisms differ (Hilton owns equity directly; Steyer's family donates to a nonprofit). The structural-conflict question is what they share.",
+    prototypeFile: "beat-steyer.html",
+    prototypeUrl: "http://localhost:8096/steyer",
+    dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/steyer.md",
+    status: "active",
+    verificationSeeds: STEYER_SEEDS,
+    perplexityRounds: [
+      { name: "CalMatters May 4 2026 article (Jeanne Kuang) — re-verified for exact bill numbers and quotes", status: "applied — confirmed AB-1064 / AB-1709 / AB-2023 from 2025-2026 session, Newsom veto on AB-1064, $5M family donations, Bay Area Council and Consumer Watchdog quotes, Tom Steyer's response", date: "2026-05-04" },
+      { name: "Bill verification round — leginfo.legislature.ca.gov direct fetch of all three bills", status: "applied — AB-1064 LEAD for Kids Act (Bauer-Kahan, enrolled 2025-09-15), AB-1709 covered platforms age restriction (Lowenthal et al + Sen Allen, last amended 2026-04-23), AB-2023 companion chatbots children's safety (Wicks + Bauer-Kahan + Sen Padilla, last amended 2026-04-27)", date: "2026-05-04" },
+    ],
+    auditPasses: [],
+    editorialChecklist: [
+      { label: "Headline locked", detail: '"Tom Steyer wants tighter AI rules in California. His brother runs the lobby that writes them." Mirrors the /hilton hook structure (candidate stated position followed by family-financial-tie revelation).', status: "done" },
+      { label: "Target ship date", detail: "Pending URL-pass and David sign-off. CalMatters published May 4 2026 — news-cycle window narrowing through June 2 primary.", status: "pending" },
+      { label: "Three-card spine callout", detail: "Tom (the candidate, blue spine) + Jim (the brother) + the bills (AB-1064 / AB-1709 / AB-2023). Status badges VETOED · PENDING · PENDING. Family-donation figure $5M+ on the candidate card.", status: "done" },
+      { label: "Bill detail section — three subsection cards with verified leginfo provisions", detail: "Each bill: official title, what it would do, who introduced it, status, direct link to leginfo. Vetoed bill (AB-1064) red-bordered. Pending bills (AB-1709, AB-2023) blue-bordered. All provisions quoted from the Legislative Counsel's Digest.", status: "done" },
+      { label: "Consequences section — what each bill would actually do", detail: "Three rows (one per bill), each split into two cells: what changes for users / what changes for platforms or AI operators. Closing red-bordered structural-point row showing what all three share and where Common Sense fits in the regulatory ecosystem.", status: "done" },
+      { label: "Named-figure quotes — Bay Area Council + Consumer Watchdog + Tom Steyer", detail: "Three pull-quotes reproduced from CalMatters: Peter Leroe-Munoz (Bay Area Council, the conflict-flag quote), Jamie Court (Consumer Watchdog, the brother-policy-difference framing), Tom Steyer (the 'I don't slavishly follow him' response).", status: "done" },
+      { label: "See-also block linking to /hilton", detail: "Red-bordered see-also card at the end framing the Hilton story as the Republican-side mirror. Brief paragraph (does not redo Hilton's content), CTA button to /hilton.", status: "done" },
+      { label: "Boundary block — six explicit non-claims", detail: "Not illegal. Not corruption. Not quid pro quo. Not a critique of Common Sense Media as an organization. Not an accusation against Jim. Not equating to Hilton factually (Steyer doesn't own the nonprofit; Hilton owns equity in a for-profit). Each boundary explicit on the page.", status: "done" },
+      { label: "Sources block", detail: "8 sources: CalMatters article, three leginfo bill pages, Common Sense Media homepage, ProPublica Form 990 search, Brown v. EMA SCOTUS opinion, Hilton cross-reference. Methodology paragraph at the bottom.", status: "done" },
+      { label: "Prototype HTML", detail: "content/steyer/index.html + prototype/beat-steyer.html · ~530 lines. 3 spine cards, 3 bill cards (one per bill), 3 consequence rows + 1 structural-point row, 3 pull quotes, 1 see-also block, 1 boundary block, 8 sources.", status: "done" },
+      { label: "Public-routes.json exposure", detail: "BLOCKED on David URL-pass. Per memory rule feedback_no_auto_public_route.md — Code Claude does not add slug to data/public-routes.json without explicit David authorization. URL-pass runs at /active-beat/steyer in ops.", status: "blocked" },
+      { label: "OG share card", detail: "Pending — render via scripts/render-og-images.cjs after URL-pass clears. Suggested treatment: typography card with the parallel hook structure, similar to the Hilton typography variant, blue accent matching the spine.", status: "pending" },
     ],
   },
   {
