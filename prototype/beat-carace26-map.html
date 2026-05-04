@@ -873,15 +873,19 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     'dark-money':    { color: '#475569', label: 'Dark money / political ops' }
   };
 
+  // Candidate positions form the U-shape ring from Iteration 0:
+  // top row R→D (Hilton, Bianco, Becerra, Steyer), right edge (Porter),
+  // bottom row D (Villaraigosa, Mahan), left edge (Thurmond mirror to Porter).
+  // fx/fy on each — force sim cannot move candidates, only donors orbit them.
   var candidates = [
-    { id: 'hilton',       name: 'STEVE HILTON',     party: 'R', anchor: { x: 0.18, y: 0.18 } },
-    { id: 'bianco',       name: 'CHAD BIANCO',      party: 'R', anchor: { x: 0.36, y: 0.10 } },
-    { id: 'becerra',      name: 'XAVIER BECERRA',   party: 'D', anchor: { x: 0.62, y: 0.10 } },
-    { id: 'steyer',       name: 'TOM STEYER',       party: 'D', anchor: { x: 0.84, y: 0.18 } },
-    { id: 'porter',       name: 'KATIE PORTER',     party: 'D', anchor: { x: 0.92, y: 0.50 } },
-    { id: 'villaraigosa', name: 'VILLARAIGOSA',     party: 'D', anchor: { x: 0.62, y: 0.90 } },
-    { id: 'mahan',        name: 'MATT MAHAN',       party: 'D', anchor: { x: 0.36, y: 0.90 } },
-    { id: 'thurmond',     name: 'TONY THURMOND',    party: 'D', anchor: { x: 0.08, y: 0.50 } }
+    { id: 'hilton',       name: 'STEVE HILTON',     party: 'R', anchor: { x: 0.18, y: 0.16 } },
+    { id: 'bianco',       name: 'CHAD BIANCO',      party: 'R', anchor: { x: 0.38, y: 0.10 } },
+    { id: 'becerra',      name: 'XAVIER BECERRA',   party: 'D', anchor: { x: 0.60, y: 0.10 } },
+    { id: 'steyer',       name: 'TOM STEYER',       party: 'D', anchor: { x: 0.82, y: 0.16 } },
+    { id: 'porter',       name: 'KATIE PORTER',     party: 'D', anchor: { x: 0.90, y: 0.50 } },
+    { id: 'villaraigosa', name: 'VILLARAIGOSA',     party: 'D', anchor: { x: 0.62, y: 0.88 } },
+    { id: 'mahan',        name: 'MATT MAHAN',       party: 'D', anchor: { x: 0.38, y: 0.88 } },
+    { id: 'thurmond',     name: 'TONY THURMOND',    party: 'D', anchor: { x: 0.10, y: 0.50 } }
   ];
 
   // Donor nodes. Edges arrays: { to: candidateId, amount: int, kind: 'fund'|'anti', viaIE: bool }
@@ -1031,6 +1035,7 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
   // ─── Build node + link arrays for d3-force ───
   var nodes = [];
   candidates.forEach(function (c) {
+    // Pre-set x/y; fx/fy applied AFTER measuring W/H so positions are pixel-correct
     nodes.push({ id: c.id, type: 'candidate', data: c });
   });
   donors.forEach(function (d) {
@@ -1071,6 +1076,21 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
   var W = host.clientWidth || 1100, H = host.clientHeight || 720;
   svgEl.attr('viewBox', '0 0 ' + W + ' ' + H).attr('preserveAspectRatio', 'xMidYMid meet');
 
+  // Pin candidates to fixed positions so force sim doesn't drag them
+  // around. Donor mass would otherwise pull candidates inward when many
+  // donors orbit the same candidate (Mahan IE = 9 donors all pulling on him).
+  function pinCandidates() {
+    nodes.forEach(function (n) {
+      if (n.type === 'candidate') {
+        n.fx = n.data.anchor.x * W;
+        n.fy = n.data.anchor.y * H;
+        n.x = n.fx;
+        n.y = n.fy;
+      }
+    });
+  }
+  pinCandidates();
+
   var defs = svgEl.append('defs');
   // Arrowhead for anti-candidate edges
   defs.append('marker').attr('id', 'rm-anti-arrow').attr('viewBox', '0 0 10 10').attr('refX', 8).attr('refY', 5)
@@ -1101,8 +1121,10 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       if (n.type === 'candidate') return 70;
       return donorRadius(Math.max(n.data.total, 10000)) + 6;
     }))
-    .force('x', d3.forceX().x(anchorX).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
-    .force('y', d3.forceY().y(anchorY).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
+    // forceX/Y only acts on donors now (candidates are pinned via fx/fy).
+    // Donor weak-pull toward viewport center keeps the cloud filling the U-shape interior.
+    .force('x', d3.forceX().x(anchorX).strength(function (n) { return n.type === 'candidate' ? 0 : 0.06; }))
+    .force('y', d3.forceY().y(anchorY).strength(function (n) { return n.type === 'candidate' ? 0 : 0.06; }))
     .alpha(1).alphaDecay(0.025);
 
   // ─── Render links ───
@@ -1361,15 +1383,16 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     }
   }
 
-  // Resize handler
+  // Resize handler — re-pin candidates to new pixel positions
   var resizeT;
   window.addEventListener('resize', function () {
     clearTimeout(resizeT);
     resizeT = setTimeout(function () {
       W = host.clientWidth; H = host.clientHeight;
       svgEl.attr('viewBox', '0 0 ' + W + ' ' + H);
-      sim.force('x', d3.forceX().x(anchorX).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
-         .force('y', d3.forceY().y(anchorY).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
+      pinCandidates();
+      sim.force('x', d3.forceX().x(anchorX).strength(function (n) { return n.type === 'candidate' ? 0 : 0.06; }))
+         .force('y', d3.forceY().y(anchorY).strength(function (n) { return n.type === 'candidate' ? 0 : 0.06; }))
          .alpha(0.4).restart();
     }, 200);
   });
