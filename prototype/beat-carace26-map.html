@@ -198,9 +198,44 @@ html, body {
   .section-band .deck { font-size: 18px; }
 }
 
-/* ─── Coming-soon banner for upcoming interactivity ─── */
-.coming-soon { display: flex; align-items: center; gap: 14px; padding: 16px 20px; background: var(--yellow); border: 2px solid var(--black); margin: 24px 0 32px; font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 1.2px; line-height: 1.45; }
-.coming-soon .cs-tag { background: var(--black); color: var(--yellow); padding: 4px 10px; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; flex-shrink: 0; }
+/* ─── Interactive D3 graph (Iteration 1) ─── */
+.rm-graph-host { position: relative; }
+.rm-d3-graph { display: none; position: relative; width: 100%; height: 720px; background: #0a0a0a; border: 2px solid #2a2a2a; }
+body.rm-js-loaded .rm-d3-graph { display: block; }
+body.rm-js-loaded .rm-static-fallback { display: none; }
+@media (max-width: 900px) {
+  body.rm-js-loaded .rm-d3-graph { display: none; }
+  body.rm-js-loaded .rm-static-fallback { display: block; }
+}
+.rm-d3-graph svg { width: 100%; height: 100%; display: block; cursor: default; }
+.rm-d3-graph .rm-controls { position: absolute; top: 14px; left: 14px; display: flex; gap: 8px; z-index: 5; flex-wrap: wrap; }
+.rm-d3-graph .rm-control-btn { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 6px 12px; background: rgba(20,20,20,0.85); color: #d4cfc7; border: 1px solid #444; cursor: pointer; backdrop-filter: blur(4px); }
+.rm-d3-graph .rm-control-btn:hover { background: var(--yellow); color: #0a0a0a; border-color: var(--yellow); }
+.rm-d3-graph .rm-control-btn.active { background: var(--yellow); color: #0a0a0a; border-color: var(--yellow); }
+.rm-d3-graph .rm-hint { position: absolute; top: 14px; right: 14px; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1.5px; color: #888; text-transform: uppercase; pointer-events: none; }
+.rm-d3-graph .rm-tooltip { position: absolute; pointer-events: none; background: #0a0a0a; border: 2px solid var(--yellow); padding: 12px 14px; font-family: 'Inter', sans-serif; font-size: 13px; line-height: 1.4; color: #f5f0eb; max-width: 280px; opacity: 0; transition: opacity 0.12s ease-out; z-index: 10; }
+.rm-d3-graph .rm-tooltip.visible { opacity: 1; }
+.rm-d3-graph .rm-tooltip .tt-name { font-weight: 900; font-size: 15px; letter-spacing: -0.3px; margin-bottom: 4px; }
+.rm-d3-graph .rm-tooltip .tt-meta { font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--yellow); margin-bottom: 8px; }
+.rm-d3-graph .rm-tooltip .tt-edges { font-size: 12px; color: #d4cfc7; }
+.rm-d3-graph .rm-tooltip .tt-edges .tt-edge { padding: 2px 0; }
+.rm-d3-graph .rm-tooltip .tt-edges .tt-amt { font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow); }
+.rm-d3-graph .node-candidate text { font-family: 'Inter', sans-serif; font-weight: 900; pointer-events: none; user-select: none; }
+.rm-d3-graph .node-donor text { font-family: 'Inter', sans-serif; font-weight: 900; pointer-events: none; user-select: none; fill: #0a0a0a; }
+.rm-d3-graph .node circle, .rm-d3-graph .node rect { transition: opacity 0.18s ease-out, stroke-width 0.18s ease-out; }
+.rm-d3-graph .link { transition: opacity 0.18s ease-out, stroke-width 0.18s ease-out; }
+.rm-d3-graph.has-focus .node:not(.is-focused) circle,
+.rm-d3-graph.has-focus .node:not(.is-focused) rect { opacity: 0.18; }
+.rm-d3-graph.has-focus .node:not(.is-focused) text { opacity: 0.18; }
+.rm-d3-graph.has-focus .link:not(.is-focused) { opacity: 0.06; }
+.rm-d3-graph.has-focus .node.is-focused circle { stroke-width: 4px; }
+.rm-d3-graph.has-focus .link.is-focused { stroke-width: 3px; opacity: 1; }
+.rm-d3-graph .legend-overlay { position: absolute; bottom: 14px; left: 14px; right: 14px; display: flex; gap: 18px; flex-wrap: wrap; font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 1.5px; color: #aaa; text-transform: uppercase; pointer-events: none; }
+.rm-d3-graph .legend-overlay .li { display: flex; align-items: center; gap: 6px; }
+.rm-d3-graph .legend-overlay .sw { width: 12px; height: 12px; display: inline-block; border: 1px solid #333; }
+.rm-d3-graph .iter-stamp { position: absolute; bottom: 14px; right: 14px; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1.5px; color: #555; text-transform: uppercase; pointer-events: none; }
+
+.rm-static-fallback { display: block; }
 </style>
 </head>
 <body>
@@ -243,8 +278,32 @@ html, body {
 <section class="hero-map">
   <div class="hero-map-inner">
     <div class="label">The whole field · seven candidates · top cross-cutting donors</div>
-    <div class="sub">Lines connect donors to candidates. Where a donor funds two or more candidates, the line crosses the field.</div>
+    <div class="sub">Hover any candidate to see who funded them. Hover any donor to see which candidates they fund. Click to lock the highlight.</div>
 
+    <div class="rm-graph-host">
+      <div class="rm-d3-graph" id="rm-d3-graph" aria-label="Interactive force-directed graph of the 2026 California governor race showing seven candidates and their cross-cutting donors. Lines connect donors to the candidates they have funded.">
+        <div class="rm-controls" role="group" aria-label="Graph filters">
+          <button type="button" class="rm-control-btn active" data-filter="all">All flows</button>
+          <button type="button" class="rm-control-btn" data-filter="cross-party">Cross-party only</button>
+          <button type="button" class="rm-control-btn" data-filter="anti">Attacks only</button>
+          <button type="button" class="rm-control-btn" data-filter="reset">Reset</button>
+        </div>
+        <div class="rm-hint">Hover · click to lock</div>
+        <svg id="rm-d3-svg" role="img"></svg>
+        <div class="rm-tooltip" id="rm-d3-tooltip"></div>
+        <div class="legend-overlay" aria-hidden="true">
+          <span class="li"><span class="sw" style="background:#fbbf24"></span>Tech VC</span>
+          <span class="li"><span class="sw" style="background:#f97316"></span>Crypto</span>
+          <span class="li"><span class="sw" style="background:#7c2d12"></span>Oil &amp; gas</span>
+          <span class="li"><span class="sw" style="background:#1e3a8a"></span>Police</span>
+          <span class="li"><span class="sw" style="background:#16a34a"></span>Real estate</span>
+          <span class="li"><span class="sw" style="background:#7e22ce"></span>Plaintiffs bar</span>
+          <span class="li"><span class="sw" style="background:#dc2626;border-color:#dc2626"></span>Anti-candidate</span>
+        </div>
+        <div class="iter-stamp">v0.2 · Interactive</div>
+      </div>
+
+      <div class="rm-static-fallback">
     <svg viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; max-height: 760px; display: block; margin: 0 auto;" aria-label="Network diagram of the 2026 California governor race showing seven candidates around a central cluster of cross-cutting donors. Lines connect donors to the candidates they have funded.">
       <defs>
         <marker id="rm-dot-r" markerWidth="6" markerHeight="6" refX="3" refY="3"><circle cx="3" cy="3" r="2.5" fill="#dc2626"/></marker>
@@ -360,10 +419,7 @@ html, body {
       <div class="legend-item"><span class="legend-swatch" style="background: #1a1a1a; border-color: #dc2626;"></span>Republican candidate</div>
       <div class="legend-item"><span class="legend-swatch" style="background: #1a1a1a; border-color: #2563eb;"></span>Democratic candidate</div>
     </div>
-
-    <div class="coming-soon">
-      <span class="cs-tag">v0.1 · Static</span>
-      <span>Iteration 1 (next session) replaces this static SVG with an interactive D3 force-directed graph: hover any candidate to highlight their donors, hover any donor to highlight which candidates they fund, search by donor name to filter the network. v0.2 adds per-industry sankey flows. v0.3 adds particle animations on the money flows.</span>
+      </div>
     </div>
   </div>
 </section>
@@ -781,6 +837,450 @@ html, body {
   <a href="/about" class="footer-cta">About</a>
   <div class="small">thedonormap.org</div>
 </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
+<script>
+(function () {
+  if (!window.d3) return;
+  var host = document.getElementById('rm-d3-graph');
+  if (!host) return;
+
+  var INDUSTRY = {
+    'tech-vc':       { color: '#fbbf24', label: 'Tech VC' },
+    'crypto':        { color: '#f97316', label: 'Crypto' },
+    'oil':           { color: '#7c2d12', label: 'Oil & gas' },
+    'police':        { color: '#1e3a8a', label: 'Police' },
+    'real-estate':   { color: '#16a34a', label: 'Real estate' },
+    'plaintiffs':    { color: '#7e22ce', label: 'Plaintiffs bar' },
+    'healthcare':    { color: '#0891b2', label: 'Healthcare' },
+    'utility':       { color: '#dc2626', label: 'Utility (anti)' },
+    'media':         { color: '#a3a3a3', label: 'Media' },
+    'libertarian':   { color: '#fbbf24', label: 'Libertarian VC' },
+    'cluster':       { color: '#737373', label: 'Cluster / aggregation' }
+  };
+
+  var candidates = [
+    { id: 'hilton',       name: 'STEVE HILTON',     party: 'R', anchor: { x: 0.18, y: 0.18 } },
+    { id: 'bianco',       name: 'CHAD BIANCO',      party: 'R', anchor: { x: 0.36, y: 0.10 } },
+    { id: 'becerra',      name: 'XAVIER BECERRA',   party: 'D', anchor: { x: 0.62, y: 0.10 } },
+    { id: 'steyer',       name: 'TOM STEYER',       party: 'D', anchor: { x: 0.84, y: 0.18 } },
+    { id: 'porter',       name: 'KATIE PORTER',     party: 'D', anchor: { x: 0.92, y: 0.50 } },
+    { id: 'villaraigosa', name: 'VILLARAIGOSA',     party: 'D', anchor: { x: 0.62, y: 0.90 } },
+    { id: 'mahan',        name: 'MATT MAHAN',       party: 'D', anchor: { x: 0.36, y: 0.90 } },
+    { id: 'thurmond',     name: 'TONY THURMOND',    party: 'D', anchor: { x: 0.08, y: 0.50 } }
+  ];
+
+  // Donor nodes. Edges arrays: { to: candidateId, amount: int, kind: 'fund'|'anti' }
+  var donors = [
+    { id: 'brin',          label: 'BRIN',          full: 'Sergey Brin', meta: 'Google co-founder', industry: 'tech-vc',
+      edges: [{ to: 'hilton', amount: 39200 }, { to: 'mahan', amount: 1000000, viaIE: true }] },
+    { id: 'larsen',        label: 'LARSEN',        full: 'Chris Larsen', meta: 'Ripple co-founder', industry: 'crypto',
+      edges: [{ to: 'hilton', amount: 39200 }, { to: 'porter', amount: 39200 }, { to: 'mahan', amount: 500000 }] },
+    { id: 'lonsdale',      label: 'LONSDALE',      full: 'Joe Lonsdale', meta: 'Palantir co-founder, 8VC', industry: 'tech-vc',
+      edges: [{ to: 'hilton', amount: 25000 }, { to: 'mahan', amount: 78400 }] },
+    { id: 'highland',      label: 'HIGHLAND',      full: 'Highland Fairview', meta: 'Iddo Benzeevi · Riverside megadeveloper', industry: 'real-estate',
+      edges: [{ to: 'bianco', amount: 39200 }, { to: 'villaraigosa', amount: 72800 }] },
+    { id: 'porac',         label: 'PORAC',         full: 'PORAC PAC', meta: 'Peace Officers Research Association of California', industry: 'police',
+      edges: [{ to: 'bianco', amount: 39200 }, { to: 'villaraigosa', amount: 78400 }] },
+    { id: 'mcnicholas',    label: 'MCNICHOLAS',    full: 'McNicholas & McNicholas LLP', meta: 'Major California plaintiffs firm', industry: 'plaintiffs',
+      edges: [{ to: 'becerra', amount: 25000 }, { to: 'porter', amount: 25000 }] },
+    { id: 'draper',        label: 'DRAPER',        full: 'Tim Draper', meta: 'DFJ founder · libertarian VC', industry: 'libertarian',
+      edges: [{ to: 'hilton', amount: 78400 }] },
+    { id: 'moritz',        label: 'MORITZ',        full: 'Michael Moritz', meta: 'Sequoia Capital', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 2000000, viaIE: true }] },
+    { id: 'seibel',        label: 'SEIBEL',        full: 'Michael Seibel', meta: 'Y Combinator', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 1000000, viaIE: true }] },
+    { id: 'collison',      label: 'COLLISON',      full: 'Patrick / John Collison', meta: 'Stripe', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 990000, viaIE: true }] },
+    { id: 'singerman',     label: 'SINGERMAN',     full: 'Brian Singerman', meta: 'Founders Fund', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 250000, viaIE: true }] },
+    { id: 'coinbase',      label: 'COINBASE',      full: 'Coinbase senior leadership', meta: 'Armstrong $500K + Nadolinski $78K', industry: 'crypto', cluster: true,
+      edges: [{ to: 'mahan', amount: 578400, viaIE: true }] },
+    { id: 'pge',           label: 'PG&E',          full: 'PG&E Corporation', meta: 'Investor-owned utility · funds anti-Steyer IE', industry: 'utility',
+      edges: [{ to: 'steyer', amount: 9975000, kind: 'anti' }] },
+    { id: 'ibew',          label: 'IBEW',          full: 'IBEW Local 1245', meta: 'Utility-trade union · funds anti-Steyer IE', industry: 'utility',
+      edges: [{ to: 'steyer', amount: 75000, kind: 'anti' }] },
+    { id: 'chevron',       label: 'CHEVRON',       full: 'Chevron USA', meta: 'Oil major', industry: 'oil',
+      edges: [{ to: 'villaraigosa', amount: 78400 }, { to: 'becerra', amount: 39200 }] },
+    { id: 'cal-resources', label: 'CRC',           full: 'California Resources Corporation', meta: 'Oil & gas', industry: 'oil',
+      edges: [{ to: 'villaraigosa', amount: 72800 }] },
+    { id: 'marathon',      label: 'MARATHON',      full: 'Marathon Petroleum', meta: 'Oil major', industry: 'oil',
+      edges: [{ to: 'villaraigosa', amount: 78400 }] },
+    { id: 'berry',         label: 'BERRY',         full: 'Berry Corporation', meta: 'Oil & gas', industry: 'oil',
+      edges: [{ to: 'villaraigosa', amount: 78400 }] },
+    { id: 'md-downs',      label: 'M&D / DOWNS',   full: 'M&D Development + Downs Energy', meta: 'Sibling-managed LLCs · same Corona address', industry: 'cluster', cluster: true,
+      edges: [{ to: 'bianco', amount: 156800 }] },
+    { id: 'lighthouse',    label: 'LIGHTHOUSE',    full: 'Lighthouse Worldwide Solutions', meta: 'Oregon C-suite · 6 employees, two coordinated days', industry: 'cluster', cluster: true,
+      edges: [{ to: 'hilton', amount: 196000 }] },
+    { id: 'haagen',        label: 'HAAGEN',        full: 'Haagen Company family', meta: 'Real-estate family + holding LLC', industry: 'real-estate', cluster: true,
+      edges: [{ to: 'bianco', amount: 78400 }] },
+    { id: 'cantu',         label: 'CANTU/DHR',     full: 'Cantu / DHR Health network', meta: 'Physician-owned hospital cluster · 4 family/affiliates same day', industry: 'healthcare', cluster: true,
+      edges: [{ to: 'becerra', amount: 47300 }] },
+    { id: 'murdoch',       label: 'MURDOCH',       full: 'Murdoch family', meta: 'News Corp · Fox News orbit', industry: 'media',
+      edges: [{ to: 'hilton', amount: 10000 }] }
+  ];
+
+  // Compute per-donor total $ for sizing
+  donors.forEach(function (d) {
+    d.total = d.edges.reduce(function (s, e) { return s + e.amount; }, 0);
+    d.crossesParty = (function () {
+      var parties = {};
+      d.edges.forEach(function (e) {
+        var c = candidates.find(function (c) { return c.id === e.to; });
+        if (c) parties[c.party] = true;
+      });
+      return Object.keys(parties).length > 1;
+    })();
+  });
+
+  // ─── Build node + link arrays for d3-force ───
+  var nodes = [];
+  candidates.forEach(function (c) {
+    nodes.push({ id: c.id, type: 'candidate', data: c });
+  });
+  donors.forEach(function (d) {
+    nodes.push({ id: d.id, type: 'donor', data: d });
+  });
+
+  var links = [];
+  donors.forEach(function (d) {
+    d.edges.forEach(function (e) {
+      links.push({
+        source: d.id,
+        target: e.to,
+        amount: e.amount,
+        kind: e.kind || 'fund',
+        viaIE: e.viaIE || false,
+        crossParty: d.crossesParty,
+        industry: d.industry
+      });
+    });
+  });
+
+  // ─── Sizing ───
+  var donorRadius = d3.scaleSqrt()
+    .domain([10000, 10000000])
+    .range([8, 26])
+    .clamp(true);
+
+  var linkWidth = d3.scaleSqrt()
+    .domain([10000, 10000000])
+    .range([0.7, 4.5])
+    .clamp(true);
+
+  // Reveal the host BEFORE measuring, so display isn't none
+  document.body.classList.add('rm-js-loaded');
+
+  // ─── Build SVG ───
+  var svgEl = d3.select('#rm-d3-svg');
+  var W = host.clientWidth || 1100, H = host.clientHeight || 720;
+  svgEl.attr('viewBox', '0 0 ' + W + ' ' + H).attr('preserveAspectRatio', 'xMidYMid meet');
+
+  var defs = svgEl.append('defs');
+  // Arrowhead for anti-candidate edges
+  defs.append('marker').attr('id', 'rm-anti-arrow').attr('viewBox', '0 0 10 10').attr('refX', 8).attr('refY', 5)
+    .attr('markerWidth', 6).attr('markerHeight', 6).attr('orient', 'auto')
+    .append('path').attr('d', 'M0,0 L10,5 L0,10 Z').attr('fill', '#dc2626');
+
+  var g = svgEl.append('g');
+
+  // ─── Force simulation ───
+  function anchorX(node) { return node.type === 'candidate' ? node.data.anchor.x * W : W / 2; }
+  function anchorY(node) { return node.type === 'candidate' ? node.data.anchor.y * H : H / 2; }
+
+  var sim = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(function (n) { return n.id; })
+      .distance(function (l) {
+        var s = typeof l.source === 'object' ? l.source : nodes.find(function(n){ return n.id===l.source; });
+        var t = typeof l.target === 'object' ? l.target : nodes.find(function(n){ return n.id===l.target; });
+        var base = 130;
+        if (l.kind === 'anti') base = 180;
+        if (s && s.data && s.data.cluster) base = 90;
+        return base;
+      })
+      .strength(function (l) { return l.kind === 'anti' ? 0.15 : 0.4; }))
+    .force('charge', d3.forceManyBody().strength(function (n) {
+      return n.type === 'candidate' ? -800 : -180;
+    }))
+    .force('collide', d3.forceCollide().radius(function (n) {
+      if (n.type === 'candidate') return 70;
+      return donorRadius(Math.max(n.data.total, 10000)) + 6;
+    }))
+    .force('x', d3.forceX().x(anchorX).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
+    .force('y', d3.forceY().y(anchorY).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
+    .alpha(1).alphaDecay(0.025);
+
+  // ─── Render links ───
+  var linkSel = g.append('g').attr('class', 'links').selectAll('line').data(links).enter().append('line')
+    .attr('class', function (l) {
+      var cls = 'link';
+      if (l.kind === 'anti') cls += ' link-anti';
+      else if (l.crossParty) cls += ' link-cross';
+      return cls;
+    })
+    .attr('data-source', function (l) { return l.source.id || l.source; })
+    .attr('data-target', function (l) { return l.target.id || l.target; })
+    .attr('stroke', function (l) {
+      if (l.kind === 'anti') return '#dc2626';
+      if (l.crossParty) return '#dc2626';
+      return INDUSTRY[l.industry] ? INDUSTRY[l.industry].color : '#fbbf24';
+    })
+    .attr('stroke-width', function (l) { return linkWidth(Math.max(l.amount, 10000)); })
+    .attr('stroke-opacity', function (l) { return l.kind === 'anti' ? 0.85 : 0.55; })
+    .attr('stroke-dasharray', function (l) { return l.kind === 'anti' ? '6 4' : null; })
+    .attr('marker-end', function (l) { return l.kind === 'anti' ? 'url(#rm-anti-arrow)' : null; });
+
+  // ─── Render nodes ───
+  var nodeSel = g.append('g').attr('class', 'nodes').selectAll('g').data(nodes).enter().append('g')
+    .attr('class', function (n) { return 'node node-' + n.type; })
+    .attr('data-id', function (n) { return n.id; })
+    .style('cursor', 'pointer')
+    .call(d3.drag()
+      .on('start', function (event, n) { if (!event.active) sim.alphaTarget(0.3).restart(); n.fx = n.x; n.fy = n.y; })
+      .on('drag',  function (event, n) { n.fx = event.x; n.fy = event.y; })
+      .on('end',   function (event, n) { if (!event.active) sim.alphaTarget(0); if (n.type !== 'candidate') { n.fx = null; n.fy = null; } }));
+
+  // Candidate nodes: rounded rect
+  var candNodes = nodeSel.filter(function (n) { return n.type === 'candidate'; });
+  candNodes.append('rect')
+    .attr('width', 150).attr('height', 50)
+    .attr('x', -75).attr('y', -25)
+    .attr('fill', '#1a1a1a')
+    .attr('stroke', function (n) { return n.data.party === 'R' ? '#dc2626' : '#2563eb'; })
+    .attr('stroke-width', 3);
+  candNodes.append('text')
+    .attr('text-anchor', 'middle').attr('y', -2)
+    .attr('font-size', 14).attr('fill', '#fff')
+    .text(function (n) { return n.data.name; });
+  candNodes.append('text')
+    .attr('text-anchor', 'middle').attr('y', 14)
+    .attr('font-family', 'Space Mono, monospace').attr('font-size', 9).attr('letter-spacing', 1.5).attr('font-weight', 700)
+    .attr('fill', function (n) { return n.data.party === 'R' ? '#fca5a5' : '#93c5fd'; })
+    .text(function (n) { return n.data.party; });
+
+  // Donor nodes: circle + label
+  var donorNodes = nodeSel.filter(function (n) { return n.type === 'donor'; });
+  donorNodes.append('circle')
+    .attr('r', function (n) { return donorRadius(Math.max(n.data.total, 10000)); })
+    .attr('fill', function (n) { return INDUSTRY[n.data.industry] ? INDUSTRY[n.data.industry].color : '#fbbf24'; })
+    .attr('stroke', function (n) { return n.data.crossesParty ? '#dc2626' : 'rgba(0,0,0,0.4)'; })
+    .attr('stroke-width', function (n) { return n.data.crossesParty ? 2.5 : 1; })
+    .attr('stroke-dasharray', function (n) { return n.data.cluster ? '3 2' : null; });
+  donorNodes.append('text')
+    .attr('text-anchor', 'middle')
+    .attr('dy', function (n) { return donorRadius(Math.max(n.data.total, 10000)) > 14 ? 3 : -donorRadius(Math.max(n.data.total, 10000)) - 5; })
+    .attr('font-size', function (n) {
+      var r = donorRadius(Math.max(n.data.total, 10000));
+      return r > 18 ? 10 : (r > 12 ? 9 : 8);
+    })
+    .attr('fill', function (n) {
+      var r = donorRadius(Math.max(n.data.total, 10000));
+      return r > 14 ? '#0a0a0a' : '#d4cfc7';
+    })
+    .text(function (n) { return n.data.label; });
+
+  // ─── Tick ───
+  sim.on('tick', function () {
+    nodes.forEach(function (n) {
+      var pad = n.type === 'candidate' ? 78 : (donorRadius(Math.max(n.data.total || 10000, 10000)) + 4);
+      n.x = Math.max(pad, Math.min(W - pad, n.x));
+      n.y = Math.max(pad, Math.min(H - pad, n.y));
+    });
+    linkSel
+      .attr('x1', function (l) { return l.source.x; })
+      .attr('y1', function (l) { return l.source.y; })
+      .attr('x2', function (l) { return l.target.x; })
+      .attr('y2', function (l) { return l.target.y; });
+    nodeSel.attr('transform', function (n) { return 'translate(' + n.x + ',' + n.y + ')'; });
+  });
+
+  // ─── Hover / click interactions ───
+  var tip = document.getElementById('rm-d3-tooltip');
+  var lockedId = null;
+
+  function fmt(n) {
+    if (n >= 1000000) return '$' + (n / 1000000).toFixed(n >= 10000000 ? 0 : (n % 1000000 === 0 ? 0 : 1)) + 'M';
+    if (n >= 1000) return '$' + Math.round(n / 1000) + 'K';
+    return '$' + n;
+  }
+
+  function buildTooltip(node) {
+    var d = node.data;
+    var html = '';
+    if (node.type === 'candidate') {
+      // Find all donors funding this candidate
+      var feeders = donors.filter(function (don) {
+        return don.edges.some(function (e) { return e.to === d.id; });
+      }).sort(function (a, b) {
+        var aAmt = a.edges.find(function (e) { return e.to === d.id; }).amount;
+        var bAmt = b.edges.find(function (e) { return e.to === d.id; }).amount;
+        return bAmt - aAmt;
+      });
+      html += '<div class="tt-name">' + d.name + '</div>';
+      html += '<div class="tt-meta">' + (d.party === 'R' ? 'REPUBLICAN' : 'DEMOCRAT') + ' · ' + feeders.length + ' mapped donor' + (feeders.length === 1 ? '' : 's') + '</div>';
+      html += '<div class="tt-edges">';
+      feeders.slice(0, 8).forEach(function (don) {
+        var edge = don.edges.find(function (e) { return e.to === d.id; });
+        var prefix = edge.kind === 'anti' ? '↳ anti · ' : (edge.viaIE ? '↳ via IE · ' : '↳ ');
+        html += '<div class="tt-edge">' + prefix + don.full + ' <span class="tt-amt">' + fmt(edge.amount) + '</span></div>';
+      });
+      if (feeders.length > 8) html += '<div class="tt-edge" style="color:#888">+ ' + (feeders.length - 8) + ' more</div>';
+      html += '</div>';
+    } else {
+      html += '<div class="tt-name">' + d.full + '</div>';
+      html += '<div class="tt-meta">' + (INDUSTRY[d.industry] ? INDUSTRY[d.industry].label : d.industry) + ' · ' + fmt(d.total) + ' total' + (d.crossesParty ? ' · CROSS-PARTY' : '') + (d.cluster ? ' · CLUSTER' : '') + '</div>';
+      if (d.meta) html += '<div style="font-size:11px;color:#888;margin-bottom:8px;font-style:italic">' + d.meta + '</div>';
+      html += '<div class="tt-edges">';
+      d.edges.forEach(function (e) {
+        var c = candidates.find(function (c) { return c.id === e.to; });
+        var prefix = e.kind === 'anti' ? '↳ anti · ' : (e.viaIE ? '↳ via IE · ' : '↳ ');
+        html += '<div class="tt-edge">' + prefix + (c ? c.name : e.to) + ' <span class="tt-amt">' + fmt(e.amount) + '</span></div>';
+      });
+      html += '</div>';
+    }
+    return html;
+  }
+
+  function focusNode(node) {
+    host.classList.add('has-focus');
+    nodeSel.classed('is-focused', false);
+    linkSel.classed('is-focused', false);
+    if (!node) { host.classList.remove('has-focus'); tip.classList.remove('visible'); return; }
+    var connectedLinks = links.filter(function (l) {
+      var sId = l.source.id || l.source;
+      var tId = l.target.id || l.target;
+      return sId === node.id || tId === node.id;
+    });
+    var connectedIds = { };
+    connectedIds[node.id] = true;
+    connectedLinks.forEach(function (l) {
+      connectedIds[l.source.id || l.source] = true;
+      connectedIds[l.target.id || l.target] = true;
+    });
+    nodeSel.classed('is-focused', function (n) { return !!connectedIds[n.id]; });
+    linkSel.classed('is-focused', function (l) {
+      var sId = l.source.id || l.source;
+      var tId = l.target.id || l.target;
+      return sId === node.id || tId === node.id;
+    });
+    tip.innerHTML = buildTooltip(node);
+    tip.classList.add('visible');
+  }
+
+  function placeTooltip(event) {
+    var rect = host.getBoundingClientRect();
+    var x = event.clientX - rect.left + 14;
+    var y = event.clientY - rect.top + 14;
+    if (x + 300 > rect.width) x = event.clientX - rect.left - 300;
+    if (y + 200 > rect.height) y = event.clientY - rect.top - 200;
+    tip.style.left = x + 'px';
+    tip.style.top = y + 'px';
+  }
+
+  nodeSel
+    .on('mouseenter', function (event, n) {
+      if (lockedId) return;
+      focusNode(n);
+      placeTooltip(event);
+    })
+    .on('mousemove', function (event) {
+      if (lockedId) return;
+      placeTooltip(event);
+    })
+    .on('mouseleave', function () {
+      if (lockedId) return;
+      focusNode(null);
+    })
+    .on('click', function (event, n) {
+      event.stopPropagation();
+      if (lockedId === n.id) {
+        lockedId = null;
+        focusNode(null);
+      } else {
+        lockedId = n.id;
+        focusNode(n);
+        placeTooltip(event);
+      }
+    });
+
+  svgEl.on('click', function () {
+    if (lockedId) {
+      lockedId = null;
+      focusNode(null);
+    }
+  });
+
+  // ─── Filter controls ───
+  var currentFilter = 'all';
+  var controls = host.querySelectorAll('.rm-control-btn');
+  controls.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var f = btn.getAttribute('data-filter');
+      if (f === 'reset') {
+        sim.alpha(0.6).restart();
+        nodes.forEach(function (n) { if (n.type !== 'candidate') { n.fx = null; n.fy = null; } });
+        lockedId = null;
+        focusNode(null);
+        currentFilter = 'all';
+      } else {
+        currentFilter = f;
+      }
+      controls.forEach(function (b) { b.classList.toggle('active', b.getAttribute('data-filter') === currentFilter); });
+      applyFilter();
+    });
+  });
+
+  function applyFilter() {
+    if (currentFilter === 'all') {
+      linkSel.style('display', null);
+      nodeSel.style('display', null);
+      return;
+    }
+    if (currentFilter === 'cross-party') {
+      linkSel.style('display', function (l) { return l.crossParty ? null : 'none'; });
+      var keepIds = {};
+      links.forEach(function (l) {
+        if (l.crossParty) {
+          keepIds[l.source.id || l.source] = true;
+          keepIds[l.target.id || l.target] = true;
+        }
+      });
+      nodeSel.style('display', function (n) {
+        if (n.type === 'candidate') return null;
+        return keepIds[n.id] ? null : 'none';
+      });
+      return;
+    }
+    if (currentFilter === 'anti') {
+      linkSel.style('display', function (l) { return l.kind === 'anti' ? null : 'none'; });
+      var keepIds = {};
+      links.forEach(function (l) {
+        if (l.kind === 'anti') {
+          keepIds[l.source.id || l.source] = true;
+          keepIds[l.target.id || l.target] = true;
+        }
+      });
+      nodeSel.style('display', function (n) {
+        if (n.type === 'candidate') return null;
+        return keepIds[n.id] ? null : 'none';
+      });
+    }
+  }
+
+  // Resize handler
+  var resizeT;
+  window.addEventListener('resize', function () {
+    clearTimeout(resizeT);
+    resizeT = setTimeout(function () {
+      W = host.clientWidth; H = host.clientHeight;
+      svgEl.attr('viewBox', '0 0 ' + W + ' ' + H);
+      sim.force('x', d3.forceX().x(anchorX).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
+         .force('y', d3.forceY().y(anchorY).strength(function (n) { return n.type === 'candidate' ? 0.6 : 0.04; }))
+         .alpha(0.4).restart();
+    }, 200);
+  });
+})();
+</script>
 
 </body>
 </html>
