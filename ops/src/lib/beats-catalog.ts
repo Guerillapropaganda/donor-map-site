@@ -199,6 +199,144 @@ const MAHAN_SEEDS: VerificationSeed[] = [
   },
 ]
 
+const HILTON_SEEDS: VerificationSeed[] = [
+  {
+    id: "hilton-form700-portal",
+    beat: "hilton",
+    label: "URL pass: FPPC Form 700 search portal — Hilton candidate filing March 6, 2026",
+    detail:
+      "THE SPINE OF THE BEAT. The Form 700 candidate Statement of Economic Interests is the primary source for all three disclosure cards: (1) Schedule A-1 — Stephen G. Hilton holding equity in Sierra Technology Inc., (2) Schedule C — spouse Rachel Whetstone $100,000+ income from Sierra Technology Inc. as Communications lead, (3) Schedule C — Stephen G. Hilton $10,001-$100,000 commentator income from Fox News Network LLC. Verify all three line items against the actual filing before public exposure. The conflict-of-interest claim rests on this filing.",
+    lane: "Editor",
+    url: "https://form700search.fppc.ca.gov/",
+  },
+  {
+    id: "hilton-cal-access-1480425",
+    beat: "hilton",
+    label: "URL pass: Cal-Access · Hilton for Governor 2026 (FPPC 1480425)",
+    detail:
+      "Anchors the donor-base section: $7.73M from 14,989 donors at avg $515. Top 15 donors table including Tim Draper $78.4K, Rupert Murdoch $39.2K, Chris Larsen $39.2K, John McEntee $39.2K. Also anchors the Brin and Lonsdale cross-hedge claims (both gave Hilton AND Mahan).",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480425",
+  },
+  {
+    id: "hilton-cal-access-mahan-cmte-cross-hedge",
+    beat: "hilton",
+    label: "URL pass: Cal-Access · Mahan for Governor 2026 (cross-hedge anchor)",
+    detail:
+      "FPPC committee 1486858. Cross-references the Lonsdale $78,400 to Mahan candidate cmte (paired with $25K to Hilton). Joe Lonsdale is the cleanest single illustration of the donor-class hedging Republican-as-backup.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486858",
+  },
+  {
+    id: "hilton-cal-access-mahan-ie-cross-hedge",
+    beat: "hilton",
+    label: "URL pass: Cal-Access · Deliver for California IE PAC (Brin cross-hedge)",
+    detail:
+      "FPPC committee 1488176. Anchors the Brin $1M-to-Mahan-IE side of the Brin-also-gave-Hilton-$39.2K cross-hedge claim. The Google co-founder writing both directions is the screenshot-bait fact for the donor-class section.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1488176",
+  },
+  {
+    id: "hilton-fortune-sierra-launch",
+    beat: "hilton",
+    label: "URL pass: Fortune Feb 13 2024 — Sierra launch ($110M, Sequoia + Benchmark)",
+    detail:
+      "Tier 2 anchor for Sierra company facts: Bret Taylor + Clay Bavor as co-founders, $110M launch round led by Sequoia Capital and Benchmark, Taylor's prior role as Salesforce co-CEO and Facebook CTO. The Bret-Taylor-also-chairs-OpenAI claim depends on this verification.",
+    lane: "Editor",
+    url: "https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/",
+  },
+  {
+    id: "hilton-axios-sierra-175m",
+    beat: "hilton",
+    label: "URL pass: Axios Oct 29 2024 — Sierra $175M at $4.5B valuation",
+    detail:
+      "Tier 2 anchor for Sierra's October 2024 raise of $175M led by Greenoaks Capital, with Iconiq and Thrive participating. Mid-point of the valuation trajectory between $110M launch and $10B 2025.",
+    lane: "Editor",
+    url: "https://www.axios.com/2024/10/29/sierra-bret-taylor-175-million",
+  },
+  {
+    id: "hilton-techcrunch-sierra-10b",
+    beat: "hilton",
+    label: "URL pass: TechCrunch Sep 4 2025 — Sierra $350M at $10B valuation",
+    detail:
+      "Tier 2 anchor for the headline valuation number. $350M raise at $10 billion valuation, total raised $635M. The $10B-valuation claim is what makes the Hilton equity holding consequential.",
+    lane: "Editor",
+    url: "https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/",
+  },
+  {
+    id: "hilton-latimes-2026-04-22",
+    beat: "hilton",
+    label: "URL pass: LA Times Apr 22 2026 — Hilton California-inspired profile",
+    detail:
+      "Tier 2 anchor for: (1) Hilton's UK/American naturalization status confirmation in 2026 framing, (2) the 'former Fox News host who left in 2023' framing that sets up the Fox-News-commentator-income-while-running tension on Form 700.",
+    lane: "Editor",
+    url: "https://www.latimes.com/politics/story/2026-04-22/in-uk-california-governor-candidate-steve-hilton-was-inspired-by-california",
+  },
+  {
+    id: "hilton-kqed-2026-02-05",
+    beat: "hilton",
+    label: "URL pass: KQED Feb 5 2026 — gubernatorial vision interview",
+    detail:
+      "Tier 2 anchor for the second 'former Fox News host' framing that sets up the Form 700 commentator-income tension.",
+    lane: "Editor",
+    url: "https://www.kqed.org/news/12071133/former-fox-news-host-steve-hilton-lays-out-vision-for-california-governorship",
+  },
+  {
+    id: "hilton-foxnews-trump-endorse",
+    beat: "hilton",
+    label: "URL pass: Fox News Apr 6 2026 — Trump endorsement coverage",
+    detail:
+      "Tier 2 / employer-publication anchor. Fox News' own April 2026 framing of Hilton as a former Fox host. The third corroboration of the 'former Fox host' framing that the Form 700 commentator-income disclosure complicates.",
+    lane: "Editor",
+    url: "https://www.foxnews.com/politics/president-trump-makes-endorsement-california-gubernatorial-race-he-great-governor",
+  },
+  {
+    id: "hilton-lighthouse-about",
+    beat: "hilton",
+    label: "URL pass: Lighthouse Worldwide Solutions — company About page",
+    detail:
+      "Tier 1 company primary source. Anchors the Lighthouse-Oregon-cluster section's company-identification claim: 1982-founded contamination-monitoring instrument company, semiconductor / pharmaceutical / biotechnology / aerospace / defense customers.",
+    lane: "Editor",
+    url: "https://www.golighthouse.com/en/about-lighthouse/",
+  },
+  {
+    id: "hilton-lighthouse-contact",
+    beat: "hilton",
+    label: "URL pass: Lighthouse Worldwide Solutions — Contact page (Fremont CA + White City OR offices)",
+    detail:
+      "Tier 1 company primary source. Anchors the geographic claim that Lighthouse maintains Fremont CA + White City OR offices. The OR office sits between Medford and Grants Pass, the two towns the donor cluster is from.",
+    lane: "Editor",
+    url: "https://www.golighthouse.com/en/contact-us/",
+  },
+  {
+    id: "hilton-leginfo-sb1047",
+    beat: "hilton",
+    label: "URL pass: leginfo — SB 1047 (Frontier AI safety, vetoed Sep 2024)",
+    detail:
+      "Anchors the Sacramento-AI-policy section's first concrete example. Verify URL resolves to the bill text and reflects Newsom's veto status. The point of citing a vetoed bill is to anchor that California IS the AI-policy jurisdiction, not to imply it's currently law.",
+    lane: "Editor",
+    url: "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1047",
+  },
+  {
+    id: "hilton-leginfo-ab2013",
+    beat: "hilton",
+    label: "URL pass: leginfo — AB 2013 (Generative AI Training Data Transparency, in effect Jan 1 2026)",
+    detail:
+      "Anchors the Sacramento-AI-policy section's second concrete example. Verify URL resolves to the bill text and effective-date claim. AB 2013's January 1, 2026 effective date is what makes the disclosure-conflict claim time-sensitive.",
+    lane: "Editor",
+    url: "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB2013",
+  },
+  {
+    id: "hilton-sos-qualifications",
+    beat: "hilton",
+    label: "URL pass: CA Secretary of State — June 2 2026 primary qualifications",
+    detail:
+      "Anchors the supporting fact that California gubernatorial qualifications require US citizenship per California Constitution article V sections 2 and 9, and Elections Code section 201. Used to set up the open question on Hilton's UK-citizenship-renunciation status (open, not asserted).",
+    lane: "Editor",
+    url: "https://www.sos.ca.gov/elections/upcoming-elections/primary-election-june-2-2026/qualifications",
+  },
+]
+
 const THREE_BECERRAS_SEEDS: VerificationSeed[] = [
   {
     id: "becerra-kqed-url",
@@ -843,6 +981,41 @@ const BEATS_UPCOMING: BeatRecord[] = [
       { label: "Labor record anchored", detail: "Lone vote against city-worker raises Sept 15, 2023. 99% strike-authorization vote 4,500 city workers Aug 2023. South Bay Labor Council head Jean Cohen on record. 2022 AB5 misclassification of 18 own campaign workers (state labor commissioner complaint settled).", status: "done" },
       { label: "Prototype HTML", detail: "beat-mahan.html · 948 lines (pre-data-correction; needs full rewrite per locked headline + corrected numbers)", status: "pending" },
       { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs when prototype is shipped", status: "pending" },
+    ],
+  },
+  {
+    slug: "hilton",
+    publicSlug: "hilton",
+    title: "Steve Hilton holds stock in an AI startup. His wife runs its comms.",
+    deck:
+      "Steve Hilton's March 6, 2026 candidate Form 700 puts him personally on Schedule A-1 holding equity in Sierra Technology Inc., a private AI company at $10B valuation chaired by OpenAI board chair Bret Taylor. His spouse Rachel Whetstone is on Schedule C with $100K+ income from the same Sierra as Communications lead. Hilton also discloses ongoing Fox News Network commentator income ($10K-$100K range) while campaigning, alongside a $39,200 contribution from Rupert Murdoch. Donor base: $7.73M from ~15,000 donors, top tier includes Tim Draper, Murdoch, Chris Larsen, John McEntee. Cross-hedge: Sergey Brin and Joe Lonsdale gave both Hilton AND Mahan. Sidebar: a six-person Lighthouse Worldwide Solutions C-suite cluster from Grants Pass / Medford / Jacksonville Oregon gave ~$196K in lockstep on the same December 2025 dates while the corporation gave nothing.",
+    prototypeFile: "beat-hilton.html",
+    prototypeUrl: "http://localhost:8096/hilton",
+    dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/hilton.md",
+    status: "active",
+    verificationSeeds: HILTON_SEEDS,
+    perplexityRounds: [
+      { name: "Hilton dossier (Cal-Access primary extraction)", status: "applied (dossier hilton.md)", date: "2026-05-01" },
+      { name: "Hilton UK background research (Phase 5e)", status: "applied (ca-gov-2026-hilton-uk-research-2026-05-01.md) — Cameron strategy director, Whetstone career arc, Crowdpac dissolution", date: "2026-05-01" },
+      { name: "Hilton UK verifications follow-up", status: "applied (ca-gov-2026-hilton-uk-verifications-2026-05-01.md) — Crowdpac MVL not strike-off, FEC MUR 7309/7399, Hilton v. Weber", date: "2026-05-01" },
+      { name: "Hilton US side donor + media network (institutional money audit)", status: "applied — Sierra equity story + Lighthouse Worldwide Oregon C-suite cluster + Fox News commentator income surfaced", date: "2026-05-03" },
+      { name: "Hilton remaining gaps follow-up", status: "applied (perplexity-research/2026-05-03-hilton-remaining-gaps-results.md) — Sierra $10B valuation no OpenAI/MS investor, Lighthouse cluster verified, McEntee identity NOT confirmed, Form 700 Fox commentator income confirmed", date: "2026-05-03" },
+    ],
+    auditPasses: [],
+    editorialChecklist: [
+      { label: "Headline locked", detail: '"Steve Hilton holds stock in an AI startup. His wife runs its comms." (decided 2026-05-03 — David picked angle A from three-option proposal)', status: "done" },
+      { label: "Target ship date", detail: "Pending URL-pass and David sign-off; week 2-3 of distribution push", status: "pending" },
+      { label: "Form 700 disclosure spine (3 cards)", detail: "Schedule A-1 Sierra equity (Hilton) + Schedule C Sierra income $100K+ (Whetstone) + Schedule C Fox News commentator income $10K-$100K (Hilton). All three rendered as the hero black-banded callout. URL-pass critical: this filing IS the beat.", status: "done" },
+      { label: "Sierra → Bret Taylor → OpenAI board chair diagram", detail: "SVG showing both household arrows converging on Sierra, then Sierra chaired by Bret Taylor, who also chairs OpenAI's board. The chairmanship-overlap is the structural fact.", status: "done" },
+      { label: "Sacramento AI policy section (SB 1047 + AB 2013)", detail: "Two concrete bills cited: SB 1047 vetoed Sep 2024, AB 2013 in effect Jan 1 2026. Frames why a CA gov AI-equity disclosure is consequential.", status: "done" },
+      { label: "Donor base + top 15 table", detail: "$7.73M / 14,989 donors / avg $515. Top 15 includes Murdoch $39.2K, Tim Draper $78.4K, Chris Larsen $39.2K, John McEntee $39.2K. Cross-hedge: Brin and Lonsdale (also gave Mahan).", status: "done" },
+      { label: "Lighthouse Oregon C-suite cluster sidebar", detail: "Six employees from Grants Pass / Medford / Jacksonville OR gave ~$196K on same Dec 8/29 2025 dates. Corp gave nothing. Tae Yun Kim (chairman), Paul Newman (president), Thomas Saunders (SVP), Scott Salton (manager), Michael Chunhan (engineer) at $39K each.", status: "done" },
+      { label: "Open questions section", detail: "Sierra cap table, recusal protocol, Fox commentator role, Lighthouse ownership, McEntee identity. All flagged as open rather than asserted, per Rule 13 / lane discipline.", status: "done" },
+      { label: "MSNBC 2020-election-dodge clip", detail: "DROPPED — David: 'No need to keep the msnbc clip or anything. That was a bad idea from me.' Beat sticks to the structural conflict-of-interest spine.", status: "done" },
+      { label: "UK citizenship discrepancy", detail: "EXCLUDED from this beat — open Tier 3 question per dossier (Wikipedia says renounced; April 2026 social says dual). Not load-bearing for the Sierra/AI-conflict thesis. Park for separate handling.", status: "done" },
+      { label: "Prototype HTML", detail: "content/hilton/index.html + prototype/beat-hilton.html · ~625 lines. 3 Form 700 cards, 1 SVG (Sierra-OpenAI orbit), 2 receipts tables (top-15 + Lighthouse), 14 sources.", status: "done" },
+      { label: "Public-routes.json exposure", detail: "BLOCKED on David URL-pass. Per memory rule feedback_no_auto_public_route.md — Code Claude does not add slug to data/public-routes.json without explicit David authorization. URL-pass runs at /active-beat/hilton in ops.", status: "blocked" },
+      { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs once URL-pass clears", status: "pending" },
     ],
   },
   {

@@ -130,6 +130,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "Hilton · Holds AI-startup stock, wife runs its comms (DRAFT)",
+    url: "http://localhost:8096/hilton",
+    description: "Steve Hilton's March 6 2026 Form 700 puts him personally on Schedule A-1 holding equity in Sierra Technology Inc., a private AI company at $10B valuation chaired by OpenAI board chair Bret Taylor. His spouse Rachel Whetstone is on Schedule C with $100K+ Sierra income as comms lead. Hilton also discloses ongoing Fox News commentator income. Donor base includes Murdoch $39.2K + Brin/Lonsdale cross-hedge from Mahan + Lighthouse Worldwide rural-Oregon C-suite cluster (~$196K). Built 2026-05-03. Pending URL pass before public exposure.",
+    status: "draft-isolated",
+    category: "beat",
+  },
+  {
     title: "About",
     url: "http://localhost:8096/about",
     description: "About page curated from the original 'Behind the Map' content into beat format. Why this exists, the class-analysis lens, how the site works, the standards it holds itself to. Linked from the homepage nav and the beat-page nav.",
