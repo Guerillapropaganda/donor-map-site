@@ -555,66 +555,90 @@ html, body {
 <section class="featured">
   <div class="featured-inner">
     <div class="section-label">Latest investigation</div>
-    <a href="/three-becerras" class="beat-card">
+    <a href="/class-traitor" class="beat-card">
       <div class="visual">
-        <!-- Inline three-audiences SVG: Becerra at top → 3 audience messages -->
-        <svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" aria-label="Three audiences hearing three messages from Becerra on single payer">
+        <!-- Inline anti-Steyer SVG: 5 industries → 1 committee → Steyer target -->
+        <svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" aria-label="Five industries funding a single anti-Steyer committee">
           <defs>
             <marker id="arrow-bk-h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
               <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
             </marker>
+            <marker id="arrow-rd-h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946"/>
+            </marker>
           </defs>
 
-          <!-- Top: Becerra source node -->
-          <rect x="140" y="14" width="80" height="44" fill="#0a0a0a"/>
-          <text x="180" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" fill="#fbbf24" letter-spacing="-0.5">BECERRA</text>
-          <text x="180" y="46" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#aaa">CA GOV 2026</text>
+          <!-- Column headers -->
+          <text x="55" y="12" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#666" letter-spacing="1">DONOR CLASS</text>
+          <text x="180" y="12" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#666" letter-spacing="1">SPENDING COMMITTEE</text>
+          <text x="316" y="12" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#666" letter-spacing="1">TARGETED</text>
 
-          <!-- Three audience message boxes -->
-          <!-- Audience 1: campaign website (blue) -->
-          <rect x="6" y="98" width="100" height="60" fill="#fff" stroke="#1d4ed8" stroke-width="1.5"/>
-          <text x="56" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#1d4ed8" letter-spacing="1">WEBSITE / 3-23</text>
-          <text x="56" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"deliver single-</text>
-          <text x="56" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">payer for our state"</text>
+          <!-- Left column: 5 industries -->
+          <g font-family="Space Mono, monospace" font-size="8" font-weight="700" fill="#1a1a1a">
+            <rect x="6" y="22" width="100" height="22" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1"/>
+            <text x="56" y="32" text-anchor="middle" font-size="8">PG&amp;E (utility)</text>
+            <text x="56" y="41" text-anchor="middle" font-size="7" font-weight="400">$10,050,000</text>
 
-          <!-- Audience 2: LAist interview (black) -->
-          <rect x="130" y="98" width="100" height="60" fill="#fff" stroke="#0a0a0a" stroke-width="1.5"/>
-          <text x="180" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">LAIST</text>
-          <text x="180" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"this fed govt</text>
-          <text x="180" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">won't help us"</text>
+            <rect x="6" y="50" width="100" height="22" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1"/>
+            <text x="56" y="60" text-anchor="middle" font-size="8">CA Realtors</text>
+            <text x="56" y="69" text-anchor="middle" font-size="7" font-weight="400">$5,000,000</text>
 
-          <!-- Audience 3: doctors lobby (red) -->
-          <rect x="254" y="98" width="100" height="60" fill="#fff" stroke="#e63946" stroke-width="1.5"/>
-          <text x="304" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#e63946" letter-spacing="1">DOCTORS / KQED</text>
-          <text x="304" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"wasn't supportive</text>
-          <text x="304" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">of single payer"</text>
+            <rect x="6" y="78" width="100" height="22" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1"/>
+            <text x="56" y="88" text-anchor="middle" font-size="8">JOBSPAC (Chamber)</text>
+            <text x="56" y="97" text-anchor="middle" font-size="7" font-weight="400">$5,000,000</text>
 
-          <!-- Arrows from Becerra to each audience -->
-          <line x1="155" y1="58" x2="56" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
-          <line x1="180" y1="58" x2="180" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
-          <line x1="205" y1="58" x2="304" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
+            <rect x="6" y="106" width="100" height="22" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1"/>
+            <text x="56" y="116" text-anchor="middle" font-size="8">CA Building Industry</text>
+            <text x="56" y="125" text-anchor="middle" font-size="7" font-weight="400">$1,000,000</text>
+
+            <rect x="6" y="134" width="100" height="22" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1"/>
+            <text x="56" y="144" text-anchor="middle" font-size="8">CCPOA (prison guards)</text>
+            <text x="56" y="153" text-anchor="middle" font-size="7" font-weight="400">$25,000</text>
+          </g>
+
+          <!-- Center: anti-Steyer committee -->
+          <rect x="135" y="58" width="90" height="68" fill="#0a0a0a"/>
+          <text x="180" y="84" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="900" fill="#fbbf24" letter-spacing="-0.5">$21M</text>
+          <text x="180" y="100" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fff" letter-spacing="1">CALIFORNIA IS</text>
+          <text x="180" y="110" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fff" letter-spacing="1">NOT FOR SALE</text>
+          <text x="180" y="121" text-anchor="middle" font-family="Space Mono, monospace" font-size="5" fill="#fbbf24" letter-spacing="1">NO ON STEYER</text>
+
+          <!-- Right: target -->
+          <rect x="266" y="74" width="88" height="40" fill="#e63946"/>
+          <text x="310" y="92" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" fill="#fff" letter-spacing="-0.5">TOM STEYER</text>
+          <text x="310" y="106" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" fill="#fff" letter-spacing="1">CLIMATE BILLIONAIRE</text>
+
+          <!-- Arrows: industries → committee -->
+          <line x1="106" y1="33" x2="135" y2="68" stroke="#0a0a0a" stroke-width="1" marker-end="url(#arrow-bk-h)"/>
+          <line x1="106" y1="61" x2="135" y2="78" stroke="#0a0a0a" stroke-width="1" marker-end="url(#arrow-bk-h)"/>
+          <line x1="106" y1="89" x2="135" y2="92" stroke="#0a0a0a" stroke-width="1" marker-end="url(#arrow-bk-h)"/>
+          <line x1="106" y1="117" x2="135" y2="106" stroke="#0a0a0a" stroke-width="1" marker-end="url(#arrow-bk-h)"/>
+          <line x1="106" y1="145" x2="135" y2="118" stroke="#0a0a0a" stroke-width="1" marker-end="url(#arrow-bk-h)"/>
+
+          <!-- Arrow: committee → target -->
+          <line x1="225" y1="92" x2="266" y2="92" stroke="#e63946" stroke-width="2" marker-end="url(#arrow-rd-h)"/>
 
           <!-- Receipt band at bottom -->
           <rect x="6" y="180" width="348" height="64" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
-          <text x="180" y="195" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">HEALTHCARE-INDUSTRY MAX DONORS</text>
+          <text x="180" y="195" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">ANTI-STEYER COALITION · CAL-ACCESS VERIFIED</text>
           <g font-family="Space Mono, monospace" font-size="8" fill="#0a0a0a">
-            <text x="14" y="212">Schaeffer (Anthem)</text><text x="170" y="212" text-anchor="end" font-weight="700">$39,200</text>
-            <text x="180" y="212">Molina Healthcare CEO</text><text x="346" y="212" text-anchor="end" font-weight="700">$49,700</text>
-            <text x="14" y="226">AltaMed (largest CA FQHC)</text><text x="170" y="226" text-anchor="end" font-weight="700">$39,200</text>
-            <text x="180" y="226">Cantu (DHR Health)</text><text x="346" y="226" text-anchor="end" font-weight="700">$39,200</text>
-            <text x="14" y="240">Prime Healthcare (HHS-OIG CIA)</text><text x="170" y="240" text-anchor="end" font-weight="700">$20,000</text>
-            <text x="180" y="240">Ayala household (Adventist+Kaiser)</text><text x="346" y="240" text-anchor="end" font-weight="700">$50,000</text>
+            <text x="14" y="212">Pacific Gas &amp; Electric</text><text x="170" y="212" text-anchor="end" font-weight="700">$10,050,000</text>
+            <text x="180" y="212">CA Association of Realtors</text><text x="346" y="212" text-anchor="end" font-weight="700">$5,000,000</text>
+            <text x="14" y="226">JOBSPAC (Chamber)</text><text x="170" y="226" text-anchor="end" font-weight="700">$5,000,000</text>
+            <text x="180" y="226">CA Building Industry Assn</text><text x="346" y="226" text-anchor="end" font-weight="700">$1,000,000</text>
+            <text x="14" y="240">CCPOA (prison guards union)</text><text x="170" y="240" text-anchor="end" font-weight="700">$25,000</text>
+            <text x="180" y="240" font-weight="700">Total raised through Apr 2026</text><text x="346" y="240" text-anchor="end" font-weight="900">$21,075,000</text>
           </g>
         </svg>
       </div>
       <div class="content">
         <div class="meta">
-          <span class="date">May 2, 2026</span>
+          <span class="date">May 2026</span>
           <span class="tag">CA Gov 2026</span>
         </div>
-        <h2>What he says depends on <span class="h-red">who is listening</span>.</h2>
+        <h2>$31 million to bury <span class="h-red">a class traitor</span>.</h2>
         <p class="deck">
-          Xavier Becerra cosponsored single-payer bills seven times across four Congresses. On March 23 he said he was ready to "deliver single-payer health care for our state." Six weeks later he told the doctors lobby he was not supportive at this point. The receipts on his donor list explain who is acceptable to whom.
+          California's donor class organized against Tom Steyer. Pacific Gas &amp; Electric, the realtors, the chamber of commerce, the building industry, and the prison guards union. Five industries put $21 million into a single committee whose entire purpose is defeating him. The only billionaire in the race willing to break with them.
         </p>
         <span class="read-more">Read the receipts →</span>
       </div>
@@ -633,10 +657,10 @@ html, body {
         <p class="deck-mini">$39,200 from Chevron landed in Becerra's governor account on June 16, 2025. Two rivals refused fossil fuel money. He took the legal max and called the company "not the bad guy."</p>
         <span class="read-more-mini">Read the receipts →</span>
       </a>
-      <a href="/class-traitor" class="beat-mini live">
+      <a href="/three-becerras" class="beat-mini live">
         <div class="meta-mini">Live · CA Gov 2026</div>
-        <h3>$31 million to bury a <span style="background: var(--red); color: #fff; padding: 0 4px;">class traitor</span>.</h3>
-        <p class="deck-mini">California's donor class organized against Tom Steyer: utility, realtors, chamber, developers, prison guards. The only billionaire in the race willing to break with them.</p>
+        <h3>What he says depends on <span style="background: var(--red); color: #fff; padding: 0 4px;">who is listening</span>.</h3>
+        <p class="deck-mini">Xavier Becerra cosponsored single-payer bills seven times across four Congresses. Six weeks in 2026 he gave three different answers to the same question. The hardest version was reserved for the doctors lobby.</p>
         <span class="read-more-mini">Read the receipts →</span>
       </a>
       <a href="/mahan" class="beat-mini live">

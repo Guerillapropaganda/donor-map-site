@@ -186,7 +186,7 @@ html, body {
 .promise h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; letter-spacing: -1px; margin-bottom: 24px; color: var(--black); }
 .promise p { font-family: 'Inter', sans-serif; font-size: 18px; line-height: 1.6; color: var(--ink); margin-bottom: 16px; }
 .promise p strong { background: var(--yellow); padding: 0 4px; }
-.promise .source-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 32px; }
+.promise .source-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; margin-top: 32px; }
 @media (max-width: 700px) { .promise .source-list { grid-template-columns: 1fr; } }
 .source-item { padding: 16px 18px; border: 2px solid var(--black); background: var(--cream); }
 .source-item .source-label { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 6px; }
@@ -266,25 +266,8 @@ html, body {
 
     <div class="beat-grid">
 
-      <!-- Mahan (featured) -->
-      <a href="/mahan" class="beat-tile featured has-companion">
-        <span class="tile-tag">CA Gov 2026 · Mahan</span>
-        <h2>$43 million for <span class="h-yellow">Matt Mahan</span>. Sixty-one people wrote almost all of it.</h2>
-        <p class="deck">
-          Of every $100 backing his California governor campaign, $67 came from 61 wealthy donors going around the contribution limit through IE PACs. Forty cents came from voters writing $200 or less.
-        </p>
-        <div class="key-stat">
-          <span class="stat-num">67%</span>
-          <span class="stat-text">of his money sits in IE PACs<br>versus 30% or below for every other candidate</span>
-        </div>
-        <div class="meta-row">
-          <span>Published May 2026</span>
-          <span class="read-cta">Read the investigation →</span>
-        </div>
-      </a>
-
-      <!-- Class Traitor -->
-      <a href="/class-traitor" class="beat-tile">
+      <!-- Class Traitor (featured) -->
+      <a href="/class-traitor" class="beat-tile featured">
         <span class="tile-tag">CA Gov 2026 · Steyer</span>
         <h2>$31 million to bury <span class="h-red">a class traitor</span>.</h2>
         <p class="deck">
@@ -293,6 +276,23 @@ html, body {
         <div class="key-stat">
           <span class="stat-num">$10M</span>
           <span class="stat-text">from PG&amp;E alone<br>through a two-committee funnel structure</span>
+        </div>
+        <div class="meta-row">
+          <span>Published May 2026</span>
+          <span class="read-cta">Read the investigation →</span>
+        </div>
+      </a>
+
+      <!-- Mahan -->
+      <a href="/mahan" class="beat-tile has-companion">
+        <span class="tile-tag">CA Gov 2026 · Mahan</span>
+        <h2>$43 million for <span class="h-yellow">Matt Mahan</span>. Sixty-one people wrote almost all of it.</h2>
+        <p class="deck">
+          Of every $100 backing his California governor campaign, $67 came from 61 wealthy donors going around the contribution limit through IE PACs. Forty cents came from voters writing $200 or less.
+        </p>
+        <div class="key-stat">
+          <span class="stat-num">67%</span>
+          <span class="stat-text">of his money sits in IE PACs<br>versus 30% or below for every other candidate</span>
         </div>
         <div class="meta-row">
           <span>Published May 2026</span>
@@ -394,10 +394,6 @@ html, body {
       <div class="source-item">
         <div class="source-label">Tier 2 · named press</div>
         <div class="source-name">Politico · CalMatters · LA Times · SF Chronicle · KQED · Sacramento Bee · LAist · San José Spotlight</div>
-      </div>
-      <div class="source-item">
-        <div class="source-label">Out of scope</div>
-        <div class="source-name">Aggregators · social media · opinion blogs · Substacks · partisan outlets · AI-generated content</div>
       </div>
     </div>
   </div>
