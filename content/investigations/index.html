@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Investigations · The Donor Map</title>
+<meta name="description" content="Every published investigation. California 2026 Governor primary, mapped by donor. Cal-Access primary-source verified. Open source, no paywall.">
+<meta property="og:site_name" content="The Donor Map">
+<meta property="og:title" content="Investigations · The Donor Map">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://thedonormap.org/investigations/">
+<meta property="og:description" content="Every published investigation. California 2026 Governor primary, mapped by donor.">
+<meta property="og:image" content="https://thedonormap.org/static/share/investigations.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:alt" content="The Donor Map · Investigations index.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Investigations · The Donor Map">
+<meta name="twitter:description" content="California 2026 Governor primary, mapped by donor.">
+<meta name="twitter:image" content="https://thedonormap.org/static/share/investigations.png">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Top nav (mirrors beat pages) */
+.nav { border-bottom: 2px solid var(--black); padding: 18px 0; background: var(--cream); position: sticky; top: 0; z-index: 10; }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; color: var(--black); text-decoration: none; }
+.nav-links { display: flex; gap: 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.nav-links a { color: var(--ink); text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 2px; }
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+/* ─── HERO ─── */
+.hero { padding: 96px 32px 48px; border-bottom: 4px solid var(--black); background: var(--cream); }
+.hero-inner { max-width: 1100px; margin: 0 auto; }
+.hero-tag { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 20px; }
+.hero h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 168px;
+  line-height: 0.85;
+  letter-spacing: -8px;
+  color: var(--black);
+  margin-bottom: 32px;
+}
+.hero h1 .yellow-block { background: var(--yellow); padding: 0 8px; }
+.hero .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 36px;
+  line-height: 1.25;
+  color: var(--ink);
+  max-width: 720px;
+  margin-bottom: 40px;
+}
+
+/* ─── Stat strip ─── */
+.stat-strip { background: var(--black); color: var(--cream); padding: 32px; border-bottom: 4px solid var(--black); }
+.stat-strip-inner { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+@media (max-width: 800px) { .stat-strip-inner { grid-template-columns: repeat(2, 1fr); } }
+.stat-cell { padding: 0 12px; border-left: 3px solid var(--yellow); }
+.stat-cell .num { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 48px; line-height: 1; letter-spacing: -1.5px; color: var(--yellow); margin-bottom: 6px; }
+.stat-cell .label { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--cream); line-height: 1.4; }
+
+/* ─── Investigation tiles ─── */
+.investigations { padding: 80px 32px; }
+.investigations-inner { max-width: 1100px; margin: 0 auto; }
+.section-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 24px; padding-bottom: 12px; border-bottom: 2px solid var(--black); }
+
+.beat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 36px; }
+@media (max-width: 800px) { .beat-grid { grid-template-columns: 1fr; gap: 24px; } }
+
+.beat-tile {
+  display: block;
+  text-decoration: none;
+  color: var(--ink);
+  padding: 32px;
+  border: 3px solid var(--black);
+  background: var(--cream);
+  position: relative;
+  transition: transform 0.12s ease-out, background 0.12s ease-out;
+}
+.beat-tile:hover { background: var(--paper); transform: translate(-3px, -3px); box-shadow: 6px 6px 0 var(--black); }
+.beat-tile.featured { background: var(--yellow); }
+.beat-tile.featured:hover { background: #f9b417; }
+
+.beat-tile .tile-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 18px; }
+.beat-tile.has-companion .tile-tag::after { content: " · COMPANION DATA"; color: var(--yellow); }
+
+.beat-tile h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 38px;
+  line-height: 0.98;
+  letter-spacing: -1.5px;
+  color: var(--black);
+  margin-bottom: 16px;
+}
+.beat-tile h2 .h-red { background: var(--red); color: #fff; padding: 0 6px; }
+.beat-tile h2 .h-yellow { background: var(--yellow); padding: 0 6px; }
+.beat-tile.featured h2 .h-yellow { background: var(--cream); }
+
+.beat-tile .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 19px;
+  line-height: 1.4;
+  color: var(--muted);
+  margin-bottom: 24px;
+}
+.beat-tile.featured .deck { color: var(--ink); }
+
+.beat-tile .key-stat {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 14px 0;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  border-bottom: 1px solid var(--line);
+}
+.beat-tile .key-stat .stat-num {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: var(--black);
+}
+.beat-tile .key-stat .stat-text {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--muted);
+  text-transform: uppercase;
+  line-height: 1.4;
+}
+
+.beat-tile .meta-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+.beat-tile .read-cta {
+  color: var(--black);
+  border-bottom: 2px solid var(--black);
+  padding-bottom: 1px;
+}
+.beat-tile.featured .read-cta { border-bottom-color: var(--ink); }
+
+/* ─── Methodology + Source promise ─── */
+.promise { padding: 64px 32px; background: var(--paper); border-top: 2px solid var(--black); border-bottom: 2px solid var(--black); }
+.promise-inner { max-width: 880px; margin: 0 auto; }
+.promise h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; letter-spacing: -1px; margin-bottom: 24px; color: var(--black); }
+.promise p { font-family: 'Inter', sans-serif; font-size: 18px; line-height: 1.6; color: var(--ink); margin-bottom: 16px; }
+.promise p strong { background: var(--yellow); padding: 0 4px; }
+.promise .source-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-top: 32px; }
+@media (max-width: 700px) { .promise .source-list { grid-template-columns: 1fr; } }
+.source-item { padding: 16px 18px; border: 2px solid var(--black); background: var(--cream); }
+.source-item .source-label { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 6px; }
+.source-item .source-name { font-family: 'Inter', sans-serif; font-weight: 700; font-size: 15px; color: var(--ink); }
+
+/* ─── Footer ─── */
+.beat-footer { padding: 48px 32px; background: var(--black); color: var(--cream); text-align: center; }
+.beat-footer .brand-footer { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 8px; }
+.beat-footer .brand-footer em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: #ddd; }
+.beat-footer .tagline-footer { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 16px; color: #aaa; margin-bottom: 24px; }
+.beat-footer .footer-cta { display: inline-block; font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--cream); text-decoration: none; border: 2px solid var(--cream); padding: 10px 22px; margin: 0 8px; }
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small { font-family: 'Space Mono', monospace; font-size: 11px; color: #777; letter-spacing: 1px; margin-top: 32px; }
+
+@media (max-width: 800px) {
+  .hero h1 { font-size: 88px; letter-spacing: -3px; }
+  .hero .deck { font-size: 22px; }
+  .stat-strip-inner { grid-template-columns: 1fr 1fr; }
+  .stat-cell .num { font-size: 36px; }
+  .beat-tile h2 { font-size: 28px; }
+  .beat-tile .key-stat .stat-num { font-size: 26px; }
+  .promise h3 { font-size: 26px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/investigations" class="active">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── HERO ─── -->
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-tag">Every investigation · Cal-Access primary-source verified · Open</div>
+    <h1>INVESTI-<br><span class="yellow-block">GATIONS</span>.</h1>
+    <p class="deck">
+      The 2026 California Governor primary, mapped by donor. Five published investigations. Every dollar traced to its primary source. Every claim documented before it ships.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Stat strip ─── -->
+<section class="stat-strip">
+  <div class="stat-strip-inner">
+    <div class="stat-cell">
+      <div class="num">5</div>
+      <div class="label">Published<br>investigations</div>
+    </div>
+    <div class="stat-cell">
+      <div class="num">$285M+</div>
+      <div class="label">Pro / anti<br>candidate money traced</div>
+    </div>
+    <div class="stat-cell">
+      <div class="num">100%</div>
+      <div class="label">FPPC Cal-Access<br>primary-source verified</div>
+    </div>
+    <div class="stat-cell">
+      <div class="num">$0</div>
+      <div class="label">Paywall.<br>Subscription. Donations required.</div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── Investigation tiles ─── -->
+<section class="investigations">
+  <div class="investigations-inner">
+    <div class="section-label">Published · 2026 California Governor Primary</div>
+
+    <div class="beat-grid">
+
+      <!-- Mahan (featured) -->
+      <a href="/mahan" class="beat-tile featured has-companion">
+        <span class="tile-tag">CA Gov 2026 · Mahan</span>
+        <h2>$43 million for <span class="h-yellow">Matt Mahan</span>. Sixty-one people wrote almost all of it.</h2>
+        <p class="deck">
+          Of every $100 backing his California governor campaign, $67 came from 61 wealthy donors going around the contribution limit through IE PACs. Forty cents came from voters writing $200 or less.
+        </p>
+        <div class="key-stat">
+          <span class="stat-num">67%</span>
+          <span class="stat-text">of his money sits in IE PACs<br>versus 30% or below for every other candidate</span>
+        </div>
+        <div class="meta-row">
+          <span>Published May 2026</span>
+          <span class="read-cta">Read the investigation →</span>
+        </div>
+      </a>
+
+      <!-- Class Traitor -->
+      <a href="/class-traitor" class="beat-tile">
+        <span class="tile-tag">CA Gov 2026 · Steyer</span>
+        <h2>$31 million to bury <span class="h-red">a class traitor</span>.</h2>
+        <p class="deck">
+          California's donor class organized against Tom Steyer. PG&amp;E. Realtors. Chamber of commerce. Building industry. Prison guards. Five industries, one committee, $21 million raised.
+        </p>
+        <div class="key-stat">
+          <span class="stat-num">$10M</span>
+          <span class="stat-text">from PG&amp;E alone<br>through a two-committee funnel structure</span>
+        </div>
+        <div class="meta-row">
+          <span>Published May 2026</span>
+          <span class="read-cta">Read the investigation →</span>
+        </div>
+      </a>
+
+      <!-- Three Becerras -->
+      <a href="/three-becerras" class="beat-tile has-companion">
+        <span class="tile-tag">CA Gov 2026 · Becerra</span>
+        <h2>Three audiences. <span class="h-red">Three Becerras</span>.</h2>
+        <p class="deck">
+          Six weeks in 2026. Xavier Becerra gave three different answers to the same question on single-payer. The hardest version was reserved for the doctors lobby.
+        </p>
+        <div class="key-stat">
+          <span class="stat-num">7×</span>
+          <span class="stat-text">cosponsored single-payer bills<br>across four Congresses before reversing in private</span>
+        </div>
+        <div class="meta-row">
+          <span>Published May 2026</span>
+          <span class="read-cta">Read the investigation →</span>
+        </div>
+      </a>
+
+      <!-- Not the Bad Guy -->
+      <a href="/not-the-bad-guy" class="beat-tile">
+        <span class="tile-tag">CA Gov 2026 · Becerra</span>
+        <h2>He took the check. <span class="h-red">Then he defended it.</span></h2>
+        <p class="deck">
+          January 2020: Becerra's office sues Chevron over fracking. June 2025: Chevron writes him a $39,200 check. April 2026: he calls Chevron "not the bad guy."
+        </p>
+        <div class="key-stat">
+          <span class="stat-num">$39,200</span>
+          <span class="stat-text">FPPC max donation from Chevron<br>after a five-year adversarial litigation history</span>
+        </div>
+        <div class="meta-row">
+          <span>Published May 2026</span>
+          <span class="read-cta">Read the investigation →</span>
+        </div>
+      </a>
+
+    </div>
+
+    <!-- Companion data pages -->
+    <div class="section-label" style="margin-top: 80px;">Companion data pages</div>
+    <div class="beat-grid">
+
+      <a href="/donors-mahan-2026" class="beat-tile" style="background: var(--paper);">
+        <span class="tile-tag">Companion · Mahan</span>
+        <h2>Mahan for Governor 2026 · top donors.</h2>
+        <p class="deck">
+          The full top-donor list across the candidate committee plus the two pro-Mahan IE PACs plus the Govern for California pass-through.
+        </p>
+        <div class="key-stat">
+          <span class="stat-num">100</span>
+          <span class="stat-text">donors tied at the FPPC max<br>of $78,400 in the candidate committee alone</span>
+        </div>
+        <div class="meta-row">
+          <span>Published May 2026</span>
+          <span class="read-cta">See the donor list →</span>
+        </div>
+      </a>
+
+      <a href="/donors-becerra-2026" class="beat-tile" style="background: var(--paper);">
+        <span class="tile-tag">Companion · Becerra</span>
+        <h2>Becerra for Governor 2026 · top donors.</h2>
+        <p class="deck">
+          Companion to /three-becerras. Top fifteen donors plus the six healthcare-industry max donors with class tags and HHS-policy hooks.
+        </p>
+        <div class="key-stat">
+          <span class="stat-num">5,061</span>
+          <span class="stat-text">donors total · the top 15<br>industry-classified, plus the healthcare slice</span>
+        </div>
+        <div class="meta-row">
+          <span>Published May 2026</span>
+          <span class="read-cta">See the donor list →</span>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ─── Promise / methodology ─── -->
+<section class="promise">
+  <div class="promise-inner">
+    <h3>Every claim documented before it ships.</h3>
+    <p>
+      Every dollar figure on this site is verified against California Secretary of State <strong>Cal-Access</strong> primary-source filings. Every press attribution links to the named publication's article. Every quote traces to a Tier 1 transcript or named-publication interview.
+    </p>
+    <p>
+      Investigations ship only after the inline-citation URL pass is complete. The data layer is the editorial standard.
+    </p>
+    <div class="source-list">
+      <div class="source-item">
+        <div class="source-label">Tier 1 · primary</div>
+        <div class="source-name">Cal-Access · FPPC · FEC · IRS · DFPI · State Water Board · federal court records</div>
+      </div>
+      <div class="source-item">
+        <div class="source-label">Tier 2 · named press</div>
+        <div class="source-name">Politico · CalMatters · LA Times · SF Chronicle · KQED · Sacramento Bee · LAist · San José Spotlight</div>
+      </div>
+      <div class="source-item">
+        <div class="source-label">Out of scope</div>
+        <div class="source-name">Aggregators · social media · opinion blogs · Substacks · partisan outlets · AI-generated content</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>MAP</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/" class="footer-cta">Home</a>
+  <a href="/about" class="footer-cta">About</a>
+  <div class="small">thedonormap.org · Open source · No paywall · No AI-generated content</div>
+</footer>
+
+</body>
+</html>

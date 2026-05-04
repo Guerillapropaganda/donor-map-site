@@ -128,6 +128,15 @@ const CARDS = [
     headlineSize: 84,
     headlineFont: 'Inter-Black',
   },
+  {
+    slug: 'investigations',
+    out: path.join(SHARE_DIR, 'investigations.png'),
+    headline: 'INVESTIGATIONS.',
+    deck: 'Every published investigation. California 2026 Governor primary, mapped by donor.',
+    accent: '#fbbf24',
+    headlineSize: 110,
+    headlineFont: 'Inter-Black',
+  },
 ];
 
 function buildCard(card, fonts) {
