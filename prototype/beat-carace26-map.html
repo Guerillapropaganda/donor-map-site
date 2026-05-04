@@ -277,7 +277,7 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
 <!-- ─── Hero radial map · the WOW visual ─── -->
 <section class="hero-map">
   <div class="hero-map-inner">
-    <div class="label">The whole field · eight candidates · 55 named donors · 8 hedge bets</div>
+    <div class="label">The whole field · eight candidates · 60 named donors · 15 hedge bets · 6 cross-party</div>
     <div class="sub">Hover any candidate to see who funded them. Hover any donor to see which candidates they fund. Click to lock the highlight.</div>
 
     <div class="rm-graph-host">
@@ -893,8 +893,8 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     // ─── Cross-party hedges (multi-candidate, multi-party) ───
     { id: 'brin',           label: 'BRIN',          full: 'Sergey Brin', meta: 'Google co-founder', industry: 'tech-vc',
       edges: [{ to: 'hilton', amount: 39200 }, { to: 'mahan', amount: 1000000, viaIE: true }] },
-    { id: 'larsen',         label: 'LARSEN',        full: 'Christian (Chris) Larsen', meta: 'Ripple Labs executive chairman', industry: 'crypto',
-      edges: [{ to: 'hilton', amount: 39200 }, { to: 'porter', amount: 117600 }] },
+    { id: 'larsen',         label: 'LARSEN',        full: 'Christian (Chris) Larsen', meta: 'Ripple Labs executive chairman · same-person verified across Hilton + Porter filings', industry: 'crypto',
+      edges: [{ to: 'hilton', amount: 39200 }, { to: 'porter', amount: 39200 }] },
     { id: 'lonsdale',       label: 'LONSDALE',      full: 'Joe Lonsdale', meta: 'Palantir co-founder · 8VC', industry: 'tech-vc',
       edges: [{ to: 'hilton', amount: 25000 }, { to: 'mahan', amount: 78400 }] },
     { id: 'highland',       label: 'HIGHLAND',      full: 'Highland Fairview Operating Co.', meta: 'Iddo Benzeevi · Riverside megadeveloper', industry: 'real-estate',
@@ -905,8 +905,22 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       edges: [{ to: 'becerra', amount: 25000 }, { to: 'porter', amount: 103400 }] },
     { id: 'chevron',        label: 'CHEVRON',       full: 'Chevron USA', meta: 'Oil major', industry: 'oil',
       edges: [{ to: 'villaraigosa', amount: 78400 }, { to: 'becerra', amount: 39200 }] },
-    { id: 'habematolel',    label: 'HABEMATOLEL',   full: 'Habematolel Pomo of Upper Lake', meta: 'Tribal gaming', industry: 'tribal',
-      edges: [{ to: 'villaraigosa', amount: 79200 }, { to: 'thurmond', amount: 15000 }] },
+    { id: 'habematolel',    label: 'HABEMATOLEL',   full: 'Habematolel Pomo of Upper Lake', meta: 'Tribal gaming · also runs HPUL Tribal Consumer Financial Services Regulatory Commission', industry: 'tribal',
+      edges: [{ to: 'villaraigosa', amount: 59200 }, { to: 'thurmond', amount: 39200 }] },
+    { id: 'pechanga',       label: 'PECHANGA',      full: 'Pechanga Band of Luiseño Indians', meta: 'Tribal gaming · cross-party tribal hedge across R + 2 D candidates', industry: 'tribal',
+      edges: [{ to: 'bianco', amount: 25000 }, { to: 'becerra', amount: 44600 }, { to: 'porter', amount: 25000 }] },
+    { id: 'caruso',         label: 'CARUSO',        full: 'Rick Caruso', meta: 'Caruso Affiliated · former LA mayoral candidate · cross-Dem hedge', industry: 'real-estate',
+      edges: [{ to: 'mahan', amount: 250000, viaIE: true }, { to: 'becerra', amount: 39200 }] },
+    { id: 'resnick',        label: 'RESNICK',       full: 'Stewart + Lynda Resnick · The Wonderful Co.', meta: 'CA agricultural / water-rights empire · 3-way Dem hedge', industry: 'agriculture',
+      edges: [{ to: 'villaraigosa', amount: 36400 }, { to: 'becerra', amount: 39200 }, { to: 'mahan', amount: 100000, viaIE: true }] },
+    { id: 'rappaport',      label: 'RAPPAPORT',     full: 'Kurt Rappaport · Westside Estate Agency', meta: 'Ultra-luxury LA real estate broker · cross-Dem hedge', industry: 'real-estate',
+      edges: [{ to: 'villaraigosa', amount: 36400 }, { to: 'mahan', amount: 39200, viaIE: true }] },
+    { id: 'pyle',           label: 'PYLE',          full: 'David A. Pyle', meta: 'Cross-Dem hedge · Villaraigosa + Porter', industry: 'finance',
+      edges: [{ to: 'villaraigosa', amount: 39200 }, { to: 'porter', amount: 39200 }] },
+    { id: 'santa-ynez',     label: 'SANTA YNEZ',    full: 'Santa Ynez Band of Mission Indians', meta: 'Tribal gaming · 3-way Dem hedge across Thurmond + Becerra + Porter', industry: 'tribal',
+      edges: [{ to: 'thurmond', amount: 15000 }, { to: 'becerra', amount: 25000 }, { to: 'porter', amount: 25000 }] },
+    { id: 'sycuan',         label: 'SYCUAN',        full: 'Sycuan Band of the Kumeyaay Nation', meta: 'Tribal gaming · cross-Dem hedge', industry: 'tribal',
+      edges: [{ to: 'thurmond', amount: 15000 }, { to: 'villaraigosa', amount: 25000 }] },
 
     // ─── Hilton (R) ───
     { id: 'draper',         label: 'DRAPER',        full: 'Tim Draper', meta: 'DFJ founder · libertarian VC', industry: 'libertarian',
@@ -921,7 +935,7 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       edges: [{ to: 'hilton', amount: 196000 }] },
 
     // ─── Bianco (R) ───
-    { id: 'md-downs',       label: 'M&D/DOWNS',     full: 'M&D Development + Downs Energy', meta: 'Sibling-managed LLCs · same Corona address', industry: 'cluster', cluster: true,
+    { id: 'md-downs',       label: 'M&D/DOWNS',     full: 'M&D Development + Downs Energy', meta: 'Linked Downs-family Corona entities · M&D operates Downs Energy per City of Corona staff report · Downs assets acquired by SC Fuels Oct 2025', industry: 'cluster', cluster: true,
       edges: [{ to: 'bianco', amount: 156800 }] },
     { id: 'haagen',         label: 'HAAGEN',        full: 'Haagen Company family', meta: 'Commercial real-estate · Alexander + Betty Haagen household', industry: 'real-estate', cluster: true,
       edges: [{ to: 'bianco', amount: 78400 }] },
@@ -935,14 +949,18 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       edges: [{ to: 'becerra', amount: 39200 }] },
     { id: 'schaeffer',      label: 'SCHAEFFER',     full: 'Leonard Schaeffer', meta: 'Founder/former CEO of WellPoint (Anthem)', industry: 'healthcare',
       edges: [{ to: 'becerra', amount: 39200 }] },
-    { id: 'pechanga',       label: 'PECHANGA',      full: 'Pechanga Band of Luiseño Indians', meta: 'Tribal gaming · CA institutional Dem coalition', industry: 'tribal',
-      edges: [{ to: 'becerra', amount: 44600 }] },
+    // Pechanga upgraded to 3-way cross-party hedge per 2026-05-04 verification:
+    // tribe gives to Bianco (R) + Becerra (D) + Porter (D), the first cross-party tribal hedge in the field
     { id: 'prime-health',   label: 'PRIME HLTH',    full: 'Prime Healthcare Services, Inc.', meta: 'Hospital chain · active HHS-OIG Corporate Integrity Agreement during Becerra tenure', industry: 'healthcare',
       edges: [{ to: 'becerra', amount: 20000 }] },
     { id: 'morgan-chu',     label: 'MORGAN CHU',    full: 'Morgan Chu', meta: 'Litigation Chair at Irell & Manella · life-sciences IP litigator', industry: 'plaintiffs',
       edges: [{ to: 'becerra', amount: 39200 }] },
     { id: 'cantu',          label: 'CANTU/DHR',     full: 'Cantu / DHR Health network', meta: 'Physician-owned hospital cluster · 4 family/affiliates same day', industry: 'healthcare', cluster: true,
       edges: [{ to: 'becerra', amount: 47300 }] },
+    { id: 'liuna-pswroc',   label: 'LIUNA PSW',     full: 'Laborers Pacific Southwest Regional Organizing Coalition PAC', meta: 'LIUNA affiliate · $2M into Working Families IE PAC for Becerra · F496 filed 2026-05-01', industry: 'labor',
+      edges: [{ to: 'becerra', amount: 2000000, viaIE: true }] },
+    { id: 'cpca-advocates', label: 'CPCA',          full: 'California Primary Care Association Advocates', meta: 'FQHC trade-group political arm · funded Working Families IE PAC for Becerra', industry: 'healthcare',
+      edges: [{ to: 'becerra', amount: 115200, viaIE: true }] },
 
     // ─── Mahan IE PAC (Back to Basics California) ───
     { id: 'moritz',         label: 'MORITZ',        full: 'Michael Moritz', meta: 'Chairman, Sequoia Capital', industry: 'tech-vc',
@@ -961,8 +979,7 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       edges: [{ to: 'mahan', amount: 500000, viaIE: true }] },
     { id: 'singerman',      label: 'SINGERMAN',     full: 'Brian Singerman', meta: 'Partner, Founders Fund (Peter Thiel network)', industry: 'tech-vc',
       edges: [{ to: 'mahan', amount: 250000, viaIE: true }] },
-    { id: 'caruso',         label: 'CARUSO',        full: 'Rick Caruso', meta: 'Caruso Affiliated · former LA mayoral candidate', industry: 'real-estate',
-      edges: [{ to: 'mahan', amount: 250000, viaIE: true }] },
+    // (Caruso moved to cross-party hedges section above — Mahan + Becerra)
 
     // ─── Porter (D) ───
     { id: 'kiani',          label: 'KIANI',         full: 'Joe Kiani', meta: 'Founder/CEO Masimo · medical devices · Willow Labs', industry: 'healthcare',
@@ -999,12 +1016,10 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       edges: [{ to: 'villaraigosa', amount: 78400 }] },
     { id: 'berry',          label: 'BERRY',         full: 'Berry Corporation', meta: 'CA-focused oil & gas', industry: 'oil',
       edges: [{ to: 'villaraigosa', amount: 78400 }] },
-    { id: 'resnick',        label: 'RESNICK',       full: 'Stewart Resnick', meta: 'Co-owner The Wonderful Co. (Fiji, POM, Pistachios) · CA water rights', industry: 'agriculture',
-      edges: [{ to: 'villaraigosa', amount: 36400 }] },
+    // (Resnick moved to cross-party hedges section above — 3-way Dem hedge: Villa + Becerra + Mahan)
     { id: 'polone',         label: 'POLONE',        full: 'Gavin Polone', meta: 'Hollywood producer (Gilmore Girls, Zombieland)', industry: 'entertainment',
       edges: [{ to: 'villaraigosa', amount: 78400 }] },
-    { id: 'rappaport',      label: 'RAPPAPORT',     full: 'Kurt Rappaport', meta: 'Westside Estate Agency · ultra-luxury LA real estate broker', industry: 'real-estate',
-      edges: [{ to: 'villaraigosa', amount: 36400 }] },
+    // (Rappaport moved to cross-party hedges section above — Villa + Mahan IE)
 
     // ─── Thurmond (D) — small-dollar education establishment ───
     { id: 'ibew-edu',       label: 'IBEW EDU',      full: 'IBEW PAC Educational Fund', meta: 'Electrical workers union political fund', industry: 'labor',
