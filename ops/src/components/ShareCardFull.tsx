@@ -10,13 +10,14 @@ import { forwardRef } from "react"
  * shareCardKind set; the ops Copy as PNG button captures this element
  * via html2canvas → clipboard.
  *
- * Three kinds correspond to the three live CA Gov 2026 beats:
- *   three-becerras    — BECERRA → 3 audiences daisy chain + healthcare donor band
- *   not-the-bad-guy   — Jan 2020 AG fracking suit → Jun 2025 Chevron $39,200 → Apr 2026 "not the bad guy" timeline
- *   class-traitor     — $31M anti-Steyer stacked bar (PG&E, Realtors, Chamber, BIA, coalition)
+ * Four kinds correspond to the four live CA Gov 2026 beats:
+ *   three-becerras    BECERRA to 3 audiences daisy chain + healthcare donor band
+ *   not-the-bad-guy   Jan 2020 AG fracking suit, Jun 2025 Chevron $39,200, Apr 2026 "not the bad guy" timeline
+ *   class-traitor     $31M anti-Steyer stacked bar (PG&E, Realtors, Chamber, BIA, coalition)
+ *   hilton            Form 700 disclosure spine: HILTON + WHETSTONE arrows into $10B Sierra + receipt band
  */
 
-export type ShareCardKind = "three-becerras" | "not-the-bad-guy" | "class-traitor"
+export type ShareCardKind = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton"
 
 interface ShareCardConfig {
   headline: React.ReactNode
@@ -65,6 +66,20 @@ const CONFIG: Record<ShareCardKind, ShareCardConfig> = {
     url: "thedonormap.org/class-traitor",
     footerNote: "FPPC Top 10 · Cal-Access · Energy & Policy Inst.",
     graphic: <ClassTraitorGraphic />,
+  },
+  hilton: {
+    headline: (
+      <>
+        Steve Hilton wants to{" "}
+        <span style={{ background: "#fbbf24", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>regulate AI</span>. He owns{" "}
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>stock in an AI company</span>.
+      </>
+    ),
+    deck:
+      "His own sworn financial disclosure shows it. His wife heads communications at the same AI company. Sierra Technology is now valued at $10 billion. He is running to govern the state that regulates AI.",
+    url: "thedonormap.org/hilton",
+    footerNote: "FPPC Form 700 · TechCrunch · Cal-Access",
+    graphic: <HiltonGraphic />,
   },
 }
 
@@ -310,6 +325,75 @@ function NotTheBadGuyGraphic() {
       <text x="800" y="298" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="15" fill="#0a0a0a">"They're not the</text>
       <text x="800" y="318" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="15" fill="#0a0a0a">bad guy."</text>
       <text x="800" y="350" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fill="#666" letterSpacing="1">Politico CA Climate</text>
+    </svg>
+  )
+}
+
+function HiltonGraphic() {
+  return (
+    <svg viewBox="0 0 940 460" xmlns="http://www.w3.org/2000/svg" style={{ display: "block", width: "100%", height: "auto" }}>
+      <defs>
+        <marker id="hg-arr-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a" />
+        </marker>
+        <marker id="hg-arr-rd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946" />
+        </marker>
+        <marker id="hg-arr-yl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#fbbf24" />
+        </marker>
+      </defs>
+
+      {/* Top header band */}
+      <text x="470" y="22" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="13" fontWeight="700" fill="#666" letterSpacing="2">FORM 700 · CANDIDATE FILING · MARCH 6, 2026</text>
+
+      {/* Top-left: Hilton box */}
+      <rect x="20" y="50" width="240" height="74" fill="#0a0a0a" />
+      <text x="140" y="80" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="22" fontWeight="900" letterSpacing="-0.5" fill="#fff">STEVE HILTON</text>
+      <text x="140" y="100" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="1.5" fill="#fbbf24">SCHEDULE A-1 FILER</text>
+      <text x="140" y="116" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="700" letterSpacing="1.5" fill="#aaa">CA GOV CANDIDATE (R)</text>
+
+      {/* Top-right: Whetstone box */}
+      <rect x="680" y="50" width="240" height="74" fill="#0a0a0a" />
+      <text x="800" y="80" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="22" fontWeight="900" letterSpacing="-0.5" fill="#fff">RACHEL WHETSTONE</text>
+      <text x="800" y="100" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="1.5" fill="#fbbf24">SCHEDULE C FILER</text>
+      <text x="800" y="116" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="700" letterSpacing="1.5" fill="#aaa">SPOUSE · COMMS HEAD</text>
+
+      {/* Marriage dotted connector */}
+      <line x1="260" y1="87" x2="680" y2="87" stroke="#666" strokeWidth="1.5" strokeDasharray="4,3" />
+      <text x="470" y="80" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="14" fill="#666">married · the household</text>
+
+      {/* Hilton red arrow down to Sierra */}
+      <line x1="140" y1="124" x2="380" y2="220" stroke="#e63946" strokeWidth="3" markerEnd="url(#hg-arr-rd)" />
+      <text x="60" y="180" fontFamily="Space Mono, monospace" fontSize="13" fontWeight="700" fill="#e63946">OWNS STOCK</text>
+      <text x="60" y="198" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="400" fill="#e63946">FMV Over $1,000,000</text>
+
+      {/* Whetstone yellow arrow down to Sierra */}
+      <line x1="800" y1="124" x2="560" y2="220" stroke="#fbbf24" strokeWidth="3" markerEnd="url(#hg-arr-yl)" />
+      <text x="780" y="180" fontFamily="Space Mono, monospace" fontSize="13" fontWeight="700" fill="#0a0a0a">DRAWS INCOME</text>
+      <text x="780" y="198" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="400" fill="#666">Over $100,000 / year</text>
+
+      {/* Center: Sierra box */}
+      <rect x="350" y="220" width="240" height="100" fill="#fff" stroke="#0a0a0a" strokeWidth="3" />
+      <text x="470" y="252" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="30" fontWeight="900" letterSpacing="-1" fill="#0a0a0a">SIERRA</text>
+      <text x="470" y="272" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="1.5" fill="#666">SIERRA TECHNOLOGIES, INC.</text>
+      <text x="470" y="292" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="20" fontWeight="900" fill="#0a0a0a">$10 BILLION</text>
+      <text x="470" y="308" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="700" letterSpacing="1.5" fill="#666">VALUATION · SEP 2025</text>
+
+      {/* Stinger callout below Sierra */}
+      <text x="470" y="346" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="18" fill="#0a0a0a">Two of three Form 700 lines point at the same company.</text>
+
+      {/* Receipt band at bottom: 3 disclosure rows */}
+      <rect x="20" y="362" width="900" height="84" fill="#fbbf24" stroke="#0a0a0a" strokeWidth="3" />
+      <text x="470" y="382" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="12" fontWeight="700" fill="#0a0a0a" letterSpacing="2">FILED UNDER PENALTY OF PERJURY · FPPC FORM 700</text>
+      <g fontFamily="Space Mono, monospace" fontSize="14" fill="#0a0a0a">
+        <text x="40" y="404">Sched A-1 · Hilton · Sierra Technologies, Inc.</text>
+        <text x="900" y="404" textAnchor="end" fontWeight="700">FMV Over $1,000,000</text>
+        <text x="40" y="422">Sched C · Whetstone · Sierra Technologies, Inc.</text>
+        <text x="900" y="422" textAnchor="end" fontWeight="700">Income Over $100,000</text>
+        <text x="40" y="440">Sched C · Hilton · Fox News Network LLC</text>
+        <text x="900" y="440" textAnchor="end" fontWeight="700">Income $10,001-$100,000</text>
+      </g>
     </svg>
   )
 }

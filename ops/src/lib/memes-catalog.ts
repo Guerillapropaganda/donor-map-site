@@ -15,7 +15,7 @@
  * site link. Hashtags are minimal; we let the receipts speak.
  */
 
-export type BeatSlug = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "race-overview"
+export type BeatSlug = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton" | "race-overview"
 
 export interface BeatMeta {
   slug: BeatSlug
@@ -50,7 +50,7 @@ export interface MemeEntry {
     /** When set, MemeCard renders the full share-card layout (with embedded
      *  SVG graph) instead of the structured-data thumbnail. The Copy as PNG
      *  button captures the rendered ShareCardFull element directly. */
-    shareCardKind?: "three-becerras" | "not-the-bad-guy" | "class-traitor"
+    shareCardKind?: "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton"
   }
 }
 
@@ -77,6 +77,14 @@ export const BEATS: BeatMeta[] = [
     description:
       "~$31 million in regulated-industry money to defeat Tom Steyer in the 2026 California gubernatorial primary: PG&E $10M, CA Realtors $5M, CA Chamber $5M, BIA $1M, coalition tracked ~$10M more. Live at thedonormap.org/class-traitor.",
     prototypeUrl: "http://localhost:8096/class-traitor",
+    status: "published",
+  },
+  {
+    slug: "hilton",
+    title: "Hilton (AI conflict of interest)",
+    description:
+      "Steve Hilton's March 6, 2026 candidate Form 700 puts him personally on Schedule A-1 holding equity in Sierra Technologies, Inc. (FMV Over $1,000,000), a private AI company at $10B valuation. His spouse Rachel Whetstone is on Schedule C with Over $100,000 income from the same Sierra as head of communications. Hilton also discloses ongoing Fox News Network commentator income while campaigning. Live at thedonormap.org/hilton.",
+    prototypeUrl: "http://localhost:8096/hilton",
     status: "published",
   },
   {
@@ -452,6 +460,79 @@ export const MEMES: MemeEntry[] = [
       ],
       topbarTag: "STEYER · CA GOV 2026",
       shareCardKind: "class-traitor",
+    },
+  },
+  // ─── 2026-05-04 Hilton AI-conflict share kit ───────────────────────────
+  {
+    id: "may4-hilton-share",
+    title: "Hilton · master share card · Form 700 disclosure spine",
+    story: "Hilton AI-conflict launch · FB-group + X share kit",
+    beats: ["hilton"],
+    prototypeAnchor: "#card-4",
+    prototypeUrlBase: SHARE_CARDS_BASE,
+    caption:
+      "Steve Hilton wants to regulate AI in California. He owns stock in an AI company.\n\nThis is on his own sworn financial disclosure.\n\nMarch 6, 2026 · candidate Form 700 · filed under penalty of perjury:\n\n· Schedule A-1 · Stephen G. Hilton · Sierra Technologies, Inc. · FMV Over $1,000,000\n· Schedule C · Rachel Whetstone (spouse) · Sierra Technologies, Inc. · Income Over $100,000\n· Schedule C · Stephen G. Hilton · Fox News Network LLC · Income $10,001-$100,000\n\nTwo of three lines point at the same company. Sierra is a private AI startup valued at $10 billion.\n\nThe California governor signs AI safety bills, appoints the people who enforce them, and decides what AI software California state agencies buy.\n\nthedonormap.org/hilton",
+    thumbnail: {
+      headlineLines: [
+        { text: "Steve Hilton wants to" },
+        { text: "regulate AI", highlight: { phrase: "regulate AI", color: "yellow" } },
+        { text: "in California." },
+        { text: "He owns" },
+        { text: "stock in an AI company.", highlight: { phrase: "stock in an AI company", color: "red" } },
+      ],
+      deck: "His own sworn financial disclosure shows it. His wife heads communications at the same AI company.",
+      receipts: [
+        { name: "Sched A-1 · Hilton · Sierra Technologies, Inc.", value: "FMV Over $1M" },
+        { name: "Sched C · Whetstone · Sierra Technologies, Inc.", value: "Over $100K" },
+        { name: "Sched C · Hilton · Fox News Network LLC", value: "$10K-$100K" },
+      ],
+      topbarTag: "HILTON · CA GOV 2026",
+      shareCardKind: "hilton",
+    },
+  },
+  {
+    id: "may4-hilton-meme-receipt-stack",
+    title: "Three sworn lines, one filing, two point at Sierra",
+    story: "Hilton AI-conflict launch · structured-receipt thumbnail",
+    beats: ["hilton"],
+    prototypeAnchor: "#meme-hilton-receipts",
+    prototypeUrlBase: BASE,
+    caption:
+      "Steve Hilton's March 2026 candidate Form 700, signed under penalty of perjury.\n\nThree sworn disclosures. Two of them point at the same company.\n\n· Hilton · Sierra Technologies, Inc. stock · FMV Over $1,000,000 (Schedule A-1)\n· Wife Rachel Whetstone · Sierra Technologies, Inc. comms head · Over $100,000 income (Schedule C)\n· Hilton · Fox News Network LLC commentator income · $10,001-$100,000 (Schedule C)\n\nSierra is a private AI startup at a $10 billion valuation. The next governor of California signs AI safety bills and picks the people who enforce them.\n\nthedonormap.org/hilton",
+    thumbnail: {
+      headlineLines: [
+        { text: "Three sworn lines on" },
+        { text: "one filing.", highlight: { phrase: "one filing", color: "yellow" } },
+        { text: "Two point at" },
+        { text: "the same AI company.", highlight: { phrase: "the same AI company", color: "red" } },
+      ],
+      deck: "Steve Hilton's March 6, 2026 candidate Form 700, signed under penalty of perjury. Sierra Technologies, Inc. is a private AI company valued at $10 billion.",
+      receipts: [
+        { name: "A-1 · Hilton · Sierra stock", value: "Over $1M" },
+        { name: "C · Whetstone · Sierra income", value: "Over $100K" },
+        { name: "C · Hilton · Fox News income", value: "$10K-$100K" },
+      ],
+      topbarTag: "HILTON · CA GOV 2026",
+    },
+  },
+  {
+    id: "may4-hilton-meme-regulate-own-stock",
+    title: "He wants to regulate the industry he owns stock in",
+    story: "Hilton AI-conflict launch · structural punchline",
+    beats: ["hilton"],
+    prototypeAnchor: "#meme-hilton-regulate",
+    prototypeUrlBase: BASE,
+    caption:
+      "California's governor signs the AI safety bills the legislature passes.\n\nCalifornia's governor appoints the people who enforce California's AI training-data rules.\n\nCalifornia's governor decides what AI software California state agencies buy.\n\nSteve Hilton is running for that office. He personally owns stock in Sierra Technologies, Inc. (a private AI company, $10 billion valuation, Form 700 Schedule A-1, FMV Over $1,000,000). His wife heads communications at the same Sierra.\n\nthedonormap.org/hilton",
+    thumbnail: {
+      headlineLines: [
+        { text: "He wants to" },
+        { text: "regulate AI.", highlight: { phrase: "regulate AI", color: "yellow" } },
+        { text: "He owns" },
+        { text: "stock in an AI company.", highlight: { phrase: "stock in an AI company", color: "red" } },
+      ],
+      deck: "California's governor signs AI safety bills, appoints the people who enforce them, and decides what AI software California state agencies buy.",
+      topbarTag: "HILTON · CA GOV 2026",
     },
   },
 ]

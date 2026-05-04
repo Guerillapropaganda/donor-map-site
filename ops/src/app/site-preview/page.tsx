@@ -130,10 +130,17 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
-    title: "Hilton · Holds AI-startup stock, wife runs its comms (DRAFT)",
+    title: "Hilton · Form 700 AI-conflict spine (LIVE / FEATURED)",
     url: "http://localhost:8096/hilton",
-    description: "Steve Hilton's March 6 2026 Form 700 puts him personally on Schedule A-1 holding equity in Sierra Technology Inc., a private AI company at $10B valuation chaired by OpenAI board chair Bret Taylor. His spouse Rachel Whetstone is on Schedule C with $100K+ Sierra income as comms lead. Hilton also discloses ongoing Fox News commentator income. Donor base includes Murdoch $39.2K + Brin/Lonsdale cross-hedge from Mahan + Lighthouse Worldwide rural-Oregon C-suite cluster (~$196K). Built 2026-05-03. Pending URL pass before public exposure.",
-    status: "draft-isolated",
+    description: "Steve Hilton's March 6, 2026 candidate Form 700 puts him personally on Schedule A-1 holding equity in Sierra Technologies, Inc. (FMV Over $1,000,000), a private AI company at $10B valuation. Spouse Rachel Whetstone on Schedule C, Sierra income Over $100,000, head of communications. Hilton also discloses ongoing Fox News Network commentator income while campaigning. Verified against the actual filing 2026-05-04 (caf_e3937fe26f4b in code-audit-fetches.jsonl). Now the homepage Latest Investigation hero AND the /investigations featured tile.",
+    status: "live",
+    category: "beat",
+  },
+  {
+    title: "Holdings Hilton 2026 · companion data (LIVE)",
+    url: "http://localhost:8096/holdings-hilton-2026",
+    description: "Companion data page off /hilton. Full Schedule A-1 + A-2 disclosure portrait of Hilton's stock portfolio: about 130 named companies, sector by sector (fossil fuel, pharmaceutical, defense, technology, financial). Five oil majors (Chevron, BP, Exxon, Shell, Total) + 13 pharma + Sierra at the Over $1M bracket. Built 2026-05-04 from the actual filing.",
+    status: "live",
     category: "beat",
   },
   {
