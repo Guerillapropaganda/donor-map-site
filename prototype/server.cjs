@@ -21,6 +21,7 @@ http.createServer((req, res) => {
   else if (url === '/bearstar-octopus' || url === '/beat-bearstar-octopus' || url === '/beat-bearstar-octopus.html') file = 'beat-bearstar-octopus.html';
   else if (url === '/mahan' || url === '/beat-mahan' || url === '/beat-mahan.html') file = 'beat-mahan.html';
   else if (url === '/hilton' || url === '/beat-hilton' || url === '/beat-hilton.html') file = 'beat-hilton.html';
+  else if (url === '/holdings-hilton-2026' || url === '/holdings-hilton-2026.html') file = 'holdings-hilton-2026.html';
   else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else file = 'landing-v3.html';

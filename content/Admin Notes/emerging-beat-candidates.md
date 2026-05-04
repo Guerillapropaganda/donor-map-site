@@ -94,6 +94,38 @@ Format per entry: source / one-line thesis / supporting receipts / why it's inte
 
 ---
 
+## C-007 — Hilton's Sacramento Policy Nonprofit (Golden Together)
+**Surfaced:** 2026-05-04 from Hilton's Form 700 Schedule C (filed 2026-03-06)
+
+**Thesis:** Steve Hilton is running for governor while serving as **Board President / Chief Executive Officer of Golden Together**, a public-policy nonprofit at **455 Capitol Mall, Suite 600, Sacramento, CA 95814**. The address is in the heart of Sacramento's lobbying corridor, directly opposite the Capitol. The Schedule C entry reports no income from the role. The candidate's own Form 700 puts him in the position of running an issue-advocacy organization while running for the office that would act on those issues.
+
+**Open questions for the editorial:** What does Golden Together advocate for? Who funds it (the IRS Form 990 disclosure)? Do its 2026 policy priorities track Hilton's campaign platform? Does it engage in any activity that could plausibly cross campaign-coordination lines? Is the registered address shared with any of his other LLCs (CR Productions, SHCR Productions, both at Atherton home address per Schedule A-2)?
+
+**Receipts:** Hilton candidate Form 700 Schedule C (page 24 of the filing); the FPPC Form 700 search portal at form700search.fppc.ca.gov ("Steve Hilton" filer search). Form 990 retrieval via ProPublica Nonprofit Explorer or the IRS direct EIN lookup is the next step.
+
+**Why interesting:** The structural fact that a candidate runs a Sacramento policy organization while running to govern Sacramento is editorially distinct from the Sierra/AI conflict. Different shape from the Hilton AI beat: the Sierra finding is "personal financial exposure," this one is "parallel policy infrastructure." A candidate-aligned 501(c) policy shop with a Capitol Mall address that the candidate himself runs is uncommon. Editorial story shape: "Two campaigns under one roof."
+
+**Earliest plausible slot:** Standalone Hilton follow-up if Form 990 retrieval reveals donor disclosures worth editorializing. Or as a paragraph within a future Hilton-runoff piece if he advances past June 2.
+
+**Status:** parked. Needs Form 990 retrieval before editorial work can start.
+
+---
+
+## C-008 — Hilton's Personal Fossil-Fuel and Pharma Holdings (climate / health-policy conflict)
+**Surfaced:** 2026-05-04 from Hilton's Form 700 Schedule A-1 (filed 2026-03-06)
+
+**Thesis:** Beyond the Sierra spine, Hilton's Schedule A-1 lists direct stock holdings in five of the six largest publicly-traded oil majors (Chevron, BP, Exxon Mobil, Shell, TotalEnergies) plus NextEra Energy. He also lists thirteen pharmaceutical and healthcare equity positions including AstraZeneca, Pfizer, Merck, Novartis, Sanofi, Roche, Novo Nordisk, Medtronic, Thermo Fisher. Each sector is regulated by California state government in distinct ways. Aggregate exposure ranges from low six figures to multiple millions per sector based on bracket midpoints.
+
+**Receipts:** Hilton candidate Form 700 Schedule A-1 (pages 8-20 of the filing). All entries quoted directly on `/holdings-hilton-2026`.
+
+**Why interesting:** Same shape as the Sierra/AI conflict, broadened: a California governor's signing pen and agency appointments directly affect Chevron (California-headquartered, regulated by ARB and State Water Board), the major pharmaceutical companies (drug-pricing legislation, Medi-Cal pharmacy reimbursement, Office of Health Care Affordability rate-setting), and the utility sector. This isn't disqualifying on its own — many candidates hold diversified portfolios — but the concentration in fossil fuels specifically (five oil majors, no Tesla, no major renewable other than NextEra) is editorially shapeable into a "this is how he'd govern" piece if a contradiction emerges between his campaign rhetoric on climate or healthcare and the holdings.
+
+**Earliest plausible slot:** Standalone follow-up to /holdings-hilton-2026 if Hilton makes specific climate or healthcare commitments during the campaign that contradict the holdings. Or merged into a Race Map cross-cutting piece comparing every candidate's Form 700 disclosure portfolio.
+
+**Status:** parked. The disclosure portrait is on `/holdings-hilton-2026`; the editorial frame waits for either a campaign contradiction event or a primary-eve cross-candidate comparison piece.
+
+---
+
 ## How to use this file
 
 When David is planning the next beat slot, read this file alongside `content/Admin Notes/sprint-schedule.md` and the Session State priorities. New candidates land here as research surfaces them; graduated candidates get marked with the beat URL they shipped under and demoted to the bottom or removed.
