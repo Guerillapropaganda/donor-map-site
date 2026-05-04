@@ -25,6 +25,7 @@ http.createServer((req, res) => {
   else if (url === '/steyer' || url === '/beat-steyer' || url === '/beat-steyer.html') file = 'beat-steyer.html';
   else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
+  else if (url === '/investigations' || url === '/investigations/' || url === '/investigations.html') file = 'investigations.html';
   else file = 'landing-v3.html';
   const filePath = path.join(__dirname, file);
   const content = fs.readFileSync(filePath, 'utf8');
