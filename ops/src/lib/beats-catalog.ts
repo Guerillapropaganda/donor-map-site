@@ -410,6 +410,24 @@ const STEYER_SEEDS: VerificationSeed[] = [
     lane: "Editor",
     url: "https://x.com/ZavalaA",
   },
+  {
+    id: "steyer-calmatters-funders-nextgen-policy",
+    beat: "steyer",
+    label: "URL pass: CalMatters funders page · NextGen Policy listed as $10K-$49,999 donor",
+    detail:
+      "LOAD-BEARING DISCLOSURE SEED. CalMatters' published supporters page lists NextGen Policy in the $10,000 to $49,999 donor tier. NextGen Policy is the Tom-Steyer-founded, Kat-Taylor-chaired 501(c) nonprofit (verified in seed `steyer-nextgenpolicy-board-kat-taylor`). The funder relationship between the publication that broke our anchor source and the candidate's own family political vehicle is the basis for the methodology disclosure section of the beat. Verify: NextGen Policy still appears on this page in the $10K-$49,999 tier. Note: CalMatters may rotate funder lists periodically; if NextGen Policy has been moved to a different tier or removed since 2026-05-04, the disclosure paragraph needs an update.",
+    lane: "Editor",
+    url: "https://calmatters.org/about/funding/",
+  },
+  {
+    id: "steyer-nextgenpolicy-board-kat-taylor",
+    beat: "steyer",
+    label: "URL pass: NextGen Policy board · Kat Taylor (Tom Steyer's wife) is Board Chair",
+    detail:
+      "LOAD-BEARING DISCLOSURE SEED. NextGen Policy's board of directors page identifies Kat Taylor as Board Chair (with the further identifying details: 'Co-Founder and Board Chair of Beneficial State Bank; Chair of TomKat Ranch Educational Foundation'). The Chris Fadeff biography on the same page identifies Tom Steyer as the founder of NextGen Policy ('NextGen Policy Founder Tom Steyer or entities he founded'). Verify both identity claims still appear on the page. The cross-reference page at https://nextgenpolicy.org/our-team/ corroborates: multiple senior staff have prior or continuing Steyer-organization roles (Chris Fadeff at Fahr LLC + Steyer presidential campaign COO + NextGen America senior roles, Kimi Meyer Budget Manager for the Tom Steyer PAC + Operations Manager for NextGen America, Amy Hamblin policy advisor on Tom Steyer's presidential campaign, Chris Lehman Need-to-Impeach lead). The board-chair identity claim AND the founder identity claim together establish that the funder relationship surfaced in the prior seed runs through the candidate's own household.",
+    lane: "Editor",
+    url: "https://nextgenpolicy.org/nextgen-policy-bod/",
+  },
 ]
 
 const THREE_BECERRAS_SEEDS: VerificationSeed[] = [
