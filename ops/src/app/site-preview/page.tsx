@@ -144,6 +144,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "Steyer · Brother runs the AI lobby (DRAFT)",
+    url: "http://localhost:8096/steyer",
+    description: "Tom Steyer is running on tighter California AI rules. His brother Jim Steyer founded and runs Common Sense Media, the named advocate behind AB-1064 (LEAD for Kids Act, vetoed by Newsom), AB-1709 (social media age limit at 16, pending), and AB-2023 (companion chatbot safety + audits, pending). Tom and his wife Kat have donated at least $5M to Common Sense Media per CalMatters May 4 2026 reporting (Jeanne Kuang). The Republican-side mirror (Hilton + Sierra) is at /hilton; this story is the Democratic-side parallel. Built 2026-05-04. Bills verified directly against leginfo.legislature.ca.gov. URL-pass pending in /active-beat/steyer.",
+    status: "draft-isolated",
+    category: "beat",
+  },
+  {
     title: "About",
     url: "http://localhost:8096/about",
     description: "About page curated from the original 'Behind the Map' content into beat format. Why this exists, the class-analysis lens, how the site works, the standards it holds itself to. Linked from the homepage nav and the beat-page nav.",

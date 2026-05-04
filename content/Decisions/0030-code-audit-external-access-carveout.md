@@ -3,7 +3,7 @@ title: "ADR-0030: Code-Audit External Access Carve-out"
 type: adr
 status: accepted
 date: 2026-04-30
-last-amended: 2026-04-30
+last-amended: 2026-05-04
 relates-to: 0021, 0023, 0024, 0029
 amends: null
 ---
@@ -372,3 +372,40 @@ This amendment opens a narrow allowlist of named-publication California politica
 **Why this is editorially safer than the alternative:**
 
 The alternative is leaving the beat page citing KQED quotes that Code Claude has never read. That is the riskier posture: the page asserts what KQED said and the assertion has not been verified at the article level. With this amendment, Code Claude can mechanically confirm the quote exists in the article before the page ships. Rule 13 still binds the URL to David's verification before publication; the amendment adds a verify-the-quote-against-the-article step that the beat-style site needs and the pipeline-self-audit version of ADR-0030 did not anticipate.
+
+### Amendment 2026-05-04 — Editorial-research browsing latitude
+
+**Authorized by David in session cc_p3_320-onwards ("scratch that out of the rules") during the Bianco-beat-shaping work, when an attempt to scan ground.news for current-news editorial hooks was blocked by the §1/§2 allowlist scope. The blocker was structural: the prior amendments authorized fetches against a known set of primary-source and verification domains, but had no provision for the broader research-scan pattern that comes up routinely during beat shaping (what is breaking right now, who else is reporting an angle, is there an external news event we should be reacting to).**
+
+**Scope of the amendment.** Adds a third class of fetch authority — *editorial-research browsing* — alongside the existing pipeline-verification (§1 government primary sources) and quote-verification (§11 named CA political-press) classes. Editorial-research browsing has different mechanics from the prior two classes because its purpose is different.
+
+**What is now allowed:**
+
+Code Claude may fetch arbitrary publicly-accessible web URLs during a session when the explicit purpose is editorial research — meaning: scanning the news cycle for beat hooks, checking what other outlets are reporting on a topic the vault already covers, identifying breaking events that intersect with active beat candidates, or reading ambient context that informs which dossier item to advance. Aggregators (ground.news, Memeorandum, Techmeme, Drudge), opinion outlets, Substacks, social media in publicly accessible form, and outlets outside the §11 named-publication allowlist are all in scope for this purpose.
+
+**What does NOT change:**
+
+- **Rule 13 stays.** Every URL that lands in published profile-body content is still David's lane. Editorial-research browsing produces *intelligence*, not *citations*. Anything fetched under §12 that informs a beat must, before publication, have its citation re-sourced from a publication whose URL David verifies and approves. The fetched-URL-leakage check in `code-audit-fetch-sentinel` (§8) still mechanically blocks any fetched URL from appearing in profile-body content regardless of source class.
+- **§11 remains the lane for quote verification.** When the goal is "does the article actually say what the beat says it says," that's still the seven named CA political-press allowlist with the `verifyQuoteFromPublication` helper. §12 does not authorize using a non-§11 publication as a quote-verification source for published content.
+- **Aggregators and social media remain excluded as citation sources.** A ground.news scan can surface that "the LA Times is reporting X today." The beat that follows cites the LA Times directly (and David verifies the LA Times URL per Rule 13). It does not cite ground.news. The aggregator was the *signal*, not the *source*.
+- **Per-domain rate limits and politeness.** Ordinary web-citizen behavior applies — no scraping, no rapid hammering of a single domain, no circumventing paywalls. The §7 rate cap (2s between requests to the same domain) extends to §12 fetches as a courtesy default.
+
+**Logging:**
+
+Pipeline-verification (§1) and quote-verification (§11) fetches log to `data/code-audit-fetches.jsonl` because their outputs feed pipelines or beat citations. Editorial-research browsing fetches do *not* require the same provenance burden — the output is intelligence consumed within the session, not a record-keeping artifact. **Logging is optional for §12 fetches.** Code Claude may log a §12 fetch to `data/code-audit-fetches.jsonl` with `kind: "editorial-research"` if the fetch produces a finding worth preserving across sessions, but the default is no log entry.
+
+**Why this is editorially safe:**
+
+The defamation surface created by Rule 13 is not about what Code Claude reads — it is about what Code Claude cites in published content about real people. Reading a news aggregator to find out what's happening in California politics today does not assert anything about anyone. The risk surface only opens when something Code Claude read becomes the basis for a citation in a beat body, and the existing sentinel (§8) plus Rule 13 (David verifies all profile-body URLs) already address that surface. The prior allowlist-scoped browsing rule was more conservative than the underlying risk model required.
+
+**Why this matters operationally:**
+
+Beats live or die on timing — knowing which candidate had a bad news cycle yesterday, which donor surfaced in unrelated reporting, which policy debate is suddenly hot, which other outlet just dropped a parallel piece. Without browsing latitude, every beat-shaping conversation either runs through Perplexity (slow + costs $) or relies on David to summarize the news (loads onto the Editor). The §12 amendment moves "what's happening in the world today" out of those two channels and into Code Claude's session capability directly.
+
+**Allowlist code change:**
+
+The `scripts/lib/code-audit-fetcher.cjs` PHASE_1_DOMAINS allowlist is no longer the gate for §12 fetches. The library remains the right home for §1 and §11 fetches because both have specific provenance-and-verification requirements. §12 fetches use the harness's general WebFetch tool directly without going through the audit-fetcher library. The library becomes one of three fetch paths, not the only one.
+
+**Future amendments:**
+
+§12 effectively closes the question of whether Code Claude needs broader browsing latitude — the answer is yes, with the structural protection sitting at the citation layer (Rule 13 + §8 sentinel), not the fetch layer. Future ADR amendments to §12 are expected to be narrowing rather than expanding (e.g., explicit exclusion of a specific outlet if it produces a defamation incident). The §1 allowlist continues to grow as new pipeline-verification needs arise; that is a separate process from §12.
