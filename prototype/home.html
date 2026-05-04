@@ -5,6 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Donor Map</title>
 <meta name="description" content="I name the donors. I map the money. I show the contradictions.">
+<meta property="og:site_name" content="The Donor Map">
+<meta property="og:title" content="The Donor Map">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://thedonormap.org/">
+<meta property="og:description" content="I name the donors. I map the money. I show the contradictions.">
+<meta property="og:image" content="https://thedonormap.org/static/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:alt" content="The Donor Map. Political donor intelligence. Open-source. Primary-source verified.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Donor Map">
+<meta name="twitter:description" content="I name the donors. I map the money. I show the contradictions.">
+<meta name="twitter:image" content="https://thedonormap.org/static/og-image.png">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
 
@@ -494,7 +508,7 @@ html, body {
     <a href="/" class="brand">THE DONOR MAP</a>
     <div class="nav-links">
       <a href="/">Home</a>
-      <a href="/three-becerras">Investigations</a>
+      <a href="/investigations">Investigations</a>
       <a href="/about">About</a>
     </div>
   </div>
@@ -541,66 +555,74 @@ html, body {
 <section class="featured">
   <div class="featured-inner">
     <div class="section-label">Latest investigation</div>
-    <a href="/three-becerras" class="beat-card">
+    <a href="/steyer" class="beat-card">
       <div class="visual">
-        <!-- Inline three-audiences SVG: Becerra at top → 3 audience messages -->
-        <svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" aria-label="Three audiences hearing three messages from Becerra on single payer">
+        <!-- Inline closed-loop SVG: TOM STEYER → COMMON SENSE MEDIA → AI BILLS → GOVERNOR'S DESK → TOM STEYER -->
+        <svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" aria-label="The closed loop: Tom Steyer's family funds Common Sense Media, which drafts CA AI bills, which land on the governor's desk, where Tom Steyer would sit if elected.">
           <defs>
-            <marker id="arrow-bk-h" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <marker id="arr-bk-st" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
               <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+            </marker>
+            <marker id="arr-rd-st" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946"/>
             </marker>
           </defs>
 
-          <!-- Top: Becerra source node -->
-          <rect x="140" y="14" width="80" height="44" fill="#0a0a0a"/>
-          <text x="180" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" fill="#fbbf24" letter-spacing="-0.5">BECERRA</text>
-          <text x="180" y="46" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#aaa">CA GOV 2026</text>
+          <!-- TOP: Tom Steyer -->
+          <rect x="80" y="6" width="180" height="36" fill="#0a0a0a"/>
+          <text x="170" y="22" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" letter-spacing="-0.3" fill="#fff">TOM STEYER</text>
+          <text x="170" y="34" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" letter-spacing="1.2" fill="#3b82f6">DEMOCRAT FOR GOVERNOR · 2026</text>
 
-          <!-- Three audience message boxes -->
-          <!-- Audience 1: campaign website (blue) -->
-          <rect x="6" y="98" width="100" height="60" fill="#fff" stroke="#1d4ed8" stroke-width="1.5"/>
-          <text x="56" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#1d4ed8" letter-spacing="1">WEBSITE / 3-23</text>
-          <text x="56" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"deliver single-</text>
-          <text x="56" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">payer for our state"</text>
+          <!-- arrow down + label -->
+          <line x1="170" y1="44" x2="170" y2="60" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arr-bk-st)"/>
+          <text x="178" y="55" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a">$5M+ FAMILY DONATIONS</text>
 
-          <!-- Audience 2: LAist interview (black) -->
-          <rect x="130" y="98" width="100" height="60" fill="#fff" stroke="#0a0a0a" stroke-width="1.5"/>
-          <text x="180" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">LAIST</text>
-          <text x="180" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"this fed govt</text>
-          <text x="180" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">won't help us"</text>
+          <!-- MIDDLE: Common Sense Media -->
+          <rect x="50" y="64" width="240" height="44" fill="#fff" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="170" y="80" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" letter-spacing="-0.3" fill="#0a0a0a">COMMON SENSE MEDIA</text>
+          <text x="170" y="93" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" letter-spacing="1" fill="#666">RUN BY JIM STEYER · 23 YEARS</text>
+          <text x="170" y="103" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="8" fill="#666">Tom's brother</text>
 
-          <!-- Audience 3: doctors lobby (red) -->
-          <rect x="254" y="98" width="100" height="60" fill="#fff" stroke="#e63946" stroke-width="1.5"/>
-          <text x="304" y="114" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#e63946" letter-spacing="1">DOCTORS / KQED</text>
-          <text x="304" y="132" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">"wasn't supportive</text>
-          <text x="304" y="144" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#1a1a1a">of single payer"</text>
+          <!-- arrow down + label -->
+          <line x1="170" y1="110" x2="170" y2="124" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arr-bk-st)"/>
+          <text x="178" y="120" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a">DRAFTS &amp; ADVOCATES FOR</text>
 
-          <!-- Arrows from Becerra to each audience -->
-          <line x1="155" y1="58" x2="56" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
-          <line x1="180" y1="58" x2="180" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
-          <line x1="205" y1="58" x2="304" y2="98" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arrow-bk-h)"/>
+          <!-- THIRD: AI Bills (yellow band) -->
+          <rect x="50" y="128" width="240" height="44" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="170" y="143" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" letter-spacing="-0.2" fill="#0a0a0a">CALIFORNIA AI BILLS · 2025-26</text>
+          <text x="100" y="160" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#e63946">AB-1064</text>
+          <text x="100" y="168" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#0a0a0a">VETOED</text>
+          <text x="170" y="160" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#1d4ed8">AB-1709</text>
+          <text x="170" y="168" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#0a0a0a">PENDING</text>
+          <text x="240" y="160" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#1d4ed8">AB-2023</text>
+          <text x="240" y="168" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#0a0a0a">PENDING</text>
 
-          <!-- Receipt band at bottom -->
-          <rect x="6" y="180" width="348" height="64" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
-          <text x="180" y="195" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">HEALTHCARE-INDUSTRY MAX DONORS</text>
-          <g font-family="Space Mono, monospace" font-size="8" fill="#0a0a0a">
-            <text x="14" y="212">Schaeffer (Anthem)</text><text x="170" y="212" text-anchor="end" font-weight="700">$39,200</text>
-            <text x="180" y="212">Molina Healthcare CEO</text><text x="346" y="212" text-anchor="end" font-weight="700">$49,700</text>
-            <text x="14" y="226">AltaMed (largest CA FQHC)</text><text x="170" y="226" text-anchor="end" font-weight="700">$39,200</text>
-            <text x="180" y="226">Cantu (DHR Health)</text><text x="346" y="226" text-anchor="end" font-weight="700">$39,200</text>
-            <text x="14" y="240">Prime Healthcare (HHS-OIG CIA)</text><text x="170" y="240" text-anchor="end" font-weight="700">$20,000</text>
-            <text x="180" y="240">Ayala household (Adventist+Kaiser)</text><text x="346" y="240" text-anchor="end" font-weight="700">$50,000</text>
-          </g>
+          <!-- arrow down + label -->
+          <line x1="170" y1="174" x2="170" y2="188" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arr-bk-st)"/>
+          <text x="178" y="184" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a">LANDS ON</text>
+
+          <!-- BOTTOM: Governor's Desk -->
+          <rect x="80" y="192" width="180" height="36" fill="#0a0a0a"/>
+          <text x="170" y="208" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" letter-spacing="-0.3" fill="#fff">GOVERNOR'S DESK</text>
+          <text x="170" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" font-weight="900" fill="#fbbf24">= TOM STEYER, IF ELECTED</text>
+
+          <!-- Loop-closing dashed arrow on the right side, bottom to top -->
+          <path d="M 260 210 C 320 210, 332 130, 332 100 C 332 40, 310 24, 260 24" fill="none" stroke="#e63946" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arr-rd-st)"/>
+          <rect x="296" y="105" width="64" height="18" fill="#ece6dd" stroke="#e63946" stroke-width="1.2"/>
+          <text x="328" y="117" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" letter-spacing="1.2" fill="#e63946">SAME PERSON</text>
+
+          <!-- Bottom annotation -->
+          <text x="170" y="252" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#0a0a0a">The candidate is also the family that funds the bills he would sign.</text>
         </svg>
       </div>
       <div class="content">
         <div class="meta">
-          <span class="date">May 2, 2026</span>
+          <span class="date">May 2026</span>
           <span class="tag">CA Gov 2026</span>
         </div>
-        <h2>What he says depends on <span class="h-red">who is listening</span>.</h2>
+        <h2>Tom Steyer wants <span class="h-yellow">tighter AI rules</span>. His brother runs <span class="h-blue">the lobby that writes them</span>.</h2>
         <p class="deck">
-          Xavier Becerra cosponsored single-payer bills seven times across four Congresses. On March 23 he said he was ready to "deliver single-payer health care for our state." Six weeks later he told the doctors lobby he was not supportive at this point. The receipts on his donor list explain who is acceptable to whom.
+          Jim Steyer founded and runs Common Sense Media, the named advocate behind California's three biggest AI and social-media-safety bills. Tom and his wife have donated at least $5 million to that organization. Tom is now running for the office that signs or vetoes those bills.
         </p>
         <span class="read-more">Read the receipts →</span>
       </div>
@@ -608,28 +630,30 @@ html, body {
   </div>
 </section>
 
-<!-- ─── More beats (placeholder slots) ─── -->
+
+<!-- ─── More investigations (newest left → oldest right per memory rule feedback_homepage_tile_grid_ordering.md) ─── -->
 <section class="more-beats">
   <div class="more-beats-inner">
     <div class="section-label">More investigations</div>
     <div class="more-grid">
-      <a href="/not-the-bad-guy" class="beat-mini live">
+      <a href="/hilton" class="beat-mini live">
         <div class="meta-mini">Live · CA Gov 2026</div>
-        <h3>He took the check. Then he <span style="background: var(--red); color: #fff; padding: 0 4px;">defended</span> it.</h3>
-        <p class="deck-mini">$39,200 from Chevron landed in Becerra's governor account on June 16, 2025. Two rivals refused fossil fuel money. He took the legal max and called the company "not the bad guy."</p>
+        <h3>Steve Hilton wants to <span style="background: var(--yellow); padding: 0 4px;">regulate AI</span>. He owns <span style="background: var(--red); color: #fff; padding: 0 4px;">stock in an AI company</span>.</h3>
+        <p class="deck-mini">Hilton's own sworn financial disclosure shows he holds more than $1 million of equity in Sierra Technologies, a $10 billion private AI company. His wife heads communications at the same company. He is running on rolling back California AI regulation.</p>
+        <span class="read-more-mini">Read the receipts →</span>
+      </a>
+      <a href="/mahan" class="beat-mini live">
+        <div class="meta-mini">Live · CA Gov 2026</div>
+        <h3>$43 million for <span style="background: var(--yellow); padding: 0 4px;">Matt Mahan</span>. Sixty-one people wrote almost all of it.</h3>
+        <p class="deck-mini">Of every $100 backing his California governor campaign, $67 came from sixty-one wealthy donors going around the contribution limit through outside spending committees. Forty cents came from voters writing $200 or less.</p>
         <span class="read-more-mini">Read the receipts →</span>
       </a>
       <a href="/class-traitor" class="beat-mini live">
         <div class="meta-mini">Live · CA Gov 2026</div>
-        <h3>$31 million to bury a <span style="background: var(--red); color: #fff; padding: 0 4px;">class traitor</span>.</h3>
-        <p class="deck-mini">California's donor class organized against Tom Steyer: utility, realtors, chamber, developers, prison guards. The only billionaire in the race willing to break with them.</p>
+        <h3>$31 million to bury <span style="background: var(--red); color: #fff; padding: 0 4px;">a class traitor</span>.</h3>
+        <p class="deck-mini">California's donor class organized against Tom Steyer. PG&amp;E, the realtors, the chamber of commerce, the building industry, and the prison guards union put $21 million into a single committee whose entire purpose is defeating him. He is the only billionaire in the race who broke with them.</p>
         <span class="read-more-mini">Read the receipts →</span>
       </a>
-      <div class="beat-mini placeholder">
-        <div class="meta-mini">Pending</div>
-        <h3 style="color: var(--muted);">&nbsp;</h3>
-        <p class="placeholder-text">&nbsp;</p>
-      </div>
     </div>
   </div>
 </section>
@@ -645,9 +669,14 @@ html, body {
     <div>
       <h4>Investigations</h4>
       <ul>
+        <li><a href="/investigations"><strong>All investigations →</strong></a></li>
+        <li><a href="/steyer">Tom Steyer wants tighter AI rules. His brother runs the lobby. (Steyer)</a></li>
+        <li><a href="/hilton">Steve Hilton wants to regulate AI. He owns stock in an AI company. (Hilton)</a></li>
+        <li><a href="/holdings-hilton-2026">Hilton's stock portfolio · companion data (Hilton)</a></li>
+        <li><a href="/mahan">$43 million for Matt Mahan. 61 people wrote almost all of it. (Mahan)</a></li>
+        <li><a href="/class-traitor">$31 million to bury a class traitor (Steyer)</a></li>
         <li><a href="/three-becerras">What he says depends on who is listening (Becerra · healthcare)</a></li>
         <li><a href="/not-the-bad-guy">He took the check. Then he defended it. (Becerra · Chevron)</a></li>
-        <li><a href="/class-traitor">$31 million to bury a class traitor (Steyer)</a></li>
       </ul>
     </div>
     <div>
@@ -661,7 +690,7 @@ html, body {
       </ul>
     </div>
   </div>
-  <div class="small">All data verified against primary-source filings · thedonormap.org</div>
+  <div class="small">All data verified against the original government filings · thedonormap.org</div>
 </footer>
 
 <style data-tipline-modal="v1">

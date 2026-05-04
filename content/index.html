@@ -555,78 +555,64 @@ html, body {
 <section class="featured">
   <div class="featured-inner">
     <div class="section-label">Latest investigation</div>
-    <a href="/hilton" class="beat-card">
+    <a href="/steyer" class="beat-card">
       <div class="visual">
-        <!-- Inline Form 700 disclosure SVG: HILTON + WHETSTONE → SIERRA · 3 disclosure rows + receipt band -->
-        <svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" aria-label="Steve Hilton's Form 700 disclosure: Schedule A-1 Sierra equity, Schedule C spouse Sierra income, Schedule C Fox News commentator income">
+        <!-- Inline closed-loop SVG: TOM STEYER → COMMON SENSE MEDIA → AI BILLS → GOVERNOR'S DESK → TOM STEYER -->
+        <svg viewBox="0 0 360 260" xmlns="http://www.w3.org/2000/svg" aria-label="The closed loop: Tom Steyer's family funds Common Sense Media, which drafts CA AI bills, which land on the governor's desk, where Tom Steyer would sit if elected.">
           <defs>
-            <marker id="arr-bk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <marker id="arr-bk-st" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
               <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
             </marker>
-            <marker id="arr-rd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <marker id="arr-rd-st" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
               <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946"/>
-            </marker>
-            <marker id="arr-yl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-              <path d="M 0 0 L 10 5 L 0 10 z" fill="#fbbf24"/>
             </marker>
           </defs>
 
-          <!-- Column headers -->
-          <text x="60" y="12" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#666" letter-spacing="1">THE HOUSEHOLD</text>
-          <text x="180" y="12" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#666" letter-spacing="1">THE COMPANY</text>
-          <text x="312" y="12" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#666" letter-spacing="1">REGULATED BY</text>
+          <!-- TOP: Tom Steyer -->
+          <rect x="80" y="6" width="180" height="36" fill="#0a0a0a"/>
+          <text x="170" y="22" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" letter-spacing="-0.3" fill="#fff">TOM STEYER</text>
+          <text x="170" y="34" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" letter-spacing="1.2" fill="#3b82f6">DEMOCRAT FOR GOVERNOR · 2026</text>
 
-          <!-- Left column: Hilton + Whetstone -->
-          <rect x="6" y="32" width="108" height="40" fill="#0a0a0a"/>
-          <text x="60" y="50" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" fill="#fff" letter-spacing="-0.3">STEVE HILTON</text>
-          <text x="60" y="62" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fbbf24" letter-spacing="1">SCHEDULE A-1 FILER</text>
+          <!-- arrow down + label -->
+          <line x1="170" y1="44" x2="170" y2="60" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arr-bk-st)"/>
+          <text x="178" y="55" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a">$5M+ FAMILY DONATIONS</text>
 
-          <rect x="6" y="92" width="108" height="40" fill="#0a0a0a"/>
-          <text x="60" y="110" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#fff" letter-spacing="-0.3">R. WHETSTONE</text>
-          <text x="60" y="122" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fbbf24" letter-spacing="1">SCHEDULE C FILER</text>
+          <!-- MIDDLE: Common Sense Media -->
+          <rect x="50" y="64" width="240" height="44" fill="#fff" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="170" y="80" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" letter-spacing="-0.3" fill="#0a0a0a">COMMON SENSE MEDIA</text>
+          <text x="170" y="93" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" letter-spacing="1" fill="#666">RUN BY JIM STEYER · 23 YEARS</text>
+          <text x="170" y="103" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="8" fill="#666">Tom's brother</text>
 
-          <!-- Married dotted connector between the two boxes -->
-          <line x1="22" y1="80" x2="98" y2="80" stroke="#666" stroke-width="0.8" stroke-dasharray="2,2"/>
-          <text x="60" y="86" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="7" fill="#666">married</text>
+          <!-- arrow down + label -->
+          <line x1="170" y1="110" x2="170" y2="124" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arr-bk-st)"/>
+          <text x="178" y="120" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a">DRAFTS &amp; ADVOCATES FOR</text>
 
-          <!-- Center: Sierra box -->
-          <rect x="130" y="50" width="100" height="78" fill="#fff" stroke="#0a0a0a" stroke-width="2"/>
-          <text x="180" y="74" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="900" fill="#0a0a0a" letter-spacing="-0.5">SIERRA</text>
-          <text x="180" y="86" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#666" letter-spacing="1">PRIVATE AI · S.F.</text>
-          <text x="180" y="106" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#0a0a0a" letter-spacing="-0.5">$10B</text>
-          <text x="180" y="120" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#666" letter-spacing="1">VALUATION (SEP 2025)</text>
+          <!-- THIRD: AI Bills (yellow band) -->
+          <rect x="50" y="128" width="240" height="44" fill="#fbbf24" stroke="#0a0a0a" stroke-width="2"/>
+          <text x="170" y="143" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" letter-spacing="-0.2" fill="#0a0a0a">CALIFORNIA AI BILLS · 2025-26</text>
+          <text x="100" y="160" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#e63946">AB-1064</text>
+          <text x="100" y="168" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#0a0a0a">VETOED</text>
+          <text x="170" y="160" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#1d4ed8">AB-1709</text>
+          <text x="170" y="168" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#0a0a0a">PENDING</text>
+          <text x="240" y="160" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#1d4ed8">AB-2023</text>
+          <text x="240" y="168" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#0a0a0a">PENDING</text>
 
-          <!-- Right column: California regulator -->
-          <rect x="252" y="60" width="102" height="58" fill="#e63946"/>
-          <text x="303" y="80" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="900" fill="#fff" letter-spacing="-0.3">CALIFORNIA</text>
-          <text x="303" y="93" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" fill="#fff" letter-spacing="-0.3">GOVERNOR</text>
-          <text x="303" y="108" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fff" letter-spacing="1">SIGNS · APPOINTS</text>
-          <text x="303" y="116" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fff" letter-spacing="1">PROCURES</text>
+          <!-- arrow down + label -->
+          <line x1="170" y1="174" x2="170" y2="188" stroke="#0a0a0a" stroke-width="1.5" marker-end="url(#arr-bk-st)"/>
+          <text x="178" y="184" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a">LANDS ON</text>
 
-          <!-- Arrows: Hilton → Sierra (RED, OWNS STOCK) -->
-          <line x1="114" y1="52" x2="130" y2="68" stroke="#e63946" stroke-width="1.5" marker-end="url(#arr-rd)"/>
-          <text x="100" y="48" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#e63946">OWNS STOCK</text>
+          <!-- BOTTOM: Governor's Desk -->
+          <rect x="80" y="192" width="180" height="36" fill="#0a0a0a"/>
+          <text x="170" y="208" text-anchor="middle" font-family="Inter, sans-serif" font-size="13" font-weight="900" letter-spacing="-0.3" fill="#fff">GOVERNOR'S DESK</text>
+          <text x="170" y="220" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" font-weight="900" fill="#fbbf24">= TOM STEYER, IF ELECTED</text>
 
-          <!-- Arrows: Whetstone → Sierra (YELLOW, INCOME) -->
-          <line x1="114" y1="112" x2="130" y2="108" stroke="#fbbf24" stroke-width="1.5" marker-end="url(#arr-yl)"/>
-          <text x="100" y="125" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#0a0a0a">$100K+ SALARY</text>
+          <!-- Loop-closing dashed arrow on the right side, bottom to top -->
+          <path d="M 260 210 C 320 210, 332 130, 332 100 C 332 40, 310 24, 260 24" fill="none" stroke="#e63946" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arr-rd-st)"/>
+          <rect x="296" y="105" width="64" height="18" fill="#ece6dd" stroke="#e63946" stroke-width="1.2"/>
+          <text x="328" y="117" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" letter-spacing="1.2" fill="#e63946">SAME PERSON</text>
 
-          <!-- Arrow: Sierra ← Regulator (RED, REGULATES) -->
-          <line x1="252" y1="89" x2="230" y2="89" stroke="#e63946" stroke-width="2" marker-end="url(#arr-rd)"/>
-          <text x="241" y="148" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#666" letter-spacing="1">↑ REGULATES SIERRA</text>
-
-          <!-- Hilton wants this job arrow -->
-          <text x="183" y="148" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#0a0a0a">Hilton wants this job →</text>
-
-          <!-- Receipt band at bottom: 3 Form 700 disclosures -->
-          <rect x="6" y="160" width="348" height="84" fill="#fbbf24" stroke="#0a0a0a" stroke-width="1.5"/>
-          <text x="180" y="174" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#0a0a0a" letter-spacing="1">FORM 700 · CANDIDATE FILING · MARCH 6, 2026 · SIGNED UNDER PERJURY</text>
-          <g font-family="Space Mono, monospace" font-size="8" fill="#0a0a0a">
-            <text x="14" y="192">Sched A-1 · Hilton · Sierra Technologies, Inc.</text><text x="346" y="192" text-anchor="end" font-weight="700">FMV Over $1,000,000</text>
-            <text x="14" y="208">Sched C · Whetstone · Sierra Technologies, Inc.</text><text x="346" y="208" text-anchor="end" font-weight="700">Income Over $100,000</text>
-            <text x="14" y="224">Sched C · Hilton · Fox News Network LLC</text><text x="346" y="224" text-anchor="end" font-weight="700">Income $10,001-$100,000</text>
-            <text x="14" y="240" font-weight="700">Two of three lines point at the same company.</text><text x="346" y="240" text-anchor="end" font-weight="900">SIERRA</text>
-          </g>
+          <!-- Bottom annotation -->
+          <text x="170" y="252" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="9" fill="#0a0a0a">The candidate is also the family that funds the bills he would sign.</text>
         </svg>
       </div>
       <div class="content">
@@ -634,9 +620,9 @@ html, body {
           <span class="date">May 2026</span>
           <span class="tag">CA Gov 2026</span>
         </div>
-        <h2>Steve Hilton wants to <span class="h-yellow">regulate AI</span>. He owns <span class="h-red">stock in an AI company</span>.</h2>
+        <h2>Tom Steyer wants <span class="h-yellow">tighter AI rules</span>. His brother runs <span class="h-blue">the lobby that writes them</span>.</h2>
         <p class="deck">
-          His own sworn financial disclosure shows it. His wife heads communications at the same AI company. Sierra Technologies, Inc. is now valued at $10 billion. He is running to govern the state that regulates AI.
+          Jim Steyer founded and runs Common Sense Media, the named advocate behind California's three biggest AI and social-media-safety bills. Tom and his wife have donated at least $5 million to that organization. Tom is now running for the office that signs or vetoes those bills.
         </p>
         <span class="read-more">Read the receipts →</span>
       </div>
@@ -644,11 +630,18 @@ html, body {
   </div>
 </section>
 
+
 <!-- ─── More investigations (newest left → oldest right per memory rule feedback_homepage_tile_grid_ordering.md) ─── -->
 <section class="more-beats">
   <div class="more-beats-inner">
     <div class="section-label">More investigations</div>
     <div class="more-grid">
+      <a href="/hilton" class="beat-mini live">
+        <div class="meta-mini">Live · CA Gov 2026</div>
+        <h3>Steve Hilton wants to <span style="background: var(--yellow); padding: 0 4px;">regulate AI</span>. He owns <span style="background: var(--red); color: #fff; padding: 0 4px;">stock in an AI company</span>.</h3>
+        <p class="deck-mini">Hilton's own sworn financial disclosure shows he holds more than $1 million of equity in Sierra Technologies, a $10 billion private AI company. His wife heads communications at the same company. He is running on rolling back California AI regulation.</p>
+        <span class="read-more-mini">Read the receipts →</span>
+      </a>
       <a href="/mahan" class="beat-mini live">
         <div class="meta-mini">Live · CA Gov 2026</div>
         <h3>$43 million for <span style="background: var(--yellow); padding: 0 4px;">Matt Mahan</span>. Sixty-one people wrote almost all of it.</h3>
@@ -659,12 +652,6 @@ html, body {
         <div class="meta-mini">Live · CA Gov 2026</div>
         <h3>$31 million to bury <span style="background: var(--red); color: #fff; padding: 0 4px;">a class traitor</span>.</h3>
         <p class="deck-mini">California's donor class organized against Tom Steyer. PG&amp;E, the realtors, the chamber of commerce, the building industry, and the prison guards union put $21 million into a single committee whose entire purpose is defeating him. He is the only billionaire in the race who broke with them.</p>
-        <span class="read-more-mini">Read the receipts →</span>
-      </a>
-      <a href="/three-becerras" class="beat-mini live">
-        <div class="meta-mini">Live · CA Gov 2026</div>
-        <h3>What he says depends on <span style="background: var(--red); color: #fff; padding: 0 4px;">who is listening</span>.</h3>
-        <p class="deck-mini">Xavier Becerra cosponsored single-payer healthcare bills seven times across four Congresses. Six weeks in 2026 he gave three different answers to the same question. The hardest version was reserved for the doctors lobby.</p>
         <span class="read-more-mini">Read the receipts →</span>
       </a>
     </div>
@@ -683,6 +670,7 @@ html, body {
       <h4>Investigations</h4>
       <ul>
         <li><a href="/investigations"><strong>All investigations →</strong></a></li>
+        <li><a href="/steyer">Tom Steyer wants tighter AI rules. His brother runs the lobby. (Steyer)</a></li>
         <li><a href="/hilton">Steve Hilton wants to regulate AI. He owns stock in an AI company. (Hilton)</a></li>
         <li><a href="/holdings-hilton-2026">Hilton's stock portfolio · companion data (Hilton)</a></li>
         <li><a href="/mahan">$43 million for Matt Mahan. 61 people wrote almost all of it. (Mahan)</a></li>
