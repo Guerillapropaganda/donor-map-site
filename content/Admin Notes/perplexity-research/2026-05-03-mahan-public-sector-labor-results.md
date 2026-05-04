@@ -1,0 +1,87 @@
+# Matt Mahan as San Jose Mayor: Public-Sector Labor Conflicts, 2023-2026
+
+## Executive summary
+
+The best-documented labor conflict during Matt Mahan’s San Jose mayoralty was not SEIU Local 521. It was the 2023 near-strike and wage fight involving IFPTE Local 21 and MEF-AFSCME Local 101, where unions representing roughly 4,500 city workers authorized a three-day strike and Mahan opposed the eventual three-year wage deal as fiscally risky ([San José Spotlight](https://sanjosespotlight.com/san-jose-leaders-woo-unions-back-to-the-bargaining-table/), [KQED](https://www.kqed.org/news/11958290/san-jose-city-council-approves-agreements-with-unions-to-avoid-strike)). SEIU Local 521 does appear in a separate VTA-worker dispute with Mahan over a homeless-housing site and a declined State of the City award, but the official City of San Jose bargaining-unit roster does not list SEIU Local 521 as a city bargaining unit ([City of San José](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/employee-relations/labor-relations-information), [San José Spotlight](https://sanjosespotlight.com/union-leaders-reject-san-jose-mayors-olive-branch/)).
+
+Mahan’s police-union relationship shows both friction and alignment. The San José Police Officers’ Association publicly accused City Hall and police leadership of sabotage and retaliation during 2025 bargaining, but the city later reached and approved a contract with compounded raises of 7%, 5%, and 3%, and Mahan praised the agreement as needed to retain officers ([San José Spotlight](https://sanjosespotlight.com/san-jose-police-reach-tentative-pay-agreement-amid-tension/), [San José Spotlight](https://sanjosespotlight.com/san-jose-police-get-millions-in-pay-raises-sjpd/)). Firefighter-union evidence is narrower: San Jose Fire Fighters Local 230 joined police and IFPTE leaders in pressing the city to use reserve funds to fill vacancies, but no Tier 1/Tier 2 source located in this pass documented a Local 230 contract fight or endorsement/non-endorsement of Mahan during 2023-2026 ([San José Spotlight](https://sanjosespotlight.com/san-jose-police-and-fire-unions-want-reserve-funds-to-fill-vacancies/)).
+
+## Scope and source rule
+
+This report uses Tier 1 sources where available: primary government records, San Jose official materials, court/PERB-style records, FPPC records, and official mayoral or city records. It uses Tier 2 sources from named California political or local-accountability press where primary records were not available. Aggregators, social-media posts, opinion blogs, partisan outlets, and unsourced claims are excluded.
+
+## Question-by-question findings
+
+### SEIU Local 521 contract negotiations, 2023-2026
+
+| Source URL | Source tier | Date confidence | One-line factual statement |
+|---|---:|---|---|
+| [City of San José labor-relations roster](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/employee-relations/labor-relations-information) | Tier 1 | Official page accessed May 3, 2026; roster references 2024-2025 Adopted Budget FTEs | The City of San Jose lists 12 represented bargaining units and does not list SEIU Local 521 as a city bargaining unit; the roster says the City Manager’s Office negotiates wages, hours, and terms for those units. |
+| [San José Spotlight](https://sanjosespotlight.com/union-leaders-reject-san-jose-mayors-olive-branch/) | Tier 2 | Published Oct. 24, 2023 | SEIU Local 521 appears in a VTA-worker dispute with Mahan, where ATU 265, IFPTE 21, SEIU 521, and AFSCME 1101 declined his State of the City award invitation over the Cerone VTA yard homeless-housing process. |
+| NO DATA | N/A | Search reviewed May 3, 2026 | No Tier 1/Tier 2 source located documenting SEIU Local 521 as a San Jose city-employee bargaining party in Mahan-administration contract negotiations, strike authorization, PERB filing, or superior-court case from 2023-2026. |
+
+### IAFF Local 230 relations, 2023-2026
+
+| Source URL | Source tier | Date confidence | One-line factual statement |
+|---|---:|---|---|
+| [City of San José labor-relations roster](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/employee-relations/labor-relations-information) | Tier 1 | Official page accessed May 3, 2026; roster references 2024-2025 Adopted Budget FTEs | The City of San Jose lists International Association of Firefighters Local 230 as representing 714 FTEs with a contract expiration date of June 30, 2027. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-police-and-fire-unions-want-reserve-funds-to-fill-vacancies/) | Tier 2 | Published Apr. 10, 2025 | San Jose Fire Fighters Local 230 joined the San José Police Officers’ Association and IFPTE Local 21 in arguing the city should use reserve funds and other financial tools to fill vacancies and avoid service cuts. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-police-and-fire-unions-want-reserve-funds-to-fill-vacancies/) | Tier 2 | Published Apr. 10, 2025 | The firefighter-union dispute centered on staffing and response times, including reported highest-priority call response times increasing from 6 minutes in 2008 to 8 minutes in 2024 and second-highest-priority calls increasing from 11 minutes to 28 minutes. |
+| NO DATA | N/A | Search reviewed May 3, 2026 | No Tier 1/Tier 2 source located documenting a 2023-2026 IAFF Local 230 contract impasse, strike-authorization vote, or endorsement/non-endorsement of Mahan. |
+
+### San José Police Officers’ Association relations, 2023-2026
+
+| Source URL | Source tier | Date confidence | One-line factual statement |
+|---|---:|---|---|
+| [City of San José POA bargaining page](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/employee-relations/labor-relations-information/bargaining-units-labor-contract-info/poa) | Tier 1 | Official page accessed May 3, 2026; tentative agreement listed Sept. 4, 2025 | The City of San Jose identifies the San José Police Officers’ Association bargaining unit as approximately 1,167 FTEs covering police officers, sergeants, lieutenants, and captains. |
+| [City of San José news release](https://www.sanjoseca.gov/Home/Components/News/News/6894/4699?backlist=%2F) | Tier 1 | Posted Sept. 4, 2025 | The City announced a Sept. 4, 2025 tentative agreement with the San José Police Officers’ Association, subject to union ratification and City Council approval. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-police-reach-tentative-pay-agreement-amid-tension/) | Tier 2 | Published Sept. 23, 2025 | San José Spotlight reported that police bargaining followed union accusations of sabotage and retaliation over Bureau of Investigations overtime cuts and officer-discipline issues. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-police-reach-tentative-pay-agreement-amid-tension/) | Tier 2 | Published Sept. 23, 2025 | The tentative police agreement provided raises of 7%, 5%, and 3% over three years, and Mahan said the contract kept officers on the street while making fiscally responsible decisions. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-police-get-millions-in-pay-raises-sjpd/) | Tier 2 | Published Oct. 22, 2025 | The City Council unanimously approved a 15.7% police raise through 2029, estimated at roughly $46 million in wage hikes over three years excluding unfunded pension liabilities. |
+| [KQED](https://www.kqed.org/news/12075812/mahan-calls-for-belt-tightening-in-san-jose-budget-plan) | Tier 2 | Published Mar. 10, 2026 | KQED reported that the police-union contract’s 7%, 5%, and 3% wage increases would cost $14.3 million in the upcoming fiscal year, according to the city’s human-resources director. |
+
+### AFSCME and city-employee contract disputes, 2023-2026
+
+| Source URL | Source tier | Date confidence | One-line factual statement |
+|---|---:|---|---|
+| [City of San José labor-relations roster](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/employee-relations/labor-relations-information) | Tier 1 | Official page accessed May 3, 2026; roster references 2024-2025 Adopted Budget FTEs | The City of San Jose lists Municipal Employees’ Federation AFSCME Local 101 as its largest bargaining unit, with 2,452.83 FTEs and a June 30, 2026 contract expiration date. |
+| [San José Spotlight](https://sanjosespotlight.com/thousands-of-san-jose-workers-will-strike/) | Tier 2 | Published Aug. 7, 2023 | San José Spotlight reported that as many as 4,500 city workers represented by IFPTE Local 21 and MEF-AFSCME Local 101 planned to strike beginning Aug. 15, 2023 after months of failed salary negotiations. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-leaders-woo-unions-back-to-the-bargaining-table/) | Tier 2 | Published Aug. 8, 2023 | The unions authorized a three-day strike by a 99% vote, with a union wage proposal of 18% over three years against a city offer of 12% over three years. |
+| [KQED](https://www.kqed.org/news/11958290/san-jose-city-council-approves-agreements-with-unions-to-avoid-strike) | Tier 2 | Published Aug. 15, 2023 | The City Council approved agreements with MEF-AFSCME Local 101 and IFPTE Local 21 to avert the strike, with an immediate 6% raise, a 5% July 2024 raise, and at least a 3.5% July 2025 raise that could rise to 4% if surplus conditions were met. |
+| [KQED](https://www.kqed.org/news/11958290/san-jose-city-council-approves-agreements-with-unions-to-avoid-strike) | Tier 2 | Published Aug. 15, 2023 | Mahan objected to the union agreements, saying “Our unions did their job. But our council did not do its job” and calling the deal a gamble with resident services. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-mayor-matt-mahan-criticizes-union-worker-pay-raises-amid-parks-program-cuts/) | Tier 2 | Published Sept. 15, 2023 | Mahan was the lone official to vote against ratifying the IFPTE Local 21 and AFSCME Local 101 labor contracts that covered about 4,500 workers and provided 14.5% in raises over three years. |
+| [KQED](https://www.kqed.org/news/12075812/mahan-calls-for-belt-tightening-in-san-jose-budget-plan) | Tier 2 | Published Mar. 10, 2026 | KQED later connected Mahan’s 2026 belt-tightening budget message to higher employee compensation and retirement costs, and noted his 2023 lone vote against the city-worker wage agreement. |
+
+### South Bay Labor Council relations
+
+| Source URL | Source tier | Date confidence | One-line factual statement |
+|---|---:|---|---|
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-leaders-woo-unions-back-to-the-bargaining-table/) | Tier 2 | Published Aug. 8, 2023 | San José Spotlight reported that the South Bay Labor Council authorized a strike sanction during the 2023 city-worker wage dispute, meaning other union workers voted not to cross picket lines. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-political-divide-snarls-mayors-plans/) | Tier 2 | Published Aug. 24, 2023 | South Bay labor leaders and allies criticized Mahan after the city-worker pay deal, with the broader fight framed as a shift in power toward labor on the City Council. |
+| [KQED](https://www.kqed.org/news/11967395/san-jose-labor-groups-dont-like-mayor-matt-mahan-so-why-does-his-re-election-seem-assured) | Tier 2 | Published Nov. 15, 2023 | KQED reported that Mahan’s first year was marked by confrontations with labor unions over special elections for vacant council seats, affordable-housing funds for homeless shelters, and his vote against city-employee raises. |
+| [KQED](https://www.kqed.org/news/11967395/san-jose-labor-groups-dont-like-mayor-matt-mahan-so-why-does-his-re-election-seem-assured) | Tier 2 | Published Nov. 15, 2023 | KQED quoted South Bay Labor Council executive officer Jean Cohen expecting a Mahan challenger because of dissatisfaction with his first year. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-mayor-matt-mahan-glides-into-four-more-years-election-2024/) | Tier 2 | Published Mar. 11, 2024 | San José Spotlight reported that Mahan faced no opposition from labor interests in his 2024 reelection, while also noting he had faced a labor-majority City Council that outvoted him on key issues. |
+
+### Specific labor-adjacent policy decisions during the Mahan mayoralty
+
+| Source URL | Source tier | Date confidence | One-line factual statement |
+|---|---:|---|---|
+| [KQED](https://www.kqed.org/news/11967395/san-jose-labor-groups-dont-like-mayor-matt-mahan-so-why-does-his-re-election-seem-assured) | Tier 2 | Published Nov. 15, 2023 | KQED identified three labor-adjacent political conflicts in Mahan’s first year: special elections for vacant council seats, redirection of affordable-housing funds toward homeless shelters, and his opposition to city-employee raises. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-mayor-matt-mahan-criticizes-union-worker-pay-raises-amid-parks-program-cuts/) | Tier 2 | Published Sept. 15, 2023 | Mahan’s stated labor-cost objection included pension exposure, with San José Spotlight reporting his claim that 10% of the city general fund already went to unfunded pension liabilities and that the city had over $3 billion in unfunded pension liabilities. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-mayoral-candidate-matt-mahan-admits-employee-classification-error-ab5-ab-5-california-labor-law-election-2022/) | Tier 2 | Published Oct. 4, 2022 | Before Mahan became mayor, his 2022 mayoral campaign corrected worker misclassification after a state labor-commissioner complaint alleged campaign workers had been treated as independent contractors rather than employees under AB5. |
+| [San José Spotlight](https://sanjosespotlight.com/california-state-labor-law-ab5-ab-5-complaint-filed-against-san-jose-mayoral-candidate-councilmember-matt-mahan-election-2022/) | Tier 2 | Published Sept. 13, 2022 | The 2022 complaint alleged that 18 Mahan campaign workers were classified as consultants in roles such as volunteer coordinator, deputy field director, communications director, and campaign manager; this is pre-mayoral evidence and not a 2023-2026 mayoralty decision. |
+| [San José Spotlight](https://sanjosespotlight.com/san-jose-police-and-fire-unions-want-reserve-funds-to-fill-vacancies/) | Tier 2 | Published Apr. 10, 2025 | Police, firefighter, and IFPTE Local 21 leaders pressed the city to use reserve funds to fill vacancies and questioned city spending on private contracting for work related to Local 21 members. |
+| NO DATA | N/A | Search reviewed May 3, 2026 | No Tier 1/Tier 2 source located documenting Mahan mayoralty action on minimum-wage ordinances, new contractor-classification ordinances, project labor agreements, or prevailing-wage enforcement during 2023-2026. |
+
+### Mahan’s gubernatorial-campaign labor positions, 2025-2026
+
+| Source URL | Source tier | Date confidence | One-line factual statement |
+|---|---:|---|---|
+| [KQED](https://www.kqed.org/news/12071306/san-jose-mayor-matt-mahan-announces-run-for-california-governor) | Tier 2 | Published Jan. 29, 2026 | KQED reported Mahan’s gubernatorial launch message as “fight for our values while also fixing our problems,” and stated he had clashed repeatedly with local Democrats and organized labor. |
+| [CalMatters](https://calmatters.org/politics/2026/04/california-governor-race-financials/) | Tier 2 | Published Apr. 24, 2026 | CalMatters reported that Mahan’s campaign was funded by Silicon Valley executives, billionaires, and groups known to clash with Sacramento labor unions, but did not state a specific Mahan labor-policy position in the extracted coverage. |
+| [CalMatters candidate guide](https://calmatters.org/california-voter-guide-2026/governor/?module=next_button) | Tier 2 | Published May 2, 2026 | CalMatters’ candidate guide summarized Mahan as a moderate who opposes new taxes and wants to temporarily suspend the gas tax and tie government leaders’ pay to performance, but the extracted profile did not state positions on AB5, the PRO Act, public-sector collective bargaining, project labor agreements, or CalPERS reform. |
+| NO DATA | N/A | Search reviewed May 3, 2026 | No Tier 1/Tier 2 source located in this pass documenting explicit 2025-2026 Mahan gubernatorial positions on the PRO Act, AB5, public-sector collective bargaining, project labor agreements, or CalPERS reform. |
+
+## Bottom line
+
+The substantiated labor-conflict record is strongest on Mahan versus city-worker unions in 2023 and on later police/fire/IFPTE staffing-budget pressure in 2025. The SEIU Local 521 theory should be narrowed: SEIU 521 appears in a VTA-worker dispute over the Cerone yard and Mahan’s State of the City award invitation, but not as a San Jose city-employee bargaining unit in the official city labor-relations roster ([City of San José](https://www.sanjoseca.gov/your-government/departments-offices/office-of-the-city-manager/employee-relations/labor-relations-information), [San José Spotlight](https://sanjosespotlight.com/union-leaders-reject-san-jose-mayors-olive-branch/)). The most accurate shorthand is that Mahan had a documented conflict with organized labor as a San Jose mayor, centered on fiscal objections to city-worker raises, housing/homelessness policy disputes, and service-staffing budgets; explicit 2026 gubernatorial labor-policy positions remain NO DATA under the requested source rules.
