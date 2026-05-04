@@ -277,14 +277,14 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
 <!-- ─── Hero radial map · the WOW visual ─── -->
 <section class="hero-map">
   <div class="hero-map-inner">
-    <div class="label">The whole field · seven candidates · top cross-cutting donors</div>
+    <div class="label">The whole field · eight candidates · 55 named donors · 8 hedge bets</div>
     <div class="sub">Hover any candidate to see who funded them. Hover any donor to see which candidates they fund. Click to lock the highlight.</div>
 
     <div class="rm-graph-host">
       <div class="rm-d3-graph" id="rm-d3-graph" aria-label="Interactive force-directed graph of the 2026 California governor race showing seven candidates and their cross-cutting donors. Lines connect donors to the candidates they have funded.">
         <div class="rm-controls" role="group" aria-label="Graph filters">
           <button type="button" class="rm-control-btn active" data-filter="all">All flows</button>
-          <button type="button" class="rm-control-btn" data-filter="cross-party">Cross-party only</button>
+          <button type="button" class="rm-control-btn" data-filter="hedges">Hedge bets</button>
           <button type="button" class="rm-control-btn" data-filter="anti">Attacks only</button>
           <button type="button" class="rm-control-btn" data-filter="reset">Reset</button>
         </div>
@@ -294,10 +294,17 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
         <div class="legend-overlay" aria-hidden="true">
           <span class="li"><span class="sw" style="background:#fbbf24"></span>Tech VC</span>
           <span class="li"><span class="sw" style="background:#f97316"></span>Crypto</span>
-          <span class="li"><span class="sw" style="background:#7c2d12"></span>Oil &amp; gas</span>
-          <span class="li"><span class="sw" style="background:#1e3a8a"></span>Police</span>
+          <span class="li"><span class="sw" style="background:#0891b2"></span>Healthcare</span>
+          <span class="li"><span class="sw" style="background:#7e22ce"></span>Plaintiffs</span>
+          <span class="li"><span class="sw" style="background:#be185d"></span>Labor</span>
+          <span class="li"><span class="sw" style="background:#7c2d12"></span>Oil</span>
           <span class="li"><span class="sw" style="background:#16a34a"></span>Real estate</span>
-          <span class="li"><span class="sw" style="background:#7e22ce"></span>Plaintiffs bar</span>
+          <span class="li"><span class="sw" style="background:#1e3a8a"></span>Police</span>
+          <span class="li"><span class="sw" style="background:#92400e"></span>Tribal</span>
+          <span class="li"><span class="sw" style="background:#0c4a6e"></span>Finance</span>
+          <span class="li"><span class="sw" style="background:#4338ca"></span>Education</span>
+          <span class="li"><span class="sw" style="background:#475569"></span>Dark money</span>
+          <span class="li"><span class="sw" style="background:#737373;border-style:dashed"></span>Cluster</span>
           <span class="li"><span class="sw" style="background:#dc2626;border-color:#dc2626"></span>Anti-candidate</span>
         </div>
         <div class="iter-stamp">v0.2 · Interactive</div>
@@ -856,7 +863,14 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     'utility':       { color: '#dc2626', label: 'Utility (anti)' },
     'media':         { color: '#a3a3a3', label: 'Media' },
     'libertarian':   { color: '#fbbf24', label: 'Libertarian VC' },
-    'cluster':       { color: '#737373', label: 'Cluster / aggregation' }
+    'cluster':       { color: '#737373', label: 'Cluster / aggregation' },
+    'labor':         { color: '#be185d', label: 'Labor / unions' },
+    'agriculture':   { color: '#166534', label: 'Agriculture' },
+    'entertainment': { color: '#ec4899', label: 'Entertainment' },
+    'finance':       { color: '#0c4a6e', label: 'Finance' },
+    'tribal':        { color: '#92400e', label: 'Tribal gaming' },
+    'education':     { color: '#4338ca', label: 'Education' },
+    'dark-money':    { color: '#475569', label: 'Dark money / political ops' }
   };
 
   var candidates = [
@@ -870,54 +884,135 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     { id: 'thurmond',     name: 'TONY THURMOND',    party: 'D', anchor: { x: 0.08, y: 0.50 } }
   ];
 
-  // Donor nodes. Edges arrays: { to: candidateId, amount: int, kind: 'fund'|'anti' }
+  // Donor nodes. Edges arrays: { to: candidateId, amount: int, kind: 'fund'|'anti', viaIE: bool }
   var donors = [
-    { id: 'brin',          label: 'BRIN',          full: 'Sergey Brin', meta: 'Google co-founder', industry: 'tech-vc',
+    // ─── Cross-party hedges (multi-candidate, multi-party) ───
+    { id: 'brin',           label: 'BRIN',          full: 'Sergey Brin', meta: 'Google co-founder', industry: 'tech-vc',
       edges: [{ to: 'hilton', amount: 39200 }, { to: 'mahan', amount: 1000000, viaIE: true }] },
-    { id: 'larsen',        label: 'LARSEN',        full: 'Chris Larsen', meta: 'Ripple co-founder', industry: 'crypto',
-      edges: [{ to: 'hilton', amount: 39200 }, { to: 'porter', amount: 39200 }, { to: 'mahan', amount: 500000 }] },
-    { id: 'lonsdale',      label: 'LONSDALE',      full: 'Joe Lonsdale', meta: 'Palantir co-founder, 8VC', industry: 'tech-vc',
+    { id: 'larsen',         label: 'LARSEN',        full: 'Christian (Chris) Larsen', meta: 'Ripple Labs executive chairman', industry: 'crypto',
+      edges: [{ to: 'hilton', amount: 39200 }, { to: 'porter', amount: 117600 }] },
+    { id: 'lonsdale',       label: 'LONSDALE',      full: 'Joe Lonsdale', meta: 'Palantir co-founder · 8VC', industry: 'tech-vc',
       edges: [{ to: 'hilton', amount: 25000 }, { to: 'mahan', amount: 78400 }] },
-    { id: 'highland',      label: 'HIGHLAND',      full: 'Highland Fairview', meta: 'Iddo Benzeevi · Riverside megadeveloper', industry: 'real-estate',
+    { id: 'highland',       label: 'HIGHLAND',      full: 'Highland Fairview Operating Co.', meta: 'Iddo Benzeevi · Riverside megadeveloper', industry: 'real-estate',
       edges: [{ to: 'bianco', amount: 39200 }, { to: 'villaraigosa', amount: 72800 }] },
-    { id: 'porac',         label: 'PORAC',         full: 'PORAC PAC', meta: 'Peace Officers Research Association of California', industry: 'police',
+    { id: 'porac',          label: 'PORAC',         full: 'PORAC PAC', meta: 'Peace Officers Research Association of California', industry: 'police',
       edges: [{ to: 'bianco', amount: 39200 }, { to: 'villaraigosa', amount: 78400 }] },
-    { id: 'mcnicholas',    label: 'MCNICHOLAS',    full: 'McNicholas & McNicholas LLP', meta: 'Major California plaintiffs firm', industry: 'plaintiffs',
-      edges: [{ to: 'becerra', amount: 25000 }, { to: 'porter', amount: 25000 }] },
-    { id: 'draper',        label: 'DRAPER',        full: 'Tim Draper', meta: 'DFJ founder · libertarian VC', industry: 'libertarian',
-      edges: [{ to: 'hilton', amount: 78400 }] },
-    { id: 'moritz',        label: 'MORITZ',        full: 'Michael Moritz', meta: 'Sequoia Capital', industry: 'tech-vc',
-      edges: [{ to: 'mahan', amount: 2000000, viaIE: true }] },
-    { id: 'seibel',        label: 'SEIBEL',        full: 'Michael Seibel', meta: 'Y Combinator', industry: 'tech-vc',
-      edges: [{ to: 'mahan', amount: 1000000, viaIE: true }] },
-    { id: 'collison',      label: 'COLLISON',      full: 'Patrick / John Collison', meta: 'Stripe', industry: 'tech-vc',
-      edges: [{ to: 'mahan', amount: 990000, viaIE: true }] },
-    { id: 'singerman',     label: 'SINGERMAN',     full: 'Brian Singerman', meta: 'Founders Fund', industry: 'tech-vc',
-      edges: [{ to: 'mahan', amount: 250000, viaIE: true }] },
-    { id: 'coinbase',      label: 'COINBASE',      full: 'Coinbase senior leadership', meta: 'Armstrong $500K + Nadolinski $78K', industry: 'crypto', cluster: true,
-      edges: [{ to: 'mahan', amount: 578400, viaIE: true }] },
-    { id: 'pge',           label: 'PG&E',          full: 'PG&E Corporation', meta: 'Investor-owned utility · funds anti-Steyer IE', industry: 'utility',
-      edges: [{ to: 'steyer', amount: 9975000, kind: 'anti' }] },
-    { id: 'ibew',          label: 'IBEW',          full: 'IBEW Local 1245', meta: 'Utility-trade union · funds anti-Steyer IE', industry: 'utility',
-      edges: [{ to: 'steyer', amount: 75000, kind: 'anti' }] },
-    { id: 'chevron',       label: 'CHEVRON',       full: 'Chevron USA', meta: 'Oil major', industry: 'oil',
+    { id: 'mcnicholas',     label: 'MCNICHOLAS',    full: 'McNicholas & McNicholas LLP', meta: 'Major California plaintiffs firm · $944K total cross-Dem', industry: 'plaintiffs',
+      edges: [{ to: 'becerra', amount: 25000 }, { to: 'porter', amount: 103400 }] },
+    { id: 'chevron',        label: 'CHEVRON',       full: 'Chevron USA', meta: 'Oil major', industry: 'oil',
       edges: [{ to: 'villaraigosa', amount: 78400 }, { to: 'becerra', amount: 39200 }] },
-    { id: 'cal-resources', label: 'CRC',           full: 'California Resources Corporation', meta: 'Oil & gas', industry: 'oil',
-      edges: [{ to: 'villaraigosa', amount: 72800 }] },
-    { id: 'marathon',      label: 'MARATHON',      full: 'Marathon Petroleum', meta: 'Oil major', industry: 'oil',
-      edges: [{ to: 'villaraigosa', amount: 78400 }] },
-    { id: 'berry',         label: 'BERRY',         full: 'Berry Corporation', meta: 'Oil & gas', industry: 'oil',
-      edges: [{ to: 'villaraigosa', amount: 78400 }] },
-    { id: 'md-downs',      label: 'M&D / DOWNS',   full: 'M&D Development + Downs Energy', meta: 'Sibling-managed LLCs · same Corona address', industry: 'cluster', cluster: true,
-      edges: [{ to: 'bianco', amount: 156800 }] },
-    { id: 'lighthouse',    label: 'LIGHTHOUSE',    full: 'Lighthouse Worldwide Solutions', meta: 'Oregon C-suite · 6 employees, two coordinated days', industry: 'cluster', cluster: true,
+    { id: 'habematolel',    label: 'HABEMATOLEL',   full: 'Habematolel Pomo of Upper Lake', meta: 'Tribal gaming', industry: 'tribal',
+      edges: [{ to: 'villaraigosa', amount: 79200 }, { to: 'thurmond', amount: 15000 }] },
+
+    // ─── Hilton (R) ───
+    { id: 'draper',         label: 'DRAPER',        full: 'Tim Draper', meta: 'DFJ founder · libertarian VC', industry: 'libertarian',
+      edges: [{ to: 'hilton', amount: 78400 }] },
+    { id: 'murdoch',        label: 'MURDOCH',       full: 'Rupert Murdoch', meta: 'Fox Corp / News Corp · Hilton’s former Fox News employer', industry: 'media',
+      edges: [{ to: 'hilton', amount: 39200 }] },
+    { id: 'chernick',       label: 'CHERNICK',      full: 'Aubrey Chernick', meta: 'Tech entrepreneur · sold Calm Security to IBM 2010', industry: 'tech-vc',
+      edges: [{ to: 'hilton', amount: 39200 }] },
+    { id: 'mcentee',        label: 'MCENTEE',       full: 'John McEntee', meta: 'Trump White House Presidential Personnel Office director', industry: 'dark-money',
+      edges: [{ to: 'hilton', amount: 39200 }] },
+    { id: 'lighthouse',     label: 'LIGHTHOUSE',    full: 'Lighthouse Worldwide Solutions', meta: 'Oregon C-suite · 6 employees, two coordinated days', industry: 'cluster', cluster: true,
       edges: [{ to: 'hilton', amount: 196000 }] },
-    { id: 'haagen',        label: 'HAAGEN',        full: 'Haagen Company family', meta: 'Real-estate family + holding LLC', industry: 'real-estate', cluster: true,
+
+    // ─── Bianco (R) ───
+    { id: 'md-downs',       label: 'M&D/DOWNS',     full: 'M&D Development + Downs Energy', meta: 'Sibling-managed LLCs · same Corona address', industry: 'cluster', cluster: true,
+      edges: [{ to: 'bianco', amount: 156800 }] },
+    { id: 'haagen',         label: 'HAAGEN',        full: 'Haagen Company family', meta: 'Commercial real-estate · Alexander + Betty Haagen household', industry: 'real-estate', cluster: true,
       edges: [{ to: 'bianco', amount: 78400 }] },
-    { id: 'cantu',         label: 'CANTU/DHR',     full: 'Cantu / DHR Health network', meta: 'Physician-owned hospital cluster · 4 family/affiliates same day', industry: 'healthcare', cluster: true,
+    { id: 'rsa-pef',        label: 'RSA PEF',       full: 'Riverside Sheriffs’ Association Public Education Fund', meta: 'Bianco’s own department’s union PAC', industry: 'police',
+      edges: [{ to: 'bianco', amount: 38122 }] },
+
+    // ─── Becerra (D) ───
+    { id: 'liuna',          label: 'LIUNA',         full: 'California State Council of Laborers PAC', meta: 'LIUNA construction labor · ~$180K combined w/ affiliates', industry: 'labor',
+      edges: [{ to: 'becerra', amount: 55000 }] },
+    { id: 'altamed',        label: 'ALTAMED',       full: 'AltaMed Health Network Inc.', meta: 'Largest FQHC in California · HRSA grants under HHS during Becerra tenure', industry: 'healthcare',
+      edges: [{ to: 'becerra', amount: 39200 }] },
+    { id: 'schaeffer',      label: 'SCHAEFFER',     full: 'Leonard Schaeffer', meta: 'Founder/former CEO of WellPoint (Anthem)', industry: 'healthcare',
+      edges: [{ to: 'becerra', amount: 39200 }] },
+    { id: 'pechanga',       label: 'PECHANGA',      full: 'Pechanga Band of Luiseño Indians', meta: 'Tribal gaming · CA institutional Dem coalition', industry: 'tribal',
+      edges: [{ to: 'becerra', amount: 44600 }] },
+    { id: 'prime-health',   label: 'PRIME HLTH',    full: 'Prime Healthcare Services, Inc.', meta: 'Hospital chain · active HHS-OIG Corporate Integrity Agreement during Becerra tenure', industry: 'healthcare',
+      edges: [{ to: 'becerra', amount: 20000 }] },
+    { id: 'morgan-chu',     label: 'MORGAN CHU',    full: 'Morgan Chu', meta: 'Litigation Chair at Irell & Manella · life-sciences IP litigator', industry: 'plaintiffs',
+      edges: [{ to: 'becerra', amount: 39200 }] },
+    { id: 'cantu',          label: 'CANTU/DHR',     full: 'Cantu / DHR Health network', meta: 'Physician-owned hospital cluster · 4 family/affiliates same day', industry: 'healthcare', cluster: true,
       edges: [{ to: 'becerra', amount: 47300 }] },
-    { id: 'murdoch',       label: 'MURDOCH',       full: 'Murdoch family', meta: 'News Corp · Fox News orbit', industry: 'media',
-      edges: [{ to: 'hilton', amount: 10000 }] }
+
+    // ─── Mahan IE PAC (Back to Basics California) ───
+    { id: 'moritz',         label: 'MORITZ',        full: 'Michael Moritz', meta: 'Chairman, Sequoia Capital', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 2000000, viaIE: true }] },
+    { id: 'seibel',         label: 'SEIBEL',        full: 'Michael Seibel', meta: 'Partner, Y Combinator · former Twitch CEO', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 1000000, viaIE: true }] },
+    { id: 'merrill',        label: 'A. MERRILL',    full: 'Ashley Merrill', meta: 'CEO Lunya · married to VC Steven Merrill', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 1000000, viaIE: true }] },
+    { id: 'collison',       label: 'COLLISON',      full: 'Patrick Collison', meta: 'CEO, Stripe', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 990000, viaIE: true }] },
+    { id: 'coinbase',       label: 'COINBASE',      full: 'Coinbase senior leadership', meta: 'Armstrong $500K + Nadolinski $78K · same Fairshake-PAC orbit that spent $10M against Porter in 2024', industry: 'crypto', cluster: true,
+      edges: [{ to: 'mahan', amount: 578400, viaIE: true }] },
+    { id: 'pritzker',       label: 'PRITZKER',      full: 'John Pritzker', meta: 'Pritzker family · Aperture Group LLC', industry: 'finance',
+      edges: [{ to: 'mahan', amount: 500000, viaIE: true }] },
+    { id: 'mehta',          label: 'NEIL MEHTA',    full: 'Neil Mehta', meta: 'Greenoaks Capital growth-equity', industry: 'finance',
+      edges: [{ to: 'mahan', amount: 500000, viaIE: true }] },
+    { id: 'singerman',      label: 'SINGERMAN',     full: 'Brian Singerman', meta: 'Partner, Founders Fund (Peter Thiel network)', industry: 'tech-vc',
+      edges: [{ to: 'mahan', amount: 250000, viaIE: true }] },
+    { id: 'caruso',         label: 'CARUSO',        full: 'Rick Caruso', meta: 'Caruso Affiliated · former LA mayoral candidate', industry: 'real-estate',
+      edges: [{ to: 'mahan', amount: 250000, viaIE: true }] },
+
+    // ─── Porter (D) ───
+    { id: 'kiani',          label: 'KIANI',         full: 'Joe Kiani', meta: 'Founder/CEO Masimo · medical devices · Willow Labs', industry: 'healthcare',
+      edges: [{ to: 'porter', amount: 117600 }] },
+    { id: 'singleton',      label: 'SINGLETON',     full: 'Gerald B. Singleton', meta: 'Singleton Schreiber LLP · plaintiffs / wildfire mass tort', industry: 'plaintiffs',
+      edges: [{ to: 'porter', amount: 85000 }] },
+    { id: 'schreiber',      label: 'SCHREIBER',     full: 'Brett Schreiber', meta: 'Singleton Schreiber LLP · plaintiffs', industry: 'plaintiffs',
+      edges: [{ to: 'porter', amount: 88400 }] },
+    { id: 'drive-pac',      label: 'DRIVE PAC',     full: 'DRIVE Committee', meta: 'IBT Teamsters federal political action committee', industry: 'labor',
+      edges: [{ to: 'porter', amount: 78400 }] },
+    { id: 'smart-pac',      label: 'SMART PAC',     full: 'Sheet Metal, Air, Rail & Transportation Workers PAL', meta: 'SMART International building trades union', industry: 'labor',
+      edges: [{ to: 'porter', amount: 78400 }] },
+    { id: 'mcnamee',        label: 'MCNAMEE',       full: 'Roger McNamee', meta: 'Elevation Partners · Big Tech critic (Zucked)', industry: 'tech-vc',
+      edges: [{ to: 'porter', amount: 20000 }] },
+
+    // ─── Steyer (D) — almost entirely self-funded; outside flows are anti ───
+    { id: 'pge',            label: 'PG&E',          full: 'Pacific Gas & Electric Corporation', meta: 'Utility monopoly · funds anti-Steyer IE PAC', industry: 'utility',
+      edges: [{ to: 'steyer', amount: 9975000, kind: 'anti' }] },
+    { id: 'ibew-1245',      label: 'IBEW 1245',     full: 'IBEW Local 1245', meta: 'PG&E utility-workers union · joint anti-Steyer spend with PG&E', industry: 'utility',
+      edges: [{ to: 'steyer', amount: 75000, kind: 'anti' }] },
+    { id: 'simons',         label: 'N. SIMONS',     full: 'Nathaniel Simons', meta: 'Renaissance Technologies family · climate philanthropy', industry: 'finance',
+      edges: [{ to: 'steyer', amount: 39200 }] },
+
+    // ─── Villaraigosa (D) — building trades + LA real estate + fossil fuel ───
+    { id: 'ca-bldg-trades', label: 'CA BLDG TRD',   full: 'State Building & Construction Trades Council of California PAC', meta: 'Umbrella building-trades labor PAC · institutional spine', industry: 'labor',
+      edges: [{ to: 'villaraigosa', amount: 156800 }] },
+    { id: 'pipe-trades',    label: 'PIPE TRADES',   full: 'California State Pipe Trades Council PAC', meta: 'Plumbers/pipefitters union', industry: 'labor',
+      edges: [{ to: 'villaraigosa', amount: 156800 }] },
+    { id: 'agc-pac',        label: 'AGC PAC',       full: 'Associated General Contractors PAC', meta: 'Construction-industry trade group', industry: 'real-estate',
+      edges: [{ to: 'villaraigosa', amount: 156800 }] },
+    { id: 'cal-resources',  label: 'CRC',           full: 'California Resources Corporation', meta: 'CA’s largest in-state oil & gas producer (Occidental spinoff)', industry: 'oil',
+      edges: [{ to: 'villaraigosa', amount: 72800 }] },
+    { id: 'marathon',       label: 'MARATHON',      full: 'Marathon Petroleum', meta: 'Oil major', industry: 'oil',
+      edges: [{ to: 'villaraigosa', amount: 78400 }] },
+    { id: 'berry',          label: 'BERRY',         full: 'Berry Corporation', meta: 'CA-focused oil & gas', industry: 'oil',
+      edges: [{ to: 'villaraigosa', amount: 78400 }] },
+    { id: 'resnick',        label: 'RESNICK',       full: 'Stewart Resnick', meta: 'Co-owner The Wonderful Co. (Fiji, POM, Pistachios) · CA water rights', industry: 'agriculture',
+      edges: [{ to: 'villaraigosa', amount: 36400 }] },
+    { id: 'polone',         label: 'POLONE',        full: 'Gavin Polone', meta: 'Hollywood producer (Gilmore Girls, Zombieland)', industry: 'entertainment',
+      edges: [{ to: 'villaraigosa', amount: 78400 }] },
+    { id: 'rappaport',      label: 'RAPPAPORT',     full: 'Kurt Rappaport', meta: 'Westside Estate Agency · ultra-luxury LA real estate broker', industry: 'real-estate',
+      edges: [{ to: 'villaraigosa', amount: 36400 }] },
+
+    // ─── Thurmond (D) — small-dollar education establishment ───
+    { id: 'ibew-edu',       label: 'IBEW EDU',      full: 'IBEW PAC Educational Fund', meta: 'Electrical workers union political fund', industry: 'labor',
+      edges: [{ to: 'thurmond', amount: 12500 }] },
+    { id: 'cfa',            label: 'CFA',           full: 'California Faculty Association · Faculty for our University’s Future', meta: '~28,000 CSU faculty union political arm', industry: 'education',
+      edges: [{ to: 'thurmond', amount: 10000 }] },
+    { id: 'delaney',        label: 'DELANEY',       full: 'M. Quinn Delaney', meta: 'Akonadi Foundation founder · racial-justice philanthropy', industry: 'dark-money',
+      edges: [{ to: 'thurmond', amount: 36400 }] },
+    { id: 'wcu',            label: 'WCU',           full: 'West Coast University, Inc.', meta: 'For-profit health-sciences university chain', industry: 'education',
+      edges: [{ to: 'thurmond', amount: 18000 }] },
+    { id: 'pala-band',      label: 'PALA BAND',     full: 'Pala Band of Mission Indians', meta: 'Tribal gaming', industry: 'tribal',
+      edges: [{ to: 'thurmond', amount: 18000 }] }
   ];
 
   // Compute per-donor total $ for sizing
@@ -1236,18 +1331,17 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       nodeSel.style('display', null);
       return;
     }
-    if (currentFilter === 'cross-party') {
-      linkSel.style('display', function (l) { return l.crossParty ? null : 'none'; });
-      var keepIds = {};
-      links.forEach(function (l) {
-        if (l.crossParty) {
-          keepIds[l.source.id || l.source] = true;
-          keepIds[l.target.id || l.target] = true;
-        }
+    if (currentFilter === 'hedges') {
+      // Show every donor with 2+ candidate edges, regardless of party
+      var multiIds = {};
+      donors.forEach(function (d) { if (d.edges.length >= 2) multiIds[d.id] = true; });
+      linkSel.style('display', function (l) {
+        var sId = l.source.id || l.source;
+        return multiIds[sId] ? null : 'none';
       });
       nodeSel.style('display', function (n) {
         if (n.type === 'candidate') return null;
-        return keepIds[n.id] ? null : 'none';
+        return multiIds[n.id] ? null : 'none';
       });
       return;
     }
