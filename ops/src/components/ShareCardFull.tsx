@@ -17,7 +17,7 @@ import { forwardRef } from "react"
  *   hilton            Form 700 disclosure spine: HILTON + WHETSTONE arrows into $10B Sierra + receipt band
  */
 
-export type ShareCardKind = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton"
+export type ShareCardKind = "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton" | "carace26-map" | "mahan" | "steyer"
 
 interface ShareCardConfig {
   headline: React.ReactNode
@@ -80,6 +80,46 @@ const CONFIG: Record<ShareCardKind, ShareCardConfig> = {
     url: "thedonormap.org/hilton",
     footerNote: "FPPC Form 700 · TechCrunch · Cal-Access",
     graphic: <HiltonGraphic />,
+  },
+  "carace26-map": {
+    headline: (
+      <>
+        Same donor.{" "}
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>Both parties</span>. Five times.
+      </>
+    ),
+    deck:
+      "Five named donors are funding both a Republican and a Democrat in the 2026 California governor's race. The whole field, eight candidates, 55 named donors, mapped against each other. The lines that cross the field are the donors who are not picking sides.",
+    url: "thedonormap.org/carace26-map",
+    footerNote: "Cal-Access RCPT_CD · 8 candidates · 55 donors · 8 hedges",
+    graphic: <RaceMapGraphic />,
+  },
+  mahan: {
+    headline: (
+      <>
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>$0</span> from voters.{" "}
+        <span style={{ background: "#fbbf24", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>$43,000,000</span> from Sand Hill Road.
+      </>
+    ),
+    deck:
+      "Matt Mahan has not raised a dollar in his own candidate committee for the 2026 California governor's race. Every cent on his side flows through Back to Basics California, an outside spending PAC he is legally barred from coordinating with. Sequoia, Y Combinator, Stripe, Coinbase. 61 people wrote almost all of it.",
+    url: "thedonormap.org/mahan",
+    footerNote: "Cal-Access EXPN_CD · FPPC IE PAC · 61 contributors",
+    graphic: <MahanGraphic />,
+  },
+  steyer: {
+    headline: (
+      <>
+        Tom Steyer wants tighter{" "}
+        <span style={{ background: "#fbbf24", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>AI rules</span>. His brother runs the{" "}
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>lobby</span> that writes them.
+      </>
+    ),
+    deck:
+      "Jim Steyer founded Common Sense Media in 2003 and has been its CEO for 23 years. Common Sense is the named advocate behind California's three biggest AI bills: AB-1064 vetoed, AB-1709 pending, AB-2023 pending. Tom and Kat Taylor have donated $5,000,000+ to Common Sense per CalMatters May 4 2026 reporting.",
+    url: "thedonormap.org/steyer",
+    footerNote: "CalMatters · leginfo.legislature.ca.gov · Common Sense 990",
+    graphic: <SteyerGraphic />,
   },
 }
 
@@ -394,6 +434,244 @@ function HiltonGraphic() {
         <text x="40" y="440">Sched C · Hilton · Fox News Network LLC</text>
         <text x="900" y="440" textAnchor="end" fontWeight="700">Income $10,001-$100,000</text>
       </g>
+    </svg>
+  )
+}
+
+function RaceMapGraphic() {
+  // U-shape candidate ring with 5 cross-party hedge donors in the center.
+  // Red lines mark donors funding both a Republican AND a Democrat.
+  // Receipt band lists top 4 hedge bets by combined dollar total.
+  const candR = "#e63946"
+  const candD = "#1d4ed8"
+  return (
+    <svg viewBox="0 0 940 460" xmlns="http://www.w3.org/2000/svg" style={{ display: "block", width: "100%", height: "auto" }}>
+      <text x="470" y="18" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" fill="#666" letterSpacing="2">CA GOV 2026 · WHOLE-FIELD MONEY MAP · CROSS-PARTY HEDGES</text>
+
+      {/* ─── Top row of candidates (R · R · D · D) ─── */}
+      <rect x="20" y="40" width="160" height="44" fill="#0a0a0a" stroke={candR} strokeWidth="3" />
+      <text x="100" y="62" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="14" fontWeight="900" fill="#fff">HILTON</text>
+      <text x="100" y="76" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#fca5a5">R · $7.7M</text>
+
+      <rect x="200" y="40" width="160" height="44" fill="#0a0a0a" stroke={candR} strokeWidth="3" />
+      <text x="280" y="62" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="14" fontWeight="900" fill="#fff">BIANCO</text>
+      <text x="280" y="76" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#fca5a5">R · $4.5M</text>
+
+      <rect x="380" y="40" width="160" height="44" fill="#0a0a0a" stroke={candD} strokeWidth="3" />
+      <text x="460" y="62" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="14" fontWeight="900" fill="#fff">BECERRA</text>
+      <text x="460" y="76" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#93c5fd">D · $5.8M</text>
+
+      <rect x="560" y="40" width="160" height="44" fill="#0a0a0a" stroke={candD} strokeWidth="3" />
+      <text x="640" y="62" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="14" fontWeight="900" fill="#fff">STEYER</text>
+      <text x="640" y="76" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#93c5fd">D · $14M</text>
+
+      <rect x="740" y="40" width="160" height="44" fill="#0a0a0a" stroke={candD} strokeWidth="3" />
+      <text x="820" y="62" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="14" fontWeight="900" fill="#fff">PORTER</text>
+      <text x="820" y="76" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#93c5fd">D · $12M</text>
+
+      {/* ─── Bottom row of candidates (D · D · D) ─── */}
+      <rect x="20" y="260" width="160" height="44" fill="#0a0a0a" stroke={candD} strokeWidth="3" />
+      <text x="100" y="282" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="13" fontWeight="900" fill="#fff">THURMOND</text>
+      <text x="100" y="296" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#93c5fd">D · $327K</text>
+
+      <rect x="280" y="260" width="180" height="44" fill="#0a0a0a" stroke={candD} strokeWidth="3" />
+      <text x="370" y="282" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="14" fontWeight="900" fill="#fff">MAHAN</text>
+      <text x="370" y="296" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#93c5fd">D · $43M IE</text>
+
+      <rect x="500" y="260" width="200" height="44" fill="#0a0a0a" stroke={candD} strokeWidth="3" />
+      <text x="600" y="282" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="14" fontWeight="900" fill="#fff">VILLARAIGOSA</text>
+      <text x="600" y="296" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" letterSpacing="1.5" fill="#93c5fd">D · $6.1M</text>
+
+      <rect x="740" y="260" width="160" height="44" fill="none" />
+
+      {/* ─── Center label ─── */}
+      <text x="470" y="135" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="3" fill="#fbbf24">DONORS WHO CROSS</text>
+      <text x="470" y="150" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="3" fill="#fbbf24">CANDIDATE LINES</text>
+
+      {/* ─── 5 cross-party hedge donor circles ─── */}
+      {/* Brin · Hilton + Mahan */}
+      <line x1="100" y1="84" x2="335" y2="180" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <line x1="335" y1="180" x2="370" y2="260" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <circle cx="335" cy="180" r="20" fill="#fbbf24" stroke="#e63946" strokeWidth="2.5" />
+      <text x="335" y="184" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="10" fontWeight="900" fill="#0a0a0a">BRIN</text>
+
+      {/* Larsen · Hilton + Porter */}
+      <line x1="100" y1="84" x2="500" y2="200" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <line x1="500" y1="200" x2="820" y2="84" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <circle cx="500" cy="200" r="20" fill="#f97316" stroke="#e63946" strokeWidth="2.5" />
+      <text x="500" y="204" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="9" fontWeight="900" fill="#0a0a0a">LARSEN</text>
+
+      {/* Lonsdale · Hilton + Mahan */}
+      <line x1="100" y1="84" x2="410" y2="155" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <line x1="410" y1="155" x2="370" y2="260" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <circle cx="410" cy="155" r="17" fill="#fbbf24" stroke="#e63946" strokeWidth="2" />
+      <text x="410" y="158" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="8" fontWeight="900" fill="#0a0a0a">LONSDALE</text>
+
+      {/* Highland · Bianco + Villaraigosa */}
+      <line x1="280" y1="84" x2="580" y2="200" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <line x1="580" y1="200" x2="600" y2="260" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <circle cx="580" cy="200" r="20" fill="#16a34a" stroke="#e63946" strokeWidth="2.5" />
+      <text x="580" y="204" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="8" fontWeight="900" fill="#fff">HIGHLAND</text>
+
+      {/* PORAC · Bianco + Villaraigosa */}
+      <line x1="280" y1="84" x2="660" y2="180" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <line x1="660" y1="180" x2="600" y2="260" stroke="#e63946" strokeWidth="2" strokeDasharray="6 3" />
+      <circle cx="660" cy="180" r="20" fill="#1e3a8a" stroke="#e63946" strokeWidth="2.5" />
+      <text x="660" y="184" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="10" fontWeight="900" fill="#fff">PORAC</text>
+
+      {/* Stinger */}
+      <text x="470" y="338" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="18" fill="#0a0a0a">Five donors. Both parties. Same race.</text>
+
+      {/* ─── Receipt band ─── */}
+      <rect x="20" y="356" width="900" height="92" fill="#fbbf24" stroke="#0a0a0a" strokeWidth="3" />
+      <text x="470" y="376" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" fill="#0a0a0a" letterSpacing="2">CROSS-PARTY HEDGE BETS · CAL-ACCESS PRIMARY-SOURCE VERIFIED</text>
+      <g fontFamily="Space Mono, monospace" fontSize="13" fill="#0a0a0a">
+        <text x="40" y="396">Brin (Google) · Hilton (R) + Mahan (D)</text>
+        <text x="900" y="396" textAnchor="end" fontWeight="700">$1,040,000</text>
+        <text x="40" y="414">Larsen (Ripple) · Hilton (R) + Porter (D)</text>
+        <text x="900" y="414" textAnchor="end" fontWeight="700">$157,000</text>
+        <text x="40" y="432">PORAC PAC · Bianco (R) + Villaraigosa (D)</text>
+        <text x="900" y="432" textAnchor="end" fontWeight="700">$117,000</text>
+        <text x="40" y="450" fontStyle="italic">+ Highland Fairview · + Lonsdale</text>
+        <text x="900" y="450" textAnchor="end" fontWeight="700">+ $215,000</text>
+      </g>
+    </svg>
+  )
+}
+
+function MahanGraphic() {
+  // Side-by-side panels: $0 candidate committee · firewall · $43M IE PAC.
+  // Below: top 5 IE PAC funders ranked by amount.
+  return (
+    <svg viewBox="0 0 940 460" xmlns="http://www.w3.org/2000/svg" style={{ display: "block", width: "100%", height: "auto" }}>
+      <defs>
+        <pattern id="mh-stripes" patternUnits="userSpaceOnUse" width="14" height="14" patternTransform="rotate(45)">
+          <rect width="14" height="14" fill="#fbbf24" />
+          <rect width="7" height="14" fill="#0a0a0a" />
+        </pattern>
+      </defs>
+
+      <text x="470" y="18" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" fill="#666" letterSpacing="2">MATT MAHAN · CA GOV 2026 · CANDIDATE-CMTE vs IE PAC</text>
+
+      {/* ─── Left panel: $0 from voters ─── */}
+      <rect x="20" y="40" width="380" height="180" fill="#0a0a0a" />
+      <text x="210" y="80" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="2" fill="#aaa">CANDIDATE-CONTROLLED CMTE</text>
+      <text x="210" y="160" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="120" fontWeight="900" fill="#e63946" letterSpacing="-4">$0</text>
+      <text x="210" y="190" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="12" fontWeight="700" fill="#fbbf24" letterSpacing="2">RAISED FROM VOTERS</text>
+      <text x="210" y="208" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="400" fill="#aaa" letterSpacing="1.5">no candidate committee filed</text>
+
+      {/* ─── Center firewall ─── */}
+      <rect x="404" y="40" width="132" height="180" fill="url(#mh-stripes)" />
+      <rect x="412" y="80" width="116" height="100" fill="#f5f0eb" stroke="#0a0a0a" strokeWidth="3" />
+      <text x="470" y="118" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" fill="#e63946" letterSpacing="2">FIREWALL</text>
+      <text x="470" y="138" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="13" fontWeight="900" fill="#0a0a0a">CANNOT</text>
+      <text x="470" y="156" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="13" fontWeight="900" fill="#0a0a0a">COORDINATE</text>
+      <text x="470" y="172" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" fill="#666" letterSpacing="1">BY LAW</text>
+
+      {/* ─── Right panel: $43M IE PAC ─── */}
+      <rect x="540" y="40" width="380" height="180" fill="#fbbf24" stroke="#0a0a0a" strokeWidth="3" />
+      <text x="730" y="80" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="2" fill="#0a0a0a">BACK TO BASICS CALIFORNIA · IE PAC</text>
+      <text x="730" y="160" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="98" fontWeight="900" fill="#0a0a0a" letterSpacing="-4">$43M</text>
+      <text x="730" y="190" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="12" fontWeight="700" fill="#0a0a0a" letterSpacing="2">FROM 61 PEOPLE</text>
+      <text x="730" y="208" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="400" fill="#444" letterSpacing="1.5">Sequoia · Y Combinator · Stripe · Coinbase</text>
+
+      {/* ─── Stinger ─── */}
+      <text x="470" y="252" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="20" fill="#0a0a0a">The donor base is the candidate.</text>
+
+      {/* ─── Receipt band: top 5 IE PAC funders ─── */}
+      <rect x="20" y="276" width="900" height="172" fill="#0a0a0a" />
+      <text x="470" y="300" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="12" fontWeight="700" fill="#fbbf24" letterSpacing="2">BACK TO BASICS CALIFORNIA · TOP 5 CONTRIBUTORS</text>
+      <g fontFamily="Space Mono, monospace" fontSize="14" fill="#fff">
+        <text x="40" y="328">Michael Moritz · Sequoia Capital chairman</text>
+        <text x="900" y="328" textAnchor="end" fontWeight="700" fill="#fbbf24">$2,000,000</text>
+        <text x="40" y="354">Michael Seibel · Y Combinator partner</text>
+        <text x="900" y="354" textAnchor="end" fontWeight="700" fill="#fbbf24">$1,000,000</text>
+        <text x="40" y="380">Ashley Merrill · Lunya / Merrill household</text>
+        <text x="900" y="380" textAnchor="end" fontWeight="700" fill="#fbbf24">$1,000,000</text>
+        <text x="40" y="406">Patrick Collison · Stripe CEO</text>
+        <text x="900" y="406" textAnchor="end" fontWeight="700" fill="#fbbf24">$990,000</text>
+        <text x="40" y="432">Brian Armstrong · Coinbase CEO</text>
+        <text x="900" y="432" textAnchor="end" fontWeight="700" fill="#fbbf24">$500,000</text>
+      </g>
+    </svg>
+  )
+}
+
+function SteyerGraphic() {
+  // Mirror of Hilton: TOM + JIM (brothers connector) → COMMON SENSE MEDIA box,
+  // bottom row 3 bills (AB-1064 vetoed, AB-1709 + AB-2023 pending).
+  return (
+    <svg viewBox="0 0 940 460" xmlns="http://www.w3.org/2000/svg" style={{ display: "block", width: "100%", height: "auto" }}>
+      <defs>
+        <marker id="sg-arr-bl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8" />
+        </marker>
+        <marker id="sg-arr-rd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#e63946" />
+        </marker>
+      </defs>
+
+      <text x="470" y="18" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" fill="#666" letterSpacing="2">CALMATTERS · LEGINFO · CA GOV 2026 · BROTHER + AI LOBBY</text>
+
+      {/* Top-left: Tom Steyer box */}
+      <rect x="20" y="40" width="240" height="74" fill="#0a0a0a" stroke="#1d4ed8" strokeWidth="3" />
+      <text x="140" y="70" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="20" fontWeight="900" letterSpacing="-0.5" fill="#fff">TOM STEYER</text>
+      <text x="140" y="90" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="1.5" fill="#fbbf24">CA GOV CANDIDATE (D)</text>
+      <text x="140" y="106" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="700" letterSpacing="1.5" fill="#aaa">RUNNING ON TIGHTER AI RULES</text>
+
+      {/* Top-right: Jim Steyer box */}
+      <rect x="680" y="40" width="240" height="74" fill="#0a0a0a" stroke="#1d4ed8" strokeWidth="3" />
+      <text x="800" y="70" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="20" fontWeight="900" letterSpacing="-0.5" fill="#fff">JIM STEYER</text>
+      <text x="800" y="90" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" letterSpacing="1.5" fill="#fbbf24">FOUNDER + CEO · 23 YEARS</text>
+      <text x="800" y="106" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="700" letterSpacing="1.5" fill="#aaa">COMMON SENSE MEDIA</text>
+
+      {/* Brothers dotted connector */}
+      <line x1="260" y1="77" x2="680" y2="77" stroke="#666" strokeWidth="1.5" strokeDasharray="4 3" />
+      <text x="470" y="70" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="14" fill="#666">brothers · same household 1957</text>
+
+      {/* Tom blue arrow down to Common Sense */}
+      <line x1="140" y1="114" x2="380" y2="180" stroke="#1d4ed8" strokeWidth="3" markerEnd="url(#sg-arr-bl)" />
+      <text x="60" y="146" fontFamily="Space Mono, monospace" fontSize="13" fontWeight="700" fill="#1d4ed8">DONATED</text>
+      <text x="60" y="164" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="400" fill="#1d4ed8">$5,000,000+ family</text>
+
+      {/* Jim red arrow down to Common Sense */}
+      <line x1="800" y1="114" x2="560" y2="180" stroke="#e63946" strokeWidth="3" markerEnd="url(#sg-arr-rd)" />
+      <text x="780" y="146" fontFamily="Space Mono, monospace" fontSize="13" fontWeight="700" fill="#e63946">RUNS</text>
+      <text x="780" y="164" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="400" fill="#e63946">since 2003 · CEO</text>
+
+      {/* Center: Common Sense box */}
+      <rect x="350" y="180" width="240" height="86" fill="#fff" stroke="#0a0a0a" strokeWidth="3" />
+      <text x="470" y="208" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="22" fontWeight="900" letterSpacing="-0.5" fill="#0a0a0a">COMMON SENSE</text>
+      <text x="470" y="228" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="22" fontWeight="900" letterSpacing="-0.5" fill="#0a0a0a">MEDIA</text>
+      <text x="470" y="248" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="10" fontWeight="700" letterSpacing="1.5" fill="#666">NAMED ADVOCATE · 3 CA AI BILLS</text>
+
+      {/* Stinger */}
+      <text x="470" y="290" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="17" fill="#0a0a0a">The bills the brother's lobby pushes land on the brother's desk.</text>
+
+      {/* ─── Three bills receipt band ─── */}
+      <rect x="20" y="306" width="900" height="142" fill="#fbbf24" stroke="#0a0a0a" strokeWidth="3" />
+      <text x="470" y="328" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="11" fontWeight="700" fill="#0a0a0a" letterSpacing="2">CALIFORNIA AI BILLS · COMMON SENSE-ADVOCATED · 2025-2026 SESSION</text>
+
+      {/* AB-1064 vetoed (red border, full width row) */}
+      <rect x="40" y="346" width="280" height="84" fill="#fef2f2" stroke="#e63946" strokeWidth="2.5" />
+      <text x="180" y="368" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="18" fontWeight="900" fill="#0a0a0a">AB-1064</text>
+      <text x="180" y="386" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" fill="#0a0a0a" letterSpacing="1">LEAD FOR KIDS ACT</text>
+      <text x="180" y="408" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="13" fontWeight="900" fill="#e63946">VETOED</text>
+      <text x="180" y="424" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="400" fill="#666">Newsom · Sept 2025</text>
+
+      {/* AB-1709 pending */}
+      <rect x="334" y="346" width="280" height="84" fill="#fff" stroke="#0a0a0a" strokeWidth="2" />
+      <text x="474" y="368" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="18" fontWeight="900" fill="#0a0a0a">AB-1709</text>
+      <text x="474" y="386" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" fill="#0a0a0a" letterSpacing="1">PLATFORM AGE LIMIT &lt;16</text>
+      <text x="474" y="408" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="13" fontWeight="900" fill="#1d4ed8">PENDING</text>
+      <text x="474" y="424" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="400" fill="#666">Assembly · 2026</text>
+
+      {/* AB-2023 pending */}
+      <rect x="628" y="346" width="280" height="84" fill="#fff" stroke="#0a0a0a" strokeWidth="2" />
+      <text x="768" y="368" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="18" fontWeight="900" fill="#0a0a0a">AB-2023</text>
+      <text x="768" y="386" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="700" fill="#0a0a0a" letterSpacing="1">CHATBOT SAFETY + AUDITS</text>
+      <text x="768" y="408" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="13" fontWeight="900" fill="#1d4ed8">PENDING</text>
+      <text x="768" y="424" textAnchor="middle" fontFamily="Space Mono, monospace" fontSize="9" fontWeight="400" fill="#666">Assembly · 2026</text>
     </svg>
   )
 }
