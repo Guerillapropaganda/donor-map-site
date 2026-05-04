@@ -765,19 +765,19 @@ export const MEMES: MemeEntry[] = [
     prototypeAnchor: "#card-7",
     prototypeUrlBase: SHARE_CARDS_BASE,
     caption:
-      "The 2026 California governor's race, every named donor, every overlap, mapped:\n\n· Eight candidates (Hilton, Bianco, Becerra, Steyer, Porter, Mahan, Villaraigosa, Thurmond)\n· 55 named donors at the institutional + max-out tier\n· 8 multi-candidate hedge bets — donors funding two or more candidates in the same race\n· 17 industry tags (tech VC, crypto, oil, police, real estate, plaintiffs, healthcare, utility, labor, agriculture, entertainment, finance, tribal, education, media, dark money, plus aggregation clusters)\n\nFive of the 8 hedges cross the R/D line. Same donor, both sides, same race.\n\nThe whole money map. Hover any candidate to see their donors. Hover any donor to see which candidates they fund.\n\nthedonormap.org/carace26-map",
+      "The 2026 California governor's race, every named donor, every overlap, mapped:\n\n· Eight candidates (Hilton, Bianco, Becerra, Steyer, Porter, Mahan, Villaraigosa, Thurmond)\n· 60 named donors at the institutional + max-out tier\n· 15 multi-candidate hedge bets — donors funding two or more candidates in the same race\n· 17 industry tags (tech VC, crypto, oil, police, real estate, plaintiffs, healthcare, utility, labor, agriculture, entertainment, finance, tribal, education, media, dark money, plus aggregation clusters)\n\nSix of the 15 hedges cross the R/D line. Pechanga's tribal-gaming hedge across Bianco, Becerra, and Porter is the first cross-party tribal hedge in the field.\n\nSame donor, both sides, same race.\n\nThe whole money map. Hover any candidate to see their donors. Hover any donor to see which candidates they fund.\n\nthedonormap.org/carace26-map",
     thumbnail: {
       headlineLines: [
         { text: "Eight candidates." },
-        { text: "55 named donors.", highlight: { phrase: "55 named donors", color: "yellow" } },
-        { text: "8 hedge bets.", highlight: { phrase: "8 hedge bets", color: "red" } },
+        { text: "60 named donors.", highlight: { phrase: "60 named donors", color: "yellow" } },
+        { text: "15 hedge bets.", highlight: { phrase: "15 hedge bets", color: "red" } },
       ],
-      deck: "The whole 2026 California governor's race, every overlap mapped. Five of the eight hedges cross the R/D line.",
+      deck: "The whole 2026 California governor's race, every overlap mapped. Six of the 15 hedges cross the R/D line.",
       receipts: [
         { name: "Brin · Hilton (R) + Mahan (D)", value: "$1.04M" },
-        { name: "Larsen · Hilton (R) + Porter (D)", value: "$157K" },
-        { name: "Highland Fairview · Bianco (R) + Villaraigosa (D)", value: "$112K" },
-        { name: "PORAC · Bianco (R) + Villaraigosa (D)", value: "$117K" },
+        { name: "PORAC · Bianco (R) + Villa (D)", value: "$117K" },
+        { name: "Highland Fairview · Bianco (R) + Villa (D)", value: "$112K" },
+        { name: "Pechanga · Bianco (R) + Becerra (D) + Porter (D)", value: "$94K" },
       ],
       topbarTag: "CA GOV 2026 · RACE MAP",
       shareCardKind: "carace26-map",

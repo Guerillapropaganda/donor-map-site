@@ -85,13 +85,13 @@ const CONFIG: Record<ShareCardKind, ShareCardConfig> = {
     headline: (
       <>
         Same donor.{" "}
-        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>Both parties</span>. Five times.
+        <span style={{ background: "#e63946", color: "#fff", padding: "2px 10px", display: "inline-block", whiteSpace: "nowrap" }}>Both parties</span>. Six times.
       </>
     ),
     deck:
-      "Five named donors are funding both a Republican and a Democrat in the 2026 California governor's race. The whole field, eight candidates, 55 named donors, mapped against each other. The lines that cross the field are the donors who are not picking sides.",
+      "Six named donors are funding both a Republican and a Democrat in the 2026 California governor's race. Pechanga's tribal-gaming hedge across Bianco, Becerra, and Porter is the first cross-party tribal hedge in the field. The whole field, eight candidates, 60 named donors, mapped against each other. The lines that cross the field are the donors who are not picking sides.",
     url: "thedonormap.org/carace26-map",
-    footerNote: "Cal-Access RCPT_CD · 8 candidates · 55 donors · 8 hedges",
+    footerNote: "Cal-Access RCPT_CD · 8 candidates · 60 donors · 15 hedges · 6 cross-party",
     graphic: <RaceMapGraphic />,
   },
   mahan: {
@@ -520,7 +520,7 @@ function RaceMapGraphic() {
       <text x="660" y="184" textAnchor="middle" fontFamily="Inter, sans-serif" fontSize="10" fontWeight="900" fill="#fff">PORAC</text>
 
       {/* Stinger */}
-      <text x="470" y="338" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="18" fill="#0a0a0a">Five donors. Both parties. Same race.</text>
+      <text x="470" y="338" textAnchor="middle" fontFamily="Instrument Serif, serif" fontStyle="italic" fontSize="18" fill="#0a0a0a">Six donors. Both parties. Same race.</text>
 
       {/* ─── Receipt band ─── */}
       <rect x="20" y="356" width="900" height="92" fill="#fbbf24" stroke="#0a0a0a" strokeWidth="3" />
@@ -528,12 +528,12 @@ function RaceMapGraphic() {
       <g fontFamily="Space Mono, monospace" fontSize="13" fill="#0a0a0a">
         <text x="40" y="396">Brin (Google) · Hilton (R) + Mahan (D)</text>
         <text x="900" y="396" textAnchor="end" fontWeight="700">$1,040,000</text>
-        <text x="40" y="414">Larsen (Ripple) · Hilton (R) + Porter (D)</text>
-        <text x="900" y="414" textAnchor="end" fontWeight="700">$157,000</text>
-        <text x="40" y="432">PORAC PAC · Bianco (R) + Villaraigosa (D)</text>
-        <text x="900" y="432" textAnchor="end" fontWeight="700">$117,000</text>
-        <text x="40" y="450" fontStyle="italic">+ Highland Fairview · + Lonsdale</text>
-        <text x="900" y="450" textAnchor="end" fontWeight="700">+ $215,000</text>
+        <text x="40" y="414">PORAC PAC · Bianco (R) + Villaraigosa (D)</text>
+        <text x="900" y="414" textAnchor="end" fontWeight="700">$117,600</text>
+        <text x="40" y="432">Highland Fairview · Bianco (R) + Villaraigosa (D)</text>
+        <text x="900" y="432" textAnchor="end" fontWeight="700">$112,000</text>
+        <text x="40" y="450" fontStyle="italic">+ Pechanga (3-way) · + Larsen · + Lonsdale</text>
+        <text x="900" y="450" textAnchor="end" fontWeight="700">+ $251,000</text>
       </g>
     </svg>
   )
