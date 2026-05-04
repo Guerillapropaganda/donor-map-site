@@ -1,7 +1,124 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-05-03
+last-updated: 2026-05-04
+---
+
+## HANDOFF — 2026-05-04 (cc_p3_290 → cc_p3_320, Hilton beat shipped to homepage hero + entity verification + holdings companion page + share-card kit + normie pass on every published article + 4 memory rules)
+
+**Context:** Code Claude. Worktree `claude/affectionate-taussig-9707b2`, Opus 4.7 (1M context). Continued from yesterday's `claude/hungry-yalow-de7b3d` handoff. Long session, ~$50-60 Opus total, ~12 commits to v4. Major themes: built and shipped the Hilton AI-conflict beat (v1 → v2 → v2.1 with GPT critique iteration); ran the actual Form 700 PDF and verified the Sierra entity (caught and corrected a singular/plural inconsistency on the filing); built `/holdings-hilton-2026` companion page; promoted Hilton from regular tile to homepage Latest Investigation hero AND the /investigations featured slot; ran a normie-language pass + em-dash purge across every published beat; built the Hilton share-card kit (master share card + 2 additional captions). Saved 4 new memory rules.
+
+### THIS SESSION'S DELIVERABLES (all shipped to v4)
+
+#### /hilton beat — shipped, then iterated to v2.1, then promoted to homepage hero
+- **v1 build** (commit `4d9661aa3`): initial draft with Form 700 disclosure card stack, Sierra-OpenAI orbit diagram, top-15 donor table, Lighthouse Oregon C-suite cluster as full h2 section, Fox News commentator standalone h2 section. Pulled the MSNBC 2020-election-dodge clip after David flagged it as a bad idea. Built but NOT added to public-routes per `feedback_no_auto_public_route.md`.
+- **Mahan tightening landed alongside** (commit `80785cc72`): added "What this donor list buys" 3-row matrix block to /mahan with red-bordered candidate-pattern punchline row (AB5 misclassification by Mahan's own 2022 campaign). Promoted the AB5-recursion paragraph to a styled red-bordered "↓ THE PATTERN" callout.
+- **v2 rebuild** (commit `c7f8f9ec0`): full GPT-critique-driven restructure. New hook ("Steve Hilton wants to regulate AI in California. He owns stock in an AI company."). Added "What governor decisions affect Sierra" 3-row matrix with state-AI-purchasing as the red-bordered punchline. OpenAI link downgraded from h2 + chained diagram arrow to single-line footnote. Lighthouse Oregon collapsed from full h2 to sidebar callout. Standalone Fox News h2 cut, Murdoch+Fox point folded into donor section. Normie pass throughout.
+- **v2.1 polish** (commit `410cb857e`): GPT defensive-line addition ("The OpenAI link is a shared leadership role, not an ownership or operational overlap") + synthesis pull-quote before "Why this matters" ("The record shows a candidate whose household financial position is directly tied to a private AI company while running to govern the state that regulates that industry").
+- **URL-pass + ship** (commit `d14b0901e` [url-verified]): David ran URL-pass in ops at /active-beat/hilton, surfaced one open seed (Form 700 portal "Goes to generic result"). Fix: kept the URL but added "search Steve Hilton" inline guidance in all three citation locations. Em-dashes purged from code comments to clear preflight gate. /hilton added to data/public-routes.json.
+- **Hero swap** (commit `4b848cf43`): per David's editorial call, Hilton became the Latest Investigation hero on the homepage (new 360x260 SVG showing HILTON + WHETSTONE → SIERRA → California Governor regulator with receipt band) AND the FEATURED tile on /investigations. Class Traitor demoted from hero/featured to leftmost regular tile. Homepage tile grid reordered newest-left: Mahan / Class Traitor / Three Becerras (Not the Bad Guy dropped off the bottom of the 3-slot grid, still accessible via /investigations + footer).
+
+#### Sierra entity verification + Form 700 read-through (caf_e3937fe26f4b in code-audit-fetches.jsonl)
+David's URL-pass surfaced a sanity-check question: "we are 100% sure?" on the Sierra Schedule A-1 claim. I read the actual Form 700 PDF (pages 1-24 of `Hilton_Steve_2026_Governor_Governor_Candidate.pdf`). The filing has a one-letter inconsistency: Schedule A-1 shows "SIERRA TECHNOLOGIES INC" (plural), Schedule C (Whetstone) shows "SIERRA TECHNOLOGY INC" (singular). Fetched sierra.ai/terms-and-conditions per ADR-0030; their own Terms of Service confirms the formal legal entity name as "Sierra Technologies, Inc." (plural). Schedule A-1 matches; Schedule C has a transcription typo. Same entity, verified by primary source. The 150 Sutter San Francisco address on Schedule C confirms the match. ADR-0030 fetch logged as `caf_e3937fe26f4b`.
+
+Beat updated everywhere: replaced "Sierra Technology Inc" (singular) with "Sierra Technologies, Inc." (plural) globally. Schedule C card footnote acknowledges the one-letter typo and explains the verification. Schedule A-1 spine card amount label corrected from "EQUITY DISCLOSED" to "FAIR MARKET VALUE OVER $1,000,000" (the actual disclosure bracket — Sierra is tied for Hilton's largest single position alongside SPDR Gold Trust).
+
+#### /holdings-hilton-2026 — NEW companion data page (438 lines)
+A full structural disclosure portrait of Hilton's Schedule A-1 + A-2 holdings. Mirrors the donors-mahan-2026 / donors-becerra-2026 pattern. 8 h2 sections + 8 TOC entries:
+1. The two largest positions (Sierra + SPDR Gold, both Over $1M)
+2. Fossil fuel and energy (5 oil majors + NextEra)
+3. Pharmaceuticals and healthcare (13 entries)
+4. Defense and aerospace (Honeywell, BAE, Airbus, Melrose)
+5. Technology, AI-adjacent, Sierra anchor
+6. Financial services and insurance
+7. Schedule A-2 controlled entities (CR Productions LLC, SHCR Productions LLC, Steve Hilton author entity)
+8. What is NOT on the list (no direct crypto, no other private AI startups, no in-state utilities)
+
+Wired into `data/public-routes.json`, `prototype/server.cjs`, `content/index.html` footer, `content/investigations/index.html` companion-tiles section.
+
+#### Normie-language pass on every published article + em-dash purge
+Per David's "do a normie language pass across every article" directive. Each got its own commit so any single substitution can be rolled back:
+- **Three Becerras** (commit `9b18f8497`): TOC already complete, em-dash count 0 on entry. One IE PAC gloss added inline on first body-prose mention ("an outside spending committee that the candidate is legally barred from coordinating with").
+- **Class Traitor + cross-beat em-dash purge** (commit `82d654f1d`): "term of art for" / "nominally-independent expenditure committees" → plain English. HTML &ndash; entities used as parenthetical separators replaced with parentheses. Em-dashes purged from Hilton (6 in body prose I'd introduced in the v2 rewrite) and Mahan (2 in the matrix block I'd built earlier).
+- **Not the Bad Guy + Mahan body prose** (commit `40130499b`): "donor universes auditable on the same Cal-Access" → "full donor lists publicly accessible through the same California campaign-finance records." Mahan deck: "independent expenditure PACs" → "outside spending committees"; "structurally distinct" → "no other candidate in the field has a money structure shaped this way."
+- **donors-becerra-2026 + donors-mahan-2026** (commit `2b0a1cf26`): "Cal-Access primary-source verified" globally → "Verified against California campaign-finance filings." "top-donor universe" → "full top-donor list." "Class tags" → "industry tags." Methodology blocks left intact for source-citation precision.
+- **Investigations index + homepage** (commit `a38637c4b`): "FPPC max" → "the legal limit." "IE PAC" → "outside spending committee" in tile decks. About page audited and left untouched (David's first-person voice was already strongly normie).
+
+Final em-dash audit: 0 in body prose across ALL beats (Three Becerras, Not the Bad Guy, Class Traitor, Mahan, Hilton, donors-becerra-2026, donors-mahan-2026, holdings-hilton-2026, investigations index, homepage). Only HTML/CSS comment em-dashes remain, and those don't violate the rule.
+
+#### Hilton share-card kit (commit `496fffe0b`)
+Full share-card kit mirroring the existing Three Becerras / Not the Bad Guy / Class Traitor pattern:
+- **`ops/src/components/ShareCardFull.tsx`**: Added `"hilton"` to `ShareCardKind` union + new `HiltonGraphic()` SVG component (940x460). Visual: HILTON + WHETSTONE boxes top-left/top-right with "married · the household" dotted connector, red arrow from Hilton (OWNS STOCK · FMV Over $1M) and yellow arrow from Whetstone (DRAWS INCOME · Over $100K) converging on a centered $10B SIERRA box. Receipt band at bottom lists all three sworn Form 700 disclosures. Stinger: "Two of three Form 700 lines point at the same company."
+- **`ops/src/lib/memes-catalog.ts`**: Extended `BeatSlug` union and `shareCardKind` union to include `"hilton"`. Added `BeatMeta` for hilton (status published). Added 3 `MemeEntry` records: `may4-hilton-share` (master share card), `may4-hilton-meme-receipt-stack` (structured receipts thumbnail), `may4-hilton-meme-regulate-own-stock` (typography punchline). All captions em-dash-free, AI-vernacular-free, primary-source-cited, ending in thedonormap.org URL.
+- **`prototype/share-cards-2026-05-03.html`**: Added card-4 block with the same Hilton SVG matching the ShareCardFull component. Copy as PNG / Download PNG buttons working off the existing renderCardCanvas pattern.
+- **`ops/src/app/site-preview/page.tsx`**: Updated existing Hilton entry from "DRAFT / draft-isolated" to "LIVE / FEATURED / live"; added new entry for Holdings Hilton 2026 companion page.
+
+#### 4 memory rules saved this session
+- `feedback_normie_prose_published.md` — every beat / homepage / about / index page gets a normie-language pass before publishing. Specific jargon-to-plain swap list. Forever, every session.
+- `feedback_policy_ask_matrix_pattern.md` — where money is the spine, include 3-row matrix: donor cluster → industry's public ask → candidate's record. Punchline row red border. CSS lives in mahan beat.
+- `feedback_beat_toc_required.md` — every beat ships with inline TOC after lede, before first h2. Anchored click-to-jump. Mahan + Hilton are reference implementations.
+- `feedback_homepage_tile_grid_ordering.md` — tile grid (NOT hero) auto-orders newest-left when a new beat publishes. Hero is editor's pick. Update in same commit as public-routes.json change.
+
+#### Two new beat candidates parked in `content/Admin Notes/emerging-beat-candidates.md`
+- **C-007 Hilton's Sacramento Policy Nonprofit (Golden Together).** From the Form 700 Schedule C: Hilton is Board President / CEO of Golden Together at 455 Capitol Mall Sacramento. No income reported. Editorial shape: "Two campaigns under one roof." Pending Form 990 retrieval before editorial work.
+- **C-008 Hilton's Personal Fossil-Fuel and Pharma Holdings.** Same shape as the Sierra/AI conflict, broadened: 5 oil majors + 13 pharma equities. Pending campaign-rhetoric contradiction event or primary-eve cross-candidate comparison.
+
+### KEY COMMITS THIS SESSION
+
+| Hash | What |
+|---|---|
+| `4d9661aa3` | Hilton beat v1 draft (build-only, not public) |
+| `80785cc72` | Mahan tightening: matrix block + AB5 pattern callout |
+| `c7f8f9ec0` | Hilton v2 rebuild: matrix + new hook + downgrade OpenAI + collapse Lighthouse + cut Fox |
+| `022097b81` | Homepage More Investigations tile reorder (initial newest-left) |
+| `9b18f8497` | Three Becerras normie pass + TOC audit |
+| `82d654f1d` | Class Traitor + cross-beat em-dash purge |
+| `40130499b` | Not the Bad Guy + Mahan body normie pass |
+| `2b0a1cf26` | donors-becerra-2026 + donors-mahan-2026 normie pass |
+| `a38637c4b` | Investigations index + homepage normie pass |
+| `410cb857e` | Hilton v2.1: OpenAI defensive line + synthesis pull-quote |
+| `d14b0901e` | Ship Hilton: public-routes + homepage + investigations + Form 700 search instructions [url-verified] |
+| `0cf426f19` | Hilton: Sierra entity name fix + /holdings-hilton-2026 companion page [url-verified] |
+| `4b848cf43` | Hilton becomes the main featured story · homepage hero + investigations featured |
+| `496fffe0b` | Hilton share-card kit · ShareCardFull HiltonGraphic + memes-catalog + prototype card-4 |
+
+### NEXT SESSION PRIORITIES
+
+1. **Distribution: post the Hilton beat.** All distribution surfaces are ready. Master share card at /distribution/cards/by-beat/hilton in ops. 3 caption variants in memes-catalog (may4-hilton-share, may4-hilton-meme-receipt-stack, may4-hilton-meme-regulate-own-stock). Same workflow as Mahan / Class Traitor distribution. Hilton on homepage hero + /investigations featured maximizes site-side conversion.
+
+2. **OG share-card render for /hilton + /holdings-hilton-2026.** Run `scripts/render-og-images.cjs` from main repo (worktree has no node_modules) after appending CARDS entries for hilton + holdings-hilton-2026. The /hilton meta tag already references `static/share/hilton.png` so the rendered image just needs to land in place.
+
+3. **GoatCounter analytics on the new beat.** Pull traffic for /hilton and /holdings-hilton-2026 once distribution lands. Filter URLs are `https://guerillapropaganda.goatcounter.com/?filter=/hilton` and `?filter=/holdings-hilton-2026`.
+
+4. **Golden Together Form 990 retrieval (C-007).** Pull the Form 990 from ProPublica Nonprofit Explorer or IRS direct. Surface what Golden Together advocates for, who funds it, whether its 2026 priorities track Hilton's campaign platform. If material, build the "Two campaigns under one roof" beat as a Hilton follow-up.
+
+5. **Bianco aggregation beat.** Still in the queue. M&D Development + Downs Energy FPPC single-source angle. SF Chronicle pre-framed it (Mar 31 2026). Single-page tight beat. Lowest defamation surface among remaining candidates.
+
+6. **Villaraigosa fossil-fuel pivot beat.** Tier 1 + Tier 2 anchored. "The pledge he dropped." Should be the strongest contradiction beat in the field once written. Material is in the May 2 Perplexity returns + emerging-beat-candidates C-006.
+
+7. **Cross-candidate Race Map / primary-eve piece.** With Hilton's full Form 700 portfolio now mapped at /holdings-hilton-2026, the Race Map could become a Form-700-portfolio-comparison piece showing each candidate's disclosed financial exposure side by side. New angle for the primary-eve slot.
+
+### MEMORY RULES SAVED THIS SESSION
+
+Saved to `C:\Users\third\.claude\projects\C--Users-third-donor-map-site\memory\`:
+- `feedback_normie_prose_published.md`
+- `feedback_policy_ask_matrix_pattern.md`
+- `feedback_beat_toc_required.md`
+- `feedback_homepage_tile_grid_ordering.md`
+
+### KNOWN ISSUES / OPEN QUESTIONS
+
+- **OG image for Hilton not yet rendered.** /hilton's meta tag references thedonormap.org/static/share/hilton.png but the actual PNG isn't in static/share yet. Same for /holdings-hilton-2026. Render from main repo when convenient.
+- **Pre-existing TypeScript errors in ops** (scripts/page.tsx, site-preview/page.tsx, stories/page.tsx, thesis/page.tsx, DonorFlowSankey.tsx) — unchanged this session. Pre-push tsc gate runs quartz-only and these don't block deploys, but they block strict ops typecheck.
+- **Form 700 portal limitation.** FPPC's form700search.fppc.ca.gov does not deep-link to individual filings. The Hilton beat / holdings page citations all include "search Steve Hilton" inline instructions. Same limitation will apply to future Form 700 references.
+- **Mahan candidate cmte 1486858 still missing from cal-access-filer-overrides.json.** Carry-over from prior session. Mahan beat candidate-cmte figures still come from Perplexity's May 3 audit rather than our own derived ingest. Cleanup task.
+
+### ENVIRONMENT NOTE
+
+- Worktree: `claude/affectionate-taussig-9707b2`. ~14 commits to v4 across this session.
+- Ops dev server NOT currently running in this Claude session's background. To resume URL-pass / share-card rendering work: `cd C:\Users\third\donor-map-site\ops && npx next dev -p 3333` from main repo. Worktree has no node_modules.
+- Prototype dev server: running on port 8096 from this session, serverId may be stale by next session. Restart via preview_start `prototype` if needed.
+
 ---
 
 ## HANDOFF — 2026-05-03 LATE NIGHT (cc_p3_266 → cc_p3_290, Cal-Access dedup fix + Mahan beat shipped + Investigations index live + URL-pass workflow locked + 9 Perplexity rounds folded + 30+ commits to v4)
