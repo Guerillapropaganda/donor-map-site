@@ -213,7 +213,7 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
 .rm-d3-graph .rm-control-btn:hover { background: var(--yellow); color: #0a0a0a; border-color: var(--yellow); }
 .rm-d3-graph .rm-control-btn.active { background: var(--yellow); color: #0a0a0a; border-color: var(--yellow); }
 .rm-d3-graph .rm-hint { position: absolute; top: 14px; right: 14px; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1.5px; color: #888; text-transform: uppercase; pointer-events: none; }
-.rm-d3-graph .rm-tooltip { position: absolute; pointer-events: none; background: #0a0a0a; border: 2px solid var(--yellow); padding: 12px 14px; font-family: 'Inter', sans-serif; font-size: 13px; line-height: 1.4; color: #f5f0eb; max-width: 280px; opacity: 0; transition: opacity 0.12s ease-out; z-index: 10; }
+.rm-d3-graph .rm-tooltip { position: absolute; pointer-events: none; background: rgba(10, 10, 10, 0.78); border: 2px solid var(--yellow); padding: 12px 14px; font-family: 'Inter', sans-serif; font-size: 13px; line-height: 1.4; color: #f5f0eb; max-width: 280px; opacity: 0; transition: opacity 0.12s ease-out; z-index: 10; backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px); text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85); }
 .rm-d3-graph .rm-tooltip.visible { opacity: 1; }
 .rm-d3-graph .rm-tooltip .tt-name { font-weight: 900; font-size: 15px; letter-spacing: -0.3px; margin-bottom: 4px; }
 .rm-d3-graph .rm-tooltip .tt-meta { font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--yellow); margin-bottom: 8px; }
@@ -236,6 +236,23 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
 .rm-d3-graph .iter-stamp { position: absolute; bottom: 14px; right: 14px; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1.5px; color: #555; text-transform: uppercase; pointer-events: none; }
 
 .rm-static-fallback { display: block; }
+
+/* ─── "How to read this map" explainer for normie readers ─── */
+.rm-explainer { margin: 32px auto 0; max-width: 1100px; padding: 24px 28px; background: #f5f0eb; color: var(--ink); border: 2px solid var(--cream); }
+.rm-explainer .rm-ex-head { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #555; margin-bottom: 16px; }
+.rm-explainer h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 26px; line-height: 1.1; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 16px; }
+.rm-explainer .rm-ex-lede { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 18px; line-height: 1.45; color: var(--muted); margin-bottom: 20px; max-width: 800px; border-left: 3px solid var(--black); padding-left: 16px; }
+.rm-explainer .rm-ex-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 22px 32px; margin-top: 12px; }
+@media (max-width: 760px) { .rm-explainer .rm-ex-grid { grid-template-columns: 1fr; } }
+.rm-explainer .rm-ex-block { font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.55; color: var(--ink); }
+.rm-explainer .rm-ex-block h4 { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--black); margin-bottom: 8px; padding-bottom: 6px; border-bottom: 2px solid var(--black); }
+.rm-explainer .rm-ex-block p { margin-bottom: 8px; }
+.rm-explainer .rm-ex-block .rm-ex-row { display: flex; align-items: baseline; gap: 10px; padding: 3px 0; font-size: 13px; }
+.rm-explainer .rm-ex-block .rm-ex-sw { width: 12px; height: 12px; flex-shrink: 0; display: inline-block; align-self: center; }
+.rm-explainer .rm-ex-block .rm-ex-sw.line { height: 2px; width: 22px; }
+.rm-explainer .rm-ex-block .rm-ex-sw.line-dashed { background: linear-gradient(to right, var(--red) 0, var(--red) 6px, transparent 6px, transparent 9px, var(--red) 9px, var(--red) 15px, transparent 15px); }
+.rm-explainer .rm-ex-block .rm-ex-key { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink); flex-shrink: 0; min-width: 88px; }
+.rm-explainer .rm-ex-block .rm-ex-btn-name { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 2px 8px; background: var(--black); color: var(--cream); margin-right: 8px; flex-shrink: 0; }
 </style>
 </head>
 <body>
@@ -426,6 +443,46 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       <div class="legend-item"><span class="legend-swatch" style="background: #1a1a1a; border-color: #dc2626;"></span>Republican candidate</div>
       <div class="legend-item"><span class="legend-swatch" style="background: #1a1a1a; border-color: #2563eb;"></span>Democratic candidate</div>
     </div>
+      </div>
+    </div>
+
+    <div class="rm-explainer" role="complementary" aria-label="How to read this map">
+      <div class="rm-ex-head">§ 0 · How to read this map</div>
+      <h3>Each box is a candidate. Each circle is a donor. The lines show who paid whom.</h3>
+      <p class="rm-ex-lede">
+        Eight people are running for California governor in 2026. The map plots the 60 named donors who have written the largest checks. When the same donor pays more than one candidate, a line crosses the field. When two industries fund opposite sides, the colors collide. The shape of the room is the story.
+      </p>
+
+      <div class="rm-ex-grid">
+        <div class="rm-ex-block">
+          <h4>What the colors mean</h4>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#fbbf24"></span><span>Tech venture capital · Silicon Valley investors</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#f97316"></span><span>Crypto · Coinbase, Ripple, that crowd</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#0891b2"></span><span>Healthcare · hospitals, FQHCs, hospital chains</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#7e22ce"></span><span>Plaintiffs lawyers · firms that sue corporations</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#be185d"></span><span>Labor · construction unions, building trades, Teamsters</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#7c2d12"></span><span>Oil and gas · Chevron, Marathon, Berry, CRC</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#16a34a"></span><span>Real estate developers · Highland Fairview, Caruso</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#1e3a8a"></span><span>Police unions · PORAC and county sheriffs</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#92400e"></span><span>Tribal gaming · casino-operating tribes</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw" style="background:#737373;border:1px dashed #999"></span><span>Cluster · multiple LLCs or family members giving as a unit</span></div>
+        </div>
+
+        <div class="rm-ex-block">
+          <h4>What the lines mean</h4>
+          <div class="rm-ex-row"><span class="rm-ex-sw line" style="background:#fbbf24"></span><span>An industry-colored line is a normal donation, in the donor's color</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw line" style="background:#dc2626"></span><span>A solid red line is a cross-party hedge: the same donor paid both a Republican and a Democrat in this race</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-sw line line-dashed"></span><span>A dashed red line with an arrow is an attack: someone spent money against a candidate, not for one</span></div>
+
+          <h4 style="margin-top:18px;">What the buttons do</h4>
+          <div class="rm-ex-row"><span class="rm-ex-btn-name">All flows</span><span>Shows every donor and every line. The default view.</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-btn-name">Hedge bets</span><span>Narrows to the 15 donors who paid two or more candidates in this same race. The donors who are not picking sides.</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-btn-name">Attacks only</span><span>Shows the two outside-spending attacks against Tom Steyer (PG&amp;E and IBEW).</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-btn-name">Reset</span><span>Re-shakes the layout if dragging tangled it.</span></div>
+
+          <h4 style="margin-top:18px;">How to use the chart</h4>
+          <p>Hover any candidate to see who funded them. Hover any donor to see which candidates they fund. Click a node to lock the highlight so you can scroll to read the tooltip. Drag any node to move it.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -772,6 +829,23 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     <p style="font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1.2px; color: var(--muted); margin-top: 18px; text-transform: uppercase;">
       Source: Cal-Access RCPT_CD primary records as of May 4, 2026 · candidate-controlled committees only · IE pacs separately disclosed.
     </p>
+
+    <div style="margin: 32px auto 0; max-width: 1100px; padding: 24px 28px; background: var(--cream); border: 2px solid var(--black); border-left: 6px solid var(--red);">
+      <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--red); text-transform: uppercase; margin-bottom: 12px;">↑ Wait, why is Matt Mahan's row $0?</div>
+      <h3 style="font-family: 'Inter', sans-serif; font-weight: 900; font-size: 26px; line-height: 1.15; letter-spacing: -0.5px; margin-bottom: 14px;">Mahan hasn't started a candidate fundraising committee. The $43 million on his side belongs to a separate group he is legally barred from coordinating with.</h3>
+      <p style="font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; color: var(--ink); margin-bottom: 12px;">
+        Most candidates open a "candidate-controlled committee" the day they declare. The candidate raises money into it directly, lists it on the website, and the contribution limit is $39,200 per donor. That's the column the table above is measuring. Mahan has not opened one for the 2026 governor's race. So his row on a candidate-committee table is a real, accurate <strong>$0</strong>.
+      </p>
+      <p style="font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; color: var(--ink); margin-bottom: 12px;">
+        The $43 million on Mahan's side is in a different kind of group: an <strong>independent expenditure committee</strong> called Back to Basics California. Under California campaign-finance law that kind of committee can take unlimited contributions from a single person, but it legally cannot coordinate with the candidate or his staff. The candidate cannot tell it what to do. The committee writes its own ads, picks its own targets, and reports its own spending.
+      </p>
+      <p style="font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; color: var(--ink); margin-bottom: 12px;">
+        So Mahan's name is on the campaign, but the money on his side belongs to the outside committee, not to him. The 61 people who wrote into that committee are the Silicon Valley founder-and-investor class: Sequoia chairman Michael Moritz wrote $2,000,000. Y Combinator partner Michael Seibel wrote $1,000,000. Stripe CEO Patrick Collison wrote $990,000. Coinbase CEO Brian Armstrong wrote $500,000. Pritzker family heir John Pritzker wrote $500,000.
+      </p>
+      <p style="font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.5; color: var(--muted); margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--line);">
+        Every other candidate in the table runs a normal candidate committee that voters can write small-dollar checks into. Mahan does not. The donor base IS the candidate.
+      </p>
+    </div>
 
     <div class="boundary-block">
       <div class="boundary-label">What this story does not say</div>
