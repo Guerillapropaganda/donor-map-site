@@ -50,7 +50,7 @@ export interface MemeEntry {
     /** When set, MemeCard renders the full share-card layout (with embedded
      *  SVG graph) instead of the structured-data thumbnail. The Copy as PNG
      *  button captures the rendered ShareCardFull element directly. */
-    shareCardKind?: "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton"
+    shareCardKind?: "three-becerras" | "not-the-bad-guy" | "class-traitor" | "hilton" | "carace26-map" | "mahan" | "steyer"
   }
 }
 
@@ -631,6 +631,7 @@ export const MEMES: MemeEntry[] = [
         { name: "Steyer family → Common Sense Media", value: "$5M+" },
       ],
       topbarTag: "STEYER · CA GOV 2026",
+      shareCardKind: "steyer",
     },
   },
   {
@@ -705,6 +706,7 @@ export const MEMES: MemeEntry[] = [
         { name: "Armstrong · Coinbase", value: "$500K" },
       ],
       topbarTag: "MAHAN · CA GOV 2026",
+      shareCardKind: "mahan",
     },
   },
   {
@@ -778,6 +780,7 @@ export const MEMES: MemeEntry[] = [
         { name: "PORAC · Bianco (R) + Villaraigosa (D)", value: "$117K" },
       ],
       topbarTag: "CA GOV 2026 · RACE MAP",
+      shareCardKind: "carace26-map",
     },
   },
   {
