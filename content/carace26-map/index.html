@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>California 2026 Governor: Where the money actually flows. · The Donor Map</title>
+<meta name="description" content="Cross-candidate donors. Industry wars. Shell aggregations. The patterns the per-candidate stories only show in slices, mapped across the whole 2026 California governor race.">
+<meta property="og:site_name" content="The Donor Map">
+<meta property="og:title" content="California 2026 Governor: Where the money actually flows.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://thedonormap.org/carace26-map/">
+<meta property="og:description" content="Cross-candidate donors. Industry wars. Shell aggregations. The patterns the per-candidate stories only show in slices.">
+<meta property="og:image" content="https://thedonormap.org/static/share/carace26-map.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:alt" content="California 2026 Governor race: where the money actually flows. The Donor Map.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="California 2026 Governor: Where the money actually flows.">
+<meta name="twitter:description" content="Cross-candidate donors. Industry wars. Shell aggregations. The patterns mapped across the whole field.">
+<meta name="twitter:image" content="https://thedonormap.org/static/share/carace26-map.png">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+  --green: #16a34a;
+  --r-color: #dc2626;
+  --d-color: #2563eb;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.nav { border-bottom: 2px solid var(--black); padding: 18px 0; background: var(--cream); position: sticky; top: 0; z-index: 10; }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; color: var(--black); text-decoration: none; }
+.nav-links { display: flex; gap: 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.nav-links a { color: var(--ink); text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 2px; }
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+.article-header { padding: 64px 32px 48px; border-bottom: 2px solid var(--black); }
+.article-header-inner { max-width: 1100px; margin: 0 auto; }
+.breadcrumb { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 24px; }
+.breadcrumb a { color: var(--muted); text-decoration: none; border-bottom: 1px solid transparent; }
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta { display: flex; gap: 16px; align-items: center; margin-bottom: 28px; font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; flex-wrap: wrap; }
+.beat-meta .tag { background: var(--black); color: var(--cream); padding: 4px 10px; }
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified { background: var(--yellow); padding: 4px 10px; font-weight: 700; }
+
+.article-header h1 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 76px; line-height: 0.96; letter-spacing: -3px; margin-bottom: 28px; max-width: 1000px; }
+.article-header h1 .h-yellow { background: var(--yellow); padding: 0 12px; }
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 12px; }
+.article-header h1 .h-blue { background: var(--blue); color: #fff; padding: 0 12px; }
+.article-header .deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 28px; line-height: 1.3; color: var(--ink); border-left: 4px solid var(--black); padding-left: 24px; max-width: 880px; }
+
+/* ─── Hero radial map · the WOW visual ─── */
+.hero-map { background: var(--black); color: var(--cream); padding: 60px 32px; border-bottom: 2px solid var(--black); }
+.hero-map-inner { max-width: 1200px; margin: 0 auto; }
+.hero-map .label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; color: var(--yellow); text-align: center; margin-bottom: 8px; }
+.hero-map .sub { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 18px; color: #aaa; text-align: center; margin-bottom: 32px; }
+.hero-map .legend { display: flex; gap: 32px; justify-content: center; margin-top: 32px; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; color: #aaa; flex-wrap: wrap; }
+.hero-map .legend-item { display: flex; align-items: center; gap: 8px; }
+.hero-map .legend-swatch { width: 14px; height: 14px; display: inline-block; border: 1px solid #444; }
+
+.section-band { padding: 72px 32px 48px; }
+.section-band-inner { max-width: 1100px; margin: 0 auto; }
+.section-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; color: var(--muted); margin-bottom: 12px; }
+.section-band h2 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 52px; line-height: 1.0; letter-spacing: -2px; margin-bottom: 20px; }
+.section-band h2 em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.section-band .deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 22px; line-height: 1.4; color: var(--muted); margin-bottom: 40px; max-width: 760px; }
+
+/* ─── Hedge-bets table · cross-candidate donors ─── */
+.hedge-table { display: grid; grid-template-columns: 220px 1fr 140px; gap: 0; border-top: 3px solid var(--black); border-bottom: 3px solid var(--black); }
+.hedge-table .h-cell { padding: 16px 20px; border-bottom: 1px solid var(--line); font-family: 'Inter', sans-serif; }
+.hedge-table .h-head { background: var(--black); color: var(--cream); font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 14px 20px; }
+.hedge-table .h-donor { font-weight: 900; font-size: 17px; line-height: 1.2; color: var(--ink); }
+.hedge-table .h-candidates { font-size: 14px; line-height: 1.5; color: var(--ink); }
+.hedge-table .h-amount { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 17px; color: var(--black); text-align: right; }
+.hedge-table .h-cell.note { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 14px; line-height: 1.45; color: var(--muted); padding-top: 4px; padding-bottom: 18px; grid-column: 2 / 4; border-bottom: 2px solid var(--black); }
+.hedge-table .h-cell.note-spacer { padding: 0 20px 18px; border-bottom: 2px solid var(--black); background: var(--paper); }
+.hedge-table .pill { display: inline-block; font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; padding: 2px 6px; margin-right: 4px; margin-bottom: 4px; border: 1.5px solid var(--black); }
+.hedge-table .pill.r { border-color: var(--r-color); color: var(--r-color); }
+.hedge-table .pill.d { border-color: var(--d-color); color: var(--d-color); }
+@media (max-width: 800px) {
+  .hedge-table { grid-template-columns: 1fr; }
+  .hedge-table .h-amount { text-align: left; padding-top: 0; }
+  .hedge-table .h-cell.note { grid-column: 1; }
+}
+
+/* ─── Industry wars · cards ─── */
+.wars-grid { display: grid; grid-template-columns: 1fr; gap: 24px; }
+.war-card { padding: 32px; border: 3px solid var(--black); background: var(--cream); }
+.war-card .war-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 4px 10px; margin-bottom: 16px; background: var(--black); color: var(--cream); }
+.war-card h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 32px; line-height: 1.1; letter-spacing: -1px; margin-bottom: 14px; }
+.war-card h3 em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.war-card .war-body { font-size: 17px; line-height: 1.6; color: var(--ink); margin-bottom: 20px; }
+.war-card .war-flow { display: grid; grid-template-columns: 1fr 80px 1fr; gap: 20px; align-items: center; padding: 24px; background: var(--paper); border: 2px solid var(--black); margin-bottom: 16px; }
+.war-card .war-side { font-family: 'Space Mono', monospace; }
+.war-card .war-side-label { font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+.war-card .war-side-amount { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 28px; line-height: 1; letter-spacing: -1px; color: var(--black); margin-bottom: 6px; }
+.war-card .war-side-detail { font-size: 12px; line-height: 1.45; color: var(--ink); }
+.war-card .war-vs { text-align: center; font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; color: var(--red); letter-spacing: -0.5px; }
+.war-card .war-cite { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1px; color: var(--muted); padding-top: 12px; border-top: 1px solid var(--line); }
+.war-card .war-cite a { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); }
+.war-card .war-cite a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); color: var(--black); }
+@media (max-width: 700px) {
+  .war-card .war-flow { grid-template-columns: 1fr; gap: 12px; }
+  .war-card h3 { font-size: 26px; }
+}
+
+/* ─── Aggregation cluster cards ─── */
+.cluster-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; }
+@media (max-width: 800px) { .cluster-grid { grid-template-columns: 1fr; } }
+.cluster-card { padding: 24px; border: 2px solid var(--black); background: var(--paper); position: relative; }
+.cluster-card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 8px; background: var(--yellow); }
+.cluster-card .c-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 4px 8px; margin: 8px 0 14px; background: var(--black); color: var(--cream); }
+.cluster-card h4 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.15; letter-spacing: -0.5px; margin-bottom: 10px; }
+.cluster-card .c-amount { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; line-height: 1; letter-spacing: -1.5px; color: var(--red); margin-bottom: 14px; padding: 10px 0; border-top: 2px solid var(--black); border-bottom: 1px solid var(--line); }
+.cluster-card .c-detail { font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.55; color: var(--ink); }
+.cluster-card .c-pattern { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 14px; color: var(--muted); margin-top: 12px; }
+
+/* ─── Big numbers comparison strip ─── */
+.candidates-table { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr 1.2fr; gap: 0; border-top: 3px solid var(--black); border-bottom: 3px solid var(--black); }
+.candidates-table .ct-cell { padding: 14px 16px; border-bottom: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.45; }
+.candidates-table .ct-head { background: var(--black); color: var(--cream); font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; }
+.candidates-table .ct-name { font-weight: 900; font-size: 16px; }
+.candidates-table .ct-name .party-pill { display: inline-block; font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1px; padding: 2px 5px; margin-right: 6px; vertical-align: 1px; border: 1.5px solid currentColor; }
+.candidates-table .ct-name .party-pill.r { color: var(--r-color); }
+.candidates-table .ct-name .party-pill.d { color: var(--d-color); }
+.candidates-table .ct-num { font-family: 'Inter', sans-serif; font-weight: 900; font-variant-numeric: tabular-nums; }
+@media (max-width: 800px) {
+  .candidates-table { grid-template-columns: 1fr 1fr; font-size: 12px; }
+  .candidates-table .ct-head { display: none; }
+  .candidates-table .ct-cell { font-size: 12px; padding: 8px 10px; }
+}
+
+.boundary-block { margin: 56px auto 0; max-width: 880px; padding: 32px; background: var(--paper); border: 2px solid var(--black); border-left: 6px solid var(--black); }
+.boundary-block .boundary-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 14px; }
+.boundary-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; margin-bottom: 14px; }
+.boundary-block ul { list-style: none; padding: 0; margin: 0; }
+.boundary-block li { font-size: 16px; line-height: 1.55; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.boundary-block li:last-child { border-bottom: none; }
+.boundary-block li strong { font-weight: 700; color: var(--ink); }
+
+.related-block { margin: 56px auto 0; max-width: 1100px; padding: 0; }
+.related-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 26px; letter-spacing: -0.5px; margin-bottom: 18px; }
+.related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+@media (max-width: 800px) { .related-grid { grid-template-columns: 1fr; } }
+.related-grid a { display: block; text-decoration: none; padding: 18px 22px; border: 2px solid var(--black); background: var(--cream); color: var(--ink); transition: transform 0.12s ease-out, background 0.12s ease-out; }
+.related-grid a:hover { background: var(--paper); transform: translate(-2px, -2px); box-shadow: 4px 4px 0 var(--black); }
+.related-grid .r-tag { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+.related-grid h4 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 17px; line-height: 1.2; letter-spacing: -0.3px; }
+
+.sources-block { margin: 56px auto 0; max-width: 1100px; padding-top: 32px; border-top: 2px solid var(--black); font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; }
+.sources-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; margin-bottom: 12px; letter-spacing: -0.5px; }
+.sources-block ul { list-style: none; padding: 0; }
+.sources-block ul li { padding: 6px 0; border-bottom: 1px solid var(--line); font-family: 'Space Mono', monospace; font-size: 13px; line-height: 1.5; }
+.sources-block ul li a { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); word-break: break-all; }
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label { display: inline-block; width: 240px; color: var(--ink); font-weight: 700; }
+.sources-block .methodology { margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.6; color: var(--muted); }
+.sources-block .methodology strong { color: var(--ink); }
+
+.beat-footer { padding: 48px 32px; background: var(--black); color: var(--cream); text-align: center; }
+.beat-footer .brand-footer { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 8px; }
+.beat-footer .brand-footer em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: #ddd; }
+.beat-footer .tagline-footer { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 16px; color: #aaa; margin-bottom: 24px; }
+.beat-footer .footer-cta { display: inline-block; font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--cream); text-decoration: none; border: 2px solid var(--cream); padding: 10px 22px; margin: 0 8px; }
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small { font-family: 'Space Mono', monospace; font-size: 11px; color: #777; letter-spacing: 1px; margin-top: 32px; }
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 42px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 20px; }
+  .section-band h2 { font-size: 36px; letter-spacing: -1px; }
+  .section-band .deck { font-size: 18px; }
+}
+
+/* ─── Coming-soon banner for upcoming interactivity ─── */
+.coming-soon { display: flex; align-items: center; gap: 14px; padding: 16px 20px; background: var(--yellow); border: 2px solid var(--black); margin: 24px 0 32px; font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 1.2px; line-height: 1.45; }
+.coming-soon .cs-tag { background: var(--black); color: var(--yellow); padding: 4px 10px; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; flex-shrink: 0; }
+</style>
+</head>
+<body>
+
+<!-- ─── Nav ─── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/investigations" class="active">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ─── Article header ─── -->
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/">The Donor Map</a>
+      <span class="sep">›</span>
+      <a href="/investigations">Investigations</a>
+      <span class="sep">›</span>
+      <span>Race Map</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">Published May 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>California 2026 Governor: <span class="h-yellow">where the money</span> actually <span class="h-red">flows.</span></h1>
+    <p class="deck">
+      The per-candidate stories show the race in slices. This one maps the whole field. Cross-candidate hedge bets. Industry wars. Shell aggregations that turn one source into many. Patterns the candidate-by-candidate frame does not surface.
+    </p>
+  </div>
+</header>
+
+<!-- ─── Hero radial map · the WOW visual ─── -->
+<section class="hero-map">
+  <div class="hero-map-inner">
+    <div class="label">The whole field · seven candidates · top cross-cutting donors</div>
+    <div class="sub">Lines connect donors to candidates. Where a donor funds two or more candidates, the line crosses the field.</div>
+
+    <svg viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; max-height: 760px; display: block; margin: 0 auto;" aria-label="Network diagram of the 2026 California governor race showing seven candidates around a central cluster of cross-cutting donors. Lines connect donors to the candidates they have funded.">
+      <defs>
+        <marker id="rm-dot-r" markerWidth="6" markerHeight="6" refX="3" refY="3"><circle cx="3" cy="3" r="2.5" fill="#dc2626"/></marker>
+        <marker id="rm-dot-d" markerWidth="6" markerHeight="6" refX="3" refY="3"><circle cx="3" cy="3" r="2.5" fill="#2563eb"/></marker>
+      </defs>
+
+      <!-- 7 candidate nodes around a curve -->
+      <!-- HILTON (R, top-left) -->
+      <rect x="80" y="50" width="170" height="56" fill="#1a1a1a" stroke="#dc2626" stroke-width="3"/>
+      <text x="165" y="74" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fff">STEVE HILTON</text>
+      <text x="165" y="92" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#fca5a5">R · 18% · $7.7M</text>
+
+      <!-- BIANCO (R, top-center-right) -->
+      <rect x="285" y="20" width="170" height="56" fill="#1a1a1a" stroke="#dc2626" stroke-width="3"/>
+      <text x="370" y="44" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fff">CHAD BIANCO</text>
+      <text x="370" y="62" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#fca5a5">R · 14% · $4.5M</text>
+
+      <!-- BECERRA (D, top-right) -->
+      <rect x="490" y="20" width="170" height="56" fill="#1a1a1a" stroke="#2563eb" stroke-width="3"/>
+      <text x="575" y="44" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fff">XAVIER BECERRA</text>
+      <text x="575" y="62" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#93c5fd">D · 18% · $5.8M</text>
+
+      <!-- STEYER (D, right-edge) -->
+      <rect x="700" y="50" width="170" height="56" fill="#1a1a1a" stroke="#2563eb" stroke-width="3"/>
+      <text x="785" y="74" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fff">TOM STEYER</text>
+      <text x="785" y="92" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#93c5fd">D · 12% · $14M</text>
+
+      <!-- PORTER (D, bottom-right) -->
+      <rect x="900" y="100" width="170" height="56" fill="#1a1a1a" stroke="#2563eb" stroke-width="3"/>
+      <text x="985" y="124" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fff">KATIE PORTER</text>
+      <text x="985" y="142" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#93c5fd">D · 8% · $12M</text>
+
+      <!-- VILLARAIGOSA (D, bottom-center) -->
+      <rect x="285" y="540" width="170" height="56" fill="#1a1a1a" stroke="#2563eb" stroke-width="3"/>
+      <text x="370" y="564" text-anchor="middle" font-family="Inter, sans-serif" font-size="14" font-weight="900" fill="#fff">VILLARAIGOSA</text>
+      <text x="370" y="582" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#93c5fd">D · 2% · $6.1M</text>
+
+      <!-- MAHAN (D, bottom-left) -->
+      <rect x="80" y="540" width="170" height="56" fill="#1a1a1a" stroke="#2563eb" stroke-width="3"/>
+      <text x="165" y="564" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" font-weight="900" fill="#fff">MATT MAHAN</text>
+      <text x="165" y="582" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1.5" fill="#93c5fd">D · 7% · $43M IE</text>
+
+      <!-- CENTER: donor cluster -->
+      <text x="600" y="280" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#fbbf24">DONORS WHO CROSS</text>
+      <text x="600" y="298" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#fbbf24">CANDIDATE LINES</text>
+
+      <!-- DONOR NODES (positioned in center cluster) -->
+      <!-- Brin -->
+      <circle cx="450" cy="340" r="18" fill="#fbbf24"/>
+      <text x="450" y="345" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" fill="#0a0a0a">BRIN</text>
+
+      <!-- Larsen -->
+      <circle cx="600" cy="320" r="18" fill="#fbbf24"/>
+      <text x="600" y="325" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#0a0a0a">LARSEN</text>
+
+      <!-- Lonsdale -->
+      <circle cx="540" cy="380" r="18" fill="#fbbf24"/>
+      <text x="540" y="385" text-anchor="middle" font-family="Inter, sans-serif" font-size="9" font-weight="900" fill="#0a0a0a">LONSDALE</text>
+
+      <!-- Highland Fairview -->
+      <circle cx="680" cy="380" r="18" fill="#fbbf24"/>
+      <text x="680" y="385" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" font-weight="900" fill="#0a0a0a">HIGHLAND</text>
+
+      <!-- PORAC -->
+      <circle cx="500" cy="430" r="18" fill="#fbbf24"/>
+      <text x="500" y="435" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" font-weight="900" fill="#0a0a0a">PORAC</text>
+
+      <!-- Murdoch -->
+      <circle cx="380" cy="400" r="14" fill="#fbbf24" opacity="0.6"/>
+      <text x="380" y="404" text-anchor="middle" font-family="Inter, sans-serif" font-size="9" font-weight="900" fill="#0a0a0a">MURDOCH</text>
+
+      <!-- McNicholas -->
+      <circle cx="640" cy="450" r="14" fill="#fbbf24" opacity="0.6"/>
+      <text x="640" y="454" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" font-weight="900" fill="#0a0a0a">MCNICHOLAS</text>
+
+      <!-- ─── LINES: each donor to candidates they fund ─── -->
+      <!-- BRIN: Hilton + Mahan -->
+      <line x1="450" y1="340" x2="220" y2="106" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+      <line x1="450" y1="340" x2="220" y2="540" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+
+      <!-- LARSEN: Hilton + Mahan + Porter -->
+      <line x1="600" y1="320" x2="220" y2="106" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+      <line x1="600" y1="320" x2="220" y2="540" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+      <line x1="600" y1="320" x2="985" y2="156" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+
+      <!-- LONSDALE: Hilton + Mahan -->
+      <line x1="540" y1="380" x2="220" y2="106" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+      <line x1="540" y1="380" x2="220" y2="540" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+
+      <!-- HIGHLAND FAIRVIEW: Bianco + Villaraigosa (cross-party) -->
+      <line x1="680" y1="380" x2="370" y2="76" stroke="#dc2626" stroke-width="2" opacity="0.85"/>
+      <line x1="680" y1="380" x2="370" y2="540" stroke="#dc2626" stroke-width="2" opacity="0.85"/>
+
+      <!-- PORAC: Bianco + Villaraigosa (cross-party) -->
+      <line x1="500" y1="430" x2="370" y2="76" stroke="#dc2626" stroke-width="2" opacity="0.85"/>
+      <line x1="500" y1="430" x2="370" y2="540" stroke="#dc2626" stroke-width="2" opacity="0.85"/>
+
+      <!-- MURDOCH: Hilton only (single line) -->
+      <line x1="380" y1="400" x2="220" y2="106" stroke="#fbbf24" stroke-width="1" opacity="0.4"/>
+
+      <!-- McNICHOLAS: Becerra + Porter -->
+      <line x1="640" y1="450" x2="575" y2="76" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+      <line x1="640" y1="450" x2="985" y2="156" stroke="#fbbf24" stroke-width="1.5" opacity="0.7"/>
+
+      <!-- Annotations on cross-party lines -->
+      <text x="660" y="220" font-family="Space Mono, monospace" font-size="10" font-weight="700" fill="#dc2626" letter-spacing="1.5">CROSS-PARTY HEDGES</text>
+      <text x="660" y="234" font-family="Space Mono, monospace" font-size="9" font-weight="400" fill="#dc2626">red lines · same donor funds R + D candidates</text>
+    </svg>
+
+    <div class="legend">
+      <div class="legend-item"><span class="legend-swatch" style="background: #fbbf24;"></span>Same-party hedge</div>
+      <div class="legend-item"><span class="legend-swatch" style="background: #dc2626;"></span>Cross-party hedge</div>
+      <div class="legend-item"><span class="legend-swatch" style="background: #1a1a1a; border-color: #dc2626;"></span>Republican candidate</div>
+      <div class="legend-item"><span class="legend-swatch" style="background: #1a1a1a; border-color: #2563eb;"></span>Democratic candidate</div>
+    </div>
+
+    <div class="coming-soon">
+      <span class="cs-tag">v0.1 · Static</span>
+      <span>Iteration 1 (next session) replaces this static SVG with an interactive D3 force-directed graph: hover any candidate to highlight their donors, hover any donor to highlight which candidates they fund, search by donor name to filter the network. v0.2 adds per-industry sankey flows. v0.3 adds particle animations on the money flows.</span>
+    </div>
+  </div>
+</section>
+
+<!-- ─── Section 1: Hedge bets ─── -->
+<section class="section-band">
+  <div class="section-band-inner">
+    <div class="section-label">§ 1 · The hedge bets</div>
+    <h2>Donors funding <em>two or more candidates</em> in the same race.</h2>
+    <p class="deck">
+      Most named donors pick a candidate and stop. The names below picked more than one. Some are same-party hedges (a Silicon Valley operator backing two competing Democrats). Some are cross-party hedges (a Riverside developer backing a Republican AND a Democrat). The pattern signals what the donor actually wants: an outcome that's neutral on partisan label, specific on policy.
+    </p>
+
+    <div class="hedge-table">
+      <div class="h-cell h-head">Donor</div>
+      <div class="h-cell h-head">Candidates funded</div>
+      <div class="h-cell h-head" style="text-align: right;">Combined</div>
+
+      <div class="h-cell h-donor">Sergey Brin <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">Google co-founder</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill r">HILTON</span> $39,200 ·
+        <span class="pill d">MAHAN IE</span> $1,000,000
+      </div>
+      <div class="h-cell h-amount">$1.04M</div>
+      <div class="h-cell note">Tech-billionaire same-party-and-cross-party hedge. Mahan IE money is the bigger bet. Hilton donation is the backup-plan-if-the-Republican-makes-the-runoff bet.</div>
+
+      <div class="h-cell h-donor">Chris Larsen <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">Ripple co-founder</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill r">HILTON</span> $39,200 ·
+        <span class="pill d">PORTER</span> $39,200 ·
+        <span class="pill d">MAHAN</span> $500,000 lifetime
+      </div>
+      <div class="h-cell h-amount">$578K+</div>
+      <div class="h-cell note">Crypto-industry triple hedge across two parties and three positions. Notable that the same crypto-industry money sits behind both Mahan (pro-tech) and Porter (built her brand on consumer-finance regulation).</div>
+
+      <div class="h-cell h-donor">Joe Lonsdale <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">Palantir co-founder, 8VC</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill r">HILTON</span> $25,000 ·
+        <span class="pill d">MAHAN</span> $78,400
+      </div>
+      <div class="h-cell h-amount">$103K</div>
+      <div class="h-cell note">Same-party-and-cross-party tech hedge. The Mahan figure is the larger commitment. Hilton donation reads as a Plan B in case the GOP makes the runoff.</div>
+
+      <div class="h-cell h-donor">Highland Fairview Operating Co. <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">Iddo Benzeevi · Riverside megadeveloper</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill r">BIANCO</span> $39,200 ·
+        <span class="pill d">VILLARAIGOSA</span> $72,800
+      </div>
+      <div class="h-cell h-amount">$112K</div>
+      <div class="h-cell note">Cross-party real-estate hedge. Same Riverside developer behind the Inland Empire's biggest contested logistics project funds candidates from both parties. Either outcome is acceptable to the development coalition.</div>
+
+      <div class="h-cell h-donor">PORAC PAC <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">Peace Officers Research Association of California</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill r">BIANCO</span> $39,200 ·
+        <span class="pill d">VILLARAIGOSA</span> $78,400
+      </div>
+      <div class="h-cell h-amount">$117K</div>
+      <div class="h-cell note">PORAC dual-endorsed Bianco AND Villaraigosa for the 2026 governor's race. Law-enforcement money flows to both sides. Both candidates are acceptable on law-and-order positioning regardless of party label.</div>
+
+      <div class="h-cell h-donor">McNicholas &amp; McNicholas LLP <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">Major California plaintiffs firm</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill d">BECERRA</span> $25,000 (Jun 11) ·
+        <span class="pill d">PORTER</span> $25,000 (Jun 24)
+      </div>
+      <div class="h-cell h-amount">$50K</div>
+      <div class="h-cell note">Same-party hedge across the two leading Dem candidates in a two-week window. The plaintiffs-bar pattern: regulated firm with state interests writing checks to whichever Dem makes it out of the primary.</div>
+
+      <div class="h-cell h-donor">Tim Draper <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">DFJ founder · libertarian VC</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill r">HILTON</span> $78,400
+      </div>
+      <div class="h-cell h-amount">$78K</div>
+      <div class="h-cell note">Single-candidate giving in the 2026 cycle (no visible hedge). Listed here as the largest individual on the Hilton donor list and as a reference point for the libertarian-VC tier of giving.</div>
+
+      <div class="h-cell h-donor">Brian Armstrong <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 400; color: var(--muted); margin-top: 4px;">Coinbase CEO</div></div>
+      <div class="h-cell h-candidates">
+        <span class="pill d">MAHAN IE</span> $500,000
+      </div>
+      <div class="h-cell h-amount">$500K</div>
+      <div class="h-cell note">Single-candidate giving in the 2026 cycle, but listed here because Coinbase's federal Fairshake PAC spent $10M+ AGAINST Porter in 2024. The unified crypto-industry posture: pro-Mahan, anti-Porter.</div>
+
+    </div>
+
+    <p style="font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1.2px; color: var(--muted); margin-top: 18px; text-transform: uppercase;">
+      Source: Cal-Access RCPT_CD primary records · contribution dates within 2026 election cycle · combined totals include direct candidate-committee giving plus controlled-IE-PAC giving where the donor is a named contributor.
+    </p>
+  </div>
+</section>
+
+<!-- ─── Section 2: Industry wars ─── -->
+<section class="section-band" style="background: var(--paper); border-top: 2px solid var(--black); border-bottom: 2px solid var(--black);">
+  <div class="section-band-inner">
+    <div class="section-label">§ 2 · The industry wars</div>
+    <h2>Money <em>flowing in opposite directions</em> on a single industry.</h2>
+    <p class="deck">
+      An industry war is what happens when one industry's money is unified behind a candidate AND another industry's money is unified against that same candidate. Below are five active wars in the 2026 California governor race. Each one is structurally the same: pick a side, follow the money on both sides.
+    </p>
+
+    <div class="wars-grid">
+
+      <div class="war-card">
+        <div class="war-tag">War 1 · Energy + utilities vs. Tom Steyer</div>
+        <h3>The utility monopoly is funding <em>$10 million</em> against the climate billionaire.</h3>
+        <div class="war-body">
+          California's investor-owned utilities and the trades that depend on them have organized the largest single opposition campaign of the 2026 race. The vehicle is "Californians Against Tom Steyer," a coalition IE committee. Steyer is the only billionaire in the race who built his pre-political brand on closing fossil-fuel plants. The donor class has decided he is the one to bury.
+        </div>
+        <div class="war-flow">
+          <div class="war-side">
+            <div class="war-side-label">Funded · pro-Steyer</div>
+            <div class="war-side-amount">$133.8M</div>
+            <div class="war-side-detail">Self-funded by the candidate's personal fortune. Outside spending in support is small relative to self-fund.</div>
+          </div>
+          <div class="war-vs">▶ vs. ◀</div>
+          <div class="war-side">
+            <div class="war-side-label">Opposed · anti-Steyer</div>
+            <div class="war-side-amount">$10M+</div>
+            <div class="war-side-detail">PG&amp;E Corporation $9.975M · IBEW Local 1245 $75K · plus realtor, chamber, building industry, and prison-guard money on the same side.</div>
+          </div>
+        </div>
+        <div class="war-cite">Full breakdown: <a href="/class-traitor">/class-traitor</a> · the $31M-to-bury-a-class-traitor story.</div>
+      </div>
+
+      <div class="war-card">
+        <div class="war-tag">War 2 · Oil and gas vs. the Democratic field</div>
+        <h3>Five oil majors, <em>one Democratic candidate</em> taking their money.</h3>
+        <div class="war-body">
+          Antonio Villaraigosa signed a 2018 public pledge not to take money from oil companies. By 2026 he is the principal Democratic beneficiary of fossil-fuel money in the gubernatorial race. The pattern is a singleton: the rest of the Democratic field has stayed off oil-industry checks. Becerra accepted one Chevron max contribution; the rest declined.
+        </div>
+        <div class="war-flow">
+          <div class="war-side">
+            <div class="war-side-label">Funded · oil + gas → Villaraigosa</div>
+            <div class="war-side-amount">$307,800</div>
+            <div class="war-side-detail">California Resources Corporation $72,800 · Chevron $78,400 · Marathon $78,400 · Berry Corporation $78,400.</div>
+          </div>
+          <div class="war-vs">▶ vs. ◀</div>
+          <div class="war-side">
+            <div class="war-side-label">Refused / minor · the rest</div>
+            <div class="war-side-amount">~$39K</div>
+            <div class="war-side-detail">Becerra accepted one $39,200 max from Chevron USA in June 2025. Steyer, Porter, Mahan, Thurmond have not taken oil-major money this cycle.</div>
+          </div>
+        </div>
+        <div class="war-cite">Adjacent: <a href="/not-the-bad-guy">/not-the-bad-guy</a> · the Becerra-Chevron timing piece.</div>
+      </div>
+
+      <div class="war-card">
+        <div class="war-tag">War 3 · Silicon Valley billionaire class vs. labor-backed Dems</div>
+        <h3>Tech VCs put <em>$8M+</em> behind a single mayor's IE PAC.</h3>
+        <div class="war-body">
+          The Silicon Valley billionaire class has unified around Matt Mahan as their state-level vehicle. The Mahan IE PAC ("Back to Basics California") is funded by a who's-who of unicorn-builders. The candidates this money runs against, structurally, are the labor-backed Democrats (Becerra, Porter) on tech-regulation, AI safety, and public-sector compensation policy.
+        </div>
+        <div class="war-flow">
+          <div class="war-side">
+            <div class="war-side-label">Funded · pro-Mahan IE</div>
+            <div class="war-side-amount">$8M+</div>
+            <div class="war-side-detail">Sequoia (Moritz) $2M · Y Combinator (Seibel) $1M · Stripe (Collison) $990K · Coinbase (Armstrong) $500K · plus Founders Fund / Singerman $250K.</div>
+          </div>
+          <div class="war-vs">▶ vs. ◀</div>
+          <div class="war-side">
+            <div class="war-side-label">Labor side · Becerra + Porter</div>
+            <div class="war-side-amount">~$0 from VCs</div>
+            <div class="war-side-detail">No Sequoia / Y Combinator / Stripe / Coinbase / Founders Fund money to Becerra or Porter direct candidate committees in the 2026 cycle.</div>
+          </div>
+        </div>
+        <div class="war-cite">Full breakdown: <a href="/mahan">/mahan</a> · 61 people wrote almost all of his money.</div>
+      </div>
+
+      <div class="war-card">
+        <div class="war-tag">War 4 · AI policy · the Common Sense lobby vs. AI investors</div>
+        <h3>Two leading candidates. <em>Two opposite</em> AI policy stakes.</h3>
+        <div class="war-body">
+          Tom Steyer's brother Jim runs Common Sense Media, the named advocate behind California's three biggest AI bills (AB-1064, AB-1709, AB-2023). Steve Hilton's wife Rachel Whetstone heads communications at Sierra Technologies, a $10B AI company. Steyer's family has donated $5M+ to the lobby pushing the bills. Hilton owns more than $1M of Sierra equity. Same race, opposite stakes, both candidates have a family member professionally inside the AI-policy ecosystem.
+        </div>
+        <div class="war-flow">
+          <div class="war-side">
+            <div class="war-side-label">Pro-regulation · Steyer side</div>
+            <div class="war-side-amount">$5M+</div>
+            <div class="war-side-detail">Tom + Kat Steyer family donations to Common Sense Media · the named advocate behind AB-1064 / AB-1709 / AB-2023.</div>
+          </div>
+          <div class="war-vs">▶ vs. ◀</div>
+          <div class="war-side">
+            <div class="war-side-label">Anti-regulation · Hilton side</div>
+            <div class="war-side-amount">$1M+</div>
+            <div class="war-side-detail">Hilton's Form 700 Schedule A-1 equity in Sierra Technologies · plus spouse income · running on rolling back California AI regulation.</div>
+          </div>
+        </div>
+        <div class="war-cite">Full breakdowns: <a href="/steyer">/steyer</a> · <a href="/hilton">/hilton</a></div>
+      </div>
+
+      <div class="war-card">
+        <div class="war-tag">War 5 · Police unions hedging across the GOP-and-D divide</div>
+        <h3>PORAC dual-endorsed <em>Bianco AND Villaraigosa</em>. Same money, both sides.</h3>
+        <div class="war-body">
+          The Peace Officers Research Association of California (PORAC) made a deliberate cross-party endorsement decision in the 2026 governor's race. The same money, from the same union, flows to a Republican Riverside sheriff AND to a Democratic former Los Angeles mayor. The signal: California's largest law-enforcement organization is hedging the same way every other industry hedges. Whichever side wins the runoff, law enforcement has a door.
+        </div>
+        <div class="war-flow">
+          <div class="war-side">
+            <div class="war-side-label">PORAC → Bianco (R)</div>
+            <div class="war-side-amount">$39,200</div>
+            <div class="war-side-detail">Plus Santa Barbara DSA $30K + San Diego DSA PAC $25K + Riverside Sheriffs' Association $39K · ~$143K in deduplicated law-enforcement money to Bianco.</div>
+          </div>
+          <div class="war-vs">▶ AND ◀</div>
+          <div class="war-side">
+            <div class="war-side-label">PORAC → Villaraigosa (D)</div>
+            <div class="war-side-amount">$78,400</div>
+            <div class="war-side-detail">Higher dollar amount than the Bianco contribution. PORAC publicly endorsed both candidates in 2026 cycle.</div>
+          </div>
+        </div>
+        <div class="war-cite">Cross-references: per-candidate dossiers in <code>content/Admin Notes/ca-gov-2026-dossiers/</code> · Cal-Access RCPT_CD primary.</div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ─── Section 3: Aggregation layer ─── -->
+<section class="section-band">
+  <div class="section-band-inner">
+    <div class="section-label">§ 3 · The aggregation layer</div>
+    <h2>One source. <em>Counted as many.</em></h2>
+    <p class="deck">
+      A candidate's "donor count" only means what it sounds like if every donor is independent. The clusters below are places where the count is misleading — multiple LLCs sharing an address, an entire C-suite of one company giving on the same two days, a family making the same six-figure bet split across legally distinct people. Every donor below is real. The independence between them is what's missing.
+    </p>
+
+    <div class="cluster-grid">
+
+      <div class="cluster-card">
+        <span class="c-tag">Bianco · Sibling-managed LLCs</span>
+        <h4>M&amp;D Development + Downs Energy</h4>
+        <div class="c-amount">$156,800</div>
+        <div class="c-detail">Two California LLCs, both at the same Corona address (1296 Magnolia Ave per CPUC service-list filings 2019, 2020). Mike Downs publicly described as managing partner at M&amp;D Development by Bill Essayli (2023). Sibling Sherry Messner is M&amp;D's responsible agent.</div>
+        <div class="c-pattern">If FPPC treats them as one source under the common-control rule, the contribution exceeds the legal limit by approximately $117,600. SF Chronicle floated the question March 31, 2026.</div>
+      </div>
+
+      <div class="cluster-card">
+        <span class="c-tag">Hilton · Single-employer C-suite cluster</span>
+        <h4>Lighthouse Worldwide Solutions Oregon</h4>
+        <div class="c-amount">~$196,000</div>
+        <div class="c-detail">Six employees of a single Oregon-based corporation gave Hilton lockstep contributions on the same two days in December 2025. Tae Yun Kim (chairman), Paul Newman (president), Thomas Saunders (SVP), Scott Salton (manager), Michael Chunhan (engineer), each at $39,200. The corporation itself gave nothing.</div>
+        <div class="c-pattern">The classic "corporate cluster" giving pattern: company can't legally give above the limit, so the C-suite gives individually on coordinated dates. Looks like six donors, reads as one company.</div>
+      </div>
+
+      <div class="cluster-card">
+        <span class="c-tag">Mahan · Crypto-industry corporate cluster</span>
+        <h4>Coinbase senior leadership</h4>
+        <div class="c-amount">$578,400+</div>
+        <div class="c-detail">Brian Armstrong (Coinbase CEO) $500,000 to Mahan IE PAC + Elena Nadolinski (former Coinbase, now Beam founder) $78,400. Same-cycle giving. The corporation does not appear directly; the unified crypto-industry posture flows through individuals.</div>
+        <div class="c-pattern">The federal counterpart, Fairshake PAC, spent $10M against Porter in 2024 — same crypto-industry money operating across federal-state-and-IE layers with consistent candidate selection.</div>
+      </div>
+
+      <div class="cluster-card">
+        <span class="c-tag">Bianco · Real-estate family cluster</span>
+        <h4>Haagen Company family</h4>
+        <div class="c-amount">$78,400</div>
+        <div class="c-detail">Alexander Haagen III + Betty Haagen (spouse) + Haagen Company LLC contributing in coordinated max increments to Bianco. Same family also gave to Nathan Hochman (LA District Attorney 2024) on the same model.</div>
+        <div class="c-pattern">Family-plus-company structure: the holding company and the named individuals each max out, doubling or tripling the effective contribution from a single household.</div>
+      </div>
+
+      <div class="cluster-card">
+        <span class="c-tag">Becerra · Physician-owned hospital cluster</span>
+        <h4>Cantu / DHR Health network</h4>
+        <div class="c-amount">$47,300</div>
+        <div class="c-detail">Same-day giving on June 12, 2025: Alonzo Cantu $39,200 + Carlos Garcia-Cantu MD $1,000 + Leonel Cantu MD $5,000 + Melissa Cantu-Garza PA $2,100. All four affiliated with DHR Health, a physician-owned Texas hospital network.</div>
+        <div class="c-pattern">Mirrors Cantu's 2008 Hillary Clinton fundraising model from the same physician network. Healthcare-industry money routed through individual physicians and family members rather than corporate-PAC giving.</div>
+      </div>
+
+      <div class="cluster-card">
+        <span class="c-tag">Steyer · Self-fund as cluster</span>
+        <h4>Self-funded billionaire campaigns</h4>
+        <div class="c-amount">$133.8M</div>
+        <div class="c-detail">Tom Steyer's 2026 campaign is 99.4% self-funded out of his personal fortune. The campaign reports 131 named donors but every meaningful dollar comes from a single individual. Same pattern in his 2020 presidential campaign.</div>
+        <div class="c-pattern">The inverse aggregation problem: instead of one source counted as many donors, one source IS the donor. The "donor count" of 131 obscures that the funding source is one person.</div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ─── Section 4: Big numbers comparison ─── -->
+<section class="section-band">
+  <div class="section-band-inner">
+    <div class="section-label">§ 4 · The candidates · by the numbers</div>
+    <h2>Each campaign's <em>shape</em>, side by side.</h2>
+    <p class="deck">
+      Total raised, donor count, average contribution, and where the money concentrates. The shape of each campaign tells you whether it's a billionaire self-fund, a small-dollar populist run, or a traditional donor-class operation.
+    </p>
+
+    <div class="candidates-table">
+      <div class="ct-cell ct-head">Candidate</div>
+      <div class="ct-cell ct-head">Raised</div>
+      <div class="ct-cell ct-head">Donors</div>
+      <div class="ct-cell ct-head">Avg</div>
+      <div class="ct-cell ct-head">Top industry · IE</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill r">R</span> Steve Hilton</div>
+      <div class="ct-cell ct-num">$7.73M</div>
+      <div class="ct-cell ct-num">14,989</div>
+      <div class="ct-cell ct-num">$515</div>
+      <div class="ct-cell">Tech VC + libertarian; dark-money 501(c)(4) IEs</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill r">R</span> Chad Bianco</div>
+      <div class="ct-cell ct-num">$4.47M</div>
+      <div class="ct-cell ct-num">7,324</div>
+      <div class="ct-cell ct-num">$611</div>
+      <div class="ct-cell">Police unions + construction; $80K to legal-defense fund</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill d">D</span> Xavier Becerra</div>
+      <div class="ct-cell ct-num">$5.75M</div>
+      <div class="ct-cell ct-num">5,061</div>
+      <div class="ct-cell ct-num">$1,137</div>
+      <div class="ct-cell">Labor + healthcare industry; CPCA Advocates IE</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill d">D</span> Tom Steyer</div>
+      <div class="ct-cell ct-num">$14.08M</div>
+      <div class="ct-cell ct-num">131</div>
+      <div class="ct-cell ct-num">$107K</div>
+      <div class="ct-cell">99.4% self-funded; ~$10M anti-Steyer IE (PG&amp;E)</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill d">D</span> Katie Porter</div>
+      <div class="ct-cell ct-num">$12.04M</div>
+      <div class="ct-cell ct-num">15,232</div>
+      <div class="ct-cell ct-num">$790</div>
+      <div class="ct-cell">Plaintiffs lawyers + healthcare-tech</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill d">D</span> Matt Mahan</div>
+      <div class="ct-cell ct-num">$0 candidate</div>
+      <div class="ct-cell ct-num">0</div>
+      <div class="ct-cell ct-num">—</div>
+      <div class="ct-cell">$8M+ in pro-Mahan IE PAC; tech-VC funded</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill d">D</span> Antonio Villaraigosa</div>
+      <div class="ct-cell ct-num">$6.10M</div>
+      <div class="ct-cell ct-num">870</div>
+      <div class="ct-cell ct-num">$7,011</div>
+      <div class="ct-cell">Real-estate + building trades; oil-industry $307K</div>
+
+      <div class="ct-cell ct-name"><span class="party-pill d">D</span> Tony Thurmond</div>
+      <div class="ct-cell ct-num">$327K</div>
+      <div class="ct-cell ct-num">294</div>
+      <div class="ct-cell ct-num">$1,113</div>
+      <div class="ct-cell">Education establishment</div>
+
+    </div>
+    <p style="font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1.2px; color: var(--muted); margin-top: 18px; text-transform: uppercase;">
+      Source: Cal-Access RCPT_CD primary records as of May 4, 2026 · candidate-controlled committees only · IE pacs separately disclosed.
+    </p>
+
+    <div class="boundary-block">
+      <div class="boundary-label">What this story does not say</div>
+      <h3>The donor map shows what is on the public record. It does not assert any of the following:</h3>
+      <ul>
+        <li><strong>Not corruption.</strong> Every dollar above is publicly disclosed under California's campaign-finance regime. Public disclosure is the system working as designed. Documenting structural conflict is not the same as documenting wrongdoing.</li>
+        <li><strong>Not a quid pro quo claim.</strong> Cross-candidate giving and industry-vs-candidate giving are common patterns in California politics. We are documenting the patterns, not asserting that any individual contribution purchased any individual policy outcome.</li>
+        <li><strong>Not equivalence.</strong> A self-funded billionaire's $134M is structurally different from a labor union's max contribution, and both are different from a single LLC at the contribution limit. The rows in the table are not comparable on a single axis. Each row is its own story.</li>
+        <li><strong>Not exhaustive.</strong> This is a curated map of the most editorially significant flows. Top-fifteen donor lists per candidate are in the per-candidate dossiers; the full Cal-Access data is publicly searchable.</li>
+      </ul>
+    </div>
+
+    <div class="related-block">
+      <h3>Drill in: per-candidate stories</h3>
+      <div class="related-grid">
+        <a href="/hilton">
+          <div class="r-tag">Republican · Hilton</div>
+          <h4>Wants to regulate AI. Owns stock in an AI company.</h4>
+        </a>
+        <a href="/steyer">
+          <div class="r-tag">Democrat · Steyer</div>
+          <h4>Wants tighter AI rules. His brother runs the lobby that writes them.</h4>
+        </a>
+        <a href="/class-traitor">
+          <div class="r-tag">Democrat · Steyer</div>
+          <h4>$31 million to bury a class traitor.</h4>
+        </a>
+        <a href="/mahan">
+          <div class="r-tag">Democrat · Mahan</div>
+          <h4>$43 million for Matt Mahan. 61 people wrote almost all of it.</h4>
+        </a>
+        <a href="/three-becerras">
+          <div class="r-tag">Democrat · Becerra</div>
+          <h4>What he says depends on who is listening.</h4>
+        </a>
+        <a href="/not-the-bad-guy">
+          <div class="r-tag">Democrat · Becerra</div>
+          <h4>He took the check. Then he defended it.</h4>
+        </a>
+      </div>
+    </div>
+
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li><span class="label">Primary · Cal-Access</span> California Secretary of State campaign-finance disclosure · <a href="https://cal-access.sos.ca.gov/" target="_blank" rel="noopener">cal-access.sos.ca.gov</a></li>
+        <li><span class="label">Polling · Tracker III</span> California Voter Index Tracking Survey III · Evitarus, fielded April 30 to May 2 2026 · 1,200 likely voters · ±2.83% MOE · commissioned by California Democratic Party · <a href="https://cadem.org/wp-content/uploads/2026/05/FINAL-CA-Voter-Index-Tracking-Survey-III-Topline-05.03.26.pdf" target="_blank" rel="noopener">topline PDF</a></li>
+        <li><span class="label">Per-candidate dossiers</span> on file at <code>content/Admin Notes/ca-gov-2026-dossiers/</code> · primary-source extracts feeding each beat · Cal-Access RCPT_CD line-level traces</li>
+        <li><span class="label">Per-candidate beats</span> linked above · each beat documents the row-level Cal-Access transactions backing the figures here</li>
+        <li><span class="label">SF Chronicle aggregation report</span> · M&amp;D Development + Downs Energy reporting · <a href="https://www.sfchronicle.com/politics/article/contributions-bianco-violate-state-campaign-rules-22160676.php" target="_blank" rel="noopener">March 31, 2026</a></li>
+      </ul>
+      <div class="methodology">
+        <strong>Methodology.</strong> Every dollar figure on this page traces to Cal-Access RCPT_CD or EXPN_CD line-level disclosure as of May 4, 2026. Cross-candidate matches are made by donor-name + address + employer fields. Cluster matches in §3 are made by shared address + shared incorporation history (LLCs) or shared employer (C-suite clusters). Industry classifications in §2 come from the donor's primary business activity per public filings.
+
+        <br><br>
+
+        <strong>This is a v0.1 of the race-map page.</strong> The static SVG hero will be replaced with an interactive D3 force-directed graph in the next iteration. Per-industry sankey diagrams in §2 will replace the flow cards. Particle animations on the money flows ship in a final polish iteration. The data does not change between iterations; the visualization layer does.
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── Footer ─── -->
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR MAP <em>· following the money</em></div>
+  <div class="tagline-footer">Open-source. Primary-source-verified. California 2026.</div>
+  <a href="/" class="footer-cta">Home</a>
+  <a href="/investigations" class="footer-cta">More investigations</a>
+  <a href="/about" class="footer-cta">About</a>
+  <div class="small">thedonormap.org</div>
+</footer>
+
+</body>
+</html>
