@@ -669,8 +669,10 @@ const BEATS_UPCOMING: BeatRecord[] = [
       "Matt Mahan's campaign architecture is structurally distinct from every other candidate in the 2026 California Governor field: ~67% of the money is in IE PACs, not the candidate committee. Sixty-one donors funded the two pro-Mahan IEs ($26.95M combined). The candidate committee has 1,519 donors but 99.6% of its $14M came from four-figure-and-up checks. Brian Armstrong (Coinbase CEO) gave $500K to the IE. Mahan voted alone against city-worker raises in 2023. His own 2022 mayoral campaign had to reclassify 18 workers under AB5.",
     prototypeFile: "beat-mahan.html",
     prototypeUrl: "http://localhost:8096/mahan",
+    donorListFile: "donors-mahan-2026.html",
+    donorListUrl: "http://localhost:8096/donors-mahan-2026",
     dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/mahan.md",
-    status: "active",
+    status: "published",
     verificationSeeds: [],
     perplexityRounds: [
       { name: "Mahan dossier (Cal-Access primary extraction)", status: "applied (dossier mahan.md)", date: "2026-05-01" },

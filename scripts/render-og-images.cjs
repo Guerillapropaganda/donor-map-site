@@ -110,6 +110,24 @@ const CARDS = [
     headlineSize: 84,
     headlineFont: 'Inter-Black',
   },
+  {
+    slug: 'mahan',
+    out: path.join(SHARE_DIR, 'mahan.png'),
+    headline: '$43 million for Matt Mahan. Sixty-one people wrote almost all of it.',
+    deck: 'Of every $100 backing his California governor campaign, $67 came from 61 wealthy donors.',
+    accent: '#fbbf24',
+    headlineSize: 56,
+    headlineFont: 'Inter-Black',
+  },
+  {
+    slug: 'donors-mahan-2026',
+    out: path.join(SHARE_DIR, 'donors-mahan-2026.png'),
+    headline: 'Mahan for Governor 2026',
+    deck: 'Top donors. Across three committees. Cal-Access primary-source verified.',
+    accent: '#fbbf24',
+    headlineSize: 84,
+    headlineFont: 'Inter-Black',
+  },
 ];
 
 function buildCard(card, fonts) {
