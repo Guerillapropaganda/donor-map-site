@@ -52,6 +52,153 @@ export interface BeatRecord {
   editorialChecklist: BeatChecklistItem[]
 }
 
+const MAHAN_SEEDS: VerificationSeed[] = [
+  {
+    id: "mahan-cal-access-1487425",
+    beat: "mahan",
+    label: "URL pass: Cal-Access · Back to Basics IE PAC",
+    detail:
+      "FPPC committee 1487425. Anchors $22.8M / 44 donors total + Brian Armstrong $500K Feb 9 2026 + most of the §1 IE-donor table (Moritz $3M, Caruso $1.5M, Collison $1.49M, Khosla $1.1M, Merrill $1.02M, Seibel/Hastings/Doerr/Huffman/Mehta $1M each). Also referenced in Singerman 4-committee table at $750K.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1487425",
+  },
+  {
+    id: "mahan-cal-access-1488176",
+    beat: "mahan",
+    label: "URL pass: Cal-Access · Deliver for California IE PAC",
+    detail:
+      "FPPC committee 1488176. Anchors $3.27M / 17 donors total + Brin $1M + Buchheit $1M + Singerman $250K row in funnel table.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1488176",
+  },
+  {
+    id: "mahan-cal-access-1450483",
+    beat: "mahan",
+    label: "URL pass: Cal-Access · Govern for California Action Committee",
+    detail:
+      "FPPC committee 1450483 (the funnel). Anchors the April 13 2026 $1.5M transfer to Back to Basics + the named GfC funders (Pritzker $300K, Kelly $250K, Baszucki $200K, Singerman $50K) + Singerman row in funnel table.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1450483",
+  },
+  {
+    id: "mahan-cal-access-1486858",
+    beat: "mahan",
+    label: "URL pass: Cal-Access · Mahan for Governor 2026 (candidate cmte)",
+    detail:
+      "FPPC committee 1486858. Anchors $14.11M / 1,519 donors + 100 donors at FPPC max $78,400 + 165 donors at $39,200+ + Elena Nadolinski $78,400 Feb 4 2026 + Singerman $78,400 row + the candidate-cmte top-tier table (Houston, Field, Spiegel, Marcus, Tan, Friedman, Lonsdale, Hoffman, etc.).",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486858",
+  },
+  {
+    id: "mahan-cal-access-1480025",
+    beat: "mahan",
+    label: "URL pass: Cal-Access · Becerra for Governor 2026 (cross-hedge anchor)",
+    detail:
+      "FPPC committee 1480025. Anchors the Caruso cross-bet claim ($15,600 from Caruso + $15,600 from Tina Caruso to Becerra in Dec 2025). Cross-reference for the donor-class-isn't-betting-on-a-candidate framing.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480025",
+  },
+  {
+    id: "mahan-cal-access-1480425",
+    beat: "mahan",
+    label: "URL pass: Cal-Access · Hilton for Governor 2026 (cross-hedge anchor)",
+    detail:
+      "FPPC committee 1480425. Anchors TWO cross-bet claims: Brin $39,200 to Hilton + Lonsdale $25,000 to Hilton. Two cross-party hedge donors (both also gave Mahan).",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480425",
+  },
+  {
+    id: "mahan-cal-access-1264590",
+    beat: "mahan",
+    label: "URL pass: Cal-Access · California Business Roundtable Issues PAC (Thiel anchor)",
+    detail:
+      "FPPC committee 1264590. Anchors the Thiel negative finding: Thiel's only located 2024-2026 California state-level contribution is $3,000,000 to this PAC on Dec 29 2025 — NOT to Mahan or any pro-Mahan vehicle. Critical for the 'Thiel-orbit support, not Thiel personal support' framing.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590",
+  },
+  {
+    id: "mahan-dfpi-dfal",
+    beat: "mahan",
+    label: "URL pass: DFPI Digital Financial Assets Law page",
+    detail:
+      "Anchors the regulatory-context claim: 'California's Digital Financial Assets Law licensing deadline is July 1, 2026 — the same month as the Democratic primary.' Pairs with Brian Armstrong's $500K Coinbase contribution to make the regulatory-exposure point.",
+    lane: "Editor",
+    url: "https://dfpi.ca.gov/regulated-industries/digital-financial-assets/",
+  },
+  {
+    id: "mahan-calmatters-anti-labor",
+    beat: "mahan",
+    label: "URL pass: CalMatters Apr 24 2026 (anti-labor framing)",
+    detail:
+      "Tier 2 anchor for the labor-section opening: 'Silicon Valley executives, billionaires, and groups known to clash with Sacramento labor unions.' Direct quote attribution.",
+    lane: "Editor",
+    url: "https://calmatters.org/politics/2026/04/california-governor-race-financials/",
+  },
+  {
+    id: "mahan-sjs-strike-aug2023",
+    beat: "mahan",
+    label: "URL pass: San José Spotlight Aug 7 2023 (4,500 workers / 99% strike vote)",
+    detail:
+      "Tier 2 anchor for the strike-authorization claim: 'about 4,500 city employees authorized a three-day strike by a 99 percent vote.' IFPTE Local 21 + AFSCME Local 101.",
+    lane: "Editor",
+    url: "https://sanjosespotlight.com/thousands-of-san-jose-workers-will-strike/",
+  },
+  {
+    id: "mahan-kqed-strike-averted",
+    beat: "mahan",
+    label: "URL pass: KQED Aug 15 2023 (14.5% deal averted strike)",
+    detail:
+      "Tier 2 anchor for the strike-resolution claim: '14.5 percent over three years' deal that averted the Aug 15 2023 strike. Plus Mahan's quote 'Our unions did their job. But our council did not do its job.'",
+    lane: "Editor",
+    url: "https://www.kqed.org/news/11958290/san-jose-city-council-approves-agreements-with-unions-to-avoid-strike",
+  },
+  {
+    id: "mahan-sjs-lone-vote",
+    beat: "mahan",
+    label: "URL pass: San José Spotlight Sep 15 2023 (Mahan lone vote against ratifying)",
+    detail:
+      "Tier 2 anchor for the centerpiece labor claim: 'Mahan was the only official to vote against ratifying the contracts.' This is the single sharpest point in the labor-record section.",
+    lane: "Editor",
+    url: "https://sanjosespotlight.com/san-jose-mayor-matt-mahan-criticizes-union-worker-pay-raises-amid-parks-program-cuts/",
+  },
+  {
+    id: "mahan-kqed-jean-cohen",
+    beat: "mahan",
+    label: "URL pass: KQED Nov 15 2023 (Jean Cohen labor-challenger expectation)",
+    detail:
+      "Tier 2 anchor for the South Bay Labor Council quote: Cohen 'expected Mahan would face a labor-backed challenger because of dissatisfaction with his first year.'",
+    lane: "Editor",
+    url: "https://www.kqed.org/news/11967395/san-jose-labor-groups-dont-like-mayor-matt-mahan-so-why-does-his-re-election-seem-assured",
+  },
+  {
+    id: "mahan-sjs-ab5-misclassification",
+    beat: "mahan",
+    label: "URL pass: San José Spotlight Oct 4 2022 (Mahan campaign AB5 misclassification)",
+    detail:
+      "Tier 2 anchor for the recursive irony claim: Mahan's 2022 mayoral campaign reclassified 18 workers under AB5 after a state labor commissioner complaint. Pairs with the Coinbase/AI/gig-economy donor list to make the structural-alignment point.",
+    lane: "Editor",
+    url: "https://sanjosespotlight.com/san-jose-mayoral-candidate-matt-mahan-admits-employee-classification-error-ab5-ab-5-california-labor-law-election-2022/",
+  },
+  {
+    id: "mahan-politico-solana",
+    beat: "mahan",
+    label: "URL pass: Politico Jan 30 2026 (Mike Solana quote)",
+    detail:
+      "Tier 2 anchor for the Founders-Fund-affiliate quote in the Thiel-orbit section: Mike Solana told Politico that Mahan is 'the state's sole opportunity for a rational Democrat.'",
+    lane: "Editor",
+    url: "https://www.politico.com/news/2026/01/29/can-silicon-valley-make-a-governor-matt-mahan-is-betting-yes-00756444",
+  },
+  {
+    id: "mahan-sfchronicle-thiel-orbit",
+    beat: "mahan",
+    label: "URL pass: SF Chronicle Mar 19 2026 (Thiel-orbit + Moritz dual-role)",
+    detail:
+      "Tier 2 anchor for TWO claims: (1) cross-hedge section's Moritz / SF Standard dual-role observation; (2) Thiel-orbit section's 'donors in the Palantir / Thiel-linked Silicon Valley network' framing. Most editorially load-bearing single press source on the page.",
+    lane: "Editor",
+    url: "https://www.sfchronicle.com/politics/article/matt-mahan-governor-california-billionaire-22080461.php",
+  },
+]
+
 const THREE_BECERRAS_SEEDS: VerificationSeed[] = [
   {
     id: "becerra-kqed-url",
@@ -672,8 +819,8 @@ const BEATS_UPCOMING: BeatRecord[] = [
     donorListFile: "donors-mahan-2026.html",
     donorListUrl: "http://localhost:8096/donors-mahan-2026",
     dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/mahan.md",
-    status: "published",
-    verificationSeeds: [],
+    status: "active",
+    verificationSeeds: MAHAN_SEEDS,
     perplexityRounds: [
       { name: "Mahan dossier (Cal-Access primary extraction)", status: "applied (dossier mahan.md)", date: "2026-05-01" },
       { name: "Mahan institutional money audit (full IE PAC verification)", status: "applied (perplexity-research/2026-05-03-mahan-institutional-money-results.md)", date: "2026-05-03" },
