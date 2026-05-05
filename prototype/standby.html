@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Guerilla Prop · Standby</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --red: #e63946;
+  --cream: #f5f0eb;
+  --muted: #888;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  background: var(--black);
+  color: var(--cream);
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Dot-grid background pattern · matches the Guerilla Prop banner texture */
+body::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle at center, rgba(230, 57, 70, 0.32) 1px, transparent 1.6px);
+  background-size: 24px 24px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* The two red accent bars · top-left + bottom-right */
+.gp-bar-tl {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 240px;
+  height: 14px;
+  background: var(--red);
+  z-index: 2;
+}
+.gp-bar-br {
+  position: absolute;
+  bottom: 56px;
+  right: 0;
+  width: 240px;
+  height: 14px;
+  background: var(--red);
+  z-index: 2;
+}
+
+/* Corner labels matching banner */
+.gp-corner {
+  position: absolute;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--red);
+  z-index: 3;
+}
+.gp-corner.tl { top: 24px; left: 56px; border: 1px solid var(--red); padding: 6px 12px; }
+.gp-corner.br { bottom: 24px; right: 56px; color: var(--cream); border: 1px solid #444; padding: 6px 12px; }
+
+/* Center stack · brand + state + tagline + URL */
+.gp-stage {
+  position: relative;
+  z-index: 4;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 80px;
+  text-align: center;
+}
+
+.gp-state-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 32px;
+  padding: 10px 24px;
+  border: 2px solid var(--red);
+  display: inline-block;
+}
+
+.gp-state {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 132px;
+  line-height: 0.95;
+  letter-spacing: -5px;
+  color: var(--cream);
+  margin-bottom: 64px;
+  max-width: 1500px;
+}
+.gp-state .h-red { color: var(--red); }
+.gp-state em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--red);
+  letter-spacing: -3px;
+}
+
+.gp-brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 1.0;
+  letter-spacing: -3px;
+  color: var(--cream);
+  margin-bottom: 36px;
+}
+.gp-brand em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: var(--red);
+  letter-spacing: -2px;
+}
+
+.gp-tagline {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 28px;
+  line-height: 1.4;
+  color: var(--cream);
+  letter-spacing: -0.3px;
+  max-width: 1100px;
+  margin: 0 auto 36px;
+}
+.gp-tagline .h-red {
+  background: var(--red);
+  color: var(--cream);
+  padding: 2px 12px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: 0;
+  display: inline-block;
+  vertical-align: 4px;
+  margin: 0 4px;
+}
+
+.gp-url {
+  font-family: 'Space Mono', monospace;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: var(--cream);
+  margin-top: 18px;
+}
+.gp-url a {
+  color: var(--red);
+  text-decoration: none;
+  border-bottom: 2px solid var(--red);
+  padding-bottom: 2px;
+}
+
+/* Pulse animation on the state-tag · subtle "live" indicator */
+@keyframes gp-pulse {
+  0%, 100% { opacity: 0.55; }
+  50% { opacity: 1; }
+}
+.gp-pulse-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background: var(--red);
+  border-radius: 50%;
+  margin-right: 10px;
+  animation: gp-pulse 1.4s ease-in-out infinite;
+  vertical-align: 2px;
+}
+</style>
+</head>
+<body>
+
+<div class="gp-corner tl">GP · EST. 2026</div>
+<div class="gp-corner br">PUBLISHER OF THE DONOR MAP</div>
+
+<div class="gp-bar-tl"></div>
+<div class="gp-bar-br"></div>
+
+<div class="gp-stage">
+
+  <div class="gp-brand">GUERILLA <em>Prop.</em></div>
+
+  <div class="gp-state-tag" id="gp-state-tag">
+    <span class="gp-pulse-dot"></span><span id="gp-state-tag-text">Stream begins shortly</span>
+  </div>
+
+  <div class="gp-state" id="gp-state-msg">
+    Starting <em>soon</em>.
+  </div>
+
+  <div class="gp-tagline">
+    I <span class="h-red">name</span> the donors. I <span class="h-red">map</span> the money. I <span class="h-red">publish</span> what they spent it to bury.
+  </div>
+
+  <div class="gp-url">
+    <a href="https://thedonormap.org">thedonormap.org</a>
+  </div>
+
+</div>
+
+<script>
+// State message via URL param so David can switch states without editing HTML.
+// Usage:
+//   /standby                                → "Starting soon."
+//   /standby?msg=back                       → "Back in <em>five</em>."
+//   /standby?msg=thanks                     → "Thanks for <em>watching</em>."
+//   /standby?msg=debate                     → "Debate night <em>watchalong</em>."
+//   /standby?msg=technical                  → "Technical <em>difficulties</em>."
+//   /standby?msg=custom&line=Whatever you want here
+const params = new URLSearchParams(window.location.search);
+const preset = (params.get('msg') || 'starting').toLowerCase();
+const customLine = params.get('line');
+const tagText = params.get('tag');
+
+const STATES = {
+  starting: { msg: 'Starting <em>soon</em>.',                tag: 'Stream begins shortly' },
+  debate:   { msg: 'Debate night <em>watchalong</em>.',      tag: 'CA Gov 2026 · Live tonight' },
+  back:     { msg: 'Back in <em>five</em>.',                 tag: 'Stream resumes shortly' },
+  break:    { msg: 'Brief <em>break</em>.',                  tag: 'Back in a moment' },
+  thanks:   { msg: 'Thanks for <em>watching</em>.',          tag: 'Stream is over' },
+  technical:{ msg: 'Technical <em>difficulties</em>.',       tag: 'Working on it' },
+  custom:   { msg: customLine || 'Stand by.',                tag: tagText || 'Stand by' }
+};
+
+const state = STATES[preset] || STATES.starting;
+document.getElementById('gp-state-msg').innerHTML = state.msg;
+document.getElementById('gp-state-tag-text').textContent = state.tag;
+</script>
+
+</body>
+</html>
