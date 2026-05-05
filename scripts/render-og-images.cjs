@@ -167,10 +167,10 @@ const CARDS = [
   {
     slug: 'carace26-map',
     out: path.join(SHARE_DIR, 'carace26-map.png'),
-    headline: 'Eight candidates. 55 donors. 8 hedge bets.',
-    deck: 'The whole 2026 California governor money map. Same donor, both parties, five times. Interactive at thedonormap.org.',
-    accent: '#fbbf24',
-    headlineSize: 64,
+    headline: 'Six candidates have $0 against them. One has $30 million.',
+    deck: 'California governor 2026. We mapped every named donor across all eight candidates and audited the attack money. The result is one of the cleanest data points on the page.',
+    accent: '#e63946',
+    headlineSize: 56,
     headlineFont: 'Inter-Black',
   },
 ];
