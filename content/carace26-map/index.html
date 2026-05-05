@@ -333,7 +333,131 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
       </div>
 
       <div class="rm-static-fallback">
-    <svg viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; max-height: 760px; display: block; margin: 0 auto;" aria-label="Network diagram of the 2026 California governor race showing seven candidates around a central cluster of cross-cutting donors. Lines connect donors to the candidates they have funded.">
+
+    <!-- ─── Mobile-optimized fallback · 2026-05-04 ─────────────────────────
+         The desktop D3 force graph is unusable on phones (60 nodes hairball
+         on a 360px screen + hover doesn't translate to touch). Mobile and
+         no-JS readers get this purpose-built fallback instead, matching the
+         homepage hero asymmetry visual + a scannable cross-hedges list +
+         compact industry legend. Editorial point lands without the network.
+         Desktop readers (>= 900px) never see this; they get the D3 layer.
+         ──────────────────────────────────────────────────────────────────── -->
+
+    <!-- §6-reveal asymmetry bar chart · the spine of the mobile experience -->
+    <svg viewBox="0 0 360 280" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: auto; max-height: 480px; display: block; margin: 0 auto 24px; background: #0a0a0a;" aria-label="Anti-IE asymmetry bar chart for the 2026 California governor race. Six candidates have $0 in voter-facing outside-spending money against them. Tom Steyer alone has $30 million-plus from PG&amp;E, Cal Chamber JOBSPAC, Cal Realtors, Building Industry, prison guards, and IBEW Local 1245. Matt Mahan has $61,000 in research-only spending from a public-sector-labor coalition.">
+      <text x="180" y="20" text-anchor="middle" font-family="Space Mono, monospace" font-size="9" font-weight="700" fill="#666" letter-spacing="2">VOTER-FACING ANTI-IE MONEY · 2026 CA GOV</text>
+      <text x="14" y="40" font-family="Space Mono, monospace" font-size="8" font-weight="700" fill="#fbbf24">$30M</text>
+      <text x="14" y="208" font-family="Space Mono, monospace" font-size="8" font-weight="700" fill="#666">$0</text>
+      <line x1="44" y1="208" x2="346" y2="208" stroke="#fff" stroke-width="1"/>
+
+      <line x1="56" y1="206" x2="78" y2="206" stroke="#666" stroke-width="2"/>
+      <text x="67" y="222" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#aaa">HILTON</text>
+      <text x="67" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#666">$0</text>
+
+      <line x1="88" y1="206" x2="110" y2="206" stroke="#666" stroke-width="2"/>
+      <text x="99" y="222" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#aaa">BIANCO</text>
+      <text x="99" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#666">$0</text>
+
+      <line x1="120" y1="206" x2="142" y2="206" stroke="#666" stroke-width="2"/>
+      <text x="131" y="222" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#aaa">BECERRA</text>
+      <text x="131" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#666">$0</text>
+
+      <rect x="152" y="44" width="22" height="164" fill="#e63946" stroke="#fbbf24" stroke-width="1.5"/>
+      <text x="163" y="38" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" font-weight="900" fill="#fbbf24">$30M+</text>
+      <text x="163" y="222" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" font-weight="900" fill="#fbbf24">STEYER</text>
+      <text x="163" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#e63946">UNIQUE TARGET</text>
+
+      <line x1="184" y1="206" x2="206" y2="206" stroke="#666" stroke-width="2"/>
+      <text x="195" y="222" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#aaa">PORTER</text>
+      <text x="195" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#666">$0</text>
+
+      <rect x="216" y="201" width="22" height="7" fill="#fbbf24" stroke="#fff" stroke-width="0.8"/>
+      <text x="227" y="222" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#aaa">MAHAN</text>
+      <text x="227" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="6.5" fill="#fbbf24">$61K research</text>
+
+      <line x1="248" y1="206" x2="270" y2="206" stroke="#666" stroke-width="2"/>
+      <text x="259" y="222" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#aaa">VILLARAIGOSA</text>
+      <text x="259" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#666">$0</text>
+
+      <line x1="280" y1="206" x2="302" y2="206" stroke="#666" stroke-width="2"/>
+      <text x="291" y="222" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" font-weight="700" fill="#aaa">THURMOND</text>
+      <text x="291" y="232" text-anchor="middle" font-family="Space Mono, monospace" font-size="7" fill="#666">$0</text>
+
+      <rect x="312" y="48" width="38" height="58" fill="#1a1a1a" stroke="#fbbf24" stroke-width="1"/>
+      <text x="331" y="60" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fbbf24" letter-spacing="0.6">ANTI-STEYER</text>
+      <text x="331" y="68" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" font-weight="700" fill="#fbbf24" letter-spacing="0.6">FUNDED BY</text>
+      <text x="331" y="79" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" fill="#fff">PG&amp;E</text>
+      <text x="331" y="87" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" fill="#fff">CHAMBER</text>
+      <text x="331" y="95" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" fill="#fff">REALTORS</text>
+      <text x="331" y="103" text-anchor="middle" font-family="Space Mono, monospace" font-size="6" fill="#fff">BIA · IBEW · CCPOA</text>
+
+      <text x="180" y="258" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="11" fill="#fbbf24">Six candidates have $0 against them.</text>
+      <text x="180" y="272" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="11" fill="#fbbf24">One has thirty million.</text>
+    </svg>
+
+    <!-- Cross-hedges scannable list · the cross-cutting pattern at a glance -->
+    <div class="rm-mobile-hedges" style="margin: 0 auto 20px; max-width: 760px; padding: 18px 16px; background: rgba(245,240,235,0.08); border: 1px solid #444;">
+      <div style="font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--yellow); margin-bottom: 12px; text-align: center;">15 hedge bets · 6 cross-party · same donor, multiple candidates</div>
+
+      <div style="font-family: 'Inter', sans-serif; font-size: 13px; line-height: 1.55; color: var(--cream); display: grid; grid-template-columns: 1fr; gap: 10px;">
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; padding-bottom: 10px; border-bottom: 1px solid #333;">
+          <div><strong style="color: #fbbf24;">Sergey Brin</strong> <span style="color: #aaa;">(Google)</span> · <span style="color: #fca5a5;">Hilton (R)</span> + <span style="color: #93c5fd;">Mahan (D)</span></div>
+          <div style="font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow);">$1.04M</div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; padding-bottom: 10px; border-bottom: 1px solid #333;">
+          <div><strong style="color: #fbbf24;">PORAC PAC</strong> <span style="color: #aaa;">(police)</span> · <span style="color: #fca5a5;">Bianco (R)</span> + <span style="color: #93c5fd;">Villaraigosa (D)</span></div>
+          <div style="font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow);">$117K</div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; padding-bottom: 10px; border-bottom: 1px solid #333;">
+          <div><strong style="color: #fbbf24;">Highland Fairview</strong> <span style="color: #aaa;">(developer)</span> · <span style="color: #fca5a5;">Bianco (R)</span> + <span style="color: #93c5fd;">Villaraigosa (D)</span></div>
+          <div style="font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow);">$112K</div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; padding-bottom: 10px; border-bottom: 1px solid #333;">
+          <div><strong style="color: #fbbf24;">Pechanga Band</strong> <span style="color: #aaa;">(tribal · 3-way)</span> · <span style="color: #fca5a5;">Bianco (R)</span> + <span style="color: #93c5fd;">Becerra + Porter (D)</span></div>
+          <div style="font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow);">$94.6K</div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; padding-bottom: 10px; border-bottom: 1px solid #333;">
+          <div><strong style="color: #fbbf24;">Joe Lonsdale</strong> <span style="color: #aaa;">(Palantir)</span> · <span style="color: #fca5a5;">Hilton (R)</span> + <span style="color: #93c5fd;">Mahan (D)</span></div>
+          <div style="font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow);">$103K</div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; padding-bottom: 10px; border-bottom: 1px solid #333;">
+          <div><strong style="color: #fbbf24;">Christian Larsen</strong> <span style="color: #aaa;">(Ripple)</span> · <span style="color: #fca5a5;">Hilton (R)</span> + <span style="color: #93c5fd;">Porter (D)</span></div>
+          <div style="font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow);">$78K</div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr auto; gap: 8px; color: #aaa; font-size: 12px;">
+          <div><em>+ 9 more cross-Dem hedges (Caruso, Resnick, McNicholas, Rappaport, Pyle, Santa Ynez, Sycuan, Chevron, Habematolel)</em></div>
+          <div style="font-family: 'Space Mono', monospace; font-weight: 700; color: var(--yellow);">+ ~$900K</div>
+        </div>
+      </div>
+
+      <div style="margin-top: 14px; padding-top: 12px; border-top: 1px solid #444; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1px; color: #888; text-transform: uppercase; text-align: center;">
+        Six donors. Both parties. Same race.
+      </div>
+    </div>
+
+    <!-- Compact industry legend · matches desktop legend-overlay -->
+    <div style="margin: 0 auto 20px; max-width: 760px; padding: 14px 16px; background: rgba(0,0,0,0.4); border: 1px solid #333; display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px 14px; font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1px; color: #aaa; text-transform: uppercase;">
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #fbbf24; display: inline-block;"></span>Tech VC</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #f97316; display: inline-block;"></span>Crypto</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #0891b2; display: inline-block;"></span>Healthcare</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #7e22ce; display: inline-block;"></span>Plaintiffs</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #be185d; display: inline-block;"></span>Labor</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #7c2d12; display: inline-block;"></span>Oil</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #16a34a; display: inline-block;"></span>Real estate</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #1e3a8a; display: inline-block;"></span>Police</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #92400e; display: inline-block;"></span>Tribal</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #dc2626; display: inline-block;"></span>Anti-candidate</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #737373; display: inline-block; border: 1px dashed #999;"></span>Cluster</span>
+      <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 10px; height: 10px; background: #475569; display: inline-block;"></span>Dark money</span>
+    </div>
+
+    <!-- Best-on-desktop prompt -->
+    <div style="text-align: center; padding: 12px; font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1.2px; color: #888; text-transform: uppercase;">
+      Best on desktop · the full interactive map with hover · click · drag is built for wider screens
+    </div>
+
+    <!-- Hidden static-network legend kept for accessibility · screen-reader friendly description above -->
+    <svg viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" style="display: none;" aria-hidden="true">
       <defs>
         <marker id="rm-dot-r" markerWidth="6" markerHeight="6" refX="3" refY="3"><circle cx="3" cy="3" r="2.5" fill="#dc2626"/></marker>
         <marker id="rm-dot-d" markerWidth="6" markerHeight="6" refX="3" refY="3"><circle cx="3" cy="3" r="2.5" fill="#2563eb"/></marker>
