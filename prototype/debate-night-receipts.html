@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Debate Night Receipts · 2026 CA Gov · Donor Map</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+  --green: #16a34a;
+}
+
+html, body { background: var(--cream); color: var(--ink); font-family: 'Inter', sans-serif; line-height: 1.5; -webkit-font-smoothing: antialiased; }
+
+/* Sticky top nav for fast section jumping while live */
+.deb-nav { position: sticky; top: 0; z-index: 100; background: var(--black); color: var(--cream); padding: 14px 24px; display: flex; gap: 18px; align-items: center; flex-wrap: wrap; border-bottom: 4px solid var(--yellow); }
+.deb-nav .deb-brand { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 18px; letter-spacing: -0.5px; margin-right: 18px; }
+.deb-nav .deb-brand em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: var(--yellow); }
+.deb-nav a { font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--cream); text-decoration: none; padding: 6px 12px; border: 1px solid #444; }
+.deb-nav a:hover, .deb-nav a:focus { background: var(--yellow); color: var(--black); border-color: var(--yellow); }
+
+/* Each section fills the viewport height — when the streamer scrolls, one card fills the visible area on the OBS browser source. */
+.deb-card { min-height: calc(100vh - 60px); padding: 56px 64px; display: flex; flex-direction: column; justify-content: center; border-bottom: 4px solid var(--black); }
+
+.deb-tag { font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; color: var(--muted); margin-bottom: 18px; }
+.deb-card h1 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 84px; line-height: 1.0; letter-spacing: -3px; margin-bottom: 28px; }
+.deb-card h2 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 56px; line-height: 1.05; letter-spacing: -2px; margin-bottom: 24px; }
+.deb-card h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 28px; line-height: 1.15; letter-spacing: -0.5px; margin-bottom: 16px; }
+.deb-card .deb-deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 28px; line-height: 1.35; color: var(--ink); margin-bottom: 28px; max-width: 880px; border-left: 4px solid var(--black); padding-left: 22px; }
+.deb-card .h-yellow { background: var(--yellow); padding: 0 10px; }
+.deb-card .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.deb-card .h-blue { background: var(--blue); color: #fff; padding: 0 10px; }
+
+.deb-receipts { display: grid; grid-template-columns: 1fr; gap: 0; border-top: 3px solid var(--black); border-bottom: 3px solid var(--black); margin-bottom: 24px; max-width: 1100px; }
+.deb-receipt-row { display: grid; grid-template-columns: 1fr auto; gap: 14px; padding: 14px 0; border-bottom: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 18px; line-height: 1.4; align-items: baseline; }
+.deb-receipt-row:last-child { border-bottom: none; }
+.deb-receipt-row .deb-amt { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; }
+.deb-receipt-row .deb-amt.red { color: var(--red); }
+.deb-receipt-row .deb-amt.yellow { background: var(--yellow); padding: 2px 8px; }
+
+.deb-line { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 22px; line-height: 1.4; color: var(--ink); padding: 18px 24px; background: var(--paper); border-left: 6px solid var(--red); margin-top: 14px; max-width: 980px; }
+.deb-line strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; }
+
+.deb-zinger { display: block; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 22px; line-height: 1.4; padding: 14px 18px; margin-bottom: 12px; background: var(--cream); border: 2px solid var(--black); border-left: 6px solid var(--yellow); max-width: 1000px; }
+
+.deb-source { font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 1.2px; color: var(--muted); margin-top: 18px; text-transform: uppercase; }
+
+/* Color tones for individual candidate sections */
+.deb-card.bg-becerra { background: #fef9f0; }
+.deb-card.bg-steyer { background: #fff5f5; border-left: 8px solid var(--red); }
+.deb-card.bg-mahan { background: #fffceb; }
+.deb-card.bg-hilton { background: #fff8f0; }
+.deb-card.bg-villaraigosa { background: #f5f5ff; }
+.deb-card.bg-cross { background: var(--paper); }
+.deb-card.bg-zingers { background: var(--black); color: var(--cream); }
+.deb-card.bg-zingers h1, .deb-card.bg-zingers h2, .deb-card.bg-zingers h3 { color: var(--cream); }
+.deb-card.bg-zingers .deb-zinger { background: #1a1a1a; border-color: var(--yellow); color: var(--cream); }
+.deb-card.bg-zingers .deb-deck { color: #d4cfc7; border-color: var(--yellow); }
+.deb-card.bg-zingers .deb-tag { color: var(--yellow); }
+.deb-card.bg-hero { background: var(--black); color: var(--cream); }
+.deb-card.bg-hero h1, .deb-card.bg-hero .deb-tag { color: var(--cream); }
+.deb-card.bg-hero .h-yellow { color: var(--black); }
+.deb-card.bg-hero .deb-deck { color: #d4cfc7; border-color: var(--yellow); }
+.deb-card.bg-hero .deb-receipt-row { color: var(--cream); border-color: #444; }
+.deb-card.bg-hero .deb-receipt-row .deb-amt { color: var(--cream); }
+
+footer { padding: 24px 64px; background: var(--black); color: var(--cream); font-family: 'Space Mono', monospace; font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; text-align: center; border-top: 4px solid var(--yellow); }
+footer a { color: var(--yellow); text-decoration: none; border-bottom: 1px dotted var(--yellow); }
+
+@media (max-width: 800px) {
+  .deb-card { padding: 32px 20px; min-height: auto; }
+  .deb-card h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .deb-card h2 { font-size: 36px; letter-spacing: -1px; }
+  .deb-card .deb-deck { font-size: 20px; }
+  .deb-zinger { font-size: 18px; }
+}
+</style>
+</head>
+<body>
+
+<nav class="deb-nav">
+  <div class="deb-brand">DONOR <em>Map</em> · Debate Night Receipts</div>
+  <a href="#hero">HERO</a>
+  <a href="#becerra">BECERRA</a>
+  <a href="#steyer">STEYER</a>
+  <a href="#mahan">MAHAN</a>
+  <a href="#hilton">HILTON</a>
+  <a href="#villaraigosa">VILLARAIGOSA</a>
+  <a href="#hedges">CROSS-HEDGES</a>
+  <a href="#zingers">ZINGERS</a>
+</nav>
+
+<!-- ─── HERO · the spine you keep returning to ─── -->
+<section id="hero" class="deb-card bg-hero">
+  <div class="deb-tag">§ The Spine · open with this · close with this</div>
+  <h1>Six candidates have <span class="h-yellow">$0</span> against them.</h1>
+  <h1 style="color: var(--red);">One has $30 million.</h1>
+  <p class="deb-deck" style="margin-top: 24px;">Eight people are running for California governor in 2026. We mapped every named donor across all of them. Sixty-five donors. Fifteen hedge bets. Six cross the R/D line. Then we audited the attack money. The result is the cleanest data point in the race.</p>
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span>Steve Hilton (R)</span><span class="deb-amt">$0 against</span></div>
+    <div class="deb-receipt-row"><span>Chad Bianco (R)</span><span class="deb-amt">$0 against</span></div>
+    <div class="deb-receipt-row"><span>Xavier Becerra (D)</span><span class="deb-amt">$0 against</span></div>
+    <div class="deb-receipt-row"><span style="color: var(--yellow); font-weight: 900;">Tom Steyer (D)</span><span class="deb-amt red">$30,050,000</span></div>
+    <div class="deb-receipt-row"><span>Katie Porter (D)</span><span class="deb-amt">$0 against</span></div>
+    <div class="deb-receipt-row"><span>Matt Mahan (D)</span><span class="deb-amt">$61K research-only</span></div>
+    <div class="deb-receipt-row"><span>Antonio Villaraigosa (D)</span><span class="deb-amt">$0 against</span></div>
+    <div class="deb-receipt-row"><span>Tony Thurmond (D)</span><span class="deb-amt">$0 against</span></div>
+  </div>
+  <p class="deb-line">When the same donors fund both sides, those donors do not need either side to win. <strong>When the same donors attack only one side, those donors need that one side to lose.</strong></p>
+  <p class="deb-source">FPPC committees 1490270 + 1489677 · Cal-Access verified · thedonormap.org/carace26-map</p>
+</section>
+
+<!-- ─── BECERRA · single-payer contradiction ─── -->
+<section id="becerra" class="deb-card bg-becerra">
+  <div class="deb-tag">§ Becerra · the three audiences</div>
+  <h2>The "Medicare for All" candidate is funded by the industry his platform would dismantle.</h2>
+  <p class="deb-deck">KQED literally wrote about it four days ago. The press already framed it as a backpedal. Becerra cosponsored single-payer seven times in Congress and went silent on it for the last years he was in office. In 2026 he gave three different answers in six weeks.</p>
+
+  <h3>Three audiences. Three answers. Six weeks.</h3>
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span><strong>Public · campaign social, March 23 2026:</strong> "I'm ready to go further as Governor and deliver single-payer health care for our state."</span><span></span></div>
+    <div class="deb-receipt-row"><span><strong>LAist interview, April 2026:</strong> "I don't think the federal government's gonna help us get to single payer."</span><span></span></div>
+    <div class="deb-receipt-row"><span><strong>Doctors lobby (KQED on the closed-door CMA meeting, May 1 2026):</strong> "He said very clearly that, at this point, he wasn't supportive of single payer."</span><span></span></div>
+  </div>
+
+  <h3 style="margin-top: 32px;">The healthcare-industry receipts.</h3>
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span>Leonard Schaeffer · Founder of WellPoint (Anthem)</span><span class="deb-amt">$39,200</span></div>
+    <div class="deb-receipt-row"><span>AltaMed Health Network · largest CA FQHC</span><span class="deb-amt">$39,200</span></div>
+    <div class="deb-receipt-row"><span>Prime Healthcare · active HHS-OIG agreement</span><span class="deb-amt">$20,000</span></div>
+    <div class="deb-receipt-row"><span>Cantu / DHR Health network</span><span class="deb-amt">$47,300</span></div>
+    <div class="deb-receipt-row"><span>Chevron USA Inc.</span><span class="deb-amt">$39,200</span></div>
+    <div class="deb-receipt-row"><span>LIUNA Pacific Southwest → Working Families IE PAC</span><span class="deb-amt yellow">$2,000,000</span></div>
+    <div class="deb-receipt-row"><span>CPCA Advocates → same IE PAC</span><span class="deb-amt yellow">$115,200</span></div>
+  </div>
+
+  <p class="deb-line">When Becerra invokes Medicare for All tonight, the doctors' lobby has already heard a different answer than the cameras did. <strong>The donors fund the answer he gave behind the closed door, not the one on the campaign poster.</strong></p>
+  <p class="deb-source">KQED May 1 · Cal-Access RCPT_CD · thedonormap.org/three-becerras</p>
+</section>
+
+<!-- ─── STEYER · the unique target ─── -->
+<section id="steyer" class="deb-card bg-steyer">
+  <div class="deb-tag">§ Steyer · the unique target</div>
+  <h2>The regulated donor coalition has made him <span class="h-red">the candidate to bury</span>.</h2>
+  <p class="deb-deck">Steyer is the only billionaire in the race who built his pre-political brand on holding utilities accountable for climate disasters. The donor class has organized the largest single opposition campaign of the 2026 race against him.</p>
+
+  <h3>The anti-Steyer coalition · two coordinated FPPC committees · 1490270 + 1489677</h3>
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span>PG&amp;E Corporation · pleaded guilty to 84 counts of involuntary manslaughter for the Camp Fire</span><span class="deb-amt red">$9,975,000</span></div>
+    <div class="deb-receipt-row"><span>JOBSPAC · sponsored by California Chamber of Commerce</span><span class="deb-amt red">$5,000,000</span></div>
+    <div class="deb-receipt-row"><span>California Real Estate IE Committee · CA Association of Realtors</span><span class="deb-amt red">$5,000,000</span></div>
+    <div class="deb-receipt-row"><span>California Building Industry Association PAC</span><span class="deb-amt red">$1,000,000</span></div>
+    <div class="deb-receipt-row"><span>IBEW Local 1245 · PG&amp;E's own utility-workers union</span><span class="deb-amt red">$75,000</span></div>
+    <div class="deb-receipt-row"><span>CCPOA PAC · California prison guards</span><span class="deb-amt red">$25,000</span></div>
+    <div class="deb-receipt-row"><span><strong>VERIFIED TOTAL</strong></span><span class="deb-amt red"><strong>$30,050,000</strong></span></div>
+  </div>
+
+  <p class="deb-line">"Businesses going after Steyer" isn't generic. <strong>It's six specific entities, each with regulatory exposure to a state government that no longer takes their money. Steyer pledged not to take their money. They're spending $30M to ensure the next governor will.</strong></p>
+  <p class="deb-source">Cal-Access F496/F460 verified through 2026-04-28 · thedonormap.org/class-traitor</p>
+</section>
+
+<!-- ─── MAHAN · $0 candidate vs $43M IE PAC ─── -->
+<section id="mahan" class="deb-card bg-mahan">
+  <div class="deb-tag">§ Mahan · the firewall</div>
+  <h2><span class="h-red">$0</span> from voters. <span class="h-yellow">$43,000,000</span> from Sand Hill Road.</h2>
+  <p class="deb-deck">Mahan has not raised a dollar in his own candidate-controlled committee for the 2026 California governor's race. Every cent on his side flows through Back to Basics California, an Independent Expenditure PAC he is legally barred from coordinating with.</p>
+
+  <h3>Top 5 contributors to Back to Basics California IE PAC</h3>
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span>Michael Moritz · Sequoia Capital chairman</span><span class="deb-amt yellow">$2,000,000</span></div>
+    <div class="deb-receipt-row"><span>Michael Seibel · Y Combinator partner</span><span class="deb-amt yellow">$1,000,000</span></div>
+    <div class="deb-receipt-row"><span>Ashley Merrill · Lunya / Merrill household</span><span class="deb-amt yellow">$1,000,000</span></div>
+    <div class="deb-receipt-row"><span>Patrick Collison · Stripe CEO</span><span class="deb-amt yellow">$990,000</span></div>
+    <div class="deb-receipt-row"><span>Brian Armstrong · Coinbase CEO</span><span class="deb-amt yellow">$500,000</span></div>
+  </div>
+
+  <p class="deb-line"><strong>61 people wrote almost all of it.</strong> The Coinbase Fairshake PAC spent $10M against Katie Porter at the federal level in 2024. Same crypto-industry money is now backing Mahan against Porter at the state level.</p>
+  <p class="deb-source">Cal-Access EXPN_CD · FPPC IE PAC verified · thedonormap.org/mahan</p>
+</section>
+
+<!-- ─── HILTON · AI conflict ─── -->
+<section id="hilton" class="deb-card bg-hilton">
+  <div class="deb-tag">§ Hilton · the AI conflict</div>
+  <h2>Steve Hilton wants to <span class="h-yellow">regulate AI</span>. He owns <span class="h-red">stock in an AI company</span>.</h2>
+  <p class="deb-deck">It's on his own sworn financial disclosure. His wife heads communications at the same AI company. Sierra Technologies is now valued at $10 billion. He is running to govern the state that regulates AI.</p>
+
+  <h3>Form 700 · candidate filing · March 6, 2026 · signed under penalty of perjury</h3>
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span><strong>Schedule A-1</strong> · Stephen G. Hilton · Sierra Technologies, Inc. · personal stock</span><span class="deb-amt yellow">FMV Over $1,000,000</span></div>
+    <div class="deb-receipt-row"><span><strong>Schedule C</strong> · Rachel Whetstone (spouse) · Sierra Technologies, Inc. · head of communications</span><span class="deb-amt yellow">Income Over $100,000</span></div>
+    <div class="deb-receipt-row"><span><strong>Schedule C</strong> · Stephen G. Hilton · Fox News Network LLC · commentator income</span><span class="deb-amt">Income $10,001-$100,000</span></div>
+  </div>
+
+  <p class="deb-line"><strong>Two of three sworn lines on his own filing point at the same AI company.</strong> When Hilton talks AI policy tonight, he's talking about regulating his household's principal investment.</p>
+  <p class="deb-source">FPPC Form 700 candidate filing · TechCrunch Sierra valuation · thedonormap.org/hilton</p>
+</section>
+
+<!-- ─── VILLARAIGOSA · the broken pledge ─── -->
+<section id="villaraigosa" class="deb-card bg-villaraigosa">
+  <div class="deb-tag">§ Villaraigosa · the broken pledge</div>
+  <h2>2018 pledge: <em>"I will not take fossil-fuel money."</em></h2>
+  <h2 style="color: var(--red);">2026: principal Democratic recipient of fossil-fuel money in the gubernatorial race.</h2>
+
+  <h3>The oil money trail · Cal-Access verified</h3>
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span>Chevron USA</span><span class="deb-amt">$78,400</span></div>
+    <div class="deb-receipt-row"><span>Marathon Petroleum</span><span class="deb-amt">$78,400</span></div>
+    <div class="deb-receipt-row"><span>Berry Corporation</span><span class="deb-amt">$78,400</span></div>
+    <div class="deb-receipt-row"><span>California Resources Corporation · CA's largest in-state oil producer</span><span class="deb-amt">$72,800</span></div>
+    <div class="deb-receipt-row"><span><strong>OIL-INDUSTRY TOTAL</strong></span><span class="deb-amt red"><strong>$307,800</strong></span></div>
+  </div>
+
+  <p class="deb-line">The other Democratic candidates have stayed off oil-industry checks (Becerra accepted one Chevron max, the rest declined). <strong>The fossil-fuel sector wants the candidate who broke a public no-oil pledge to set the precedent that the pledge was breakable. The next pledge costs less.</strong></p>
+  <p class="deb-source">Cal-Access RCPT_CD · 2018 pledge on the public record · thedonormap.org/carace26-map</p>
+</section>
+
+<!-- ─── CROSS-HEDGES · same donor, both parties ─── -->
+<section id="hedges" class="deb-card bg-cross">
+  <div class="deb-tag">§ Cross-party hedges · same donor, both parties</div>
+  <h2>Six donors paid both a Republican <em>and</em> a Democrat in this same race.</h2>
+  <p class="deb-deck">Most named donors pick a candidate and stop. The list below picked more than one. Some are same-party hedges, some are cross-party hedges. The pattern signals what the money actually wants — an outcome that's neutral on partisan label, specific on policy.</p>
+
+  <div class="deb-receipts">
+    <div class="deb-receipt-row"><span><strong>Sergey Brin</strong> · Google co-founder · <span style="color: var(--red);">Hilton (R)</span> + <span style="color: var(--blue);">Mahan (D)</span></span><span class="deb-amt yellow">$1,040,000</span></div>
+    <div class="deb-receipt-row"><span><strong>PORAC PAC</strong> · CA peace officers · <span style="color: var(--red);">Bianco (R)</span> + <span style="color: var(--blue);">Villaraigosa (D)</span></span><span class="deb-amt yellow">$117,600</span></div>
+    <div class="deb-receipt-row"><span><strong>Highland Fairview</strong> · Riverside developer · <span style="color: var(--red);">Bianco (R)</span> + <span style="color: var(--blue);">Villaraigosa (D)</span></span><span class="deb-amt yellow">$112,000</span></div>
+    <div class="deb-receipt-row"><span><strong>Pechanga Band</strong> · tribal · <span style="color: var(--red);">Bianco (R)</span> + <span style="color: var(--blue);">Becerra + Porter (D)</span> · 3-way</span><span class="deb-amt yellow">$94,600</span></div>
+    <div class="deb-receipt-row"><span><strong>Joe Lonsdale</strong> · Palantir · <span style="color: var(--red);">Hilton (R)</span> + <span style="color: var(--blue);">Mahan (D)</span></span><span class="deb-amt yellow">$103,000</span></div>
+    <div class="deb-receipt-row"><span><strong>Christian Larsen</strong> · Ripple · <span style="color: var(--red);">Hilton (R)</span> + <span style="color: var(--blue);">Porter (D)</span></span><span class="deb-amt yellow">$78,400</span></div>
+  </div>
+
+  <p class="deb-line">When the same donor pays a Republican AND a Democrat in the same race, that donor doesn't need either side to win. <strong>They need the policy outcome.</strong></p>
+  <p class="deb-source">Cal-Access RCPT_CD · 6 cross-party hedges · 9 cross-Dem hedges · thedonormap.org/carace26-map</p>
+</section>
+
+<!-- ─── ZINGERS · clip-ready one-liners ─── -->
+<section id="zingers" class="deb-card bg-zingers">
+  <div class="deb-tag">§ Zingers · clip-ready · read directly</div>
+  <h2>Lines you can read on stream as topics come up.</h2>
+  <p class="deb-deck">Em-dash-free, AI-vernacular-free, primary-source-cited. Pick the one matching the moment. Each is built to stand alone as a clip caption.</p>
+
+  <span class="deb-zinger">"Six of the eight candidates on this stage have zero dollars in voter-facing outside money against them. Tom Steyer has thirty million. From PG&amp;E. From the Cal Chamber. From the Realtors. From the Building Industry Association. From the prison guards. The structural question to ask is why."</span>
+
+  <span class="deb-zinger">"Becerra's healthcare-industry donor list is on Cal-Access. Anthem's founder. AltaMed. Prime Healthcare under an active DOJ Corporate Integrity Agreement. Cantu's DHR network. Plus a two-million-dollar pro-Becerra IE PAC funded by Laborers Pacific Southwest and CPCA Advocates. KQED published the doctors-lobby quote four days ago. The donors fund the answer he gave behind the closed door, not the one on the campaign poster."</span>
+
+  <span class="deb-zinger">"Matt Mahan has zero dollars in his own candidate fundraising committee. The forty-three million on his side flows through an outside-spending PAC he is legally barred from coordinating with. Sequoia. Y Combinator. Stripe. Coinbase. Pritzker. Caruso. Sixty-one people wrote almost all of it. He is not running on his donors. He IS his donors."</span>
+
+  <span class="deb-zinger">"Hilton's own sworn Form 700 puts his personal stock in Sierra Technologies, an AI company at a ten billion dollar valuation. His wife heads Sierra's communications. Two of the three sworn lines on his own financial disclosure point at the same AI company. He is running to govern the state that regulates AI."</span>
+
+  <span class="deb-zinger">"Villaraigosa pledged in 2018 not to take fossil-fuel money. In 2026 he is the principal Democratic recipient of fossil-fuel money in this race. Chevron, Marathon, Berry, California Resources Corporation. Three hundred thousand dollars. The other Democrats stayed off oil-industry checks. He didn't."</span>
+
+  <span class="deb-zinger">"PORAC dual-endorsed Bianco AND Villaraigosa. The same union, the same money, both sides. Highland Fairview did the same. Pechanga did it three ways across both parties. When the same donor pays both sides, those donors don't need either side to win. They need the policy outcome."</span>
+
+  <span class="deb-zinger">"The argument is not that anyone on this stage is uniquely inconsistent. The argument is that the system produces this behavior. A candidate funded by industries with overlapping but contradictory regulatory interests cannot commit to a clear position. The receipts make ambiguity rational."</span>
+
+  <span class="deb-zinger">"When the same donors fund both sides, those donors do not need either side to win. When the same donors attack only one side, those donors need that one side to lose. Six candidates have zero against them. One has thirty million. That is what the map shows."</span>
+</section>
+
+<footer>
+  Donor Map · debate-night reference · <a href="https://thedonormap.org/carace26-map">thedonormap.org/carace26-map</a> · 2026-05-05
+</footer>
+
+</body>
+</html>
