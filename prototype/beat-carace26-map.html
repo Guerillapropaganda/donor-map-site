@@ -215,19 +215,35 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
 @media (max-width: 900px) {
   .rm-mobile-hint {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 4px;
     margin: 0 0 10px;
     padding: 10px 14px;
     background: var(--yellow);
     color: var(--black);
+    border: 2px solid var(--black);
+    text-align: center;
+  }
+  .rm-mobile-hint .rm-mobile-hint-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
     font-family: 'Space Mono', monospace;
     font-size: 11px;
     font-weight: 700;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    border: 2px solid var(--black);
+  }
+  .rm-mobile-hint .rm-mobile-hint-disclaimer {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-size: 13px;
+    line-height: 1.2;
+    color: var(--black);
+    opacity: 0.75;
   }
   .rm-mobile-hint .swipe-arrow {
     display: inline-block;
@@ -344,7 +360,10 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     <div class="sub">Hover any candidate to see who funded them. Hover any donor to see which candidates they fund. Click to lock the highlight.</div>
 
     <div class="rm-mobile-hint" aria-hidden="true">
-      <span>↔</span><span>Swipe sideways to explore</span><span class="swipe-arrow">→</span>
+      <div class="rm-mobile-hint-row">
+        <span>↔</span><span>Swipe sideways to explore</span><span class="swipe-arrow">→</span>
+      </div>
+      <div class="rm-mobile-hint-disclaimer">Best on desktop &middot; the full interactive graph is built for wider screens</div>
     </div>
     <div class="rm-graph-host">
       <div class="rm-d3-graph" id="rm-d3-graph" aria-label="Interactive force-directed graph of the 2026 California governor race showing seven candidates and their cross-cutting donors. Lines connect donors to the candidates they have funded.">
