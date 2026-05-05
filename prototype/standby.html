@@ -248,6 +248,13 @@ const STATES = {
 const state = STATES[preset] || STATES.starting;
 document.getElementById('gp-state-msg').innerHTML = state.msg;
 document.getElementById('gp-state-tag-text').textContent = state.tag;
+
+// ?minimal=1 hides the tagline and URL · brand + state pill + headline only
+if (params.get('minimal') === '1') {
+  document.querySelector('.gp-tagline').style.display = 'none';
+  document.querySelector('.gp-url').style.display = 'none';
+  document.querySelector('.gp-corner.br').style.display = 'none';
+}
 </script>
 
 </body>
