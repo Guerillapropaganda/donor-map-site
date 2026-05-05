@@ -486,11 +486,11 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
           <h4 style="margin-top:18px;">What the buttons do</h4>
           <div class="rm-ex-row"><span class="rm-ex-btn-name">All flows</span><span>Shows every donor and every line. The default view.</span></div>
           <div class="rm-ex-row"><span class="rm-ex-btn-name">Hedge bets</span><span>Narrows to the 15 donors who paid two or more candidates in this same race. The donors who are not picking sides.</span></div>
-          <div class="rm-ex-row"><span class="rm-ex-btn-name">Attacks only</span><span>Shows the two outside-spending attacks against Tom Steyer (PG&amp;E and IBEW).</span></div>
+          <div class="rm-ex-row"><span class="rm-ex-btn-name">Attacks only</span><span>Shows the seven outside-spending attacks in the field. Six are against Tom Steyer (PG&amp;E, Cal Chamber's JOBSPAC, Realtors IE, Building Industry, prison guards, IBEW). One is research-only against Mahan from a public-sector-labor coalition. See §6 below for the full asymmetry.</span></div>
           <div class="rm-ex-row"><span class="rm-ex-btn-name">Reset</span><span>Re-shakes the layout if dragging tangled it.</span></div>
 
           <h4 style="margin-top:18px;">How to use the chart</h4>
-          <p>Hover any candidate to see who funded them. Hover any donor to see which candidates they fund. Click a node to lock the highlight so you can scroll to read the tooltip. Drag any node to move it.</p>
+          <p>Hover any candidate to see who funded them — and any OTHER candidates those donors also fund light up too, so cross-hedges show from a single hover. Hover any donor to see which candidates they fund. Click a node to lock the highlight so you can scroll to read the tooltip. Drag any node to move it.</p>
         </div>
       </div>
     </div>
@@ -1518,22 +1518,45 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     nodeSel.classed('is-focused', false);
     linkSel.classed('is-focused', false);
     if (!node) { host.classList.remove('has-focus'); tip.classList.remove('visible'); return; }
-    var connectedLinks = links.filter(function (l) {
+
+    // First-degree: nodes/links directly connected to the hovered node
+    var connectedIds = {};
+    connectedIds[node.id] = true;
+    var firstDegreeLinks = [];
+    links.forEach(function (l) {
       var sId = l.source.id || l.source;
       var tId = l.target.id || l.target;
-      return sId === node.id || tId === node.id;
+      if (sId === node.id || tId === node.id) {
+        connectedIds[sId] = true;
+        connectedIds[tId] = true;
+        firstDegreeLinks.push(l);
+      }
     });
-    var connectedIds = { };
-    connectedIds[node.id] = true;
-    connectedLinks.forEach(function (l) {
-      connectedIds[l.source.id || l.source] = true;
-      connectedIds[l.target.id || l.target] = true;
-    });
+
+    // Second-degree: when hovering a CANDIDATE, expand to also light up
+    // any OTHER candidates that the focused candidate's donors also fund.
+    // Reveals shared-donor hedges from a single hover (Porter hover lights
+    // up Hilton via Larsen, Becerra via McNicholas, etc.). Donor-side hover
+    // stays single-degree to avoid hairball-on-hover.
+    var secondDegreeLinks = [];
+    if (node.type === 'candidate') {
+      var donorIds = Object.keys(connectedIds).filter(function (id) {
+        var n = nodes.find(function (n) { return n.id === id; });
+        return n && n.type === 'donor';
+      });
+      links.forEach(function (l) {
+        var sId = l.source.id || l.source;
+        var tId = l.target.id || l.target;
+        if (donorIds.indexOf(sId) !== -1 && tId !== node.id) {
+          connectedIds[tId] = true;
+          secondDegreeLinks.push(l);
+        }
+      });
+    }
+
     nodeSel.classed('is-focused', function (n) { return !!connectedIds[n.id]; });
     linkSel.classed('is-focused', function (l) {
-      var sId = l.source.id || l.source;
-      var tId = l.target.id || l.target;
-      return sId === node.id || tId === node.id;
+      return firstDegreeLinks.indexOf(l) !== -1 || secondDegreeLinks.indexOf(l) !== -1;
     });
     tip.innerHTML = buildTooltip(node);
     tip.classList.add('visible');
