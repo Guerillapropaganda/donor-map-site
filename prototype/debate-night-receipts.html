@@ -55,6 +55,22 @@ html, body { background: var(--cream); color: var(--ink); font-family: 'Inter', 
 
 .deb-zinger { display: block; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 22px; line-height: 1.4; padding: 14px 18px; margin-bottom: 12px; background: var(--cream); border: 2px solid var(--black); border-left: 6px solid var(--yellow); max-width: 1000px; }
 
+/* Rebuttal cards · scannable trigger-counter-receipt blocks */
+.deb-rebut-group { margin-bottom: 36px; }
+.deb-rebut-group .deb-rebut-cand { display: inline-block; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase; padding: 6px 14px; background: var(--black); color: var(--cream); margin-bottom: 14px; }
+.deb-rebut-group .deb-rebut-cand.r { background: var(--red); }
+.deb-rebut-group .deb-rebut-cand.d { background: var(--blue); }
+.deb-rebut-group .deb-rebut-cand.gen { background: var(--yellow); color: var(--black); }
+.deb-rebut { display: grid; grid-template-columns: 110px 1fr; gap: 14px 18px; padding: 16px 20px; margin-bottom: 14px; background: var(--cream); border: 2px solid var(--black); border-left: 6px solid var(--red); max-width: 1100px; align-items: baseline; }
+.deb-rebut-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1.8px; text-transform: uppercase; color: var(--muted); }
+.deb-rebut-label.if { color: var(--ink); }
+.deb-rebut-label.counter { color: var(--red); }
+.deb-rebut-label.receipt { color: var(--blue); }
+.deb-rebut .deb-rebut-text { font-family: 'Inter', sans-serif; font-size: 17px; line-height: 1.45; color: var(--ink); }
+.deb-rebut .deb-rebut-text.trigger { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 19px; }
+.deb-rebut .deb-rebut-text.counter { font-weight: 900; font-size: 19px; line-height: 1.35; }
+.deb-rebut .deb-rebut-text.receipt { font-family: 'Space Mono', monospace; font-size: 14px; line-height: 1.55; color: var(--muted); }
+
 .deb-source { font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 1.2px; color: var(--muted); margin-top: 18px; text-transform: uppercase; }
 
 /* Color tones for individual candidate sections */
@@ -99,6 +115,7 @@ footer a { color: var(--yellow); text-decoration: none; border-bottom: 1px dotte
   <a href="#hilton">HILTON</a>
   <a href="#villaraigosa">VILLARAIGOSA</a>
   <a href="#hedges">CROSS-HEDGES</a>
+  <a href="#rebuttals">REBUTTALS</a>
   <a href="#zingers">ZINGERS</a>
 </nav>
 
@@ -243,6 +260,189 @@ footer a { color: var(--yellow); text-decoration: none; border-bottom: 1px dotte
 
   <p class="deb-line">When the same donor pays a Republican AND a Democrat in the same race, that donor doesn't need either side to win. <strong>They need the policy outcome.</strong></p>
   <p class="deb-source">Cal-Access RCPT_CD · 6 cross-party hedges · 9 cross-Dem hedges · thedonormap.org/carace26-map</p>
+</section>
+
+<!-- ─── REBUTTALS · scannable trigger-counter-receipt cards by candidate ─── -->
+<section id="rebuttals" class="deb-card" style="background: var(--paper); min-height: auto;">
+  <div class="deb-tag">§ Rebuttals · if they say it · counter / receipt · scan and read</div>
+  <h2>When you hear a claim, scroll to the candidate · grab the counter · cite the filing.</h2>
+
+  <!-- BECERRA REBUTTALS -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand d">Xavier Becerra (D)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm the Medicare for All candidate · I cosponsored single-payer in Congress."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">He cosponsored it seven times between 1993 and 2011, then went silent on it for the last years he was in office. In 2026 he gave three different answers in six weeks, and the answer he gave behind the closed door at the doctors' lobby was "wasn't supportive of single payer."</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">KQED · May 1 2026 · closed-door CMA meeting reporting · GovInfo bill-status records · thedonormap.org/three-becerras</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'll take on big healthcare as governor."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">His top donors ARE big healthcare. Anthem's founder Leonard Schaeffer maxed out two months after Becerra left HHS. AltaMed maxed out. Prime Healthcare under an active DOJ Corporate Integrity Agreement gave $20K. Plus a brand-new $2 million pro-Becerra IE PAC funded by Laborers Pacific Southwest and CPCA Advocates.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">FPPC committee 1480025 (direct) + 1490885 (Working Families IE PAC, F496 filed 2026-05-01) · Cal-Access RCPT_CD verified</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"As Attorney General I took on Big Oil · I sued the fossil-fuel industry."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">In June 2025 he took $39,200 from Chevron USA. The legal max. Two of his rivals had signed pledges refusing fossil-fuel money. Ten months later, asked at a public forum about the check, he said Chevron is "not the bad guy."</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Cal-Access RCPT_CD filing 3071361 · California Environmental Voters forum April 29 2026 · thedonormap.org/not-the-bad-guy</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm the experienced candidate ready on day one."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Ready for whom. The healthcare-industry max donors funding him are ready. The DOJ Corporate Integrity Agreement at Prime Healthcare expires under the next governor's term. The donors fund the answer he gave behind the closed door, not the one on the campaign poster.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">HHS-OIG Corporate Integrity Agreement public record · Becerra's HHS tenure · Cal-Access donor list cross-reference</span>
+    </div>
+  </div>
+
+  <!-- STEYER REBUTTALS · DEFENSE since he's the unique target -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand d">Tom Steyer (D) · defense (he's the unique target)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"Steyer is buying the election with his own money."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Six of the eight candidates on this stage have $0 in voter-facing outside money against them. Tom Steyer has $30 million. From PG&amp;E. From the Cal Chamber. From the Realtors. From the Building Industry Association. From the prison guards. The structural question to ask is why.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">FPPC committees 1490270 + 1489677 · verified anti-Steyer total $30,050,000 · Cal-Access F496/F460 through 2026-04-28</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"Steyer is a flip-flopper · one-day candidate · changes positions."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">PG&amp;E pleaded guilty to 84 counts of involuntary manslaughter for the Camp Fire. Steyer ran on utility accountability for 23 years. The Cal Chamber, the Realtors, the BIA, the prison guards' PAC each have specific regulatory interests that depend on which Democrat wins. The candidate the regulated industries spend $30 million to defeat is by definition not the flexible one.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">2018 Camp Fire felony plea · Need to Impeach 23-year history · thedonormap.org/class-traitor</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"Self-funding is anti-democratic."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Steyer's money is on the public record. He writes checks under his own name. Compare to Mahan: $0 in his own committee, $43 million in IE money he's legally barred from coordinating with from Sequoia, Y Combinator, Stripe, Coinbase. Becerra has a $2 million IE PAC FOR him. The anti-Steyer $30 million pretends to be a citizen coalition. Which one is more anti-democratic.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Steyer self-fund $133.8M direct disclosure · Mahan IE PAC 'Back to Basics California' · committee 1489677 'California is Not for Sale' name structure · Cal-Access verified</span>
+    </div>
+  </div>
+
+  <!-- HILTON REBUTTALS -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand r">Steve Hilton (R)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm an outsider · not a politician · I'll regulate Big Tech."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">His own sworn Form 700 puts personal stock in Sierra Technologies, a $10 billion AI company, at FMV Over $1 million. His wife heads communications at the same Sierra. He's still drawing Fox News commentator income. Two of three sworn lines on his own filing point at the same AI company. He's running to govern the state that regulates AI.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">FPPC Form 700 · candidate filing March 6 2026 · signed under penalty of perjury · thedonormap.org/hilton</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm the conservative choice · the GOP candidate."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Sergey Brin and Joe Lonsdale gave Hilton AND Mahan. Same donors, opposite parties, same race. Christian Larsen of Ripple gave Hilton AND Porter. The Silicon Valley billionaire class is hedging Hilton as the Plan B if the Democrat doesn't make the runoff. That's not a conservative coalition. That's a donor-class hedge.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Brin · Hilton + Mahan IE $1.04M combined · Lonsdale · Hilton + Mahan $103K · Larsen · Hilton + Porter $78K · Cal-Access verified</span>
+    </div>
+  </div>
+
+  <!-- BIANCO REBUTTALS -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand r">Chad Bianco (R)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm the law-and-order candidate · the only sheriff in the race."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">PORAC, the largest police-union PAC in California, dual-endorsed Bianco AND Villaraigosa for the same race. Bianco's own department's union, the Riverside Sheriffs' Association, gave him $38,122. The "only sheriff" framing doesn't survive PORAC writing the same check to a Democratic former LA mayor.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">PORAC PAC · Bianco $39,200 + Villaraigosa $78,400 · RSA Public Education Fund $38,122 · Cal-Access verified</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm an outsider · the establishment is against me."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">M&amp;D Development plus Downs Energy gave him $156,800. Two California entities filed at related Corona addresses. Per a City of Corona staff report, M&amp;D operates Downs Energy. SF Chronicle floated the FPPC common-control aggregation question March 31. Plus Highland Fairview, the Riverside megadeveloper, also funds Villaraigosa on the Democratic side. Bianco's donor base is the Inland Empire development class.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">M&amp;D + Downs Energy · combined $156,800 · SF Chronicle Mar 31 2026 · Highland Fairview cross-party hedge · Cal-Access verified</span>
+    </div>
+  </div>
+
+  <!-- MAHAN REBUTTALS -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand d">Matt Mahan (D)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm the small-business mayor of San Jose · the practical Democrat."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Mahan has raised $0 in his own candidate-controlled committee. The $43 million on his side flows through Back to Basics California, an outside-spending PAC he's legally barred from coordinating with. Sixty-one people wrote almost all of it. Sequoia $2M. Y Combinator $1M. Stripe $990K. Coinbase $500K. Pritzker $500K. He is not a small-business mayor on the ballot. He is the Silicon Valley founder-investor class on the ballot.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">FPPC IE PAC 'Back to Basics California' · Cal-Access EXPN_CD · 61 disclosed contributors · thedonormap.org/mahan</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'll fight for working families · public-sector workers."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">The same crypto-industry money backing Mahan via Coinbase ($500K) is the same Fairshake PAC money that spent $10 million attacking Katie Porter at the federal Senate level in 2024. Public-sector labor's Opportunity PAC has $61,000 in opposition research on Mahan. Public-sector unions are the ONLY institutional bloc spending against Mahan. He is structurally not the public-sector-labor candidate.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Coinbase Fairshake federal anti-Porter 2024 · Opportunity PAC anti-Mahan $61K research · CNA + CTA + CSEA + CFT coalition · Cal-Access verified</span>
+    </div>
+  </div>
+
+  <!-- PORTER REBUTTALS -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand d">Katie Porter (D)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm the consumer-finance reformer · I take on the banks."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Christian Larsen, the Ripple Labs executive chairman, maxed out to Porter and ALSO to Steve Hilton. Same person, same race, opposite parties. Joe Kiani, Masimo medical-devices founder, wrote her $117,600. The McNicholas plaintiffs firm gave her $103,400 — the same firm cross-Dem hedge with Becerra. Her donor base has its own regulatory interests.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Larsen · Hilton + Porter $78,400 cross-party · Kiani · Masimo $117,600 · McNicholas · Becerra + Porter $128K combined · Cal-Access verified</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm the working-family candidate."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Strong labor support is real (DRIVE PAC $78K, SMART PAL $78K). But the plaintiffs-bar concentration is also real (Singleton + Schreiber + McNicholas combined ~$300K). The plaintiffs firms with state-regulatory interests in bench appointments and Insurance Commissioner picks are a structural part of her donor base.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Cal-Access RCPT_CD Porter top-15 · plaintiffs-bar concentration · gubernatorial appointment access</span>
+    </div>
+  </div>
+
+  <!-- VILLARAIGOSA REBUTTALS -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand d">Antonio Villaraigosa (D)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm a climate Democrat · I'll fight the fossil-fuel industry."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">In 2018 he signed a public pledge not to take fossil-fuel money. In 2026 he is the principal Democratic recipient of fossil-fuel money in the gubernatorial race. Chevron $78,400. Marathon $78,400. Berry $78,400. California Resources Corporation $72,800. The other Democrats stayed off oil-industry checks. He didn't.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">2018 pledge on the public record · Cal-Access oil-industry total $307,800 · thedonormap.org/carace26-map</span>
+    </div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm a labor Democrat · I built LA with the unions."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">State Building Trades $156,800 plus Pipe Trades $156,800 — yes, real building-trades labor support. AGC PAC also gave $156,800 — that's the construction trade group, which lobbies on the SAME side of CEQA and permitting fights as the developers. Plus Resnick water-rights $36,400, Rappaport ultra-luxury LA real-estate $36,400, Polone Hollywood $78,400. The donor base is the LA development class, not just labor.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Cal-Access RCPT_CD Villaraigosa top-tier · State Building Trades + AGC PAC + Pipe Trades parallel</span>
+    </div>
+  </div>
+
+  <!-- THURMOND REBUTTALS -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand d">Tony Thurmond (D)</div>
+
+    <div class="deb-rebut">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"I'm running on education · I'm the experienced state superintendent."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">West Coast University, a for-profit health-sciences chain, gave him $18,000. He's the elected Superintendent of Public Instruction. A regulated for-profit education entity contributing to the regulator's gubernatorial campaign is a specific structural pattern. Combined with three tribal-gaming donations and the IBEW educational fund, his donor base is small but the for-profit-ed line is the editorially distinctive one.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Cal-Access RCPT_CD · West Coast University $18,000 · CFA $10K · IBEW Educational $12.5K</span>
+    </div>
+  </div>
+
+  <!-- GENERIC FRAMES -->
+  <div class="deb-rebut-group">
+    <div class="deb-rebut-cand gen">Generic frames · meta-attacks on the donor map</div>
+
+    <div class="deb-rebut" style="border-left-color: var(--yellow);">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"This is class warfare · unfair attacks · taking quotes out of context."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Every dollar on the map is on Cal-Access — California's public campaign-finance disclosure system. Every quote is on the public record from KQED, CalMatters, the candidate's own social media, or signed under penalty of perjury on Form 700. We're documenting filings, not making allegations. Public disclosure is the system working as designed.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">Cal-Access RCPT_CD · KQED reporting · candidate-published positions · Form 700 sworn disclosures</span>
+    </div>
+
+    <div class="deb-rebut" style="border-left-color: var(--yellow);">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"All candidates have donors · this is normal · campaign finance is normal."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">True. The asymmetry is what matters. Six candidates have $0 in outside-spending money against them. One has $30 million. When the same donors fund both sides, those donors don't need either side to win. When the same donors attack only one side, those donors need that one side to lose. Same primary-source data. Different patterns.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">§6 'Who the system attacks' table · 6 candidates × $0 · Steyer × $30M · Mahan × $61K research-only</span>
+    </div>
+
+    <div class="deb-rebut" style="border-left-color: var(--yellow);">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"AI made this · this isn't real journalism."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">Cal-Access is California's primary-source bulk export — the California Secretary of State's official campaign-finance database. The data is public, the FPPC committee IDs are public, the F460 and F496 filings are public. The visualization layer doesn't change what's on the filings. Every claim on the map can be re-derived from the same primary source any researcher could pull.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">cal-access.sos.ca.gov · campaignfinance.cdn.sos.ca.gov bulk export · per-claim FPPC committee IDs cited</span>
+    </div>
+
+    <div class="deb-rebut" style="border-left-color: var(--yellow);">
+      <span class="deb-rebut-label if">If they say:</span><span class="deb-rebut-text trigger">"This favors Republicans · this favors Democrats · you're partisan."</span>
+      <span class="deb-rebut-label counter">Counter:</span><span class="deb-rebut-text counter">The framework is structural, not partisan. Six cross-party hedges in the data go BOTH directions. The $30 million attacking Steyer is from regulated industries against the only Democrat who pledged not to take their money. The $43 million backing Mahan is from Silicon Valley against public-sector labor. Both Republicans and Democrats are funded by donors with policy interests. Different industries, same logic.</span>
+      <span class="deb-rebut-label receipt">Receipt:</span><span class="deb-rebut-text receipt">6 cross-party hedges in the map · 9 cross-Dem hedges · attack money concentrated on one Dem · IE PAC concentrated on one Dem · pattern is industry-by-industry, not party-by-party</span>
+    </div>
+  </div>
 </section>
 
 <!-- ─── ZINGERS · clip-ready one-liners ─── -->
