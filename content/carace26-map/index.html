@@ -199,35 +199,54 @@ html, body {
 }
 
 /* ─── Interactive D3 graph (Iteration 1) ─── */
-.rm-graph-host { position: relative; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.rm-graph-host { position: relative; }
 .rm-d3-graph { display: none; position: relative; width: 100%; height: 720px; background: #0a0a0a; border: 2px solid #2a2a2a; }
 body.rm-js-loaded .rm-d3-graph { display: block; }
 body.rm-js-loaded .rm-static-fallback { display: none; }
-/* Mobile: keep the interactive D3 graph (David's request) but allow it to
-   render at its native width (1100px) and have the container scroll
-   horizontally so a 375px phone can pan across the full layout.
-   Pinch-zoom + tap-to-lock already work via native touch events. */
+.rm-mobile-hint { display: none; }
+
+/* Mobile: keep the interactive D3 graph but make horizontal scrolling
+   discoverable. iOS/Android hide native scrollbars by default, so we:
+   (1) force a persistent visible scrollbar via custom webkit styling
+   (2) wrap the graph in a scrolling wrapper with overflow-x: scroll
+   (3) show an explicit 'swipe to explore' hint above the graph
+   (4) gradient fade on the right edge that pulses to signal more content.
+   Tap-to-lock + pinch-zoom already work via native touch events. */
 @media (max-width: 900px) {
-  .rm-d3-graph { min-width: 1100px; height: 600px; }
-  .rm-graph-host::after {
-    content: "swipe →";
-    position: sticky;
-    right: 8px;
-    bottom: 8px;
-    display: block;
-    width: fit-content;
-    margin-left: auto;
-    background: rgba(251, 191, 36, 0.9);
-    color: #0a0a0a;
+  .rm-mobile-hint {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 0 10px;
+    padding: 10px 14px;
+    background: var(--yellow);
+    color: var(--black);
     font-family: 'Space Mono', monospace;
-    font-size: 10px;
+    font-size: 11px;
     font-weight: 700;
     letter-spacing: 1.5px;
     text-transform: uppercase;
-    padding: 4px 10px;
-    pointer-events: none;
-    transform: translateY(-32px);
+    border: 2px solid var(--black);
   }
+  .rm-mobile-hint .swipe-arrow {
+    display: inline-block;
+    animation: rm-swipe-pulse 1.6s ease-in-out infinite;
+  }
+  @keyframes rm-swipe-pulse {
+    0%, 100% { transform: translateX(0); opacity: 0.6; }
+    50% { transform: translateX(8px); opacity: 1; }
+  }
+  .rm-graph-host {
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-color: var(--yellow) #1a1a1a;
+    scrollbar-width: auto;
+  }
+  .rm-graph-host::-webkit-scrollbar { height: 12px; -webkit-appearance: none; }
+  .rm-graph-host::-webkit-scrollbar-track { background: #1a1a1a; border-top: 1px solid #444; }
+  .rm-graph-host::-webkit-scrollbar-thumb { background: var(--yellow); border: 2px solid #1a1a1a; }
+  .rm-d3-graph { min-width: 1100px; height: 600px; }
 }
 .rm-d3-graph svg { width: 100%; height: 100%; display: block; cursor: default; }
 .rm-d3-graph .rm-controls { position: absolute; top: 14px; left: 14px; display: flex; gap: 8px; z-index: 5; flex-wrap: wrap; }
@@ -324,6 +343,9 @@ body.rm-js-loaded .rm-static-fallback { display: none; }
     <div class="label">The whole field · eight candidates · 65 named donors · 15 hedges · 6 cross-party · 7 attack flows</div>
     <div class="sub">Hover any candidate to see who funded them. Hover any donor to see which candidates they fund. Click to lock the highlight.</div>
 
+    <div class="rm-mobile-hint" aria-hidden="true">
+      <span>↔</span><span>Swipe sideways to explore</span><span class="swipe-arrow">→</span>
+    </div>
     <div class="rm-graph-host">
       <div class="rm-d3-graph" id="rm-d3-graph" aria-label="Interactive force-directed graph of the 2026 California governor race showing seven candidates and their cross-cutting donors. Lines connect donors to the candidates they have funded.">
         <div class="rm-controls" role="group" aria-label="Graph filters">
