@@ -95,9 +95,9 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "meme",
   },
   {
-    title: "Bianco · The Sheriff Who Seized the Ballots (DRAFT)",
+    title: "Bianco · The sheriff seized 650,000 ballots (DRAFT)",
     url: "http://localhost:8096/bianco-ballots",
-    description: "Riverside County Sheriff Chad Bianco took 650,000 ballots from the 2025 Prop 50 referendum on a warrant from a judge he had endorsed. Donor-jurisdiction conflicts (Highland Fairview, Mediwaste, RJ Noble) plus $132K law-enforcement PAC stack plus 2014 Oath Keepers prior. Built 2026-05-02. Pending URL pass before public exposure.",
+    description: "Riverside County Sheriff Chad Bianco (Republican gubernatorial candidate, polling 12-14%, qualified for May 5 CNN debate) seized 650,000 ballots from the 2025 Proposition 50 referendum on a warrant signed by a judge he had publicly endorsed in 2022 (CalMatters Mar 26 + Apr 21 2026). 2014 Oath Keepers membership confirmed via the 2021 Anonymous Epik leak (LAist + NPR Oct 2021, double-source verified). FPPC single-source aggregation question: $78,400 from M&D Development + $78,400 from Downs Energy on the same Dec 30 2025 day — entities share addresses and management per SF Chronicle Mar 31 2026, corroborated by City of Corona staff reports. Donor-jurisdiction conflicts: Highland Fairview $39,200 (also gave Villaraigosa $72,800 + Sheriffs PEF $49K + Moving CA Forward $69K — Iddo Benzeevi cross-party signal), RJ Noble $35K (county road contractor), Mediwaste $20K (medical waste contractor), plus ~$143,720 deduplicated law-enforcement PAC stack operating inside the jurisdiction his department polices. CSPOA affiliation per CalMatters Apr 21 2026 internal-emails investigation. Built 2026-05-02. Mirrored to content/ tree 2026-05-07. 9 verification seeds populated for URL-pass.",
     status: "draft-isolated",
     category: "beat",
   },
