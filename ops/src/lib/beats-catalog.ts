@@ -1438,6 +1438,227 @@ const BEATS_ACTIVE_CLASS_TRAITOR: BeatRecord = {
 BEATS.push(BEATS_ACTIVE_CLASS_TRAITOR)
 BEATS.push(...BEATS_UPCOMING)
 
+const HEDGE_SEEDS: VerificationSeed[] = [
+  {
+    id: "hedge-cal-access-3149725",
+    beat: "the-hedge",
+    label: "URL pass: Cal-Access · Filing 3149725 · Stewart Resnick → Becerra $39,200 · 2026-05-04",
+    detail:
+      "FPPC Form 497 Late Contribution Report. Stewart A. Resnick And Affiliated Entities (committee 499047) → Becerra For Governor 2026 (committee 1480025), $39,200, contribution made 2026-05-04, filed 2026-05-05, the day before the CNN governor debate.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3149725&amendid=0",
+  },
+  {
+    id: "hedge-cal-access-3149729",
+    beat: "the-hedge",
+    label: "URL pass: Cal-Access · Filing 3149729 · Lynda Resnick → Becerra $39,200 · 2026-05-04",
+    detail:
+      "FPPC Form 497 Late Contribution Report. Lynda Rae Resnick (committee 1252697) → Becerra For Governor 2026 (committee 1480025), $39,200, contribution made 2026-05-04, filed 2026-05-05. Combined with husband's filing: $78,400 to Becerra.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3149729&amendid=0",
+  },
+  {
+    id: "hedge-cal-access-3139587",
+    beat: "the-hedge",
+    label: "URL pass: Cal-Access · Filing 3139587 · Brin → BABC $9M flow on 2026-04-10",
+    detail:
+      "FPPC Form 497. Sergey Brin (Reno NV, listed CO-FOUNDER GOOGLE) → Building a Better California (committee 1486767), $9,000,000, contribution made 2026-04-10. Same-day distribution: $4.5M to Californians for a More Transparent and Effective Government (committee 1488423, Initiative 25-0040A1) + $4.5M to Californians to Protect Retirement and Life Savings (committee 1488418, Initiative 25-0041A1). Memo line confirms intermediaries: BABC Incorporated and Compass4 Inc, both at 2350 Kerner Blvd Ste 250, San Rafael CA 94901.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3139587",
+  },
+  {
+    id: "hedge-cal-access-1486767",
+    beat: "the-hedge",
+    label: "URL pass: Cal-Access · BABC committee 1486767 detail page",
+    detail:
+      "Building a Better California parent committee. Anchors the $35M coalition framing. Treasurer / registered address verification.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486767",
+  },
+  {
+    id: "hedge-lao-25-0024",
+    beat: "the-hedge",
+    label: "URL pass: LAO ballot analysis · Initiative 25-0024 (the Billionaire Tax Act)",
+    detail:
+      "Legislative Analyst's Office analysis of the proposed wealth tax. Anchors the 5% / $1B / one-time / phase-out structure plus the LAO's tens-of-billions revenue estimate plus the 90% healthcare allocation.",
+    lane: "Editor",
+    url: "https://lao.ca.gov/BallotAnalysis/Initiative/2025-024",
+  },
+  {
+    id: "hedge-becerra-position-calmatters",
+    beat: "the-hedge",
+    label: "URL pass: CalMatters · Becerra opposes the wealth tax",
+    detail:
+      "Anchors the candidate-position table for Becerra. Becerra has stated it is unfair for billionaires to pay a lower rate but argues a one-time levy is not the way. Confirm the exact quote and date in the CalMatters piece.",
+    lane: "Editor",
+    url: "https://calmatters.org/politics/2026/04/billionaire-tax-labor-divided/",
+  },
+  {
+    id: "hedge-fortune-treehouse-party",
+    beat: "the-hedge",
+    label: "URL pass: Fortune · Brin confronted Newsom at Christmas treehouse party (Apr 26, 2026)",
+    detail:
+      "Anchors the coalition origin story: Brin and his partner Gerelyn Gilbert-Soto confronted Newsom at a treehouse Christmas party hosted by Chris Larsen. Larsen is the same Ripple co-founder funding Porter, Mahan, and Hilton. Confirms Brin's $20M founding contribution + $37M spring add + $9M April Cal-Access disclosure.",
+    lane: "Editor",
+    url: "https://fortune.com/2026/04/26/california-billionaire-tax-ballot-measure-sergey-brin-gavin-newsom-political-war/",
+  },
+  {
+    id: "hedge-cal-access-1486858",
+    beat: "the-hedge",
+    label: "URL pass: Cal-Access · Mahan committee 1486858 (Larsen $500K cross-hedge anchor)",
+    detail:
+      "FPPC committee 1486858. Anchors Christian Larsen's $500K to Mahan claim in the cross-candidate hedge table.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486858",
+  },
+]
+
+const APPARATUS_SEEDS: VerificationSeed[] = [
+  {
+    id: "apparatus-irs-bmf-c4",
+    beat: "the-apparatus",
+    label: "URL pass: IRS EO BMF · Steadfast LA EIN 33-3239336 · subsection 04 (the c4)",
+    detail:
+      "IRS Exempt Organization Business Master File row: STEADFAST LA, EIN 33-3239336, % David Lazarus, 2350 Kerner Blvd Ste 250, San Rafael CA 94901-5596, subsection code 04 (501(c)(4) social welfare organization). Anchors the c4 vs c3 distinction in the entities-callout spine.",
+    lane: "Editor",
+    url: "https://www.irs.gov/pub/irs-soi/eo3.csv",
+  },
+  {
+    id: "apparatus-guidestar-c3",
+    beat: "the-apparatus",
+    label: "URL pass: GuideStar · Steadfast LA Foundation EIN 33-3413032 (the c3)",
+    detail:
+      "GuideStar profile for the separate 501(c)(3) Foundation entity. Distinct EIN from the c4. Resolves the c4-vs-c3 ambiguity: there are two entities, and the website uses both names.",
+    lane: "Editor",
+    url: "https://www.guidestar.org/profile/33-3413032",
+  },
+  {
+    id: "apparatus-rap-board-report",
+    beat: "the-apparatus",
+    label: "URL pass: LA Recreation and Parks Board Report 26-017 · $40M Palisades Recreation Center",
+    detail:
+      "Jan 15, 2026 board report identifying PPRC Development Project, LLC as donor for the $40M rebuild, Nick Geller (Steadfast LA) at PPRC contact, Gensler + SWA Group as designers, FEMA reimbursement notes. Anchors the first of three documented policy interventions.",
+    lane: "Editor",
+    url: "https://recreation.parks.lacity.gov/sites/default/files/pdf/commissioner/2026/jan15/26-017.pdf",
+  },
+  {
+    id: "apparatus-bass-rec-center-release",
+    beat: "the-apparatus",
+    label: "URL pass: Mayor's Office release · Steadfast LA + LA Strong Sports public-private partnership",
+    detail:
+      "April 10, 2025 Mayor's Office press release announcing the Palisades Recreation Center public-private partnership with Steadfast LA. Anchors the Bass-Caruso joint April 2025 event.",
+    lane: "Editor",
+    url: "https://mayor.lacity.gov/news/mayor-bass-la-strong-sports-and-steadfast-la-announce-public-private-partnership-rebuild",
+  },
+  {
+    id: "apparatus-measure-ula-clerk-file",
+    beat: "the-apparatus",
+    label: "URL pass: City Clerk file 25-0006-S86 · Measure ULA exemption proposal",
+    detail:
+      "Oct 24, 2025 City Council motion citing Mayor Bass's letter that 'followed a proposal presented by Steadfast LA' to create a Measure ULA documentary-transfer-tax exemption for Palisades fire survivors. Anchors the second of three policy interventions.",
+    lane: "Editor",
+    url: "https://cityclerk.lacity.org/onlinedocs/2025/25-0006-S86_misc_10-24-25.pdf",
+  },
+  {
+    id: "apparatus-archistar-mayor-release",
+    beat: "the-apparatus",
+    label: "URL pass: Mayor's Office release · Archistar AI permitting tool",
+    detail:
+      "Nov 13, 2025 Mayor's Office release announcing Archistar's eCheck AI Pilot, made available at no cost via Steadfast LA funding. Anchors the third of three policy interventions: a private vendor deployment in city permit-review workflow.",
+    lane: "Editor",
+    url: "https://mayor.lacity.gov/news/mayor-bass-announces-first-approvals-under-new-standard-plan-pilot-program-further-expedite",
+  },
+  {
+    id: "apparatus-caruso-quote-source",
+    beat: "the-apparatus",
+    label: "URL pass: LA Times · Caruso quotes on Bass (Feb 3, 2025)",
+    detail:
+      "Anchors both verbatim Caruso quotes used in the 'What Caruso has said publicly' section. Caruso explicitly disclaims political motivation; quoted accurately for fairness in the framing.",
+    lane: "Editor",
+    url: "https://www.latimes.com/california/story/2025-02-03/rick-caruso-rebuild-foundation",
+  },
+  {
+    id: "apparatus-la-ethics-bass-cmte",
+    beat: "the-apparatus",
+    label: "URL pass: LA Ethics dataset · Bass committee 1471359 · zero-direct-contributions check",
+    detail:
+      "LA Ethics Commission Campaign Contributions dataset. Anchors the donor-question section finding: zero exact-name contributions from Steadfast LA's 25 named participants to Bass committee 1471359 or to her two IE committees. The donor-money explanation does not exist; the apparatus is the relationship.",
+    lane: "Editor",
+    url: "https://data.lacity.org/resource/m6g2-gc6c.json?cmt_id=1471359",
+  },
+  {
+    id: "apparatus-steadfast-board-page",
+    beat: "the-apparatus",
+    label: "URL pass: Steadfast LA · official board / coalition page",
+    detail:
+      "Anchors the 25-name board roster table. Confirm names + corporate affiliations + roles match the table in the published beat.",
+    lane: "Editor",
+    url: "https://steadfastla.com",
+  },
+]
+
+const BEATS_NEW: BeatRecord[] = [
+  {
+    slug: "the-hedge",
+    publicSlug: "the-hedge",
+    title: "The Hedge: One coalition. Eight candidates. The same $35M wall around their billions.",
+    deck: "Resnick, Larsen, Brin, Doerr, Moritz, Collison, Schmidt, Thiel, Xu, Levchin. The same billionaires writing max-out checks to multiple gubernatorial candidates are simultaneously funding the $35M coalition fighting California's Billionaire Tax Act.",
+    prototypeFile: "beat-the-hedge.html",
+    prototypeUrl: "http://localhost:8096/the-hedge",
+    dossierPath: "content/Admin Notes/perplexity-research/2026-05-06-resnick-wealth-tax-coalition.md",
+    status: "active",
+    verificationSeeds: HEDGE_SEEDS,
+    perplexityRounds: [
+      { name: "Resnick water-rights / Wonderful Co political giving baseline (5/3)", status: "applied", date: "2026-05-03" },
+      { name: "Resnick → Becerra primary-source verification (David retrieved Cal-Access PDFs directly)", status: "applied", date: "2026-05-06" },
+    ],
+    auditPasses: [
+      { name: "Cal-Access primary-source verification of all dollar amounts", status: "applied", date: "2026-05-06" },
+      { name: "Em-dash audit + normie-language pass", status: "applied", date: "2026-05-06" },
+    ],
+    editorialChecklist: [
+      { label: "Two-card spine (Resnick filings)", detail: "Both Cal-Access Form 497 PDFs cited at top of beat. Filer name, committee ID, contribution date, recipient ID, $39,200 each.", status: "done" },
+      { label: "Coalition table", detail: "10 named coalition donors with primary holdings + reported amounts to BABC.", status: "done" },
+      { label: "Hedge pattern grid", detail: "Larsen → Porter/Mahan/Hilton + Resnick → Villaraigosa/Mahan/Swalwell/Becerra/Yes-on-50.", status: "done" },
+      { label: "Each-candidate-position table", detail: "Five against, two silent, zero in favor. Becerra position sourced to CalMatters.", status: "done" },
+      { label: "Brin flow on April 10 section", detail: "$9M in / $4.5M + $4.5M out same day. Pass-through structure documented.", status: "done" },
+      { label: "Address overlap with Steadfast LA", detail: "2350 Kerner Blvd Ste 250 cross-reference into the apparatus beat.", status: "done" },
+      { label: "Closing legal-status disclaimer", detail: "No charges, no allegations of crime; structural pattern only.", status: "done" },
+      { label: "OG image", detail: "Pending render via scripts/render-og-images.cjs from main repo.", status: "pending" },
+    ],
+  },
+  {
+    slug: "the-apparatus",
+    publicSlug: "the-apparatus",
+    title: "The Apparatus: The candidate Bass beat in 2022 now runs the private rebuild in 2026.",
+    deck: "Rick Caruso lost to Karen Bass. He founded Steadfast LA after the Palisades fire. Three documented policy interventions later, his organization is the lead private partner to her city government's rebuild apparatus. He has not given a single dollar to her reelection campaign.",
+    prototypeFile: "beat-the-apparatus.html",
+    prototypeUrl: "http://localhost:8096/the-apparatus",
+    dossierPath: "content/Admin Notes/gemini-research/2026-05-06-steadfast-la-structural-deep-dive.md",
+    status: "active",
+    verificationSeeds: APPARATUS_SEEDS,
+    perplexityRounds: [
+      { name: "Gemini Deep Research · Steadfast LA structural deep dive (5/6)", status: "applied", date: "2026-05-06" },
+    ],
+    auditPasses: [
+      { name: "501(c)(4) vs 501(c)(3) entity verification (separate EINs confirmed)", status: "applied", date: "2026-05-06" },
+      { name: "Em-dash audit + normie-language pass", status: "applied", date: "2026-05-06" },
+    ],
+    editorialChecklist: [
+      { label: "Two-entity spine", detail: "501(c)(4) Steadfast LA EIN 33-3239336 + 501(c)(3) Steadfast LA Foundation EIN 33-3413032.", status: "done" },
+      { label: "Three documented policy interventions", detail: "$40M Rec Center + Measure ULA exemption + Archistar AI permitting.", status: "done" },
+      { label: "Board / coalition table", detail: "25 named participants with corporate affiliations and rebuild-relevant sectors.", status: "done" },
+      { label: "Donor-question section", detail: "Zero exact-name contributions from board members to any 2026 LA mayor committee. Documented honestly.", status: "done" },
+      { label: "Address overlap with BABC", detail: "2350 Kerner Blvd Ste 250 cross-reference into The Hedge.", status: "done" },
+      { label: "Caruso direct quotes", detail: "Both Feb 3, 2025 LA Times quotes used verbatim for fairness.", status: "done" },
+      { label: "Closing legal-status disclaimer", detail: "No charges, no allegations of crime; structural pattern only.", status: "done" },
+      { label: "OG image", detail: "Pending render via scripts/render-og-images.cjs from main repo.", status: "pending" },
+    ],
+  },
+]
+
+BEATS.push(...BEATS_NEW)
+
 export function getBeat(slug: string): BeatRecord | null {
   return BEATS.find((b) => b.slug === slug) || null
 }
