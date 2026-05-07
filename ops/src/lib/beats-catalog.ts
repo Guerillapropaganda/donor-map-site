@@ -1413,26 +1413,115 @@ const BEATS_UPCOMING: BeatRecord[] = [
   {
     slug: "bianco-ballots",
     publicSlug: "bianco-ballots",
-    title: "Bianco: The Sheriff Who Seized the Ballots",
+    title: "The sheriff seized 650,000 ballots. The judge who signed the warrant was one he had endorsed.",
     deck:
-      "Riverside County Sheriff seized 650,000 ballots from the 2025 Prop 50 referendum on a warrant from a judge he had endorsed. 2014 Oath Keepers membership confirmed by LAist + NPR. $78,400 from M&D Development + $78,400 from Downs Energy on the same December 30, 2025 day — SF Chronicle (Mar 31 2026) reported the entities share addresses and management, raising an FPPC single-source aggregation question. Plus the Riverside developer / law-enforcement donor stack ($143,720 deduplicated LE money). Plus Highland Fairview cross-party signal (also gave Villaraigosa $78,400).",
-    prototypeFile: "(not yet built)",
-    prototypeUrl: "",
+      "Chad Bianco, Riverside County Sheriff and Republican gubernatorial candidate (polling 12-14%, qualified for May 5 CNN debate), seized 650,000 ballots from the 2025 Proposition 50 redistricting referendum on a warrant signed by a judge he had publicly endorsed in 2022. CalMatters Mar 26 2026 + Apr 21 2026 anchors the seizure + warrant + endorsement chain. LAist Oct 5 2021 + NPR Oct 6 2021 confirms his 2014 Oath Keepers membership via the 2021 Anonymous Epik leak. SF Chronicle Mar 31 2026 documents an FPPC single-source aggregation question: $78,400 from M&D Development + $78,400 from Downs Energy on the same December 30 2025 day — entities share addresses and management. Plus the Riverside developer / law-enforcement donor stack ($143,720 deduplicated LE money) operating inside the jurisdiction his sheriff's department polices. Plus Highland Fairview cross-party signal (Iddo Benzeevi gave Bianco $39,200 + Villaraigosa $72,800 + Riverside Sheriffs' Association PEF $49,000 + Moving California Forward $69,000). Hero SVG: ballot seizure spine + warrant signed by judge he endorsed. 8 H2 sections + receipts table + sources block. Drafted 2026-05-02. Mirrored to content/ tree 2026-05-07.",
+    prototypeFile: "beat-bianco-ballots.html",
+    prototypeUrl: "http://localhost:8096/bianco-ballots",
     dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/bianco.md",
-    status: "upcoming",
-    verificationSeeds: [],
+    status: "draft",
+    verificationSeeds: [
+      {
+        id: "bianco-cal-access-1479095",
+        beat: "bianco-ballots",
+        label: "URL pass: Cal-Access · Bianco for Governor 2026 (FPPC 1479095)",
+        detail:
+          "THE SPINE. Anchors all 2026-cycle donor figures: M&D Development $78,400 + Downs Energy $78,400 (both Dec 30 2025 — the FPPC aggregation question), Highland Fairview $39,200 (Iddo Benzeevi multi-direction giving signal), RJ Noble $35,000 (county road contractor), Mediwaste $20,000 (medical waste contractor under sheriff jurisdiction), plus the law-enforcement donor stack totaling ~$143,720 deduplicated. Total committee raised $4.47M from 7,324 donors. Verify each named entity + amount on the Cal-Access committee detail page.",
+        lane: "Editor",
+        url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095",
+      },
+      {
+        id: "bianco-sf-chronicle-aggregation-mar2026",
+        beat: "bianco-ballots",
+        label: "URL pass: SF Chronicle Mar 31 2026 — M&D Development / Downs Energy aggregation question",
+        detail:
+          "LOAD-BEARING for the aggregation framing. The SF Chronicle article documents that M&D Development and Downs Energy share business addresses and are operated by sibling-managed entities, raising an FPPC single-source aggregation question on the $156,800 combined contribution that landed Dec 30 2025. Bill Essayli quote on record. The 'two checks from one source' framing depends on this verification. ADR-0030 §11 covers SF Chronicle fetches.",
+        lane: "Editor",
+        url: "https://www.sfchronicle.com/politics/article/contributions-bianco-violate-state-campaign-rules-22160676.php",
+      },
+      {
+        id: "bianco-calmatters-ballot-seizure-mar2026",
+        beat: "bianco-ballots",
+        label: "URL pass: CalMatters Mar 26 2026 — 650,000 Prop 50 ballot seizure",
+        detail:
+          "Anchors the headline claim. The CalMatters article documents Bianco's Riverside County Sheriff's Department seizure of approximately 650,000 ballots from the 2025 Proposition 50 redistricting referendum. Verify the ballot count, the warrant existence, and the operational scope (was it 650K total ballots in the county or 650K seized by the warrant specifically). ADR-0030 §11 covers CalMatters fetches.",
+        lane: "Editor",
+        url: "https://calmatters.org/politics/2026/03/chad-bianco-ballots-seized-riverside/",
+      },
+      {
+        id: "bianco-calmatters-cspoa-emails-apr2026",
+        beat: "bianco-ballots",
+        label: "URL pass: CalMatters Apr 21 2026 — CSPOA emails / endorsing-judge document trail",
+        detail:
+          "Anchors the 'judge he had endorsed' framing AND the Constitutional Sheriffs and Peace Officers Association (CSPOA) affiliation. CalMatters investigation surfaced internal Riverside Sheriff emails documenting both the 2022 endorsement of the judge who later signed the seizure warrant AND Bianco's CSPOA correspondence. Verify both threads against the original article before publishing.",
+        lane: "Editor",
+        url: "https://calmatters.org/investigation/2026/04/chad-bianco-emails/",
+      },
+      {
+        id: "bianco-laist-oath-keepers-oct2021",
+        beat: "bianco-ballots",
+        label: "URL pass: LAist Oct 5 2021 — 2014 Oath Keepers membership",
+        detail:
+          "Anchors the 2014 Oath Keepers prior. LAist's October 2021 reporting confirmed Bianco was on the Oath Keepers membership list leaked by Anonymous through the September 2021 Epik hack and DDoSecrets distribution. Bianco confirmed and defended the membership at the time. Verify the article still loads and the 2014 membership-year specificity is in the published text.",
+        lane: "Editor",
+        url: "https://laist.com/news/criminal-justice/riverside-sheriff-chad-bianco-once-was-an-oath-keeper-defends-the-extremist-group",
+      },
+      {
+        id: "bianco-npr-oath-keepers-oct2021",
+        beat: "bianco-ballots",
+        label: "URL pass: NPR Oct 6 2021 — Oath Keepers cross-corroboration",
+        detail:
+          "Cross-corroboration for the LAist Oath Keepers reporting (independent confirmation by a second Tier 1 outlet). NPR's piece independently verified Bianco's membership. The two-source citation pattern is what the beat needs for the Oath Keepers section to clear lane discipline.",
+        lane: "Editor",
+        url: "https://www.npr.org/2021/10/06/1043651361/oath-keepers-california-sheriff-chad-bianco-january-6-us-capitol",
+      },
+      {
+        id: "bianco-highland-fairview-cross-party",
+        beat: "bianco-ballots",
+        label: "URL pass: Highland Fairview cross-candidate signal (Bianco + Villaraigosa + Sheriffs PEF)",
+        detail:
+          "Anchors the Iddo Benzeevi multi-direction giving claim. Highland Fairview gave Bianco $39,200 + Villaraigosa $72,800 + Riverside Sheriffs' Association Political Empowerment Fund $49,000 + Moving California Forward $69,000. The cross-party hedge (Republican Bianco + Democrat Villaraigosa from the same Riverside developer) is an editorially powerful structural fact — verify each amount against the corresponding Cal-Access committee detail page.",
+        lane: "Editor",
+        url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1471635",
+      },
+      {
+        id: "bianco-cspoa-affiliation-public",
+        beat: "bianco-ballots",
+        label: "URL pass: CSPOA public-affiliation verification",
+        detail:
+          "The Constitutional Sheriffs and Peace Officers Association affiliation should be verified against either CSPOA's own public membership/endorsement records or the SPLC / ADL / other watchdog tracking of CSPOA-affiliated officials. The 'militia-adjacent affiliation' framing depends on the affiliation being current as of 2026, not just 2014-era. Confirm the relationship was active during Bianco's 2026 gubernatorial campaign.",
+        lane: "Editor",
+        url: "https://www.splcenter.org/fighting-hate/extremist-files/group/constitutional-sheriffs-and-peace-officers-association",
+      },
+      {
+        id: "bianco-corona-staff-report-md-downs",
+        beat: "bianco-ballots",
+        label: "URL pass: City of Corona staff report — M&D operates Downs Energy",
+        detail:
+          "Corona, CA city council staff reports document M&D Development as the operating entity behind Downs Energy at the shared Corona location. This is the primary-source corroboration for the 'M&D operates Downs' link that the SF Chronicle reporting referenced. Search Corona city agenda packets for the relevant entitlement or business-license item naming both entities. Provides the second-source basis for the FPPC aggregation framing alongside SF Chronicle.",
+        lane: "Editor",
+        url: "https://www.coronaca.gov/government/agendas-minutes",
+      },
+    ],
     perplexityRounds: [
       { name: "Bianco donor + LE money + Oath Keepers + ballot seizure", status: "applied (Prompt #6)", date: "2026-05-02" },
       { name: "Bianco institutional money audit (M&D + Downs aggregation question + 5 industry donor classes)", status: "applied (perplexity-research/2026-05-03-bianco-institutional-money-results.md)", date: "2026-05-03" },
     ],
     auditPasses: [],
     editorialChecklist: [
-      { label: "Lead angle locked", detail: "M&D Development + Downs Energy aggregation question — Tier 1 Cal-Access rows + Tier 2 SF Chronicle Mar 31 2026 (shared address, M&D operates Downs per Corona staff report, Bill Essayli on record). Defamation surface low. Single-page tight beat.", status: "done" },
-      { label: "Target ship date", detail: "Week 2 of distribution push (post-May 8). Fastest GOP-side beat to ship.", status: "pending" },
-      { label: "Source material exists", detail: "C-005 in emerging-beat-candidates.md; Cal-Access RCPT_CD verified for committee 1479095 ($4.47M / 7,324 donors — unaffected by Form 496 dedup fix because direct candidate-committee giving rarely triggers 24-hr reports)", status: "done" },
-      { label: "Highland Fairview cross-region signal", detail: "Same entity gave Bianco $39,200 + Villaraigosa $72,800 + Riverside Sheriffs' Association PEF $49,000 + Moving California Forward $69,000. Iddo Benzeevi (principal) is Riverside developer with multi-direction giving.", status: "done" },
-      { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
-      { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs when prototype is shipped", status: "pending" },
+      { label: "Headline locked", detail: '"The sheriff seized 650,000 ballots. The judge who signed the warrant was one he had endorsed." (locked 2026-05-02, mirrored 2026-05-07)', status: "done" },
+      { label: "Target ship date", detail: "Week 2 of distribution push (post-May 8). Fastest GOP-side beat to ship. Bianco polling 12-14%, qualified for May 5 CNN debate, plausibly competitive for top-2 in June 2 primary.", status: "pending" },
+      { label: "Source material exists", detail: "C-005 in emerging-beat-candidates.md; Cal-Access RCPT_CD verified for committee 1479095 ($4.47M / 7,324 donors). Two May 2026 Perplexity rounds applied: institutional-money audit + Oath Keepers / ballot-seizure cross-reference.", status: "done" },
+      { label: "Hero SVG / spine visualization", detail: "Ballot seizure spine visualization at top of beat — 650,000 ballots + warrant signed by judge he endorsed. Defamation framing tight: every claim sourced to a Tier 1 or Tier 2 outlet's reporting, not new factual assertion by us.", status: "done" },
+      { label: "M&D / Downs Energy aggregation question (lead angle)", detail: "$78,400 from M&D Development + $78,400 from Downs Energy on the same Dec 30 2025 day. SF Chronicle Mar 31 2026 reported entities share addresses and management. City of Corona staff reports corroborate M&D operating Downs at the shared site. Bill Essayli on record. Tier 1 Cal-Access rows + Tier 2 multi-publication coverage. Defamation surface low.", status: "done" },
+      { label: "Highland Fairview cross-party signal", detail: "Iddo Benzeevi gave Bianco $39,200 + Villaraigosa $72,800 + Riverside Sheriffs' Association PEF $49,000 + Moving California Forward $69,000. Same Riverside developer giving across party lines is the structural fact — pairs editorially with /villaraigosa-pledge.", status: "done" },
+      { label: "Oath Keepers prior · double-source verified", detail: "LAist Oct 5 2021 + NPR Oct 6 2021 independently confirmed 2014 membership via the 2021 Anonymous Epik leak. Bianco confirmed and defended the membership on record. Two-source threshold cleared.", status: "done" },
+      { label: "CSPOA affiliation", detail: "Constitutional Sheriffs and Peace Officers Association affiliation documented in CalMatters Apr 21 2026 internal-emails investigation. Militia-adjacent national-political-violence dimension is what differentiates this beat from the Steyer/Becerra material in tone and stakes.", status: "done" },
+      { label: "Structural cleanup 2026-05-07", detail: "Mirrored prototype/beat-bianco-ballots.html → content/bianco-ballots/index.html so Quartz can build it. Validated: 8 TOC items + 8 H2 sections + balanced article/div tags + 0 em-dashes in body prose + no AI vernacular + no duplicate article tags (cleaner than Villaraigosa was on intake).", status: "done" },
+      { label: "Prototype HTML", detail: "prototype/beat-bianco-ballots.html (1033 lines) + content/bianco-ballots/index.html (mirrored 2026-05-07). Hero SVG + 8 H2 sections + receipts table + sources block + methodology paragraph.", status: "done" },
+      { label: "Verification seeds populated", detail: "9 seeds covering Cal-Access committee 1479095, SF Chronicle aggregation piece, CalMatters ballot-seizure piece, CalMatters CSPOA-emails investigation, LAist + NPR Oath Keepers double-source, Highland Fairview cross-party, CSPOA public-affiliation cross-check, Corona city staff reports for M&D-operates-Downs corroboration. URL-pass runs at /active-beat/bianco-ballots in ops.", status: "done" },
+      { label: "Public-routes.json exposure", detail: "BLOCKED on David URL-pass + sign-off. Per memory rule feedback_no_auto_public_route.md.", status: "blocked" },
+      { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs once URL-pass clears", status: "pending" },
     ],
   },
   {
