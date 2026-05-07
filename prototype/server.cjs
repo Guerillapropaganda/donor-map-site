@@ -29,6 +29,7 @@ http.createServer((req, res) => {
   else if (url === '/the-hedge' || url === '/beat-the-hedge' || url === '/beat-the-hedge.html' || url === '/hedge') file = 'beat-the-hedge.html';
   else if (url === '/the-apparatus' || url === '/beat-the-apparatus' || url === '/beat-the-apparatus.html' || url === '/apparatus' || url === '/steadfast') file = 'beat-the-apparatus.html';
   else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
+  else if (url === '/clean-cash' || url === '/beat-clean-cash' || url === '/beat-clean-cash.html') file = 'beat-clean-cash.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else if (url === '/investigations' || url === '/investigations/' || url === '/investigations.html') file = 'investigations.html';
   else file = 'landing-v3.html';
