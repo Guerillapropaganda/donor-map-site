@@ -1,10 +1,118 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-05-04
+last-updated: 2026-05-07
 ---
 
-## HANDOFF — 2026-05-04 (cc_p3_290 → cc_p3_320, Hilton beat shipped to homepage hero + entity verification + holdings companion page + share-card kit + normie pass on every published article + 4 memory rules)
+## HANDOFF — 2026-05-07 (cc_inspiring-lamarr, Code Claude · five draft beats promoted/built + Inside Safe deep research + 4 memory rules)
+
+**Context:** Code Claude. Worktree `claude/inspiring-lamarr-b8d4d0`, Opus 4.7 (1M context). Long session, ~$30-40 Opus total, ~10 commits to v4. Major themes: built Clean Cash beat (Porter v1 → v2 after May 7 news scan caught a load-bearing Larsen revocation issue), promoted three previously prototype-only beats (Villaraigosa Pledge, Bianco Ballots, plus structural cleanup) to the content tree with full URL-pass verification seeds, fixed two production-side bugs (dead Steyer hero block + stale prototype 404 fallback), ran three rounds of Gemini Deep Research on Inside Safe + Rae Chen Huang, and saved four new editorial / workflow memory rules.
+
+### THIS SESSION'S DELIVERABLES (all shipped to v4)
+
+#### Production-side bug fixes
+- **Dead Steyer hero block on homepage** (commit `5906fec64`, merged `039a625ee`): nested SVG comments inside an outer rollback comment terminated the wrapper early; the hidden hero was rendering as unstyled text on the live site. Deleted the dead block (-79 lines). Git history is the rollback path.
+- **Prototype server old-homepage fallback** (merge `588a8bc63`): the prototype server's default fallback was `landing-v3.html`, so unmapped URLs silently served the old homepage. Hitting `/the-apparatus` showed the old homepage instead of the beat. Removed the fallback, added a styled 404 page, deleted `landing-v2.html` + `landing-v3.html` (~2,600 lines dead code). Also picked up v4 changes that added `/the-hedge` + `/the-apparatus` routes (the prior `modest-lederberg` session's work was not in this branch until the merge).
+
+#### Clean Cash beat (Porter — DRAFT)
+- **v1 build** (commit `42a32fb1e`, merge `2f0078e46`): "Katie Porter says she does not take money from the donor class. Five names on her donor list say she does." Six receipt cards (Christian Larsen, Joe Kiani, Karla Jurvetson, Seth Klarman lifetime, Donald Mullen lifetime, First Foundation Bank). Three-row donor-bloc matrix testing wealth-tax exposure. 7 H2 sections, TOC, methodology. 8 verification seeds.
+- **v2 rewrite** (commit `c4c45568c`, merge `3c24c6fbc`): May 7 news scan surfaced CalMatters reporting that Christian Larsen revoked his Porter support in March 2026 after Porter endorsed SF Proposition D, then gave $700,000 against Prop D and switched to Hilton. v1 framed Larsen as a current cross-party hedge — that framing was stale. v2 pivots the Larsen RED spine card to a live enforcement story: "donor class enforces the rule with money when the candidate touches their wealth." New H2 section "What happened when she crossed one of them." Cross-link to /the-hedge. 4 new verification seeds added (CalMatters revocation, Prop D ballot record, $700K opposition, Larsen→Hilton timing). Editorial gain: the rewrite is sharper than v1 because the structural pressure is documented instead of hypothetical.
+
+#### Villaraigosa Pledge beat (DRAFT)
+- **Promoted from prototype-only to content tree** (commit `227f0cd53`, merge `f3c80e082`). The 1,036-line beat was drafted in a prior session (May 2) but had two structural blockers: a duplicate `<article class="article-body">` tag breaking HTML structure, and existing only in `prototype/`, not in `content/` (so Quartz couldn't build it). Both fixed. 9 verification seeds populated covering Cal-Access committee 1471635, LA Times broken-pledge piece, CalMatters infrastructure-czar piece, LA Times single-payer piece, LA Times Mercury piece, Axios Actum piece, Ninth Circuit Fresenius opinion, FPPC 2018 + 2026 top-contributor archives.
+- **Open Questions section cut to 2 items** (commit `3919e3930`, merge `8217063b7`): per new editorial rule (memory: `feedback_no_research_gaps_in_published_copy.md`), removed the items framed around our research limitations ("URL has not been retrieved" / "would close the claim more tightly"). Kept items framed around the subject's public conduct ("Villaraigosa has not publicly addressed whether the pledge had an expiration").
+
+#### Bianco Ballots beat (DRAFT)
+- **Promoted from prototype-only to content tree** (commit `ae8da6c6c`, merge `ebc6a4108`). Cleaner intake than Villaraigosa: single article tag, 0 em-dashes, 0 AI vernacular, 8 H2 sections. 9 verification seeds covering Cal-Access committee 1479095, SF Chronicle aggregation piece, CalMatters ballot-seizure piece, CalMatters CSPOA-emails investigation, LAist + NPR Oath Keepers double-source, Highland Fairview cross-party signal, CSPOA public-affiliation, Corona city staff reports for M&D-operates-Downs corroboration.
+- **Removed Levin/Oath-Keepers historical-context paragraph** (commit `658079bdd`, merge `f436c6782`): per editorial direction, the Brian Levin "less radical, less confrontational" framing of 2014 Oath Keepers was irrelevant — the beat's central claim is the structural pattern (CSPOA 2022 → ballot seizure 2025 → 2026 campaign), not the 2014 membership in isolation.
+
+#### Inside Safe Cost Map · deep research only, beat NOT yet built
+Three rounds of Gemini Deep Research + 5 ProPublica IRS 990 fetches + 2 web searches. Findings now publication-grade except for the Bass donor list (LA City Ethics portal offline). Major findings:
+
+- **Va Lecia Adams Kellum revolving door · documented at state-law-violation grade.** She was CEO of St. Joseph Center until 2/23/2023. LAHSA Commission unanimously voted her in as CEO 1/23/2023. Started 3/26/2023. **Was paid $60,000 as a consultant embedded in the Bass mayor's office to build Inside Safe strategy BEFORE starting at LAHSA.** April 2023: her signature appeared on a $250,000 contract with St. Joseph Center (her former employer that paid her $360,000+ the prior year). LAHSA email "viewed" and "e-signed" the document. California state law prohibits involvement in contracts with former employers for 12 months. St. Joseph Center received $13,793,076 in Inside Safe payments under her tenure. LAist (Nick Gerda + David Wagner) broke this; LAHSA adopted its FIRST-EVER conflict-of-interest policy in September 2025. **This is the strongest single editorial finding in the LA Mayor lane.**
+- **LA4LA structure resolved.** Initiative under California Community Foundation (CCF). Co-founded by Sarah Dusseault. Funders: Katzenberg $300K, Stephen J. Cloobeck, Hilton Foundation, **Health Net (Centene) $10M to LA4LA Guarantee Tool in March 2026**, BMO. Capital deployed: The Eaves Koreatown ($2.9M, 58 units) + Clarendon Apartments ($8M loan to HACLA). Centene is a Medicaid managed-care contractor — paying $10M to a homelessness initiative co-launched by Bass is its own structural finding.
+- **Bass blocking Mejia audit · fully documented.** Bass on May 6 2026 debate stage: "I don't believe that one elected official should audit another. It politicizes the entire process." City Attorney did the legal blocking. Federal Judge David O. Carter intervened October 2025, appointed Mejia to support the third-party Monitor. Mejia called "most knowledgeable person." Mejia DID complete a separate audit (Pathways to Permanent Housing, Dec 10 2024) finding 1 in 4 interim housing beds went UNUSED FY19-FY23.
+- **All 8 vendor leadership rosters resolved via ProPublica IRS 990 fetches.** Weingart Center (Kevin Murray CEO $505K, $89.7M revenue), Special Service for Groups (Herbert Hatanaka $490K, $223.2M revenue), The People Concern (John J Maceri $303K, $102.2M revenue), PATH (Jennifer Hark Dietz $409K, $181.1M revenue), St. Joseph Center (Va Lecia Adams former CEO until 2/23/23, $50.4M revenue). Top-5 highest-comp + board chair recorded for each.
+- **Mayfair Hotel deal · Alexander Moradi NOT a Bass donor.** ICO Group founded 1994. Sold Mayfair Hotel to City for $60.2M in August 2023. Per Real Deal LA explicitly: Moradi has NOT donated to Bass. Mayfair-deal-as-donor-corruption story doesn't exist. Clean structural finding.
+- **Vendor payments locked.** Weingart $32,964,957 (20.97% of spend), HOPICS/SSG $19,826,934, PATH $14,445,302, St. Joseph $13,793,076, People Concern $5,787,640, Salvation Army $1,659,791, Citiguard $396,509, Go RN $307,270, Safe Place for Youth $1,036,784 (sole-source for transitional-age-youth beds). Plus construction: Bureau of Engineering oversight, GGA $605,492, $4.24M total construction through mid-Jan 2024.
+- **Alvarez & Marsal $2.3B "untrackable" audit verified.** Case 2:20-cv-02291-DOC-KES Document 905, filed 03/06/2025. Ordering judge: David O. Carter.
+- **3 ADR-0030 §1/§11 fetches logged** to `data/code-audit-fetches.jsonl`.
+
+#### Rae Chen Huang dossier (LA Mayor, DSA-aligned, polling 3%)
+Two rounds of Gemini Deep Research. Major findings:
+- **Princeton/UC Berkeley education claim was a CONFLATION** with a different person (a male public-policy consultant). Resolved as: Bachelor of Arts in Political Science from UCLA, transferred from community college, "technical systems engineer" by profession. Pastor at PCUSA. The first-round risk of publishing wrong degrees is fully closed.
+- **$273K total raised.** Day-one $110K from ~1,500 donors at $73 average. Pure small-dollar grassroots.
+- **Inside Safe audit pledge quotable.** Direct quote: "First thing I'd do when I get into office, I want to ensure that our city controllers are able to audit Inside Safe."
+- **DSA-LA non-endorsement explained.** Vote was 54% for endorsement, failed supermajority. Reason: "would risk overextending the chapter's resources." Sub-chapters (UCLA YDSA, Feel the Bern SFV) endorsed her independently.
+- **Adam Miller identified** (4th FOX 11 forum participant): 56yo tech entrepreneur (Cornerstone OnDemand founder), loaned own campaign $2.5M, polling 3% tied with Huang.
+- **First-round Raman 2024 endorsement claim was wrong** — single-sourced and unverifiable in round 2. Drop the "former endorser turns challenger" framing.
+
+#### News scan (May 7)
+- CalMatters May 7 lone-woman-left framing on Porter
+- Polling shifts: Becerra surged from 3% to 18%, tied with Hilton. Porter fell from 17% to 8-11%.
+- Building a Better California PAC filings dropped May 5. Initiative 25-0024 supporters announced enough signatures April 28; SOS has until June 25 to certify.
+- LA Mayor field at FOX 11 May 13: Bass / Raman / Huang / Miller. Pratt declined.
+- Eric Swalwell exited CA Gov race April 12 after sexual misconduct allegations.
+
+#### 4 memory rules saved this session
+- `feedback_no_research_gaps_in_published_copy.md` — Open questions in beats are about the SUBJECT (their public conduct), never about US (what we couldn't retrieve). Audit Open Questions section on every beat before public-routes flip.
+- `feedback_check_local_bulk_first.md` — Cal-Access state bulk, IRS 990 bulk, FEC bulk, USASpending bulk all live in `data/bulk` + `data/derived`. LA City / LA County / SF City file local-only and aren't in the state bulk. ALWAYS check local before reporting NO DATA from a research round.
+- `feedback_urls_in_codeblocks.md` — Every URL David might want to click goes in its own fenced code block, alone. Inline URLs and markdown link syntax don't work for him. Exception: URLs inside a Gemini/Perplexity prompt that's itself the copy-paste unit.
+- (Bianco Levin paragraph removal applied as one-off editorial cut, not as a memory rule.)
+
+### KEY COMMITS THIS SESSION
+
+| Hash | What |
+|---|---|
+| `5906fec64` | Fix dead Steyer hero block from homepage |
+| `42a32fb1e` | Clean Cash beat v1 (DRAFT) |
+| `c4c45568c` | Clean Cash v2: pivot Larsen card to live enforcement story (Prop D revocation) |
+| `227f0cd53` | Villaraigosa Pledge beat: structural cleanup + content tree mirror + 9 URL-pass seeds |
+| `ae8da6c6c` | Bianco Ballots beat: content tree mirror + 9 URL-pass seeds |
+| `658079bdd` | Bianco: remove Brian Levin / Oath Keepers historical-context paragraph |
+| `f84b70e84` | Prototype: delete old homepage fallback, return 404 instead |
+| `3919e3930` | Editorial rule: open questions are about the SUBJECT, never about us |
+
+### CURRENT STATE OF THE BEAT SLATE
+
+**Live (in data/public-routes.json):** /hilton, /holdings-hilton-2026, /mahan, /donors-mahan-2026, /class-traitor, /three-becerras, /donors-becerra-2026, /not-the-bad-guy, /steyer, /carace26-map.
+
+**Draft (in content/ tree, NOT public — pending URL-pass + David sign-off):**
+1. /the-hedge — anti-wealth-tax billionaire coalition (Resnick + Larsen + Brin)
+2. /the-apparatus — Steadfast LA / Caruso-Bass rebuild infrastructure
+3. /clean-cash — Porter's whiteboard rule + Larsen live enforcement story
+4. /villaraigosa-pledge — broken 2018 fossil-fuel pledge + Hastings rejection
+5. /bianco-ballots — sheriff seized 650K ballots + Oath Keepers + FPPC aggregation
+
+**Researched but NOT yet built:**
+- Inside Safe Cost Map (LA Mayor) — full research dossier ready, spine = Va Lecia Adams Kellum revolving door + Mejia $204K + LA4LA Centene $10M + 9-vendor table
+
+### KNOWN ISSUES / OPEN QUESTIONS
+
+- **LA City Ethics portal still offline.** Bass donor list, lobbyist registry, Form 700 disclosures still gapped for ALL LA mayor candidates. Workaround URLs identified: `openldisclosure.lacity.org`, `ethics.lacity.org/disclosure/efs/data`, candidate websites. Try these next session before another full Gemini round.
+- **Symmetric LA Mayor coverage gap.** Comprehensive donor + policy data on Bass; minimal on Pratt, Raman, Huang (granular donor list still missing), Miller. Need to run the consolidated Gemini prompt for the four non-Bass candidates to bring them to symmetric depth before any LA Mayor beat ships.
+- **Adam Miller FPPC ID** still unknown — Gemini didn't get it.
+- **Form 700 (personal financial disclosures)** for all 5 LA mayor candidates — also blocked on LA City Ethics portal.
+
+### NEXT SESSION PRIORITIES
+
+1. **Run the consolidated Gemini prompt for the four non-Bass candidates** (Pratt / Raman / Huang / Miller). Get committee structure, top-25 donors, top-10 organizational, IE PAC list, full policy platform, endorsements, news coverage. Symmetric depth with what we have on Bass. Plus the Pratt-specific Perplexity round.
+2. **Try the LA City Ethics portal workarounds** — `openldisclosure.lacity.org`, `ethics.lacity.org/disclosure/efs/data` CSV exports, each candidate's own website. If any succeed, pull all 5 candidates' donor lists locally; cross-reference table against Inside Safe vendor leadership is fully ready.
+3. **Build the Inside Safe Cost Map beat** once symmetric LA Mayor coverage is in. Spine: Va Lecia Adams Kellum revolving door (lede). Three numbers ($85K/$204K/$41K). Vendor table. LA4LA private overlay (Centene $10M). Audit-block fight (Bass quote + Carter intervention). Mayfair Moradi paragraph (clean from donor angle). Comparative cost (Houston/SLC). 9 H2 sections.
+4. **URL-pass on the five draft beats** sitting in the queue (Hedge, Apparatus, Clean Cash v2, Villaraigosa Pledge, Bianco Ballots). Each has 8-9 verification seeds populated in `ops/src/lib/beats-catalog.ts`. URL-pass workspace at `localhost:3333/active-beat/[slug]`.
+5. **Distribution / share-card kits** for the five draft beats once URL-pass clears + public-routes flip.
+6. **OG share-card render** — add CARDS entries to `scripts/render-og-images.cjs` for the five draft beats (run from main repo, worktree has no node_modules).
+
+### ENVIRONMENT NOTE
+
+- Worktree: `claude/inspiring-lamarr-b8d4d0`. ~10 commits to v4 across this session.
+- Prototype dev server running on port 8096 (restarted mid-session after `landing-v3.html` deletion required prototype rebuild). All 5 draft beats verified serving HTTP 200 with correct titles.
+- Ops dev server NOT running. To resume URL-pass work: `cd C:\Users\third\donor-map-site\ops && set OPS_AUTH_BYPASS=1&& npx next dev -p 3333` from main repo.
+- 3 ADR-0030 §1/§11 fetches logged this session in `data/code-audit-fetches.jsonl` (133 total entries now).
+
+---
+
+## PREVIOUS SESSION — 2026-05-04 (cc_p3_290 → cc_p3_320, Hilton beat shipped to homepage hero + entity verification + holdings companion page + share-card kit + normie pass on every published article + 4 memory rules)
 
 **Context:** Code Claude. Worktree `claude/affectionate-taussig-9707b2`, Opus 4.7 (1M context). Continued from yesterday's `claude/hungry-yalow-de7b3d` handoff. Long session, ~$50-60 Opus total, ~12 commits to v4. Major themes: built and shipped the Hilton AI-conflict beat (v1 → v2 → v2.1 with GPT critique iteration); ran the actual Form 700 PDF and verified the Sierra entity (caught and corrected a singular/plural inconsistency on the filing); built `/holdings-hilton-2026` companion page; promoted Hilton from regular tile to homepage Latest Investigation hero AND the /investigations featured slot; ran a normie-language pass + em-dash purge across every published beat; built the Hilton share-card kit (master share card + 2 additional captions). Saved 4 new memory rules.
 
