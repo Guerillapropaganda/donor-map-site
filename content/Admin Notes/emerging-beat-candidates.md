@@ -129,3 +129,78 @@ Format per entry: source / one-line thesis / supporting receipts / why it's inte
 ## How to use this file
 
 When David is planning the next beat slot, read this file alongside `content/Admin Notes/sprint-schedule.md` and the Session State priorities. New candidates land here as research surfaces them; graduated candidates get marked with the beat URL they shipped under and demoted to the bottom or removed.
+
+---
+
+## C-009 — Inside Safe Cost Map (LA Mayor)
+**Surfaced:** 2026-05-06 from LA mayor debate (NBC4/Telemundo Skirball)
+
+**Thesis:** At the May 6 LA mayoral debate, Nithya Raman attacked Karen Bass's flagship homelessness program Inside Safe at $85,000 to $100,000 per motel room per year. The structural question Raman did not ask but the donor map can: who collects that money? Motel chains, hotel operators, service contractors. Cross-reference Inside Safe vendor list against Bass's 2026 reelection donor base.
+
+**Receipts to pull:** Bass Form 460 vendor expenditures and Inside Safe service-contractor recipients (LA City Controller and LA City Ethics Commission); LA County DPSS / LAHSA contract awards related to Inside Safe; cross-reference to `Re-Elect Karen Bass for Mayor 2026` (filer 1471359) contribution rows.
+
+**Why interesting:** Different shape from "Bass takes real-estate money" (already covered by The Real Deal LA). The Inside Safe cost map is structural and number-anchored. $85K-$100K/room/year is the kind of figure normies remember. If even 2-3 named hotel/motel operators on the recipient list also appear on the Bass donor list, the beat writes itself.
+
+**Earliest plausible slot:** Mid-May, post-Steadfast LA beat. Could pair with the Steadfast LA piece as a two-part LA mayor sequence.
+
+**Status:** parked. Needs vendor-list pull from LAHSA contracts and Bass donor cross-reference.
+
+---
+
+## C-010 — Steadfast LA / The Caruso-Bass Rebuild Alliance (LA Mayor)
+**Surfaced:** 2026-05-06 from cross-referencing Steadfast LA board page with LA mayoral race coverage
+
+**Thesis:** Rick Caruso lost the 2022 LA mayoral race to Karen Bass. He founded Steadfast LA after the January 2025 Palisades fire. Steadfast LA now operates as the lead private partner to Bass's city government rebuild apparatus under her Emergency Executive Order #1 and the Disaster Recovery Permitting Center. Its board is composed of CEOs whose companies stand to win architecture (Gensler), engineering (Parsons Corporation), banking (Banc of California), permitting-tech (Esri, Archistar), and entertainment-industry (Netflix, Disney, Amazon) contracts from the rebuild Bass controls. The candidate Bass beat in 2022 now leads the apparatus that her city government partners with.
+
+**Receipts:** [Steadfast LA About / Board](https://www.steadfastla.com/), [Bass Mayor.lacity.gov press release on Palisades Recreation Center public-private partnership](https://mayor.lacity.gov/news/mayor-bass-la-strong-sports-and-steadfast-la-announce-public-private-partnership-rebuild). Per-board-member donations to Bass and other 2026 LA mayoral candidates: pending Gemini Deep Research return + Cal-Access cross-reference.
+
+**Why interesting:** The Real Deal LA already covered candidate-side real-estate donor totals (Bass $126K / Pratt $51K) on April 28. Nobody has covered Steadfast LA specifically. Spencer Pratt's whole campaign attacks Bass over fire response; he does not talk about who profits from the rebuild. This beat collapses the Bass-vs-Pratt fire framing into the structural question of who is actually shaping the reconstruction.
+
+**Open verification questions:** 990 retrieval, full board roster, signed City of LA agreements, Caruso's 2026 contributions to any candidate, contract receipts from Parsons / Gensler / Banc of California / Esri since 2025-01.
+
+**Earliest plausible slot:** ASAP after Gemini Deep Research returns and verification rolls. Strongest LA mayor beat.
+
+**Status:** active, awaiting research returns.
+
+---
+
+## C-011 — The Hedge: Resnick + Larsen + Brin Coalition Funding Both Candidates AND The Anti-Wealth-Tax PAC (Statewide)
+**Surfaced:** 2026-05-06 from primary-source verification of Resnick → Becerra debate-day max-out + cross-reference to Building a Better California reporting
+
+**Thesis:** California's 2026 election is being shaped by a single billionaire coalition that funds candidates on both sides of the partisan divide while simultaneously funding a $35 million PAC ("Building a Better California") to kill the 2026 Billionaire Tax Act (Initiative 25-0024). Christian Larsen and Stewart Resnick appear in BOTH operations — funding multiple gov candidates AND donating $2-2.5M each to the anti-wealth-tax effort. The candidates are not enemies. They are hedges. The wealth tax is the actual thing the donors care about.
+
+**Receipts:**
+- Resnicks → Becerra $78,400 on 2026-05-04 (Cal-Access Filing IDs 3149725 + 3149729) [primary source verified]
+- Resnicks → Villaraigosa $72,800 (2024-07-26) + Mahan $50K (2026-03-20) + Swalwell $156,800 (2026-03-25, withdrew) + Becerra prior $15,600 (2025-12-30) + Yes-on-50 $250K (2025-10-01)
+- Larsen → Porter $117,600 + Mahan $500K + Hilton $39,200 (already documented in /mahan and /hilton beats)
+- Resnick + Larsen each → Building a Better California $2-2.5M (per CPA Practice Advisor + Governing, 2026-05-05)
+- Sergey Brin $66M, John Doerr $10M, Michael Moritz $7.5M, Patrick Collison $7M, Eric Schmidt $3M, Tony Xu $2M, Max Levchin $1M (same anti-wealth-tax PAC)
+- Total coalition spend: $35M+
+
+**Why interesting:** This is the donor map's core thesis articulated in a single beat. The structural pattern is the receipt. It collapses the partisan framing because the same donors are funding candidates across parties. The wealth-tax fight gives the beat its backbone — without it, "Wonderful funds Becerra" is one transaction; with it, it is "the billionaire class buys both sides while killing the tax that would tax their billions."
+
+**Open verification questions:**
+1. Stewart Resnick exact dollar amount to Building a Better California ($2M Governing vs $2.5M CPA Practice Advisor) — Cal-Access primary verification needed
+2. Lynda Resnick separate filing if any
+3. Building a Better California committee filer ID
+4. Each gov candidate's stated public position on Initiative 25-0024
+5. Three counter-initiatives — proponents, mechanism, signature progress
+
+**Earliest plausible slot:** This week. Anchor is news-cycle hot (Cal-Access filings dropped 2026-05-05; ballot measure in active signature collection). Beat shape is unique to the donor map's structural method.
+
+**Status:** active. Tier-A priority. Pre-publication verification rolls needed before draft.
+
+---
+
+## C-012 — The Newsom-Becerra Aide Nexus (McCluskie / Williamson Fraud Scheme)
+**Surfaced:** 2026-05-06 from CNN debate coverage and federal indictment records
+
+**Thesis:** Becerra's former chief of staff Sean McCluskie pleaded guilty to conspiracy to commit bank fraud, wire fraud, and conspiracy to defraud the United States. Newsom's former chief of staff Dana Williamson was indicted on 23 fraud-related charges. The scheme: Williamson billed Becerra's dormant CA campaign account $7,500/month for fake "consulting"; Williamson then paid McCluskie $10K/month. $225K stolen from Becerra's dormant campaign account in 2022. Becerra not charged; cooperated; said it "happened outside of my vision." Hilton attacked Becerra on this at the May 5 CNN debate and Becerra defended that he was not in the indictment.
+
+**Why structurally interesting:** Both the Newsom and Becerra political organizations had their respective chiefs of staff embedded in the same scheme stealing from one of them. The Newsom-Becerra continuity story dressed up as a fraud case. For someone who ran the largest federal department (HHS), the "I did not know my chief of staff was stealing from my dormant campaign" defense is a hard public position.
+
+**Why this is parked, not active:** High defamation surface. Becerra was not charged. Editorial framing must be exact — implying he was complicit when the federal case did not implicate him is a defamation-prone framing. David's lane on framing.
+
+**Earliest plausible slot:** Only if (a) further indictments name Becerra or (b) primary-eve cross-candidate scrutiny piece needs a Becerra-specific section. Otherwise park.
+
+**Status:** parked. Defamation-prone. Tier 3 / David-only on framing.
