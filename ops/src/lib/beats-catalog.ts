@@ -860,6 +860,81 @@ const CHEVRON_SEEDS: VerificationSeed[] = [
   },
 ]
 
+const CLEAN_CASH_SEEDS: VerificationSeed[] = [
+  {
+    id: "clean-cash-cal-access-1479597",
+    beat: "clean-cash",
+    label: "URL pass: Cal-Access · Porter for Governor 2026 (FPPC 1479597)",
+    detail:
+      "THE SPINE OF THE BEAT. Anchors all four 2026-cycle receipt cards: Christian Larsen $39,200 (Ripple co-founder, cross-party hedge — also gave Hilton $39,200 on FPPC 1480425), Joe Kiani $39,200 (Masimo founder/CEO), Karla Jurvetson $40,100 (Bay Area progressive megadonor), First Foundation Bank $57,200 (largest single organizational direct contribution in 2026 cycle). Verify each name + amount on the Cal-Access committee detail page before public exposure.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479597",
+  },
+  {
+    id: "clean-cash-cal-access-hilton-larsen-cross",
+    beat: "clean-cash",
+    label: "URL pass: Cal-Access · Hilton for Governor 2026 (cross-party Larsen anchor)",
+    detail:
+      "FPPC committee 1480425. Cross-references the Christian Larsen / Chris Larsen $39,200 to Hilton paired with $39,200 to Porter. Same person verification per 2026-05-04 race-map verification: Hilton filer reports 'Chris Larsen' SF 94109 Ripple Exec Chair; Porter filer reports 'Christian Larsen' SF 94109 Ripple Executive Chairman. High-confidence same-person match. The cross-party hedge claim (one crypto-industry founder maxing out the leading R AND the named D) rests on this.",
+    lane: "Editor",
+    url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480425",
+  },
+  {
+    id: "clean-cash-fec-klarman-mullen-lifetime",
+    beat: "clean-cash",
+    label: "URL pass: FEC bulk · Seth Klarman + Donald Mullen lifetime contributions to Porter campaigns",
+    detail:
+      "Lifetime federal cumulative contributions across Porter's 2018, 2020, 2022 House campaigns + 2024 Senate primary. Klarman ~$13,900 (Baupost Group hedge fund founder). Mullen $8,000+ (former Goldman Sachs partner who ran the trading desk that profited from the 2008 subprime mortgage collapse). Both already documented in Porter's master profile (_Katie Porter Master Profile.md) as part of the existing 'clean cash' Core Contradiction. Verify FEC individual-contribution records for both donors against Porter committees C00636571 and C00831107 before publishing the lifetime totals.",
+    lane: "Editor",
+    url: "https://www.fec.gov/data/receipts/individual-contributions/",
+  },
+  {
+    id: "clean-cash-masimo-corporate-disclosure",
+    beat: "clean-cash",
+    label: "URL pass: Joe Kiani · Masimo Corporation founder/CEO confirmation",
+    detail:
+      "Confirm Joe Kiani as founder and CEO of Masimo Corporation (publicly traded medical-device manufacturer). Source can be Masimo's own corporate disclosures (10-K, proxy statement) or SEC EDGAR filings. The 'medical-device CEO' framing depends on this verification.",
+    lane: "Editor",
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=Masimo",
+  },
+  {
+    id: "clean-cash-baupost-klarman-disclosure",
+    beat: "clean-cash",
+    label: "URL pass: Seth Klarman · Baupost Group founder confirmation",
+    detail:
+      "Confirm Seth Klarman as founder of Baupost Group (Boston-based hedge fund). Source: Baupost's SEC ADV filing, Forbes billionaire list, or other Tier 1 corporate disclosure. The 'hedge fund founder, billions estimated net worth' framing depends on this verification.",
+    lane: "Editor",
+    url: "https://adviserinfo.sec.gov/firm/summary/107994",
+  },
+  {
+    id: "clean-cash-mullen-goldman-history",
+    beat: "clean-cash",
+    label: "URL pass: Donald Mullen · former Goldman Sachs subprime trading head verification",
+    detail:
+      "Confirm Donald Mullen led the Goldman Sachs trading operation that profited from betting against subprime mortgages during the 2008 financial crisis. Multiple Tier 1 sources: Senate Permanent Subcommittee on Investigations 2011 report on Wall Street and the Financial Crisis (the Levin report), the SEC's 2010 Goldman Sachs Abacus settlement, or the McLean / Nocera book All the Devils Are Here. Verify Mullen left Goldman in 2012 and founded a private investment firm before publishing.",
+    lane: "Editor",
+    url: "https://www.hsgac.senate.gov/imo/media/doc/Financial_Crisis/FinancialCrisisReport.pdf",
+  },
+  {
+    id: "clean-cash-first-foundation-bank-business",
+    beat: "clean-cash",
+    label: "URL pass: First Foundation Bank · wealth-management business confirmation",
+    detail:
+      "Confirm First Foundation Bank's primary business line is wealth management for high-net-worth individuals. Source: First Foundation Inc.'s 10-K or annual report on SEC EDGAR (ticker FFWM). The 'wealth-management bank for high-net-worth clients' framing depends on this verification.",
+    lane: "Editor",
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=FFWM&type=10-K",
+  },
+  {
+    id: "clean-cash-porter-master-profile-corroboration",
+    beat: "clean-cash",
+    label: "Cross-reference: Porter master profile Core Contradiction section",
+    detail:
+      "The Klarman ($13,900) and Mullen ($8,000+) lifetime federal entries are already documented in content/Politicians/Races/CA Governor 2026/Katie Porter/_Katie Porter Master Profile.md under 'Core Contradiction' and 'Class Analysis' sections. The beat is consistent with the existing in-vault analysis; no new factual claim about Porter's record. Verify the master profile sections still match the beat's framing before publishing.",
+    lane: "Editor",
+    url: "internal://content/Politicians/Races/CA Governor 2026/Katie Porter/_Katie Porter Master Profile.md",
+  },
+]
+
 export const BEATS: BeatRecord[] = [
   {
     slug: "three-becerras",
@@ -1358,6 +1433,33 @@ const BEATS_UPCOMING: BeatRecord[] = [
       { label: "Coinbase advisory sidebar anchored", detail: "LA Times April 2024 + March 2026 confirms paid advisory role. Specific compensation amount: NO DATA per Perplexity follow-up.", status: "done" },
       { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
       { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs when prototype is shipped", status: "pending" },
+    ],
+  },
+  {
+    slug: "clean-cash",
+    publicSlug: "clean-cash",
+    title: "Katie Porter says she does not take money from the donor class. Five names on her donor list say she does.",
+    deck:
+      "Katie Porter's whiteboard brand is built on rejecting corporate PACs and Wall Street executives. The rule has narrow definitions. Her 2026 Cal-Access donor list (Porter for Governor 2026, FPPC 1479597) shows Christian Larsen $39,200 (Ripple co-founder, also maxed Hilton — cross-party crypto hedge), Joe Kiani $39,200 (Masimo founder/CEO), Karla Jurvetson $40,100 (Bay Area progressive megadonor), and First Foundation Bank $57,200 (wealth-management bank for HNW clients — her largest single organizational direct contribution this cycle). Lifetime federal records add Seth Klarman ~$13,900 (Baupost hedge fund) and Donald Mullen $8,000+ (former Goldman Sachs subprime trading head) — both already documented in Porter's master profile under 'Core Contradiction.' The beat does NOT assert a wealth-tax policy position for Porter; it lays out the donor structure and uses a wealth tax as the cleanest single test of where the loyalty would land. Three-row donor-bloc matrix tests wealth-tax exposure: industrial unions (net beneficiaries), plaintiff-bar partners (mixed exposure at $50M threshold), wealthy-individual donors (direct annual hit). Built 2026-05-06 from data already in the master profile + Cal-Access primary records — no new pipeline runs, no API hits.",
+    prototypeFile: "beat-clean-cash.html",
+    prototypeUrl: "http://localhost:8096/clean-cash",
+    dossierPath: "content/Politicians/Races/CA Governor 2026/Katie Porter/_Katie Porter Master Profile.md",
+    status: "draft",
+    verificationSeeds: CLEAN_CASH_SEEDS,
+    perplexityRounds: [],
+    auditPasses: [],
+    editorialChecklist: [
+      { label: "Headline locked", detail: '"Katie Porter says she does not take money from the donor class. Five names on her donor list say she does." (decided 2026-05-06)', status: "done" },
+      { label: "Six-card receipt callout", detail: "Christian Larsen (spine card, red border, cross-party hedge) + Joe Kiani + Karla Jurvetson + Seth Klarman (lifetime federal) + Donald Mullen (lifetime federal) + First Foundation Bank. Each card cites Cal-Access committee 1479597 or FEC bulk records as appropriate.", status: "done" },
+      { label: "Three-row donor-bloc matrix", detail: "Industrial unions (~$278K, net wealth-tax beneficiaries) + Plaintiff bar (~$230K, mixed exposure) + Wealthy individuals (~$200K+, direct annual hit, RED spine row). Per memory rule feedback_policy_ask_matrix_pattern.md.", status: "done" },
+      { label: "Inline TOC after lede", detail: "7 sections, anchored click-to-jump. Per memory rule feedback_beat_toc_required.md.", status: "done" },
+      { label: "Normie-language pass", detail: "Per memory rule feedback_normie_prose_published.md. Em-dash count: 0 in body prose. Glosses on first technical reference: 'corporate PAC,' 'wealth-management bank,' 'wealth tax.' No AI vernacular ('furthermore'/'crucially'/'importantly').", status: "done" },
+      { label: "Methodology + non-claims block", detail: "Sources block names Cal-Access (state) + FEC bulk filings (federal) + Porter master profile cross-reference. Explicit non-claims: no claim about Porter's stated position on a specific wealth-tax bill, no claim that any individual donor is hostile to her policy goals.", status: "done" },
+      { label: "Lane discipline · what this beat does NOT do", detail: "Does not assert a Porter cosponsorship of a specific wealth-tax bill (data not verified in our vault). Does not editorialize about Karla Jurvetson's politics (long-time progressive donor; the structural point is the donor-list shape, not her individual politics). Per Rule 4 (AI translates, never generates).", status: "done" },
+      { label: "Prototype HTML", detail: "content/clean-cash/index.html + prototype/beat-clean-cash.html · ~340 lines. 6 receipt cards, 3 matrix rows, 7 h2 sections, 0 em-dashes, balanced div tags (validated structurally before commit).", status: "done" },
+      { label: "Public-routes.json exposure", detail: "BLOCKED on David URL-pass + sign-off. Per memory rule feedback_no_auto_public_route.md — Code Claude does not add slug to data/public-routes.json without explicit David authorization. URL-pass runs at /active-beat/clean-cash in ops.", status: "blocked" },
+      { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs once URL-pass clears. Meta tag references thedonormap.org/static/share/clean-cash.png; PNG not yet rendered.", status: "pending" },
+      { label: "Site-preview entry", detail: "Added to ops/src/app/site-preview/page.tsx as draft-isolated. Surfaces at /site-preview in ops.", status: "done" },
     ],
   },
 ]

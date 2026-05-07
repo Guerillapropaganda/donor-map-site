@@ -151,6 +151,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "Clean Cash · Porter's whiteboard rule vs. her donor list (DRAFT)",
+    url: "http://localhost:8096/clean-cash",
+    description: "Katie Porter's anti-corporate brand defines the rejected donor class narrowly. Her 2026 Cal-Access donor list (committee 1479597) has Christian Larsen (Ripple co-founder, $39,200), Joe Kiani (Masimo founder/CEO, $39,200), Karla Jurvetson (Bay Area progressive megadonor, $40,100), and First Foundation Bank (wealth-management bank, $57,200). Lifetime federal records add Seth Klarman (Baupost hedge fund, ~$13,900) and Donald Mullen (former Goldman subprime trading head, $8,000+) — both already documented in Porter's master profile as 'clean cash' gaps. Three-row donor-bloc matrix tests wealth-tax exposure: industrial unions (net beneficiaries), plaintiff-bar partners (mixed), wealthy-individual donors (direct annual hit). Built 2026-05-06. URL-pass pending in /active-beat/clean-cash.",
+    status: "draft-isolated",
+    category: "beat",
+  },
+  {
     title: "Race Map · cross-cutting donor overlay (DRAFT)",
     url: "http://localhost:8096/carace26-map",
     description: "Eight candidates. 55 named donors. 8 multi-candidate hedge bets. 17 industry tags. Interactive D3 force-directed graph at the top of the page lets you hover any candidate to see their donors, hover any donor to see which candidates they fund. Filters: Hedge bets (the 8 cross-cutters), Attacks only (the 2 anti-Steyer edges from PG&E + IBEW). Sections §1 hedge-bet table, §2 industry wars, §3 aggregation/cluster patterns, §4 candidate-by-candidate shape comparison. Sourced from per-candidate dossiers in content/Admin Notes/ca-gov-2026-dossiers/. Built 2026-05-04. URL-pass pending in /active-beat/carace26-map. Two sourcing flags from extraction agent: Chris Larsen identity (same person funding Hilton + Porter?), and M&D/Downs Energy industry-tag confidence.",
