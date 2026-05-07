@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Hedge · One coalition. Eight candidates. The same $35 million wall around their billions. · The Donor Map</title>
+<meta name="description" content="California's richest family gave Xavier Becerra $78,400 the day before he debated on national television. The same family gave $2 million to a $35 million coalition fighting California's billionaire tax. The same families fund three other candidates in the same race. The candidates are not enemies. They are hedges.">
+<meta property="og:site_name" content="The Donor Map">
+<meta property="og:title" content="The Hedge: One coalition, eight candidates, $35 million to kill the tax that would tax their billions.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://thedonormap.org/the-hedge/">
+<meta property="og:description" content="California's richest billionaires are funding multiple gubernatorial candidates across parties while simultaneously funding a $35 million PAC to kill the wealth tax that would tax their billions. Primary-source receipts.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Hedge: One coalition, eight candidates, $35 million.">
+<meta name="twitter:description" content="The same families writing max-out checks to multiple candidates are also writing $2-9 million checks to the PAC fighting the wealth tax. Cal-Access primary source.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+  --green: #16a34a;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.nav { border-bottom: 2px solid var(--black); padding: 18px 0; background: var(--cream); position: sticky; top: 0; z-index: 10; }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; color: var(--black); text-decoration: none; }
+.nav-links { display: flex; gap: 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.nav-links a { color: var(--ink); text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 2px; }
+.nav-links a:hover, .nav-links a.active { border-bottom-color: var(--black); }
+
+.article-header { padding: 72px 32px 60px; border-bottom: 2px solid var(--black); }
+.article-header-inner { max-width: 880px; margin: 0 auto; }
+.breadcrumb { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 24px; }
+.breadcrumb a { color: var(--muted); text-decoration: none; }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta { display: flex; gap: 16px; align-items: center; margin-bottom: 28px; font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; flex-wrap: wrap; }
+.beat-meta .tag { background: var(--black); color: var(--cream); padding: 4px 10px; }
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified { background: var(--yellow); padding: 4px 10px; font-weight: 700; }
+
+.article-header h1 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 64px; line-height: 1.0; letter-spacing: -3px; margin-bottom: 32px; }
+.article-header h1 .h-yellow { background: var(--yellow); padding: 0 10px; }
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 28px; line-height: 1.3; color: var(--ink); border-left: 4px solid var(--black); padding-left: 24px; }
+
+.spine-callout { background: var(--black); color: var(--cream); padding: 56px 32px; border-bottom: 2px solid var(--black); }
+.spine-callout-inner { max-width: 1100px; margin: 0 auto; }
+.spine-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--yellow); text-align: center; margin-bottom: 8px; }
+.spine-sub { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 18px; color: #aaa; text-align: center; margin-bottom: 36px; }
+.spine-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+@media (max-width: 800px) { .spine-grid { grid-template-columns: 1fr; gap: 22px; } }
+.spine-card { padding: 28px; background: #161616; border-left: 4px solid var(--red); }
+.spine-card .filing { font-family: 'Space Mono', monospace; font-size: 10px; font-weight: 700; letter-spacing: 2px; color: var(--red); text-transform: uppercase; margin-bottom: 10px; }
+.spine-card .filer { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 700; color: #ddd; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 1.5px; }
+.spine-card .source-name { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 26px; line-height: 1.1; letter-spacing: -1px; color: #fff; margin-bottom: 10px; }
+.spine-card .recipient { font-family: 'Inter', sans-serif; font-size: 15px; line-height: 1.4; color: #ccc; margin-bottom: 16px; }
+.spine-card .amount { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 26px; color: var(--red); letter-spacing: -0.5px; padding: 8px 12px; background: #0a0a0a; display: inline-block; }
+.spine-card .footnote { font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1px; color: #888; margin-top: 18px; line-height: 1.5; }
+.spine-card .footnote a { color: #aaa; border-bottom: 1px dotted #666; text-decoration: none; }
+.spine-card .footnote a:hover { color: var(--yellow); border-bottom-color: var(--yellow); }
+.spine-stinger { margin-top: 36px; text-align: center; font-family: 'Instrument Serif', serif; font-style: italic; font-size: 22px; color: #fff; line-height: 1.4; }
+.spine-stinger strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; background: var(--yellow); color: var(--black); padding: 2px 8px; }
+
+.article-body { padding: 80px 32px; }
+.article-body-inner { max-width: 720px; margin: 0 auto; font-size: 19px; line-height: 1.65; }
+.article-body p { margin-bottom: 22px; }
+.article-body p strong { background: var(--yellow); padding: 0 4px; font-weight: 700; }
+.article-body p.lede { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 26px; line-height: 1.4; color: var(--ink); margin-bottom: 32px; }
+.article-body p.lede strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; }
+.article-body h2 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; line-height: 1.1; letter-spacing: -1px; margin-top: 48px; margin-bottom: 18px; border-top: 2px solid var(--black); padding-top: 32px; }
+.article-body h2 em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.article-body a.cite { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); }
+.article-body a.cite:hover { background: var(--yellow); border-bottom: 1px solid var(--black); color: var(--black); }
+
+.toc { margin: 36px 0 48px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 20px 0; font-family: 'Space Mono', monospace; }
+.toc .toc-label { font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 12px; }
+.toc ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 24px; counter-reset: toc-counter; }
+@media (max-width: 700px) { .toc ol { grid-template-columns: 1fr; } }
+.toc li { counter-increment: toc-counter; display: flex; gap: 10px; align-items: baseline; font-size: 14px; line-height: 1.4; padding: 4px 0; border-bottom: 1px dotted var(--line); }
+.toc li::before { content: counter(toc-counter, decimal-leading-zero) "."; font-weight: 700; color: var(--muted); flex-shrink: 0; font-size: 12px; }
+.toc li a { color: var(--ink); text-decoration: none; font-weight: 700; flex: 1; }
+.toc li a:hover { background: var(--yellow); }
+
+.pull-quote { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 28px; line-height: 1.3; border-left: 6px solid var(--yellow); padding: 12px 0 12px 28px; margin: 36px 0; color: var(--ink); }
+.pull-quote strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; background: var(--yellow); padding: 0 4px; }
+
+.coalition-table, .candidate-table { margin: 28px 0; border: 2px solid var(--black); background: var(--paper); }
+.coalition-table table, .candidate-table table { width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif; }
+.coalition-table th, .candidate-table th { background: var(--black); color: var(--cream); font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 12px 14px; text-align: left; }
+.coalition-table td, .candidate-table td { padding: 12px 14px; border-bottom: 1px solid var(--line); font-size: 15px; line-height: 1.4; }
+.coalition-table td.num, .candidate-table td.num { text-align: right; font-family: 'Space Mono', monospace; font-weight: 700; font-variant-numeric: tabular-nums; color: var(--red); }
+.coalition-table td.donor-name { font-weight: 700; }
+.coalition-table tr.spine td { background: #faecec; font-weight: 700; }
+.candidate-table td.position-against { background: #faecec; }
+.candidate-table td.position-silent { background: var(--paper); color: var(--muted); font-style: italic; }
+
+.hedge-grid-block { margin: 36px 0; padding: 32px; background: var(--paper); border: 2px solid var(--black); }
+.hedge-grid-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; margin-bottom: 6px; letter-spacing: -0.5px; }
+.hedge-grid-block .desc { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); margin-bottom: 18px; }
+.hedge-row { display: grid; grid-template-columns: 200px 1fr; gap: 20px; padding: 14px 0; border-top: 1px dotted var(--line); }
+.hedge-row:first-of-type { border-top: 2px solid var(--black); padding-top: 18px; }
+.hedge-row .donor { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 17px; color: var(--ink); }
+.hedge-row .donor-sub { font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; margin-top: 4px; line-height: 1.4; }
+.hedge-row .recipients { font-size: 14px; line-height: 1.5; }
+.hedge-row .recipients strong { background: var(--yellow); padding: 0 4px; }
+@media (max-width: 600px) { .hedge-row { grid-template-columns: 1fr; gap: 6px; } }
+
+.sources-block { margin-top: 60px; padding-top: 36px; border-top: 2px solid var(--black); font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; }
+.sources-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; margin-bottom: 12px; letter-spacing: -0.5px; }
+.sources-block ul { list-style: none; padding: 0; }
+.sources-block ul li { padding: 6px 0; border-bottom: 1px solid var(--line); font-family: 'Space Mono', monospace; font-size: 13px; line-height: 1.5; }
+.sources-block ul li a { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); word-break: break-all; }
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label { display: inline-block; width: 240px; color: var(--ink); font-weight: 700; }
+
+.beat-footer { padding: 48px 32px; background: var(--black); color: var(--cream); text-align: center; }
+.beat-footer .brand-footer { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 8px; }
+.beat-footer .brand-footer em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: #ddd; }
+.beat-footer .tagline-footer { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 16px; color: #aaa; margin-bottom: 24px; }
+.beat-footer .footer-cta { display: inline-block; font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--cream); text-decoration: none; border: 2px solid var(--cream); padding: 10px 22px; margin: 0 8px; }
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small { font-family: 'Space Mono', monospace; font-size: 11px; color: #777; letter-spacing: 1px; margin-top: 32px; }
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 38px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 20px; }
+  .article-body h2 { font-size: 26px; }
+  .article-body-inner { font-size: 17px; }
+  .pull-quote { font-size: 22px; }
+  .spine-stinger { font-size: 18px; }
+  .coalition-table th, .candidate-table th, .coalition-table td, .candidate-table td { font-size: 13px; padding: 10px 8px; }
+}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/investigations" class="active">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/">The Donor Map</a> <span class="sep">›</span>
+      <a href="/investigations">Investigations</a> <span class="sep">›</span>
+      <span>The Hedge</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">CA Gov 2026</span>
+      <span class="date">May 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>One <span class="h-yellow">coalition.</span> Eight <span class="h-yellow">candidates.</span> The same <span class="h-red">$35 million wall</span> around their billions.</h1>
+    <p class="deck">
+      California's richest billionaires are funding multiple gubernatorial candidates across parties while simultaneously funding a $35 million coalition to kill the wealth tax that would tax their billions. The candidates are not enemies. They are hedges.
+    </p>
+  </div>
+</header>
+
+<section class="spine-callout">
+  <div class="spine-callout-inner">
+    <div class="spine-label">The day before the debate · Cal-Access · primary source</div>
+    <div class="spine-sub">Filed under penalty of perjury · California Secretary of State · 24-hour late contribution reports · May 5, 2026</div>
+    <div class="spine-grid">
+
+      <div class="spine-card">
+        <div class="filing">Filing 3149725 · committee 499047</div>
+        <div class="filer">Stewart A. Resnick And Affiliated Entities</div>
+        <div class="source-name">$39,200 → Becerra For Governor 2026</div>
+        <div class="recipient">Recipient committee 1480025 · contribution date May 4, 2026 · the day before the CNN governor debate · primary election June 2, 2026</div>
+        <div class="amount">$39,200.00</div>
+        <div class="footnote">Stewart Resnick is co-owner of The Wonderful Company. Net worth $5.4 billion. Page 3 memo: "Made by Stewart A. Resnick." <a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3149725&amendid=0" target="_blank" rel="noopener">Cal-Access PDF</a></div>
+      </div>
+
+      <div class="spine-card">
+        <div class="filing">Filing 3149729 · committee 1252697</div>
+        <div class="filer">Lynda Rae Resnick</div>
+        <div class="source-name">$39,200 → Becerra For Governor 2026</div>
+        <div class="recipient">Same recipient committee · same contribution date · same primary election. Combined with her husband: $78,400 to Becerra.</div>
+        <div class="amount">$39,200.00</div>
+        <div class="footnote">Lynda Resnick is co-trustee of the Wonderful Company. Same San Rafael office, same political treasurer (David Lazarus) handles both filings. <a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3149729&amendid=0" target="_blank" rel="noopener">Cal-Access PDF</a></div>
+      </div>
+
+    </div>
+    <div class="spine-stinger">
+      Two filings. Two max-out checks. <strong>$78,400 the day before he debated on national TV.</strong>
+    </div>
+  </div>
+</section>
+
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>The Resnicks paid Xavier Becerra to perform.</strong> Their checks cleared the day before the May 5 CNN debate. The 24-hour disclosure rule, designed to expose exactly this kind of last-minute money, forced the filing the next day. The public knows because California law required them to tell us. The interesting part is not the $78,400 itself. It is what else the Resnicks paid for the same week.
+    </p>
+
+    <p>
+      On April 10, 2026, Sergey Brin, the co-founder of Google, gave $9 million to a political action committee called Building a Better California. On the same day, Building a Better California sent $4.5 million to one ballot initiative committee and $4.5 million to another. The two ballot committees exist to kill California's 2026 Billionaire Tax Act, a one-time 5% tax on Californians worth over $1 billion. Stewart Resnick has put $2 million into the same anti-tax coalition. Christian Larsen, the co-founder of Ripple Labs, has put $2.5 million in. So have John Doerr, Michael Moritz, Patrick Collison, Eric Schmidt, Tony Xu, Max Levchin, and Peter Thiel. The coalition has raised $35 million.
+    </p>
+
+    <p>
+      Many of the same billionaires are also writing max-out checks to the people running for governor. Christian Larsen gave Katie Porter $117,600. He also gave Matt Mahan $500,000 and Steve Hilton $39,200. Three candidates. Two parties. One donor. Stewart and Lynda Resnick gave Antonio Villaraigosa $72,800 in 2024. They gave Matt Mahan $50,000 in March 2026. They gave Eric Swalwell $156,800 before he dropped out. They gave $250,000 to Gavin Newsom's ballot committee last fall. And on May 4, 2026, they gave Xavier Becerra $78,400.
+    </p>
+
+    <p class="lede">
+      <strong>The candidates are not enemies. They are hedges.</strong> The wealth tax is the actual thing the donors care about. The candidates exist to determine which version of "billionaires keep their money" gets enacted.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#coalition">The $35 million coalition</a></li>
+        <li><a href="#tax">What they are defending</a></li>
+        <li><a href="#hedge">The hedge pattern · same donors, multiple candidates</a></li>
+        <li><a href="#positions">Each candidate's stated position</a></li>
+        <li><a href="#brin-flow">The Brin flow on April 10</a></li>
+        <li><a href="#address">The same office handles both</a></li>
+        <li><a href="#signal">The signal</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="coalition">The $35 million <em>coalition</em></h2>
+
+    <p>
+      Building a Better California is a political action committee registered with the California Secretary of State as filer ID <strong>1486767</strong>. It is administered out of 2350 Kerner Boulevard, Suite 250, San Rafael, California, an address shared with two intermediaries named in its filings: Building a Better California Incorporated, the related corporate entity, and Compass4 Inc. The PAC's spokesperson is Abby Lunardi, formerly of the Chan Zuckerberg Initiative. Its legal work is handled by Nielsen Merksamer, a California political law firm. It was founded in January 2026, three months after California's 2026 Billionaire Tax Act began signature collection.
+    </p>
+
+    <p>
+      The coalition's named donors are publicly reported. The dollar amounts have been collected from primary-source Cal-Access filings, the Fortune piece on the coalition's founding, Bloomberg's reporting on the PAC's formation, and the SF Standard's coverage of the April spending wave.
+    </p>
+
+    <div class="coalition-table">
+      <table>
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>Primary holdings</th>
+            <th class="num">Reported to BABC</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="spine">
+            <td class="donor-name">Sergey Brin</td>
+            <td>Co-founder, Alphabet (Google). Estimated net worth $272.6 billion.</td>
+            <td class="num">$66,000,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">John Doerr</td>
+            <td>Kleiner Perkins, venture capital.</td>
+            <td class="num">$10,000,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Michael Moritz</td>
+            <td>Sequoia Capital, venture capital. Chairman, The Standard.</td>
+            <td class="num">$7,500,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Patrick Collison</td>
+            <td>Co-founder and CEO, Stripe.</td>
+            <td class="num">$7,000,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Eric Schmidt</td>
+            <td>Former CEO, Google.</td>
+            <td class="num">$3,000,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Peter Thiel</td>
+            <td>Founders Fund, Palantir co-founder. Reported via California Business Roundtable channel.</td>
+            <td class="num">$3,000,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Christian Larsen</td>
+            <td>Co-founder, Ripple Labs (cryptocurrency).</td>
+            <td class="num">$2,500,000</td>
+          </tr>
+          <tr class="spine">
+            <td class="donor-name">Stewart Resnick</td>
+            <td>Co-owner, The Wonderful Company. Pistachios, pomegranates, FIJI Water. Estimated net worth $5.4 billion.</td>
+            <td class="num">$2,000,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Tony Xu</td>
+            <td>Co-founder and CEO, DoorDash.</td>
+            <td class="num">$2,000,000</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Max Levchin</td>
+            <td>Co-founder and CEO, Affirm. Co-founder, PayPal.</td>
+            <td class="num">$1,000,000</td>
+          </tr>
+          <tr class="total" style="border-top: 2px solid var(--black);">
+            <td colspan="2" style="font-weight: 900;">Reported total to Building a Better California</td>
+            <td class="num" style="font-size: 18px; color: var(--black);">$35,000,000+</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: -8px 0 28px;">
+      Sergey Brin's $9 million on April 10, 2026 is verified directly from Cal-Access Filing 3139587. The $20 million he gave at the coalition's launch and the $37 million he added in the spring are reported by Fortune and Bloomberg. The Resnick figure is reported by InfluenceWatch and the Governing piece; some sources list it as $2.5 million. Larsen's $2.5 million is reported by CPA Practice Advisor.
+    </p>
+
+    <h2 id="tax">What they are <em>defending</em></h2>
+
+    <p>
+      The 2026 Billionaire Tax Act, also known as Initiative 25-0024, is a proposed California ballot measure. It would impose a one-time 5% excise tax on the net worth of any California resident with assets over $1 billion, with a phase-out between $1 billion and $1.1 billion. Real estate, pensions, and retirement accounts are excluded. The Legislative Analyst's Office estimates it would raise tens of billions of dollars. Ninety percent of the revenue would go to healthcare. Ten percent would go to education, food assistance, and tax administration.
+    </p>
+
+    <p>
+      The proponent is the United Healthcare Workers West, a chapter of the Service Employees International Union. The signature-collection campaign reached 25% of its required signatures by March 2026. The measure is targeted for the November 2026 ballot.
+    </p>
+
+    <p>
+      The math is the part that explains the spending. <strong>The coalition has put $35 million into killing a tax that would cost the named donors several billion dollars combined</strong>. Brin's Alphabet stake alone would owe roughly $13 billion under the proposed tax. Resnick's Wonderful Company stake would owe roughly $250 million. The math justifies the political spend by orders of magnitude. Spending $35 million to avoid paying ten times that much is not extraordinary in this context. It is the cost of doing business.
+    </p>
+
+    <h2 id="hedge">The hedge pattern · <em>same donors, multiple candidates</em></h2>
+
+    <p>
+      The coalition's tax-defense work is one part of the strategy. The other part is funding the candidates who would govern the state if the tax passes. Below is a partial map of cross-candidate giving from named coalition donors. Every dollar amount is from primary-source Cal-Access filings.
+    </p>
+
+    <div class="hedge-grid-block">
+      <h3>Christian Larsen · Ripple co-founder</h3>
+      <div class="desc">$2.5 million to BABC · plus three California governor candidates</div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Katie Porter</div>
+          <div class="donor-sub">Democrat · "no corporate PAC money"</div>
+        </div>
+        <div class="recipients">$117,600 max-out to Porter For Governor 2026. The same Porter campaign that publicly opposes the cryptocurrency industry by name in its platform.</div>
+      </div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Matt Mahan</div>
+          <div class="donor-sub">Democrat · San Jose mayor</div>
+        </div>
+        <div class="recipients"><strong>$500,000</strong> · Larsen's single largest political contribution to a 2026 candidate. Mahan's largest individual donor.</div>
+      </div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Steve Hilton</div>
+          <div class="donor-sub">Republican · Fox News alum</div>
+        </div>
+        <div class="recipients">$39,200 max-out. Three candidates funded by the same Ripple founder. Across two parties.</div>
+      </div>
+    </div>
+
+    <div class="hedge-grid-block">
+      <h3>Stewart and Lynda Resnick · The Wonderful Company</h3>
+      <div class="desc">$2 million to BABC · plus four California governor candidates</div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Antonio Villaraigosa</div>
+          <div class="donor-sub">Democrat · former LA mayor</div>
+        </div>
+        <div class="recipients">$72,800 to Villaraigosa For Governor 2026 in July 2024.</div>
+      </div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Matt Mahan</div>
+          <div class="donor-sub">Democrat · San Jose mayor</div>
+        </div>
+        <div class="recipients">$50,000 combined to Mahan For Governor 2026 in March 2026.</div>
+      </div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Eric Swalwell</div>
+          <div class="donor-sub">Democrat · withdrew from race</div>
+        </div>
+        <div class="recipients">$156,800 to Eric Swalwell For Governor 2026 in March 2026 before his withdrawal. Refund status unknown as of this writing.</div>
+      </div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Xavier Becerra</div>
+          <div class="donor-sub">Democrat · former HHS Secretary · debate front-runner</div>
+        </div>
+        <div class="recipients"><strong>$78,400 max-out on May 4, 2026</strong>, the day before the CNN debate. Plus $15,600 in December 2025. Cumulative $94,000.</div>
+      </div>
+      <div class="hedge-row">
+        <div>
+          <div class="donor">Yes on 50</div>
+          <div class="donor-sub">Newsom's 2025 ballot measure</div>
+        </div>
+        <div class="recipients">$250,000 to Newsom's ballot committee in October 2025. Adjacent political maintenance.</div>
+      </div>
+    </div>
+
+    <p class="pull-quote">
+      One Ripple co-founder. Three California governor candidates. Two parties. <strong>The donors are not picking sides. They are buying access no matter who wins.</strong>
+    </p>
+
+    <h2 id="positions">Each candidate's <em>stated position</em></h2>
+
+    <p>
+      The donor coalition spends the money. The candidates set the policy. The signal of who actually defends the wealth tax versus who quietly opposes it is each candidate's stated position. Below is what we have on record.
+    </p>
+
+    <div class="candidate-table">
+      <table>
+        <thead>
+          <tr>
+            <th>Candidate</th>
+            <th>Stated position on Initiative 25-0024</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="donor-name">Xavier Becerra</td>
+            <td class="position-against"><strong>Against.</strong> Says it is unfair for billionaires to pay a lower rate but argues a one-time levy is "not the way."</td>
+            <td>CalMatters, "California billionaire tax divides liberal Democrats" (April 2026)</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Antonio Villaraigosa</td>
+            <td class="position-silent">No public statement located on Initiative 25-0024 specifically. General "all of the above" rhetoric on California fiscal questions.</td>
+            <td>LA Times Fresno State agriculture forum coverage (April 2026)</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Katie Porter</td>
+            <td class="position-against"><strong>Against.</strong> Said at the May 5 CNN debate: the billionaire tax is "simply not good tax policy." Argued: "It's a one-time tax, but we don't have one-time revenue needs."</td>
+            <td>CNN debate, May 5, 2026</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Tom Steyer</td>
+            <td class="position-against">Against the wealth tax as drafted. Has said it does not go far enough. Steyer's own self-funded campaign is reported at over $140 million.</td>
+            <td>SF Standard, April 29, 2026</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Steve Hilton</td>
+            <td class="position-against"><strong>Against.</strong> Republican opposition to all new state taxes, including this one.</td>
+            <td>Hilton campaign platform</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Matt Mahan</td>
+            <td class="position-silent">No public statement located on Initiative 25-0024 specifically. Mahan's $500,000 largest single donor is Christian Larsen, who has put $2.5 million into the anti-tax coalition.</td>
+            <td>Cal-Access Mahan committee 1486858 + BABC committee 1486767</td>
+          </tr>
+          <tr>
+            <td class="donor-name">Chad Bianco</td>
+            <td class="position-against">Republican opposition to all new state taxes. Has called for elimination of the state income tax.</td>
+            <td>Bianco campaign platform</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="pull-quote">
+      <strong>Five against. Two silent. Zero in favor.</strong> The coalition's $35 million is buying a result that the candidates were already going to deliver. The investment is not in changing minds. It is in keeping the alignment.
+    </p>
+
+    <h2 id="brin-flow">The Brin flow · <em>April 10, 2026</em></h2>
+
+    <p>
+      One Cal-Access filing shows the coalition's apparatus working in real time. On April 24, 2026, Building a Better California filed Form 497 Filing 3139587, a 24-hour late contribution report. The filing covers transactions on April 10, 2026.
+    </p>
+
+    <p>
+      In: Sergey Brin (CO-FOUNDER, GOOGLE), reported address Reno, Nevada, gave Building a Better California (filer 1486767) <strong>$9,000,000</strong>. The filing memo notes the contribution was "received through intermediaries, Building a Better California Incorporated" and "Compass4, Inc," both at the same San Rafael address.
+    </p>
+
+    <p>
+      Out, same day: Building a Better California gave $4.5 million to Californians for a More Transparent and Effective Government, the ballot committee for Initiative 25-0040A1. That initiative would require pre-election audits of programs funded by new state special taxes and prohibit certain new state taxes from being excluded from the existing voter-approved spending limit.
+    </p>
+
+    <p>
+      Out, same day: Building a Better California gave $4.5 million to Californians to Protect Retirement and Life Savings, the ballot committee for Initiative 25-0041A1. That initiative would prohibit new state personal property taxes and certain retroactive state taxes.
+    </p>
+
+    <p>
+      Both committees are sponsored by Building a Better California. Both initiatives are designed to either block the wealth tax procedurally or carve out the asset categories billionaires hold. <strong>The parent committee is a pass-through.</strong> Money in, money out, same day. The counter-initiatives are the actual spending vehicles.
+    </p>
+
+    <h2 id="address">The same office handles <em>both</em></h2>
+
+    <p>
+      The Cal-Access filings give the address: 2350 Kerner Boulevard, Suite 250, San Rafael, California 94901. The contact name listed for the corporate intermediary is David Lazarus, a long-established California political treasurer whose firm services many statewide political committees. Compass4 Inc operates out of the same suite.
+    </p>
+
+    <p>
+      The same address appears on a different IRS filing. Steadfast LA, the rebuilding nonprofit Rick Caruso founded after the 2025 Pacific Palisades fire, is registered with the IRS at <strong>2350 Kerner Boulevard, Suite 250, San Rafael, California 94901-5596</strong>, with David Lazarus listed as the contact. The same political-treasurer firm services Caruso's rebuilding nonprofit and the billionaire coalition's anti-wealth-tax PAC. The shared address is administratively normal in California political finance. Many committees use one treasurer firm. The substantive point is the colocation. The same operational apparatus that handles the $35 million billionaire tax-defense effort also handles the private rebuilding apparatus that is currently the lead public-private partner to Mayor Karen Bass on the Palisades fire reconstruction.
+    </p>
+
+    <h2 id="signal">The <em>signal</em></h2>
+
+    <p>
+      Five gubernatorial candidates have stated they oppose the wealth tax. Two have not stated a position. None have stated they support it. The coalition's $35 million is therefore not buying a change in policy outcomes. The policy outcome was already aligned.
+    </p>
+
+    <p>
+      What the money is buying is the <strong>certainty of alignment</strong>. The Resnick check on May 4 was not a bet that Becerra would win. It was a deposit, in case he does. The Larsen checks to Porter, Mahan, and Hilton are not endorsements of three different politicians. They are three independent insurance policies on the same regulatory question. If any one of them wins, the donor still has a relationship with the governor's office.
+    </p>
+
+    <p>
+      The donors are not picking sides because the sides are not where the actual fight is. The actual fight is Initiative 25-0024 versus the two counter-initiatives Building a Better California is funding into the same November 2026 ballot. The candidates exist downstream of that fight, as the people who will administer whatever survives. The donors are buying both ends of the lever.
+    </p>
+
+    <p class="pull-quote">
+      <strong>The Resnicks paid Becerra $78,400 to perform on debate night.</strong> They paid the same week to kill the tax that would tax them. Both expenditures buy the same thing.
+    </p>
+
+    <p style="font-style: italic; color: var(--muted); font-size: 16px; margin-top: 36px;">
+      None of the donors named in this piece have been charged with any crime. Every contribution documented is a legal political contribution disclosed under California's Political Reform Act. The structural pattern, not the individual transaction, is what this investigation maps.
+    </p>
+
+    <div class="sources-block">
+      <h3>Primary sources and references</h3>
+      <ul>
+        <li><span class="label">Resnick → Becerra (Stewart)</span><a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3149725&amendid=0" target="_blank" rel="noopener">Cal-Access Form 497 Filing 3149725</a></li>
+        <li><span class="label">Resnick → Becerra (Lynda)</span><a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3149729&amendid=0" target="_blank" rel="noopener">Cal-Access Form 497 Filing 3149729</a></li>
+        <li><span class="label">Brin → BABC ($9M)</span><a href="https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3139587" target="_blank" rel="noopener">Cal-Access Form 497 Filing 3139587</a></li>
+        <li><span class="label">BABC parent committee</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486767" target="_blank" rel="noopener">Cal-Access committee 1486767 detail</a></li>
+        <li><span class="label">Initiative 25-0024 (LAO)</span><a href="https://lao.ca.gov/BallotAnalysis/Initiative/2025-024" target="_blank" rel="noopener">LAO ballot analysis</a></li>
+        <li><span class="label">Initiative 25-0024 (proponent)</span><a href="https://www.seiu-uhw.org/ca-billionaire-tax-act/" target="_blank" rel="noopener">SEIU-UHW campaign page</a></li>
+        <li><span class="label">Coalition formation</span><a href="https://fortune.com/2026/04/26/california-billionaire-tax-ballot-measure-sergey-brin-gavin-newsom-political-war/" target="_blank" rel="noopener">Fortune, "Sergey Brin confronted Gavin Newsom"</a></li>
+        <li><span class="label">Coalition spending</span><a href="https://www.cpapracticeadvisor.com/2026/05/05/billionaires-pour-millions-into-ballot-fight-over-california-wealth-tax/182806/" target="_blank" rel="noopener">CPA Practice Advisor, May 5, 2026</a></li>
+        <li><span class="label">Coalition mechanics</span><a href="https://sfstandard.com/2026/04/29/california-s-billionaire-tax-war-officially-s-going-cost-fortune/" target="_blank" rel="noopener">SF Standard, April 29, 2026</a></li>
+        <li><span class="label">Becerra position</span><a href="https://calmatters.org/politics/2026/04/billionaire-tax-labor-divided/" target="_blank" rel="noopener">CalMatters, "Billionaire tax divides liberal Democrats"</a></li>
+        <li><span class="label">Larsen → Mahan</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486858" target="_blank" rel="noopener">Cal-Access Mahan committee 1486858</a></li>
+        <li><span class="label">Becerra committee</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1480025" target="_blank" rel="noopener">Cal-Access Becerra committee 1480025</a></li>
+      </ul>
+      <div class="methodology" style="margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.6; color: var(--muted);">
+        <strong>Methodology:</strong> Every dollar amount in this piece is verified against California campaign-finance filings (Cal-Access primary source), federal FEC filings where applicable, or named California political publications (CalMatters, SF Standard, LA Times, Politico California, Fortune, Bloomberg). Aggregator sources (OpenSecrets, FollowTheMoney, Ballotpedia for live numbers) were not used. Numbers reported by single sources are flagged as such.
+      </div>
+    </div>
+
+  </div>
+</article>
+
+<footer class="beat-footer">
+  <div class="brand-footer">GUERILLA <em>Prop.</em></div>
+  <div class="tagline-footer">Publisher of The Donor Map.</div>
+  <a href="/" class="footer-cta">More investigations</a>
+  <a href="/about" class="footer-cta">About</a>
+  <div class="small">thedonormap.org · primary-source verified</div>
+</footer>
+
+</body>
+</html>

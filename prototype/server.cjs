@@ -26,6 +26,8 @@ http.createServer((req, res) => {
   else if (url === '/carace26-map' || url === '/race-map' || url === '/beat-carace26-map' || url === '/beat-carace26-map.html') file = 'beat-carace26-map.html';
   else if (url === '/debate-night' || url === '/debate-night-receipts' || url === '/receipts') file = 'debate-night-receipts.html';
   else if (url === '/standby' || url.startsWith('/standby?') || url === '/standby.html') file = 'standby.html';
+  else if (url === '/the-hedge' || url === '/beat-the-hedge' || url === '/beat-the-hedge.html' || url === '/hedge') file = 'beat-the-hedge.html';
+  else if (url === '/the-apparatus' || url === '/beat-the-apparatus' || url === '/beat-the-apparatus.html' || url === '/apparatus' || url === '/steadfast') file = 'beat-the-apparatus.html';
   else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else if (url === '/investigations' || url === '/investigations/' || url === '/investigations.html') file = 'investigations.html';
