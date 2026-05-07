@@ -186,9 +186,9 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "chart",
   },
   {
-    title: "Landing v3 (default fallback)",
+    title: "Homepage (root /)",
     url: "http://localhost:8096/",
-    description: "Whatever the prototype server falls back to when no route matches. Currently landing-v3.html.",
+    description: "Live homepage served from prototype/home.html. Old landing-v2.html and landing-v3.html were deleted 2026-05-07; unknown URLs now return a proper 404 instead of silently serving the old homepage.",
     status: "prototype",
     category: "homepage",
   },

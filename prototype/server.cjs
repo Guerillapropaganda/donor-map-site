@@ -6,8 +6,7 @@ const port = parseInt(process.argv[2] || '8096');
 http.createServer((req, res) => {
   let url = req.url.split('?')[0];
   let file;
-  if (url === '/v2') file = 'landing-v2.html';
-  else if (url === '/charts' || url === '/charts.html') file = 'charts.html';
+  if (url === '/charts' || url === '/charts.html') file = 'charts.html';
   else if (url === '/memes' || url === '/memes-may-1' || url === '/memes-may-1.html') file = 'memes-may-1.html';
   else if (url === '/home' || url === '/home.html' || url === '/' ) file = 'home.html';
   else if (url === '/class-traitor' || url === '/beat-class-traitor' || url === '/beat-class-traitor.html') file = 'beat-class-traitor.html';
@@ -32,7 +31,11 @@ http.createServer((req, res) => {
   else if (url === '/clean-cash' || url === '/beat-clean-cash' || url === '/beat-clean-cash.html') file = 'beat-clean-cash.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else if (url === '/investigations' || url === '/investigations/' || url === '/investigations.html') file = 'investigations.html';
-  else file = 'landing-v3.html';
+  if (!file) {
+    res.writeHead(404, { 'Content-Type': 'text/html; charset=utf-8' });
+    res.end(`<!DOCTYPE html><html><head><title>404 · The Donor Map prototype</title><style>body{font-family:'Inter',sans-serif;background:#f5f0eb;color:#0a0a0a;padding:60px 32px;max-width:720px;margin:0 auto;line-height:1.5}h1{font-weight:900;font-size:48px;letter-spacing:-2px;margin-bottom:18px}code{background:#ece6dd;padding:2px 6px;font-family:'Space Mono',monospace}a{color:#1d4ed8}</style></head><body><h1>404 · No such route</h1><p>No prototype HTML matched <code>${url.replace(/[<>&"']/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;',"'":'&#39;'}[c]))}</code>.</p><p>If a beat lives at this slug elsewhere, register it in <code>prototype/server.cjs</code> first.</p><p><a href="/">→ Home</a> &nbsp; <a href="/investigations">→ Investigations</a></p></body></html>`);
+    return;
+  }
   const filePath = path.join(__dirname, file);
   const content = fs.readFileSync(filePath, 'utf8');
   res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
