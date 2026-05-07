@@ -151,9 +151,9 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
-    title: "Clean Cash · Porter's whiteboard rule vs. her donor list (DRAFT)",
+    title: "Clean Cash · Porter's whiteboard rule vs. her donor list (DRAFT · v2)",
     url: "http://localhost:8096/clean-cash",
-    description: "Katie Porter's anti-corporate brand defines the rejected donor class narrowly. Her 2026 Cal-Access donor list (committee 1479597) has Christian Larsen (Ripple co-founder, $39,200), Joe Kiani (Masimo founder/CEO, $39,200), Karla Jurvetson (Bay Area progressive megadonor, $40,100), and First Foundation Bank (wealth-management bank, $57,200). Lifetime federal records add Seth Klarman (Baupost hedge fund, ~$13,900) and Donald Mullen (former Goldman subprime trading head, $8,000+) — both already documented in Porter's master profile as 'clean cash' gaps. Three-row donor-bloc matrix tests wealth-tax exposure: industrial unions (net beneficiaries), plaintiff-bar partners (mixed), wealthy-individual donors (direct annual hit). Built 2026-05-06. URL-pass pending in /active-beat/clean-cash.",
+    description: "Katie Porter's anti-corporate brand defines the rejected donor class narrowly. Her donor list (committee 1479597) has Joe Kiani (Masimo founder/CEO, $39,200), Karla Jurvetson (Bay Area progressive megadonor, $40,100), First Foundation Bank ($57,200), plus Seth Klarman (Baupost hedge fund, ~$13,900 lifetime) and Donald Mullen (former Goldman subprime trading head, $8,000+ lifetime). LIVE SPINE: Christian Larsen, Ripple co-founder, gave Porter the $39,200 max in 2025 — then revoked his support in March 2026 after she endorsed SF Proposition D (CEO-pay tax, on June 2 2026 ballot). Larsen gave $700K against Prop D (incl $200K for mailers) and switched to Hilton (also maxed at $39,200). Per CalMatters May 2026. The Larsen story is the live enforcement case study — donor class enforces with money when the candidate touches their wealth. Cross-links to /the-hedge ($35M anti-wealth-tax vehicle, same coalition). Rewritten 2026-05-07 after CalMatters surfaced the revocation; original framing (cross-party hedge) was stale. URL-pass pending in /active-beat/clean-cash.",
     status: "draft-isolated",
     category: "beat",
   },
