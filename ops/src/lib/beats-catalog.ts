@@ -1438,14 +1438,96 @@ const BEATS_UPCOMING: BeatRecord[] = [
   {
     slug: "villaraigosa-pledge",
     publicSlug: "villaraigosa-pledge",
-    title: "The pledge he dropped.",
+    title: "The pledge he broke. The donors who took it.",
     deck:
-      "Signed the No Fossil Fuel Money pledge in 2018. Refused to re-sign it in 2026. $176K+ from oil donors since entering the 2026 race (LA Times May 2025), $1M+ over decades. CalMatters March 2026: called for moratorium on greenhouse-gas reduction rules and CARB overhaul. His own spokesperson Josh Pulliam on record: 'He didn't break the pledge — he's just refusing to sign it this time around.' Sidebars: $381,820 Newsom advisory contract; Stewart Resnick $72,800 + Wonderful Nut Orchards named in 2025 State Water Board order; paid Coinbase advisory role 2024-2026.",
-    prototypeFile: "(not yet built)",
-    prototypeUrl: "",
+      "In 2018, Antonio Villaraigosa signed a public pledge: no contributions from oil companies or named fossil-fuel executives. He has not re-signed it in 2026. His Cal-Access committee 1471635 ledger shows $464,800 from California's biggest oil and gas producers and a major natural-gas vehicle-fueling company: $72,800 from California Resources Corporation (state's largest oil-and-gas producer), $78,400 each from Chevron, Marathon Petroleum, and Berry Corporation, plus $156,800 from Clean Energy. He is the only major Democrat in the field opposing single-payer healthcare while taking $78,400 from AltaMed, $78,400 from COPE Healthcare Consulting, and $15,000 from Fresenius Medical Care (German-owned dialysis giant currently litigating against California regulation per April 2026 Ninth Circuit case 24-3655). Post-mayor income trail: Mercury Public Affairs (clients included Hyundai, Qatar, Turkey, CCSA, Westlands, Clorox, Lyft per LA Times Oct 7 2021), Actum LLC (Hungary's government per Axios Jan 27 2022), $381,820 paid by California Forward as Newsom's 'infrastructure czar' (funded by Port of San Diego, SoCalGas, Doordash, Disney, Southern California Edison, AT&T, California Communications Association per CalMatters June 17 2025). And the structural rejection: Reed Hastings put $7M into the 2018 IE supporting Villaraigosa through CCSA Advocates. Hastings's 2026 governor money went to Mahan instead. The candidate who ran in 2018 as the donor class's investment vehicle is running in 2026 as the candidate the donor class moved off of, while still taking maxes from the industry he had once promised to refuse. Drafted 2026-05-02, structurally cleaned 2026-05-07 (duplicate article tag fixed, mirrored to content/ tree).",
+    prototypeFile: "beat-villaraigosa-pledge.html",
+    prototypeUrl: "http://localhost:8096/villaraigosa-pledge",
     dossierPath: "content/Admin Notes/ca-gov-2026-dossiers/villaraigosa.md",
-    status: "upcoming",
-    verificationSeeds: [],
+    status: "draft",
+    verificationSeeds: [
+      {
+        id: "villaraigosa-cal-access-1471635",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: Cal-Access · Antonio Villaraigosa for Governor 2026 (FPPC 1471635)",
+        detail:
+          "THE SPINE. Anchors all 2026-cycle donor figures: California Resources Corp $72,800, Chevron $78,400, Marathon Petroleum $78,400, Berry Corporation $78,400, Clean Energy $156,800 (total fossil/natural-gas $464,800). Healthcare-industry block: AltaMed $78,400, COPE Healthcare Consulting $78,400, Fresenius Medical Care $15,000. Verify each name + amount on the Cal-Access committee detail page. The Clean Energy entry covers two cycles (primary plus general tranches) per Cal-Access cumulative reporting; verify both rows.",
+        lane: "Editor",
+        url: "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1471635",
+      },
+      {
+        id: "villaraigosa-latimes-pledge-broken-may26-2025",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: LA Times May 26, 2025 — broken fossil-fuel pledge",
+        detail:
+          "LOAD-BEARING for the 2018 pledge framing. The LA Times article documents Villaraigosa's 2018 pledge not to take oil-company or named-fossil-fuel-executive contributions, and his 2026 acceptance of those contributions without re-signing. The article also captures his 'all-of-the-above' framing and the 'poppycock' quote on California oil-production restrictions. ADR-0030 §11 carve-out covers a fetch of LA Times for quote verification.",
+        lane: "Editor",
+        url: "https://www.latimes.com/politics/story/2025-05-26/oil-villaraigosa-fossil-fuel-governors-race",
+      },
+      {
+        id: "villaraigosa-calmatters-infrastructure-czar-jun2025",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: CalMatters June 17, 2025 — infrastructure czar / California Forward funding",
+        detail:
+          "Anchors the $381,820 figure paid by California Forward and the named donor list (Port of San Diego, SoCalGas, Doordash, Disney, Southern California Edison, AT&T, California Communications Association). The 'paid by entities with active state regulatory exposure while serving as Newsom advisor' framing depends on this verification. ADR-0030 §11 covers CalMatters fetches for quote/figure verification.",
+        lane: "Editor",
+        url: "https://calmatters.org/politics/2025/06/california-newsom-villaraigosa-infrastructure-project/",
+      },
+      {
+        id: "villaraigosa-latimes-single-payer-nov2025",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: LA Times November 8, 2025 — single-payer opposition",
+        detail:
+          "Anchors the 'only major Democrat in the field opposing single-payer' framing. Verify Villaraigosa is on record opposing single-payer in this article and that no other Democrat in the 2026 field (Becerra, Porter, Steyer, Mahan, Thurmond) is similarly on record opposing.",
+        lane: "Editor",
+        url: "https://www.latimes.com/california/story/2025-11-08/democrats-running-for-governor-talk-about-healthcare",
+      },
+      {
+        id: "villaraigosa-latimes-mercury-oct2021",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: LA Times October 7, 2021 — Mercury Public Affairs client list",
+        detail:
+          "Anchors the Mercury Public Affairs client list (Hyundai, Qatar, Turkey, CCSA, Westlands, Clorox, Lyft). Verify Villaraigosa worked at Mercury between mayoralty and 2018 governor run, and that the cited clients were Mercury clients during his tenure. The 'selling influence to foreign governments' framing depends on the Qatar and Turkey verifications specifically.",
+        lane: "Editor",
+        url: "https://www.latimes.com/politics/story/2021-10-07/former-elected-leaders-nunez-boxer-villaraigosa-mercury-public-affairs",
+      },
+      {
+        id: "villaraigosa-axios-actum-hungary-jan2022",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: Axios January 27, 2022 — Actum LLC Hungary engagement",
+        detail:
+          "Anchors the Actum LLC Hungary engagement claim. Verify Villaraigosa moved from Mercury to Actum, and that Actum's Hungarian-government work overlapped with his tenure. FARA filings (Foreign Agents Registration Act) at the Department of Justice are the corroborating primary source.",
+        lane: "Editor",
+        url: "https://www.axios.com/2022/01/27/villaraigosa-actum-hungary-lobbying",
+      },
+      {
+        id: "villaraigosa-ninth-circuit-fresenius-apr2026",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: Ninth Circuit April 7, 2026 — Fresenius v. California regulation (case 24-3655)",
+        detail:
+          "Anchors the 'Fresenius Medical Care currently litigating against California regulation while donating to a CA gov candidate' framing. Verify the case number, the April 7 2026 opinion date, and that Fresenius is the appellant against a California state agency. ADR-0030 §1 covers court.gov / cdn.ca9.uscourts.gov fetches as government primary sources.",
+        lane: "Editor",
+        url: "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/04/07/24-3655.pdf",
+      },
+      {
+        id: "villaraigosa-fppc-2018-ie-22m",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: FPPC June 2018 Primary Election top-10 contributors archive",
+        detail:
+          "Anchors the $22M 2018 IE total flowing through California Charter Schools Association Advocates (CCSA-IE). Verify the 2018 top-10 contributors archive shows Reed Hastings as the largest contributor to the pro-Villaraigosa CCSA Advocates IE. KQED April 13, 2018 has the original reporting.",
+        lane: "Editor",
+        url: "https://www.fppc.ca.gov/transparency/top-contributors.html",
+      },
+      {
+        id: "villaraigosa-fppc-2026-hastings-mahan",
+        beat: "villaraigosa-pledge",
+        label: "URL pass: FPPC June 2026 Primary Election top-10 contributors (Hastings to Mahan)",
+        detail:
+          "Anchors the 'Hastings's 2026 governor money went to Mahan instead' structural rejection point. Verify Hastings's 2026 contribution to the Mahan IE PAC (Back to Basics California, FPPC 1487425) and the absence of any 2026 Hastings contribution to a Villaraigosa committee or pro-Villaraigosa IE.",
+        lane: "Editor",
+        url: "https://www.fppc.ca.gov/transparency/top-contributors.html",
+      },
+    ],
     perplexityRounds: [
       { name: "Villaraigosa donor + post-mayor income + fossil fuel pledge break", status: "applied (Prompt #7)", date: "2026-05-02" },
       { name: "Resnick / Wonderful Company water-rights regulatory exposure", status: "applied — Wonderful Nut Orchards named in State Water Board 2025 order; Resnick gave $72,800 + cross-candidate hedge ($545K across 5 cmtes including Mahan/Swalwell/Becerra/Newsom Yes on 50)", date: "2026-05-03" },
@@ -1453,13 +1535,18 @@ const BEATS_UPCOMING: BeatRecord[] = [
     ],
     auditPasses: [],
     editorialChecklist: [
-      { label: "Headline locked", detail: '"The pledge he dropped." Strongest contradiction in the field — Tier 1 + Tier 2 anchored, on-record spokesperson defense.', status: "done" },
-      { label: "Target ship date", detail: "Week 2 of distribution push (post-May 8). Highest-leverage second beat after Mahan concentration.", status: "pending" },
-      { label: "Source material exists", detail: "C-006 in emerging-beat-candidates.md; Cal-Access RCPT_CD verified for committee 1471635; LA Times May 26 2025 + CalMatters Mar 18 2026 + Politico Jul 31 2025 multi-publication coverage already in record.", status: "done" },
+      { label: "Headline locked", detail: '"The pledge he broke. The donors who took it." (locked 2026-05-02; structurally cleaned 2026-05-07)', status: "done" },
+      { label: "Target ship date", detail: "Week 2 of distribution push (post-May 8). Strongest contradiction in the Dem field. June 2 primary in 26 days.", status: "pending" },
+      { label: "Source material exists", detail: "C-006 in emerging-beat-candidates.md; Cal-Access RCPT_CD verified for committee 1471635; LA Times May 26 2025 + CalMatters Jun 17 2025 + LA Times Nov 8 2025 + LA Times Oct 7 2021 + Axios Jan 27 2022 + Ninth Circuit Apr 7 2026 (case 24-3655) all anchored as verification seeds.", status: "done" },
+      { label: "Hero SVG (2018 pledge ↔ 2026 ledger)", detail: "Two-column 900x460 SVG with yellow 2018 pledge box on the left ('I will not accept contributions from oil companies or named fossil-fuel executives'), 8-year arrow center, black 2026 ledger box on the right naming each fossil-fuel donor + amount + total $464,800. The visual hero of the beat.", status: "done" },
+      { label: "Hastings structural-rejection section", detail: "Section 5 documents the $22M 2018 IE through CCSA Advocates → Hastings's 2026 governor money to Mahan instead. The donor class moved off Villaraigosa while he kept taking fossil-fuel maxes.", status: "done" },
       { label: "Resnick water-rights sidebar anchored", detail: "State Water Board July 21 2025 order names Wonderful Nut Orchards LLC as part of Westside Mutual Water Company — Tier 1 regulatory tie. Resnick cross-candidate hedge documented across 5 committees + Newsom ballot committee.", status: "done" },
       { label: "Coinbase advisory sidebar anchored", detail: "LA Times April 2024 + March 2026 confirms paid advisory role. Specific compensation amount: NO DATA per Perplexity follow-up.", status: "done" },
-      { label: "Prototype HTML", detail: "Not yet built", status: "pending" },
-      { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs when prototype is shipped", status: "pending" },
+      { label: "Structural cleanup 2026-05-07", detail: "Removed duplicate <article class='article-body'> opening tag at line 645-651 (was breaking HTML structure). Mirrored prototype/beat-villaraigosa-pledge.html to content/villaraigosa-pledge/index.html so Quartz can build it. Validated: 7 TOC items + 7 H2 sections + balanced article/div tags + 0 em-dashes in body prose.", status: "done" },
+      { label: "Prototype HTML", detail: "prototype/beat-villaraigosa-pledge.html (1036 lines after duplicate-tag fix) + content/villaraigosa-pledge/index.html (mirrored 2026-05-07). Hero SVG + 7 H2 sections + receipts table + sources block + methodology paragraph.", status: "done" },
+      { label: "Verification seeds populated", detail: "9 seeds covering Cal-Access committee 1471635, LA Times broken-pledge piece, CalMatters infrastructure-czar piece, LA Times single-payer piece, LA Times Mercury piece, Axios Actum piece, Ninth Circuit Fresenius opinion, FPPC 2018 + 2026 top-contributor archives. URL-pass runs at /active-beat/villaraigosa-pledge in ops.", status: "done" },
+      { label: "Public-routes.json exposure", detail: "BLOCKED on David URL-pass + sign-off. Per memory rule feedback_no_auto_public_route.md.", status: "blocked" },
+      { label: "OG share card", detail: "Pending — add CARDS entry to scripts/render-og-images.cjs once URL-pass clears", status: "pending" },
     ],
   },
   {

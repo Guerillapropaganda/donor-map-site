@@ -104,7 +104,7 @@ const PROTOTYPE_PAGES: PageEntry[] = [
   {
     title: "Villaraigosa · The Pledge He Broke (DRAFT)",
     url: "http://localhost:8096/villaraigosa-pledge",
-    description: "Signed a 2018 pledge not to take fossil-fuel money. In 2026 he is the principal Democrat beneficiary of oil-and-gas donations: $307K combined from CRC, Chevron, Marathon, Berry. Plus Mercury Public Affairs (Hungary, Qatar, Turkey clients) and the Reed-Hastings-dropped-him-for-Mahan thread. Built 2026-05-02. Pending URL pass before public exposure.",
+    description: "Signed a 2018 pledge not to take fossil-fuel money. In 2026 he is the principal Democrat beneficiary of oil-and-gas donations: $464,800 combined ($72,800 California Resources Corp + $78,400 each from Chevron, Marathon, Berry + $156,800 Clean Energy natural-gas vehicle fueling). Single-payer opposition while taking $78,400 AltaMed + $78,400 COPE Healthcare + $15K Fresenius (currently litigating against CA regulation per April 7 2026 Ninth Circuit case 24-3655). Post-mayor income trail: Mercury Public Affairs (Hungary, Qatar, Turkey clients), Actum LLC (Hungary's government), $381,820 California Forward 'infrastructure czar' funded by Port of San Diego, SoCalGas, Doordash, Disney, SoCalEdison, AT&T. Reed Hastings $7M to 2018 IE → 2026 money went to Mahan instead. Hero SVG: 2018 pledge box ↔ 2026 ledger box, same companies. Built 2026-05-02. Structurally cleaned + mirrored to content/ tree 2026-05-07 (was prototype-only). 9 verification seeds populated for URL-pass.",
     status: "draft-isolated",
     category: "beat",
   },
