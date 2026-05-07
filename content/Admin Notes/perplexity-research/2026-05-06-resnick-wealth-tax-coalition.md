@@ -63,13 +63,54 @@ Core thesis: California's 2026 election is being shaped by a single billionaire 
 | 4. The candidates' positions on the wealth tax | Pull each gov candidate's stated position. Bet: they're all "no" or evasive. That's the signal. |
 | 5. The conclusion | The donors aren't picking sides. They're buying a regime. |
 
+## Cal-Access committee structure (primary-source verified 2026-05-06 evening)
+
+| Filer ID | Committee | Role | Primary URL |
+|---:|---|---|---|
+| **1486767** | **Building a Better California** | Parent committee, San Rafael CA 94901 | `https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3139587` |
+| 1488423 | Californians for a More Transparent and Effective Government, Sponsored by BABC | Initiative 25-0040A1 — "Requires audits of programs funded by new state special taxes. Prohibits new state taxes that are excluded from existing voter-approved state spending limit. Initiative Constitutional Amendment." | Same filing |
+| 1488418 | Californians to Protect Retirement and Life Savings, Sponsored by BABC | Initiative 25-0041A1 — "Prohibits new state personal property taxes and certain retroactive state taxes. Initiative Constitutional Amendment." | Same filing |
+
+Phone: (415) 389-6800. Address: 2350 Kerner Blvd Ste 250, San Rafael CA 94901.
+
+## Brin contribution flow on 2026-04-10 (primary-source verified)
+
+From Cal-Access Form 497 Filing 3139587 (filed 2026-04-24):
+
+- **2026-04-10 IN:** Sergey Brin (CO-FOUNDER, GOOGLE), Reno NV 89509 → Building a Better California (1486767) — **$9,000,000.00**
+- **2026-04-10 OUT:** Building a Better California (1486767) → Californians for a More Transparent and Effective Government (1488423, Initiative 25-0040A1) — **$4,500,000.00**
+- **2026-04-10 OUT:** Building a Better California (1486767) → Californians to Protect Retirement and Life Savings (1488418, Initiative 25-0041A1) — **$4,500,000.00**
+
+Memo line on intermediary structure: "RECEIVED THROUGH INTERMEDIARIES, BUILDING A BETTER CALIFORNIA INCORPORATED (2350 KERNER BLVD., SUITE 250, SAN RAFAEL, CA 94901) & COMPASS4, INC (SAME ADDRESS)."
+
+**Structural finding:** The parent committee is a pass-through. Money in, money out, same day. The counter-initiative committees are the actual spending vehicles. Brin's $9M became $4.5M to each of the two active counter-initiatives within hours.
+
+## Address overlap with Steadfast LA (structural)
+
+Both Building a Better California (parent committee 1486767) and Steadfast LA (IRS-located EIN 33-3239336) are administered out of **2350 Kerner Blvd, Suite 250, San Rafael CA 94901**.
+
+That address is the offices of California political-treasurer David Lazarus (the IRS Steadfast LA record lists "% David Lazarus" as the contact). This is the office of Lazarus & Associates, a treasurer-services firm that handles many California statewide political committees. The shared address is administratively normal but structurally notable: the same political-treasurer apparatus services both the $35M billionaire anti-wealth-tax coalition and Caruso's rebuild nonprofit.
+
+Quotable line for The Hedge beat: "Both committees are administered out of the same San Rafael office at 2350 Kerner Blvd, Suite 250."
+
+## Active counter-initiatives — official AG numbers
+
+- **Initiative 25-0040A1** — sponsored by BABC, committee 1488423 — Transparency Act
+- **Initiative 25-0041A1** — sponsored by BABC, committee 1488418 — Retirement Protection Act
+- **Initiative 25-0024** — Billionaire Tax Act itself, proposed by SEIU-United Healthcare Workers West (proponent committee filer ID still unverified)
+- (Protect Schools and Taxpayers Act — pushed to 2028, not in active 2026 spending)
+
 ## Open verification questions
 
-1. **Confirm Stewart Resnick's exact dollar amount** — sources differ ($2M Governing.com vs $2.5M CPA Practice Advisor). Cal-Access primary needed.
-2. **Confirm Lynda Resnick's contribution if any** — same coalition, may have separate filing
-3. **Building a Better California committee filer ID** — find on Cal-Access
-4. **Three counter-initiatives** — what specifically are they, who's the proponent, what do they do
-5. **Each gov candidate's stated position on Initiative 25-0024** — public statements, debate transcripts
+1. ~~Confirm Stewart Resnick's exact dollar amount~~ → Pending (Resnick contribution to BABC not yet verified primary source — may be in a different Form 497 filing)
+2. ~~Confirm Lynda Resnick's contribution if any~~ → Pending
+3. ~~Building a Better California committee filer ID~~ → ✓ **VERIFIED 1486767** (parent), 1488423 + 1488418 (counter-initiatives)
+4. Counter-initiatives: ✓ Two of three identified (25-0040A1 and 25-0041A1); third was Protect Schools and Taxpayers Act, pushed to 2028 ballot
+5. Each gov candidate's stated position on Initiative 25-0024 → still pending Perplexity prompt
+6. NEW: Full BABC contributor list for parent committee 1486767 — pull complete Form 460 / 497 chain
+7. NEW: Compass4 Inc — what is this entity, who controls it, what's its role in the intermediary chain
+8. NEW: Steadfast LA's distinct 501(c)(3) Foundation EIN if separate from EIN 33-3239336 — IRS Tax Exempt Organization Search lookup needed
+9. NEW: PPRC Development Project, LLC — California SOS bizfile lookup needed
 
 ## Cross-references
 
