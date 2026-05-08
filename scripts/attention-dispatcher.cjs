@@ -68,14 +68,16 @@ const PRODUCERS = [
   // content/Admin Notes/vault-audit-latest.json (read by /api/vault-audit).
   // The Dashboard also triggers an on-demand re-run if the artifact is
   // > 15 min old, so a dead dispatcher never leaves numbers stale-forever.
-  // 2-minute timeout — 14-check harness runs in ~7s on current vault but
-  // some checks (reconciliation-framework-tier-1) can spike.
+  // 5-minute timeout — vault has grown to 92K+ findings across 22 checks
+  // and 120s was timing out on every cron tick (2026-05-08). Bumped to
+  // 300s. If this starts timing out again, that's the signal to either
+  // shard the harness or cache more aggressively.
   {
     name: 'vault-audit',
     schedule: '*/15 * * * *',
     script: 'scripts/vault-audit.cjs',
     args: ['--quiet'],
-    timeout_ms: 120_000,
+    timeout_ms: 300_000,
   },
   // ADR-0029 Phase 2: closes the safety loop. Runs after vault-audit
   // every 15 min (offset by 5 min) so calibration findings are fresh.

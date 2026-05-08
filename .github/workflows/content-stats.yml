@@ -1,8 +1,13 @@
 name: Content Stats
 
+# Trigger is manual-only. The scheduled cron was removed 2026-05-08:
+# branch protection on v4 rejects Stats Bot's push (3 required status
+# checks aren't satisfied), so every scheduled run failed with GH006.
+# site-status.md isn't referenced from any other page, so on-demand
+# regeneration is sufficient. To re-enable daily, either grant Stats
+# Bot a PAT that bypasses protection, or fold this into the local
+# attention-dispatcher so the commit travels with vault changes.
 on:
-  schedule:
-    - cron: '0 5 * * *'
   workflow_dispatch:
 
 permissions:
