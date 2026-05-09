@@ -1,15 +1,15 @@
-name: Regression Tests + Data Integrity
+name: Data Integrity + Security Gate
 
-# Runs the Phase 6 regression test suite and data integrity audit on
-# every PR to v4 and every push to v4. These are the same gates the
-# pre-commit hook runs locally — CI runs them server-side in case the
-# hook was bypassed (SKIP_HOOKS=1) or never installed.
+# Runs canonical-data-store integrity checks, security audits, and
+# the ops Next.js build on every PR/push to v4. Local pre-commit
+# already runs the same checks; CI is the server-side backstop in
+# case the hook was bypassed (SKIP_HOOKS=1) or never installed.
 #
-# Docs:
-# - content/Decisions/0008-query-engine-build-complete.md
-# - content/Phases/phase-6/retrospective.md
-# - scripts/phase-6-regression-tests.cjs (20 tests, ~75ms)
-# - scripts/phase-6-data-integrity-audit.cjs
+# 2026-05-08: trimmed in the noise-reduction pass. Phase 6
+# regression tests + query-engine contract tests + publication-
+# readiness-smoke retired — built for vault-as-live-site flow that
+# no longer exists. Auth Smoke Tests kept as dormant safety net for
+# when paid-tier auth ships.
 
 on:
   pull_request:
@@ -21,9 +21,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  regression-tests:
-    name: Phase 6 Regression Tests
+  auth-smoke:
+    name: Auth Smoke Tests
     runs-on: ubuntu-latest
+    # Dormant safety net — currently the public site has no auth on
+    # any beat. When paid-tier launches and tier-check middleware is
+    # wired into more routes, this guards the public-by-default opt-out
+    # rule (CLAUDE.md Rule 12).
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
         with:
@@ -33,12 +37,6 @@ jobs:
         uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6
         with:
           node-version: 22
-
-      - name: Run regression tests
-        run: node --test scripts/phase-6-regression-tests.cjs
-
-      - name: Run query engine contract tests
-        run: node --test scripts/query-engine-contract-tests.cjs
 
       - name: Run auth architecture smoke tests
         run: node --test scripts/auth-smoke-tests.cjs
@@ -58,33 +56,6 @@ jobs:
 
       - name: Run data integrity audit
         run: node scripts/phase-6-data-integrity-audit.cjs
-
-  publication-readiness-smoke:
-    name: Publication Readiness Script Smoke Test
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
-        with:
-          fetch-depth: 1
-
-      - name: Setup Node
-        uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6
-        with:
-          node-version: 22
-
-      # This job does NOT fail on unpublishable profiles — it only fails
-      # if the script itself crashes. "0 profiles ready" is expected
-      # until David works through the verified-promotion batch.
-      - name: Smoke test publication-readiness-check
-        run: |
-          node scripts/publication-readiness-check.cjs --folder Policies || exit_code=$?
-          # Exit 1 from the script means "found unpublishable profiles" (expected).
-          # Exit 2 means "script crashed" (real failure).
-          if [ "${exit_code:-0}" = "2" ]; then
-            echo "publication-readiness-check.cjs crashed"
-            exit 1
-          fi
-          echo "publication-readiness-check.cjs ran cleanly"
 
   deps-cve-scan:
     name: Dependencies CVE Scan
