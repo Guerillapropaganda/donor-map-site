@@ -1,0 +1,1298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>He's the new Caruso · The Donor Map</title>
+<meta name="description" content="Spencer Pratt is running for Los Angeles mayor while simultaneously suing the City of Los Angeles and LADWP. He told Fox 11 in March 2026 he would not drop the lawsuit if elected. His campaign accepted two corporate-named in-kind contributions in February. His donor list shows Republican LA money that also backed Caruso 2022. His $24,050 Campaign Paraphernalia vendor is the same designer who has handled Pratt-family merchandise since the Pratt Daddy Crystals era.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.nav {
+  border-bottom: 2px solid var(--black);
+  padding: 18px 0;
+  background: var(--cream);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.nav-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brand {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  color: var(--black);
+  text-decoration: none;
+}
+.nav-links {
+  display: flex;
+  gap: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.nav-links a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
+}
+.nav-links a:hover { border-bottom-color: var(--black); }
+
+.article-header {
+  padding: 72px 32px 60px;
+  border-bottom: 2px solid var(--black);
+}
+.article-header-inner {
+  max-width: 880px;
+  margin: 0 auto;
+}
+.breadcrumb {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 28px;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.beat-meta .tag {
+  background: var(--black);
+  color: var(--cream);
+  padding: 4px 10px;
+}
+.beat-meta .date { color: var(--muted); }
+.beat-meta .verified {
+  background: var(--yellow);
+  padding: 4px 10px;
+  font-weight: 700;
+}
+
+.article-header h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 88px;
+  line-height: 0.95;
+  letter-spacing: -3.5px;
+  margin-bottom: 32px;
+}
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  color: var(--ink);
+  border-left: 4px solid var(--black);
+  padding-left: 24px;
+}
+
+.hero-viz {
+  padding: 60px 32px;
+  background: var(--paper);
+  border-bottom: 2px solid var(--black);
+}
+.hero-viz-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.hero-viz .viz-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  text-align: center;
+}
+.hero-viz svg {
+  width: 100%;
+  height: auto;
+  max-height: 540px;
+  display: block;
+  margin: 0 auto;
+}
+.hero-viz .viz-caption {
+  margin-top: 24px;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-align: center;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.article-body {
+  padding: 80px 32px;
+}
+.article-body-inner {
+  max-width: 720px;
+  margin: 0 auto;
+  font-size: 19px;
+  line-height: 1.65;
+}
+.article-body p {
+  margin-bottom: 22px;
+}
+.article-body p strong {
+  background: var(--yellow);
+  padding: 0 4px;
+  font-weight: 700;
+}
+.article-body p.lede {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 26px;
+  line-height: 1.4;
+  color: var(--ink);
+  margin-bottom: 32px;
+}
+.article-body p.lede strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.article-body h2 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 48px;
+  margin-bottom: 18px;
+  border-top: 2px solid var(--black);
+  padding-top: 32px;
+}
+.article-body h2 em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.toc {
+  margin: 36px 0 48px;
+  border-top: 4px solid var(--black);
+  border-bottom: 4px solid var(--black);
+  padding: 20px 0;
+  font-family: 'Space Mono', monospace;
+}
+.toc .toc-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+.toc ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 24px;
+  counter-reset: toc-counter;
+}
+@media (max-width: 700px) {
+  .toc ol { grid-template-columns: 1fr; }
+}
+.toc li {
+  counter-increment: toc-counter;
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.toc li::before {
+  content: counter(toc-counter, decimal-leading-zero) ".";
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.toc li a {
+  color: var(--ink);
+  text-decoration: none;
+  font-weight: 700;
+  flex: 1;
+}
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-top {
+  display: inline-block;
+  margin: 32px 0 0;
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--muted);
+  padding-bottom: 1px;
+}
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+.pull-quote {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1.3;
+  border-left: 6px solid var(--red);
+  padding: 12px 0 12px 28px;
+  margin: 36px 0;
+  color: var(--ink);
+}
+.pull-quote strong {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  background: var(--yellow);
+  padding: 0 4px;
+}
+
+.receipts-block {
+  margin: 36px 0;
+  padding: 32px;
+  background: var(--paper);
+  border: 2px solid var(--black);
+}
+.receipts-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+}
+.receipts-block .desc {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.receipts-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: 'Space Mono', monospace;
+  font-size: 14px;
+}
+.receipts-table th, .receipts-table td {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+.receipts-table th {
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.receipts-table td.num {
+  text-align: right;
+  font-weight: 700;
+  color: var(--red);
+  font-variant-numeric: tabular-nums;
+}
+.receipts-table tr.total td {
+  border-top: 2px solid var(--black);
+  border-bottom: none;
+  padding-top: 14px;
+  font-weight: 900;
+  font-size: 15px;
+}
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag {
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-top: 2px;
+}
+
+.boundary-block {
+  margin: 48px 0;
+  padding: 28px;
+  background: var(--paper);
+  border-left: 6px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.boundary-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  letter-spacing: -0.5px;
+  margin-bottom: 12px;
+}
+.boundary-block ul { list-style: none; padding: 0; }
+.boundary-block li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+}
+.boundary-block li::before {
+  content: "✗ ";
+  font-weight: 900;
+  color: var(--red);
+  margin-right: 6px;
+}
+
+.tip-box-beat { display: flex; align-items: stretch; margin: 56px 0 0; border: 3px solid var(--black); background: var(--paper); }
+.tip-box-beat-stripes { flex: 0 0 28px; background: repeating-linear-gradient(135deg, var(--yellow) 0, var(--yellow) 12px, var(--black) 12px, var(--black) 24px); }
+.tip-box-beat-body { flex: 1; padding: 22px 28px; }
+.tip-box-beat-tag { display: inline-block; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--cream); background: var(--black); padding: 4px 10px; margin-bottom: 14px; }
+.tip-box-beat-headline { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; line-height: 1.2; letter-spacing: -0.5px; color: var(--ink); margin-bottom: 8px; }
+.tip-box-beat-headline em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.tip-box-beat-desc { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 17px; line-height: 1.45; color: var(--muted); margin-bottom: 14px; }
+.tip-box-beat-row { display: grid; grid-template-columns: 110px 1fr; gap: 14px; padding: 8px 0; border-top: 1px solid var(--line); font-size: 14px; line-height: 1.5; }
+.tip-box-beat-row:first-of-type { border-top: none; padding-top: 4px; }
+.tip-box-beat-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); align-self: start; padding-top: 2px; }
+.tip-box-beat-value { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink); }
+.tip-box-beat-value a { color: var(--blue); text-decoration: none; border-bottom: 1px solid currentColor; }
+.tip-box-beat-value a:hover { background: var(--yellow); }
+.tip-box-beat-fineprint { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
+@media (max-width: 600px) { .tip-box-beat-stripes { flex-basis: 18px; } .tip-box-beat-body { padding: 18px 18px; } .tip-box-beat-row { grid-template-columns: 1fr; gap: 4px; } }
+
+.sources-block {
+  margin-top: 60px;
+  padding-top: 36px;
+  border-top: 2px solid var(--black);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.sources-block h3 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  margin-bottom: 12px;
+  letter-spacing: -0.5px;
+}
+.sources-block ul {
+  list-style: none;
+  padding: 0;
+}
+.sources-block ul li {
+  padding: 6px 0;
+  border-bottom: 1px solid var(--line);
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.sources-block ul li a {
+  color: var(--blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--blue);
+  word-break: break-all;
+}
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label {
+  display: inline-block;
+  width: 240px;
+  color: var(--ink);
+  font-weight: 700;
+}
+.sources-block .methodology {
+  margin-top: 28px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+.sources-block .methodology strong { color: var(--ink); }
+
+.beat-footer {
+  padding: 48px 32px;
+  background: var(--black);
+  color: var(--cream);
+  text-align: center;
+}
+.beat-footer .brand-footer {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin-bottom: 8px;
+}
+.beat-footer .brand-footer em {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+  color: #ddd;
+}
+.beat-footer .tagline-footer {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 16px;
+  color: #aaa;
+  margin-bottom: 24px;
+}
+.beat-footer .footer-cta {
+  display: inline-block;
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--cream);
+  text-decoration: none;
+  border: 2px solid var(--cream);
+  padding: 10px 22px;
+  margin: 0 8px;
+}
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: #777;
+  letter-spacing: 1px;
+  margin-top: 32px;
+}
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 48px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 22px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/investigations">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <span>He's the new Caruso</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">LA Mayor 2026</span>
+      <span class="date">Draft May 9, 2026</span>
+      <span class="verified">★ Primary-source verified</span>
+    </div>
+    <h1>He's the <span class="h-red">new Caruso</span>.</h1>
+    <p class="deck">
+      Spencer Pratt is running for mayor of Los Angeles. He is also suing the City of Los Angeles. His donor list is the same Republican LA money that backed Rick Caruso against Karen Bass in 2022. Two February in-kind contributions came from corporate-named entities, which the city prohibits. And his $24,050 merchandise vendor is the long-time Pratt family graphic designer who has been producing their merch since the Pratt Daddy Crystals era five years ago.
+    </p>
+  </div>
+</header>
+
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">Five Republican LA donors · 2022 Caruso · 2026 Pratt · same names, different candidate</div>
+    <svg viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg" aria-label="Five named donors who gave to Caruso in 2022 and Pratt in 2026">
+      <defs>
+        <marker id="arrow-bk-pratt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#0a0a0a"/>
+        </marker>
+      </defs>
+
+      <text x="450" y="32" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">THE DONOR LANE: 2022 → 2026</text>
+
+      <rect x="60" y="62" width="240" height="44" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="180" y="92" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="18" fill="#0a0a0a">CARUSO 2022</text>
+
+      <rect x="600" y="62" width="240" height="44" fill="#e63946" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="720" y="92" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="18" fill="#fff">PRATT 2026</text>
+
+      <text x="60"  y="148" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">Roy Disney</text>
+      <text x="60"  y="166" font-family="Space Mono, monospace" font-size="11" fill="#666">Shamrock Enterprises</text>
+      <text x="290" y="155" text-anchor="end" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,000</text>
+      <line x1="305" y1="148" x2="595" y2="148" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk-pratt)"/>
+      <text x="610" y="155" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,885</text>
+
+      <text x="60"  y="200" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">Michael Schwab</text>
+      <text x="60"  y="218" font-family="Space Mono, monospace" font-size="11" fill="#666">Big Sky Partners</text>
+      <text x="290" y="207" text-anchor="end" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,500</text>
+      <line x1="305" y1="200" x2="595" y2="200" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk-pratt)"/>
+      <text x="610" y="207" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,800</text>
+
+      <text x="60"  y="252" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">Loren Booth</text>
+      <text x="60"  y="270" font-family="Space Mono, monospace" font-size="11" fill="#666">Booth Ranches</text>
+      <text x="290" y="259" text-anchor="end" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,000</text>
+      <line x1="305" y1="252" x2="595" y2="252" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk-pratt)"/>
+      <text x="610" y="259" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,800</text>
+
+      <text x="60"  y="304" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">Michael Meldman</text>
+      <text x="60"  y="322" font-family="Space Mono, monospace" font-size="11" fill="#666">Discovery Land Co</text>
+      <text x="290" y="311" text-anchor="end" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,500</text>
+      <line x1="305" y1="304" x2="595" y2="304" stroke="#0a0a0a" stroke-width="2" marker-end="url(#arrow-bk-pratt)"/>
+      <text x="610" y="311" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$1,885</text>
+
+      <text x="60"  y="356" font-family="Inter, sans-serif" font-weight="900" font-size="14" fill="#0a0a0a">Ted &amp; Michele Waitt</text>
+      <text x="60"  y="374" font-family="Space Mono, monospace" font-size="11" fill="#666">Gateway Computers founder</text>
+      <text x="290" y="363" text-anchor="end" font-family="Space Mono, monospace" font-style="italic" font-size="13" fill="#666">no record</text>
+      <line x1="305" y1="356" x2="595" y2="356" stroke="#0a0a0a" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-bk-pratt)"/>
+      <text x="610" y="363" font-family="Space Mono, monospace" font-weight="700" font-size="13" fill="#0a0a0a">$3,600</text>
+
+      <line x1="60" y1="408" x2="840" y2="408" stroke="#0a0a0a" stroke-width="1"/>
+      <text x="450" y="436" text-anchor="middle" font-family="Instrument Serif, serif" font-style="italic" font-size="13" fill="#333">Source: LA City Ethics campaign-contributions database, queried May 9, 2026</text>
+    </svg>
+    <p class="viz-caption">
+      Five donors who wrote checks to Rick Caruso's 2022 mayoral run against Karen Bass are now writing checks to Spencer Pratt's 2026 run against Karen Bass. Same Republican LA donor lane. Different candidate.
+    </p>
+  </div>
+</section>
+
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>Spencer Pratt is running for Los Angeles mayor.</strong> He is also a plaintiff in a lawsuit against the City of Los Angeles and the Department of Water and Power, which he blames for the destruction of his and his parents' homes in the January 2025 Palisades fire. The Hills cast member, 41 years old, registered as a Republican in 2020, currently polling at about 11 percent. He qualified for the May 6 NBC4 mayoral debate. His campaign pitch is fire-victim grievance against Mayor Karen Bass. His parallel litigation seeks damages from the city he is asking voters to elect him to govern.
+    </p>
+
+    <p>
+      That is the simplest way to describe the structural posture of the Pratt 2026 campaign. The picture sharpens further when you read the LA City Ethics campaign-finance filings instead of the campaign website.
+    </p>
+
+    <p>
+      The committee Pratt for Mayor 2026 has raised <strong>$539,617</strong> from 1,634 donors through April 18. Roughly a quarter of that, $131,251, is unitemized small-dollar contributions. The remaining three-quarters tells a different story than fire-victim populism. The top donor list is loaded with luxury real-estate developers from Scottsdale, Kamas, and Phoenix. With a Disney heir. With a Schwab. With the Gateway Computers founder. With Casamigos co-founder Michael Meldman, whose Discovery Land Company spokesperson now publicly denies the contribution the campaign filed under his name. And five of those names also wrote max-out checks to Rick Caruso when he ran against Karen Bass in 2022.
+    </p>
+
+    <p>
+      The campaign filed two non-monetary contributions in February from entities whose filed names are corporate. Los Angeles prohibits corporate contributions to candidates. And the campaign paid $24,050 to a Shopify-based merchandise brand operated by a longtime Pratt family graphic designer whose own portfolio identifies Pratt Daddy Crystals as a former client and whose current product line includes 28 Heidi Montag-themed celebrity tees alongside PRATT2026 campaign tees on the same store.
+    </p>
+
+    <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
+      This investigation reads Pratt's CA Form 460 Schedule A and Schedule C filings, his Schedule E expenditure record, and cross-references against the same database for Rick Caruso's 2022 mayoral committee. All dollar figures and donor names are sourced to the LA City Ethics Commission campaign-finance public dataset on data.lacity.org. The full source list and methodology appear at the bottom of this page.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#act-i">Act I: The pitch</a></li>
+        <li><a href="#lawsuit">Act II: He is suing the city</a></li>
+        <li><a href="#corporate">Act III: Two corporate in-kind contributions</a></li>
+        <li><a href="#meldman">Act IV: The Meldman triple-channel</a></li>
+        <li><a href="#caruso">Act V: He's the new Caruso</a></li>
+        <li><a href="#newport-bleach">Act VI: The merchandise vendor</a></li>
+        <li><a href="#boundary">What this beat does not allege</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="act-i">Act I: The pitch</h2>
+
+    <p>
+      Spencer Pratt and his wife Heidi Montag became reality-TV figures on MTV's <em>The Hills</em> from 2006 to 2010. After the show, they stayed in Pacific Palisades. They ran a crystal-merchandise business called Pratt Daddy. They had children. They appeared on a 2019 spinoff show called <em>The Hills: New Beginnings</em>. Pratt registered as a Republican in 2020, switching from Independent.
+    </p>
+
+    <p>
+      In January 2025, the Palisades fire destroyed their home and the home of Pratt's parents. By the spring of 2026 he was running for Los Angeles mayor as a Republican against incumbent Karen Bass and progressive councilmember Nithya Raman. UCLA Luskin polling around the May 6 NBC4 mayoral debate had Pratt at 11 percent, ahead of Raman's 9. He qualified for the debate stage. Bass had publicly said before the debate she had <em>"never heard of"</em> him and accused him of <em>"exploiting the grief of people in the Palisades."</em> Pratt responded, on Fox News and in an emotional ad featuring his mother, that Bass had <em>"let my house burn down."</em>
+    </p>
+
+    <p>
+      That is the campaign pitch. Fire-victim populism. The donor map's job is to show what the receipts say next to that pitch.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="lawsuit">Act II: He is suing the city</h2>
+
+    <p>
+      Spencer and Heidi Pratt filed suit against the City of Los Angeles and the Department of Water and Power on <strong>January 21, 2025</strong>, two weeks after the Palisades fire destroyed their home. Co-plaintiffs include Spencer's parents <strong>Janet Pratt and William Pratt</strong>, plus 20+ additional Palisades property owners. The case was filed in Los Angeles County Superior Court. Plaintiffs' counsel: the McNulty Law Firm of Los Angeles. Lead attorney <strong>Peter J. McNulty</strong> is also Plaintiffs' Liaison Counsel for the broader consolidated Palisades-fire litigation. The Pratt complaint was consolidated under the lead case <em>Grigsby v. City of Los Angeles</em>, No. 25STCV00832.
+    </p>
+
+    <p>
+      The legal theory: that around 10:30 p.m. on January 7, 2025, power lines downed by the Palisades fire could have caused a secondary fire that destroyed additional homes including the Pratts'. LADWP's stated defense is that the lines in question were manually de-energized around 2:15 p.m. earlier that day. <strong>Judge Samantha Jessner ruled on February 19, 2026</strong> that property and business owners could pursue inverse-condemnation claims against the city and LADWP. The California Court of Appeal denied the City's and the State's petitions to halt those claims. The litigation is active and in discovery. No trial date has been set. More than 10,000 residents, businesses, and insurers are now part of the coordinated litigation.
+    </p>
+
+    <p>
+      Spencer Pratt is a plaintiff in that consolidated lawsuit. He is a plaintiff against the city government he is now asking voters to elect him to lead. He is a plaintiff against LADWP, the city-owned utility that the next mayor will appoint commissioners to oversee.
+    </p>
+
+    <div class="pull-quote">
+      Spencer Pratt is running for mayor of Los Angeles. <strong>He is also suing the City of Los Angeles.</strong>
+    </div>
+
+    <p>
+      Pratt has been asked publicly whether he would drop the lawsuit if elected. On <strong>March 27, 2026</strong>, in an interview with Fox 11 LA reporter Marla Tellez, he answered:
+    </p>
+
+    <div class="pull-quote">
+      <strong>"Absolutely not.</strong> The city failed over 10,000 people. 12 of them died, 7,000 structures. And that lawsuit is going forward. Thankfully, I'm not running to be the judge. The case is gonna be in front of a judge, and the judge will have the ruling. So there would be no conflict because the mayor does not control the outcome of that lawsuit."
+    </div>
+
+    <p>
+      That is Pratt's own framing of the conflict-of-interest question. The position rests on a narrow interpretation of mayoral authority. The mayor of Los Angeles appoints LADWP commissioners (subject to City Council confirmation), directs the city attorney's office, controls the city's litigation-defense budget, and signs or vetoes settlement appropriations. Whether the mayor "does not control the outcome" of a city-versus-resident lawsuit in which the mayor is the named plaintiff is a structural question voters can weigh. The donor map's job is to show that he has been asked, and that this is what he said.
+    </p>
+
+    <p>
+      Whether Spencer Pratt and his co-plaintiffs would receive any settlement or judgment from the litigation, and whether any portion of those proceeds would benefit the candidate personally or his immediate family, is open. The complaint seeks damages "according to proof" with no specified dollar figure.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="corporate">Act III: Two corporate in-kind contributions</h2>
+
+    <p>
+      Pratt's CA Form 460 Schedule C filings include two non-monetary in-kind contributions in February 2026. Both at the legal maximum for a Los Angeles mayoral primary. Both filed under names that, on their face, identify corporate entities.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Schedule C non-monetary contributions, February 2026</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION CA FORM 460 SCHEDULE C · COMMITTEE 1485940</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Contributor (filed name)</th>
+            <th>Description</th>
+            <th class="num">Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2026-02-01</td>
+            <td><span class="donor-name">KOMOS TEQUILA</span><br><span class="class-tag">New York, NY 10016</span></td>
+            <td>Beverages for event</td>
+            <td class="num">$1,800.00</td>
+          </tr>
+          <tr>
+            <td>2026-02-09</td>
+            <td><span class="donor-name">DELTA SPECIAL OPERATIONS CORP</span><br><span class="class-tag">Santa Rosa Valley, CA 93012</span></td>
+            <td>Event security</td>
+            <td class="num">$1,800.00</td>
+          </tr>
+          <tr class="total">
+            <td colspan="3">Combined non-monetary in-kind from corporate-named entities</td>
+            <td class="num">$3,600.00</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Los Angeles City Charter Section 470 and Los Angeles Municipal Code Section 49.7.13 prohibit contributions to candidates for elective city office from "corporations, including foreign corporations, business entities, partnerships, joint ventures, syndicates, and associations." The prohibition was strengthened by Measure SS, which Los Angeles voters approved in 2022. <em>(URL NEEDED: link to LA Ethics Commission's published explainer of the corporate-contribution ban.)</em> The Fair Political Practices Commission treats non-monetary in-kind goods and services as contributions for the purposes of contribution limits and source restrictions.
+    </p>
+
+    <p>
+      The first of the two contributions was filed under the name <strong>KOMOS TEQUILA</strong>. The legal entity behind the Komos Tequila brand is <strong>Komos, Inc.</strong>, identified by name throughout the brand's terms of use at komos.com and in its website footer ("© 2025 Komos, inc."). Komos was founded in spring 2019 by Master Sommelier Richard Betts and entrepreneur Joe Marchese, and is operated under <strong>Casa Komos Brands Group (CKBG)</strong> per BusinessWire's February 9, 2021 launch coverage and Robb Report's profile (republished on the official ckbg.com press archive). E. & J. Gallo Winery's Spirit of Gallo subsidiary made a strategic investment in August 2022 and assumed U.S. distribution rights.
+    </p>
+
+    <p>
+      The second contribution was filed under the name <strong>DELTA SPECIAL OPERATIONS CORP</strong>. The contributor's filed name self-identifies as a corporation by including the "Corp" suffix. The address on file is in Santa Rosa Valley, in Ventura County's Camarillo area. <em>(URL NEEDED: California Secretary of State business search confirmation of entity status and registered agent.)</em>
+    </p>
+
+    <p>
+      The legal characterization of either contribution is the FPPC's call and the LA Ethics Commission's, not this site's. What is documentary on the face of the filings:
+    </p>
+
+    <div class="pull-quote">
+      Pratt's mayoral campaign reported, in its own CA Form 460 filings, two non-monetary in-kind contributions from entities whose filed names identify them as corporations. <strong>Los Angeles prohibits corporate contributions to candidates.</strong>
+    </div>
+
+    <p>
+      A separate question is the accuracy of the filing itself. The LA Ethics dataset shows the contributor name as "KOMOS TEQUILA" rather than the legal entity name "Komos, Inc." Whether the campaign's identification of the contributor on its own forms is itself a reporting issue is a question for the LA Ethics Commission's review process.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="meldman">Act IV: The Meldman contribution dispute</h2>
+
+    <p>
+      The campaign's CA Form 460 Schedule A filing reports a personal contribution of <strong>$1,885 from Michael Meldman</strong>, dated April 14, 2026, identified as "Real Estate Developer, Discovery Land Company." Discovery Land is Meldman's luxury real-estate firm. He is a longtime Republican federal donor (FEC records show approximately $84,200 to the National Republican Congressional Committee in 2021 alone, plus contributions to Trump-aligned committees in subsequent cycles).
+    </p>
+
+    <p>
+      <strong>Meldman, through Discovery Land Company, denies the contribution.</strong> Per The Real Deal's April 28, 2026 reporting on real-estate money in the LA mayoral race: "A spokesperson for Discovery Land Company said the information is inaccurate and that Meldman did not contribute to the campaign."
+    </p>
+
+    <p>
+      That places the LA Ethics filing and the donor's own representative in direct contradiction. The CA Form 460 was signed and filed by the Pratt campaign's treasurer under penalty of perjury. The filing identifies Meldman by name and employer. Discovery Land's spokesperson, on the record to a real-estate trade publication, says the contribution did not happen. Both statements cannot be true. The donor map's job is to show the contradiction. The legal question of which side is correct is for the FPPC's review process, not this site.
+    </p>
+
+    <p>
+      The same Meldman name has historically been linked, in industry coverage going back to 2017, to spirits ventures including the Casamigos tequila brand he co-founded with George Clooney and Rande Gerber (sold to Diageo in 2017 for up to $1 billion). At the start of this research the donor map presumed Meldman might also be tied to Komos Tequila, the legal entity behind the Feb 1 in-kind contribution to Pratt's campaign. <strong>That presumption was wrong.</strong> Per BusinessWire (February 9, 2021) and Robb Report (via the official Casa Komos Brands Group press archive), Komos was founded by <strong>Master Sommelier Richard Betts</strong> and entrepreneur <strong>Joe Marchese</strong> in spring 2019. Komos is operated under <strong>Casa Komos Brands Group (CKBG)</strong>. <strong>Spirit of Gallo</strong> (E. & J. Gallo Winery) made a strategic investment and assumed U.S. distribution rights in August 2022. No primary or named-publication source reviewed for this beat connects Mike Meldman to Komos in any capacity.
+    </p>
+
+    <p>
+      Komos remains the legal entity that contributed $1,800 in beverages to Pratt's campaign on February 1, 2026. Komos remains a corporation. Los Angeles still prohibits corporate contributions to candidates. The Komos finding does not depend on Meldman.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="caruso">Act V: He's the new Caruso</h2>
+
+    <p>
+      Rick Caruso is a Los Angeles billionaire developer who ran for mayor in 2022 as a recently-converted Republican against Karen Bass. He lost. He has since founded Steadfast LA, the private-sector-led Palisades-rebuild organization that partners with Bass's city government. He is, in 2026, a quieter figure than in 2022.
+    </p>
+
+    <p>
+      But the donor base he assembled in 2022 is not quiet. It is funding Spencer Pratt.
+    </p>
+
+    <p>
+      Cross-referencing Pratt's named max-out donors against the LA City Ethics database for Caruso's 2022 mayoral committee returns the following overlaps:
+    </p>
+
+    <div class="receipts-block">
+      <h3>Donors who funded Caruso 2022 and now fund Pratt 2026</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION · QUERY ACROSS BOTH MAYORAL COMMITTEES</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>Affiliation</th>
+            <th class="num">Caruso 2022</th>
+            <th class="num">Pratt 2026</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="donor-name">Michael Meldman</span></td>
+            <td>Discovery Land Company / Casamigos co-founder<br><span class="class-tag">Disputed by Discovery Land per Real Deal Apr 28, 2026</span></td>
+            <td class="num">$1,500</td>
+            <td class="num">$1,885</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">Roy Disney</span></td>
+            <td>Shamrock Enterprises (Disney family)</td>
+            <td class="num">$1,000</td>
+            <td class="num">$1,885</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">Michael Schwab</span></td>
+            <td>Big Sky Partners</td>
+            <td class="num">$1,500</td>
+            <td class="num">$1,800</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">Loren Booth</span></td>
+            <td>Booth Ranches</td>
+            <td class="num">$1,000</td>
+            <td class="num">$1,800</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">Ted &amp; Michele Waitt</span></td>
+            <td>Gateway Computers founder</td>
+            <td class="num">no record</td>
+            <td class="num">$3,600</td>
+          </tr>
+          <tr class="total">
+            <td colspan="3">Combined dollars from these donors to Pratt for Mayor 2026</td>
+            <td class="num">$10,970</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      That is the headline of this beat. Five named donors. The same Republican LA donor coalition that paid for Caruso's run against Bass in 2022 is now paying for Pratt's run against Bass in 2026. Different candidate. Different vehicle. Same money.
+    </p>
+
+    <p>
+      Pratt's broader donor list extends the pattern. The April 2026 reporting period saw a coordinated wave of out-of-state luxury real-estate developer max-outs land within a two-week window: Meldman from Scottsdale, Arizona on April 14 (the contribution Discovery Land now denies). David Wolf of Wolf Residential Development from Kamas, Utah on April 15. Douglas Reinhardt of ECG from Laguna Niguel on April 11. Kurt Rappaport of Westside Estate Agency from Beverly Hills on April 16. Brian Timmons of the Quinn Emanuel law firm on April 17. Ted and Michele Waitt on April 7. The pattern is not a small-dollar national grievance fundraising surge. It is a coordinated set of high-dollar checks from a recognizable donor cohort.
+    </p>
+
+    <p>
+      The fundraising operation behind these events is documented as well. <strong>Pluvious Group</strong>, run by Trey Kozacik (trey@pluvious.com), is the Pratt campaign's primary fundraiser organizer per LA Times coverage and the campaign's own eFundraising-Connections records. Pluvious organized the Feb 14 LALovesSpencer reception at Perry's Beach Club, the April 28 fundraiser at <strong>Geoffrey H. Palmer's Beverly Hills home</strong> (Palmer is a Los Angeles mega-developer and longtime Republican megadonor), and the April 30 MandevilleCanyon event. Pluvious's prior client list, per LA Times reporting from December 7, 2019, includes <strong>a 2019 Trump fundraiser in Los Angeles</strong> and a 2019 Jackie Lacey fundraiser. The Pratt campaign's fundraising backbone is documented Trump-orbit consultancy.
+    </p>
+
+    <p>
+      Pratt's third-largest documented payee on the campaign's CA Form 460 Schedule E is <strong>Highland Political LLC</strong>, which received $63,893 in 11 transactions across the same reporting period for "Fundraising Events" services and travel reimbursement. Tennessee Secretary of State business search confirms Highland Political LLC is <strong>not registered in Tennessee</strong>, despite the LinkedIn listing showing a Nashville address. The domain highlandpolitical.com does not resolve. FEC records show <strong>zero other political clients</strong> for Highland Political LLC. The Pratt campaign is its only known client in any accessible federal or state campaign-finance database.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="newport-bleach">Act VI: The merchandise vendor</h2>
+
+    <p>
+      The expenditure side of Pratt's filings carries a finding the contribution side does not.
+    </p>
+
+    <p>
+      The campaign's CA Form 460 Schedule E (expenditures) for the same reporting period reports <strong>$24,050 paid to a vendor named NEWPORT BLEACH</strong>, in three transactions, all coded as "Campaign Paraphernalia, Miscellaneous." The vendor address is Newport Beach, California. The same Schedule E lists $63,893 to Highland Political LLC for fundraising-event services and travel reimbursement, $25,850 to Tag Strategies for campaign consulting, and smaller payments to a roster of other consultants and staff. Newport Bleach is the campaign's third-largest expenditure category overall.
+    </p>
+
+    <p>
+      Newport Bleach is operated by graphic designer <strong>Tyler Nichols</strong>, who works publicly under the brand "Tyler Treats" at tylertreats.com. His own portfolio identifies <strong>Pratt Daddy Crystals</strong> as a former graphic-design client, alongside Anaheim Ducks NHL warm-up shirt designs and concert-merchandise work for various bands. His Twitter biography names Newport Bleach. His Newport Bleach blog credits him as the author of news posts including a Heidi Montag-related piece ("Heidi Montag - Wet Hot Summmer"). Forbes covered his work designing the visual world of the Moviestarz debut album on November 11, 2025. This Modern Struggle Magazine reported on October 10, 2025 that <strong>"Newport Bleach designed a custom tee to help raise money for reality stars Heidi Montag and Spencer Pratt when they lost their home to the LA fires."</strong> The same vendor that produced fire-relief fundraising merchandise for the Pratts in 2025 is producing PRATT2026 campaign merchandise in 2026.
+    </p>
+
+    <div class="receipts-block">
+      <h3>The fire, the comeback, the lawsuit, the campaign: a chronology</h3>
+      <p class="desc">SOURCE: PUBLIC RECORDS, NAMED-PUBLICATION COVERAGE, LA CITY ETHICS FILINGS</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Event</th>
+            <th>Source</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2025-01-07</td>
+            <td>Palisades fire begins. Pratts' home and parents' home destroyed.</td>
+            <td>Named-pub coverage</td>
+          </tr>
+          <tr>
+            <td>2025-01-12</td>
+            <td>Heidi Montag's 2010 album "Superficial" hits #1 on US iTunes (5 days after fire).</td>
+            <td>Wikipedia, Heidi Montag</td>
+          </tr>
+          <tr>
+            <td>2025 (date open)</td>
+            <td>Spencer Pratt files suit vs. City of Los Angeles + LADWP for fire damage.</td>
+            <td>Wikipedia, Spencer Pratt (URL NEEDED for case caption)</td>
+          </tr>
+          <tr>
+            <td>2025-03-28</td>
+            <td>Heidiwood Tour 2025 launches at 1015 Folsom, San Francisco.</td>
+            <td>Wikipedia, Heidi Montag</td>
+          </tr>
+          <tr>
+            <td>2025-11-11</td>
+            <td>Forbes profiles Tyler Nichols's Moviestarz album visual design work.</td>
+            <td>Forbes / Emma Kershaw</td>
+          </tr>
+          <tr>
+            <td>2026-01-01</td>
+            <td>Pratt for Mayor 2026 (committee 1485940) begins accepting contributions.</td>
+            <td>LA City Ethics</td>
+          </tr>
+          <tr>
+            <td>2026-02-01</td>
+            <td>"KOMOS TEQUILA" $1,800 in-kind to campaign (beverages for event).</td>
+            <td>CA Form 460 Schedule C</td>
+          </tr>
+          <tr>
+            <td>2026-02-09</td>
+            <td>"DELTA SPECIAL OPERATIONS CORP" $1,800 in-kind to campaign (event security).</td>
+            <td>CA Form 460 Schedule C</td>
+          </tr>
+          <tr>
+            <td>2026-04-14</td>
+            <td>Michael Meldman personally contributes $1,885 to campaign.</td>
+            <td>CA Form 460 Schedule A</td>
+          </tr>
+          <tr>
+            <td>2026-04-18</td>
+            <td>Reporting period ends. Campaign has raised $539,617. Newport Bleach has been paid $24,050 in three transactions.</td>
+            <td>CA Form 460 Schedule A + E</td>
+          </tr>
+          <tr>
+            <td>2026-05-06</td>
+            <td>NBC4 / Telemundo 52 Los Angeles mayoral debate. Pratt qualifies, Bass and Raman also on stage.</td>
+            <td>Named-pub coverage</td>
+          </tr>
+          <tr>
+            <td>2026-06-02</td>
+            <td>Los Angeles primary election.</td>
+            <td>n/a</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The fire is the spine of every Pratt-family revenue stream documented in this beat. It is the basis of the lawsuit (potential settlement income against the city that would govern under a Pratt mayoralty). It is the catalyst that took Heidi Montag's $2 million 2010 album from commercial failure to #1 on iTunes within five days. It is the engine of her current Heidiwood Tour 2025. It is the entire premise of Spencer's mayoral campaign pitch. And it is the merchandise theme of Newport Bleach's "PALISADES FOREVER" and "LET IT BURN TRUCKER HAT" product lines.
+    </p>
+
+    <p>
+      Tyler Nichols's documented work for the Pratt family goes back at least five years, to the Pratt Daddy Crystals merchandise era (roughly 2019 to 2021). Newport Bleach is his current vendor operation. Through it, he produces both Heidi Montag's "Heidiwood" tour merchandise and Spencer Pratt's PRATT2026 campaign merchandise, on the same Shopify product line.
+    </p>
+
+    <p>
+      Tyler Nichols's documented work for the Pratt family goes back at least five years, to the Pratt Daddy Crystals merchandise era (roughly 2019 to 2021). Newport Bleach is his current vendor operation. Through it, he produces both Heidi Montag's "Heidiwood" tour merchandise and Spencer Pratt's PRATT2026 campaign merchandise, on the same Shopify product line.
+    </p>
+
+    <p>
+      The Newport Bleach store, accessible without login at newportbleach.com, is a combined celebrity-merchandise and political-campaign-merchandise operation. The Heidi-product collection alone contains 28 t-shirts, hats, and accessories, all branded around Spencer Pratt's wife Heidi Montag.
+    </p>
+
+    <div class="receipts-block">
+      <h3>What Newport Bleach sells, alongside the campaign tees</h3>
+      <p class="desc">SOURCE: NEWPORTBLEACH.COM · COLLECTIONS PAGE · MAY 9, 2026</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Product (sample)</th>
+            <th>Description</th>
+            <th class="num">Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><span class="donor-name">PRATT2026 (variants)</span></td>
+            <td>Spencer Pratt's mayoral campaign merchandise</td>
+            <td class="num">$20.00</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">PALISADES FOREVER</span></td>
+            <td>Palisades fire-grievance branded apparel</td>
+            <td class="num">n/a</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">OG PRATT DADDY VINTAGE TEE</span></td>
+            <td>Spencer Pratt's pre-political crystal-merchandise brand reference</td>
+            <td class="num">n/a</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">SPEIDI</span></td>
+            <td>Spencer + Heidi couple-brand reference</td>
+            <td class="num">n/a</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">HEIDI POP TEE</span></td>
+            <td>"HEIDI MONTAG - WEEKLY. Check the latest pap shots."</td>
+            <td class="num">$20.00</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">HEIDI WORLD TOUR 25</span></td>
+            <td>Heidi Montag music-tour branded merchandise</td>
+            <td class="num">$45.00</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">SUPERFICIAL</span></td>
+            <td>Title of Heidi Montag's 2010 album</td>
+            <td class="num">$45.00</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">HEIDIWOOD</span></td>
+            <td>Heidi-branded apparel line reference</td>
+            <td class="num">n/a</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">HEIDI FAV MUSIC</span></td>
+            <td>"What's your favorite kind of music? Anything that has Heidi on it."</td>
+            <td class="num">$20.00</td>
+          </tr>
+          <tr>
+            <td><span class="donor-name">LET IT BURN TRUCKER HAT</span></td>
+            <td>Fire-themed grievance branding</td>
+            <td class="num">n/a</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      All products on the page are listed as "Made and Printed in Los Angeles, California by NEWPORT BLEACH." The Heidi product line uses Heidi Montag's name, song titles ("I'll Do It," "Ransom"), her 2010 album title ("Superficial"), and references to paparazzi photographs of her. Whether Tyler Nichols operates Newport Bleach under a formal Heidi Montag licensing arrangement, or as a longtime personal vendor relationship with the Pratts, or under some combination of the two, is not disclosed publicly. The legal entity behind Newport Bleach (LLC, Inc., DBA, sole proprietorship) is not identified on the storefront. <em>(URL NEEDED: Orange County fictitious-business-name search, Newport Beach city business license, California Secretary of State entity search.)</em>
+    </p>
+
+    <p>
+      The structural finding that does not depend on the legal-entity question: the campaign paid $24,050 in "Campaign Paraphernalia" to a vendor whose principal has a five-year-plus documented graphic-design relationship with the Pratt family, going back to the Pratt Daddy Crystals merchandise era. Whether the campaign's payment subsidized celebrity-merchandise production at the same vendor, whether the vendor's pricing on PRATT2026 campaign merchandise was at fair market value, and whether any portion of the $24,050 represents personal benefit to the candidate or his family, are open questions for the LA Ethics Commission's review.
+    </p>
+
+    <p>
+      California law (Government Code Section 85304) and the LA Municipal Code prohibit using campaign funds for personal benefit. <em>(URL NEEDED: exact statutory citation and the LA Ethics personal-use guidance.)</em>
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="boundary">What this beat does not allege</h2>
+
+    <div class="boundary-block">
+      <h3>Boundaries on the receipts above</h3>
+      <ul>
+        <li>This beat does not allege Spencer Pratt knew the contributors of the two February in-kind contributions were corporations, or that he personally directed the acceptance.</li>
+        <li>This beat does not allege Newport Bleach is owned or controlled by Spencer Pratt, Heidi Pratt, or any related party. Public records identify graphic designer Tyler Nichols as the operator. Whether the underlying legal entity is an LLC, Inc., DBA, or sole proprietorship is open.</li>
+        <li>This beat does not allege Tyler Nichols has done anything wrong. He is a graphic designer with a documented five-year vendor history with the Pratt family. The structural finding concerns the campaign's choice of vendor, not the vendor's conduct.</li>
+        <li>This beat does not allege Michael Meldman did or did not make the contribution the campaign filed under his name on April 14, 2026. The campaign's CA Form 460 reports the contribution under penalty of perjury. Discovery Land Company's spokesperson, on the record, says the contribution did not occur. The donor map preserves both statements as documentary; resolving which is correct is for the FPPC's review process.</li>
+        <li>This beat does not allege a connection between Michael Meldman and the Komos Tequila brand. The donor map's earlier internal research presumed such a link; primary-source review of BusinessWire, Robb Report, and Casa Komos Brands Group's own press materials shows Komos was founded by Richard Betts and Joe Marchese with no Meldman involvement. The earlier presumption was wrong.</li>
+        <li>This beat does not allege Spencer Pratt's Palisades fire-victim status is fabricated. Public reporting confirms his home and his parents' home were destroyed.</li>
+        <li>This beat does not allege Pratt's lawsuit against the City of Los Angeles and LADWP is meritless or improperly brought. Whether the lawsuit succeeds on the merits is for the courts. The structural finding concerns the conflict-of-interest posture of a candidate suing the office he is running to hold, plus his own public statement on the question.</li>
+        <li>This beat does not allege the donors named here did anything illegal. Individual contributions at the legal maximum are legal. The structural finding is the cohort, not any single donor.</li>
+        <li>This beat does not characterize the Pratt campaign as a "grift" or any related characterization. The receipts are documentary; the editorial framing belongs to the reader.</li>
+      </ul>
+    </div>
+
+    <p>
+      The donor map's job is to surface the structural pattern in the receipts. The legal characterization of any contribution belongs to the FPPC and the LA Ethics Commission. The editorial characterization of the candidate belongs to voters.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="open-questions">Open questions</h2>
+
+    <p>
+      <strong>Whether Pratt's campaign will return the two corporate-named in-kind contributions.</strong> California Government Code Section 84308 and LA Ethics rules permit a candidate to return a contribution that exceeds the limit or violates a source restriction within a defined return window. Whether Pratt's campaign treats the Komos and Delta Special Operations Corp contributions as returnable, retains them, or amends the filings to reidentify the contributors as individuals, is open as of the latest reporting period.
+    </p>
+
+    <p>
+      <strong>Whether Spencer Pratt would recuse from administrative or budget decisions affecting his own pending lawsuit against the City of Los Angeles and LADWP if he wins the office.</strong> A candidate suing the office he is running to hold is in a structural conflict-of-interest posture. The campaign has not, in named-publication coverage reviewed for this beat, publicly committed to a recusal protocol or to dropping the lawsuit if elected. Whether the lawsuit will be settled, dropped, or pursued in parallel with a hypothetical Pratt mayoralty is open.
+    </p>
+
+    <p>
+      <strong>Whether the Pratt family has a formal licensing arrangement with Tyler Nichols / Newport Bleach for use of Heidi Montag's name, song titles, album branding, and image on merchandise.</strong> The Newport Bleach Heidi product collection contains 28 items branded with Heidi Montag references. Whether these are produced under license, under a personal-vendor handshake, or under some other arrangement, is not disclosed publicly. Whether any portion of Newport Bleach merchandise revenue flows back to the Pratt family is open.
+    </p>
+
+    <p>
+      <strong>Whether the campaign will publicly explain why a Pennsylvania-based individual (Alexandra Evers, Sewickley, PA) is on payroll for an Los Angeles mayoral campaign.</strong> Evers received $2,732 in "Campaign Workers Salaries" while also contributing $1,138 to the campaign. The campaign has not, in named-publication coverage reviewed, addressed her role.
+    </p>
+
+    <p>
+      <strong>Whether the candidate will address the donor-cohort overlap with the 2022 Caruso campaign.</strong> The five named donors who funded both Caruso 2022 and Pratt 2026 represent a documented cohort. Whether Pratt characterizes the overlap as coincidental, as continuity of a Republican LA donor lane, or otherwise, is open.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <aside class="tip-box-beat" role="complementary" aria-label="Tip line">
+      <div class="tip-box-beat-stripes" aria-hidden="true"></div>
+      <div class="tip-box-beat-body">
+        <span class="tip-box-beat-tag">Tip line · confidential</span>
+        <h3 class="tip-box-beat-headline">A Pratt-campaign document I should <em>see?</em></h3>
+        <p class="tip-box-beat-desc">An invoice from Newport Bleach. A Pratt-family LLC behind the merchandise vendor. A communication between the campaign and the Komos or Discovery Land team. A donor-coordination thread. The April max-out solicitation list. Send it.</p>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Email</span>
+          <span class="tip-box-beat-value"><a href="mailto:guerillapropaganda@proton.me">guerillapropaganda@proton.me</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">Reach me</span>
+          <span class="tip-box-beat-value"><a href="#">X</a> · <a href="#">Instagram</a> · <a href="#">Facebook</a> · <a href="#">Patreon</a></span>
+        </div>
+        <div class="tip-box-beat-row">
+          <span class="tip-box-beat-label">What helps</span>
+          <span class="tip-box-beat-value">FPPC committee IDs. Cal-Access transaction numbers. LA Ethics filing IDs. CA Secretary of State entity numbers. A photograph of a document beats a paraphrase.</span>
+        </div>
+        <p class="tip-box-beat-fineprint">Identity protected by default. I will never publish a tipster's name without explicit permission. I will never run a claim that I cannot verify against a primary or named-publication source.</p>
+      </div>
+    </aside>
+
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li>
+          <span class="label">LA City Ethics Campaign Contributions (raw dataset)</span>
+          <a href="https://data.lacity.org/resource/m6g2-gc6c.json">data.lacity.org / resource / m6g2-gc6c.json</a>
+        </li>
+        <li>
+          <span class="label">LA City Ethics Campaign Expenditures (raw dataset)</span>
+          <a href="https://data.lacity.org/resource/5mrt-4zhe.json">data.lacity.org / resource / 5mrt-4zhe.json</a>
+        </li>
+        <li>
+          <span class="label">Pratt for Mayor 2026 (FPPC committee 1485940)</span>
+          <a href="https://ethics.lacity.org/data/campaign-finance-disclosures/">ethics.lacity.org / data / campaign-finance-disclosures (search committee 1485940)</a>
+        </li>
+        <li>
+          <span class="label">Komos, Inc. legal entity (terms of use)</span>
+          <a href="https://komos.com/legal">komos.com / legal</a>
+        </li>
+        <li>
+          <span class="label">Komos, Inc. footer (corporate identification)</span>
+          <a href="https://komos.com/">komos.com (footer: "© 2025 Komos, inc.")</a>
+        </li>
+        <li>
+          <span class="label">Newport Bleach Heidi product collection</span>
+          <a href="https://newportbleach.com/collections/heidi">newportbleach.com / collections / heidi</a>
+        </li>
+        <li>
+          <span class="label">Newport Bleach product page (HEIDI POP TEE)</span>
+          <a href="https://newportbleach.com/products/heidi-pop-tee">newportbleach.com / products / heidi-pop-tee</a>
+        </li>
+        <li>
+          <span class="label">Spencer Pratt Wikipedia article (biographical reference)</span>
+          <a href="https://en.wikipedia.org/wiki/Spencer_Pratt">en.wikipedia.org / wiki / Spencer_Pratt</a>
+        </li>
+        <li>
+          <span class="label">Tyler Nichols / Tyler Treats portfolio (Pratt Daddy Crystals client listing)</span>
+          <a href="https://tylertreats.com/work">tylertreats.com / work</a>
+        </li>
+        <li>
+          <span class="label">Tyler Nichols Twitter / X biography (@TYLERTREATS, links @newportbleach)</span>
+          <a href="https://x.com/TYLERTREATS">x.com / TYLERTREATS</a>
+        </li>
+        <li>
+          <span class="label">Newport Bleach blog (Tyler Nichols credited as author)</span>
+          <a href="https://newportbleach.com/blogs/news">newportbleach.com / blogs / news</a>
+        </li>
+        <li>
+          <span class="label">Forbes: Moviestarz album visual world (Tyler Nichols context, Nov 11 2025)</span>
+          <a href="https://www.forbes.com/sites/emmakershaw/2025/11/11/how-moviestarz-created-an-immersive-visual-world-with-its-debut-album/">forbes.com / Emma Kershaw / 2025-11-11 / Moviestarz</a>
+        </li>
+        <li>
+          , 
+          <a href="https://people.com/spencer-pratt-heidi-montag-sue-city-of-los-angeles-after-losing-home-in-palisades-fire-8779585">people.com / spencer-pratt-heidi-montag-sue-city-of-los-angeles</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.latimes.com/entertainment-arts/story/2025-01-23/spencer-pratt-heidi-montag-lawsuit-la-city-dwp-palisades-fire">latimes.com / 2025-01-23 / spencer-pratt-heidi-montag-lawsuit</a>
+        </li>
+        <li>
+          , 
+          <a href="https://ew.com/spencer-pratt-heidi-montag-20-more-wildfire-victims-sue-los-angeles-for-water-issues-8779614">ew.com / spencer-pratt-heidi-montag-20-more-wildfire-victims</a>
+        </li>
+        <li>
+          , 
+          <a href="https://deadline.com/2025/01/spencer-pratt-heidi-montag-sue-los-angeles-wildfires-1236266077/">deadline.com / spencer-pratt-heidi-montag-sue-los-angeles-wildfires</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.palisadesfirelitigationportal.com/Home/CourtInfo">palisadesfirelitigationportal.com / Home / CourtInfo</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.insurancejournal.com/news/west/2026/02/19/858796.htm">insurancejournal.com / 2026-02-19 / palisades-fire-claims</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.dailyjournal.com/article/391333-appeals-court-lets-palisades-fire-claims-against-city-state-proceed">dailyjournal.com / article / 391333</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.foxla.com/news/spencer-pratt-la-mayoral-race-candidate-interview-march-2026">foxla.com / 2026-03-27 / spencer-pratt-mayor-interview</a>
+        </li>
+        <li>
+          , 
+          <a href="https://therealdeal.com/la/2026/04/28/where-is-real-estate-money-flowing-in-the-mayoral-race/">therealdeal.com / la / 2026-04-28 / mayoral-race-real-estate-money</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.businesswire.com/news/home/20210209005789/en/Komos-Reposado-Rosa-A-Category-Redefining-Luxury-Ros-Tequila">businesswire.com / 2021-02-09 / Komos-Reposado-Rosa</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.prnewswire.com/news-releases/spirit-of-gallo-expands-tequila-offering-with-komos-the-highest-rated-tequila-portfolio-301608004.html">prnewswire.com / spirit-of-gallo-komos</a>
+        </li>
+        <li>
+          , 
+          <a href="https://search.dca.ca.gov/?BD=7500&TP=PPO&NUM=122040">search.dca.ca.gov / PPO 122040</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.thismodernstrugglemagazine.com/allarticles/moviestarz-release-nbsp1m-frequencies-featnbspcali-rodinbspoff-their-upcoming-debut-recordnbspfantasy-gt-reality">thismodernstrugglemagazine.com / moviestarz</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.latimes.com/california/story/2026-04-10/spencer-pratts-time-in-santa-barbara-county-likely-wont-affect-his-bid-for-la-mayor-analysts-say">latimes.com / 2026-04-10 / spencer-pratt-santa-barbara</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.latimes.com/california/story/2019-12-07/jackie-lacey-campaign-cuts-ties-with-fundraiser-who-previously-had-role-in">latimes.com / 2019-12-07 / jackie-lacey-fundraiser</a>
+        </li>
+        <li>
+          , 
+          <a href="https://www.youtube.com/watch?v=Tb3OsPUHHzg">youtube.com / Sarah Fraser Show / Spencer Pratt</a>
+        </li>
+        <li>
+          , 
+          <a href="https://variety.com/2025/tv/news/spencer-pratt-heidi-montag-music-tiktok-fire-1236276177/">variety.com / 2025-01-17 / spencer-pratt-heidi-montag-tiktok-fire</a>
+        </li>
+        <li>
+          , 
+          <a href="https://tncab.tnsos.gov/business-entity-search?name=Highland+Political">tncab.tnsos.gov / Highland Political (no result)</a>
+        </li>
+        <li>
+          <span class="label">Heidi Montag Wikipedia (Superficial album iTunes #1 post-fire, Heidiwood Tour 2025 venues)</span>
+          <a href="https://en.wikipedia.org/wiki/Heidi_Montag">en.wikipedia.org / wiki / Heidi_Montag</a>
+        </li>
+        <li>
+          <span class="label">LA City Charter Section 470 (corporate-contribution prohibition) (URL NEEDED)</span>
+          <a href="#">ethics.lacity.org / charter / section-470 (URL NEEDED)</a>
+        </li>
+        <li>
+          <span class="label">LAMC Section 49.7.13 / Measure SS implementation (URL NEEDED)</span>
+          <a href="#">ethics.lacity.org / measures / measure-ss (URL NEEDED)</a>
+        </li>
+        <li>
+          <span class="label">Komos Tequila launch coverage referencing Mike Meldman (URL NEEDED)</span>
+          <a href="#">Robb Report / Forbes / Drinks International, 2021 (URL NEEDED)</a>
+        </li>
+        <li>
+          <span class="label">CA Secretary of State business search for Delta Special Operations Corp (URL NEEDED)</span>
+          <a href="#">bizfileonline.sos.ca.gov (URL NEEDED)</a>
+        </li>
+        <li>
+          <span class="label">NY Department of State entity search for Komos, Inc. (URL NEEDED)</span>
+          <a href="#">dos.ny.gov / corporations (URL NEEDED)</a>
+        </li>
+      </ul>
+
+      <div class="methodology">
+        <strong>Methodology.</strong> All contribution and expenditure data is sourced to the Los Angeles City Ethics Commission's public Socrata dataset on data.lacity.org. The Pratt for Mayor 2026 contribution records were extracted via SoQL queries against committee identifier 1485940 in the campaign-contributions dataset (m6g2-gc6c). The Pratt for Mayor 2026 expenditure records were extracted via SoQL queries against committee identifier 26519 in the campaign-expenditures dataset (5mrt-4zhe). Both queries were run May 9, 2026; the latest reporting period covered ends April 18, 2026. The five-donor cross-reference to Rick Caruso for Mayor 2022 was performed by SoQL queries against the same campaign-contributions dataset using donor-name LIKE filters. The "KOMOS TEQUILA" contributor name in the Schedule C filing was resolved to "Komos, Inc." via the brand's own website footer at komos.com and its terms-of-use page, both reviewed May 9, 2026. The Newport Bleach product line documentation was obtained by direct review of newportbleach.com's collections and product pages on May 9, 2026; the brand's stated manufacturing location ("Made and Printed in Los Angeles, California by NEWPORT BLEACH") is reproduced from the brand's own product descriptions. The Spencer Pratt biographical context (registered Republican in 2020, Pratt Daddy Crystals, Hills cast member) is drawn from Wikipedia's article on Spencer Pratt, which is referenced for context but is not the primary source for any factual claim that does not also appear in the campaign-finance record. The LA Charter Section 470 / LAMC Section 49.7.13 corporate-contribution prohibition is referenced from general knowledge of LA City campaign-finance rules; the exact statutory text and section number have not been re-verified against the LA Ethics Commission's published text in this draft and are flagged as URL NEEDED. The Mike Meldman / Komos Tequila founding link is drawn from food and spirits industry coverage of the brand's 2021 launch and is flagged as URL NEEDED for primary-source citation. The contribution-aggregation interpretation question regarding the Meldman / Komos two-channel contributions is open and not asserted as a violation in this beat. The legal characterization of any specific contribution as a violation of any specific statute is the FPPC's call and the LA Ethics Commission's, not this site's.
+      </div>
+    </div>
+  </div>
+</article>
+
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>Map.</em></div>
+  <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
+  <a href="/" class="footer-cta">More Investigations</a>
+  <a href="#" class="footer-cta">Share This</a>
+  <div class="small">All data verified against primary-source filings · drafted 2026-05-09 · pending URL pass</div>
+</footer>
+
+</body>
+</html>

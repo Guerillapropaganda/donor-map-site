@@ -1,7 +1,101 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-05-07
+last-updated: 2026-05-09
+---
+
+## HANDOFF — 2026-05-09 (cc_jovial-joliot, Code Claude · Background ops decommission + Cop-Coddler rewrite + Spencer Pratt beat from scratch with Perplexity-corrected Komos/NFT findings)
+
+**Context:** Code Claude. Worktree `claude/jovial-joliot-53f8c2`, Opus 4.7 (1M context). Very long session, ~$50+ Opus total. Major themes: full Background Ops noise-reduction pass (CVE patch + content-stats decommission + dispatcher race-fix + decommissioned 3 whole-vault GitHub Actions workflows), Cop-Coddler full rewrite to three-act frame after data unlock (Becerra had $0 from police unions in 2026, PORAC endorsed his rivals), Spencer Pratt beat created from scratch via LA City Ethics Socrata API discovery, multi-pass Pratt deep-dive culminating in a major Perplexity-driven correction (Komos/Meldman link removed as wrong; NFT thread killed as nonexistent; lawsuit-against-LA elevated to lede headline).
+
+### THIS SESSION'S DELIVERABLES
+
+#### Background ops noise-reduction pass (PR #67 OPEN, not yet merged)
+
+- **deps-cve-scan fix:** Patched 4 high-severity Clerk auth-bypass advisories + Next moderate via `npm audit fix` in `ops/`. Only `ops/package-lock.json` changed. Resolves daily Regression Tests + Data Integrity workflow failure.
+- **Content Stats workflow:** Removed schedule cron (was failing daily on branch protection rejection). Now manual-only.
+- **attention-dispatcher.cjs vault-audit timeout:** 120s to 300s. Vault has grown to 92K findings; harness was timing out every 15-min cycle.
+- **Two duplicate dispatcher daemons** killed (PIDs 31692 + 32116). Removed both startup-folder shortcuts. `DonorMap Attention Dispatcher` schtask is now the canonical autostart (has `--max-old-space-size=4096` which the .bat lacked).
+- **3 whole-vault GitHub Actions workflows DELETED:** content-stats.yml, link-checker.yml, stale-profiles.yml. Built when "publish the whole vault" was the launch model; now just noise.
+- **regression-tests.yml slimmed:** dropped Phase 6 query-engine job + publication-readiness-smoke. Renamed surviving job to "Auth Smoke Tests" as dormant safety net. Kept data-integrity-audit + deps-cve-scan + ops-build (security real).
+- **Branch protection on v4 updated:** required checks now Auth Smoke Tests + Data Integrity Audit + Ops Next.js Build (was Phase 6 Regression Tests + Data Integrity Audit + Ops Next.js Build).
+- **PR #67 OPEN:** https://github.com/Guerillapropaganda/donor-map-site/pull/67. Two commits (`cc1b6f7a0` noise-reduction + `6aed5132f` workflow decommission). Need to merge to land the workflow changes.
+
+#### Cop-Coddler beat (Becerra) — three-act rewrite
+
+LA Ethics + Cal-Access derived data confirmed Becerra has **$0 from police unions in the 2026 cycle** (vs. ~$300K in 2018 per CalMatters). PORAC endorsed Villaraigosa ($78,400) + Bianco ($132,322) on August 21, 2025. Becerra's 2026 platform is silent on policing.
+
+- **Three-act spine:** Act I They funded him → Act II He refused them records → He lost in court twice → Act III They moved on.
+- **Walnut Creek POA v. City of Walnut Creek + Becerra v. Superior Court** rulings added (he lost twice on different theories).
+- **Bonta May 7, 2021 settlement** added (his successor capitulated where Becerra had fought).
+- **122 lawsuits figure** updated (Becerra's own claim, sourced to his 2026 campaign page).
+- **Normie language pass + em-dash sweep** (zero remaining anywhere).
+- **Open Questions cleaned** to subject-facing only.
+- **15 sources block, 13 verified URLs.**
+
+#### Spencer Pratt beat — NEW from scratch (1,298 lines)
+
+Mid-session pipeline-discovery finding: **LA City Ethics has a public Socrata API at `data.lacity.org` (dataset `m6g2-gc6c` for contributions, `5mrt-4zhe` for expenditures). No auth, fully queryable.** Same source the Steadfast LA Gemini research already used. This is the canonical source for ALL LA city races going forward.
+
+Beat findings (post-Perplexity correction):
+
+- **Lawsuit:** Spencer Pratt is plaintiff against City of Los Angeles + LADWP, filed January 21, 2025. Co-plaintiffs: Heidi Pratt + Janet Pratt + William Pratt (parents) + 20+ others. McNulty Law Firm (Peter J. McNulty, also Plaintiffs' Liaison Counsel). Consolidated under `Grigsby v. City of Los Angeles`, 25STCV00832. Judge Samantha Jessner Feb 19, 2026 ruled in favor of inverse-condemnation claims; CA Court of Appeal denied City/State petitions to halt.
+- **Pratt's own quote on Fox 11 Mar 27, 2026** when asked if he'd drop the lawsuit if elected: *"Absolutely not. The city failed over 10,000 people... the mayor does not control the outcome of that lawsuit."* Headline pull-quote of the beat.
+- **Two corporate-named in-kind contributions:** KOMOS TEQUILA $1,800 (beverages, Feb 1) + DELTA SPECIAL OPERATIONS CORP $1,800 (event security, Feb 9). LAMC §49.7.13 prohibits corporate contributions. Komos = "Komos, Inc." per their own website terms. Delta = California PPO #122040 (executive protection / private security). Both apparent violations.
+- **Caruso 2022 → Pratt 2026 donor continuity** (5 named donors): Roy Disney, Michael Schwab, Loren Booth, Michael Meldman, Ted + Michele Waitt.
+- **Newport Bleach $24,050 expenditure** for "Campaign Paraphernalia". Vendor identified: graphic designer **Tyler Nichols** (Tyler Treats), confirmed via tylertreats.com portfolio (Pratt Daddy Crystals listed as past client) + Newport Bleach blog credits + Forbes Nov 11 2025 Moviestarz album coverage. Long-time Pratt family vendor since at least 2019. This Modern Struggle Magazine Oct 10 2025 confirms Newport Bleach designed fire-relief tee for the Pratts.
+- **Pluvious Group / Trey Kozacik** is Pratt's primary fundraiser. Per LA Times Dec 7 2019, Pluvious previously worked a 2019 Trump LA fundraiser. Geoffrey H. Palmer (LA mega-developer + GOP megadonor) hosted Pratt fundraiser at his Beverly Hills home Apr 28, 2026.
+- **Highland Political LLC** received $63,893 across 11 transactions, exclusively from Pratt. **NOT registered in Tennessee** (TN SOS confirmed empty). highlandpolitical.com DNS does not resolve. Zero other clients in FEC.
+
+#### MAJOR PRATT BEAT CORRECTIONS POST-PERPLEXITY
+
+Three things in the earlier-session draft were WRONG. All fixed:
+
+- **Komos = Meldman's brand: WRONG.** Per BusinessWire Feb 9 2021 + Robb Report (via ckbg.com/press), Komos was founded by **Richard Betts (Master Sommelier) + Joe Marchese** in spring 2019. Operated by Casa Komos Brands Group (CKBG). Spirit of Gallo (E&J Gallo) holds U.S. distribution + strategic investment (Aug 2022). **No primary or named-publication source connects Mike Meldman to Komos in any capacity.** The "Meldman triple-channel" framing was unsupported and is now removed. Komos contribution is still a corporate violation; just not via Meldman.
+- **Discovery Land Company DENIES Meldman contribution.** Per Real Deal Apr 28 2026: *"A spokesperson for Discovery Land Company said the information is inaccurate and that Meldman did not contribute to the campaign."* In direct tension with the LA Ethics filing. Beat preserves both statements as documentary; legal characterization is FPPC's call.
+- **NFT thread DOES NOT EXIST.** Perplexity searched OpenSea / Rarible / Etherscan / Nifty Gateway / Foundation / SuperRare / CoinDesk / The Block / Decrypt / Variety / Hollywood Reporter / BuzzFeed celebrity-NFT roundup. **Zero evidence of any Spencer Pratt-launched NFT project.** Premise not supported. Thread removed entirely.
+
+#### Files created this session
+
+- `prototype/beat-spencer-pratt.html` (1,298 lines, new beat)
+- `prototype/beat-cop-coddler.html` (rewrote in place; was 886 → 944 lines, then expanded)
+- `prototype/server.cjs` (added /spencer-pratt route + aliases)
+- `content/Admin Notes/la-mayor-2026-data-inventory-2026-05-09.md` (LA Ethics Socrata API discovery + initial donor inventory for Bass + Pratt)
+- `content/Admin Notes/la-mayor-pratt-deep-dive-2026-05-09.md` (37KB master research; updated multiple times)
+- `content/Admin Notes/la-mayor-bass-lwv-withdrawal-2026-05-09.md` (May 9 LWV/Pat Brown forum withdrawal artifact)
+- `content/Admin Notes/gemini-research/2026-05-09-becerra-police-money.md` (Becerra deep-dive + URL-pass-verified results)
+- `content/Admin Notes/perplexity-research/2026-05-09-pratt-gaps-results.md` (Perplexity Pratt-gaps Round 1)
+
+#### Memory rule to add NEXT SESSION
+
+- **LA City Ethics Socrata API discovery** belongs in memory. `data.lacity.org/resource/m6g2-gc6c.json` (contributions) + `data.lacity.org/resource/5mrt-4zhe.json` (expenditures). Queryable via SoQL with `cmt_id` filter. No auth. Should be checked FIRST for any LA-city race before saying "no data."
+
+### CURRENT STATE OF BEATS
+
+**Live (data/public-routes.json):** /hilton, /holdings-hilton-2026, /mahan, /donors-mahan-2026, /class-traitor, /three-becerras, /donors-becerra-2026, /not-the-bad-guy, /steyer, /carace26-map.
+
+**Draft prototype-side (NOT in content/, NOT public, pending URL-pass + David sign-off):**
+- `/cop-coddler` (Becerra) — fully rewritten this session, normie-pass clean, URL-pass queue at `gemini-research/2026-05-09-becerra-police-money.md`.
+- `/spencer-pratt` — NEW this session, 1,298 lines, 17+ verified URLs in sources, several URL-NEEDED markers for legal-entity confirmations.
+- /clean-cash, /the-hedge, /the-apparatus, /bearstar-octopus, /villaraigosa-pledge, /bianco-ballots — pre-existing, status unchanged.
+
+### NEXT SESSION PRIORITIES (ordered)
+
+1. **Merge PR #67 to v4** to land the GitHub Actions workflow decommissions. Branch protection already updated. Three required checks should go green on the PR; merge once CI confirms.
+2. **Cop-Coddler URL pass** — 5 specific items in the verification queue. Once cleared, beat is ready for /cop-coddler public-routes.json flip.
+3. **Spencer Pratt URL pass** — corporate-entity verifications (Komos, Inc. NY DOS; Delta Special Operations Corp CA SOS) are the blocking items for the apparent-violation framing. Plus Newport Bleach legal entity (OC FBN), Highland Political LLC (other-state SOS), case caption for Pratt v. Los Angeles. Full queue at bottom of `la-mayor-pratt-deep-dive-2026-05-09.md`.
+4. **Bass beat** — David flagged Bass side as next-tier target after Pratt. Inside Safe Cost Map material is research-grade.
+5. **Add LA City Ethics Socrata API to MEMORY.md** as a workflow rule.
+6. **Sprint-schedule.md is past its end date** (April 30 sprint, status:active in frontmatter). Worth either marking complete or transitioning to a May sprint.
+
+### OPEN DEFERRALS (carried forward)
+
+- Fresh FEC bulk download (weball24 / weball26)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting
+- ADR-0017 readiness tier sync into entities.jsonl
+- Rule 9 enforcement promotion
+
 ---
 
 ## HANDOFF — 2026-05-07 (cc_inspiring-lamarr, Code Claude · five draft beats promoted/built + Inside Safe deep research + 4 memory rules)
