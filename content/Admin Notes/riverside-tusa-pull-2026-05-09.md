@@ -227,9 +227,62 @@ The five separate Riverside beats now have a unifying spine. The donor map's big
 - `https://www.transparencyusa.org/ca/committee/pechanga-band-of-luiseno-indians-498071-mdi/payees`
 - `https://www.transparencyusa.org/ca/contributor/stronghold-power-systems-inc/`
 - `https://www.transparencyusa.org/ca/contributor/stronghold-engineering-inc/`
+- `https://www.transparencyusa.org/ca/committee/pacheco-moving-california-forward-a-ballot-measure-committee-1461025-rcp`
+- `https://www.transparencyusa.org/ca/committee/pacheco-moving-california-forward-a-ballot-measure-committee-1461025-rcp/contributors`
+- `https://www.transparencyusa.org/ca/contributor/v-manuel-perez-campaign/`
+- `https://www.transparencyusa.org/ca/contributor/karen-spiegel-campaign/`
+- `https://www.transparencyusa.org/ca/contributor/yxstian-gutierrez-campaign/`
+
+Plus Cal-Access (`cal-access.sos.ca.gov`) and OpenSecrets (`opensecrets.org`) attempts — both Imperva/Cloudflare-blocked. Logged as gov_primary attempts.
 
 All editorial-research; no URLs leak into beat body per Rule 13. Sentinel-blocked at citation layer.
 
 ---
 
-*Pull executed cc_vibrant-williams-5b0381, 2026-05-09. Parser script saved at `C:\Users\third\AppData\Local\Temp\parse_tusa.py` — not committed (research utility, not part of repo).*
+## Addendum — Pacheco Moving California Forward (sister ballot-measure PAC, FPPC #1461025)
+
+**Different beast — corporate / state-policy money pool, not the IE developer pool.**
+- Cycle totals: $75,900 contribs / $46,859 expenditures
+- Top contributors:
+  - **Turo Inc** — $15,000 (car-sharing platform; CA regulatory fight)
+  - **PhRMA (Pharmaceutical Research and Manufacturers Association)** — $10,000
+  - **California Medical Association (CalPAC)** — $7,500
+  - **DaVita Healthcare Partners and Affiliated Entities** — $7,500 (dialysis lobby)
+  - **Harbor Distributing LLC** — $7,500
+  - **Tom Daly's Ballot Measure Committee for Government Efficiency** — $7,500
+- Different leadership likely. Same "Pacheco" branding may share a treasurer / consulting infrastructure with the main MCF #1455936.
+
+The two committees together suggest a Sacramento-Inland Empire **PAC family with separate donor pools but coordinated branding**. Worth flagging — David should confirm whether they share a treasurer.
+
+---
+
+## Addendum — Jeffrey Burum / Measure EE / "Empire State" secession
+
+Burum (top MCF contributor and Colonies scandal central figure) was the **financial backer of San Bernardino County's 2022 ballot measure (Measure EE) to study seceding from California and form an "Empire State"**. Measure passed 51.3%-48.7%. Background context for why Burum is funding a "Moving California Forward" PAC — the brand maps to his actual policy preference: redirect California government attention to the Inland Empire.
+
+---
+
+## Critical remaining gap: WHO RUNS MOVING CALIFORNIA FORWARD
+
+**Documented:** the donors, the recipients, the dollar amounts, the structural cross-fund pattern.
+
+**NOT documented (David-only at this point):**
+- **Principal officer** of MCF
+- **Treasurer** of MCF
+- **Mailing address** of MCF (which would identify the operating consultancy)
+- **Sponsor** (if any)
+
+**How to close in 5 minutes:**
+1. Open `https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1455936`
+2. Solve any JS challenge
+3. The Statement of Organization (Form 410) on the committee page lists the principal officer + treasurer in plain text
+
+**Or alternative:**
+- `https://netfile.com` — search committee ID 1455936
+- The Form 410 PDF is typically the first link on the committee detail page
+
+This is the **keystone** for the megabeat headline. Knowing the treasurer / principal officer tells us whether MCF is run by a Riverside Co. consultant (likely Troast & Associates, given they take $60K from the PAC), a Sacramento lobbying firm, or one of the donor families directly.
+
+---
+
+*Pull executed cc_vibrant-williams-5b0381, 2026-05-09. Parser scripts saved at `C:\Users\third\AppData\Local\Temp\parse_tusa.py` + `parse_pacheco.py` + `parse_supervisors.py` — not committed (research utility, not part of repo).*
