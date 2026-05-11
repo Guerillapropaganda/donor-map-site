@@ -1,7 +1,171 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-05-09
+last-updated: 2026-05-11
+---
+
+## HANDOFF — 2026-05-09 through 2026-05-11 (cc_vibrant-williams, Code Claude · Riverside megabeat assembly + 6 beat drafts from scratch)
+
+**Context:** Code Claude. Worktree `claude/vibrant-williams-5b0381`, Opus 4.7 (1M context). Three-day session that started on Bass-Airbnb research (the Wesson family pipeline at LA City Hall) and pivoted into a deep Riverside County investigation that collapsed five separate beat candidates into a single structural megabeat: **The Second Floor** at 3649 Mission Inn Ave Floor 2 Rotunda. Six new beat drafts produced. Major Gemini Deep Research integrations. Distribution / pitch plan saved.
+
+### THIS SESSION'S DELIVERABLES (all in worktree, pushed to origin/claude/vibrant-williams-5b0381)
+
+#### Six new beat drafts (all skeleton-level, URL-pass pending)
+
+1. **`/second-floor`** (`prototype/beat-second-floor.html` · 691 lines)
+   The Mission Inn 2nd Floor Rotunda megabeat. One suite houses Moving California Forward + sister ballot-measure PAC + 3 supervisor/council campaign committees + Pacheco & Neach pc (Rod Pacheco's law firm) + Troast & Associates LLC (Marc Troast, ex-Rod Pacheco staffer) + Bill Essayli was of counsel through Sept 2025 → now US Attorney for LA + Riverside Sheriffs' Association lobbying. Donors include Stronghold Power, Highland Fairview, Lewis Group, Palm Communities, Jeffrey Burum (Colonies scandal alum), Gregory Devereaux (former SB Co CAO), Charles B Wood ($50,800 individual), Athens Services. Payouts to Bianco Governor ($10K), Gutierrez D5 ($9.5K), Spiegel D2 ($1K, both on IEHP board during alleged $320M fraud), and a slate of GOP Assembly/council candidates. Cross-fund: Wood $50.8K MCF + $39.4K Bianco; Highland Fairview $20K MCF + $39.2K Bianco. Hotel itself sold to San Manuel Investment Authority May 4 2026. Marcelo Co bribery context (5 years federal prison, "largest bribe ever accepted in undercover op"), Highland Fairview FBI raid 2013, Owings recall June 2014. Hestrin/Haagen donor overlap.
+
+2. **`/airbnb-bass`** (`prototype/beat-airbnb-bass.html` · 165 lines)
+   Wesson family pipeline at LA City Hall. Bass 2026-27 budget Airbnb provisions + Mercury Public Affairs employee bundle of $3,500 to Bass Sept 30-Oct 30 2025 (two months after Justin's August 2025 Airbnb registration) + Save Our Services Airbnb-funded astroturf + 3 LA councilmembers opposed. PLUM May 12 / Council May 21.
+
+3. **`/coachella-data-center`** (`prototype/beat-coachella-data-center.html` · 145 lines)
+   Stronghold $4,900 to Hernandez + Feb 11 2026 Coachella council vote + Hernandez Oct 30 indictment + March 2026 felony plea + Stronghold Engineering $2.5M DOJ Non-Prosecution Agreement via KPI shell + Bailey family Calvert federal cross-link. Town hall held May 11 2026.
+
+4. **`/iehp-320m`** (`prototype/beat-iehp-320m.html` · 140 lines)
+   DOJ False Claims Act Sept 2025 + Bradley Gilbert smoking-gun email + Gilbert → Newsom DHCS Director revolving door + IEHP Governing Board with sitting Riverside + SB supervisors during alleged-fraud period.
+
+5. **`/pechanga-money`** (`prototype/beat-pechanga-money.html` · 153 lines)
+   #2 political donor in America (~$44M). Temecula-based. SB 549 cardroom war + HR 5682/S 4053 land-into-trust + Becerra $39,200 + Natasha Johnson $17,700 cross-fund with MCF.
+
+6. **`/calvert-earmarks`** (`prototype/beat-calvert-earmarks.html` · 133 lines)
+   $100M+ Community Project Funding since 2021 near Calvert's undisclosed Corona properties + ECU OCE complaint + 2007 House Ethics precedent + Q1 2026 defense PAC $200K+ post-Iran-war + Bailey family Calvert donations.
+
+All 6 beats wired into:
+- `prototype/server.cjs` (slug + alias routes)
+- `ops/src/app/site-preview/page.tsx` (PROTOTYPE_PAGES cards with status `draft-isolated`)
+- `ops/src/lib/beats-catalog.ts` (full BeatRecord with verificationSeeds for URL-pass workspace)
+
+NOT added to `data/public-routes.json` — Tier 3 / David-only per memory rule.
+
+#### Five research dossiers in `content/Admin Notes/`
+
+- `riverside-deep-research-2026-05-09.md` — 5-beat Riverside dossier (Coachella, IEHP, Calvert, Pechanga, V. Manuel Perez), pre-megabeat consolidation
+- `riverside-tusa-pull-2026-05-09.md` — TUSA NUXT extraction data (MCF contributors + payees, Bianco contributors, Pechanga state payees) with all verified dollar amounts. The load-bearing data for the megabeat.
+- `gemini-research/2026-05-10-mcf-keystone-results.md` — Theodore Pacheco identity + 3649 Mission Inn Ave Floor 2 address confirmation
+- `gemini-research/2026-05-10-resnick-may5-filings-results.md` — Stewart + Lynda Resnick May 5 2026 paired 24-hour reports + Becerra top donors (Laborers PSW $2M, CPCA $115K) + Becerra IE committee #1490885
+- `gemini-research/2026-05-10-riverside-supervisor-donors-results.md` — Perez committee #1396909 at SAME address as MCF — the address-overlap reveal that converted the megabeat
+- `gemini-research/2026-05-11-mission-inn-second-floor-results.md` — Mission Inn hotel sale to San Manuel + Jennifer Mitchell at Campaign Finance Services LLC + Pacheco & Neach pc at the same Rotunda + RSA lobbying tenants
+- `distribution-second-floor-2026-05-11.md` — Tier-ranked pitch plan (Jessica Garrison BuzzFeed Tier 1 since she broke the original Highland Fairview / Marcelo Co reporting; CalMatters investigative team who owns IEHP + Bianco ballot seizure; Press-Enterprise + Riverside Record local; ProPublica + Bolts + Capitol Weekly national amplifiers). Cold-pitch template included.
+
+#### Independent verifications performed (Rule 13 + ADR-0030 §1/§12)
+
+✅ Confirmed via named publications / government primary sources:
+- Mission Inn purchase by San Manuel Investment Authority May 4 2026 (CBS LA, Real Deal LA, Riverside Record, Tribal Gaming Magazine, SMIA press release)
+- Duane Roberts death Nov 1 2025 (Pepperdine, Spokesman-Review, KFI AM 640)
+- Troast & Associates LLC at 3649 Mission Inn Ave 2nd Floor Rotunda (CA SOS LLC filing #201736210359)
+- Pacheco & Neach pc at same Rotunda (US News Law Firms, Palm Springs Life, firm website)
+- Marc Troast career arc as Rod Pacheco's former staff (LinkedIn + Troast website)
+- Bill Essayli of counsel at Pacheco & Neach during Assembly tenure (CalMatters Digital Democracy)
+- Ryan Sherman as RSA lobbyist (CalMatters Digital Democracy)
+- Jennifer Mitchell at Campaign Finance Services LLC (LinkedIn; CFS LLC is also a $5K MCF payee per TUSA)
+- Marcelo Co 60-month federal sentence for $2.36M bribe (FBI press release + DOJ Central CA)
+- Tom Owings recalled by voters June 2014
+- Athens Services holds exclusive Riverside city trash franchise (City of Riverside Resolution 23-1667)
+- Stronghold Engineering DOJ deal was Non-Prosecution Agreement (KPI shell + nominal vet Neff + 14 VA contracts)
+
+❌ Falsified via independent research:
+- San Manuel Band as V. Manuel Perez top-3 donor (Gemini-reported, contradicted by Uken Report + other named publications which identify Riverside Sheriffs Assn Education Fund + LIUNA Local 777 PAC as top donors). Pull-quote rewritten.
+- "Theodore Pacheco" as first name on Form 410. Rod Pacheco's full name is Rodric Anthony Pacheco (born 1958). The MCF treasurer's first name remains unconfirmed independently. Beat soft-pedals to "a Pacheco."
+
+#### Direct LA City Ethics Socrata extractions (ADR-0030 §1)
+
+- Wesson family lobbying registry: Justin Wesson (Airbnb, since Aug 2025) + Herb Wesson (Mercury Public Affairs, since May 2024)
+- Mercury Public Affairs LA City clients 2022-2026 (Phillips 66 $511K, McDonald's $270K, Verizon $225K, Fox Corp $170K, LA World Airports $125K, LA Federation of Labor $120K, etc.)
+- Airbnb LA City lobbying firm history (M Strategic $1.29M, Mercury $335K historic 2017-19, Chief Strategies $265K, M2 Strategies $158K, etc.)
+- 9 Mercury employees to Bass for Mayor 2026 totaling $3,500 Sept 30-Oct 30 2025
+
+#### TransparencyUSA NUXT extractions (ADR-0030 §12)
+
+- Moving California Forward #1455936 full contributor list (17 entries) + full payee list
+- Pacheco MCF Ballot Measure #1461025 full contributor list (PhRMA, DaVita, Turo, CalPAC)
+- Bianco for Governor 2026 #1479095 top 22 contributors (Wood $39,382, Haagens $39,200 each, Highland Fairview $39,200, etc.)
+- Pechanga state-level payee profile (Becerra $39,200, ~17 Assembly candidates at $11,800 max)
+
+### Commits to worktree branch (in order)
+
+- `d92a6a6d1` — Riverside deep research dossier (initial 5-beat compilation)
+- `037dd2252` — TUSA pull dossier (the data load-bearing for the megabeat)
+- `f23f80289` — Gemini MCF keystone results (Theodore Pacheco)
+- `e52b55c01` — Resnick May 5 filings Gemini results
+- `ef7b783d6` — Riverside supervisor donors Gemini results (Perez address overlap discovery)
+- `5e552b152` — Mission Inn building reveal Gemini results
+- `222f18cb4` — Second Floor beat first draft + ops wiring
+- `2f0bfdb24` — Second Floor 3 verification flags resolved (Troast LLC + Sherman + Mitchell)
+- `aeb5f81da` — Second Floor: Pacheco & Neach in same suite + Benzeevi/Gutierrez WLC history
+- `bb2a09d41` — Second Floor: GOP infrastructure framing + Athens 21-city playbook
+- `4dabeea21` — Second Floor: Essayli was of counsel + Hestrin/Haagen overlap + DeJohnette city correction
+- `a86133b6e` — Second Floor: Marcelo Co bribe + Pacheco & Neach ex-DA roster + RSA $1.19M war chest
+- `fc3485181` — Distribution / pitch plan + accuracy correction (Co conviction was FBI sting not Highland Fairview direct) + 3 upgrades
+- `3bb55ca78` — Five additional beat drafts: airbnb-bass, coachella-data-center, iehp-320m, pechanga-money, calvert-earmarks. All wired into server.cjs + site-preview + beats-catalog.
+
+### THE STRUCTURAL THROUGH-LINE (the unique value of this session's work)
+
+```
+3649 MISSION INN AVE FLOOR 2 ROTUNDA
+═══════════════════════════════════════════
+  └─ Pacheco & Neach pc (Rod Pacheco's law firm; Sohovich + Essayli on roster)
+  └─ Troast & Associates LLC (Marc Troast, Rod Pacheco's former Assembly staff)
+  └─ Moving California Forward (FPPC #1455936) — Pacheco family treasurer
+  └─ Pacheco MCF Ballot Measure (#1461025) — same treasurer
+  └─ V. Manuel Perez for Supervisor 2026 (#1396909) — Jennifer Mitchell C/O
+  └─ Yxstian Gutierrez for Supervisor 2026 (#1439760) — Jennifer Mitchell C/O
+  └─ Alvin DeJohnette for City Council 2024 (#1473823) — Jennifer Mitchell C/O
+  └─ Riverside Sheriffs' Association state lobbying — Ryan Sherman / Sherman Consulting
+
+DONOR INFLOWS to MCF #1455936:
+  Stronghold Power Systems ($25K), Athens Services ($25K), Lewis Management ($22.5K),
+  Highland Fairview ($20K), Palm Communities ($19.5K), Howard Industrial ($10K),
+  Intersect Power ($8K), Charles B Wood ($50.8K individual), Jeffrey Burum ($5K),
+  Gregory Devereaux ($1K). Total $220,950.
+
+PAYOUTS from MCF:
+  Bianco Governor ($10K), Gutierrez Supervisor ($9.5K), Spiegel Supervisor ($1K),
+  Ed Delgado Assembly D60 ($5.9K), Natasha Johnson AD63 ($4K), Theodore Sanchez SB
+  Council Ward 1 ($5.5K), Gerald Pfohl Superior Court ($2.2K), Ben Benoit ($1.25K),
+  Dale Kinnear RUSD School Board ($3K), Troast & Associates same-floor ($60.6K).
+
+DIRECT-TO-BIANCO CROSS-FUND (in addition to MCF):
+  Charles Wood $39.4K direct (Wood total $90K)
+  Highland Fairview $39.2K direct (HF total $59K)
+  Alexander + Betty Haagen $39.2K each (Haagens also gave Hestrin DA $40K combined)
+
+ELECTED OFFICIALS THE FLOOR FUNDS WHO ALSO TOUCH:
+  → IEHP $320M Medi-Cal fraud case (Spiegel chaired 2021-Feb 2025, Gutierrez since Jan 2023)
+  → Coachella data center Stronghold deal (Hernandez who took $4,900 from Stronghold,
+     pleaded guilty to felony §1090 conflict in March 2026)
+  → Bianco ballot seizure case (the gubernatorial candidate the floor funds)
+
+THE HOTEL ITSELF: San Manuel Investment Authority (largest tribal casino in CA)
+  announced purchase deal May 4, 2026. Closing expected end of May.
+```
+
+### KNOWN ISSUES / UNRESOLVED GAPS
+
+- **MCF treasurer first name** still independently unconfirmed. Beat soft-pedals to "a Pacheco" pending Form 410 PDF pull.
+- **Coachella Feb 11 2026 roll-call vote** — needs city clerk meeting minutes pull.
+- **Hestrin's 4 specific tribe donors** unnamed in 2022 reporting; needs Cal-Access pull.
+- **Charles B Wood** identity unknown despite multiple search rounds. Largest individual MCF donor at $50,800.
+- **Suite tenant directory** has 2 verified (Troast, Pacheco & Neach), 1 confirmed lobbyist (Sherman), and 3 Gemini-flagged but unconfirmed (Standard Riverside LLC, Law Office of Matt Hill, Joe Cameron). RSA specific suite number also gapped.
+- **Cal-Access PDF retrieval** is hard-blocked from both Claude AND Gemini (Imperva/Distil). Worth a MEMORY rule.
+
+### NEXT SESSION PRIORITIES
+
+1. **URL-pass the 6 beats in ops `/active-beat/<slug>`.** All 6 have verificationSeeds populated. Three Tier 1 picks: `/second-floor`, `/coachella-data-center`, `/iehp-320m`. Then `/airbnb-bass` (PLUM May 12, Council May 21 deadlines real), `/pechanga-money` (no calendar pressure), `/calvert-earmarks` (no calendar pressure, lower urgency since DCCC has it).
+2. **Pitch the Second Floor to investigative reporters.** Distribution dossier at `content/Admin Notes/distribution-second-floor-2026-05-11.md` ranks targets. Tier 1: Jessica Garrison (BuzzFeed News, broke the original Highland Fairview / Marcelo Co reporting) + CalMatters investigative team (owns IEHP + Bianco ballot seizure stories). Risk: window is right now, story is hot.
+3. **Pull the missing primary sources** that I couldn't reach (Cal-Access PDFs, NetFile Form 460 cover pages for 3 supervisor committees, Coachella Feb 11 minutes).
+4. **Expand beat skeletons** with hero SVGs + visualizations. Current drafts have copy + tables but no signature hero diagram except for Second Floor.
+5. **OG share images** for all 6 beats via `scripts/render-og-images.cjs` from main repo.
+6. **Sprint-schedule.md is past its April 30 end date** — flagged in prior handoff, still open. Either close out the April sprint or transition to a May sprint with the editorial / distribution work loaded as new tasks.
+
+### OPEN DEFERRALS (carried forward from prior sessions)
+
+- Fresh FEC bulk download (weball24 / weball26)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting
+- ADR-0017 readiness tier sync into entities.jsonl
+- Rule 9 enforcement promotion
+- LA City Ethics Socrata API (added to memory as a workflow rule? Worth checking)
+
 ---
 
 ## HANDOFF — 2026-05-09 (cc_jovial-joliot, Code Claude · Background ops decommission + Cop-Coddler rewrite + Spencer Pratt beat from scratch with Perplexity-corrected Komos/NFT findings)
