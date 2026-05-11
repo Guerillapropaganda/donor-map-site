@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pechanga Money · The #2 political donor in America operates from Riverside County · The Donor Map</title>
+<meta name="description" content="The Pechanga Band of Luiseño Mission Indians, operator of the largest tribal casino in California, is the second-largest political donor in the United States behind only the National Education Association. Headquartered in Temecula in Riverside County, Pechanga's political reach is shaped by ballot-measure fights over sports betting and a current land-into-trust effort pending in Congress.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --black: #0a0a0a; --ink: #1a1a1a; --cream: #f5f0eb; --paper: #ece6dd; --line: #d4cfc7; --muted: #666; --yellow: #fbbf24; --red: #e63946; --blue: #1d4ed8; }
+html, body { background: var(--cream); color: var(--ink); font-family: 'Inter', sans-serif; line-height: 1.55; }
+.nav { border-bottom: 2px solid var(--black); padding: 18px 0; background: var(--cream); position: sticky; top: 0; z-index: 10; }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-weight: 900; font-size: 22px; color: var(--black); text-decoration: none; }
+.nav-links { display: flex; gap: 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.nav-links a { color: var(--ink); text-decoration: none; }
+.article-header { padding: 72px 32px 60px; border-bottom: 2px solid var(--black); }
+.article-header-inner { max-width: 880px; margin: 0 auto; }
+.breadcrumb { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 24px; }
+.beat-meta { display: flex; gap: 16px; margin-bottom: 28px; font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; flex-wrap: wrap; }
+.beat-meta .tag { background: var(--black); color: var(--cream); padding: 4px 10px; }
+.beat-meta .date { color: var(--muted); }
+.beat-meta .draft { background: var(--yellow); padding: 4px 10px; font-weight: 700; color: var(--black); }
+.article-header h1 { font-weight: 900; font-size: 60px; line-height: 0.98; letter-spacing: -2.5px; margin-bottom: 32px; }
+.article-header h1 .h-yellow { background: var(--yellow); padding: 0 10px; }
+.article-header .deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 26px; line-height: 1.3; border-left: 4px solid var(--black); padding-left: 24px; }
+.article-body { padding: 80px 32px; }
+.article-body-inner { max-width: 720px; margin: 0 auto; font-size: 19px; line-height: 1.65; }
+.article-body p { margin-bottom: 22px; }
+.article-body p strong { background: var(--yellow); padding: 0 4px; font-weight: 700; }
+.article-body p.lede { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 26px; line-height: 1.4; margin-bottom: 32px; }
+.article-body p.lede strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; }
+.article-body h2 { font-weight: 900; font-size: 34px; line-height: 1.1; letter-spacing: -1px; margin-top: 48px; margin-bottom: 18px; border-top: 2px solid var(--black); padding-top: 32px; }
+.article-body a.cite { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); }
+.toc { margin: 36px 0 48px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 20px 0; font-family: 'Space Mono', monospace; }
+.toc .toc-label { font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 12px; }
+.toc ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 24px; counter-reset: toc-counter; }
+.toc li { counter-increment: toc-counter; display: flex; gap: 10px; padding: 4px 0; border-bottom: 1px dotted var(--line); font-size: 14px; }
+.toc li::before { content: counter(toc-counter, decimal-leading-zero) "."; font-weight: 700; color: var(--muted); font-size: 12px; }
+.toc li a { color: var(--ink); text-decoration: none; font-weight: 700; }
+.receipts-block { margin: 36px 0; padding: 32px; background: var(--paper); border: 2px solid var(--black); }
+.receipts-block h3 { font-weight: 900; font-size: 22px; margin-bottom: 4px; }
+.receipts-block .desc { font-family: 'Space Mono', monospace; font-size: 12px; color: var(--muted); margin-bottom: 18px; }
+.receipts-table { width: 100%; border-collapse: collapse; font-family: 'Space Mono', monospace; font-size: 14px; }
+.receipts-table th, .receipts-table td { padding: 10px 0; border-bottom: 1px solid var(--line); text-align: left; }
+.receipts-table th { font-weight: 700; font-size: 11px; text-transform: uppercase; color: var(--muted); }
+.receipts-table td.num { text-align: right; font-weight: 700; font-variant-numeric: tabular-nums; }
+.sources-block { margin-top: 60px; padding-top: 36px; border-top: 2px solid var(--black); font-size: 16px; }
+.sources-block h3 { font-weight: 900; font-size: 22px; margin-bottom: 12px; }
+.sources-block ul { list-style: none; padding: 0; }
+.sources-block ul li { padding: 6px 0; border-bottom: 1px solid var(--line); font-family: 'Space Mono', monospace; font-size: 13px; }
+.sources-block ul li a { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); word-break: break-all; }
+.sources-block .label { display: inline-block; width: 200px; font-weight: 700; }
+.beat-footer { padding: 48px 32px; background: var(--black); color: var(--cream); text-align: center; }
+.beat-footer .brand-footer { font-weight: 900; font-size: 22px; margin-bottom: 8px; }
+@media (max-width: 800px) { .article-header h1 { font-size: 40px; } .article-body h2 { font-size: 26px; } .article-body-inner { font-size: 17px; } }
+</style>
+</head>
+<body>
+<nav class="nav"><div class="nav-inner"><a href="/" class="brand">THE DONOR MAP</a><div class="nav-links"><a href="/">Home</a><a href="/investigations">Investigations</a><a href="/about">About</a></div></div></nav>
+
+<header class="article-header"><div class="article-header-inner">
+<div class="breadcrumb">The Donor Map › California Political Money › Pechanga</div>
+<div class="beat-meta"><span class="tag">Tribal Money</span><span class="date">Drafted May 2026</span><span class="draft">★ Draft. URL-pass pending.</span></div>
+<h1><span class="h-yellow">Pechanga</span> spent more on politics last year than every union except NEA.</h1>
+<p class="deck">The Pechanga Band of Luiseño Mission Indians, headquartered in Temecula in Riverside County and operator of the largest tribal casino in California, was the second-largest political donor in the United States in the most recent cycle. Their priorities map to two policy fights and one quiet land transfer pending in Congress.</p>
+</div></header>
+
+<article class="article-body"><div class="article-body-inner">
+
+<p class="lede"><strong>Most national-money stories begin in New York or Silicon Valley.</strong> This one begins in Temecula, ninety minutes east of the coast, on a reservation that operates a casino producing some of the largest tribal political contributions in American politics. The Pechanga Band's giving doesn't fit the typical industry-PAC frame. It maps to specific battles over what tribal gaming is allowed to be, who gets to compete with it, and what land the tribe can place into federal trust.</p>
+
+<nav class="toc"><div class="toc-label">In this investigation</div><ol>
+<li><a href="#scale">The scale of Pechanga's political giving</a></li>
+<li><a href="#sports-betting">The sports-betting fights</a></li>
+<li><a href="#cardrooms">SB 549 and the cardroom war</a></li>
+<li><a href="#trust">The land-into-trust legislation</a></li>
+<li><a href="#recipients">Who Pechanga funds in California</a></li>
+<li><a href="#open-questions">Open questions</a></li>
+</ol></nav>
+
+<h2 id="scale">The scale of Pechanga's political giving</h2>
+<p>Per <a class="cite" href="https://consumerwatchdog.org/uncategorized/california-gaming-tribes-top-campaign-donors/" target="_blank" rel="noopener">Consumer Watchdog reporting</a>, the Pechanga Band of Luiseño Mission Indians was the number-two political donor in the United States in the most recent reported cycle, behind only the National Education Association. The tribe spent approximately $44 million on political activities in that cycle, the bulk of it directed at California state ballot measures and California state-level candidate races.</p>
+<p>Per <a class="cite" href="https://www.opensecrets.org/orgs/pechanga-band-of-luiseno-mission-indians/summary?id=D000023641" target="_blank" rel="noopener">OpenSecrets</a>, the tribe spent $822,989 on federal contributions and $220,000 on federal lobbying in the 2024 cycle alone. The bulk of its political activity occurs at the California state level, which is not aggregated in federal databases.</p>
+<p>Cumulatively across the 2000-2009 decade, the Pechanga Band was the fifth-largest special-interest spender in California state politics, with approximately $69.3 million in disclosed expenditures.</p>
+
+<h2 id="sports-betting">The sports-betting fights</h2>
+<p>The single largest concentrated Pechanga political expenditure on record was approximately $46 million directed at California Propositions 94, 95, 96, and 97 on the 2008 ballot, which sought to expand tribal slot machines under amended tribal-state gaming compacts.</p>
+<p>In 2022, Pechanga was a leading member of the tribal coalition opposing California Proposition 26 (online sports betting under tribal exclusivity) and the parallel cardroom-backed proposition. Combined tribal and gambling-industry spending on the 2022 sports-betting ballot fight ranked among the most expensive ballot-measure campaigns in California history.</p>
+
+<h2 id="cardrooms">SB 549 and the cardroom war</h2>
+<p>In September 2024, Governor Gavin Newsom signed <strong>Senate Bill 549, the Tribal Nations Access to Justice Act</strong>. Pechanga was part of the leading tribal coalition that supported the bill. SB 549 enables tribes to bring legal action against California cardrooms over the cardrooms' use of player-dealer / banked-game mechanisms that tribes contend infringe on tribal gaming exclusivity.</p>
+<p>On January 1, 2025, seven California tribes including Pechanga filed legal action against multiple California cardrooms under the new statute. The litigation, if successful, would unwind one of California's largest non-tribal gambling industries.</p>
+
+<h2 id="trust">The land-into-trust legislation</h2>
+<p>In the 119th Congress, two parallel bills pending placement of certain California land into federal trust for the benefit of the Pechanga Band of Indians are under consideration: <a class="cite" href="https://www.congress.gov/bill/119th-congress/house-bill/5682" target="_blank" rel="noopener">H.R. 5682</a> in the U.S. House and <a class="cite" href="https://www.congress.gov/bill/119th-congress/senate-bill/4053" target="_blank" rel="noopener">S. 4053</a> in the U.S. Senate. Land-into-trust transfers carry significant federal regulatory and tax consequences, and are typically a tribal priority requiring careful federal political support.</p>
+
+<h2 id="recipients">Who Pechanga funds in California</h2>
+<p>Per Cal-Access state-level data, Pechanga's California state political contributions in the 2024 cycle followed a "max out every legislator we want" pattern. The legislative maximum per-candidate contribution is $11,800; Pechanga delivered that maximum to a wide slate of Assembly and Senate candidates. A sample of 2024 cycle recipients (per TransparencyUSA's mirror of Cal-Access):</p>
+
+<div class="receipts-block">
+<h3>Pechanga California state-level recipients · 2024 cycle (sample)</h3>
+<div class="desc">Filer ID #498071 · per TUSA/Cal-Access · partial list</div>
+<table class="receipts-table"><thead><tr><th>Recipient</th><th style="text-align:right;">Amount</th></tr></thead><tbody>
+<tr><td>Xavier Becerra Campaign (Governor 2026)</td><td class="num">$39,200</td></tr>
+<tr><td>Laura Richardson Campaign</td><td class="num">$22,800</td></tr>
+<tr><td>Natasha Johnson Campaign (Assembly D63)</td><td class="num">$17,700</td></tr>
+<tr><td>Monique Limón Campaign</td><td class="num">$14,900</td></tr>
+<tr><td>Akilah Weber Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Alexandra Macedo Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Anamarie Avila Farias Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Avelino Valencia Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Catherine Stefani Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Cecilia Aguiar-Curry Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Celeste Rodriguez Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Chris Rogers Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Chris Ward Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Christopher Cabaldon Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Corey Jackson Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Cottie Petrie-Norris Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Esmeralda Soria Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Greg Wallis Campaign</td><td class="num">$11,800</td></tr>
+<tr><td>Gregg Hart Campaign</td><td class="num">$11,800</td></tr>
+</tbody></table>
+</div>
+
+<p>The standout recipient is <strong>Xavier Becerra for Governor 2026</strong>, the leading Democratic candidate for the California governor's race. Pechanga max-funded his committee at $39,200, the corporate-entity maximum for a statewide candidate per the FPPC. Becerra is the former U.S. Secretary of Health and Human Services and a former California Attorney General.</p>
+<p>Note: <strong>Natasha Johnson</strong>, the recently sworn-in Assembly member for District 63 (Norco, Menifee, Lake Elsinore, Canyon Lake, parts of Eastvale/Riverside/Corona), received $17,700 from Pechanga and $4,000 from Moving California Forward, the Riverside-based developer PAC. The cross-fund between tribal-gaming money and Inland Empire developer money is documented on a single candidate.</p>
+
+<h2 id="open-questions">Open questions</h2>
+<p><strong>The Pechanga Band has not publicly addressed</strong> whether its support for Xavier Becerra at the statewide maximum reflects a specific tribal-policy commitment Becerra has made on cardroom litigation, sports betting, or federal land-into-trust legislation.</p>
+<p><strong>Xavier Becerra has not publicly addressed</strong> the policy expectations that accompany maximum-out tribal gaming contributions or how he would handle conflicts between tribal gaming exclusivity and California's other gambling industries.</p>
+<p><strong>The California legislators on Pechanga's max-fund list have not publicly addressed</strong> their positions on the pending Pechanga land-into-trust legislation in Congress or on potential California statutes affecting tribal-gaming exclusivity.</p>
+
+<div class="sources-block">
+<h3>Sources</h3>
+<ul>
+<li><span class="label">National donor ranking</span><a href="https://consumerwatchdog.org/uncategorized/california-gaming-tribes-top-campaign-donors/" target="_blank" rel="noopener">Consumer Watchdog: California gaming tribes top donors</a></li>
+<li><span class="label">OpenSecrets profile</span><a href="https://www.opensecrets.org/orgs/pechanga-band-of-luiseno-mission-indians/summary?id=D000023641" target="_blank" rel="noopener">Pechanga federal contributions profile</a></li>
+<li><span class="label">Land into trust HR</span><a href="https://www.congress.gov/bill/119th-congress/house-bill/5682" target="_blank" rel="noopener">H.R. 5682 (Pechanga land-into-trust)</a></li>
+<li><span class="label">Land into trust Sen</span><a href="https://www.congress.gov/bill/119th-congress/senate-bill/4053" target="_blank" rel="noopener">S. 4053 (Senate companion)</a></li>
+<li><span class="label">Cardroom litigation</span><a href="https://www.swlaw.com/publication/seven-california-tribes-sue-california-card-rooms-over-banking-mechanisms-for-card-games/" target="_blank" rel="noopener">Snell &amp; Wilmer: tribes sue cardrooms Jan 2025</a></li>
+<li><span class="label">State data mirror</span><a href="https://www.transparencyusa.org/ca/committee/pechanga-band-of-luiseno-indians-498071-mdi" target="_blank" rel="noopener">TransparencyUSA: Pechanga state-level committee</a></li>
+<li><span class="label">Cal-Access</span><a href="https://cal-access.sos.ca.gov/" target="_blank" rel="noopener">California Secretary of State Cal-Access</a></li>
+</ul>
+</div>
+
+</div></article>
+
+<section class="beat-footer"><div class="brand-footer">THE DONOR MAP</div><div style="font-family:'Instrument Serif',serif;font-style:italic;font-size:16px;color:#aaa;">Money is the only fingerprint that lasts.</div></section>
+</body>
+</html>
