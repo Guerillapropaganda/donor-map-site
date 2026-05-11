@@ -30,6 +30,12 @@ http.createServer((req, res) => {
   else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
   else if (url === '/spencer-pratt' || url === '/pratt' || url === '/new-caruso' || url === '/beat-spencer-pratt' || url === '/beat-spencer-pratt.html') file = 'beat-spencer-pratt.html';
   else if (url === '/clean-cash' || url === '/beat-clean-cash' || url === '/beat-clean-cash.html') file = 'beat-clean-cash.html';
+  else if (url === '/second-floor' || url === '/the-second-floor' || url === '/mission-inn' || url === '/beat-second-floor' || url === '/beat-second-floor.html') file = 'beat-second-floor.html';
+  else if (url === '/airbnb-bass' || url === '/wesson-pipeline' || url === '/beat-airbnb-bass' || url === '/beat-airbnb-bass.html') file = 'beat-airbnb-bass.html';
+  else if (url === '/coachella-data-center' || url === '/stronghold' || url === '/beat-coachella-data-center' || url === '/beat-coachella-data-center.html') file = 'beat-coachella-data-center.html';
+  else if (url === '/iehp-320m' || url === '/iehp' || url === '/beat-iehp-320m' || url === '/beat-iehp-320m.html') file = 'beat-iehp-320m.html';
+  else if (url === '/pechanga-money' || url === '/pechanga' || url === '/beat-pechanga-money' || url === '/beat-pechanga-money.html') file = 'beat-pechanga-money.html';
+  else if (url === '/calvert-earmarks' || url === '/calvert' || url === '/beat-calvert-earmarks' || url === '/beat-calvert-earmarks.html') file = 'beat-calvert-earmarks.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else if (url === '/investigations' || url === '/investigations/' || url === '/investigations.html') file = 'investigations.html';
   if (!file) {
