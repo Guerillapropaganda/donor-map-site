@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Second Floor · One Riverside address buys an Inland Empire · The Donor Map</title>
+<meta name="description" content="On the second floor of a downtown Riverside hotel, one address houses three political action committees, three candidate campaigns, a developer consulting firm, and the Riverside Sheriffs' Association's lobbying operation. The hotel itself is being sold to a casino tribe whose donations also flow through that floor.">
+<meta property="og:site_name" content="The Donor Map">
+<meta property="og:title" content="The Second Floor. One address buys an Inland Empire.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://thedonormap.org/second-floor/">
+<meta property="og:description" content="3649 Mission Inn Ave, Floor 2, Riverside. One suite. Three PACs. Three campaigns. A consulting firm. A sheriffs' lobbying shop. And a hotel being sold to a casino tribe.">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+  --green: #16a34a;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.nav { border-bottom: 2px solid var(--black); padding: 18px 0; background: var(--cream); position: sticky; top: 0; z-index: 10; }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; color: var(--black); text-decoration: none; }
+.nav-links { display: flex; gap: 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.nav-links a { color: var(--ink); text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 2px; }
+.nav-links a:hover { border-bottom-color: var(--black); }
+.nav-links a.active { border-bottom-color: var(--black); }
+
+.article-header { padding: 72px 32px 60px; border-bottom: 2px solid var(--black); }
+.article-header-inner { max-width: 880px; margin: 0 auto; }
+.breadcrumb { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 24px; }
+.breadcrumb a { color: var(--muted); text-decoration: none; border-bottom: 1px solid transparent; }
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta { display: flex; gap: 16px; align-items: center; margin-bottom: 28px; font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; flex-wrap: wrap; }
+.beat-meta .tag { background: var(--black); color: var(--cream); padding: 4px 10px; }
+.beat-meta .date { color: var(--muted); }
+.beat-meta .draft { background: var(--yellow); padding: 4px 10px; font-weight: 700; color: var(--black); }
+
+.article-header h1 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 72px; line-height: 0.98; letter-spacing: -3px; margin-bottom: 32px; }
+.article-header h1 .h-yellow { background: var(--yellow); padding: 0 10px; }
+.article-header .deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 28px; line-height: 1.3; color: var(--ink); border-left: 4px solid var(--black); padding-left: 24px; }
+
+.hero-viz { padding: 60px 32px; background: var(--paper); border-bottom: 2px solid var(--black); }
+.hero-viz-inner { max-width: 1100px; margin: 0 auto; }
+.hero-viz .viz-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 18px; text-align: center; }
+.hero-viz svg { width: 100%; height: auto; max-height: 640px; display: block; margin: 0 auto; }
+.hero-viz .viz-caption { margin-top: 24px; font-family: 'Instrument Serif', serif; font-style: italic; font-size: 18px; line-height: 1.45; color: var(--muted); text-align: center; max-width: 760px; margin-left: auto; margin-right: auto; }
+
+.article-body { padding: 80px 32px; }
+.article-body-inner { max-width: 720px; margin: 0 auto; font-size: 19px; line-height: 1.65; }
+.article-body p { margin-bottom: 22px; }
+.article-body p strong { background: var(--yellow); padding: 0 4px; font-weight: 700; }
+.article-body p.lede { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 26px; line-height: 1.4; color: var(--ink); margin-bottom: 32px; }
+.article-body p.lede strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; }
+.article-body h2 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; line-height: 1.1; letter-spacing: -1px; margin-top: 48px; margin-bottom: 18px; border-top: 2px solid var(--black); padding-top: 32px; }
+.article-body h2 em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+
+.article-body a.cite { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); }
+.article-body a.cite:hover { background: var(--yellow); border-bottom: 1px solid var(--black); color: var(--black); }
+
+.toc { margin: 36px 0 48px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 20px 0; font-family: 'Space Mono', monospace; }
+.toc .toc-label { font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 12px; }
+.toc ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 24px; counter-reset: toc-counter; }
+@media (max-width: 700px) { .toc ol { grid-template-columns: 1fr; } }
+.toc li { counter-increment: toc-counter; display: flex; gap: 10px; align-items: baseline; font-size: 14px; line-height: 1.4; padding: 4px 0; border-bottom: 1px dotted var(--line); }
+.toc li::before { content: counter(toc-counter, decimal-leading-zero) "."; font-weight: 700; color: var(--muted); flex-shrink: 0; font-size: 12px; }
+.toc li a { color: var(--ink); text-decoration: none; font-weight: 700; flex: 1; }
+.toc li a:hover { background: var(--yellow); }
+
+.pull-quote { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 30px; line-height: 1.3; border-left: 6px solid var(--yellow); padding: 12px 0 12px 28px; margin: 36px 0; color: var(--ink); }
+.pull-quote strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; background: var(--yellow); padding: 0 4px; }
+
+.normie-callout { margin: 0 0 60px; padding: 0; background: var(--black); color: var(--cream); border-bottom: 2px solid var(--black); }
+.normie-callout-inner { max-width: 1100px; margin: 0 auto; padding: 48px 32px; }
+.normie-callout-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--yellow); margin-bottom: 28px; text-align: center; }
+.normie-callout-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 32px; }
+@media (max-width: 800px) { .normie-callout-grid { grid-template-columns: 1fr; gap: 24px; } }
+.normie-stat { padding: 0 8px; border-left: 3px solid var(--yellow); padding-left: 18px; }
+.normie-stat .num { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 44px; line-height: 1; letter-spacing: -1.5px; color: var(--yellow); margin-bottom: 12px; }
+.normie-stat .body { font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.45; color: var(--cream); }
+.normie-stat .body strong { color: #fff; font-weight: 700; }
+.normie-stat .footnote { font-family: 'Space Mono', monospace; font-size: 10px; letter-spacing: 1px; color: #888; margin-top: 12px; line-height: 1.5; }
+
+.receipts-block { margin: 36px 0; padding: 32px; background: var(--paper); border: 2px solid var(--black); }
+.receipts-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 4px; }
+.receipts-block .desc { font-family: 'Space Mono', monospace; font-size: 12px; letter-spacing: 1px; color: var(--muted); margin-bottom: 18px; }
+.receipts-table { width: 100%; border-collapse: collapse; font-family: 'Space Mono', monospace; font-size: 14px; }
+.receipts-table th, .receipts-table td { padding: 10px 0; border-bottom: 1px solid var(--line); text-align: left; }
+.receipts-table th { font-weight: 700; letter-spacing: 1.5px; font-size: 11px; text-transform: uppercase; color: var(--muted); }
+.receipts-table td.num { text-align: right; font-weight: 700; color: var(--black); font-variant-numeric: tabular-nums; }
+.receipts-table tr.total td { border-top: 2px solid var(--black); border-bottom: none; padding-top: 14px; font-weight: 900; font-size: 15px; }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag { font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); display: block; margin-top: 2px; }
+
+.unverified-flag { display: inline-block; background: var(--red); color: #fff; font-family: 'Space Mono', monospace; font-size: 9px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; padding: 2px 6px; margin-left: 6px; vertical-align: middle; }
+
+.sources-block { margin-top: 60px; padding-top: 36px; border-top: 2px solid var(--black); font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; }
+.sources-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; margin-bottom: 12px; letter-spacing: -0.5px; }
+.sources-block ul { list-style: none; padding: 0; }
+.sources-block ul li { padding: 6px 0; border-bottom: 1px solid var(--line); font-family: 'Space Mono', monospace; font-size: 13px; line-height: 1.5; }
+.sources-block ul li a { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); word-break: break-all; }
+.sources-block ul li a:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+.sources-block .label { display: inline-block; width: 240px; color: var(--ink); font-weight: 700; }
+.sources-block .methodology { margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.6; color: var(--muted); }
+.sources-block .methodology strong { color: var(--ink); }
+
+.beat-footer { padding: 48px 32px; background: var(--black); color: var(--cream); text-align: center; }
+.beat-footer .brand-footer { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 8px; }
+.beat-footer .brand-footer em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: #ddd; }
+.beat-footer .tagline-footer { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 16px; color: #aaa; margin-bottom: 24px; }
+.beat-footer .small { font-family: 'Space Mono', monospace; font-size: 11px; color: #777; letter-spacing: 1px; margin-top: 32px; }
+
+@media (max-width: 800px) {
+  .article-header h1 { font-size: 42px; letter-spacing: -1.5px; }
+  .article-header .deck { font-size: 20px; }
+  .article-body h2 { font-size: 28px; }
+  .article-body-inner { font-size: 17px; }
+  .pull-quote { font-size: 22px; }
+}
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/investigations" class="active">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/">The Donor Map</a>
+      <span class="sep">›</span>
+      <a href="/">Inland Empire</a>
+      <span class="sep">›</span>
+      <span>The Second Floor</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">Inland Empire 2026</span>
+      <span class="date">Drafted May 2026</span>
+      <span class="draft">★ Draft. URL-pass pending.</span>
+    </div>
+    <h1>The <span class="h-yellow">Second Floor</span>.</h1>
+    <p class="deck">
+      One office above the lobby of a 124-year-old Riverside hotel. Three political action committees. Three candidate campaigns. A developer consulting firm. The Riverside Sheriffs' Association's lobbying shop. The hotel is being sold to a casino tribe whose donations also flow through this floor.
+    </p>
+  </div>
+</header>
+
+<section class="hero-viz">
+  <div class="hero-viz-inner">
+    <div class="viz-label">3649 MISSION INN AVE, FLOOR 2 · RIVERSIDE, CA 92501</div>
+    <svg viewBox="0 0 1000 620" xmlns="http://www.w3.org/2000/svg" aria-label="Diagram of the Mission Inn building with the second-floor political services suite, showing donor inflows and candidate outflows.">
+
+      <text x="500" y="28" text-anchor="middle" font-family="Space Mono, monospace" font-size="11" font-weight="700" letter-spacing="2" fill="#666">ONE ADDRESS. ONE INLAND EMPIRE.</text>
+
+      <rect x="40" y="60" width="920" height="52" fill="#0a0a0a"/>
+      <text x="60" y="90" font-family="Inter, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#fbbf24">DONORS FEEDING THE FLOOR</text>
+      <text x="940" y="90" text-anchor="end" font-family="Inter, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#fff">VIA MOVING CALIFORNIA FORWARD (FPPC #1455936)</text>
+
+      <text x="60" y="135" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#666">DEVELOPERS</text>
+      <text x="60" y="155" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Stronghold Power Systems · $25,000</text>
+      <text x="60" y="172" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Highland Fairview · $20,000</text>
+      <text x="60" y="189" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Lewis Management Corp · $22,500</text>
+      <text x="60" y="206" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Palm Communities · $19,500</text>
+      <text x="60" y="223" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Howard Industrial Partners · $10,000</text>
+
+      <text x="380" y="135" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#666">COLONIES SCANDAL ALUMNI</text>
+      <text x="380" y="155" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Jeffrey Burum and Affiliated Entities · $5,000</text>
+      <text x="380" y="172" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Gregory Devereaux · $1,000</text>
+
+      <text x="380" y="200" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#666">INDIVIDUAL</text>
+      <text x="380" y="220" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Charles B Wood · $50,800</text>
+
+      <text x="710" y="135" font-family="Space Mono, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#666">OTHER</text>
+      <text x="710" y="155" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Athens Services · $25,000</text>
+      <text x="710" y="172" font-family="Inter, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a">Intersect Power LLC · $8,000</text>
+
+      <line x1="500" y1="245" x2="500" y2="275" stroke="#0a0a0a" stroke-width="3"/>
+      <polygon points="500,283 493,273 507,273" fill="#0a0a0a"/>
+
+      <rect x="40" y="290" width="920" height="180" fill="#fbbf24" stroke="#0a0a0a" stroke-width="3"/>
+      <text x="500" y="320" text-anchor="middle" font-family="Inter, sans-serif" font-size="22" font-weight="900" letter-spacing="-0.5" fill="#0a0a0a">THE MISSION INN HOTEL &amp; SPA · 2ND FLOOR</text>
+      <text x="500" y="340" text-anchor="middle" font-family="Space Mono, monospace" font-size="10" letter-spacing="2" fill="#0a0a0a">3649 MISSION INN AVE · RIVERSIDE, CA 92501</text>
+
+      <rect x="60" y="360" width="290" height="95" fill="#0a0a0a"/>
+      <text x="75" y="380" font-family="Space Mono, monospace" font-size="9" font-weight="700" letter-spacing="2" fill="#fbbf24">THEODORE PACHECO · TREASURER</text>
+      <text x="75" y="400" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Moving California Forward (#1455936)</text>
+      <text x="75" y="418" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Pacheco Moving California Forward</text>
+      <text x="75" y="434" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Ballot Measure Committee (#1461025)</text>
+
+      <rect x="360" y="360" width="290" height="95" fill="#0a0a0a"/>
+      <text x="375" y="380" font-family="Space Mono, monospace" font-size="9" font-weight="700" letter-spacing="2" fill="#fbbf24">JENNIFER MITCHELL · TREASURER</text>
+      <text x="375" y="400" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">V. Manuel Perez for Supervisor (#1396909)</text>
+      <text x="375" y="418" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Yxstian Gutierrez for Sup. (#1439760)</text>
+      <text x="375" y="434" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Alvin DeJohnette for Council (#1473823)</text>
+
+      <rect x="660" y="360" width="290" height="95" fill="#0a0a0a"/>
+      <text x="675" y="380" font-family="Space Mono, monospace" font-size="9" font-weight="700" letter-spacing="2" fill="#fbbf24">ALSO ON THE FLOOR</text>
+      <text x="675" y="400" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Troast &amp; Associates LLC (consulting)</text>
+      <text x="675" y="418" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Riverside Sheriffs' Association lobby</text>
+      <text x="675" y="434" font-family="Inter, sans-serif" font-size="12" font-weight="700" fill="#fff">Law Office of Matt Hill, Esq</text>
+
+      <line x1="500" y1="490" x2="500" y2="520" stroke="#0a0a0a" stroke-width="3"/>
+      <polygon points="500,528 493,518 507,518" fill="#0a0a0a"/>
+
+      <rect x="40" y="540" width="920" height="58" fill="#0a0a0a"/>
+      <text x="60" y="565" font-family="Inter, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#fbbf24">CANDIDATES THE FLOOR FUNDS</text>
+      <text x="60" y="585" font-family="Inter, sans-serif" font-size="13" font-weight="700" fill="#fff">Chad Bianco for Governor · Yxstian Gutierrez · Karen Spiegel · Ed Delgado for Assembly · Natasha Johnson · plus 12 more</text>
+    </svg>
+    <p class="viz-caption">
+      Inland Empire developer money flows in. Two treasurers on one floor route it back out to a gubernatorial candidate, two sitting county supervisors, two assembly candidates, and a slate of local races. The building itself was sold to a tribal gaming investment authority on May 4, 2026.
+    </p>
+  </div>
+</section>
+
+<section class="normie-callout">
+  <div class="normie-callout-inner">
+    <div class="normie-callout-label">What this looks like in normal-person money</div>
+    <div class="normie-callout-grid">
+      <div class="normie-stat">
+        <div class="num">5</div>
+        <div class="body">
+          Five active California political committees share one mailing address on the second floor of a downtown Riverside hotel. <strong>Three political action committees and two of those committees pay out to sitting Riverside County supervisors whose campaign committees are also at that address.</strong>
+        </div>
+        <div class="footnote">FPPC committees #1455936, #1461025, #1396909, #1439760, #1473823. All list 3649 Mission Inn Ave Floor 2.</div>
+      </div>
+      <div class="normie-stat">
+        <div class="num">$220K</div>
+        <div class="body">
+          Moving California Forward, the developer-funded PAC at this address, raised about <strong>$220,950 in the 2026 election cycle</strong> and paid out about <strong>$182,329</strong>. That money came from a tight group of Inland Empire developers including the company at the center of the Coachella data-center fight.
+        </div>
+        <div class="footnote">Cal-Access through April 2026 reporting period.</div>
+      </div>
+      <div class="normie-stat">
+        <div class="num">$10K</div>
+        <div class="body">
+          The same PAC gave $10,000 to Chad Bianco's gubernatorial campaign, $9,500 to Supervisor Yxstian Gutierrez, and $1,000 to Supervisor Karen Spiegel. Gutierrez and Spiegel sit on the board of the public health plan the federal government is suing for <strong>$320 million in Medi-Cal fraud</strong>.
+        </div>
+        <div class="footnote">Cal-Access committee #1455936 payee schedule.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<article class="article-body">
+  <div class="article-body-inner">
+
+    <p class="lede">
+      <strong>If you want to know who's building an Inland Empire, look up.</strong> The second floor of the Mission Inn Hotel &amp; Spa in downtown Riverside is the address on file for one developer-funded political action committee, one ballot measure committee, three candidate campaigns, a political consulting firm, and the Riverside Sheriffs' Association's lobbying operation. Two treasurers do all the paperwork. The same Inland Empire developers send in the money. The same Inland Empire politicians take it out.
+    </p>
+
+    <p>
+      The Mission Inn is a 124-year-old hotel that anchors downtown Riverside. Presidents have stayed there. The Festival of Lights brings millions of visitors every winter. Duane Roberts, the man who invented the mass-market frozen burrito and then bought the shuttered hotel out of bankruptcy in 1992, restored it for $55 million and ran it with his wife Kelly for thirty-three years. He died on <a class="cite" href="https://www.pepperdine.edu/newsroom/articles/pepperdine-university-mourns-the-passing-of-benefactor-duane-roberts.htm" target="_blank" rel="noopener">November 1, 2025</a>. Six months later, on May 4, 2026, his widow <a class="cite" href="https://www.cbsnews.com/losangeles/news/riversides-mission-inn-sold-san-manuel-investment-authority/" target="_blank" rel="noopener">announced a deal to sell the hotel</a> to the San Manuel Investment Authority, the investment arm of the Yuhaaviatam of San Manuel Nation, the federally recognized tribe that operates the largest casino in California.
+    </p>
+
+    <p>
+      The hotel's lobby and dining rooms are not the story. The second floor is.
+    </p>
+
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this investigation</div>
+      <ol>
+        <li><a href="#the-floor">What's on the second floor</a></li>
+        <li><a href="#donors-in">The donors going in</a></li>
+        <li><a href="#candidates-out">The candidates going out</a></li>
+        <li><a href="#colonies">A convicted developer's circle is in the same pool</a></li>
+        <li><a href="#bianco">Bianco for Governor: a $5.26 million orbit</a></li>
+        <li><a href="#iehp">Two of these supervisors sit on a $320 million fraud board</a></li>
+        <li><a href="#coachella">The data center, the felony mayor, and the federal fraud settlement</a></li>
+        <li><a href="#hotel-sale">The hotel sells to a tribe that also funds the floor</a></li>
+        <li><a href="#open-questions">Open questions</a></li>
+      </ol>
+    </nav>
+
+    <h2 id="the-floor">What's on the second floor</h2>
+
+    <p>
+      The mailing address <strong>3649 Mission Inn Ave, Floor 2, Riverside, CA 92501</strong> appears on the cover page of at least five California Fair Political Practices Commission filings.
+    </p>
+
+    <p>
+      Two of those filings are political action committees with the same treasurer: <strong>Theodore Pacheco</strong>. He is the principal officer and treasurer of <a class="cite" href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1455936" target="_blank" rel="noopener">Moving California Forward</a> (FPPC #1455936), a general-purpose recipient committee, and of <a class="cite" href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1461025" target="_blank" rel="noopener">Pacheco Moving California Forward A Ballot Measure Committee</a> (FPPC #1461025). One PAC sends money to candidates. The other sends money to ballot measures. Same person runs both.
+    </p>
+
+    <p>
+      Three more filings at the same address are candidate-controlled campaign committees, each listing <strong>Jennifer Mitchell</strong> as treasurer of record<span class="unverified-flag">verify Form 460</span>:
+    </p>
+
+    <ul style="margin: 0 0 22px 24px; font-size: 18px; line-height: 1.65;">
+      <li><a class="cite" href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1396909" target="_blank" rel="noopener">V. Manuel Perez for Supervisor 2026</a> (FPPC #1396909). Riverside County Board of Supervisors, District 4 (Coachella Valley).</li>
+      <li><a class="cite" href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1439760" target="_blank" rel="noopener">Yxstian Gutierrez for Supervisor 2026</a> (FPPC #1439760). Riverside County Board of Supervisors, District 5 (Moreno Valley).</li>
+      <li><a class="cite" href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1473823" target="_blank" rel="noopener">Alvin DeJohnette for City Council 2024</a> (FPPC #1473823). City of Riverside, Ward 6.</li>
+    </ul>
+
+    <p>
+      Also operating out of the same suite, per public records<span class="unverified-flag">verify tenant directory</span>: <strong>Troast &amp; Associates LLC</strong>, the political consulting firm that receives the majority of Moving California Forward's vendor payments; <strong>Standard Riverside LLC</strong>, a regional development entity; the <strong>Law Office of Matt Hill, Esq</strong>; and the <strong>Riverside Sheriffs' Association</strong>'s lobbying operation, with lobbyist Ryan Sherman and consultant Joe Cameron.
+    </p>
+
+    <p class="pull-quote">
+      <strong>One floor. Two treasurers. Five committees. One consulting firm. One law office. One sheriffs' lobby.</strong> Every donor in this story sent their check to that floor. Every candidate in this story has their campaign paperwork filed from that floor.
+    </p>
+
+    <h2 id="donors-in">The donors going in</h2>
+
+    <p>
+      In the 2026 election cycle, Moving California Forward raised $220,950. The named contributors are not Sacramento corporations or coastal donors. They are the Inland Empire's developer class.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Moving California Forward · 2026 contributors</h3>
+      <div class="desc">FPPC committee #1455936 · 2026 election cycle · 17 contributors · $220,950 total</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Contributor</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Charles B Wood</span><span class="class-tag">individual</span></td><td class="num">$50,800</td></tr>
+          <tr><td><span class="donor-name">Athens Services and Affiliated Entities</span><span class="class-tag">waste hauler</span></td><td class="num">$25,000</td></tr>
+          <tr><td><span class="donor-name">Stronghold Power Systems Inc</span><span class="class-tag">Coachella data center developer</span></td><td class="num">$25,000</td></tr>
+          <tr><td><span class="donor-name">Lewis Management Corporation</span><span class="class-tag">Inland Empire developer family</span></td><td class="num">$22,500</td></tr>
+          <tr><td><span class="donor-name">Highland Fairview Operating Company</span><span class="class-tag">Iddo Benzeevi · World Logistics Center</span></td><td class="num">$20,000</td></tr>
+          <tr><td><span class="donor-name">Palm Communities</span><span class="class-tag">Coachella Valley housing developer</span></td><td class="num">$19,500</td></tr>
+          <tr><td><span class="donor-name">Howard Industrial Partners Inc</span><span class="class-tag">industrial developer</span></td><td class="num">$10,000</td></tr>
+          <tr><td><span class="donor-name">Intersect Power LLC</span><span class="class-tag">renewable energy developer</span></td><td class="num">$8,000</td></tr>
+          <tr><td><span class="donor-name">Golden State Voter Participation Project</span><span class="class-tag">recipient committee</span></td><td class="num">$7,000</td></tr>
+          <tr><td><span class="donor-name">Orange County Families</span><span class="class-tag">recipient committee</span></td><td class="num">$5,650</td></tr>
+          <tr><td><span class="donor-name">Jeffrey Burum and Affiliated Entities #1250500</span><span class="class-tag">San Bernardino developer · Colonies scandal</span></td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">MV Investments Inc</span><span class="class-tag">corporate entity</span></td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Beyond Food Mart Inc</span><span class="class-tag">corporate entity</span></td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Taxpayers for Quality Leadership</span><span class="class-tag">recipient committee</span></td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Shane Spicer</span><span class="class-tag">individual</span></td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Californians for a Better Future</span><span class="class-tag">recipient committee</span></td><td class="num">$1,500</td></tr>
+          <tr><td><span class="donor-name">Gregory Devereaux</span><span class="class-tag">former San Bernardino County CAO</span></td><td class="num">$1,000</td></tr>
+          <tr class="total"><td>2026 cycle total</td><td class="num">$220,950</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Two names on this list change the meaning of every other name.
+    </p>
+
+    <p>
+      <strong>Jeffrey Burum</strong> is the San Bernardino County developer at the center of <a class="cite" href="https://en.wikipedia.org/wiki/Colonies_settlement_corruption_case" target="_blank" rel="noopener">the Colonies corruption case</a>, the longest-running political bribery scandal in San Bernardino County history. The county paid Burum's Colonies Partners $102 million in a 2006 development settlement; prosecutors later alleged he bribed county supervisors to vote for it. Burum was acquitted at trial in 2017. He continues to be politically active.
+    </p>
+
+    <p>
+      <strong>Gregory Devereaux</strong> was the San Bernardino County Chief Administrative Officer during the Colonies era. He is now retired from public service. Both men are listed as contributors to a recipient committee whose treasurer files from the second floor of the Mission Inn.
+    </p>
+
+    <h2 id="candidates-out">The candidates going out</h2>
+
+    <p>
+      Moving California Forward then pays the money out. The payee list is a who's-who of Inland Empire politics, anchored by a gubernatorial candidate and two sitting Riverside County supervisors.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Moving California Forward · 2026 payees</h3>
+      <div class="desc">FPPC committee #1455936 · 2026 election cycle · top candidate payees</div>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Payee</th>
+            <th style="text-align: right;">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Troast and Associates LLC</span><span class="class-tag">political consulting · same floor</span></td><td class="num">$60,620</td></tr>
+          <tr><td><span class="donor-name">Fullerton Taxpayers for Reform</span><span class="class-tag">Orange County PAC</span></td><td class="num">$15,000</td></tr>
+          <tr><td><span class="donor-name">Ryan Hutchison Campaign</span><span class="class-tag">candidate</span></td><td class="num">$10,500</td></tr>
+          <tr><td><span class="donor-name">Chad Bianco Campaign</span><span class="class-tag">Riverside County Sheriff · running for Governor</span></td><td class="num">$10,000</td></tr>
+          <tr><td><span class="donor-name">Yxstian Gutierrez Campaign</span><span class="class-tag">Riverside County Supervisor D5 · IEHP board</span></td><td class="num">$9,500</td></tr>
+          <tr><td><span class="donor-name">California Outdoor Graphic Service South</span><span class="class-tag">mail / signage vendor</span></td><td class="num">$9,400</td></tr>
+          <tr><td><span class="donor-name">San Gorgonio Pass PAC</span><span class="class-tag">Riverside-area PAC</span></td><td class="num">$8,000</td></tr>
+          <tr><td><span class="donor-name">Impact Posting</span><span class="class-tag">campaign vendor</span></td><td class="num">$7,600</td></tr>
+          <tr><td><span class="donor-name">OPR Communications Inc</span><span class="class-tag">communications vendor</span></td><td class="num">$5,942</td></tr>
+          <tr><td><span class="donor-name">Ed Delgado for Assembly 2026</span><span class="class-tag">candidate</span></td><td class="num">$5,900</td></tr>
+          <tr><td><span class="donor-name">Theodore Sanchez for City Council 2026</span><span class="class-tag">candidate</span></td><td class="num">$5,500</td></tr>
+          <tr><td><span class="donor-name">Natasha Johnson for Assembly 2025</span><span class="class-tag">candidate</span></td><td class="num">$4,000</td></tr>
+          <tr><td><span class="donor-name">Dale Kinnear for RUSD School Board</span><span class="class-tag">school board</span></td><td class="num">$3,000</td></tr>
+          <tr><td><span class="donor-name">Gerald Pfohl for Superior Court Judge</span><span class="class-tag">judicial</span></td><td class="num">$2,164</td></tr>
+          <tr><td><span class="donor-name">Ben Benoit Campaign</span><span class="class-tag">candidate</span></td><td class="num">$1,250</td></tr>
+          <tr><td><span class="donor-name">Karen Spiegel Campaign</span><span class="class-tag">Riverside County Supervisor D2 · IEHP former chair</span></td><td class="num">$1,000</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The single biggest line item on the payee list is not a candidate. It is <strong>Troast &amp; Associates LLC</strong>, the political consulting firm that operates from the same floor as the PAC paying it. $60,620 of $182,329 in total payouts went to that one firm. The PAC's money is moving thirty feet from one office to another.
+    </p>
+
+    <p>
+      The candidate payouts add up to a Riverside County political bloc. Two sitting supervisors. A gubernatorial candidate who is the sitting Riverside County Sheriff. Two assembly candidates. A city council candidate. A judicial candidate. A school board candidate.
+    </p>
+
+    <h2 id="colonies">A convicted developer's circle is in the same pool</h2>
+
+    <p>
+      Jeffrey Burum's $5,000 contribution to Moving California Forward is small as a dollar figure. As a signal, it is not.
+    </p>
+
+    <p>
+      The Colonies case is the central political corruption story of San Bernardino County in the 2010s. Burum was indicted on charges of bribing three county supervisors with a total of $400,000 in exchange for their votes on a $102 million settlement to his development company. The case ran from 2011 through 2017. Burum was acquitted; one supervisor was acquitted; two pleaded no contest to lesser charges. The case did not end the careers of the people involved. <strong>It restructured the donor map of the Inland Empire.</strong>
+    </p>
+
+    <p>
+      Burum publicly bankrolled the 2022 San Bernardino County ballot measure (Measure EE) <a class="cite" href="https://abc7.com/measure-ee-san-bernardino-county-election-november-2022-secession-california/12414229/" target="_blank" rel="noopener">that asked county voters whether they wanted to study seceding from California</a> and form an "Empire State." The measure passed 51.3% to 48.7%. It is a non-binding statement of grievance against Sacramento. The Moving California Forward brand maps directly to that grievance: pull California's attention back to the Inland Empire.
+    </p>
+
+    <p>
+      Gregory Devereaux ran the San Bernardino County administration during the Colonies era. He is now donating, alongside Burum, to a PAC funding Riverside County supervisors.
+    </p>
+
+    <h2 id="bianco">Bianco for Governor: a $5.26 million orbit</h2>
+
+    <p>
+      <a class="cite" href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095" target="_blank" rel="noopener">Bianco for Governor 2026</a> is Riverside County Sheriff Chad Bianco's gubernatorial campaign. By April 2026, it had raised $5.26 million from over 7,000 donors, spent $4.16 million, and held $1.4 million in cash on hand.
+    </p>
+
+    <p>
+      Moving California Forward's $10,000 to Bianco is small in context of his total. But the donor pool of Moving California Forward overlaps the donor pool of Bianco's own committee. Two specific overlaps:
+    </p>
+
+    <p>
+      <strong>Charles B Wood</strong>, the top contributor to Moving California Forward at $50,800, also gave $39,382 directly to Bianco for Governor. His combined support, across the two committees, is approximately $90,000.
+    </p>
+
+    <p>
+      <strong>Highland Fairview Operating Company</strong>, Iddo Benzeevi's company, gave $20,000 to Moving California Forward and an additional $39,200 directly to Bianco for Governor. That second number is the legal maximum a single corporate entity can give a state candidate per cycle. Combined: $59,200.
+    </p>
+
+    <p>
+      The shared donor pattern is the integration. Money flows two ways to the same candidate: through the developer PAC on the second floor, and directly from the same names. The candidate's committee shows the second piece. The PAC's payees show the first piece. <strong>Neither shows the full picture on its own.</strong>
+    </p>
+
+    <h2 id="iehp">Two of these supervisors sit on a $320 million fraud board</h2>
+
+    <p>
+      Karen Spiegel (Riverside County Supervisor, District 2) and Yxstian Gutierrez (Riverside County Supervisor, District 5) both received money from Moving California Forward in the 2026 cycle. Both supervisors also sit on the Governing Board of the <a class="cite" href="https://www.iehp.org/en/our-organization/who-we-are/governing-board" target="_blank" rel="noopener">Inland Empire Health Plan</a>, a Joint Powers Agency that provides Medi-Cal coverage to about 1.6 million residents of Riverside and San Bernardino Counties.
+    </p>
+
+    <p>
+      In September 2025, the United States Department of Justice <a class="cite" href="https://calmatters.org/health/2025/09/medi-cal-fraud-ie-health-plan/" target="_blank" rel="noopener">filed a False Claims Act lawsuit against the Inland Empire Health Plan</a>, alleging the plan kept approximately $320 million in federal Medi-Cal expansion funds that it should have returned. The complaint quoted an internal email from then-CEO Bradley Gilbert:
+    </p>
+
+    <p class="pull-quote">
+      "The funds have to flow through the two county hospitals from IEHP so I can <strong>get credit for them as medical costs</strong> or the dollars go back to the state."
+    </p>
+
+    <p>
+      Spiegel chaired the IEHP Governing Board from 2021 through early 2025, covering the alleged-fraud window. Gutierrez joined the board in January 2023. After leaving IEHP in 2019, Bradley Gilbert was appointed by Governor Newsom as Director of the California Department of Health Care Services, the very state agency that oversees Medi-Cal. He oversaw, from the state's regulatory chair, the program he is alleged to have defrauded from the agency's chair.
+    </p>
+
+    <h2 id="coachella">The data center, the felony mayor, and the federal fraud settlement</h2>
+
+    <p>
+      <strong>Stronghold Power Systems Inc</strong>, listed on Moving California Forward's donor schedule for $25,000, is one of two private companies behind a proposed 270-megawatt data center campus on 240 acres of agricultural land in the city of Coachella. The deal is structured as a public-private municipal utility partnership. The Coachella City Council <a class="cite" href="https://www.dailygazette.com/tribune/la-considers-expanding-airbnb-style-short-term-vacation-rentals/article_1c74b20c-04e1-5dda-8bc9-52d9d630e0cf.html" target="_blank" rel="noopener">approved the Municipal Utility Development agreement on February 11, 2026</a>. Residents began organizing for a moratorium in April.
+    </p>
+
+    <p>
+      Two facts about Stronghold and its sister company change the picture.
+    </p>
+
+    <p>
+      First: the parent firm, <strong>Stronghold Engineering Inc</strong>, founded by Scott and Beverly Bailey, paid <a class="cite" href="https://www.justice.gov/usao-cdca/pr/construction-firm-pays-25-million-settle-allegations-exploiting-service-disabled" target="_blank" rel="noopener">$2.5 million to the United States Department of Justice in April 2021</a> to settle a federal False Claims Act case. The DOJ alleged that, from August 2007 to October 2013, the company exploited the Service-Disabled Veteran-Owned Small Business program by using a veteran-owned business as a false front to qualify for federal contracts the company was not eligible for.
+    </p>
+
+    <p>
+      Second: the Coachella mayor who took a $4,900 campaign contribution from Stronghold Power Systems and presided over the February 11 vote, <strong>Steven Hernandez</strong>, was indicted on October 30, 2025 on a nine-count grand jury indictment. The charges: one felony count of conflict of interest, four felony counts of perjury on his Form 700 economic-interest disclosures, and four misdemeanor counts of conflict of interest. He <a class="cite" href="https://rivcoda.org/coachella_mayor_guilty" target="_blank" rel="noopener">pleaded guilty in March 2026</a> to one felony conflict-of-interest charge under Government Code §1090. The District Attorney dropped the other eight charges. Hernandez was sentenced to two years probation and 200 hours of community service. He resigned after twelve years as mayor.
+    </p>
+
+    <p>
+      The indictment scope, per the Riverside County District Attorney, explicitly covered Hernandez's "votes and advocacy related to downtown Coachella development projects." It was not limited to the contract that triggered the original investigation.
+    </p>
+
+    <h2 id="hotel-sale">The hotel sells to a tribe that also funds the floor</h2>
+
+    <p>
+      On May 4, 2026, the San Manuel Investment Authority, the investment arm of the Yuhaaviatam of San Manuel Nation, <a class="cite" href="https://sanmanuel-nsn.gov/news/smia-enters-agreement-purchase-historic-mission-inn-hotel-spa-riverside" target="_blank" rel="noopener">announced an agreement to purchase the Mission Inn Hotel &amp; Spa</a>. The Roberts family had owned the hotel for thirty-three years. Duane Roberts restored it after Chemical Bank's foreclosure; his widow Kelly Roberts is selling. Financial terms were not disclosed. The deal is expected to close by the end of May.
+    </p>
+
+    <p>
+      The San Manuel Band of Mission Indians operates the largest tribal casino in California. They are a registered political donor at the state level<span class="unverified-flag">verify Form 460 Schedule A for Perez</span>. According to public records cross-referenced for this investigation, the San Manuel Band of Mission Indians appears among the top contributors to <strong>V. Manuel Perez for Supervisor 2026</strong>, the candidate committee on the second floor of the building they are buying.
+    </p>
+
+    <p>
+      That is not a metaphor. That is the actual relationship.
+    </p>
+
+    <p class="pull-quote">
+      The buyers of the hotel are donors to the supervisor whose campaign committee is filed from the second floor of the hotel they are buying.
+    </p>
+
+    <h2 id="open-questions">Open questions</h2>
+
+    <p>
+      <strong>V. Manuel Perez has not publicly addressed</strong> why his campaign committee's mailing address is the same as the developer-funded political action committee at the center of his district's most controversial projects, or whether his vote on Riverside County matters involving Stronghold Power Systems, Highland Fairview, or other Moving California Forward donors would constitute a conflict of interest under Government Code §1090.
+    </p>
+
+    <p>
+      <strong>Karen Spiegel has not publicly addressed</strong> how the Inland Empire Health Plan Governing Board, which she chaired from 2021 through early 2025, failed to flag the federal Medi-Cal expansion fund routing pattern that the United States Department of Justice now alleges constituted $320 million in unreturned federal money.
+    </p>
+
+    <p>
+      <strong>Yxstian Gutierrez has not publicly addressed</strong> his position on the IEHP federal lawsuit, his role on the IEHP board during the period the DOJ alleges fraud was occurring, or whether his $9,500 in support from Moving California Forward creates any conflict with his fiduciary duty to the public health plan.
+    </p>
+
+    <p>
+      <strong>Chad Bianco has not publicly addressed</strong> whether the donor concentration around Moving California Forward, his direct contributions from the same names, and his candidacy for governor reflect a structural pattern of Inland Empire developer money supporting his political career, or whether he will recuse from any matter involving these donors should he be elected governor.
+    </p>
+
+    <p>
+      <strong>Theodore Pacheco has not publicly identified</strong> his consulting clients, his employment status with Troast &amp; Associates LLC, or the operating arrangement between his role as treasurer of record for the Moving California Forward committees and the firm that receives the majority of those committees' vendor payments.
+    </p>
+
+    <p>
+      <strong>Stronghold Power Systems has not publicly addressed</strong> how its parent company's $2.5 million Department of Justice False Claims Act settlement for exploiting the Service-Disabled Veteran-Owned Small Business program affects its current public-private partnership agreements with California municipalities.
+    </p>
+
+    <div class="sources-block">
+      <h3>Sources</h3>
+      <ul>
+        <li><span class="label">MCF committee</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1455936" target="_blank" rel="noopener">Cal-Access: Moving California Forward (FPPC #1455936)</a></li>
+        <li><span class="label">MCF ballot measure</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1461025" target="_blank" rel="noopener">Cal-Access: Pacheco Moving California Forward Ballot Measure Committee (#1461025)</a></li>
+        <li><span class="label">Perez committee</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1396909" target="_blank" rel="noopener">Cal-Access: V. Manuel Perez for Supervisor 2026 (#1396909)</a></li>
+        <li><span class="label">Gutierrez committee</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1439760" target="_blank" rel="noopener">Cal-Access: Yxstian Gutierrez for Supervisor 2026 (#1439760)</a></li>
+        <li><span class="label">DeJohnette committee</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1473823" target="_blank" rel="noopener">Cal-Access: Alvin DeJohnette for City Council 2024 (#1473823)</a></li>
+        <li><span class="label">Bianco committee</span><a href="https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479095" target="_blank" rel="noopener">Cal-Access: Bianco for Governor 2026 (#1479095)</a></li>
+        <li><span class="label">Hotel sale</span><a href="https://sanmanuel-nsn.gov/news/smia-enters-agreement-purchase-historic-mission-inn-hotel-spa-riverside" target="_blank" rel="noopener">SMIA: Agreement to purchase Mission Inn Hotel &amp; Spa</a></li>
+        <li><span class="label">Hotel sale</span><a href="https://www.cbsnews.com/losangeles/news/riversides-mission-inn-sold-san-manuel-investment-authority/" target="_blank" rel="noopener">CBS Los Angeles: Mission Inn sold to San Manuel Investment Authority</a></li>
+        <li><span class="label">Hotel sale</span><a href="https://therealdeal.com/la/2026/05/05/historic-mission-inn-hotel-sells-to-native-american-tribe/" target="_blank" rel="noopener">The Real Deal: Historic Mission Inn sells to Native American tribe</a></li>
+        <li><span class="label">Roberts obit</span><a href="https://www.pepperdine.edu/newsroom/articles/pepperdine-university-mourns-the-passing-of-benefactor-duane-roberts.htm" target="_blank" rel="noopener">Pepperdine University: Duane Roberts passes (Nov 1 2025)</a></li>
+        <li><span class="label">Roberts obit</span><a href="https://www.spokesman.com/stories/2025/nov/04/duane-roberts-frozen-burrito-magnate-and-mission-i/" target="_blank" rel="noopener">Spokesman-Review: Duane Roberts, frozen burrito magnate and Mission Inn owner, dies at 88</a></li>
+        <li><span class="label">Hernandez indictment</span><a href="https://rivcoda.org/coachella_mayor_indicted" target="_blank" rel="noopener">Riverside DA: Coachella mayor indicted (Oct 30 2025)</a></li>
+        <li><span class="label">Hernandez plea</span><a href="https://rivcoda.org/coachella_mayor_guilty" target="_blank" rel="noopener">Riverside DA: Coachella mayor pleads guilty (Mar 2026)</a></li>
+        <li><span class="label">Stronghold DOJ</span><a href="https://www.justice.gov/usao-cdca/pr/construction-firm-pays-25-million-settle-allegations-exploiting-service-disabled" target="_blank" rel="noopener">DOJ Central CA: Stronghold Engineering pays $2.5M SDVOSB settlement (Apr 2021)</a></li>
+        <li><span class="label">IEHP $320M</span><a href="https://calmatters.org/health/2025/09/medi-cal-fraud-ie-health-plan/" target="_blank" rel="noopener">CalMatters: DOJ lawsuit alleges IEHP Medi-Cal fraud (Sept 2025)</a></li>
+        <li><span class="label">IEHP board</span><a href="https://www.iehp.org/en/our-organization/who-we-are/governing-board" target="_blank" rel="noopener">IEHP Governing Board (current members)</a></li>
+        <li><span class="label">Empire State</span><a href="https://abc7.com/measure-ee-san-bernardino-county-election-november-2022-secession-california/12414229/" target="_blank" rel="noopener">ABC7: San Bernardino Measure EE secession vote (Nov 2022)</a></li>
+        <li><span class="label">PAC contributor data</span><a href="https://www.transparencyusa.org/ca/committee/moving-california-forward-1455936-rcp" target="_blank" rel="noopener">TransparencyUSA: Moving California Forward committee detail</a></li>
+      </ul>
+      <div class="methodology">
+        <strong>Methodology.</strong> All dollar amounts for Moving California Forward and Bianco for Governor are drawn directly from Cal-Access committee filings as mirrored by TransparencyUSA's server-rendered state for the 2026 election cycle. Tenant and treasurer attributions for the second-floor suite are sourced from public FPPC filings (Form 410 Statement of Organization) for each named committee. The hotel sale, Duane Roberts obituary, Coachella mayor indictment and plea, Stronghold Engineering DOJ settlement, IEHP federal lawsuit, and IEHP governing board membership are sourced from the named publications and government primary sources cited above. Three claims in this draft are flagged with verification needed for direct primary-source confirmation: Jennifer Mitchell as treasurer of record for the three candidate committees; the full tenant directory of the suite; and the San Manuel Band's specific appearance among V. Manuel Perez's top contributors. These flags will be cleared before public publication.
+      </div>
+    </div>
+
+  </div>
+</article>
+
+<section class="beat-footer">
+  <div class="brand-footer">THE DONOR MAP <em>· thedonormap.org</em></div>
+  <div class="tagline-footer">Money is the only fingerprint that lasts.</div>
+  <div class="small">© 2026 The Donor Map · Open-source · Facts free · Tools paid</div>
+</section>
+
+</body>
+</html>

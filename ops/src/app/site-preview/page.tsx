@@ -158,6 +158,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "The Second Floor · Mission Inn / Inland Empire developer pool (DRAFT)",
+    url: "http://localhost:8096/second-floor",
+    description: "One office on the 2nd floor of the historic Mission Inn Hotel & Spa in downtown Riverside houses Moving California Forward (FPPC #1455936, the developer-funded PAC), Pacheco MCF Ballot Measure Committee (#1461025), and three candidate committees (Perez Sup 2026 #1396909, Gutierrez Sup 2026 #1439760, DeJohnette Council 2024 #1473823). MCF raised $220,950 in 2026 from Stronghold Power ($25K), Highland Fairview / Iddo Benzeevi ($20K), Lewis Management ($22.5K), Palm Communities ($19.5K), Howard Industrial ($10K), Intersect Power ($8K), Jeffrey Burum ($5K, Colonies scandal), Gregory Devereaux ($1K, former SB County CAO), Athens Services ($25K), Charles B Wood ($50.8K individual). MCF paid out to Bianco Gov ($10K), Gutierrez ($9.5K, IEHP board), Spiegel ($1K, IEHP former chair during alleged $320M fraud), Troast & Associates LLC (consulting, same floor, $60.6K). Charles Wood + Highland Fairview double-channel to Bianco direct ($39.4K + $39.2K). Hotel itself was sold to San Manuel Investment Authority May 4 2026 (Roberts family → tribal gaming). Drafted 2026-05-11 from TUSA primary-extraction + Gemini Deep Research (Theodore Pacheco treasurer, Jennifer Mitchell treasurer, suite tenant directory). 3 unverified-flagged claims for David's URL pass: Mitchell as treasurer of 3 candidate committees, full suite tenant directory, San Manuel as Perez top contributor. Verification needed before public-routes flip.",
+    status: "draft-isolated",
+    category: "beat",
+  },
+  {
     title: "Race Map · cross-cutting donor overlay (DRAFT)",
     url: "http://localhost:8096/carace26-map",
     description: "Eight candidates. 55 named donors. 8 multi-candidate hedge bets. 17 industry tags. Interactive D3 force-directed graph at the top of the page lets you hover any candidate to see their donors, hover any donor to see which candidates they fund. Filters: Hedge bets (the 8 cross-cutters), Attacks only (the 2 anti-Steyer edges from PG&E + IBEW). Sections §1 hedge-bet table, §2 industry wars, §3 aggregation/cluster patterns, §4 candidate-by-candidate shape comparison. Sourced from per-candidate dossiers in content/Admin Notes/ca-gov-2026-dossiers/. Built 2026-05-04. URL-pass pending in /active-beat/carace26-map. Two sourcing flags from extraction agent: Chris Larsen identity (same person funding Hilton + Porter?), and M&D/Downs Energy industry-tag confidence.",

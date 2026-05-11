@@ -30,6 +30,7 @@ http.createServer((req, res) => {
   else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
   else if (url === '/spencer-pratt' || url === '/pratt' || url === '/new-caruso' || url === '/beat-spencer-pratt' || url === '/beat-spencer-pratt.html') file = 'beat-spencer-pratt.html';
   else if (url === '/clean-cash' || url === '/beat-clean-cash' || url === '/beat-clean-cash.html') file = 'beat-clean-cash.html';
+  else if (url === '/second-floor' || url === '/the-second-floor' || url === '/mission-inn' || url === '/beat-second-floor' || url === '/beat-second-floor.html') file = 'beat-second-floor.html';
   else if (url === '/about' || url === '/about.html') file = 'about.html';
   else if (url === '/investigations' || url === '/investigations/' || url === '/investigations.html') file = 'investigations.html';
   if (!file) {
