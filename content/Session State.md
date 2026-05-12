@@ -1,7 +1,177 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-05-11
+last-updated: 2026-05-12
+---
+
+## HANDOFF — 2026-05-12 (cc_goofy-meninsky continuation, Code Claude · Pratt beat deepening · Form 497 LAETH-142370 expansion · Saban crossover headline)
+
+**Context:** Code Claude. Same worktree `claude/goofy-meninsky-d1602f` (continuation of yesterday's session). Opus 4.7 (1M context). Today's session was a deep deepening pass on `/spencer-pratt`: closed every remaining `URL NEEDED` marker, embedded three new documentary-evidence exhibits, surfaced the LA City Ethics Form 497 LAETH-142370 late-contribution report (140 records), discovered the Haim + Cheryl Saban crossover as the new headline finding, reframed the H1, hoisted the TOC under the headline, and shipped 12 v4 merges.
+
+### THIS SESSION'S DELIVERABLES (12 v4 merges)
+
+#### Statutory citation corrections
+
+- **Government Code §85304 retracted, replaced with §89510 + §89512.** The original beat cited §85304 for the personal-use prohibition; §85304 is actually about Legal Defense Funds. The correct cluster is §89510 (trust doctrine: contributions held in trust for election/officeholder expenses) and §89512 (substantial-personal-benefit expenditures must be directly tied to political/legislative/governmental purposes). Cited inline with leginfo URLs + FPPC Manual 1 Chapter 6 PDF URL.
+- **LA Charter §470** confirmed as the corporate-contribution-ban authority via codelibrary.amlegal.com URL (already in prior session).
+- **B&P Code §17910** cited for the Newport Bleach fictitious-business-name finding.
+
+#### Newport Bleach null-result finding
+
+- Three-database search across OC Clerk-Recorder FBN, CA SOS bizfile, and City of Newport Beach business license returned no record for "Newport Bleach," "Tyler Treats," or "Nichols" as a legal entity. Plus newportbleach.com itself has no Terms/Privacy/Refund pages; operator's own sites describe his work in first person consistent with sole-proprietor operation.
+- Reframed the URL NEEDED marker as a documented null-result receipts block citing B&P Code §17910 (the FBN filing requirement). Structural finding: no FBN filing publicly findable for the vendor that received $24,050 from Pratt's campaign.
+
+#### Lawsuit-chronology cite
+
+- Closed the last URL NEEDED in the chronology table by replacing "Wikipedia, Spencer Pratt (URL NEEDED for case caption)" with the `palisadesfirelitigationportal.com/Home/CourtInfo` URL + verified case caption Grigsby v. City of Los Angeles, No. 25STCV00832 + Department 7 + Judge Samantha Jessner + Spring Street Courthouse.
+
+#### Three new documentary-evidence Exhibits
+
+- **Exhibit C · BSIS PPO #122040 / DSOC license record.** Added a new `.exhibit` block reproducing the CA Bureau of Security and Investigative Services Private Patrol Operator license for DSOC. Surfaces the four BSIS-disclosed officer roles (CEO, CFO, President, Secretary) by ROLE ONLY — individual officer names (Cho, Kang, Burroughs, Lee) deliberately NOT named in beat prose per defamation discipline established yesterday. Green "Current" status pill distinguishes from the red "Inactive - Dissolved" Highland Political exhibits.
+- **Exhibit D · Haim Saban LA-city contribution history.** Reproduces the four Saban-name records in the LA City Ethics dataset with deep-link URLs to both the Form 497 PDF (ethics.lacity.gov/viewdoc/142370) and the Socrata dataset CSV filtered by surname.
+- All exhibits use the same brutalist treatment (black header bar with yellow Exhibit-label + space-mono source attribution + key/value grid).
+
+#### Form 497 LAETH-142370 expansion (the major deepening pass)
+
+- David screenshotted the entire 140-record Form 497 24-hour late-contribution report filed by the Pratt campaign on May 11, 2026. The Schedule A open-data dataset (m6g2-gc6c) cuts off at April 18, 2026, so the May 8-10 fundraising surge was entirely invisible to our earlier donor-table work.
+- The beat now incorporates the full late-contribution cohort. Roughly $200K raised in a 72-hour final-week window before the June 2 primary.
+- **NEW HEADLINE FINDING: HAIM SABAN + CHERYL SABAN.** Two longtime national Democratic mega-donors each contributed $1,800 to Pratt on May 8, 2026. Haim Saban is the founder/Chairman/CEO of Saban Capital Group (~$3B Forbes net worth), co-produced Mighty Morphin Power Rangers, led the $13.7B 2007 Univision acquisition, built the Saban Center for Middle East Policy at Brookings. Cheryl Saban holds a PhD and was appointed by President Obama in 2012 as US Representative to the 67th UN General Assembly.
+
+#### Saban primary-source verification
+
+- Direct LA City Ethics Socrata query for all Saban-surname contributions returned 4 records. Only 2 are attributable to Haim Saban himself:
+  - 2022-10-21: $10,000 to "Committee for a Sane LA — Opposing Mejia for City Controller 2022" (anti-progressive opposition PAC; also funded by Laborers Local 300; Kenneth Mejia won the race anyway)
+  - 2026-05-08: $1,800 to Pratt for Mayor 2026
+- **Gemini's claim that the Sabans previously supported Karen Bass in 2022 was FALSIFIED** by direct primary-source data. The Sabans never directly supported Bass. Their last documented LA-city act before the Pratt contribution was the 2022 anti-Mejia opposition PAC. The corrected finding: the Sabans aren't defecting from Bass — they're moving rightward in local LA politics on a documented arc.
+- Added the May 2024 Haim Saban email to Biden senior advisers Steve Ricchetti and Anita Dunn opposing the Israel weapons-shipment pause, with the verbatim quotes ("Bad, Bad, Bad, decision" and "more Jewish voters who care about Israel than Muslim voters who care about Hamas") sourced inline to Deadline's May 2024 reporting.
+- Flagged but not asserted: ALEK SABAN gave $105.24 to Pratt on April 16, 2026. Relationship to Haim/Cheryl not publicly documented; donor map does not assert one.
+
+#### Other major Form 497 donor surfacing
+
+- **Sir Lucian Grainge** (CEO Universal Music Group, world's largest music company; Pacific Palisades 90272 address) — $1,800 max
+- **Elliot Grainge** (Sir Lucian's son; CEO 10K Projects; married to Sofia Richie / Lionel Richie's daughter) — $1,800 max. Combined Grainge family: $3,600.
+- **Guthy-Renker founding family cluster** (Firm cluster #4): Bill Guthy, Victoria Jackson Guthy, Greg Renker — $5,400 combined. Founded Guthy-Renker direct-response TV empire (Proactiv, Wen, Tony Robbins).
+- **Cambria Co family cluster** (Firm cluster #3): Anne Davis, Danny Davis, Martin Davis, Jack Sundry — $7,200 combined. Privately-held Minnesota quartz-countertop manufacturer; largest single firm-family contribution in the beat.
+- **Marc Merrill** (Riot Games co-founder, billionaire) — $1,800 max
+- **Sherri Crichton** (Michael Crichton's widow; Producer at Passion Projects) — $3,600 across two transactions
+- **Rodger Berman** (CEO Rachel Zoe Inc; Rachel Zoe's husband) — $1,800 max
+- **John Terzian** (CEO The H.Wood Group — Delilah / Bootsy Bellows / Hooray Henry's celebrity nightlife empire) — $1,800 max
+- **Sandra Rebish** (publicly known as Dr. Sandra Lee / "Dr. Pimple Popper") — $1,800 max
+- **Tracey Cunningham** (Beverly Hills celebrity colorist at Meche; clients include Beyoncé, Kardashians, J. Lo) — $1,800 max
+- **Veronica Grazer** (consistent with Brian Grazer's wife; not independently confirmed) — $1,800 max
+- **Penelope Ann Miller** (Oscar-nominated actress) — $1,800 max
+- **Val Blavatnik** (consistent with Blavatnik family; precise relationship not independently confirmed) — $1,800 max
+- **Jeanie Buss** (Lakers controlling owner) — already in beat from prior session
+
+#### Other May 8-10 surge donor categories
+
+Federal Republican Trump-orbit figures (Jeffrey Miller of Miller Strategies, Robert Shillman of Cognex, Greg Renker), Beverly Hills luxury (multiple Beverly Hills 90210 households), Silicon Valley/VC (Marc Merrill at Riot, Dave Munichiello at Google Ventures, Brian Riley at SpaceX), out-of-state Republican (Cambria Davis family in MN, Magic City Auto Group in VA, Great Lakes Wine & Spirits in MI), nightclub operators (Terzian), Bank of America/Sullivan & Cromwell private wealth.
+
+Flagged but not asserted: Douglas Reinhardt gave a SECOND $1,800 contribution on May 8 (his first $1,885 was April 11). The dual contribution may be a primary-vs-general election cycle split or a filing question; flagged in the beat as worth LA Ethics review.
+
+#### Three new firm-cluster receipts blocks added today
+
+- **Firm cluster #1 · Beverly Hills Estates** (already in prior session): Kurt Rappaport + Alexa Kort + Susan Pekich + Jacqueline Chernov + Joanna Pallante = $4,374
+- **Firm cluster #2 · Kirkland & Ellis** (already in prior session): Mark Holscher + Kelly Ann Holscher + Christopher Lawless + Michael Reeves = $2,917
+- **Firm cluster #3 · Cambria Co (Minnesota)** — NEW today
+- **Firm cluster #4 · Guthy-Renker founding family** — NEW today
+
+#### Janet Pratt double-role + framing tightening
+
+- Surfaced in the lawsuit section: Janet Pratt (the candidate's mother) is a co-plaintiff in Grigsby v. City of LA AND an itemized donor to the campaign ($158 on January 19, 2026).
+- Original framing read "funding the campaign asking voters to put her son in charge of the city she is suing" — David flagged this as overclaiming the financial weight of a $158 contribution. Tightened to "The dollar figure is small. The structural detail is the dual disclosure: the candidate's mother is on the public record as both a plaintiff against the city and an itemized donor to the campaign."
+
+#### Other donor-surface deepening
+
+- **Charles Pacheco / LBI Entertainment** (Hollywood producer of My Sister's Keeper) added to celebrity tier — sourced to LA Times "Big-Name Donors in Mayoral Race" + TheWrap
+- **Douglas Reinhardt's Hills/Lauren Conrad context** added as class-tag on his top-donor row (he's Lauren Conrad's ex)
+- **Jeff Jenkins's credits expanded** to include The Secret Lives of Mormon Wives
+- **Joe Rogan endorsement** paragraph added (April 15, 2026 podcast appearance; "I'd vote for you"; framed as audience-amplification not financial; sourced to Hollywood Reporter + Fox News)
+- **May 13, 2026 mayoral forum cancellation** added to lawsuit section: Pratt declined first, then Bass and Raman withdrew; only Adam Miller and Rae Huang remained; forum canceled (Breitbart + KTLA + Westside Current + TheWrap)
+
+#### Headline reframe
+
+- New H1: **"What $540,000 to Spencer Pratt looks like."**
+- New deck: "1,634 donors. A Tennessee LLC the state dissolved two years ago. Two corporations LA bans from giving. Five Caruso 2022 donors. Haim Saban. Sir Lucian Grainge. Jeanie Buss. We pulled the receipts."
+- Old "He's the new Caruso" stays as the section H2 (still works as the Republican-LA-donor-lane section header)
+- `<title>` meta tag updated to match for OG share-card previews
+
+#### Table of contents hoisted under headline
+
+- Reading order is now: H1 → Deck → TOC → Hero viz → Article body
+- TOC's `id="top"` anchor moves with it so all "↑ Top" back-to-top links return the reader to right under the headline
+- All 8 section entries preserved
+
+#### Prediction-market research thread
+
+- Surfaced Polymarket + Kalshi current odds (Bass 49-54%, Pratt 22-29%, Raman 13-30%)
+- Documented the Raman post-debate crash (~50.7% to low-30s on Kalshi, 19-point drop)
+- Documented the "They not like us" viral campaign ad (10M+ views)
+- Documented the "Pratt Effect" on Raman walking back defund-the-police stance
+- **DECISION (David's call): skip prediction-market data entirely from beat body.** Reason: market bettor identities are anonymous (Polymarket pseudonymous on-chain, Kalshi private); donor data is named primary-source. Documentary individual evidence carries the beat better than anonymous aggregate sentiment.
+
+### Independent verifications performed today (Rule 13 + ADR-0030 §1/§11/§12)
+
+✅ Confirmed via primary government sources:
+- LA City Ethics Form 497 LAETH-142370 (140 records via screenshots; PDF URL ethics.lacity.gov/viewdoc/142370 — note: the URL bot-walls Claude fetches, so the data was relayed via screenshots)
+- LA City Ethics Socrata API: all Saban-surname contributions confirmed (4 records, 2 attributable to Haim)
+- CA Government Code §89510 + §89512 statutory text via leginfo.legislature.ca.gov
+- FPPC Manual 1 Chapter 6 (Use of Campaign Funds) PDF
+- LA Charter §470 (already in prior session)
+- Deadline May 2024 Saban-Biden email coverage
+- Newport Bleach + Tyler Treats own websites (no legal-entity disclosure)
+- Multiple named-publication confirmations: Hollywood Reporter, Fox 11 LA, TMZ, Fox News, NBC LA, KTLA, Breitbart, TheWrap, Newsweek, CDM, Townhall
+
+❌ Falsified or retracted:
+- Gemini's "Sabans previously supported Bass in 2022" claim — falsified by direct LA City Ethics dataset query
+- The "$158 mother contribution funds the campaign" framing — tightened to remove overclaim
+
+### Commits to v4 this session (in order, approximate)
+
+- DSOC BSIS Exhibit C
+- §89510/§89512 statutory correction + Grigsby chronology fix
+- Newport Bleach null-result entity finding (closed last URL NEEDED)
+- Buss + initial celebrity-tier additions
+- Pacheco / Rogan / May 13 debate cancellation
+- Reinhardt Hills context + Pacheco entity profile expansion
+- Janet Pratt + BHE cluster (Firm #1) + Kirkland cluster (Firm #2)
+- Form 497 LAETH-142370 expansion · Saban crossover headline + Grainges + Guthy-Renker + Cambria
+- Headline reframe to "What $540,000 to Spencer Pratt looks like"
+- TOC hoist under headline
+- Saban primary-source verification + Exhibit D + 2024 Biden-Israel rift
+- Janet Pratt framing tightened (remove overclaim)
+
+Approximately 12 v4 merges. Final v4 head: `0340eb618`.
+
+### URL-pass status snapshot (end of session)
+
+- **0 URL NEEDED markers in the beat**
+- **0 em dashes / 0 en dashes** in rendered text
+- **17 receipts blocks** (up from 11 at session start)
+- **4 documentary Exhibits** (A/B Highland Political TN SOS, C DSOC BSIS, D Saban LA-city history)
+- **50+ named donors documented** across the beat
+- **3 documented donor cohorts named** (Caruso continuity, celebrity/entertainment tier, real-estate developer cluster)
+- **4 firm-level clusters named** (Beverly Hills Estates, Kirkland & Ellis, Cambria Co, Guthy-Renker)
+
+### NEXT SESSION PRIORITIES
+
+1. **Run the Sir Lucian Grainge Gemini round** — prompt already written and queued in conversation. Mirror of the Saban round. Verify identity, biographical anchor, Pacific Palisades fire-victim status, political-donation history (likely apolitical historically), and any UMG-executive cohort pattern. Should harden the Grainge section the same way the Saban round hardened that one.
+2. **Final cleanup pass before publication.** Final URL spot-check, OG image render via `scripts/render-og-images.cjs`, headline + deck audit one more time.
+3. **Tier 3 / David decision: flip `data/public-routes.json` to add `spencer-pratt`** when ready.
+4. **Alek Saban sub-finding** — one Google search to confirm or drop the family-relationship hypothesis.
+5. **Val Blavatnik relationship to Sir Len Blavatnik** — same: one verification round.
+6. **Resume Second Floor beat work** when Pratt is shipped — Jennifer Mitchell + Campaign Finance Services LLC Perplexity round still owed.
+
+### OPEN DEFERRALS (from prior sessions, still open)
+
+- Fresh FEC bulk download (weball24 / weball26)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting
+- ADR-0017 readiness tier sync into entities.jsonl
+- Rule 9 enforcement promotion
+- LA City Ethics Socrata API workflow rule (should be saved as memory rule)
+- Sprint-schedule.md April → May transition
+
 ---
 
 ## HANDOFF — 2026-05-11 (cc_goofy-meninsky, Code Claude · Pratt beat overhaul + URL pass + Highland Political major correction)
