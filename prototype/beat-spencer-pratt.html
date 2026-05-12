@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>He's the new Caruso · The Donor Map</title>
-<meta name="description" content="Spencer Pratt is running for Los Angeles mayor while simultaneously suing the City of Los Angeles and LADWP. He told Fox 11 in March 2026 he would not drop the lawsuit if elected. His campaign accepted two corporate-named in-kind contributions in February. His donor list shows Republican LA money that also backed Caruso 2022. His $24,050 Campaign Paraphernalia vendor is the same designer who has handled Pratt-family merchandise since the Pratt Daddy Crystals era.">
+<meta name="description" content="Spencer Pratt is running for Los Angeles mayor while simultaneously suing the City of Los Angeles and LADWP. He told Fox 11 in March 2026 he would not drop the lawsuit if elected. His campaign accepted two corporate named in-kind contributions in February. His donor list shows Republican LA money that also backed Caruso 2022. His $24,050 Campaign Paraphernalia vendor is the same designer who has handled Pratt-family merchandise since the Pratt Daddy Crystals era.">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
 
@@ -292,6 +292,74 @@ html, body {
 }
 .back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
 
+.finding-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 36px 0;
+}
+.finding-card {
+  background: #fff;
+  border: 3px solid var(--black);
+  padding: 24px 24px 20px;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: var(--ink);
+  transition: background 0.1s;
+}
+.finding-card:hover { background: var(--cream); }
+.finding-card .fc-tag {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+.finding-card.fc-yellow .fc-tag { background: var(--yellow); color: var(--black); padding: 2px 8px; display: inline-block; align-self: flex-start; margin-bottom: 12px; }
+.finding-card.fc-red .fc-tag { background: var(--red); color: #fff; padding: 2px 8px; display: inline-block; align-self: flex-start; margin-bottom: 12px; }
+.finding-card .fc-headline {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  margin: 0 0 14px;
+  color: var(--black);
+}
+.finding-card .fc-body {
+  font-size: 15px;
+  line-height: 1.55;
+  margin: 0 0 16px;
+}
+.finding-card .fc-stat {
+  font-family: 'Space Mono', monospace;
+  font-size: 12px;
+  color: var(--muted);
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+  margin-top: auto;
+}
+.finding-card .fc-stat strong { color: var(--black); font-weight: 700; }
+.finding-card .fc-cta {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--blue);
+  margin-top: 8px;
+  border-bottom: 1px dotted var(--blue);
+  padding-bottom: 1px;
+  align-self: flex-start;
+}
+@media (max-width: 720px) {
+  .finding-cards { grid-template-columns: 1fr; }
+  .finding-card .fc-headline { font-size: 18px; }
+}
+
 .pull-quote {
   font-family: 'Instrument Serif', serif;
   font-style: italic;
@@ -552,7 +620,7 @@ html, body {
     </div>
     <h1>He's the <span class="h-red">new Caruso</span>.</h1>
     <p class="deck">
-      Spencer Pratt is running for mayor of Los Angeles. He is also suing the City of Los Angeles. His donor list is the same Republican LA money that backed Rick Caruso against Karen Bass in 2022. Two February in-kind contributions came from corporate-named entities, which the city prohibits. And his $24,050 merchandise vendor is the long-time Pratt family graphic designer who has been producing their merch since the Pratt Daddy Crystals era five years ago.
+      Spencer Pratt is running for mayor of Los Angeles. He is also suing the City of Los Angeles. His donor list is the same Republican LA money that backed Rick Caruso against Karen Bass in 2022. Two February in-kind contributions came from corporate named entities, which the city prohibits. And his $24,050 merchandise vendor is the longtime Pratt family graphic designer who has been producing their merch since the Pratt Daddy Crystals era five years ago.
     </p>
   </div>
 </header>
@@ -618,15 +686,15 @@ html, body {
   <div class="article-body-inner">
 
     <p class="lede">
-      <strong>Spencer Pratt is running for Los Angeles mayor.</strong> He is also a plaintiff in a lawsuit against the City of Los Angeles and the Department of Water and Power, which he blames for the destruction of his and his parents' homes in the January 2025 Palisades fire. The Hills cast member, 41 years old, registered as a Republican in 2020, currently polling at about 11 percent. He qualified for the May 6 NBC4 mayoral debate. His campaign pitch is fire-victim grievance against Mayor Karen Bass. His parallel litigation seeks damages from the city he is asking voters to elect him to govern.
+      <strong>Spencer Pratt is running for Los Angeles mayor.</strong> He is also a plaintiff in a lawsuit against the City of Los Angeles and the Department of Water and Power, which he blames for the destruction of his and his parents' homes in the January 2025 Palisades fire. The Hills cast member, 41 years old, registered as a Republican in 2020, currently polling at about 11 percent. He qualified for the May 6 NBC4 mayoral debate. His campaign pitch is fire victim grievance against Mayor Karen Bass. His parallel litigation seeks damages from the city he is asking voters to elect him to govern.
     </p>
 
     <p>
-      That is the simplest way to describe the structural posture of the Pratt 2026 campaign. The picture sharpens further when you read the LA City Ethics campaign-finance filings instead of the campaign website.
+      That is the simplest way to describe the structural posture of the Pratt 2026 campaign. The picture sharpens further when you read the LA City Ethics campaign finance filings instead of the campaign website.
     </p>
 
     <p>
-      The committee Pratt for Mayor 2026 has raised <strong>$539,617</strong> from 1,634 donors through April 18. Roughly a quarter of that, $131,251, is unitemized small-dollar contributions. The remaining three-quarters tells a different story than fire-victim populism. The top donor list is loaded with luxury real-estate developers from Scottsdale, Kamas, and Phoenix. With a Disney heir. With a Schwab. With the Gateway Computers founder. With Casamigos co-founder Michael Meldman, whose Discovery Land Company spokesperson now publicly denies the contribution the campaign filed under his name. And five of those names also wrote max-out checks to Rick Caruso when he ran against Karen Bass in 2022.
+      The committee Pratt for Mayor 2026 has raised <strong>$539,617</strong> from 1,634 donors through April 18. Roughly a quarter of that, $131,251, is unitemized small dollar contributions. The remaining three quarters tells a different story than fire victim populism. The top donor list is loaded with luxury real estate developers from Scottsdale, Kamas, and Phoenix. With a Disney heir. With a Schwab. With the Gateway Computers founder. With Casamigos co-founder Michael Meldman, whose Discovery Land Company spokesperson now publicly denies the contribution the campaign filed under his name. And five of those names also wrote max-out checks to Rick Caruso when he ran against Karen Bass in 2022.
     </p>
 
     <p>
@@ -634,27 +702,44 @@ html, body {
     </p>
 
     <p style="font-size: 14px; color: var(--muted); font-style: italic; margin: 24px 0 32px;">
-      This investigation reads Pratt's CA Form 460 Schedule A and Schedule C filings, his Schedule E expenditure record, and cross-references against the same database for Rick Caruso's 2022 mayoral committee. All dollar figures and donor names are sourced to the LA City Ethics Commission campaign-finance public dataset on data.lacity.org. The full source list and methodology appear at the bottom of this page.
+      This investigation reads Pratt's CA Form 460 Schedule A and Schedule C filings, his Schedule E expenditure record, and cross-references against the same database for Rick Caruso's 2022 mayoral committee. All dollar figures and donor names are sourced to the LA City Ethics Commission campaign finance public dataset on data.lacity.org. The full source list and methodology appear at the bottom of this page.
     </p>
+
+    <section class="finding-cards" aria-label="Key findings">
+      <a class="finding-card fc-red" href="#corporate">
+        <span class="fc-tag">Finding · LA bans this</span>
+        <h3 class="fc-headline">Two corporate named contributors gave a campaign in a city that prohibits corporate contributions.</h3>
+        <p class="fc-body">In February, Pratt's campaign filed two non-cash contributions worth $1,800 each, both under names that read as corporations: KOMOS TEQUILA (the brand is operated by a Delaware corporation, Komos, Inc., plus a Delaware LLC, Casa Komos Beverage Group) and DELTA SPECIAL OPERATIONS CORP (a private security firm whose own website says its staff is off-duty law enforcement). LA Municipal Code §49.7.13 bans both forms of contributor.</p>
+        <div class="fc-stat"><strong>$3,600</strong> · 2 in-kind contributions · LA Form 460 Schedule C</div>
+        <span class="fc-cta">Read the full receipts →</span>
+      </a>
+      <a class="finding-card fc-yellow" href="#caruso">
+        <span class="fc-tag">Finding · He's the new Caruso</span>
+        <h3 class="fc-headline">Five donors who funded Caruso against Bass in 2022 are now funding Pratt against Bass in 2026.</h3>
+        <p class="fc-body">Cross-referencing Pratt's named max-out donors against the LA City Ethics database for Rick Caruso's 2022 mayoral run surfaces a documented continuity: Roy Disney, Michael Schwab, Loren Booth, Michael Meldman, and Ted &amp; Michele Waitt all wrote checks to both. Same Republican LA donor lane. Different candidate.</p>
+        <div class="fc-stat"><strong>5 named donors</strong> · same lane, two cycles · LA Form 460 Schedule A</div>
+        <span class="fc-cta">Read the full receipts →</span>
+      </a>
+    </section>
 
     <nav class="toc" id="top" aria-label="Table of contents">
       <div class="toc-label">In this investigation</div>
       <ol>
-        <li><a href="#act-i">Act I: The pitch</a></li>
-        <li><a href="#lawsuit">Act II: He is suing the city</a></li>
-        <li><a href="#corporate">Act III: Two corporate in-kind contributions</a></li>
-        <li><a href="#meldman">Act IV: The Meldman triple-channel</a></li>
-        <li><a href="#caruso">Act V: He's the new Caruso</a></li>
-        <li><a href="#newport-bleach">Act VI: The merchandise vendor</a></li>
+        <li><a href="#act-i">The pitch</a></li>
+        <li><a href="#corporate">Two corporate in-kind contributions</a></li>
+        <li><a href="#lawsuit">He is suing the city</a></li>
+        <li><a href="#meldman">The Meldman contribution dispute</a></li>
+        <li><a href="#caruso">He's the new Caruso</a></li>
+        <li><a href="#newport-bleach">The merchandise vendor</a></li>
         <li><a href="#boundary">What this beat does not allege</a></li>
         <li><a href="#open-questions">Open questions</a></li>
       </ol>
     </nav>
 
-    <h2 id="act-i">Act I: The pitch</h2>
+    <h2 id="act-i">The pitch</h2>
 
     <p>
-      Spencer Pratt and his wife Heidi Montag became reality-TV figures on MTV's <em>The Hills</em> from 2006 to 2010. After the show, they stayed in Pacific Palisades. They ran a crystal-merchandise business called Pratt Daddy. They had children. They appeared on a 2019 spinoff show called <em>The Hills: New Beginnings</em>. Pratt registered as a Republican in 2020, switching from Independent.
+      Spencer Pratt and his wife Heidi Montag became reality-TV figures on MTV's <em>The Hills</em> from 2006 to 2010. After the show, they stayed in Pacific Palisades. They ran a crystal merchandise business called Pratt Daddy. They had children. They appeared on a 2019 spinoff show called <em>The Hills: New Beginnings</em>. Pratt registered as a Republican in 2020, switching from Independent.
     </p>
 
     <p>
@@ -667,46 +752,13 @@ html, body {
 
     <a class="back-to-top" href="#top">↑ Top</a>
 
-    <h2 id="lawsuit">Act II: He is suing the city</h2>
+    <h2 id="corporate">Two corporate in-kind contributions</h2>
 
     <p>
-      Spencer and Heidi Pratt filed suit against the City of Los Angeles and the Department of Water and Power on <strong>January 21, 2025</strong>, two weeks after the Palisades fire destroyed their home. Co-plaintiffs include Spencer's parents <strong>Janet Pratt and William Pratt</strong>, plus 20+ additional Palisades property owners. The case was filed in Los Angeles County Superior Court. Plaintiffs' counsel: the McNulty Law Firm of Los Angeles. Lead attorney <strong>Peter J. McNulty</strong> is also Plaintiffs' Liaison Counsel for the broader consolidated Palisades-fire litigation. The Pratt complaint was consolidated under the lead case <em>Grigsby v. City of Los Angeles</em>, No. 25STCV00832.
+      Every California political campaign has to file a form called the CA Form 460 listing where its money comes from and where it goes. The form has different sections ("Schedules") for different kinds of contributions. Schedule A lists cash donations from named people. Schedule C lists <strong>non-cash contributions</strong>: donated goods and services, things like free beverages at an event or donated event security. These count toward the same dollar limits as cash donations.
     </p>
-
     <p>
-      The legal theory: that around 10:30 p.m. on January 7, 2025, power lines downed by the Palisades fire could have caused a secondary fire that destroyed additional homes including the Pratts'. LADWP's stated defense is that the lines in question were manually de-energized around 2:15 p.m. earlier that day. <strong>Judge Samantha Jessner ruled on February 19, 2026</strong> that property and business owners could pursue inverse-condemnation claims against the city and LADWP. The California Court of Appeal denied the City's and the State's petitions to halt those claims. The litigation is active and in discovery. No trial date has been set. More than 10,000 residents, businesses, and insurers are now part of the coordinated litigation.
-    </p>
-
-    <p>
-      Spencer Pratt is a plaintiff in that consolidated lawsuit. He is a plaintiff against the city government he is now asking voters to elect him to lead. He is a plaintiff against LADWP, the city-owned utility that the next mayor will appoint commissioners to oversee.
-    </p>
-
-    <div class="pull-quote">
-      Spencer Pratt is running for mayor of Los Angeles. <strong>He is also suing the City of Los Angeles.</strong>
-    </div>
-
-    <p>
-      Pratt has been asked publicly whether he would drop the lawsuit if elected. On <strong>March 27, 2026</strong>, in an interview with Fox 11 LA reporter Marla Tellez, he answered:
-    </p>
-
-    <div class="pull-quote">
-      <strong>"Absolutely not.</strong> The city failed over 10,000 people. 12 of them died, 7,000 structures. And that lawsuit is going forward. Thankfully, I'm not running to be the judge. The case is gonna be in front of a judge, and the judge will have the ruling. So there would be no conflict because the mayor does not control the outcome of that lawsuit."
-    </div>
-
-    <p>
-      That is Pratt's own framing of the conflict-of-interest question. The position rests on a narrow interpretation of mayoral authority. The mayor of Los Angeles appoints LADWP commissioners (subject to City Council confirmation), directs the city attorney's office, controls the city's litigation-defense budget, and signs or vetoes settlement appropriations. Whether the mayor "does not control the outcome" of a city-versus-resident lawsuit in which the mayor is the named plaintiff is a structural question voters can weigh. The donor map's job is to show that he has been asked, and that this is what he said.
-    </p>
-
-    <p>
-      Whether Spencer Pratt and his co-plaintiffs would receive any settlement or judgment from the litigation, and whether any portion of those proceeds would benefit the candidate personally or his immediate family, is open. The complaint seeks damages "according to proof" with no specified dollar figure.
-    </p>
-
-    <a class="back-to-top" href="#top">↑ Top</a>
-
-    <h2 id="corporate">Act III: Two corporate in-kind contributions</h2>
-
-    <p>
-      Pratt's CA Form 460 Schedule C filings include two non-monetary in-kind contributions in February 2026. Both at the legal maximum for a Los Angeles mayoral primary. Both filed under names that, on their face, identify corporate entities.
+      Pratt's Schedule C filings for February 2026 list two non-cash contributions. Both at the legal maximum a single donor can give in an LA mayoral primary. Both filed under names that, on their face, identify corporate entities (companies) rather than individual people.
     </p>
 
     <div class="receipts-block">
@@ -735,7 +787,7 @@ html, body {
             <td class="num">$1,800.00</td>
           </tr>
           <tr class="total">
-            <td colspan="3">Combined non-monetary in-kind from corporate-named entities</td>
+            <td colspan="3">Combined non-monetary in-kind from corporate named entities</td>
             <td class="num">$3,600.00</td>
           </tr>
         </tbody>
@@ -743,15 +795,56 @@ html, body {
     </div>
 
     <p>
-      Los Angeles City Charter Section 470 and Los Angeles Municipal Code Section 49.7.13 prohibit contributions to candidates for elective city office from "corporations, including foreign corporations, business entities, partnerships, joint ventures, syndicates, and associations." The prohibition was strengthened by Measure SS, which Los Angeles voters approved in 2022. <em>(URL NEEDED: link to LA Ethics Commission's published explainer of the corporate-contribution ban.)</em> The Fair Political Practices Commission treats non-monetary in-kind goods and services as contributions for the purposes of contribution limits and source restrictions.
+      <strong>Los Angeles bans companies from giving money to candidates running for city office.</strong> The rule is in the LA City Charter (Section 470) and the LA Municipal Code (Section 49.7.13). It applies to all kinds of companies: for-profit corporations, foreign corporations, partnerships, joint ventures, business associations. The ban was tightened by Measure SS, which LA voters approved in 2022. California's campaign finance regulator (the Fair Political Practices Commission, or FPPC) treats donated goods and services the same as cash for purposes of contribution limits and source rules. So a corporation giving $1,800 worth of free tequila to a campaign is treated, under the law, the same as a corporation handing the campaign a $1,800 check. <em>(URL NEEDED: link to LA Ethics Commission's published explainer of the corporate-contribution ban.)</em>
     </p>
 
     <p>
-      The first of the two contributions was filed under the name <strong>KOMOS TEQUILA</strong>. The legal entity behind the Komos Tequila brand is <strong>Komos, Inc.</strong>, identified by name throughout the brand's terms of use at komos.com and in its website footer ("© 2025 Komos, inc."). Komos was founded in spring 2019 by Master Sommelier Richard Betts and entrepreneur Joe Marchese, and is operated under <strong>Casa Komos Brands Group (CKBG)</strong> per BusinessWire's February 9, 2021 launch coverage and Robb Report's profile (republished on the official ckbg.com press archive). E. & J. Gallo Winery's Spirit of Gallo subsidiary made a strategic investment in August 2022 and assumed U.S. distribution rights.
+      The first of the two contributions was filed under the name <strong>KOMOS TEQUILA</strong>. Here is what the public record says about that contributor:
     </p>
 
+    <div class="receipts-block">
+      <h3>Entity profile · Komos Tequila</h3>
+      <p class="desc">SOURCE: KOMOS.COM TERMS OF USE / FOOTER · BUSINESSWIRE 2021-02-09 · CASA KOMOS BRANDS GROUP PRESS ARCHIVE · SPIRIT OF GALLO PRESS RELEASE 2022-08</p>
+      <table class="receipts-table">
+        <tbody>
+          <tr><td>Filed-as name on Pratt Schedule C</td><td>KOMOS TEQUILA</td></tr>
+          <tr><td>Legal entity name</td><td>Komos, Inc. (per komos.com terms of use and website footer: "© 2025 Komos, inc.")</td></tr>
+          <tr><td>Founded</td><td>Spring 2019, by Master Sommelier Richard Betts and entrepreneur Joe Marchese</td></tr>
+          <tr><td>Parent brand operator</td><td>Casa Komos Brands Group (CKBG)</td></tr>
+          <tr><td>U.S. distribution partner</td><td>Spirit of Gallo (a subsidiary of E. &amp; J. Gallo Winery); strategic investment and U.S. distribution rights assumed August 2022</td></tr>
+          <tr><td>Address on Schedule C filing</td><td>New York, NY 10016</td></tr>
+          <tr><td>What it gave Pratt</td><td>$1,800 in beverages on February 1, 2026, for a campaign event</td></tr>
+          <tr><td>LA city rules</td><td>Corporations are prohibited from contributing to LA city candidates</td></tr>
+        </tbody>
+      </table>
+    </div>
+
     <p>
-      The second contribution was filed under the name <strong>DELTA SPECIAL OPERATIONS CORP</strong>. The contributor's filed name self-identifies as a corporation by including the "Corp" suffix. The address on file is in Santa Rosa Valley, in Ventura County's Camarillo area. <em>(URL NEEDED: California Secretary of State business search confirmation of entity status and registered agent.)</em>
+      The second contribution was filed under the name <strong>DELTA SPECIAL OPERATIONS CORP</strong>. The contributor's filed name self-identifies as a corporation by including the "Corp" suffix. Here is what the public record says about the contributor:
+    </p>
+
+    <div class="receipts-block">
+      <h3>Entity profile · Delta Special Operations Corp / DSOC</h3>
+      <p class="desc">SOURCE: PRATT SCHEDULE C FILING · CA DCA BSIS LICENSE LOOKUP (PPO #122040) · FIRM'S OWN WEBSITE AT DELTASPECIAL.ORG · CA SECRETARY OF STATE BUSINESS-ENTITY SEARCH</p>
+      <table class="receipts-table">
+        <tbody>
+          <tr><td>Name on Pratt Schedule C filing</td><td>DELTA SPECIAL OPERATIONS CORP, Santa Rosa Valley, CA 93012</td></tr>
+          <tr><td>Name on BSIS license</td><td>DSOC (acronym only on the state license)</td></tr>
+          <tr><td>State license</td><td>California Private Patrol Operator (PPO) license <strong>#122040</strong>, issued by the CA Department of Consumer Affairs · Bureau of Security and Investigative Services</td></tr>
+          <tr><td>License issued</td><td><strong>February 14, 2024</strong> · expires February 29, 2028 · status: Current</td></tr>
+          <tr><td>BSIS address of record</td><td>11886 Barranca Rd, Santa Rosa Valley, CA 93012-8284 · Ventura County</td></tr>
+          <tr><td>How the firm describes its staff</td><td>"Elite Protection by off-duty law enforcement." Per the firm's own website at deltaspecial.org: "Our officers are the exact same officers entrusted with dignitary protection when VIPs including the President of the United States are in Los [Angeles]. DSOC puts these elite officers at your fingertips." Per the same page: "Founded by officers with decades of SWAT experience."</td></tr>
+          <tr><td>Service lines (per the firm's own site)</td><td>Active-shooter protection at universities and large venues; off-duty officers providing security for businesses</td></tr>
+          <tr><td>Governance structure</td><td>The BSIS license discloses a corporate-officer structure (CEO, CFO, President, Secretary), the governance pattern California Corporations Code §312 requires of a registered corporation. The license also lists a separately licensed Private Patrol Qualified Manager (PPQM #10915) with a Gardena, Los Angeles County address.</td></tr>
+          <tr><td>California Secretary of State business-entity search</td><td><strong>No match.</strong> Searches for "Delta Special Operations," "DSOC," and the names of the BSIS-disclosed officers return either no result or unrelated entities (a different "DSOC Management LLC" was registered in San Jose and terminated in December 2018, predating the BSIS license by five years). Whether the operating entity is registered under another name, registered in another state without foreign-corporation qualification in California, or unregistered at the state level, is open.</td></tr>
+          <tr><td>What it gave Pratt</td><td>$1,800 worth of event security on February 9, 2026</td></tr>
+          <tr><td>LA city rules</td><td>LA Municipal Code §49.7.13 prohibits contributions to LA city candidates from "corporations, including foreign corporations, business entities, partnerships, joint ventures, syndicates, and associations." Whether DSOC's specific legal form falls within that ban is a question for the LA Ethics Commission's review.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The cleaner-than-the-corporate-contribution-question finding sits inside the firm's own marketing. <strong>A private security firm whose own website claims its staff includes off-duty law enforcement officers, including officers who do dignitary protection for presidential visits to Los Angeles, donated $1,800 worth of event security to a Republican mayoral candidate who is simultaneously suing the City of Los Angeles.</strong> Whether that arrangement complies with the political-activity and outside-employment policies of the law enforcement agency or agencies the firm's staff work for is a question for those agencies' Internal Affairs or Professional Standards units, separate from the LA Ethics Commission's corporate-contribution review. The firm's roster of officers is disclosed on its public BSIS license; the donor map does not surface those individuals' names in this beat because the structural finding does not depend on them and because the firm, not any one officer, made the contribution as documented on the campaign's own Schedule C.
     </p>
 
     <p>
@@ -768,18 +861,54 @@ html, body {
 
     <a class="back-to-top" href="#top">↑ Top</a>
 
-    <h2 id="meldman">Act IV: The Meldman contribution dispute</h2>
+    <h2 id="lawsuit">He is suing the city</h2>
 
     <p>
-      The campaign's CA Form 460 Schedule A filing reports a personal contribution of <strong>$1,885 from Michael Meldman</strong>, dated April 14, 2026, identified as "Real Estate Developer, Discovery Land Company." Discovery Land is Meldman's luxury real-estate firm. He is a longtime Republican federal donor (FEC records show approximately $84,200 to the National Republican Congressional Committee in 2021 alone, plus contributions to Trump-aligned committees in subsequent cycles).
+      Spencer and Heidi Pratt sued the City of Los Angeles and its city-owned utility, the Department of Water and Power (LADWP), on <strong>January 21, 2025</strong>, two weeks after the Palisades fire destroyed their home. Their co-plaintiffs are Spencer's parents <strong>Janet Pratt and William Pratt</strong>, plus more than twenty other Palisades property owners. The case was filed in Los Angeles County Superior Court. Their lawyer is the McNulty Law Firm of Los Angeles, and lead attorney <strong>Peter J. McNulty</strong> is also the official spokesperson-lawyer ("Plaintiffs' Liaison Counsel") for the broader group of Palisades-fire cases now joined together into one coordinated proceeding. The Pratt complaint is part of that bigger consolidated case, <em>Grigsby v. City of Los Angeles</em>, No. 25STCV00832.
     </p>
 
     <p>
-      <strong>Meldman, through Discovery Land Company, denies the contribution.</strong> Per The Real Deal's April 28, 2026 reporting on real-estate money in the LA mayoral race: "A spokesperson for Discovery Land Company said the information is inaccurate and that Meldman did not contribute to the campaign."
+      The plaintiffs' theory of the case: around 10:30 p.m. on January 7, 2025, power lines knocked down by the Palisades fire could have sparked a second fire that destroyed additional homes, including the Pratts'. LADWP's defense is that the lines in question had been shut off manually around 2:15 p.m. that afternoon, hours earlier. On <strong>February 19, 2026</strong>, Judge Samantha Jessner ruled that property and business owners could move forward with a specific kind of claim known as "inverse condemnation." In plain terms, that is a claim that the government's actions or failures effectively took or destroyed your property, which obliges the government to pay for it. The California Court of Appeal refused the City's and the State's requests to stop those claims. The lawsuit is now in the evidence-gathering phase. No trial date has been set. More than 10,000 residents, business owners, and insurance companies are now part of the coordinated case.
     </p>
 
     <p>
-      That places the LA Ethics filing and the donor's own representative in direct contradiction. The CA Form 460 was signed and filed by the Pratt campaign's treasurer under penalty of perjury. The filing identifies Meldman by name and employer. Discovery Land's spokesperson, on the record to a real-estate trade publication, says the contribution did not happen. Both statements cannot be true. The donor map's job is to show the contradiction. The legal question of which side is correct is for the FPPC's review process, not this site.
+      Spencer Pratt is a plaintiff in that consolidated lawsuit. He is a plaintiff against the city government he is now asking voters to elect him to lead. He is a plaintiff against LADWP, the city-owned utility that the next mayor will appoint commissioners to oversee.
+    </p>
+
+    <div class="pull-quote">
+      Spencer Pratt is running for mayor of Los Angeles. <strong>He is also suing the City of Los Angeles.</strong>
+    </div>
+
+    <p>
+      Pratt has been asked publicly whether he would drop the lawsuit if elected. On <strong>March 27, 2026</strong>, in an interview with Fox 11 LA reporter Marla Tellez, he answered:
+    </p>
+
+    <div class="pull-quote">
+      <strong>"Absolutely not.</strong> The city failed over 10,000 people. 12 of them died, 7,000 structures. And that lawsuit is going forward. Thankfully, I'm not running to be the judge. The case is gonna be in front of a judge, and the judge will have the ruling. So there would be no conflict because the mayor does not control the outcome of that lawsuit."
+    </div>
+
+    <p>
+      That is Pratt's own answer to the conflict of interest question. The answer rests on a narrow reading of what the mayor of Los Angeles actually does. In reality, the LA mayor has several specific powers that touch this lawsuit directly: the mayor appoints the LADWP's governing commissioners (subject to City Council confirmation), oversees the City Attorney's office that defends the city in lawsuits, controls the city's legal-defense budget, and signs or vetoes any settlement money the city agrees to pay. Whether the mayor "does not control the outcome" of a lawsuit in which the mayor himself is one of the people suing the city is a fair question for voters to weigh. The donor map's job is to show that he has been asked and to print what he said.
+    </p>
+
+    <p>
+      Whether Spencer Pratt and his co-plaintiffs would eventually receive any settlement money or court-awarded damages from this lawsuit, and whether any portion of that money would benefit the candidate or his immediate family personally, is an open question. The lawsuit asks for damages "according to proof," meaning whatever amount the evidence eventually supports, and does not name a specific dollar figure.
+    </p>
+
+    <a class="back-to-top" href="#top">↑ Top</a>
+
+    <h2 id="meldman">The Meldman contribution dispute</h2>
+
+    <p>
+      The campaign's CA Form 460 Schedule A filing reports a personal contribution of <strong>$1,885 from Michael Meldman</strong>, dated April 14, 2026, identified as "Real Estate Developer, Discovery Land Company." Discovery Land is Meldman's luxury real estate firm. He is a longtime Republican federal donor (FEC records show approximately $84,200 to the National Republican Congressional Committee in 2021 alone, plus contributions to Trump-aligned committees in subsequent cycles).
+    </p>
+
+    <p>
+      <strong>Meldman, through Discovery Land Company, denies the contribution.</strong> Per The Real Deal's April 28, 2026 reporting on real estate money in the LA mayoral race: "A spokesperson for Discovery Land Company said the information is inaccurate and that Meldman did not contribute to the campaign."
+    </p>
+
+    <p>
+      That places the LA Ethics filing and the donor's own representative in direct contradiction. The CA Form 460 was signed and filed by the Pratt campaign's treasurer under penalty of perjury. The filing identifies Meldman by name and employer. Discovery Land's spokesperson, on the record to a real estate trade publication, says the contribution did not happen. Both statements cannot be true. The donor map's job is to show the contradiction. The legal question of which side is correct is for the FPPC's review process, not this site.
     </p>
 
     <p>
@@ -792,7 +921,7 @@ html, body {
 
     <a class="back-to-top" href="#top">↑ Top</a>
 
-    <h2 id="caruso">Act V: He's the new Caruso</h2>
+    <h2 id="caruso">He's the new Caruso</h2>
 
     <p>
       Rick Caruso is a Los Angeles billionaire developer who ran for mayor in 2022 as a recently-converted Republican against Karen Bass. He lost. He has since founded Steadfast LA, the private-sector-led Palisades-rebuild organization that partners with Bass's city government. He is, in 2026, a quieter figure than in 2022.
@@ -862,31 +991,210 @@ html, body {
     </p>
 
     <p>
-      Pratt's broader donor list extends the pattern. The April 2026 reporting period saw a coordinated wave of out-of-state luxury real-estate developer max-outs land within a two-week window: Meldman from Scottsdale, Arizona on April 14 (the contribution Discovery Land now denies). David Wolf of Wolf Residential Development from Kamas, Utah on April 15. Douglas Reinhardt of ECG from Laguna Niguel on April 11. Kurt Rappaport of Westside Estate Agency from Beverly Hills on April 16. Brian Timmons of the Quinn Emanuel law firm on April 17. Ted and Michele Waitt on April 7. The pattern is not a small-dollar national grievance fundraising surge. It is a coordinated set of high-dollar checks from a recognizable donor cohort.
+      Pratt's broader donor list extends the pattern. In plain numbers: the campaign raised $539,617 through April 18. About a quarter of that ($131,252) is "unitemized," meaning small donations under $100 that don't have to be reported by donor name. The remaining three quarters of the money, roughly $408,000, comes from named donors. That is where the pattern lives. The April 2026 reporting period in particular shows a tight cluster of high dollar checks at the legal limit (max-out donations), many from out of state luxury real estate developers, landing within a two-week window. This is not a small dollar national grievance fundraising surge. It is a coordinated cohort of named donors writing the largest legal checks a candidate can accept.
+    </p>
+
+    <div class="receipts-block">
+      <h3>The top of Pratt's named donor list (max-out and near-max-out checks)</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION CA FORM 460 SCHEDULE A · COMMITTEE 1485940 · RECORDS THROUGH APRIL 18, 2026</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>Stated occupation / employer</th>
+            <th>City</th>
+            <th class="num">Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Wendy Moniz</span></td><td>Actor · self employed</td><td>Pacific Palisades, CA</td><td class="num">$3,372</td></tr>
+          <tr><td><span class="donor-name">Ted &amp; Michele Waitt</span></td><td>Retired · Gateway Computers founder</td><td>Los Angeles, CA</td><td class="num">$3,600</td></tr>
+          <tr><td><span class="donor-name">Dax Mitchell</span></td><td>Retired</td><td>Dallas, TX</td><td class="num">$2,158</td></tr>
+          <tr><td><span class="donor-name">Eliza Flug</span></td><td>Producer · self employed</td><td>Mercer Island, WA</td><td class="num">$1,983</td></tr>
+          <tr><td><span class="donor-name">Mark &amp; Kelly Ann Holscher</span></td><td>Attorney, Kirkland &amp; Ellis · retired</td><td>Pacific Palisades, CA</td><td class="num">$3,611</td></tr>
+          <tr><td><span class="donor-name">Casey &amp; Catherine Adams</span></td><td>Commercial real estate investor, Excelsior Partners · retired</td><td>Pasadena, CA</td><td class="num">$3,770</td></tr>
+          <tr><td><span class="donor-name">John &amp; Callene Momtazee</span></td><td>Investment banker, Moelis · MD, UCLA</td><td>Beverly Hills, CA</td><td class="num">$3,600</td></tr>
+          <tr><td><span class="donor-name">Michael Meldman</span><br><span class="class-tag">disputed by Discovery Land per Real Deal Apr 28, 2026</span></td><td>Real estate developer, Discovery Land Company</td><td>Scottsdale, AZ</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">David Wolf</span></td><td>Real estate developer, Wolf Residential Development</td><td>Kamas, UT</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Douglas Reinhardt</span></td><td>Real estate developer, ECG</td><td>Laguna Niguel, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Roy Disney</span></td><td>Investor, Shamrock Enterprises (Disney family office)</td><td>Toluca Lake, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Ben Foster</span></td><td>Property management, Ritz Properties Inc</td><td>Los Angeles, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Dean McKillen</span></td><td>Business owner, Laurel Hardware Co</td><td>West Hollywood, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Jeanne Yoon</span></td><td>CEO, Yoonique</td><td>Los Angeles, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Johnny Leon</span><span class="unverified-flag">a student maxing-out warrants review</span></td><td>Student</td><td>Denton, TX</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Kurt Rappaport</span></td><td>Real estate investor, Westside Estate Agency</td><td>Beverly Hills, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Brian Timmons</span></td><td>Attorney, Quinn Emanuel</td><td>Manhattan Beach, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Alexa Kort</span></td><td>Real estate agent, The Beverly Hills Estates</td><td>Beverly Hills, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Chris Hinkson</span></td><td>Commercial real estate, The Hinkson Company</td><td>Phoenix, AZ</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Rick Salomon</span></td><td>Entrepreneur · self employed</td><td>Las Vegas, NV</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Chanel Malin</span></td><td>Business owner / retailer, Palisades Gift Shop</td><td>Santa Monica, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Christoph Tribull</span></td><td>Investments, Tribull Investment LLC</td><td>Beverly Hills, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Steve Bardack</span></td><td>Real estate development, Strata Capital</td><td>Los Angeles, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Andrew Bachman</span></td><td>Media, Creators Inc</td><td>Monmouth Beach, NJ</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Matthew Hesse</span></td><td>Retired</td><td>Bentonville, AR</td><td class="num">$1,800</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Two structural patterns repeat across this list. The first is <strong>couples writing two max-out checks under separate names</strong>: Ted and Michele Waitt, Mark and Kelly Ann Holscher, Casey and Catherine Adams, John and Callene Momtazee. Each pair effectively doubles a single household's contribution. The Holscher pair is the cleanest example: Mark Holscher is a Kirkland &amp; Ellis partner; Kelly Ann Holscher is identified on the filing as "retired"; their joint contribution lands at $3,611 from one Pacific Palisades address. The pattern is legal. The Federal Election Commission and California's campaign finance regulator both permit each individual in a household to give independently. It is, even so, a method by which a single household reaches a multiple of the per-donor limit.
     </p>
 
     <p>
-      The fundraising operation behind these events is documented as well. <strong>Pluvious Group</strong>, run by Trey Kozacik (trey@pluvious.com), is the Pratt campaign's primary fundraiser organizer per LA Times coverage and the campaign's own eFundraising-Connections records. Pluvious organized the Feb 14 LALovesSpencer reception at Perry's Beach Club, the April 28 fundraiser at <strong>Geoffrey H. Palmer's Beverly Hills home</strong> (Palmer is a Los Angeles mega-developer and longtime Republican megadonor), and the April 30 MandevilleCanyon event. Pluvious's prior client list, per LA Times reporting from December 7, 2019, includes <strong>a 2019 Trump fundraiser in Los Angeles</strong> and a 2019 Jackie Lacey fundraiser. The Pratt campaign's fundraising backbone is documented Trump-orbit consultancy.
+      The second pattern is <strong>geographic concentration outside California</strong>. The Pratt fundraising appeal is supposed to be local: a Palisades fire victim running for LA mayor. But out of the named donors, at least seventeen wrote checks from outside California: Dallas, Mercer Island, Denton, Kamas, Scottsdale, Bentonville, Phoenix, Monmouth Beach, Las Vegas, Castle Pines, New York, Austin, Lake Forest, Henderson, North Miami Beach, Little Chute, Sewickley, Sarasota, Paradise Valley, Nashville, Miami, Stilwell. The donor coalition stretches across at least fourteen states.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Out-of-state high dollar donors ($1,000+)</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION · NAMED INDIVIDUAL DONORS WITH NON-CALIFORNIA ADDRESSES</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>City, state</th>
+            <th>Stated employer</th>
+            <th class="num">Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Dax Mitchell</span></td><td>Dallas, TX</td><td>Retired</td><td class="num">$2,158</td></tr>
+          <tr><td><span class="donor-name">Eliza Flug</span></td><td>Mercer Island, WA</td><td>Producer · self employed</td><td class="num">$1,983</td></tr>
+          <tr><td><span class="donor-name">Johnny Leon</span></td><td>Denton, TX</td><td>Student</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">David Wolf</span></td><td>Kamas, UT</td><td>Wolf Residential Development</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Michael Meldman</span></td><td>Scottsdale, AZ</td><td>Discovery Land Company</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Matthew Hesse</span></td><td>Bentonville, AR</td><td>Retired</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Chris Hinkson</span></td><td>Phoenix, AZ</td><td>The Hinkson Company</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Andrew Bachman</span></td><td>Monmouth Beach, NJ</td><td>Creators Inc</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Rick Salomon</span></td><td>Las Vegas, NV</td><td>Entrepreneur · self employed</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">James Macek</span></td><td>Castle Pines, CO</td><td>Calalu LLC</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Komos Tequila</span><span class="class-tag">corporate named in-kind</span></td><td>New York, NY</td><td>Beverage company</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Alistair Belton</span></td><td>Austin, TX</td><td>Self-employed</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Laura Seidensticker</span></td><td>Lake Forest, IL</td><td>Retired</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Rhian Meintjes</span></td><td>Austin, TX</td><td>Retired</td><td class="num">$1,605</td></tr>
+          <tr><td><span class="donor-name">Tisa McCay</span></td><td>Henderson, NV</td><td>Retired</td><td class="num">$1,571</td></tr>
+          <tr><td><span class="donor-name">Jonathan Marcus</span></td><td>North Miami Beach, FL</td><td>Unemployed</td><td class="num">$1,500</td></tr>
+          <tr><td><span class="donor-name">James Maher</span></td><td>Little Chute, WI</td><td>Retired</td><td class="num">$1,259</td></tr>
+          <tr><td><span class="donor-name">Alexandra Evers</span><span class="class-tag">also on campaign payroll · $2,732 in salary</span></td><td>Sewickley, PA</td><td>(employer not listed)</td><td class="num">$1,138</td></tr>
+          <tr><td><span class="donor-name">Donald Paxton</span></td><td>Sarasota, FL</td><td>Retired</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Emery Wells</span></td><td>New York, NY</td><td>Kivu Ventures</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Natalie Schwan</span></td><td>Paradise Valley, AZ</td><td>Self-employed</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Kate Banks</span></td><td>Nashville, TN</td><td>Ferrell Capital</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Rusol Yasin</span></td><td>Miami, FL</td><td>Rusol and Company</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Sarah Ferguson</span></td><td>Stilwell, KS</td><td>Retired</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Patrice Barth</span></td><td>Las Vegas, NV</td><td>Retired</td><td class="num">$1,048</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      One row in that table is worth a sentence on its own. <strong>Johnny Leon, listed as a "Student" from Denton, Texas, gave $1,885, the legal maximum.</strong> Students rarely write four figure checks to municipal campaigns. The filing does not identify a parent's employer or a different funding source. The pattern of a student writing a max-out check has historically been a category that election-law enforcement examines for possible "straw donor" arrangements (checks written by one person on behalf of another), though the donor map asserts nothing of the kind here. The filing's face value is what is shown.
     </p>
 
     <p>
-      Pratt's third-largest documented payee on the campaign's CA Form 460 Schedule E is <strong>Highland Political LLC</strong>, which received $63,893 in 11 transactions across the same reporting period for "Fundraising Events" services and travel reimbursement. Tennessee Secretary of State business search confirms Highland Political LLC is <strong>not registered in Tennessee</strong>, despite the LinkedIn listing showing a Nashville address. The domain highlandpolitical.com does not resolve. FEC records show <strong>zero other political clients</strong> for Highland Political LLC. The Pratt campaign is its only known client in any accessible federal or state campaign-finance database.
+      The fundraising operation behind these checks is itself documented in the filings. <strong>Pluvious Group</strong>, run by Trey Kozacik, is the Pratt campaign's primary fundraiser organizer, per LA Times coverage and the campaign's own eFundraising-Connections records. Pluvious organizes the events; the events bring in the named-donor checks. The events also reveal which Los Angeles Republican power players are hosting Pratt.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Pluvious-organized fundraisers and hosts (where the max-out checks come from)</h3>
+      <p class="desc">SOURCE: LA TIMES COVERAGE · CAMPAIGN'S OWN EFUNDRAISING-CONNECTIONS PUBLIC EVENT LISTINGS</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Event</th>
+            <th>Location / host</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>2026-02-14</td><td>LALovesSpencer reception</td><td>Perry's Beach Club</td></tr>
+          <tr><td>2026-04-28</td><td>Pratt fundraiser</td><td>Home of <strong>Geoffrey H. Palmer</strong>, Beverly Hills (LA mega-developer, longtime Republican megadonor)</td></tr>
+          <tr><td>2026-04-30</td><td>Mandeville Canyon fundraiser</td><td>Mandeville Canyon, Brentwood</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      Pluvious's prior client list, per LA Times reporting on December 7, 2019, includes <strong>a 2019 Donald Trump fundraiser in Los Angeles</strong> and a 2019 Jackie Lacey fundraiser. The Pratt campaign's fundraising backbone is documented Trump-orbit consulting work.
+    </p>
+
+    <p>
+      That brings us to the campaign's largest single payee, and the one with the most red flags around it.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Entity profile · Highland Political LLC</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION SCHEDULE E · TENNESSEE SECRETARY OF STATE BUSINESS ENTITY SEARCH · FEC COMMITTEE EXPENDITURE DATABASE · DNS LOOKUP</p>
+      <table class="receipts-table">
+        <tbody>
+          <tr><td>Paid by Pratt for Mayor 2026</td><td><strong>$63,893</strong> across 11 transactions, coded as "Fundraising Events" services and travel reimbursement</td></tr>
+          <tr><td>Stated location</td><td>Nashville, Tennessee (per LinkedIn listing)</td></tr>
+          <tr><td>Tennessee SOS entity registration</td><td><strong>Not registered.</strong> Tennessee Secretary of State business-entity search returns no result for "Highland Political"</td></tr>
+          <tr><td>Domain highlandpolitical.com</td><td><strong>Does not resolve.</strong> No website served at the URL</td></tr>
+          <tr><td>Other documented political clients (FEC)</td><td><strong>Zero.</strong> No federal candidate, party committee, or political action committee in the FEC expenditure database has paid Highland Political LLC</td></tr>
+          <tr><td>Other documented California state-level clients</td><td>No record found in Cal-Access for the 2024 or 2026 cycles</td></tr>
+          <tr><td>Implication</td><td>The Pratt mayoral campaign is the only known client of Highland Political LLC in any accessible federal or state campaign finance database. The firm has no public web presence and no registered legal existence in the state it claims as its base.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      A vendor that has received $63,893 from a single campaign, has no other documented clients, no registered corporate existence in the state of record, and no working website, is unusual on its face. The legal characterization is for the LA Ethics Commission's review process. The structural finding is that the campaign's largest single line item goes to an entity whose existence outside this one engagement is undocumented.
     </p>
 
     <a class="back-to-top" href="#top">↑ Top</a>
 
-    <h2 id="newport-bleach">Act VI: The merchandise vendor</h2>
+    <h2 id="newport-bleach">The merchandise vendor</h2>
 
     <p>
       The expenditure side of Pratt's filings carries a finding the contribution side does not.
     </p>
 
     <p>
-      The campaign's CA Form 460 Schedule E (expenditures) for the same reporting period reports <strong>$24,050 paid to a vendor named NEWPORT BLEACH</strong>, in three transactions, all coded as "Campaign Paraphernalia, Miscellaneous." The vendor address is Newport Beach, California. The same Schedule E lists $63,893 to Highland Political LLC for fundraising-event services and travel reimbursement, $25,850 to Tag Strategies for campaign consulting, and smaller payments to a roster of other consultants and staff. Newport Bleach is the campaign's third-largest expenditure category overall.
+      The campaign's CA Form 460 Schedule E (the report listing every dollar the campaign spent) lists 248 individual payments totaling <strong>$282,362</strong> through April 18. <strong>$24,050 went to a vendor named NEWPORT BLEACH</strong>, in three transactions, all coded as "Campaign Paraphernalia, Miscellaneous." The vendor address is Newport Beach, California. Newport Bleach is the campaign's third-largest payee overall, behind only the unregistered fundraising operation Highland Political LLC and the campaign-consulting firm Tag Strategies.
+    </p>
+
+    <div class="receipts-block">
+      <h3>Where Pratt's money went: top 20 payees on Schedule E</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION CA FORM 460 SCHEDULE E · COMMITTEE 26519 (LA ETHICS INTERNAL ID) / 1485940 (FPPC) · RECORDS THROUGH APRIL 18, 2026</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Payee</th>
+            <th>What for</th>
+            <th class="num">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Highland Political LLC</span><span class="class-tag">unregistered in TN, no other clients found</span></td><td>Fundraising-event services and travel reimbursement (11 transactions)</td><td class="num">$63,893</td></tr>
+          <tr><td><span class="donor-name">Tag Strategies</span></td><td>Campaign consulting</td><td class="num">$25,850</td></tr>
+          <tr><td><span class="donor-name">Newport Bleach</span><span class="class-tag">Tyler Nichols · five year Pratt family vendor</span></td><td>Campaign paraphernalia / merchandise (3 transactions)</td><td class="num">$24,050</td></tr>
+          <tr><td><span class="donor-name">eFundraising Connections</span></td><td>Online fundraising platform fees</td><td class="num">$23,847</td></tr>
+          <tr><td><span class="donor-name">American Express</span></td><td>Credit card / vendor payments</td><td class="num">$17,217</td></tr>
+          <tr><td><span class="donor-name">Airbnb</span></td><td>Lodging / event venue</td><td class="num">$10,106</td></tr>
+          <tr><td><span class="donor-name">Gabriel Mann</span></td><td>Campaign worker salary</td><td class="num">$10,000</td></tr>
+          <tr><td><span class="donor-name">Illuminate Marketing and Consulting LLC</span></td><td>Marketing / consulting</td><td class="num">$9,571</td></tr>
+          <tr><td><span class="donor-name">Graphico Design Group Inc</span></td><td>Design services</td><td class="num">$8,186</td></tr>
+          <tr><td><span class="donor-name">Don Antonio's</span></td><td>Restaurant / event catering</td><td class="num">$7,923</td></tr>
+          <tr><td><span class="donor-name">Revv</span></td><td>Online fundraising platform</td><td class="num">$7,723</td></tr>
+          <tr><td><span class="donor-name">Briana Bilbray</span></td><td>Campaign worker salary</td><td class="num">$6,500</td></tr>
+          <tr><td><span class="donor-name">Alan Pellacani</span></td><td>Campaign worker salary</td><td class="num">$6,420</td></tr>
+          <tr><td><span class="donor-name">Lucky Enterprises</span></td><td>Vendor</td><td class="num">$6,000</td></tr>
+          <tr><td><span class="donor-name">Blitz Strategic Communications</span></td><td>Communications consulting</td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Emily Blair Media</span></td><td>Media consulting</td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Mackenzie Stith</span></td><td>Campaign worker salary</td><td class="num">$4,904</td></tr>
+          <tr><td><span class="donor-name">Pluvious Group LLC</span><span class="class-tag">primary fundraiser organizer · Trey Kozacik</span></td><td>Fundraising consulting</td><td class="num">$4,082</td></tr>
+          <tr><td><span class="donor-name">US Treasury</span></td><td>Federal taxes (campaign-worker payroll)</td><td class="num">$4,000</td></tr>
+          <tr><td><span class="donor-name">Nana's Kitchen</span></td><td>Restaurant / event catering</td><td class="num">$3,848</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>
+      The top three payees together (Highland Political LLC, Tag Strategies, Newport Bleach) account for about <strong>$113,793</strong>, or roughly 40% of all campaign spending through April 18. Each one has a documented oddity attached to it. Highland Political LLC is the campaign's largest single vendor and is not registered in the state where it claims to be based. Tag Strategies is the campaign-consulting firm of record. Newport Bleach is operated by the Pratt family's longtime graphic designer.
     </p>
 
     <p>
-      Newport Bleach is operated by graphic designer <strong>Tyler Nichols</strong>, who works publicly under the brand "Tyler Treats" at tylertreats.com. His own portfolio identifies <strong>Pratt Daddy Crystals</strong> as a former graphic-design client, alongside Anaheim Ducks NHL warm-up shirt designs and concert-merchandise work for various bands. His Twitter biography names Newport Bleach. His Newport Bleach blog credits him as the author of news posts including a Heidi Montag-related piece ("Heidi Montag - Wet Hot Summmer"). Forbes covered his work designing the visual world of the Moviestarz debut album on November 11, 2025. This Modern Struggle Magazine reported on October 10, 2025 that <strong>"Newport Bleach designed a custom tee to help raise money for reality stars Heidi Montag and Spencer Pratt when they lost their home to the LA fires."</strong> The same vendor that produced fire-relief fundraising merchandise for the Pratts in 2025 is producing PRATT2026 campaign merchandise in 2026.
+      Newport Bleach is operated by graphic designer <strong>Tyler Nichols</strong>, who works publicly under the brand "Tyler Treats" at tylertreats.com. His own portfolio identifies <strong>Pratt Daddy Crystals</strong> as a former graphic design client, alongside Anaheim Ducks NHL warm-up shirt designs and concert-merchandise work for various bands. His Twitter biography names Newport Bleach. His Newport Bleach blog credits him as the author of news posts including a Heidi Montag-related piece ("Heidi Montag - Wet Hot Summmer"). Forbes covered his work designing the visual world of the Moviestarz debut album on November 11, 2025. This Modern Struggle Magazine reported on October 10, 2025 that <strong>"Newport Bleach designed a custom tee to help raise money for reality stars Heidi Montag and Spencer Pratt when they lost their home to the LA fires."</strong> The same vendor that produced fire-relief fundraising merchandise for the Pratts in 2025 is producing PRATT2026 campaign merchandise in 2026.
     </p>
 
     <div class="receipts-block">
@@ -974,10 +1282,6 @@ html, body {
     </p>
 
     <p>
-      Tyler Nichols's documented work for the Pratt family goes back at least five years, to the Pratt Daddy Crystals merchandise era (roughly 2019 to 2021). Newport Bleach is his current vendor operation. Through it, he produces both Heidi Montag's "Heidiwood" tour merchandise and Spencer Pratt's PRATT2026 campaign merchandise, on the same Shopify product line.
-    </p>
-
-    <p>
       The Newport Bleach store, accessible without login at newportbleach.com, is a combined celebrity-merchandise and political-campaign-merchandise operation. The Heidi-product collection alone contains 28 t-shirts, hats, and accessories, all branded around Spencer Pratt's wife Heidi Montag.
     </p>
 
@@ -1005,7 +1309,7 @@ html, body {
           </tr>
           <tr>
             <td><span class="donor-name">OG PRATT DADDY VINTAGE TEE</span></td>
-            <td>Spencer Pratt's pre-political crystal-merchandise brand reference</td>
+            <td>Spencer Pratt's pre-political crystal merchandise brand reference</td>
             <td class="num">n/a</td>
           </tr>
           <tr>
@@ -1052,7 +1356,7 @@ html, body {
     </p>
 
     <p>
-      The structural finding that does not depend on the legal-entity question: the campaign paid $24,050 in "Campaign Paraphernalia" to a vendor whose principal has a five-year-plus documented graphic-design relationship with the Pratt family, going back to the Pratt Daddy Crystals merchandise era. Whether the campaign's payment subsidized celebrity-merchandise production at the same vendor, whether the vendor's pricing on PRATT2026 campaign merchandise was at fair market value, and whether any portion of the $24,050 represents personal benefit to the candidate or his family, are open questions for the LA Ethics Commission's review.
+      The structural finding that does not depend on the legal-entity question: the campaign paid $24,050 in "Campaign Paraphernalia" to a vendor whose principal has a five year-plus documented graphic design relationship with the Pratt family, going back to the Pratt Daddy Crystals merchandise era. Whether the campaign's payment subsidized celebrity-merchandise production at the same vendor, whether the vendor's pricing on PRATT2026 campaign merchandise was at fair market value, and whether any portion of the $24,050 represents personal benefit to the candidate or his family, are open questions for the LA Ethics Commission's review.
     </p>
 
     <p>
@@ -1068,11 +1372,11 @@ html, body {
       <ul>
         <li>This beat does not allege Spencer Pratt knew the contributors of the two February in-kind contributions were corporations, or that he personally directed the acceptance.</li>
         <li>This beat does not allege Newport Bleach is owned or controlled by Spencer Pratt, Heidi Pratt, or any related party. Public records identify graphic designer Tyler Nichols as the operator. Whether the underlying legal entity is an LLC, Inc., DBA, or sole proprietorship is open.</li>
-        <li>This beat does not allege Tyler Nichols has done anything wrong. He is a graphic designer with a documented five-year vendor history with the Pratt family. The structural finding concerns the campaign's choice of vendor, not the vendor's conduct.</li>
+        <li>This beat does not allege Tyler Nichols has done anything wrong. He is a graphic designer with a documented five year vendor history with the Pratt family. The structural finding concerns the campaign's choice of vendor, not the vendor's conduct.</li>
         <li>This beat does not allege Michael Meldman did or did not make the contribution the campaign filed under his name on April 14, 2026. The campaign's CA Form 460 reports the contribution under penalty of perjury. Discovery Land Company's spokesperson, on the record, says the contribution did not occur. The donor map preserves both statements as documentary; resolving which is correct is for the FPPC's review process.</li>
-        <li>This beat does not allege a connection between Michael Meldman and the Komos Tequila brand. The donor map's earlier internal research presumed such a link; primary-source review of BusinessWire, Robb Report, and Casa Komos Brands Group's own press materials shows Komos was founded by Richard Betts and Joe Marchese with no Meldman involvement. The earlier presumption was wrong.</li>
-        <li>This beat does not allege Spencer Pratt's Palisades fire-victim status is fabricated. Public reporting confirms his home and his parents' home were destroyed.</li>
-        <li>This beat does not allege Pratt's lawsuit against the City of Los Angeles and LADWP is meritless or improperly brought. Whether the lawsuit succeeds on the merits is for the courts. The structural finding concerns the conflict-of-interest posture of a candidate suing the office he is running to hold, plus his own public statement on the question.</li>
+        <li>This beat does not allege a connection between Michael Meldman and the Komos Tequila brand. The donor map's earlier internal research presumed such a link; primary source review of BusinessWire, Robb Report, and Casa Komos Brands Group's own press materials shows Komos was founded by Richard Betts and Joe Marchese with no Meldman involvement. The earlier presumption was wrong.</li>
+        <li>This beat does not allege Spencer Pratt's Palisades fire victim status is fabricated. Public reporting confirms his home and his parents' home were destroyed.</li>
+        <li>This beat does not allege Pratt's lawsuit against the City of Los Angeles and LADWP is meritless or improperly brought. Whether the lawsuit succeeds on the merits is for the courts. The structural finding concerns the conflict of interest posture of a candidate suing the office he is running to hold, plus his own public statement on the question.</li>
         <li>This beat does not allege the donors named here did anything illegal. Individual contributions at the legal maximum are legal. The structural finding is the cohort, not any single donor.</li>
         <li>This beat does not characterize the Pratt campaign as a "grift" or any related characterization. The receipts are documentary; the editorial framing belongs to the reader.</li>
       </ul>
@@ -1087,11 +1391,11 @@ html, body {
     <h2 id="open-questions">Open questions</h2>
 
     <p>
-      <strong>Whether Pratt's campaign will return the two corporate-named in-kind contributions.</strong> California Government Code Section 84308 and LA Ethics rules permit a candidate to return a contribution that exceeds the limit or violates a source restriction within a defined return window. Whether Pratt's campaign treats the Komos and Delta Special Operations Corp contributions as returnable, retains them, or amends the filings to reidentify the contributors as individuals, is open as of the latest reporting period.
+      <strong>Whether Pratt's campaign will return the two corporate named in-kind contributions.</strong> California Government Code Section 84308 and LA Ethics rules permit a candidate to return a contribution that exceeds the limit or violates a source restriction within a defined return window. Whether Pratt's campaign treats the Komos and Delta Special Operations Corp contributions as returnable, retains them, or amends the filings to reidentify the contributors as individuals, is open as of the latest reporting period.
     </p>
 
     <p>
-      <strong>Whether Spencer Pratt would recuse from administrative or budget decisions affecting his own pending lawsuit against the City of Los Angeles and LADWP if he wins the office.</strong> A candidate suing the office he is running to hold is in a structural conflict-of-interest posture. The campaign has not, in named-publication coverage reviewed for this beat, publicly committed to a recusal protocol or to dropping the lawsuit if elected. Whether the lawsuit will be settled, dropped, or pursued in parallel with a hypothetical Pratt mayoralty is open.
+      <strong>Whether Spencer Pratt would recuse from administrative or budget decisions affecting his own pending lawsuit against the City of Los Angeles and LADWP if he wins the office.</strong> A candidate suing the office he is running to hold is in a structural conflict of interest posture. The campaign has not, in named-publication coverage reviewed for this beat, publicly committed to a recusal protocol or to dropping the lawsuit if elected. Whether the lawsuit will be settled, dropped, or pursued in parallel with a hypothetical Pratt mayoralty is open.
     </p>
 
     <p>
@@ -1143,7 +1447,7 @@ html, body {
         </li>
         <li>
           <span class="label">Pratt for Mayor 2026 (FPPC committee 1485940)</span>
-          <a href="https://ethics.lacity.org/data/campaign-finance-disclosures/">ethics.lacity.org / data / campaign-finance-disclosures (search committee 1485940)</a>
+          <a href="https://ethics.lacity.org/data/campaign finance-disclosures/">ethics.lacity.org / data / campaign finance-disclosures (search committee 1485940)</a>
         </li>
         <li>
           <span class="label">Komos, Inc. legal entity (terms of use)</span>
@@ -1191,7 +1495,7 @@ html, body {
         </li>
         <li>
           , 
-          <a href="https://ew.com/spencer-pratt-heidi-montag-20-more-wildfire-victims-sue-los-angeles-for-water-issues-8779614">ew.com / spencer-pratt-heidi-montag-20-more-wildfire-victims</a>
+          <a href="https://ew.com/spencer-pratt-heidi-montag-20-more-wildfire victims-sue-los-angeles-for-water-issues-8779614">ew.com / spencer-pratt-heidi-montag-20-more-wildfire victims</a>
         </li>
         <li>
           , 
@@ -1215,7 +1519,7 @@ html, body {
         </li>
         <li>
           , 
-          <a href="https://therealdeal.com/la/2026/04/28/where-is-real-estate-money-flowing-in-the-mayoral-race/">therealdeal.com / la / 2026-04-28 / mayoral-race-real-estate-money</a>
+          <a href="https://therealdeal.com/la/2026/04/28/where-is-real estate-money-flowing-in-the-mayoral-race/">therealdeal.com / la / 2026-04-28 / mayoral-race-real estate-money</a>
         </li>
         <li>
           , 
@@ -1266,10 +1570,6 @@ html, body {
           <a href="#">ethics.lacity.org / measures / measure-ss (URL NEEDED)</a>
         </li>
         <li>
-          <span class="label">Komos Tequila launch coverage referencing Mike Meldman (URL NEEDED)</span>
-          <a href="#">Robb Report / Forbes / Drinks International, 2021 (URL NEEDED)</a>
-        </li>
-        <li>
           <span class="label">CA Secretary of State business search for Delta Special Operations Corp (URL NEEDED)</span>
           <a href="#">bizfileonline.sos.ca.gov (URL NEEDED)</a>
         </li>
@@ -1280,7 +1580,7 @@ html, body {
       </ul>
 
       <div class="methodology">
-        <strong>Methodology.</strong> All contribution and expenditure data is sourced to the Los Angeles City Ethics Commission's public Socrata dataset on data.lacity.org. The Pratt for Mayor 2026 contribution records were extracted via SoQL queries against committee identifier 1485940 in the campaign-contributions dataset (m6g2-gc6c). The Pratt for Mayor 2026 expenditure records were extracted via SoQL queries against committee identifier 26519 in the campaign-expenditures dataset (5mrt-4zhe). Both queries were run May 9, 2026; the latest reporting period covered ends April 18, 2026. The five-donor cross-reference to Rick Caruso for Mayor 2022 was performed by SoQL queries against the same campaign-contributions dataset using donor-name LIKE filters. The "KOMOS TEQUILA" contributor name in the Schedule C filing was resolved to "Komos, Inc." via the brand's own website footer at komos.com and its terms-of-use page, both reviewed May 9, 2026. The Newport Bleach product line documentation was obtained by direct review of newportbleach.com's collections and product pages on May 9, 2026; the brand's stated manufacturing location ("Made and Printed in Los Angeles, California by NEWPORT BLEACH") is reproduced from the brand's own product descriptions. The Spencer Pratt biographical context (registered Republican in 2020, Pratt Daddy Crystals, Hills cast member) is drawn from Wikipedia's article on Spencer Pratt, which is referenced for context but is not the primary source for any factual claim that does not also appear in the campaign-finance record. The LA Charter Section 470 / LAMC Section 49.7.13 corporate-contribution prohibition is referenced from general knowledge of LA City campaign-finance rules; the exact statutory text and section number have not been re-verified against the LA Ethics Commission's published text in this draft and are flagged as URL NEEDED. The Mike Meldman / Komos Tequila founding link is drawn from food and spirits industry coverage of the brand's 2021 launch and is flagged as URL NEEDED for primary-source citation. The contribution-aggregation interpretation question regarding the Meldman / Komos two-channel contributions is open and not asserted as a violation in this beat. The legal characterization of any specific contribution as a violation of any specific statute is the FPPC's call and the LA Ethics Commission's, not this site's.
+        <strong>Methodology.</strong> All contribution and expenditure data is sourced to the Los Angeles City Ethics Commission's public Socrata dataset on data.lacity.org. The Pratt for Mayor 2026 contribution records were extracted via SoQL queries against committee identifier 1485940 in the campaign-contributions dataset (m6g2-gc6c). The Pratt for Mayor 2026 expenditure records were extracted via SoQL queries against committee identifier 26519 in the campaign-expenditures dataset (5mrt-4zhe). Both queries were run May 9, 2026; the latest reporting period covered ends April 18, 2026. The five-donor cross-reference to Rick Caruso for Mayor 2022 was performed by SoQL queries against the same campaign-contributions dataset using donor-name LIKE filters. The "KOMOS TEQUILA" contributor name in the Schedule C filing was resolved to "Komos, Inc." via the brand's own website footer at komos.com and its terms-of-use page, both reviewed May 9, 2026. The Newport Bleach product line documentation was obtained by direct review of newportbleach.com's collections and product pages on May 9, 2026; the brand's stated manufacturing location ("Made and Printed in Los Angeles, California by NEWPORT BLEACH") is reproduced from the brand's own product descriptions. The Spencer Pratt biographical context (registered Republican in 2020, Pratt Daddy Crystals, Hills cast member) is drawn from Wikipedia's article on Spencer Pratt, which is referenced for context but is not the primary source for any factual claim that does not also appear in the campaign finance record. The LA Charter Section 470 / LAMC Section 49.7.13 corporate-contribution prohibition is referenced from general knowledge of LA City campaign finance rules; the exact statutory text and section number have not been re-verified against the LA Ethics Commission's published text in this draft and are flagged as URL NEEDED. <strong>An earlier draft of this beat presumed a connection between Michael Meldman and the Komos Tequila brand. That presumption was wrong.</strong> Primary-source review of BusinessWire's February 9, 2021 launch coverage, Robb Report's profile (republished on the official Casa Komos Brands Group press archive), and Spirit of Gallo's August 2022 press release shows Komos was founded by Master Sommelier Richard Betts and entrepreneur Joe Marchese; no primary or named-publication source reviewed for this beat connects Meldman to Komos in any capacity. The Komos-as-corporate-contributor finding does not depend on Meldman and remains documentary on the face of the campaign's own Schedule C filing. The legal characterization of any specific contribution as a violation of any specific statute is the FPPC's call and the LA Ethics Commission's, not this site's.
       </div>
     </div>
   </div>
@@ -1291,7 +1591,7 @@ html, body {
   <div class="tagline-footer">I name the donors. I map the money. I show the contradictions.</div>
   <a href="/" class="footer-cta">More Investigations</a>
   <a href="#" class="footer-cta">Share This</a>
-  <div class="small">All data verified against primary-source filings · drafted 2026-05-09 · pending URL pass</div>
+  <div class="small">All data verified against primary source filings · drafted 2026-05-09 · pending URL pass</div>
 </footer>
 
 </body>
