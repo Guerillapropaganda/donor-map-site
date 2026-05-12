@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pratt for Mayor 2026 · Donor Deep-Dives · The Donor Map</title>
+<meta name="description" content="Full deep-dive dossiers for the four most structurally telling donors to Spencer Pratt's 2026 LA mayoral campaign: Haim and Cheryl Saban, Sir Lucian and Elliot Grainge, Jeffrey Sprecher and Kelly Loeffler, and the Marciano family (GUESS Jeans).">
+<meta property="og:site_name" content="The Donor Map">
+<meta property="og:title" content="Pratt for Mayor 2026 · donor deep-dives.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://thedonormap.org/spencer-pratt-deep-dives/">
+<meta property="og:description" content="Full dossiers on Haim and Cheryl Saban, the Grainge family, Jeffrey Sprecher and Kelly Loeffler, and the Marciano family. Corporate-governance backdrops + federal contribution histories.">
+<meta property="og:image" content="https://thedonormap.org/static/share/spencer-pratt-deep-dives.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:alt" content="Pratt for Mayor 2026 donor deep-dives. The Donor Map.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pratt for Mayor 2026 · donor deep-dives.">
+<meta name="twitter:description" content="Sabans. Grainges. Sprecher/Loeffler. Marciano family. The full dossiers.">
+<meta name="twitter:image" content="https://thedonormap.org/static/share/spencer-pratt-deep-dives.png">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+:root { --black:#0a0a0a; --ink:#1a1a1a; --cream:#f5f0eb; --paper:#ece6dd; --line:#d4cfc7; --line-strong:#999; --muted:#666; --yellow:#fbbf24; --red:#e63946; --blue:#1d4ed8; }
+
+html, body { background: var(--cream); color: var(--ink); font-family: 'Inter', sans-serif; font-weight: 400; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+
+.nav { border-bottom: 2px solid var(--black); padding: 18px 0; background: var(--cream); position: sticky; top: 0; z-index: 10; }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; color: var(--black); text-decoration: none; }
+.nav-links { display: flex; gap: 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.nav-links a { color: var(--ink); text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 2px; }
+.nav-links a:hover { border-bottom-color: var(--black); }
+
+.article-header { padding: 56px 32px 40px; border-bottom: 2px solid var(--black); }
+.article-header-inner { max-width: 880px; margin: 0 auto; }
+.breadcrumb { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 24px; }
+.breadcrumb a { color: var(--muted); text-decoration: none; border-bottom: 1px solid transparent; }
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta { display: flex; gap: 16px; align-items: center; margin-bottom: 28px; font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; }
+.beat-meta .tag { background: var(--black); color: var(--cream); padding: 4px 10px; }
+.beat-meta .date { color: var(--muted); }
+
+.article-header h1 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 56px; line-height: 1; letter-spacing: -2px; margin-bottom: 22px; }
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 22px; line-height: 1.35; color: var(--ink); border-left: 4px solid var(--black); padding-left: 24px; }
+
+.back-to-main { display: inline-block; margin: 12px 0 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--blue); text-decoration: none; border-bottom: 2px solid var(--blue); padding-bottom: 2px; }
+.back-to-main:hover { background: var(--yellow); }
+
+.toc { margin: 28px 0 40px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 18px 0; font-family: 'Space Mono', monospace; }
+.toc .toc-label { font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 12px; }
+.toc ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 24px; counter-reset: toc-counter; }
+@media (max-width: 700px) { .toc ol { grid-template-columns: 1fr; } }
+.toc li { counter-increment: toc-counter; display: flex; gap: 10px; align-items: baseline; font-size: 14px; line-height: 1.4; padding: 4px 0; border-bottom: 1px dotted var(--line); }
+.toc li::before { content: counter(toc-counter, decimal-leading-zero) "."; font-weight: 700; color: var(--muted); flex-shrink: 0; font-size: 12px; }
+.toc li a { color: var(--ink); text-decoration: none; font-weight: 700; flex: 1; }
+.toc li a:hover { background: var(--yellow); }
+
+.article-body { padding: 64px 32px; }
+.article-body-inner { max-width: 720px; margin: 0 auto; font-size: 18px; line-height: 1.65; }
+.article-body p { margin-bottom: 22px; }
+.article-body p strong { background: var(--yellow); padding: 0 4px; font-weight: 700; }
+.article-body h2 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 34px; line-height: 1.1; letter-spacing: -0.8px; margin-top: 64px; margin-bottom: 12px; border-top: 2px solid var(--black); padding-top: 32px; }
+.article-body h2 .h-red { background: var(--red); color: #fff; padding: 0 8px; }
+.article-body h2 em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.article-body h3 { font-family: 'Inter', sans-serif; font-weight: 800; font-size: 22px; margin-top: 36px; margin-bottom: 12px; letter-spacing: -0.3px; }
+
+a.cite { color: var(--blue); text-decoration: none; border-bottom: 1px dotted var(--blue); }
+a.cite:hover { background: var(--yellow); border-bottom: 1px solid var(--black); }
+
+.pull-quote { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 28px; line-height: 1.3; border-left: 6px solid var(--red); padding: 12px 0 12px 28px; margin: 36px 0; color: var(--ink); }
+.pull-quote strong { font-family: 'Inter', sans-serif; font-style: normal; font-weight: 900; background: var(--yellow); padding: 0 4px; }
+
+.exhibit { border: 3px solid var(--black); margin: 32px 0; background: #fff; }
+.exhibit-header { background: var(--black); color: #fff; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; }
+.exhibit-header .exhibit-label { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--yellow); }
+.exhibit-header .exhibit-source { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 1px; color: #999; }
+.exhibit-body { padding: 24px 24px 28px; }
+.exhibit-title { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin: 0 0 6px; text-transform: uppercase; color: var(--black); }
+.exhibit-meta { font-family: 'Space Mono', monospace; font-size: 11px; color: var(--muted); margin-bottom: 18px; }
+.exhibit-record { display: grid; grid-template-columns: 220px 1fr; border-top: 2px solid var(--black); border-left: 2px solid var(--black); font-size: 14px; }
+.exhibit-record > div { border-right: 2px solid var(--black); border-bottom: 2px solid var(--black); padding: 10px 14px; background: var(--paper); }
+.exhibit-record > div.k { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); background: #fff; }
+.exhibit-record > div.v strong { font-weight: 900; }
+.exhibit-caption { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 14px; color: var(--muted); padding: 12px 24px 4px; border-top: 1px solid var(--line); background: var(--cream); }
+@media (max-width: 720px) { .exhibit-record { grid-template-columns: 1fr; } .exhibit-record > div.k { border-bottom: 0; } }
+
+.beat-footer { padding: 48px 32px; background: var(--black); color: var(--cream); text-align: center; }
+.beat-footer .brand-footer { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 8px; }
+.beat-footer .brand-footer em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: #ddd; }
+.beat-footer .tagline-footer { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 16px; color: #aaa; margin-bottom: 24px; }
+.beat-footer .footer-cta { display: inline-block; font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--cream); text-decoration: none; border: 2px solid var(--cream); padding: 10px 22px; margin: 0 8px; }
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small { font-family: 'Space Mono', monospace; font-size: 11px; color: #777; letter-spacing: 1px; margin-top: 32px; }
+
+@media (max-width: 800px) { .article-header h1 { font-size: 36px; letter-spacing: -1.2px; } .article-header .deck { font-size: 18px; } .article-body h2 { font-size: 26px; } .article-body-inner { font-size: 16px; } }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/investigations">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <a href="/spencer-pratt">What $540,000 to Spencer Pratt looks like</a>
+      <span class="sep">›</span>
+      <span>Donor deep-dives</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">LA Mayor 2026 · Deep-Dive Dossier</span>
+      <span class="date">Updated May 12, 2026</span>
+    </div>
+    <h1>Pratt for Mayor 2026 · <span class="h-red">donor deep-dives</span>.</h1>
+    <p class="deck">
+      The full prose dossiers for the four most structurally telling donors to the Pratt campaign: Haim and Cheryl Saban, the Grainge family, Jeffrey Sprecher and Kelly Loeffler, and the Marciano family. Corporate-governance backdrops, federal political-contribution histories, the documentary exhibits.
+    </p>
+    <a class="back-to-main" href="/spencer-pratt">← Back to the main investigation</a>
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this dossier</div>
+      <ol>
+        <li><a href="#sabans">Haim and Cheryl Saban</a></li>
+        <li><a href="#grainges">Sir Lucian and Elliot Grainge</a></li>
+        <li><a href="#sprecher-loeffler">Jeffrey Sprecher and Kelly Loeffler</a></li>
+        <li><a href="#marcianos">The Marciano family · GUESS Jeans</a></li>
+      </ol>
+    </nav>
+  </div>
+</header>
+
+<main class="article-body">
+  <div class="article-body-inner">
+
+    <h2 id="sabans">Haim and Cheryl Saban</h2>
+
+    <p>
+      Haim Saban is the founder and chairman of Saban Capital Group, the Israeli-American media billionaire (Forbes estimates net worth at approximately $3 billion) who co-produced Mighty Morphin Power Rangers in the 1990s, led the consortium that acquired Univision in 2007 for $13.7 billion, and built the Saban Center for Middle East Policy at the Brookings Institution. He has been one of the single largest Democratic mega-donors of the last three decades. The Saban Capital Group's principal address is <strong>10100 Santa Monica Boulevard, 26th Floor, Century City, LA 90067</strong>, which matches the zip code on the donor filing. His wife <strong>Cheryl Saban</strong> holds a PhD, runs the Cheryl Saban Self-Worth Foundation, and was appointed by President Barack Obama in 2012 to serve as a Representative of the United States to the Sixty-Seventh Session of the United Nations General Assembly.
+    </p>
+
+    <p>
+      The Sabans' history in LA city politics is itself documentary. The LA City Ethics Commission's open-data Schedule A dataset contains exactly four contributions over the full data window where the contributor name includes "Saban." Two are unrelated (different Saban surnames). Two are Haim Saban specifically:
+    </p>
+
+    <figure class="exhibit" aria-label="Documentary evidence: Haim Saban LA city political contribution history">
+      <div class="exhibit-header">
+        <span class="exhibit-label">Exhibit D · Haim Saban · LA city contribution history</span>
+        <span class="exhibit-source">data.lacity.org/resource/m6g2-gc6c · all Saban-name contributions in the LA City Ethics open-data Schedule A dataset · retrieved May 12, 2026</span>
+      </div>
+      <div class="exhibit-body">
+        <div class="exhibit-title">HAIM SABAN</div>
+        <div class="exhibit-meta">Two attributable contributions by Haim Saban in the LA City Ethics dataset</div>
+        <div class="exhibit-record">
+          <div class="k">Oct 21, 2022</div><div class="v">$10,000 to <strong>"Committee for a Sane LA - Opposing Mejia for City Controller 2022"</strong>, an opposition PAC against progressive City Controller candidate Kenneth Mejia (Mejia won the race anyway). Haim Saban is identified on the filing as Chairman/CEO.</div>
+          <div class="k">May 8, 2026</div><div class="v">$1,800 to <strong>Pratt for Mayor 2026</strong>, the Republican mayoral campaign. Disclosed on FPPC Form 497 Late Contribution Report <a class="cite" href="https://ethics.lacity.gov/viewdoc/142370" target="_blank" rel="noopener">LAETH-142370</a>, filed May 11, 2026.</div>
+          <div class="k">Direct dataset link</div><div class="v"><a class="cite" href="https://data.lacity.org/resource/m6g2-gc6c.csv?%24where=con_name%20like%20%27%25SABAN%25%27" target="_blank" rel="noopener">data.lacity.org · all Saban-name LA city contributions (CSV)</a></div>
+        </div>
+      </div>
+      <figcaption class="exhibit-caption">The two attributable Haim Saban contributions in the LA City Ethics dataset, four years apart. The 2022 contribution was to an anti-progressive opposition PAC. The 2026 contribution is to a Republican mayoral candidate. There is no documented Haim Saban contribution to Karen Bass in any cycle.</figcaption>
+    </figure>
+
+    <p>
+      <strong>The Sabans never directly supported Karen Bass.</strong> Their last documented LA-city political act before the Pratt contribution was a $10,000 contribution from Haim Saban to a 2022 opposition PAC trying to defeat the progressive City Controller candidate. The 2026 Pratt contribution is the next step in a documented rightward trajectory in local LA politics, not a defection from a prior Bass alliance.
+    </p>
+
+    <p>
+      The political-philosophical signal was visible a year earlier at the federal level. In May 2024, after President Biden announced a pause on certain weapons shipments to Israel during the Gaza conflict, Haim Saban sent an email to senior Biden advisers Steve Ricchetti and Anita Dunn opposing the decision. <a class="cite" href="https://deadline.com/2024/05/haim-saban-biden-israel-gaza-1235910447/" target="_blank" rel="noopener">Deadline obtained and reported the email verbatim</a>: <em>"Bad, Bad, Bad, decision, on all levels, Pls reconsider"</em> and <em>"Let's not forget that there are more Jewish voters, who care about Israel, than Muslim voters that care about Hamas."</em> The email was widely understood as a public signal of the most prominent pro-Israel Democratic mega-donor putting the Biden coalition on notice. The 2026 Pratt contribution arrives roughly a year after that public break.
+    </p>
+
+    <p>
+      One small flag from the dataset: a contributor identified only as <strong>Alek Saban</strong> (occupation listed simply as "ALEK SABAN") gave $105.24 to Pratt on April 16, 2026. The relationship between this contributor and Haim or Cheryl Saban is not publicly documented and the donor map does not assert one.
+    </p>
+
+    <p>
+      <strong>So the Saban finding, restated precisely:</strong> Two longtime national Democratic mega-donors who never directly supported Karen Bass in any prior cycle, but whose last documented LA-city political act was a $10,000 contribution to a 2022 opposition PAC against a progressive City Controller candidate, contributed the legal maximum to a Republican Trump-orbit mayoral campaign on May 8, 2026.
+    </p>
+
+    <h2 id="grainges">Sir Lucian and Elliot Grainge</h2>
+
+    <p>
+      The two Grainges are the music-industry parallel, but the political-philosophical story is different from the Sabans. <strong>Sir Lucian Charles Grainge CBE</strong>, Chairman and CEO of Universal Music Group, was awarded the CBE in 2010 and knighted in 2016. UMG owns the recorded catalogs of Drake, Taylor Swift, Lady Gaga, Billie Eilish, and a majority of the global commercial-recording market. His son <strong>Elliot Grainge</strong> founded 10K Projects, sold a majority stake to Warner Music Group for $102 million in late 2023, and was elevated to Chairman and CEO of Atlantic Music Group on October 1, 2024. Elliot married Sofia Richie, daughter of Lionel Richie, on April 22, 2023. Combined Grainge family contribution to Pratt: $3,600.
+    </p>
+
+    <p>
+      The address on the filing (Pacific Palisades 90272) is not incidental. Sir Lucian has been a Palisades resident for over 15 years and his home was directly affected by the January 2025 Palisades fire. In a January 2025 letter to UMG staff he wrote: <em>"As a Pacific Palisades resident for 15 years, I have great empathy for how many of you must feel and how this has disrupted your and your family's lives,"</em> and pledged the company to <em>"helping and supporting the music community, our artists, our teams and the people of Los Angeles get through this horrific episode."</em> UMG canceled its Grammy Week Artist Showcase, postponed a European business summit, displaced more than 50 employees, and committed seven figures in relief funding to MusiCares and the American Red Cross.
+    </p>
+
+    <p>
+      Unlike the Sabans, the Grainges are not a documented historic political-donor family at the LA municipal level. Direct queries against the LA City Ethics Socrata datasets surface no prior contributions from Sir Lucian or Elliot Grainge to Karen Bass, Rick Caruso, Eric Garcetti, or Antonio Villaraigosa in any prior cycle. Sir Lucian's only prior surfaced LA-region political activity is his public support for <strong>California Proposition 28</strong> in 2022, the arts and music education funding initiative. That detail carries a structural cross-tie worth marking: one of the most prominent public co-supporters of Prop 28 was <strong>Austin Beutner</strong>, the former LAUSD Superintendent who is <em>also</em> a candidate in the 2026 LA mayoral race. Sir Lucian's prior civic ally is in the same election, but Sir Lucian's $1,800 contribution went to Spencer Pratt, not to Austin Beutner.
+    </p>
+
+    <p>
+      The Grainge contribution to Pratt is therefore not legible as partisan-realignment money and not legible as continuation of a prior civic alliance. It is legible as fire-displacement money: two Palisades residents (Sir Lucian in 90272; Elliot in 90049 / Brentwood, an area also threatened during the January 2025 evacuation phase) with direct personal experience of the fire response, contributing the legal maximum to the opponent of the incumbent mayor whose fire response is the central campaign issue. Elliot's prior public-facing political activity has been through <strong>10K Together</strong>, the racial-justice and social-equity charitable arm he established at 10K Projects in 2020. The Pratt contribution appears to be Elliot Grainge's first direct municipal candidate contribution on the public record.
+    </p>
+
+    <p>
+      Two further factual anchors on Sir Lucian's professional standing, for the reader who does not follow the music industry: Sir Lucian led UMG's 2021 public listing on Euronext Amsterdam (the IPO that separated UMG from the French media conglomerate Vivendi and established it as a standalone public company). <a class="cite" href="https://www.billboard.com/lists/power-100/2024-billboard-power-100-list/" target="_blank" rel="noopener">Billboard</a> has named him the most powerful person in the music business four separate times and designated him "Executive of the Decade" in 2020.
+    </p>
+
+    <h2 id="sprecher-loeffler">Jeffrey Sprecher and Kelly Loeffler</h2>
+
+    <p>
+      Sprecher's $1,800 contribution is the smallest dollar figure in this deep-dive section and the single largest political signal in the entire investigation. To explain why requires laying out who Sprecher is, who his wife is, and what happened in a federal briefing at LAFD Station 69 ten weeks before Sprecher's contribution to Pratt was disclosed.
+    </p>
+
+    <p>
+      <strong>Jeffrey Sprecher</strong> founded Intercontinental Exchange (ICE) in 2000; ICE acquired the New York Stock Exchange in 2013. He is currently Chairman and CEO of ICE. Forbes estimates his net worth at approximately $1.2 billion. His wife <strong>Kelly Loeffler</strong> was appointed by Georgia Governor Brian Kemp in late 2019 to fill the U.S. Senate seat of the retiring Johnny Isakson; she served in the Senate from January 2020 through January 2021, lost the January 2021 Georgia runoff to Raphael Warnock, and was confirmed by the United States Senate on <strong>February 19, 2025, by a vote of 52 to 46</strong>, as the <strong>28th Administrator of the Small Business Administration</strong> in the second Trump administration. Loeffler is, as of this writing, a sitting member of Donald Trump's Cabinet. She additionally served as Co-Chair of Trump's Second Inaugural Committee alongside Steven Witkoff.
+    </p>
+
+    <p>
+      Loeffler was a senior executive at ICE before her 2020 Senate appointment, including CEO of ICE's digital-asset subsidiary Bakkt. Public reporting from her Senate financial disclosures identified <strong>over $9 million</strong> in financial assets she received from Intercontinental Exchange upon her Senate appointment in 2020. The Sprecher-Loeffler combined household fortune was estimated at approximately $800 million during Loeffler's Senate term and has grown since with the appreciation of ICE shares.
+    </p>
+
+    <p>
+      Sprecher's federal political contribution history surfaced in public reporting and FEC records covers roughly $30 million across the 2016 through 2026 cycles, approximately 97 percent of it directed to Republican Party committees, Trump-aligned super PACs, and Trump-orbit causes:
+    </p>
+
+    <figure class="exhibit" aria-label="Documentary evidence: Jeffrey Sprecher federal political contribution history">
+      <div class="exhibit-header">
+        <span class="exhibit-label">Exhibit E · Jeffrey Sprecher · federal political contribution history 2012–2026</span>
+        <span class="exhibit-source">FEC.gov · named-publication corroboration (Forbes, Issue One, AJC) · retrieved May 12, 2026</span>
+      </div>
+      <div class="exhibit-body">
+        <div class="exhibit-title">JEFFREY SPRECHER · federal political contributions</div>
+        <div class="exhibit-meta">Selected high-value federal contributions on the public record</div>
+        <div class="exhibit-record">
+          <div class="k">May 2012</div><div class="v">$750,000 to <strong>Restore Our Future</strong> (Mitt Romney super PAC)</div>
+          <div class="k">2016 – 2024</div><div class="v">$247,500 (cumulative) to the <strong>National Republican Senatorial Committee</strong></div>
+          <div class="k">May 2020</div><div class="v">$1,000,000 to <strong>America First Action</strong> (Trump super PAC)</div>
+          <div class="k">June 2024</div><div class="v">Approximately $4,900,000 across the <strong>Trump 2024 campaign</strong> and bundled receipts</div>
+          <div class="k">August 2024</div><div class="v">$1,000,000 to the <strong>Republican National Convention</strong> host committee (Milwaukee)</div>
+          <div class="k">June 2025</div><div class="v">$2,500,000 to <strong>MAGA Inc.</strong> (the principal pro-Trump super PAC), contributed approximately three months after Loeffler's Senate confirmation as SBA Administrator</div>
+          <div class="k">May 5, 2026</div><div class="v">$1,800 to <strong>Spencer Pratt for Mayor 2026</strong>, the Republican LA mayoral campaign</div>
+        </div>
+      </div>
+      <figcaption class="exhibit-caption">Sprecher's roughly $30 million of public-record political giving from 2012 through 2026, ~97% directed to Republican Party and Trump-orbit causes. The $1,800 to Pratt is the smallest single contribution on the timeline and the single most structurally telling line item.</figcaption>
+    </figure>
+
+    <p>
+      The structurally telling event is what happened on <strong>March 20, 2025</strong>, at Los Angeles Fire Department Station 69 in Pacific Palisades. President Donald Trump convened a federal briefing on wildfire-recovery efforts, with attendees including FEMA officials, California state and local officials, real-estate developers, and capital-deployment principals. <a class="cite" href="https://www.govinfo.gov/app/details/DCPD-202500177" target="_blank" rel="noopener">The full transcript of the briefing was published in the official Compilation of Presidential Documents (DCPD-202500177)</a>. <strong>Jeffrey Sprecher was identified in the public transcript as an attendee.</strong> During the briefing, Trump publicly named Sprecher as a leader who could help mobilize <em>"the best developers in the country"</em> to rebuild the destroyed sections of Pacific Palisades. Trump separately emphasized a preference for a "National Emergency" model for the rebuild, a deregulatory approach that would bypass standard local municipal permitting in favor of federal-level expediting authority. The political-philosophical signal carried by Sprecher's presence at that briefing is identical to the central campaign argument of Spencer Pratt's mayoral run: that the City of Los Angeles failed at fire response and recovery, and that the rebuild should not be routed through the existing municipal bureaucracy.
+    </p>
+
+    <p>
+      Sprecher and Pratt have one further documented prior overlap. Both appeared on <strong>the same 2024 published list of public endorsers of Donald Trump's 2024 presidential campaign</strong> (the "non-political endorsements" list maintained as a running tally by mainstream encyclopedic and political-press sources through the 2024 cycle). The two were not in close personal or professional contact on the public record; they were, however, in the same publicly-declared political coalition supporting the same presidential candidate.
+    </p>
+
+    <p>
+      <strong>So the Sprecher-Loeffler finding, restated precisely:</strong> The CEO of the company that owns the New York Stock Exchange, husband of the sitting Trump-administration SBA Administrator and Trump 2024 Inaugural Co-Chair, who has personally given approximately $30 million in public-record political contributions over the past decade (~97% Republican), who was publicly named by Donald Trump on March 20, 2025 at a Pacific Palisades fire briefing as a capital-deployment lead for the rebuild, and who appeared with Spencer Pratt on the same 2024 Trump endorsers list, contributed the legal maximum to Spencer Pratt's Republican LA mayoral campaign on May 5, 2026. The dollar figure is small. The signal is not.
+    </p>
+
+    <h2 id="marcianos">The Marciano family · GUESS Jeans</h2>
+
+    <p>
+      Five members of the Marciano family contributed a combined $9,000 to Spencer Pratt on May 5, 2026, with three currently identified on their filings as Guess?, Inc executives or board-adjacent figures (Paul as Chief Creative Director, Nicolai as Chief New Business Development Officer, Ryan as Guest Curator), and the Paul and Mareva Marciano Foundation appearing as the employer identification for Mareva Marciano. This is the largest single-family contribution cluster in the full Pratt late-contribution corpus.
+    </p>
+
+    <p>
+      The Marciano family was historically a Democratic donor cohort. The pivot is dated and federally documented: Mareva Marciano personally contributed <strong>$2,700 to Donald J. Trump for President</strong> in 2016, the individual federal maximum for the primary cycle, and at least <strong>$20,000</strong> to the Republican National Committee that year. The 2026 Pratt contribution is not a one-off; it is the latest installment of a documented decade-long Marciano-family Republican pivot, with the federal-Trump axis as the anchor.
+    </p>
+
+    <p>
+      The corporate-governance backdrop is also material to readers. The Pratt contribution arrives roughly eighteen months after the Delaware-court-supervised <strong>$30 million Employees' Retirement System of Rhode Island v. Marciano settlement</strong> (early 2024), in which Guess?, Inc paid $22 million, insurers contributed $8 million, and <strong>Maurice Marciano was required to resign from the GUESS board</strong> as a structural-independence remedy. The settlement also required the company to establish a Diversity, Equity, and Inclusion committee and a neutral third-party reporting mechanism so that allegations could no longer be routed only through internal Human Resources. The 2018 wave of public allegations against Paul Marciano, beginning with model Kate Upton's account of a 2010 photo shoot, triggered a roughly 18% single-day stock drop and approximately $250 million of market-cap loss. Marciano resigned as Executive Chairman in June 2018 but the GUESS board reinstated his day-to-day responsibilities by January 2019 and continued to award him executive compensation through that period, including a $3.1 million bonus that became a focal point of the stockholder-derivative litigation. Paul Marciano holds the Chief Creative Director title at Guess?, Inc as of the May 5, 2026 contribution filing.
+    </p>
+
+    <p>
+      The Marciano Art Foundation is a separate vehicle. The most recent IRS Form 990 disclosure (2024) reports approximately $39.9 million in total assets, roughly $4.08 million in annual charitable disbursements, and a ten-year disbursement average in the neighborhood of $2.8 million. The Maurice and Paul Marciano Art Foundation has been the family's primary public-facing cultural institution in Los Angeles since the renovation of the Scottish Rite Masonic Temple on Wilshire Boulevard. The foundation is not a campaign-finance vehicle, but its scale establishes the order-of-magnitude difference between the family's philanthropic capacity and the $9,000 Pratt cluster: the Pratt money is a political signal, not a financial reach.
+    </p>
+
+    <a class="back-to-main" href="/spencer-pratt">← Back to the main investigation</a>
+
+  </div>
+</main>
+
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>MAP</em></div>
+  <div class="tagline-footer">Receipts. Not narrative.</div>
+  <a class="footer-cta" href="/spencer-pratt">Read the full investigation</a>
+  <a class="footer-cta" href="/spencer-pratt-receipts">Receipts appendix</a>
+  <a class="footer-cta" href="/">Home</a>
+  <div class="small">thedonormap.org</div>
+</footer>
+
+</body>
+</html>

@@ -29,6 +29,9 @@ http.createServer((req, res) => {
   else if (url === '/the-apparatus' || url === '/beat-the-apparatus' || url === '/beat-the-apparatus.html' || url === '/apparatus' || url === '/steadfast') file = 'beat-the-apparatus.html';
   else if (url === '/cop-coddler' || url === '/beat-cop-coddler' || url === '/beat-cop-coddler.html') file = 'beat-cop-coddler.html';
   else if (url === '/spencer-pratt' || url === '/pratt' || url === '/new-caruso' || url === '/beat-spencer-pratt' || url === '/beat-spencer-pratt.html') file = 'beat-spencer-pratt.html';
+  else if (url === '/beat-spencer-pratt-receipts' || url === '/beat-spencer-pratt-receipts.html' || url === '/pratt-receipts' || url === '/spencer-pratt-receipts') file = 'beat-spencer-pratt-receipts.html';
+  else if (url === '/beat-spencer-pratt-deep-dives' || url === '/beat-spencer-pratt-deep-dives.html' || url === '/pratt-deep-dives' || url === '/spencer-pratt-deep-dives') file = 'beat-spencer-pratt-deep-dives.html';
+  else if (url === '/memes-pratt' || url === '/memes-pratt.html' || url === '/pratt-memes' || url === '/memes-spencer-pratt') file = 'memes-pratt.html';
   else if (url === '/clean-cash' || url === '/beat-clean-cash' || url === '/beat-clean-cash.html') file = 'beat-clean-cash.html';
   else if (url === '/second-floor' || url === '/the-second-floor' || url === '/mission-inn' || url === '/beat-second-floor' || url === '/beat-second-floor.html') file = 'beat-second-floor.html';
   else if (url === '/airbnb-bass' || url === '/wesson-pipeline' || url === '/beat-airbnb-bass' || url === '/beat-airbnb-bass.html') file = 'beat-airbnb-bass.html';

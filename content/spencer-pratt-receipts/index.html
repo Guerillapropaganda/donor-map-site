@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pratt for Mayor 2026 · Full Receipts · The Donor Map</title>
+<meta name="description" content="The full receipts appendix to the Pratt for Mayor 2026 investigation. All six Schedule A and Schedule E donor tables, plus the four Form 497 late-contribution roster expansions, in full row-by-row detail.">
+<meta property="og:site_name" content="The Donor Map">
+<meta property="og:title" content="Pratt for Mayor 2026 · full receipts.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://thedonormap.org/spencer-pratt-receipts/">
+<meta property="og:description" content="Every Schedule A and Schedule E donor table from the Pratt investigation, in full. Six Form 497 late-contribution filings row by row.">
+<meta property="og:image" content="https://thedonormap.org/static/share/spencer-pratt-receipts.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:alt" content="Pratt for Mayor 2026 receipts appendix. The Donor Map.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pratt for Mayor 2026 · full receipts.">
+<meta name="twitter:description" content="Every donor table. Every row. Six Form 497 late-contribution filings.">
+<meta name="twitter:image" content="https://thedonormap.org/static/share/spencer-pratt-receipts.png">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --line-strong: #999;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body {
+  background: var(--cream);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+.nav { border-bottom: 2px solid var(--black); padding: 18px 0; background: var(--cream); position: sticky; top: 0; z-index: 10; }
+.nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; justify-content: space-between; align-items: center; }
+.brand { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; color: var(--black); text-decoration: none; }
+.nav-links { display: flex; gap: 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.nav-links a { color: var(--ink); text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 2px; }
+.nav-links a:hover { border-bottom-color: var(--black); }
+
+.article-header { padding: 56px 32px 40px; border-bottom: 2px solid var(--black); }
+.article-header-inner { max-width: 880px; margin: 0 auto; }
+.breadcrumb { font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; color: var(--muted); text-transform: uppercase; margin-bottom: 24px; }
+.breadcrumb a { color: var(--muted); text-decoration: none; border-bottom: 1px solid transparent; }
+.breadcrumb a:hover { border-bottom-color: var(--muted); }
+.breadcrumb .sep { margin: 0 10px; color: var(--line-strong); }
+
+.beat-meta { display: flex; gap: 16px; align-items: center; margin-bottom: 28px; font-family: 'Space Mono', monospace; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; }
+.beat-meta .tag { background: var(--black); color: var(--cream); padding: 4px 10px; }
+.beat-meta .date { color: var(--muted); }
+
+.article-header h1 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 64px; line-height: 0.98; letter-spacing: -2.5px; margin-bottom: 24px; }
+.article-header h1 .h-red { background: var(--red); color: #fff; padding: 0 10px; }
+.article-header .deck { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 24px; line-height: 1.35; color: var(--ink); border-left: 4px solid var(--black); padding-left: 24px; }
+
+.article-body { padding: 64px 32px; }
+.article-body-inner { max-width: 880px; margin: 0 auto; font-size: 18px; line-height: 1.6; }
+.article-body p { margin-bottom: 22px; }
+.article-body p strong { background: var(--yellow); padding: 0 4px; font-weight: 700; }
+.article-body h2 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 30px; line-height: 1.1; letter-spacing: -0.8px; margin-top: 56px; margin-bottom: 14px; border-top: 2px solid var(--black); padding-top: 28px; }
+
+.toc { margin: 28px 0 40px; border-top: 4px solid var(--black); border-bottom: 4px solid var(--black); padding: 18px 0; font-family: 'Space Mono', monospace; }
+.toc .toc-label { font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; margin-bottom: 12px; }
+.toc ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px 24px; counter-reset: toc-counter; }
+@media (max-width: 700px) { .toc ol { grid-template-columns: 1fr; } }
+.toc li { counter-increment: toc-counter; display: flex; gap: 10px; align-items: baseline; font-size: 14px; line-height: 1.4; padding: 4px 0; border-bottom: 1px dotted var(--line); }
+.toc li::before { content: counter(toc-counter, decimal-leading-zero) "."; font-weight: 700; color: var(--muted); flex-shrink: 0; font-size: 12px; }
+.toc li a { color: var(--ink); text-decoration: none; font-weight: 700; flex: 1; }
+.toc li a:hover { background: var(--yellow); }
+
+.back-to-main { display: inline-block; margin: 12px 0 28px; font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--blue); text-decoration: none; border-bottom: 2px solid var(--blue); padding-bottom: 2px; }
+.back-to-main:hover { background: var(--yellow); }
+
+.back-to-top { display: inline-block; margin: 24px 0 0; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--muted); text-decoration: none; border-bottom: 1px dotted var(--muted); padding-bottom: 1px; }
+.back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
+
+.receipts-block { margin: 36px 0; padding: 32px; background: var(--paper); border: 2px solid var(--black); }
+.receipts-block h3 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 4px; }
+.receipts-block .desc { font-family: 'Space Mono', monospace; font-size: 12px; letter-spacing: 1px; color: var(--muted); margin-bottom: 18px; }
+.receipts-table { width: 100%; border-collapse: collapse; font-family: 'Space Mono', monospace; font-size: 14px; }
+.receipts-table th, .receipts-table td { padding: 10px 0; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.receipts-table th { font-weight: 700; letter-spacing: 1.5px; font-size: 11px; text-transform: uppercase; color: var(--muted); }
+.receipts-table td.num { text-align: right; font-weight: 700; color: var(--red); font-variant-numeric: tabular-nums; }
+.receipts-table tr.total td { border-top: 2px solid var(--black); border-bottom: none; padding-top: 14px; font-weight: 900; font-size: 15px; }
+.receipts-table tr.total td.num { color: var(--black); }
+.receipts-table .donor-name { font-weight: 700; color: var(--ink); }
+.receipts-table .class-tag { font-family: 'Inter', sans-serif; font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); display: block; margin-top: 2px; }
+.unverified-flag { font-family: 'Inter', sans-serif; font-size: 10px; color: var(--red); display: block; margin-top: 2px; }
+
+.beat-footer { padding: 48px 32px; background: var(--black); color: var(--cream); text-align: center; }
+.beat-footer .brand-footer { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; margin-bottom: 8px; }
+.beat-footer .brand-footer em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: #ddd; }
+.beat-footer .tagline-footer { font-family: 'Instrument Serif', serif; font-style: italic; font-size: 16px; color: #aaa; margin-bottom: 24px; }
+.beat-footer .footer-cta { display: inline-block; font-family: 'Space Mono', monospace; font-size: 13px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: var(--cream); text-decoration: none; border: 2px solid var(--cream); padding: 10px 22px; margin: 0 8px; }
+.beat-footer .footer-cta:hover { background: var(--cream); color: var(--black); }
+.beat-footer .small { font-family: 'Space Mono', monospace; font-size: 11px; color: #777; letter-spacing: 1px; margin-top: 32px; }
+
+@media (max-width: 800px) { .article-header h1 { font-size: 38px; letter-spacing: -1.2px; } .article-header .deck { font-size: 19px; } .article-body h2 { font-size: 24px; } .article-body-inner { font-size: 16px; } }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="/" class="brand">THE DONOR MAP</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/investigations">Investigations</a>
+      <a href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+<header class="article-header">
+  <div class="article-header-inner">
+    <div class="breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">›</span>
+      Investigations
+      <span class="sep">›</span>
+      <a href="/spencer-pratt">What $540,000 to Spencer Pratt looks like</a>
+      <span class="sep">›</span>
+      <span>Full receipts</span>
+    </div>
+    <div class="beat-meta">
+      <span class="tag">LA Mayor 2026 · Receipts Appendix</span>
+      <span class="date">Updated May 12, 2026</span>
+    </div>
+    <h1>Pratt for Mayor 2026 · <span class="h-red">full receipts</span>.</h1>
+    <p class="deck">
+      Every donor table and every payee table from the Pratt investigation, in full. The structural findings live in the main beat. This is the raw paperwork: top-25 named donors, out-of-state donors, top-20 payees, the celebrity tier, and the May 2026 Form 497 late-contribution corpus row by row.
+    </p>
+    <a class="back-to-main" href="/spencer-pratt">← Back to the main investigation</a>
+    <nav class="toc" id="top" aria-label="Table of contents">
+      <div class="toc-label">In this appendix</div>
+      <ol>
+        <li><a href="#top-25">Top-25 named donor list (Schedule A)</a></li>
+        <li><a href="#out-of-state">Out-of-state $1,000+ donors</a></li>
+        <li><a href="#payees">Top-20 payees (Schedule E)</a></li>
+        <li><a href="#celebrity-tier">Celebrity / entertainment / music-industry tier (Form 497 LAETH-142370)</a></li>
+        <li><a href="#form497-142108">Form 497 LAETH-142108 (37 contributions, filed May 4)</a></li>
+        <li><a href="#form497-batch">Form 497 LAETH-142183 / 142230 / 142266 / 142326 (123 contributions, filed May 5–8)</a></li>
+      </ol>
+    </nav>
+  </div>
+</header>
+
+<main class="article-body">
+  <div class="article-body-inner">
+
+    <h2 id="top-25">Top-25 named donor list (Schedule A through April 18, 2026)</h2>
+
+    <div class="receipts-block">
+      <h3>The top of Pratt's named donor list (max-out and near-max-out checks)</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION CA FORM 460 SCHEDULE A · COMMITTEE 1485940 · RECORDS THROUGH APRIL 18, 2026</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>Stated occupation / employer</th>
+            <th>City</th>
+            <th class="num">Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Wendy Moniz</span></td><td>Actor · self employed</td><td>Pacific Palisades, CA</td><td class="num">$3,372</td></tr>
+          <tr><td><span class="donor-name">Ted &amp; Michele Waitt</span></td><td>Retired · Gateway Computers founder</td><td>Los Angeles, CA</td><td class="num">$3,600</td></tr>
+          <tr><td><span class="donor-name">Dax Mitchell</span></td><td>Retired</td><td>Dallas, TX</td><td class="num">$2,158</td></tr>
+          <tr><td><span class="donor-name">Eliza Flug</span></td><td>Producer · self employed</td><td>Mercer Island, WA</td><td class="num">$1,983</td></tr>
+          <tr><td><span class="donor-name">Mark &amp; Kelly Ann Holscher</span></td><td>Attorney, Kirkland &amp; Ellis · retired</td><td>Pacific Palisades, CA</td><td class="num">$3,611</td></tr>
+          <tr><td><span class="donor-name">Casey &amp; Catherine Adams</span></td><td>Commercial real estate investor, Excelsior Partners · retired</td><td>Pasadena, CA</td><td class="num">$3,770</td></tr>
+          <tr><td><span class="donor-name">John &amp; Callene Momtazee</span></td><td>Investment banker, Moelis · MD, UCLA</td><td>Beverly Hills, CA</td><td class="num">$3,600</td></tr>
+          <tr><td><span class="donor-name">Michael Meldman</span><br><span class="class-tag">disputed by Discovery Land per Real Deal Apr 28, 2026</span></td><td>Real estate developer, Discovery Land Company</td><td>Scottsdale, AZ</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">David Wolf</span></td><td>Real estate developer, Wolf Residential Development</td><td>Kamas, UT</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Douglas Reinhardt</span><span class="class-tag">Hills-orbit · Lauren Conrad's former boyfriend per LA Times</span></td><td>Real estate developer, ECG</td><td>Laguna Niguel, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Roy Disney</span></td><td>Investor, Shamrock Enterprises (Disney family office)</td><td>Toluca Lake, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Ben Foster</span></td><td>Property management, Ritz Properties Inc</td><td>Los Angeles, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Dean McKillen</span></td><td>Business owner, Laurel Hardware Co</td><td>West Hollywood, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Jeanne Yoon</span></td><td>CEO, Yoonique</td><td>Los Angeles, CA</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Johnny Leon</span><span class="unverified-flag">a student maxing-out warrants review</span></td><td>Student</td><td>Denton, TX</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Kurt Rappaport</span></td><td>Real estate investor, Westside Estate Agency</td><td>Beverly Hills, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Brian Timmons</span></td><td>Attorney, Quinn Emanuel</td><td>Manhattan Beach, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Alexa Kort</span></td><td>Real estate agent, The Beverly Hills Estates</td><td>Beverly Hills, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Chris Hinkson</span></td><td>Commercial real estate, The Hinkson Company</td><td>Phoenix, AZ</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Rick Salomon</span></td><td>Entrepreneur · self employed</td><td>Las Vegas, NV</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Chanel Malin</span></td><td>Business owner / retailer, Palisades Gift Shop</td><td>Santa Monica, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Christoph Tribull</span></td><td>Investments, Tribull Investment LLC</td><td>Beverly Hills, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Steve Bardack</span></td><td>Real estate development, Strata Capital</td><td>Los Angeles, CA</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Andrew Bachman</span></td><td>Media, Creators Inc</td><td>Monmouth Beach, NJ</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Matthew Hesse</span></td><td>Retired</td><td>Bentonville, AR</td><td class="num">$1,800</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <a class="back-to-top" href="#top">↑ Back to top</a>
+
+    <h2 id="out-of-state">Out-of-state $1,000+ donors</h2>
+
+    <div class="receipts-block">
+      <h3>Out-of-state high dollar donors ($1,000+)</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION · NAMED INDIVIDUAL DONORS WITH NON-CALIFORNIA ADDRESSES</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>City, state</th>
+            <th>Stated employer</th>
+            <th class="num">Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Dax Mitchell</span></td><td>Dallas, TX</td><td>Retired</td><td class="num">$2,158</td></tr>
+          <tr><td><span class="donor-name">Eliza Flug</span></td><td>Mercer Island, WA</td><td>Producer · self employed</td><td class="num">$1,983</td></tr>
+          <tr><td><span class="donor-name">Johnny Leon</span></td><td>Denton, TX</td><td>Student</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">David Wolf</span></td><td>Kamas, UT</td><td>Wolf Residential Development</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Michael Meldman</span></td><td>Scottsdale, AZ</td><td>Discovery Land Company</td><td class="num">$1,885</td></tr>
+          <tr><td><span class="donor-name">Matthew Hesse</span></td><td>Bentonville, AR</td><td>Retired</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Chris Hinkson</span></td><td>Phoenix, AZ</td><td>The Hinkson Company</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Andrew Bachman</span></td><td>Monmouth Beach, NJ</td><td>Creators Inc</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Rick Salomon</span></td><td>Las Vegas, NV</td><td>Entrepreneur · self employed</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">James Macek</span></td><td>Castle Pines, CO</td><td>Calalu LLC</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Komos Tequila</span><span class="class-tag">corporate named in-kind</span></td><td>New York, NY</td><td>Beverage company</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Alistair Belton</span></td><td>Austin, TX</td><td>Self-employed</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Laura Seidensticker</span></td><td>Lake Forest, IL</td><td>Retired</td><td class="num">$1,800</td></tr>
+          <tr><td><span class="donor-name">Rhian Meintjes</span></td><td>Austin, TX</td><td>Retired</td><td class="num">$1,605</td></tr>
+          <tr><td><span class="donor-name">Tisa McCay</span></td><td>Henderson, NV</td><td>Retired</td><td class="num">$1,571</td></tr>
+          <tr><td><span class="donor-name">Jonathan Marcus</span></td><td>North Miami Beach, FL</td><td>Unemployed</td><td class="num">$1,500</td></tr>
+          <tr><td><span class="donor-name">James Maher</span></td><td>Little Chute, WI</td><td>Retired</td><td class="num">$1,259</td></tr>
+          <tr><td><span class="donor-name">Alexandra Evers</span><span class="class-tag">also on campaign payroll · $2,732 in salary</span></td><td>Sewickley, PA</td><td>(employer not listed)</td><td class="num">$1,138</td></tr>
+          <tr><td><span class="donor-name">Donald Paxton</span></td><td>Sarasota, FL</td><td>Retired</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Emery Wells</span></td><td>New York, NY</td><td>Kivu Ventures</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Natalie Schwan</span></td><td>Paradise Valley, AZ</td><td>Self-employed</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Kate Banks</span></td><td>Nashville, TN</td><td>Ferrell Capital</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Rusol Yasin</span></td><td>Miami, FL</td><td>Rusol and Company</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Sarah Ferguson</span></td><td>Stilwell, KS</td><td>Retired</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Patrice Barth</span></td><td>Las Vegas, NV</td><td>Retired</td><td class="num">$1,048</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <a class="back-to-top" href="#top">↑ Back to top</a>
+
+    <h2 id="payees">Top-20 payees (Schedule E)</h2>
+
+    <div class="receipts-block">
+      <h3>Where Pratt's money went: top 20 payees on Schedule E</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS COMMISSION CA FORM 460 SCHEDULE E · COMMITTEE 26519 (LA ETHICS INTERNAL ID) / 1485940 (FPPC) · RECORDS THROUGH APRIL 18, 2026</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Payee</th>
+            <th>What for</th>
+            <th class="num">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Highland Political LLC</span><span class="class-tag">administratively dissolved by TN April 2023 · founder June Cutter (CA GOP)</span></td><td>Fundraising-event services and travel reimbursement (11 transactions)</td><td class="num">$63,893</td></tr>
+          <tr><td><span class="donor-name">Tag Strategies</span></td><td>Campaign consulting</td><td class="num">$25,850</td></tr>
+          <tr><td><span class="donor-name">Newport Bleach</span><span class="class-tag">Tyler Nichols · five year Pratt family vendor</span></td><td>Campaign paraphernalia / merchandise (3 transactions)</td><td class="num">$24,050</td></tr>
+          <tr><td><span class="donor-name">eFundraising Connections</span></td><td>Online fundraising platform fees</td><td class="num">$23,847</td></tr>
+          <tr><td><span class="donor-name">American Express</span></td><td>Credit card / vendor payments</td><td class="num">$17,217</td></tr>
+          <tr><td><span class="donor-name">Airbnb</span></td><td>Lodging / event venue</td><td class="num">$10,106</td></tr>
+          <tr><td><span class="donor-name">Gabriel Mann</span></td><td>Campaign worker salary</td><td class="num">$10,000</td></tr>
+          <tr><td><span class="donor-name">Illuminate Marketing and Consulting LLC</span></td><td>Marketing / consulting</td><td class="num">$9,571</td></tr>
+          <tr><td><span class="donor-name">Graphico Design Group Inc</span></td><td>Design services</td><td class="num">$8,186</td></tr>
+          <tr><td><span class="donor-name">Don Antonio's</span></td><td>Restaurant / event catering</td><td class="num">$7,923</td></tr>
+          <tr><td><span class="donor-name">Revv</span></td><td>Online fundraising platform</td><td class="num">$7,723</td></tr>
+          <tr><td><span class="donor-name">Briana Bilbray</span></td><td>Campaign worker salary</td><td class="num">$6,500</td></tr>
+          <tr><td><span class="donor-name">Alan Pellacani</span></td><td>Campaign worker salary</td><td class="num">$6,420</td></tr>
+          <tr><td><span class="donor-name">Lucky Enterprises</span></td><td>Vendor</td><td class="num">$6,000</td></tr>
+          <tr><td><span class="donor-name">Blitz Strategic Communications</span></td><td>Communications consulting</td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Emily Blair Media</span></td><td>Media consulting</td><td class="num">$5,000</td></tr>
+          <tr><td><span class="donor-name">Mackenzie Stith</span></td><td>Campaign worker salary</td><td class="num">$4,904</td></tr>
+          <tr><td><span class="donor-name">Pluvious Group LLC</span><span class="class-tag">primary fundraiser organizer · Trey Kozacik</span></td><td>Fundraising consulting</td><td class="num">$4,082</td></tr>
+          <tr><td><span class="donor-name">US Treasury</span></td><td>Federal taxes (campaign-worker payroll)</td><td class="num">$4,000</td></tr>
+          <tr><td><span class="donor-name">Nana's Kitchen</span></td><td>Restaurant / event catering</td><td class="num">$3,848</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <a class="back-to-top" href="#top">↑ Back to top</a>
+
+    <h2 id="celebrity-tier">Celebrity / entertainment / music-industry tier (Form 497 LAETH-142370)</h2>
+
+    <div class="receipts-block">
+      <h3>The celebrity / entertainment / music-industry donor tier</h3>
+      <p class="desc">SOURCE: LA CITY ETHICS SCHEDULE A + FPPC FORM 497 LAETH-142370 (FILED MAY 11, 2026) · NBC LOS ANGELES "STARS DIVIDED OVER LA MAYOR'S RACE" · FOX 11 LA · TMZ · HOLLYWOOD REPORTER · LA TIMES "BIG-NAME DONORS IN MAYORAL RACE" · FOX NEWS · MULTIPLE NAMED PUBLICATIONS</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>Industry / role</th>
+            <th>Date</th>
+            <th class="num">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Haim Saban</span><span class="class-tag">historic Democratic mega-donor · Power Rangers / Univision / Saban Capital Group · $3B+ net worth · longtime Clinton + Obama + DNC funder</span></td><td>Chairman/CEO, Saban Capital Group</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Cheryl Saban</span><span class="class-tag">Haim Saban's wife · philanthropist · historic Democratic donor</span></td><td>Entrepreneur, self-employed</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sir Lucian Grainge CBE</span><span class="class-tag">Chairman/CEO of Universal Music Group, the world's largest music company · CBE 2010 · Knighted 2016 · Pacific Palisades resident of 15+ years · home affected by January 2025 fire</span></td><td>Chairman/CEO, Universal Music Group</td><td>May 9, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Elliot Grainge</span><span class="class-tag">Sir Lucian's son · founded 10K Projects, sold majority stake to Warner Music Group for $102M in late 2023 · appointed Chairman/CEO of Atlantic Music Group October 1, 2024 · married Sofia Richie (Lionel Richie's daughter) April 22, 2023</span></td><td>Chairman/CEO, Atlantic Music Group</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Bill Guthy</span><span class="class-tag">Guthy-Renker co-founder · direct-response TV billionaire (Proactiv)</span></td><td>Executive Chairman</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Victoria Jackson Guthy</span><span class="class-tag">Guthy family next generation</span></td><td>CEO, M.U.Y.L.</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Greg Renker</span><span class="class-tag">Bill Guthy's Guthy-Renker co-founding business partner</span></td><td>Business Owner, Guthy-Renker · Indian Wells</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Jeanie Buss</span><span class="class-tag">Lakers governor · daughter of Jerry Buss · longtime LA business figure</span></td><td>Los Angeles Lakers controlling owner / governor</td><td>April 25, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Marc Merrill</span><span class="class-tag">Riot Games co-founder · billionaire ($2B+)</span></td><td>CPO, Riot Games (League of Legends publisher)</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sherri Crichton</span><span class="class-tag">widow of novelist Michael Crichton · runs CrichtonSun LLC and the Michael Crichton Archive · two transactions totaling $3,600</span></td><td>Producer, Passion Projects · Santa Monica</td><td>May 10, 2026</td><td class="num">$3,600</td></tr>
+          <tr><td><span class="donor-name">Rodger Berman</span><span class="class-tag">husband of Rachel Zoe</span></td><td>CEO, Rachel Zoe Inc</td><td>May 10, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">John Terzian</span><span class="class-tag">co-founder of LA's dominant celebrity-nightlife empire (Delilah, Bootsy Bellows, Hooray Henry's)</span></td><td>CEO, The H.Wood Group · Calabasas</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sandra Rebish</span><span class="class-tag">known publicly as Dr. Sandra Lee, aka "Dr. Pimple Popper" · TLC + YouTube celebrity</span></td><td>Physician and public figure, Dr. Pimple Popper &amp; SkinPS Brands</td><td>May 9, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Tracey Cunningham</span><span class="class-tag">celebrity colorist (clients include Beyoncé, the Kardashians, J. Lo)</span></td><td>Colorist, Meche · Beverly Hills</td><td>May 10, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Veronica Grazer</span><span class="class-tag">consistent with the wife of Hollywood producer Brian Grazer (Imagine Entertainment, Ron Howard's longtime producing partner; identity not independently confirmed in this beat)</span></td><td>Founder, Reel Genius · LA 90067</td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Penelope Ann Miller</span></td><td>Actor · Penelope Productions · Santa Monica · prior credits include <em>The Artist</em>, <em>Carlito's Way</em></td><td>May 8, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Katharine McPhee</span></td><td>Singer · actress · former American Idol runner-up</td><td>March 10 + April 13, 2026 (two transactions)</td><td class="num">$1,024</td></tr>
+          <tr><td><span class="donor-name">Jeff Jenkins</span></td><td>Reality television producer · prior credits include <em>The Simple Life</em>, <em>Keeping Up with the Kardashians</em>, and <em>The Secret Lives of Mormon Wives</em></td><td>April 17, 2026</td><td class="num">$1,048</td></tr>
+          <tr><td><span class="donor-name">Rick Salomon</span></td><td>Entrepreneur · professional poker player · longtime celebrity-orbit figure</td><td>March 9, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Charles Pacheco</span><span class="class-tag">aka Chuck Pacheco · Hollywood Reporter dateline · sourced to LA Times "Big-Name Donors in Mayoral Race"</span></td><td>Producer · LBI Entertainment, Beverly Hills · producer credit on <em>My Sister's Keeper</em> (2009)</td><td>post-April 18, 2026 (Form 497)</td><td class="num">amount not disclosed</td></tr>
+          <tr><td><span class="donor-name">Val Blavatnik</span><span class="class-tag">New York NY 10065 · consistent with the Blavatnik family · the donor's identifying information matches the surname of Sir Len Blavatnik (Warner Music Group owner, $30B+ net worth); the precise family relationship is not independently confirmed in this beat</span></td><td>Retired</td><td>May 9, 2026</td><td class="num">$1,800 (max)</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <a class="back-to-top" href="#top">↑ Back to top</a>
+
+    <h2 id="form497-142108">Form 497 LAETH-142108 · 37 contributions filed May 4, 2026</h2>
+
+    <div class="receipts-block">
+      <h3>Second Form 497 (LAETH-142108) · 37 contributions filed May 4, 2026 · covering March 30 through May 3, 2026</h3>
+      <p class="desc">SOURCE: FPPC FORM 497 LAETH-142108 · FILED BY PRATT FOR MAYOR 2026 COMMITTEE 1485940 · MAY 4, 2026 · 37 CONTRIBUTIONS</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>Identification on filing</th>
+            <th>Date</th>
+            <th class="num">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Brett Ratner</span><span class="class-tag">film director and producer · founded RatPac Entertainment with James Packer · stepped back from Hollywood production after the 2017 sexual-misconduct allegations reported in the LA Times and elsewhere · three transactions totaling $1,076.96</span></td><td>Film Director, RatPac Entertainment · Encino 91436</td><td>Mar 30 + Apr 21 + May 3, 2026</td><td class="num">$1,076.96</td></tr>
+          <tr><td><span class="donor-name">James Siminoff</span><span class="class-tag">founder of Ring (the doorbell-camera company) · sold Ring to Amazon for an estimated $1B in 2018 · listed on filing as INVENTOR / AMAZON</span></td><td>Inventor, Amazon · Hawthorne 90250</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Chris DeWolfe</span><span class="class-tag">co-founder of MySpace (the dominant pre-Facebook social network) · later founded Reach Labs</span></td><td>CEO, Reach Labs · Beverly Hills 90210</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Lewis Wolff</span><span class="class-tag">former majority owner of the Oakland Athletics MLB franchise · longtime LA real-estate developer (Wolff Urban Management)</span></td><td>CEO, Wolff Urban Management · LA 90025</td><td>May 1, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Steven Baker</span><span class="class-tag">listed on filing as ENGINEER / ALPHABET · Alphabet is Google's parent company</span></td><td>Engineer, Alphabet · Palo Alto 94306</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Ivan VanOrtwick</span><span class="class-tag">listed on filing as BUSINESS OWNER / ATHENA AG · Athena Ag operates in the California cannabis-cultivation supply chain</span></td><td>Business Owner, Athena Ag · Huntington Beach 92649</td><td>May 1, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Carolyn VanOrtwick</span><span class="class-tag">listed on filing as BUSINESS OWNER / JUNGLE BOYS CLOTHING · Jungle Boys is an LA-area cannabis-brand and dispensary family of operations</span></td><td>Business Owner, Jungle Boys Clothing · Huntington Beach 92649</td><td>May 1, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Barak Diskin</span></td><td>Investor, Moraga LLC · LA 90049</td><td>May 2, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Miriam Diskin</span></td><td>Retired · LA 90049</td><td>May 2, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Noel Hyun Minor</span></td><td>Lawyer, The Brooklyn Companies · LA 90041</td><td>May 2, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sky Minor</span></td><td>Real Estate Broker · LA 90041</td><td>May 2, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Matthew George</span></td><td>Film Producer, Savvy Media Holdings · Scottsdale AZ 85258</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Savannah George</span></td><td>Homemaker · Scottsdale AZ 85258</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Chad Tons</span></td><td>Marketing, Infinity Marketing Team · Culver City 90232</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sydney Tons</span></td><td>Homemaker · Culver City 90232</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Jared Newman</span></td><td>Engineer, Lumaril · Manhattan Beach 90266</td><td>May 1, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sam Hakim</span></td><td>CEO, Casa Ventures · Beverly Hills 90210</td><td>May 1, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Tracy Stuart</span><span class="class-tag">Corbin Capital is a New York-area alternative-investment hedge fund</span></td><td>Investments, Corbin Capital · Fairfield CT 06824</td><td>May 1, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Jeffrey Neu</span></td><td>Real Estate Executive, Operations WC Inc · Kearny NJ 07032</td><td>May 2, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Lisa Firestone</span></td><td>Retired · Santa Monica 90405</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Hilary Lindahl</span></td><td>Homemaker · Beverly Hills 90210</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Victoria Orlin</span></td><td>Retired · Pacific Palisades 90272</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Chris Irwin</span></td><td>Physician, Fortis Anesthesia Associates PLLC · Dallas TX 75209</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Thomas Manzo</span></td><td>Court Clerk, State of New York · Rockville Centre NY 11570</td><td>May 3, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Hayley Sullivan</span></td><td>CEO, The Styled By Collective · Brookhaven GA 30319</td><td>May 3, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Serge Lokot</span></td><td>Oral Surgeon, West Valley Oral Surgery · Encino 91316 · two transactions totaling $1,100</td><td>Apr 15 + May 2, 2026</td><td class="num">$1,100</td></tr>
+          <tr><td><span class="donor-name">Scott McCarter</span></td><td>Real Estate Investor, Redwood Urban Inc · Dana Point 92629 · three transactions totaling $1,802.88</td><td>Mar 30 + Apr 16 + May 1, 2026</td><td class="num">$1,802.88</td></tr>
+          <tr><td><span class="donor-name">Yuval Kremer</span></td><td>Educator, self-employed · LA 90048 · three transactions totaling $1,784</td><td>Apr 25 + May 1, 2026</td><td class="num">$1,784</td></tr>
+          <tr><td><span class="donor-name">Jon Love</span></td><td>Retired · Mill Valley 94941</td><td>May 1, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Richard Mozenter</span></td><td>CPA, Focus/Gelfand · LA 90067</td><td>May 1, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Lee Anne Sanderson</span></td><td>Retired · LA 90067</td><td>May 1, 2026</td><td class="num">$1,000</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <a class="back-to-top" href="#top">↑ Back to top</a>
+
+    <h2 id="form497-batch">Form 497 LAETH-142183 / 142230 / 142266 / 142326 (123 contributions, filed May 5–8)</h2>
+
+    <div class="receipts-block">
+      <h3>Headline-tier names from the May 5–8 filings (LAETH-142183, 142230, 142266, 142326)</h3>
+      <p class="desc">SOURCE: FPPC FORM 497 LAETH-142183, 142230, 142266, 142326 · FILED BY PRATT FOR MAYOR 2026 COMMITTEE 1485940 · MAY 5 THROUGH MAY 8, 2026 · 123 CONTRIBUTIONS COMBINED</p>
+      <table class="receipts-table">
+        <thead>
+          <tr>
+            <th>Donor</th>
+            <th>Identification on filing</th>
+            <th>Date</th>
+            <th class="num">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="donor-name">Jeffrey Sprecher</span><span class="class-tag">Founder, Chairman, and CEO of Intercontinental Exchange (ICE), the company that owns the New York Stock Exchange · husband of former U.S. Senator Kelly Loeffler (R-GA), Trump-appointed senator 2020–2021 · sitting Trump-administration SBA Administrator as of February 2025 · listed on filing at Atlanta GA 30328</span></td><td>CEO, Intercontinental Exchange Inc</td><td>May 5, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sean Rad</span><span class="class-tag">co-founder and former CEO of Tinder · later founded Rad Fund LLC · $15,495 to WinRed in 2024 cycle (FEC cross-reference)</span></td><td>CEO, Rad Fund LLC · West Hollywood 90069</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Mark Pincus</span><span class="class-tag">founder and former CEO of Zynga (FarmVille, Words with Friends) · billionaire · co-founded social-network Tribe.net and was an early investor in Facebook · $1,000,000 to Priorities USA Action (Obama 2012 super PAC) per FEC records</span></td><td>Retired · San Francisco 94118</td><td>May 5, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">David Foster</span><span class="class-tag">16-time Grammy-winning music producer · former Chairman of Verve Records · longtime Atlantic Records executive · $47,500 in historical Democratic federal contributions per FEC records</span></td><td>Retired · LA 90024</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Sara Foster</span><span class="class-tag">actress and podcast host · daughter of David Foster · married to former tennis pro Tommy Haas</span></td><td>Homemaker · LA 90067</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Jon Alagem</span><span class="class-tag">Alagem family · the family that owns the Beverly Hilton and the adjacent Waldorf Astoria Beverly Hills · Pacific Palisades 90272 resident</span></td><td>Manufacturing, Harper+Scott · Pacific Palisades 90272</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Anita Ko</span><span class="class-tag">founder of Anita Ko Jewelry, the celebrity fine-jewelry brand · documented clients include Beyoncé, the Kardashians, Jennifer Lopez, Rihanna, Gwyneth Paltrow</span></td><td>Business Owner, Anita Ko Inc · LA 90046</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Steve Lockton</span><span class="class-tag">Lockton family · Lockton Companies is the world's largest privately-held independent insurance broker · $11,200 directly to Trump Victory in 2020 cycle (FEC cross-reference)</span></td><td>Retired · Englewood CO 80113</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">John Shahidi</span><span class="class-tag">President of Happy Dad Hard Seltzer · Happy Dad is the hard-seltzer brand of the Nelk Boys (Kyle Forgeard, Steve Will Do It), the YouTube/Full Send media empire that hosted Donald Trump during the 2024 campaign cycle and is one of the dominant MAGA-adjacent culture-brand operations</span></td><td>President, Happy Dad · Santa Ana 92704</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Justin Gimelstob</span><span class="class-tag">former professional tennis player · former Tennis Channel analyst · pled no contest in 2019 to a misdemeanor battery charge from a 2018 Halloween incident in Los Angeles; resigned from the ATP Player Council that year</span></td><td>Talent Manager, JJG Rhino LLC · LA 90049</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Rebecca McIntire</span><span class="class-tag">listed on filing as DETECTIVE / LAPD · the only Los Angeles Police Department employee in the late-contribution corpus reviewed for this beat</span></td><td>Detective, LAPD · LA 90012</td><td>May 7, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Jonathan Schley</span><span class="class-tag">Newmark is a global commercial real-estate services firm</span></td><td>Real Estate, Newmark · LA 90046</td><td>May 6, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Katie Schley</span><span class="class-tag">Frame Brand is the LA-based premium denim and lifestyle apparel company</span></td><td>Head of Global Visuals, Frame Brand · LA 90046</td><td>May 6, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Jake Zacuto</span></td><td>Commercial Real Estate Broker, Zacuto Group · LA 90049</td><td>May 6, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Michael Cusumano</span><span class="class-tag">Cusumano Real Estate Group is a Malibu-based commercial real-estate operation</span></td><td>Real Estate Executive, Cusumano Real Estate Group · Malibu 90265</td><td>May 5, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Jack Harris</span><span class="class-tag">sixth named Beverly Hills Estates affiliate in the donor file</span></td><td>Realtor, Beverly Hills Estates · Beverly Hills 90210</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Jon Perlow</span></td><td>Software Engineer, Nextdoor · San Francisco 94102</td><td>May 5, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Steve O'Brien</span></td><td>Attorney, AutoFi Inc · Los Altos 94024</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Timothy Sehn</span></td><td>CEO, DoltHub Inc · Santa Monica 90401</td><td>May 5, 2026</td><td class="num">$1,000</td></tr>
+          <tr><td><span class="donor-name">Erick Miller</span></td><td>Founder/Managing Director, Hyperspeed Ventures LLC · LA 90013</td><td>May 7, 2026</td><td class="num">$1,799</td></tr>
+          <tr><td><span class="donor-name">Colleen Hart</span><span class="class-tag">Proskauer Rose is a major global law firm</span></td><td>Attorney, Proskauer Rose · LA 90067 · two transactions totaling $1,150</td><td>Mar 15 + May 6, 2026</td><td class="num">$1,150</td></tr>
+          <tr><td><span class="donor-name">Ryan Minium</span></td><td>Electrician, Sunset Electric · Pacific Palisades 90272</td><td>May 6, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Maggie Nemser</span></td><td>Writer, self-employed · Venice 90291</td><td>May 6, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Levi Stockton</span><span class="class-tag">Advanced Air is a private aviation operator</span></td><td>Business Owner, Advanced Air · Hawthorne 90250</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">William Tooley</span></td><td>Producer, Tooley Entertainment · Santa Monica 90404</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Alexa Abdi</span></td><td>Jewelry Designer, LaLa Lexa Inc · Beverly Hills 90212</td><td>May 4, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Greer Colton</span></td><td>Real Estate, Thirty Three Group · Santa Monica 90404</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Heidi Engerman</span></td><td>Actor, Grace in Motion · LA 90024</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Susan Groff</span></td><td>Retired · LA 91324</td><td>May 5, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Jonathan Dash</span></td><td>Investments, Dash Investments · Woodland Hills 91367</td><td>May 5, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Larry + Paulette Cohen</span></td><td>Both retired · LA 90024 · $1,500 each, $3,000 combined</td><td>May 5, 2026</td><td class="num">$3,000</td></tr>
+          <tr><td><span class="donor-name">Vito Antoci</span></td><td>Business Owner, VA Consult · Vernon 90058</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Vern Samuels</span></td><td>Business Owner, Omni Corporation · Playa Vista 90094</td><td>May 5, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Tobe Morrow</span></td><td>Interior Designer, Morrow&amp;Co · Manhattan Beach 90266</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+          <tr><td><span class="donor-name">Karine Joret</span></td><td>Retired · LA 90049</td><td>May 7, 2026</td><td class="num">$1,800 (max)</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <a class="back-to-main" href="/spencer-pratt">← Back to the main investigation</a>
+
+  </div>
+</main>
+
+<footer class="beat-footer">
+  <div class="brand-footer">THE DONOR <em>MAP</em></div>
+  <div class="tagline-footer">Receipts. Not narrative.</div>
+  <a class="footer-cta" href="/spencer-pratt">Read the full investigation</a>
+  <a class="footer-cta" href="/">Home</a>
+  <div class="small">thedonormap.org</div>
+</footer>
+
+</body>
+</html>
