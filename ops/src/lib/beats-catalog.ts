@@ -2526,10 +2526,10 @@ const BEATS_NEW: BeatRecord[] = [
       {
         id: "spencer-pratt-highland-political-llc",
         beat: "spencer-pratt",
-        label: "URL pass: Highland Political LLC (Pratt's largest payee)",
-        detail: "Verify $63,893 across 11 transactions paid by Pratt for Mayor 2026 to 'Highland Political LLC' for 'Fundraising Events' services + travel reimbursement. Verify Tennessee Secretary of State business search returns no result for 'Highland Political' (stated TN address per LinkedIn). Verify highlandpolitical.com does not resolve in DNS. Verify FEC committee-expenditure database returns zero other clients for Highland Political LLC.",
+        label: "URL pass: Highland Political LLC · TN dissolved entity + FEC client history + June Cutter",
+        detail: "VERIFY: Highland Political LLC is a TN LLC (Control No. 001233345, formed Aug 27 2021), administratively dissolved April 1 2023 for failing to file 2023 Annual Report. 143 FEC disbursement records totaling $505,005 since 2009, predominantly CA Republican congressional campaigns (Maryott $173,925, Wells $133,090, Wilkinson $42,906, Fong, Kim, Steel, CA Republican Party Federal Account). Founder publicly attributed to June Cutter, CA Republican attorney + 2020 + 2022 CA Assembly candidate + current Executive Director of America First California. Firm operating through 2023-2024 ($226K federal payments) while dissolved. Address 555 Church St Apt 1902 Nashville TN (residential apartment). Self-registered as own agent. Domain highlandpolitical.com does not resolve. Pratt campaign paid the dissolved entity $63,893 across 11 transactions in 2026 cycle.",
         lane: "Editor",
-        url: "https://tncab.tnsos.gov/business-entity-search?name=Highland+Political",
+        url: "https://tncab.tnsos.gov/business-entity-search",
       },
       {
         id: "spencer-pratt-newport-bleach-vendor",
