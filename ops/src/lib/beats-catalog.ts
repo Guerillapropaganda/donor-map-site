@@ -2471,9 +2471,9 @@ const BEATS_NEW: BeatRecord[] = [
         id: "spencer-pratt-committee-1485940",
         beat: "spencer-pratt",
         label: "URL pass: LA City Ethics · Pratt for Mayor 2026 (committee 1485940)",
-        detail: "THE SPINE COMMITTEE. Verify total raised $539,617 / 1,634 contributions / $131,251 unitemized small dollar through April 18 2026 via LA Ethics Commission committees hub. Also the underlying open-data dataset at data.lacity.org/d/m6g2-gc6c. Verify Schedule A donor list, top 25 itemized donors, and Schedule E payee list (248 expenditures totaling $282,362, internal cmt_id 26519 in expenditures dataset 5mrt-4zhe).",
+        detail: "THE SPINE COMMITTEE. Deep-link URL filters the open-data campaign-contributions dataset (Socrata m6g2-gc6c) to only FPPC 1485940 records. Verify total raised $539,617 / 1,634 contributions / $131,251 unitemized small dollar through April 18 2026. Schedule E payees deep-link: https://data.lacity.org/d/5mrt-4zhe/explore/query/%24where%3Dcmt_id%3D%2226519%22 (internal cmt_id 26519, 248 expenditures totaling $282,362).",
         lane: "Editor",
-        url: "https://ethics.lacity.gov/committees/",
+        url: "https://data.lacity.org/d/m6g2-gc6c/explore/query/%24where%3Dcmt_id%3D%221485940%22",
       },
       {
         id: "spencer-pratt-schedule-c-komos",
@@ -2495,9 +2495,9 @@ const BEATS_NEW: BeatRecord[] = [
         id: "spencer-pratt-caruso-cross-reference",
         beat: "spencer-pratt",
         label: "URL pass: LA City Ethics · Caruso 2022 mayoral committee cross-reference",
-        detail: "Verify the five-donor overlap between Pratt 2026 and Caruso 2022: Roy Disney (Shamrock Enterprises), Michael Schwab (Big Sky Partners), Loren Booth (Booth Ranches), Michael Meldman (Discovery Land Company), Ted & Michele Waitt (Gateway Computers founder). Confirm each appears on Caruso for Mayor 2022 (FPPC committee 1453569 or successor) Schedule A. Combined dollars from these donors to Pratt for Mayor 2026: $10,970. Use ethics.lacity.gov committees search or query the open-data dataset directly at data.lacity.org/d/m6g2-gc6c.",
+        detail: "Deep-link URL filters the open-data campaign-contributions dataset to only Caruso records. Verify the five-donor overlap between Pratt 2026 and Caruso 2022: Roy Disney (Shamrock Enterprises), Michael Schwab (Big Sky Partners), Loren Booth (Booth Ranches), Michael Meldman (Discovery Land Company), Ted & Michele Waitt (Gateway Computers founder). Confirm each appears on Caruso for Mayor 2022 Schedule A. Combined dollars from these donors to Pratt for Mayor 2026: $10,970.",
         lane: "Editor",
-        url: "https://ethics.lacity.gov/committees/",
+        url: "https://data.lacity.org/d/m6g2-gc6c/explore/query/%24where%3Dcand_name%20like%20%27%25CARUSO%25%27",
       },
       {
         id: "spencer-pratt-meldman-dispute",
