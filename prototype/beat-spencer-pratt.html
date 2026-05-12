@@ -292,6 +292,102 @@ html, body {
 }
 .back-to-top:hover { color: var(--black); border-bottom-color: var(--black); }
 
+.exhibit {
+  border: 3px solid var(--black);
+  margin: 32px 0;
+  background: #fff;
+}
+.exhibit-header {
+  background: var(--black);
+  color: #fff;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.exhibit-header .exhibit-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--yellow);
+}
+.exhibit-header .exhibit-source {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: #999;
+}
+.exhibit-body {
+  padding: 24px 24px 28px;
+}
+.exhibit-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 22px;
+  letter-spacing: -0.5px;
+  margin: 0 0 6px;
+  text-transform: uppercase;
+  color: var(--black);
+}
+.exhibit-meta {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.exhibit-record {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  border-top: 2px solid var(--black);
+  border-left: 2px solid var(--black);
+  font-size: 14px;
+}
+.exhibit-record > div {
+  border-right: 2px solid var(--black);
+  border-bottom: 2px solid var(--black);
+  padding: 10px 14px;
+  background: var(--paper);
+}
+.exhibit-record > div.k {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--muted);
+  background: #fff;
+}
+.exhibit-record > div.v strong { font-weight: 900; }
+.exhibit-record > div.v .status-pill {
+  display: inline-block;
+  background: var(--red);
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  margin-right: 6px;
+}
+.exhibit-caption {
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-size: 14px;
+  color: var(--muted);
+  padding: 12px 24px 4px;
+  border-top: 1px solid var(--line);
+  background: var(--cream);
+}
+@media (max-width: 720px) {
+  .exhibit-record { grid-template-columns: 1fr; }
+  .exhibit-record > div.k { border-bottom: 0; }
+}
+
 .finding-cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1145,6 +1241,60 @@ html, body {
     <p>
       A vendor that has been administratively dissolved by its state of registration for more than two years, operates from a residential apartment, lists itself as its own registered agent, maintains no public web presence, and continues to receive five- and six-figure payments from federal and municipal political campaigns is unusual on its face. The legal characterization of any specific transaction is for the LA Ethics Commission's and the FPPC's review processes. The structural finding is that the Pratt campaign's largest single line item goes to a Tennessee LLC that the state has dissolved.
     </p>
+
+    <figure class="exhibit" aria-label="Documentary evidence: Tennessee Secretary of State search result for Highland Political LLC">
+      <div class="exhibit-header">
+        <span class="exhibit-label">Exhibit A · TN Secretary of State search result</span>
+        <span class="exhibit-source">tncab.tnsos.gov / business-entity-search · search: "Highland Political" · retrieved May 11, 2026</span>
+      </div>
+      <div class="exhibit-body">
+        <div class="exhibit-title">Search results: 1 of 1 items</div>
+        <div class="exhibit-meta">Tennessee Department of State · Tre Hargett, Secretary of State · "As of May 11, 2026 we have processed all corporate filings received in our office through May 10, 2026"</div>
+        <div class="exhibit-record">
+          <div class="k">Control No.</div><div class="v"><strong>001233345</strong></div>
+          <div class="k">Name</div><div class="v"><strong>HIGHLAND POLITICAL, LLC</strong></div>
+          <div class="k">Other Names Used</div><div class="v">(none)</div>
+          <div class="k">Entity Type</div><div class="v">Limited Liability Company (LLC)</div>
+          <div class="k">Status</div><div class="v"><span class="status-pill">Inactive - Dissolved</span> (Administrative)</div>
+          <div class="k">Formed In</div><div class="v">TENNESSEE</div>
+          <div class="k">Registration Date</div><div class="v">8/27/2021</div>
+        </div>
+      </div>
+      <figcaption class="exhibit-caption">The Tennessee Secretary of State's Business Entity Search returns one matching record for "Highland Political." The firm is registered as a Tennessee LLC. Its status is Inactive - Dissolved (Administrative).</figcaption>
+    </figure>
+
+    <figure class="exhibit" aria-label="Documentary evidence: Tennessee Secretary of State detail record for Highland Political LLC">
+      <div class="exhibit-header">
+        <span class="exhibit-label">Exhibit B · TN Secretary of State entity detail</span>
+        <span class="exhibit-source">tncab.tnsos.gov · Control No. 001233345 · retrieved May 11, 2026</span>
+      </div>
+      <div class="exhibit-body">
+        <div class="exhibit-title">HIGHLAND POLITICAL, LLC</div>
+        <div class="exhibit-meta">Tennessee Department of State entity detail record</div>
+        <div class="exhibit-record">
+          <div class="k">Entity Type</div><div class="v">Limited Liability Company (LLC)</div>
+          <div class="k">Formed in</div><div class="v">TENNESSEE</div>
+          <div class="k">Term of Duration</div><div class="v">Perpetual</div>
+          <div class="k">Managed By</div><div class="v">Member Managed</div>
+          <div class="k">Series LLC</div><div class="v">No</div>
+          <div class="k">Number of Members</div><div class="v">6 or less</div>
+          <div class="k">Status</div><div class="v"><span class="status-pill">Inactive - Dissolved</span> (Administrative)</div>
+          <div class="k">Control Number</div><div class="v"><strong>001233345</strong></div>
+          <div class="k">Initial Filing Date</div><div class="v">8/27/2021 10:47:53 AM</div>
+          <div class="k">Fiscal Ending Month</div><div class="v">December</div>
+          <div class="k">AR Due Date</div><div class="v"><strong>04/01/2023</strong> (annual-report filing deadline that was missed; the firm has been in dissolved status since)</div>
+          <div class="k">Obligated Member Entity</div><div class="v">No</div>
+          <div class="k">Registered Agent</div><div class="v">HIGHLAND POLITICAL, LLC<br>555 Church Street 1902<br>Nashville, TN 37219<br><em>(the firm is its own registered agent)</em></div>
+          <div class="k">Principal Office Address</div><div class="v">555 Church St Apt 1902<br>Nashville, TN 37219-2328</div>
+          <div class="k">Mailing Address</div><div class="v">555 Church St Apt 1902<br>Nashville, TN 37219-2328 <em>(same as principal; a residential apartment in downtown Nashville)</em></div>
+          <div class="k">AR Standing</div><div class="v"><strong>Delinquent</strong></div>
+          <div class="k">RA Standing</div><div class="v">Good</div>
+          <div class="k">Other Standing</div><div class="v">Good</div>
+          <div class="k">Revenue Standing</div><div class="v">N/A</div>
+        </div>
+      </div>
+      <figcaption class="exhibit-caption">The detailed Tennessee record for Highland Political LLC. The firm was administratively dissolved by the state on April 1, 2023 for failing to file its annual report. Its address of record is a residential apartment in downtown Nashville. It lists itself as its own registered agent.</figcaption>
+    </figure>
 
     <a class="back-to-top" href="#top">↑ Top</a>
 
