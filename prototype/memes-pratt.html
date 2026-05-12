@@ -1,0 +1,767 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Donor Map · Pratt for Mayor 2026 · Meme Kit</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;700;800;900&family=Instrument+Serif:ital@0;1&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --black: #0a0a0a;
+  --ink: #1a1a1a;
+  --cream: #f5f0eb;
+  --paper: #ece6dd;
+  --line: #d4cfc7;
+  --muted: #666;
+  --yellow: #fbbf24;
+  --red: #e63946;
+  --blue: #1d4ed8;
+}
+
+html, body { background: #2a2724; color: var(--ink); font-family: 'Inter', sans-serif; -webkit-font-smoothing: antialiased; padding-bottom: 80px; }
+
+.page-header { max-width: 1200px; margin: 40px auto 30px; padding: 0 24px; color: #f5f0eb; }
+.page-header h1 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 32px; letter-spacing: -1px; line-height: 1.1; margin-bottom: 8px; }
+.page-header h1 em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; }
+.page-header .lede { font-family: 'Space Mono', monospace; font-size: 13px; color: #aaa; letter-spacing: 1px; text-transform: uppercase; }
+.page-header .instructions { margin-top: 24px; padding: 16px 20px; background: rgba(255,255,255,0.05); border-left: 4px solid var(--yellow); font-size: 14px; color: #ddd; line-height: 1.5; max-width: 1080px; }
+.page-header .instructions strong { color: var(--yellow); }
+.page-header .instructions kbd { font-family: 'Space Mono', monospace; background: #444; color: #fff; padding: 2px 8px; font-size: 12px; }
+
+.story-group { max-width: 1200px; margin: 50px auto 20px; padding: 0 24px; }
+.story-group .kicker { font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 3px; color: var(--yellow); margin-bottom: 8px; }
+.story-group h2 { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 24px; color: #fff; letter-spacing: -0.5px; line-height: 1.2; }
+.story-group h2 em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; color: #f0e5cf; }
+.story-group .tweet { margin-top: 14px; padding: 14px 18px; background: rgba(255,255,255,0.04); border-left: 3px solid #fbbf24; font-family: 'Inter', sans-serif; font-size: 14px; line-height: 1.55; color: #ddd; max-width: 1080px; white-space: pre-wrap; }
+
+.meme-grid { max-width: 1200px; margin: 30px auto 0; padding: 0 24px; display: grid; grid-template-columns: 1fr; gap: 30px; }
+
+.meme { position: relative; width: 1080px; height: 1080px; background: var(--cream); color: var(--ink); padding: 70px 70px 60px; display: flex; flex-direction: column; justify-content: space-between; margin: 0 auto; box-shadow: 0 8px 0 rgba(0,0,0,0.4); overflow: hidden; }
+.meme .topbar { display: flex; justify-content: space-between; align-items: center; font-family: 'Space Mono', monospace; font-size: 14px; font-weight: 700; letter-spacing: 3px; color: var(--muted); text-transform: uppercase; }
+.meme .topbar .brand { color: var(--black); }
+.meme .footer { font-family: 'Space Mono', monospace; font-size: 12px; color: var(--muted); line-height: 1.55; border-top: 2px solid var(--black); padding-top: 14px; letter-spacing: 0.5px; }
+.meme .footer strong { color: var(--ink); }
+.meme .body { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 24px 0; }
+
+.huge { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 130px; line-height: 0.95; letter-spacing: -5px; }
+.huge em { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; letter-spacing: -3px; }
+.big { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 72px; line-height: 1; letter-spacing: -2.5px; }
+.med { font-family: 'Inter', sans-serif; font-weight: 800; font-size: 44px; line-height: 1.05; letter-spacing: -1px; }
+.med-serif { font-family: 'Instrument Serif', serif; font-style: italic; font-weight: 400; font-size: 36px; line-height: 1.25; color: var(--ink); }
+.body-prose { font-family: 'Instrument Serif', serif; font-size: 22px; line-height: 1.45; color: var(--ink); font-style: italic; }
+.body-explain { font-family: 'Inter', sans-serif; font-size: 18px; line-height: 1.5; color: var(--ink); font-weight: 400; }
+
+.h-yellow { background: var(--yellow); padding: 0 10px; display: inline-block; }
+.h-red { background: var(--red); color: #fff; padding: 0 12px; display: inline-block; }
+.h-black { background: var(--black); color: #fff; padding: 0 12px; display: inline-block; }
+.h-blue { background: var(--blue); color: #fff; padding: 0 12px; display: inline-block; }
+
+.receipt-list { font-family: 'Space Mono', monospace; font-size: 18px; line-height: 1.55; border-top: 2px solid var(--black); border-bottom: 2px solid var(--black); padding: 16px 0; margin: 18px 0; }
+.receipt-list .row { display: grid; grid-template-columns: 1fr auto; gap: 24px; align-items: baseline; padding: 4px 0; }
+.receipt-list .row .name { font-weight: 700; color: var(--ink); }
+.receipt-list .row .val { font-weight: 700; color: var(--red); }
+.receipt-list .row.compact .name { font-size: 15px; font-weight: 400; }
+.receipt-list .row.compact .name strong { font-weight: 700; }
+.receipt-list .row.compact .val { font-size: 16px; }
+.receipt-list .total { border-top: 2px solid var(--black); margin-top: 8px; padding-top: 8px; font-weight: 900; font-size: 22px; }
+.receipt-list .total .val { color: var(--black); }
+.receipt-list .row.hi { background: rgba(230,57,70,0.10); padding: 6px 8px; margin: 4px -8px; }
+
+.summary-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0; border: 4px solid var(--black); margin: 12px 0; font-family: 'Space Mono', monospace; }
+.summary-grid .cell { padding: 18px 20px; border-right: 2px solid var(--black); border-bottom: 2px solid var(--black); background: #fff; }
+.summary-grid .cell:nth-child(2n) { border-right: 0; }
+.summary-grid .cell.last { border-bottom: 0; }
+.summary-grid .cell .n { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; letter-spacing: -1px; line-height: 1; color: var(--ink); }
+.summary-grid .cell .n.red { color: var(--red); }
+.summary-grid .cell .lbl { font-size: 11px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); margin-top: 6px; }
+
+.exhibit-card { border: 3px solid var(--black); background: #fff; margin: 14px 0; }
+.exhibit-card .eh { background: var(--black); color: #fff; padding: 10px 18px; font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.exhibit-card .eh .y { color: var(--yellow); }
+.exhibit-card .eb { padding: 20px 22px; }
+.exhibit-card .eb .name { font-family: 'Inter', sans-serif; font-weight: 900; font-size: 22px; letter-spacing: -0.5px; text-transform: uppercase; margin-bottom: 12px; }
+.exhibit-card .eb .erow { display: grid; grid-template-columns: 180px 1fr; gap: 0; border-top: 2px solid var(--black); border-left: 2px solid var(--black); font-family: 'Space Mono', monospace; font-size: 14px; }
+.exhibit-card .eb .erow > div { border-right: 2px solid var(--black); border-bottom: 2px solid var(--black); padding: 9px 13px; background: var(--paper); }
+.exhibit-card .eb .erow > div.k { font-size: 11px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--muted); background: #fff; }
+.exhibit-card .eb .erow > div.v strong { font-weight: 900; }
+.exhibit-card .eb .erow > div.v.hi { background: rgba(230,57,70,0.12); }
+
+.meme-controls { max-width: 1080px; margin: 10px auto 0; display: flex; gap: 10px; align-items: center; justify-content: flex-end; }
+.meme-controls button { font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; background: var(--yellow); color: var(--black); border: 2px solid var(--black); padding: 9px 16px; cursor: pointer; box-shadow: 3px 3px 0 rgba(0,0,0,0.5); }
+.meme-controls button:hover { background: var(--black); color: var(--yellow); transform: translate(1px,1px); box-shadow: 2px 2px 0 rgba(0,0,0,0.5); }
+.meme-controls button.copy { background: var(--cream); }
+.meme-controls button.copy:hover { background: var(--black); color: var(--cream); }
+.meme-controls .toast { font-family: 'Space Mono', monospace; font-size: 11px; color: #16a34a; opacity: 0; transition: opacity 0.2s; letter-spacing: 1px; text-transform: uppercase; min-width: 100px; text-align: right; }
+.meme-controls .toast.show { opacity: 1; }
+.meme-controls .toast.err { color: var(--red); }
+
+.fullsize-toggle { max-width: 1080px; margin: 18px auto 0; padding: 0 24px; display: flex; gap: 12px; }
+.fullsize-toggle button { font-family: 'Space Mono', monospace; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; background: var(--yellow); color: var(--black); border: 2px solid var(--yellow); padding: 10px 18px; cursor: pointer; }
+.fullsize-toggle button:hover { background: transparent; color: var(--yellow); }
+
+@media (max-width: 1140px) {
+  .meme { transform: scale(0.55); transform-origin: top center; margin-bottom: -480px; }
+  .meme:last-of-type { margin-bottom: 0; }
+  body.fullsize .meme { transform: none; margin-bottom: 30px; }
+  body.fullsize .meme-grid { overflow-x: auto; }
+}
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>Pratt for Mayor 2026 · <em>meme kit</em></h1>
+  <div class="lede">10 memes · 11-tweet thread · all primary-source or named-publication verified · 2026-05-12</div>
+  <div class="instructions">
+    <strong>How to use.</strong> Each card below is a 1080×1080 PNG-ready meme. Use the buttons under each card: <strong>Save PNG</strong> downloads the image, <strong>Copy</strong> puts it on your clipboard so you can paste straight into a tweet. The kicker line above each card is the tweet copy it pairs with. Source citations are baked into the card footer.
+  </div>
+</div>
+
+<div class="fullsize-toggle">
+  <button id="toggle-fullsize" type="button">View memes at full 1080×1080 size</button>
+</div>
+
+<!-- ════════ TWEET 1 · HOOK ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 1 · HOOK</div>
+  <h2>We pulled every receipt on Spencer Pratt's mayoral campaign.</h2>
+  <div class="tweet">We pulled every receipt on Spencer Pratt's LA mayoral campaign.
+
+6 late-contribution reports filed in a single week.
+The CEO of the New York Stock Exchange.
+Two corporations LA bans from giving.
+The GUESS Jeans founding family.
+The Ring founder. The Tinder founder.
+
+🧵</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-1">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>LA MAYOR 2026</span></div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 8px;">What</div>
+    <div class="huge"><span class="h-red">$540,000</span></div>
+    <div class="med-serif" style="margin-top: 14px;">to Spencer Pratt looks like.</div>
+    <div class="summary-grid" style="margin-top: 32px;">
+      <div class="cell"><div class="n">1,634</div><div class="lbl">named donors</div></div>
+      <div class="cell"><div class="n">6</div><div class="lbl">Form 497 late-contribution reports filed in a single week</div></div>
+      <div class="cell"><div class="n red">$144K+</div><div class="lbl">Trump-orbit federal giving by Pratt donors</div></div>
+      <div class="cell"><div class="n red">$1.94M</div><div class="lbl">historic Democratic giving by Pratt donors</div></div>
+      <div class="cell"><div class="n">2</div><div class="lbl">corporate contributions LA Charter §470 prohibits</div></div>
+      <div class="cell last"><div class="n">5</div><div class="lbl">Caruso-2022 donors now funding Pratt-2026</div></div>
+      <div class="cell last"><div class="n">$63,893</div><div class="lbl">paid to a Tennessee LLC the state dissolved in 2023</div></div>
+      <div class="cell last"><div class="n">1</div><div class="lbl">lawsuit Pratt is bringing against the city he wants to run</div></div>
+    </div>
+    <div class="body-prose" style="margin-top: 20px; font-size: 22px; line-height: 1.25; text-align: center;">
+      This is not about <span class="h-red">ideology</span>. Politics does not care about ideology with this much money.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · LA City Ethics Schedule A + Schedule E + Schedule C · FPPC Form 497 (six filings: LAETH-142108, 142183, 142230, 142266, 142326, 142370) · FEC individual contributions bulk · LA Superior Court · primary-source verified 2026-05-12 · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-1-toast"></span>
+  <button class="copy" type="button" data-meme="meme-1" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-1" data-action="save" data-filename="pratt-meme-01-summary.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 2 · SPRECHER + LOEFFLER ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 2 · THE NYSE CEO</div>
+  <h2>Jeffrey Sprecher gave $1,800 to Pratt. <em>His wife runs Trump's Small Business Administration.</em></h2>
+  <div class="tweet">Jeffrey Sprecher, CEO of Intercontinental Exchange, the company that owns the New York Stock Exchange, gave $1,800 to Spencer Pratt.
+
+His wife is Kelly Loeffler. She is the sitting Trump-administration Administrator of the Small Business Administration. Confirmed February 19, 2025.
+
+She was Co-Chair of Trump's Second Inaugural Committee.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-2">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>EXHIBIT E</span></div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 6px;">Jeffrey Sprecher</div>
+    <div class="med-serif" style="font-size: 24px; color: var(--muted); margin-bottom: 18px;">CEO, Intercontinental Exchange · owner of the NYSE</div>
+    <div class="receipt-list">
+      <div class="row compact"><span class="name"><strong>2012</strong> · Restore Our Future (Romney super PAC)</span><span class="val">$750,000</span></div>
+      <div class="row compact"><span class="name"><strong>2016–24</strong> · National Republican Senatorial Cmte</span><span class="val">$247,500</span></div>
+      <div class="row compact"><span class="name"><strong>2020</strong> · America First Action (Trump super PAC)</span><span class="val">$1,000,000</span></div>
+      <div class="row compact"><span class="name"><strong>2024</strong> · Trump 2024 campaign + bundled receipts</span><span class="val">$4,900,000</span></div>
+      <div class="row compact"><span class="name"><strong>2024</strong> · Republican National Convention (Milwaukee)</span><span class="val">$1,000,000</span></div>
+      <div class="row compact"><span class="name"><strong>2025</strong> · MAGA Inc. (principal pro-Trump super PAC)</span><span class="val">$2,500,000</span></div>
+      <div class="row hi"><span class="name"><strong>May 5, 2026</strong> · Spencer Pratt for Mayor 2026</span><span class="val">$1,800</span></div>
+    </div>
+    <div class="body-prose" style="margin-top: 20px; font-size: 24px;">
+      The dollar figure is small. The signal is not.
+    </div>
+    <div class="body-explain" style="margin-top: 14px; font-size: 17px;">
+      Sprecher's wife <strong style="font-weight: 700;">Kelly Loeffler</strong> is the sitting Trump-administration <strong style="font-weight: 700;">Administrator of the Small Business Administration</strong>. Confirmed by the Senate February 19, 2025. Co-Chair of Trump's Second Inaugural Committee.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · FEC individual contributions bulk · Forbes · Issue One · AJC · Senate confirmation roll-call 02/19/2025 · Sprecher household federal giving ~$30M 2012–2026, ~97% Republican · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-2-toast"></span>
+  <button class="copy" type="button" data-meme="meme-2" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-2" data-action="save" data-filename="pratt-meme-02-sprecher-exhibit.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 3 · MARCH 20 2025 FIRE BRIEFING ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 3 · THE FEDERAL FIRE BRIEFING</div>
+  <h2>Trump publicly named Sprecher at a March 20, 2025 LA fire recovery briefing.</h2>
+  <div class="tweet">On March 20, 2025, Donald Trump held a federal LA fire recovery briefing at LAFD Station 69 in Pacific Palisades.
+
+Jeffrey Sprecher was in the room.
+
+Trump publicly named Sprecher in the transcript as a capital-deployment lead to rebuild the Palisades.
+
+Source: Compilation of Presidential Documents DCPD-202500177.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-3">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>FEDERAL RECORD</span></div>
+  <div class="body">
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 4px;">March 20, 2025 · LAFD Station 69, Pacific Palisades</div>
+    <div class="big" style="font-size: 56px; margin-bottom: 18px;">Trump named Sprecher at the federal fire briefing.</div>
+    <div class="exhibit-card" style="margin-top: 8px;">
+      <div class="eh"><span class="y">DCPD-202500177</span> · Compilation of Presidential Documents · official transcript</div>
+      <div class="eb">
+        <div class="name">Federal LA wildfire recovery briefing</div>
+        <div class="erow">
+          <div class="k">Date</div><div class="v"><strong>March 20, 2025</strong></div>
+          <div class="k">Location</div><div class="v"><strong>LAFD Station 69, Pacific Palisades</strong></div>
+          <div class="k">Convened by</div><div class="v">President Donald J. Trump</div>
+          <div class="k">Attendees included</div><div class="v hi"><strong>Jeffrey Sprecher</strong>, CEO of Intercontinental Exchange (NYSE)</div>
+          <div class="k">Trump's framing</div><div class="v">Sprecher among the leaders who could mobilize <em>"the best developers in the country"</em> to rebuild Pacific Palisades</div>
+          <div class="k">Policy posture</div><div class="v">"National Emergency" model bypassing local municipal permitting</div>
+          <div class="k">Ten weeks later</div><div class="v hi"><strong>Sprecher contributed the legal max to Spencer Pratt for Mayor 2026</strong></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · Compilation of Presidential Documents DCPD-202500177 · govinfo.gov · UCSB American Presidency Project · transcript is the full federal record of the March 20, 2025 briefing · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-3-toast"></span>
+  <button class="copy" type="button" data-meme="meme-3" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-3" data-action="save" data-filename="pratt-meme-03-fire-briefing.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 4 · SABAN ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 4 · THE SABAN HISTORY</div>
+  <h2>Haim and Cheryl Saban each gave Pratt $1,800. <em>They never gave to Karen Bass.</em></h2>
+  <div class="tweet">Haim Saban gave Spencer Pratt $1,800. Cheryl Saban gave Spencer Pratt $1,800.
+
+The Sabans are historic Democratic mega-donors. They never gave to Karen Bass.
+
+Their last LA-city contribution was $10,000 in 2022 to a PAC opposing a progressive City Controller candidate (the candidate, Kenneth Mejia, won anyway).</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-4">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>EXHIBIT D</span></div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 4px;">Haim Saban</div>
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 22px;">LA city political contribution history · open-data Schedule A · all "Saban" name contributions</div>
+    <div class="exhibit-card">
+      <div class="eh"><span class="y">DATA.LACITY.ORG</span> · m6g2-gc6c · queried May 12, 2026</div>
+      <div class="eb">
+        <div class="name">2 attributable contributions, four years apart</div>
+        <div class="erow">
+          <div class="k">Oct 21, 2022</div><div class="v"><strong>$10,000</strong> to <em>Committee for a Sane LA – Opposing Mejia for City Controller 2022</em>. Anti-progressive opposition PAC. (Mejia won anyway.)</div>
+          <div class="k">May 8, 2026</div><div class="v hi"><strong>$1,800</strong> to <em>Pratt for Mayor 2026</em>. Republican candidate against Karen Bass. Filed on FPPC Form 497 LAETH-142370.</div>
+        </div>
+      </div>
+    </div>
+    <div class="body-prose" style="margin-top: 22px; font-size: 22px;">
+      There is no documented Haim Saban contribution to Karen Bass in any cycle.
+    </div>
+    <div class="body-explain" style="margin-top: 14px; font-size: 17px;">
+      The Sabans are historic Democratic mega-donors. Their last documented LA-city act before Pratt was funding an anti-progressive opposition PAC. The Pratt contribution is the next step on a rightward trajectory, not a defection from a prior Bass alliance.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · LA City Ethics Commission open-data Schedule A · dataset m6g2-gc6c · all contributions where contributor name includes "Saban" · primary-source verified · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-4-toast"></span>
+  <button class="copy" type="button" data-meme="meme-4" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-4" data-action="save" data-filename="pratt-meme-04-saban-exhibit.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 5 · GRAINGE + BEUTNER ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 5 · UMG + THE BEUTNER CROSS-TIE</div>
+  <h2>Sir Lucian Grainge's home was hit by the fire. <em>His prior LA-region ally is also a 2026 candidate. The money went to Pratt anyway.</em></h2>
+  <div class="tweet">Sir Lucian Grainge, CEO of Universal Music Group, gave $1,800 to Pratt.
+
+His Pacific Palisades home was directly affected by the January 2025 fire.
+
+His only prior LA-region political activity: supporting Prop 28 (arts education) in 2022, alongside Austin Beutner.
+
+Beutner is also a 2026 LA mayoral candidate. Sir Lucian's money went to Pratt.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-5">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>UMG · PRATT 2026</span></div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 4px;">Sir Lucian Grainge CBE</div>
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 20px;">Chairman/CEO, Universal Music Group · the world's largest music company</div>
+    <div class="exhibit-card">
+      <div class="eh"><span class="y">PROFILE</span> · politically-relevant facts on the public record</div>
+      <div class="eb">
+        <div class="erow">
+          <div class="k">Residence</div><div class="v"><strong>Pacific Palisades 90272, 15+ years</strong></div>
+          <div class="k">January 2025 fire</div><div class="v">Home directly affected · canceled European business summit · UMG canceled Grammy Week Showcase · 50+ UMG staff displaced</div>
+          <div class="k">2022 civic activity</div><div class="v">Public supporter of <strong>California Prop 28</strong> (arts education funding) <em>alongside</em> Austin Beutner</div>
+          <div class="k" style="background: rgba(230,57,70,0.12);">Austin Beutner</div><div class="v hi"><strong>also a 2026 LA mayoral candidate</strong></div>
+          <div class="k">Prior LA-municipal giving</div><div class="v">No documented contributions to Karen Bass, Rick Caruso, Eric Garcetti, or Antonio Villaraigosa in any prior cycle</div>
+          <div class="k" style="background: rgba(251,191,36,0.20);">May 9, 2026</div><div class="v hi"><strong>$1,800 → Spencer Pratt</strong> (FPPC Form 497 LAETH-142370)</div>
+        </div>
+      </div>
+    </div>
+    <div class="body-prose" style="margin-top: 22px; font-size: 22px;">
+      Sir Lucian's prior civic ally is in the same election. The money went to Pratt.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · FPPC Form 497 LAETH-142370 · Music Business Worldwide (UMG fire response, Grammy Week cancellation) · CA Sec of State (Prop 28 supporters of record) · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-5-toast"></span>
+  <button class="copy" type="button" data-meme="meme-5" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-5" data-action="save" data-filename="pratt-meme-05-grainge-beutner.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 6 · MARCIANO FAMILY ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 6 · THE GUESS JEANS FAMILY</div>
+  <h2>Five Marcianos gave Pratt $9,000 in a single day. <em>Mareva personally maxed to Trump in 2016.</em></h2>
+  <div class="tweet">Five members of the GUESS Jeans founding family gave Spencer Pratt a combined $9,000 on May 5, 2026:
+
+Paul Marciano · Chief Creative Director, GUESS
+Mareva Marciano · Paul and Mareva Marciano Foundation
+Nicolai Marciano · CNBO, GUESS
+Ryan Marciano · Guest Curator, GUESS
+Gabriella Marciano · Student
+
+Mareva personally maxed to Donald Trump in 2016.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-6">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>FIRM CLUSTER</span></div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 4px;">The Marciano family</div>
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 18px;">GUESS Jeans · all donors listed at LA 90021 · single contribution date</div>
+    <div class="receipt-list">
+      <div class="row"><span class="name">Paul Marciano <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted);">Chief Creative Director, GUESS</em></span><span class="val">$1,800</span></div>
+      <div class="row"><span class="name">Mareva Marciano <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted);">Paul and Mareva Marciano Foundation</em></span><span class="val">$1,800</span></div>
+      <div class="row"><span class="name">Nicolai Marciano <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted);">Chief New Business Dev Officer, GUESS</em></span><span class="val">$1,800</span></div>
+      <div class="row"><span class="name">Ryan Marciano <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted);">Guest Curator, GUESS</em></span><span class="val">$1,800</span></div>
+      <div class="row"><span class="name">Gabriella Marciano <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted);">Student</em></span><span class="val">$1,800</span></div>
+      <div class="row total"><span class="name">GUESS FOUNDING-FAMILY TOTAL · May 5, 2026</span><span class="val">$9,000</span></div>
+    </div>
+    <div class="body-explain" style="margin-top: 22px; font-size: 17px;">
+      <strong style="font-weight: 700;">The political pivot is dated and federally documented.</strong> Mareva Marciano personally contributed <strong style="font-weight: 700;">$2,700 to Donald J. Trump for President in 2016</strong> (individual federal max) and at least <strong style="font-weight: 700;">$20,000 to the RNC</strong> that year. The Pratt cluster is the latest installment of a decade-long Marciano-family Republican pivot.
+    </div>
+    <div class="body-prose" style="margin-top: 16px; font-size: 22px;">
+      Largest single-family cluster in the full Pratt late-contribution corpus.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · FPPC Form 497 LAETH-142230 (May 5, 2026, 35 contributions) · FEC individual contributions bulk for Mareva Marciano 2016 contributions · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-6-toast"></span>
+  <button class="copy" type="button" data-meme="meme-6" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-6" data-action="save" data-filename="pratt-meme-06-marciano-cluster.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 7 · PINCUS DEFECTION ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 7 · THE PINCUS DEFECTION</div>
+  <h2>$1,000,000 to Obama's super PAC. $1,000 to Spencer Pratt.</h2>
+  <div class="tweet">Mark Pincus, the founder of Zynga, gave $1,000,000 to Priorities USA Action, Obama's 2012 re-election super PAC.
+
+He gave $700,000 to Senate Majority PAC in 2020.
+
+He gave $1,000 to Spencer Pratt in May 2026.
+
+The dollar figure on the Pratt contribution is small. The historical contrast is the finding.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-7">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>FEC CROSS-REFERENCE</span></div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 4px;">Mark Pincus</div>
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 22px;">Zynga founder · billionaire · federal political contribution history</div>
+    <div class="receipt-list">
+      <div class="row"><span class="name"><strong>2012</strong><br/><em style="font-family: 'Instrument Serif', serif; font-size: 16px; color: var(--muted); font-style: italic;">Priorities USA Action · Obama 2012 super PAC</em></span><span class="val" style="font-size: 26px;">$1,000,000</span></div>
+      <div class="row"><span class="name"><strong>2020</strong><br/><em style="font-family: 'Instrument Serif', serif; font-size: 16px; color: var(--muted); font-style: italic;">Senate Majority PAC · Schumer-orbit Democratic Senate</em></span><span class="val" style="font-size: 26px;">$700,000</span></div>
+      <div class="row"><span class="name"><strong>2014</strong><br/><em style="font-family: 'Instrument Serif', serif; font-size: 16px; color: var(--muted); font-style: italic;">Democratic Governors Association</em></span><span class="val" style="font-size: 22px;">$129,600</span></div>
+      <div class="row"><span class="name"><strong>2020</strong><br/><em style="font-family: 'Instrument Serif', serif; font-size: 16px; color: var(--muted); font-style: italic;">ActBlue · Dem-side payment processor</em></span><span class="val" style="font-size: 22px;">$11,200</span></div>
+      <div class="row hi"><span class="name"><strong>May 5, 2026</strong><br/><em style="font-family: 'Instrument Serif', serif; font-size: 16px; color: #888; font-style: italic;">Spencer Pratt for Mayor 2026 · Republican LA mayoral campaign</em></span><span class="val" style="font-size: 30px;">$1,000</span></div>
+    </div>
+    <div class="body-prose" style="margin-top: 24px; font-size: 26px;">
+      The dollar figure is small. The defection is the finding.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · FEC individual contributions bulk · 2012, 2014, 2020, 2026 cycles · cross-referenced from the Pratt for Mayor 2026 late-contribution corpus on 2026-05-12 · Pincus federal total ~$1.87M, almost all Democratic · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-7-toast"></span>
+  <button class="copy" type="button" data-meme="meme-7" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-7" data-action="save" data-filename="pratt-meme-07-pincus-defection.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 8 · HIDDEN TRUMP-ORBIT LANE ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 8 · THE HIDDEN TRUMP-ORBIT LANE</div>
+  <h2>Six Pratt donors are documented Trump-cycle federal donors.</h2>
+  <div class="tweet">Cross-referenced every Pratt late-contribution donor against the federal FEC record. Found a hidden Trump-orbit lane:
+
+Larry Smead · $51,600 to WinRed (2026)
+Daniel Vanderpyl · $30,820 to WinRed (2024)
+James Siminoff (Ring founder) · $25,000 to WinRed (2026)
+Sean Rad (Tinder) · $15,495 to WinRed (2024)
+Steve Lockton · $11,200 directly to TRUMP VICTORY (2020)
+Rick Salomon · $10,410 to WinRed (2024)</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-8">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>FEC CROSS-REFERENCE</span></div>
+  <div class="body">
+    <div class="med" style="margin-bottom: 4px;">Hidden Trump-orbit lane</div>
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 18px;">Pratt donors who also have documented federal Trump-cycle giving</div>
+    <div class="receipt-list">
+      <div class="row"><span class="name"><strong>Larry Smead</strong> <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted); font-style: italic;">RETIRED · Essex NY</em><br/><em style="font-family: 'Inter', sans-serif; font-size: 14px; color: var(--muted); font-style: normal;">2026 cycle → WinRed (GOP processor)</em></span><span class="val">$51,600</span></div>
+      <div class="row"><span class="name"><strong>Daniel Vanderpyl</strong> <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted); font-style: italic;">Powder Canyon Properties</em><br/><em style="font-family: 'Inter', sans-serif; font-size: 14px; color: var(--muted); font-style: normal;">2024 cycle → WinRed</em></span><span class="val">$30,820</span></div>
+      <div class="row"><span class="name"><strong>James Siminoff</strong> <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted); font-style: italic;">founder of Ring (sold to Amazon ~$1B)</em><br/><em style="font-family: 'Inter', sans-serif; font-size: 14px; color: var(--muted); font-style: normal;">2026 cycle → WinRed</em></span><span class="val">$25,000</span></div>
+      <div class="row"><span class="name"><strong>Sean Rad</strong> <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted); font-style: italic;">co-founder and former CEO of Tinder</em><br/><em style="font-family: 'Inter', sans-serif; font-size: 14px; color: var(--muted); font-style: normal;">2024 cycle → WinRed</em></span><span class="val">$15,495</span></div>
+      <div class="row hi"><span class="name"><strong>Steve Lockton</strong> <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted); font-style: italic;">Lockton Companies (world's largest private insurance broker)</em><br/><em style="font-family: 'Inter', sans-serif; font-size: 14px; color: var(--muted); font-style: normal;">2020 cycle → <strong>TRUMP VICTORY</strong> directly</em></span><span class="val">$11,200</span></div>
+      <div class="row"><span class="name"><strong>Rick Salomon</strong> <em style="font-family: 'Instrument Serif', serif; font-size: 14px; color: var(--muted); font-style: italic;">entrepreneur · poker player</em><br/><em style="font-family: 'Inter', sans-serif; font-size: 14px; color: var(--muted); font-style: normal;">2024 cycle → WinRed</em></span><span class="val">$10,410</span></div>
+      <div class="row total"><span class="name">DOCUMENTED TRUMP-ORBIT FEDERAL TOTAL · 6 PRATT DONORS</span><span class="val">$144,525</span></div>
+    </div>
+    <div class="body-prose" style="margin-top: 14px; font-size: 22px;">
+      None of these names appear in LA-press coverage of the race. They are in the FEC record.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · FEC individual contributions bulk · 2020, 2024, 2026 cycles · cross-referenced from the Pratt for Mayor 2026 late-contribution corpus on 2026-05-12 · sweep was positive-finding only · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-8-toast"></span>
+  <button class="copy" type="button" data-meme="meme-8" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-8" data-action="save" data-filename="pratt-meme-08-trump-orbit-lane.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 9 · CORPORATE CONTRIBUTION BAN ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 9 · CORPORATE CONTRIBUTIONS</div>
+  <h2>Two corporations gave Pratt's campaign in a city that bans corporate contributions.</h2>
+  <div class="tweet">LA Charter §470 prohibits corporate contributions to city candidates.
+
+The Pratt campaign accepted two corporate named in-kind contributions in February 2026:
+
+KOMOS TEQUILA · $1,800 in beverages · Feb 1
+DELTA SPECIAL OPERATIONS CORP · $1,800 in event security · Feb 9
+
+Both are on Schedule C of Pratt's own filing.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-9">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>LA CHARTER §470</span></div>
+  <div class="body">
+    <div class="med-serif" style="font-size: 26px; color: var(--muted); margin-bottom: 4px;">LA Charter §470 prohibits</div>
+    <div class="big" style="font-size: 60px; margin-bottom: 26px;">corporate contributions <span class="h-red">to city candidates</span>.</div>
+    <div class="exhibit-card">
+      <div class="eh"><span class="y">SCHEDULE C</span> · Pratt for Mayor 2026 · committee 1485940 · February 2026</div>
+      <div class="eb" style="padding: 0;">
+        <div style="display: grid; grid-template-columns: 1fr 1fr; border-top: 2px solid var(--black);">
+          <div style="padding: 20px; border-right: 2px solid var(--black); background: rgba(230,57,70,0.06);">
+            <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; margin-bottom: 8px;">Feb 1, 2026</div>
+            <div style="font-family: 'Inter', sans-serif; font-weight: 900; font-size: 28px; letter-spacing: -0.5px; line-height: 1.1; margin-bottom: 6px;">KOMOS TEQUILA</div>
+            <div style="font-family: 'Instrument Serif', serif; font-size: 16px; color: var(--muted); margin-bottom: 10px; font-style: italic;">Delaware corporation Komos, Inc. + Delaware LLC Casa Komos Beverage Group LLC</div>
+            <div style="font-family: 'Space Mono', monospace; font-size: 13px; color: var(--ink); line-height: 1.5;">in-kind · beverages</div>
+            <div style="font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; color: var(--red); margin-top: 8px;">$1,800</div>
+          </div>
+          <div style="padding: 20px; background: rgba(230,57,70,0.06);">
+            <div style="font-family: 'Space Mono', monospace; font-size: 11px; font-weight: 700; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; margin-bottom: 8px;">Feb 9, 2026</div>
+            <div style="font-family: 'Inter', sans-serif; font-weight: 900; font-size: 28px; letter-spacing: -0.5px; line-height: 1.1; margin-bottom: 6px;">DELTA SPECIAL OPERATIONS CORP</div>
+            <div style="font-family: 'Instrument Serif', serif; font-size: 16px; color: var(--muted); margin-bottom: 10px; font-style: italic;">CA BSIS private patrol PPO #122040</div>
+            <div style="font-family: 'Space Mono', monospace; font-size: 13px; color: var(--ink); line-height: 1.5;">in-kind · event security</div>
+            <div style="font-family: 'Inter', sans-serif; font-weight: 900; font-size: 36px; color: var(--red); margin-top: 8px;">$1,800</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="body-prose" style="margin-top: 22px; font-size: 22px;">
+      Both contributions are itemized on the campaign's own Schedule C.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · LA City Ethics Commission · Pratt for Mayor 2026 Schedule C · LA Charter §470 codified at codelibrary.amlegal.com · CA Bureau of Security and Investigative Services license database (PPO #122040) · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-9-toast"></span>
+  <button class="copy" type="button" data-meme="meme-9" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-9" data-action="save" data-filename="pratt-meme-09-corporate-ban.png">Save PNG</button>
+</div>
+</div>
+
+<!-- ════════ TWEET 10 · PRATT IS SUING THE CITY ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 10 · PLAINTIFF AGAINST HIS OWN CITY</div>
+  <h2>Spencer Pratt is a plaintiff in a lawsuit against the City of LA <em>while running for mayor of LA</em>.</h2>
+  <div class="tweet">Spencer Pratt is a plaintiff in Grigsby v. City of Los Angeles (25STCV00832), the consolidated Palisades-fire litigation against LA and LADWP.
+
+He is running for mayor of the same city he is suing.
+
+He told Fox 11 in March 2026 he will not drop the lawsuit if elected.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-10">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>SUPERIOR COURT OF CALIFORNIA</span></div>
+  <div class="body">
+    <div class="med-serif" style="font-size: 22px; color: var(--muted); margin-bottom: 6px;">Plaintiff in his own city's lawsuit</div>
+    <div class="big" style="font-size: 58px; margin-bottom: 18px;">Pratt is suing <span class="h-red">LA</span><br/>while running to <span class="h-yellow">run LA</span>.</div>
+    <div class="exhibit-card">
+      <div class="eh"><span class="y">25STCV00832</span> · Superior Court of California, County of Los Angeles</div>
+      <div class="eb">
+        <div class="name">GRIGSBY ET AL v. CITY OF LOS ANGELES</div>
+        <div class="erow">
+          <div class="k">Case type</div><div class="v">Consolidated Palisades fire litigation against the City of Los Angeles and LADWP</div>
+          <div class="k">Named plaintiff</div><div class="v hi"><strong>SPENCER PRATT</strong></div>
+          <div class="k">Filed</div><div class="v">January 2025 (consolidated)</div>
+          <div class="k">Status</div><div class="v">Active</div>
+          <div class="k">Pratt's position</div><div class="v">Told Fox 11 in March 2026 he <strong>will not drop the lawsuit if elected mayor</strong></div>
+        </div>
+      </div>
+    </div>
+    <div class="body-prose" style="margin-top: 22px; font-size: 24px;">
+      He is asking to be elected by the same city he is suing for money.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>Source</strong> · LA Superior Court docket · case caption 25STCV00832 · Fox 11 Los Angeles interview March 2026 · Pratt for Mayor 2026 campaign messaging on fire-response accountability · <strong>thedonormap.org</strong>
+  </div>
+
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-10-toast"></span>
+  <button class="copy" type="button" data-meme="meme-10" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-10" data-action="save" data-filename="pratt-meme-10-pratt-sues-la.png">Save PNG</button>
+</div>
+</div>
+
+<script>
+(function() {
+  const TOGGLE_BTN = document.getElementById('toggle-fullsize');
+  if (TOGGLE_BTN) {
+    TOGGLE_BTN.addEventListener('click', () => {
+      const on = document.body.classList.toggle('fullsize');
+      TOGGLE_BTN.textContent = on ? 'View memes at scaled preview size' : 'View memes at full 1080×1080 size';
+    });
+  }
+
+  function showToast(toast, text, isErr) {
+    if (!toast) return;
+    toast.textContent = text;
+    toast.classList.toggle('err', !!isErr);
+    toast.classList.add('show');
+    clearTimeout(toast._t);
+    toast._t = setTimeout(() => toast.classList.remove('show'), 2400);
+  }
+
+  async function renderMeme(memeId) {
+    const el = document.getElementById(memeId);
+    if (!el) throw new Error('meme not found: ' + memeId);
+    await document.fonts.ready;
+    // Force a one-frame paint before capture
+    await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+    const canvas = await html2canvas(el, {
+      scale: 2,
+      width: 1080,
+      height: 1080,
+      windowWidth: 1200,
+      windowHeight: 1200,
+      backgroundColor: '#f5f0eb',
+      useCORS: true,
+      logging: false,
+      onclone: (clonedDoc, clonedEl) => {
+        // The cloned document needs to render the meme at native 1080x1080,
+        // regardless of the live viewport's responsive scale.
+        clonedDoc.body.classList.add('fullsize');
+        clonedDoc.body.style.background = '#f5f0eb';
+        const target = clonedDoc.getElementById(memeId);
+        if (target) {
+          target.style.transform = 'none';
+          target.style.width = '1080px';
+          target.style.height = '1080px';
+          target.style.margin = '0';
+          target.style.boxShadow = 'none';
+        }
+      },
+    });
+    return canvas;
+  }
+
+  function canvasToBlob(canvas) {
+    return new Promise((resolve, reject) => {
+      canvas.toBlob(blob => blob ? resolve(blob) : reject(new Error('toBlob failed')), 'image/png');
+    });
+  }
+
+  async function handleSave(button) {
+    const memeId = button.dataset.meme;
+    const filename = button.dataset.filename || (memeId + '.png');
+    const toast = document.getElementById(memeId + '-toast');
+    button.disabled = true;
+    showToast(toast, 'rendering...');
+    try {
+      const canvas = await renderMeme(memeId);
+      const blob = await canvasToBlob(canvas);
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+      showToast(toast, 'saved ✓');
+    } catch (e) {
+      console.error(e);
+      showToast(toast, 'save failed', true);
+    } finally {
+      button.disabled = false;
+    }
+  }
+
+  async function handleCopy(button) {
+    const memeId = button.dataset.meme;
+    const toast = document.getElementById(memeId + '-toast');
+    if (!navigator.clipboard || !window.ClipboardItem) {
+      showToast(toast, 'clipboard not supported, use save', true);
+      return;
+    }
+    button.disabled = true;
+    showToast(toast, 'rendering...');
+    try {
+      const canvas = await renderMeme(memeId);
+      const blob = await canvasToBlob(canvas);
+      await navigator.clipboard.write([new ClipboardItem({ 'image/png': blob })]);
+      showToast(toast, 'copied ✓');
+    } catch (e) {
+      console.error(e);
+      showToast(toast, 'copy failed', true);
+    } finally {
+      button.disabled = false;
+    }
+  }
+
+  document.addEventListener('click', (e) => {
+    const btn = e.target.closest('button[data-meme]');
+    if (!btn) return;
+    if (btn.dataset.action === 'save') handleSave(btn);
+    else if (btn.dataset.action === 'copy') handleCopy(btn);
+  });
+})();
+</script>
+<!-- ════════ TWEET 11 · THE THESIS ════════ -->
+<div class="story-group">
+  <div class="kicker">TWEET 11 · THE THESIS</div>
+  <h2>This is not about ideology. <em>Politics does not care about ideology with this much money.</em></h2>
+  <div class="tweet">Some have called Spencer Pratt "not really a Republican."
+
+He is. Registered Republican since 2020.
+
+But his donor list is not just Republicans. It is Democrats too. Billionaires too. Trump-orbit donors too. Fire-victim donors too. GUESS heirs too.
+
+This is not about ideology.
+
+Politics does not care about ideology with this much money.</div>
+</div>
+
+<div class="meme-grid">
+<div class="meme" id="meme-11">
+  <div class="topbar"><span class="brand">THE DONOR MAP</span><span>THE THESIS</span></div>
+  <div class="body">
+    <div class="med-serif" style="font-size: 28px; color: var(--muted); margin-bottom: 8px;">Some have called Pratt</div>
+    <div class="big" style="font-size: 64px; margin-bottom: 6px;">"<span class="h-yellow">not really</span> a Republican."</div>
+    <div class="med-serif" style="font-size: 28px; color: var(--muted); margin-top: 22px;">He is.</div>
+    <div class="body-explain" style="margin-top: 8px; font-size: 19px;">
+      Registered Republican since 2020. Endorsed by Richard Grenell and Steve Hilton. Campaign run by Tag Strategies and Pluvious Group (a 2019 Trump-LA fundraiser organizer).
+    </div>
+    <div class="med-serif" style="font-size: 26px; color: var(--ink); margin-top: 30px; margin-bottom: 8px;">But his donor list is not just Republicans.</div>
+    <div class="receipt-list" style="font-size: 17px;">
+      <div class="row compact"><span class="name"><strong>Haim &amp; Cheryl Saban</strong> · historic Democratic mega-donors → <em style="font-family: 'Instrument Serif', serif; font-style: italic;">Pratt $3,600</em></span><span class="val">PIVOT</span></div>
+      <div class="row compact"><span class="name"><strong>Mark Pincus</strong> · $1M to Obama's 2012 super PAC → <em style="font-family: 'Instrument Serif', serif; font-style: italic;">Pratt $1,000</em></span><span class="val">PIVOT</span></div>
+      <div class="row compact"><span class="name"><strong>David Foster</strong> · $47.5K historical DGA + DCCC → <em style="font-family: 'Instrument Serif', serif; font-style: italic;">Pratt $1,800</em></span><span class="val">PIVOT</span></div>
+      <div class="row compact"><span class="name"><strong>Jeffrey Sprecher</strong> · $30M+ Trump-orbit federal → <em style="font-family: 'Instrument Serif', serif; font-style: italic;">Pratt $1,800</em></span><span class="val">ALIGNED</span></div>
+      <div class="row compact"><span class="name"><strong>Sir Lucian Grainge</strong> · Palisades home hit by fire → <em style="font-family: 'Instrument Serif', serif; font-style: italic;">Pratt $1,800</em></span><span class="val">FIRE</span></div>
+      <div class="row compact"><span class="name"><strong>Marciano family</strong> · GUESS Jeans · $9K cluster → <em style="font-family: 'Instrument Serif', serif; font-style: italic;">Pratt</em></span><span class="val">FAMILY</span></div>
+    </div>
+    <div class="body-prose" style="margin-top: 22px; font-size: 30px; line-height: 1.2;">
+      This is not about <span class="h-red">ideology</span>.
+    </div>
+    <div class="body-prose" style="margin-top: 8px; font-size: 24px; line-height: 1.25;">
+      Politics does not care about ideology with this much money.
+    </div>
+  </div>
+  <div class="footer">
+    <strong>The Donor Map · thedonormap.org</strong> · the receipts are the argument · primary-source verified · 2026-05-12
+  </div>
+</div>
+<div class="meme-controls">
+  <span class="toast" id="meme-11-toast"></span>
+  <button class="copy" type="button" data-meme="meme-11" data-action="copy">Copy to clipboard</button>
+  <button type="button" data-meme="meme-11" data-action="save" data-filename="pratt-meme-11-thesis.png">Save PNG</button>
+</div>
+</div>
+
+</body>
+</html>

@@ -158,6 +158,13 @@ const PROTOTYPE_PAGES: PageEntry[] = [
     category: "beat",
   },
   {
+    title: "Spencer Pratt · Receipts Appendix (DRAFT)",
+    url: "http://localhost:8096/beat-spencer-pratt-receipts",
+    description: "Receipts appendix for the Spencer Pratt mayoral investigation. All six long Schedule A / Schedule E / Form 497 donor tables in full row-by-row detail: top-25 named donors, out-of-state $1,000+ donors, top-20 payees, the 21-row celebrity-tier, the 31-row LAETH-142108 (May 4 filing), and the 35-row LAETH-142183/142230/142266/142326 batch (May 5-8 filings). ~163 donor rows total. The structural findings live in the main beat; this page is the raw paperwork.",
+    status: "draft-isolated",
+    category: "beat",
+  },
+  {
     title: "Spencer Pratt · He's the new Caruso (DRAFT)",
     url: "http://localhost:8096/spencer-pratt",
     description: "Spencer Pratt's LA mayoral campaign (Pratt for Mayor 2026, FPPC committee 1485940) has raised $539,617 from 1,634 donors through April 18, 2026. Two structural findings: (1) Two corporate-named in-kind contributions in February. KOMOS TEQUILA $1,800 in beverages on Feb 1 (the brand is operated by Delaware corporation Komos, Inc. + Delaware LLC Casa Komos Beverage Group LLC). DELTA SPECIAL OPERATIONS CORP $1,800 in event security on Feb 9 (CA BSIS PPO #122040, a private-patrol firm whose own website markets itself as off-duty law enforcement officers including presidential dignitary-protection officers; no matching CA SOS entity registration). LA Municipal Code §49.7.13 bans both corporate and business-entity contributions to LA city candidates. (2) Five donors who maxed out to Rick Caruso against Karen Bass in 2022 are now writing max-out checks to Pratt against Bass in 2026: Roy Disney (Shamrock Enterprises), Michael Schwab (Big Sky Partners), Loren Booth (Booth Ranches), Michael Meldman (Discovery Land Company; contribution publicly disputed by Discovery Land per Real Deal Apr 28 2026), Ted & Michele Waitt (Gateway Computers founder). Pratt is also a plaintiff in Grigsby v. City of Los Angeles (25STCV00832), the consolidated Palisades-fire litigation against LA + LADWP, while running for mayor of LA. Campaign paid Newport Bleach (Tyler Nichols / Tyler Treats, five-year Pratt family vendor) $24,050 in three transactions; same Shopify storefront sells PRATT2026 campaign merch alongside 28 Heidi Montag-branded products. Largest single payee Highland Political LLC ($63,893) is not registered in TN, domain doesn't resolve, no other clients in FEC. Drafted 2026-05-09; receipts pass + entity profile + corporate-contribution sharpening 2026-05-11. URL-pass pending in /active-beat/spencer-pratt.",
