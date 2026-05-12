@@ -2471,9 +2471,9 @@ const BEATS_NEW: BeatRecord[] = [
         id: "spencer-pratt-committee-1485940",
         beat: "spencer-pratt",
         label: "URL pass: LA City Ethics · Pratt for Mayor 2026 (committee 1485940)",
-        detail: "THE SPINE COMMITTEE. Verify total raised $539,617 / 1,634 contributions / $131,251 unitemized small-dollar through April 18 2026. Verify the full Schedule A donor list, the top 25 itemized donors, and the Schedule E payee list (248 expenditures totaling $282,362).",
+        detail: "THE SPINE COMMITTEE. Verify total raised $539,617 / 1,634 contributions / $131,251 unitemized small dollar through April 18 2026 via LA Ethics Commission committees hub. Also the underlying open-data dataset at data.lacity.org/d/m6g2-gc6c. Verify Schedule A donor list, top 25 itemized donors, and Schedule E payee list (248 expenditures totaling $282,362, internal cmt_id 26519 in expenditures dataset 5mrt-4zhe).",
         lane: "Editor",
-        url: "https://ethicsdata.lacity.org/",
+        url: "https://ethics.lacity.gov/committees/",
       },
       {
         id: "spencer-pratt-schedule-c-komos",
@@ -2495,9 +2495,9 @@ const BEATS_NEW: BeatRecord[] = [
         id: "spencer-pratt-caruso-cross-reference",
         beat: "spencer-pratt",
         label: "URL pass: LA City Ethics · Caruso 2022 mayoral committee cross-reference",
-        detail: "Verify the five-donor overlap between Pratt 2026 and Caruso 2022: Roy Disney (Shamrock Enterprises), Michael Schwab (Big Sky Partners), Loren Booth (Booth Ranches), Michael Meldman (Discovery Land Company), Ted & Michele Waitt (Gateway Computers founder). Confirm each appears on Caruso for Mayor 2022 (FPPC committee 1453569 or successor) Schedule A. Combined dollars from these donors to Pratt for Mayor 2026: $10,970.",
+        detail: "Verify the five-donor overlap between Pratt 2026 and Caruso 2022: Roy Disney (Shamrock Enterprises), Michael Schwab (Big Sky Partners), Loren Booth (Booth Ranches), Michael Meldman (Discovery Land Company), Ted & Michele Waitt (Gateway Computers founder). Confirm each appears on Caruso for Mayor 2022 (FPPC committee 1453569 or successor) Schedule A. Combined dollars from these donors to Pratt for Mayor 2026: $10,970. Use ethics.lacity.gov committees search or query the open-data dataset directly at data.lacity.org/d/m6g2-gc6c.",
         lane: "Editor",
-        url: "https://ethicsdata.lacity.org/",
+        url: "https://ethics.lacity.gov/committees/",
       },
       {
         id: "spencer-pratt-meldman-dispute",
@@ -2511,8 +2511,9 @@ const BEATS_NEW: BeatRecord[] = [
         id: "spencer-pratt-grigsby-lawsuit",
         beat: "spencer-pratt",
         label: "URL pass: Grigsby v. City of Los Angeles (25STCV00832) lawsuit case caption",
-        detail: "Verify Pratt's plaintiff status in the consolidated Palisades-fire litigation. Filing date Jan 21, 2025. Co-plaintiffs include Heidi Pratt, Janet Pratt, William Pratt + 20+ additional Palisades property owners. Plaintiffs' lead counsel: Peter J. McNulty (McNulty Law Firm); also Plaintiffs' Liaison Counsel for the broader consolidated case. Judge Samantha Jessner ruled Feb 19, 2026 that inverse-condemnation claims may proceed. CA Court of Appeal denied City and State petitions to halt.",
+        detail: "Verify Pratt plaintiff status in Grigsby v. City of Los Angeles, LA Superior Court Case No. 25STCV00832. The Palisades Fire Litigation Portal confirms: Department 7, Judge Samantha Jessner presiding at Spring Street Courthouse; Peter McNulty / McNulty Law Firm as Liaison Counsel. Filing date Jan 21 2025. Co-plaintiffs Heidi Pratt, Janet Pratt, William Pratt + 20+ Palisades property owners. CA Court of Appeal denied City + State petitions to halt the inverse-condemnation claims.",
         lane: "Editor",
+        url: "https://www.palisadesfirelitigationportal.com/Home/CourtInfo",
       },
       {
         id: "spencer-pratt-pratt-fox11-quote",
@@ -2541,9 +2542,10 @@ const BEATS_NEW: BeatRecord[] = [
       {
         id: "spencer-pratt-corporate-contribution-ban",
         beat: "spencer-pratt",
-        label: "URL pass: LA Charter §470 / LAMC §49.7.13 corporate-contribution ban (URL NEEDED)",
-        detail: "URL NEEDED. Verify LA Charter Section 470 and LA Municipal Code Section 49.7.13 prohibition on contributions to candidates from 'corporations, including foreign corporations, business entities, partnerships, joint ventures, syndicates, and associations.' Verify Measure SS (2022 LA ballot measure) strengthened the corporate-contribution ban. Verify FPPC treatment of non-monetary in-kind contributions as subject to the same source restrictions as cash contributions.",
+        label: "URL pass: LA City Charter §470 corporate-contribution ban",
+        detail: "Verify LA City Charter Section 470 \"Limitations on Campaign Contributions in City Elections\" prohibits contributions to candidates from \"corporations, including foreign corporations, business entities, partnerships, joint ventures, syndicates, and associations.\" Section text published by codelibrary.amlegal.com. NOTE: an earlier draft cited LAMC Section 49.7.13 as a parallel source; that section number was not verified and has been REMOVED from the beat. The Charter Section 470 cite stands on its own as the load-bearing statutory authority. LA Ethics Commission published rules + explainers: ethics.lacity.gov/laws.",
         lane: "Editor",
+        url: "https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-1874",
       },
     ],
     perplexityRounds: [
