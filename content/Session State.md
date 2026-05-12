@@ -4,6 +4,153 @@ type: system
 last-updated: 2026-05-11
 ---
 
+## HANDOFF — 2026-05-11 (cc_goofy-meninsky, Code Claude · Pratt beat overhaul + URL pass + Highland Political major correction)
+
+**Context:** Code Claude. Worktree `claude/goofy-meninsky-d1602f`, Opus 4.7 (1M context). Six-commit session focused on `/spencer-pratt`: full receipts pass, section reorganization, entity-verification work on the corporate-named in-kind contributors (Komos + Delta), URL-pass triage with David, major correction on Highland Political LLC (the campaign's largest payee), embedded documentary-evidence exhibits, and full ops wiring. Beat went from ~1,298 lines to ~1,750+ lines with substantial new structured data and corrected statutory citations.
+
+### THIS SESSION'S DELIVERABLES (all committed + pushed + merged to v4)
+
+#### Beat structural reorganization
+
+- **Section order:** "Two corporate in-kind contributions" moved from position 3 to position 2 (immediately after "The pitch"). Lawsuit dropped to position 3. Reflects the editorial decision that the corporate-contribution finding is the load-bearing one and should anchor the narrative.
+- **Act labels stripped:** removed "Act I:" / "Act II:" / etc. prefixes from all H2 headings; section titles now read as plain descriptive headings.
+- **2 finding cards added** at top of article body (after methodology italics, before TOC): one red-accent card anchored to corporate contributions, one yellow-accent card anchored to Caruso continuity. Each is a clickable TLDR that anchors down to its full section. New `.finding-cards` + `.finding-card` CSS classes added inline.
+- **Section IDs preserved** (`#corporate`, `#lawsuit`, `#meldman`, `#caruso`, `#newport-bleach`) so existing anchors and external references survive.
+
+#### Full receipts pass (5 new tables)
+
+- **Top 25 named donors** with stated occupation, employer, city (replaced prose paragraph)
+- **Out-of-state high-dollar donors** ($1,000+): 25 rows across 14 states, anchoring the "this isn't local fire-victim populism" finding
+- **Top 20 Schedule E payees** (replaced prose paragraph naming only Highland + Tag + Newport Bleach)
+- **Pluvious-organized fundraisers calendar:** Feb 14 Perry's Beach Club, Apr 28 Geoffrey H. Palmer's home, Apr 30 Mandeville Canyon
+- **Pratt Schedule A + E data** pulled directly via LA City Ethics Socrata API (`data.lacity.org/resource/m6g2-gc6c.csv?cmt_id=1485940` + `5mrt-4zhe.csv?cmt_id=26519`). 1,634 contributions / $539,617; 248 expenditures / $282,362.
+
+#### Entity verification work
+
+- **Komos Tequila:** verified Delaware corporation Komos, Inc. (File #6990327, formed 7/26/2018) + affiliated Delaware LLC Casa Komos Beverage Group LLC (File #7563318, formed 8/15/2019). Both share Delaware registered agent The Corporation Trust Company. Brand operated under Casa Komos Brands Group per BusinessWire 2/9/2021 launch coverage and Spirit of Gallo 8/2022 strategic-investment + US-distribution press release.
+- **Delta Special Operations Corp / DSOC:** verified CA BSIS Private Patrol Operator License #122040 issued Feb 14 2024 (current through Feb 29 2028). Address 11886 Barranca Rd, Santa Rosa Valley CA 93012-8284 (Ventura County). License discloses CEO Nicholas Hyon-Suk Cho (also PPQM license #10915 at Gardena LA County), CFO Lloyd M Kang, President Royce Robert Burroughs, Secretary Paul Lee. **The four officers were NOT named in beat prose per defamation discipline** — Rule 13 + ADR-0030 §11. Firm's own website at deltaspecial.org markets staff as off-duty law enforcement officers including officers who do dignitary protection for presidential visits to LA. CA SOS bizfile search returned NO matching corporate or LLC registration for "Delta Special Operations," "DSOC," or officer names; the only DSOC hit (DSOC Management LLC) was a different terminated 2018 entity in San Jose.
+- **Highland Political LLC — MAJOR CORRECTION below.**
+
+#### Highland Political LLC — major correction
+
+**The original beat draft claimed Highland Political LLC was "not registered in Tennessee" with "zero other documented political clients in FEC." Both claims were wrong.** The earlier TN SOS verification was based on a URL parameter that didn't auto-execute the search. After David ran the manual search:
+
+- **TN SOS Control No. 001233345,** formed 8/27/2021
+- **Status: Inactive - Dissolved (Administrative)** since April 2023 (failed to file 2023 Annual Report; AR Standing: Delinquent)
+- **Address: 555 Church St Apt 1902, Nashville, TN 37219** — residential apartment in downtown Nashville
+- **Self-registered as own registered agent**
+- Member-managed, 6 or fewer members
+- FEC Schedule B disbursement query returned **143 records totaling $505,005 since 2009**
+- Top federal clients are **overwhelmingly California Republican congressional campaigns**: Maryott for Congress ($173,925), Bill Wells for Congress ($133,090), Margarita Wilkinson for Congress 2024 ($42,906), Highland Capital Management PAC ($20,288 — different "Highland," Texas-based hedge fund PAC, name coincidence), Missouri Democratic State Committee ($19,340), Richard Bailey for Congress ($19,302), CA Republican Party Federal Account ($18,179), Paul R Davis for Central IL ($9,998 in 2026), Vince Fong ($5,610), Young Kim ($3,000), Michelle Steel ($1,000)
+- Services per recent FEC disbursement descriptions: political texting · campaign text services · fundraising consulting
+- **The firm continued operating through 2023-2024 ($226K in federal payments) while administratively dissolved by Tennessee**
+- **Founder publicly attributed to June Cutter** — CA Republican attorney, 2020 CA Assembly D77 candidate (vs Brian Maienschein), 2022 CA Assembly D76 candidate, current **Executive Director of America First California** (Trump-aligned state-level organization)
+- Domain highlandpolitical.com does not resolve in DNS
+
+The corrected structural finding is materially stronger than the original "shell entity" framing: *an established political-services firm with a real CA Republican client base, dissolved by its state of registration, continues operating as a paid federal-campaign vendor and has now been paid $63,893 by Pratt's LA mayoral campaign in 2026.*
+
+#### LAMC §49.7.13 retraction (statutory-citation correction)
+
+The earlier beat draft cited "LA Municipal Code §49.7.13" as a parallel statutory source for the corporate-contribution ban. Web search of `codelibrary.amlegal.com` returned **no §49.7.13 corporate-contribution provision**. The correct location of the ban is **LA City Charter Section 470, "Limitations on Campaign Contributions in City Elections,"** at `https://codelibrary.amlegal.com/codes/los_angeles/latest/laac/0-0-0-1874`. All §49.7.13 references in beat prose removed; methodology block logs the correction in journalism corrections-log style.
+
+#### Documentary-evidence exhibits
+
+Added two inline `.exhibit` blocks reproducing the TN SOS search-result and entity-detail records for Highland Political LLC. New `.exhibit` / `.exhibit-header` / `.exhibit-body` / `.exhibit-record` / `.exhibit-caption` CSS treatment: black header bar (yellow exhibit label + space-mono source attribution), key/value grid with red status pill for "Inactive - Dissolved," italic Instrument Serif caption. The exhibits give the reader the documentary content without depending on a working TN SOS URL (which can't be deep-linked).
+
+#### URL pass (6 items)
+
+Worked through David's URL-pass notes in `data/beat-verifications.jsonl`. Replaced or reframed:
+
+| Verification ID | Resolution |
+|---|---|
+| `spencer-pratt-committee-1485940` | Replaced `ethicsdata.lacity.org` (dead) with Socrata CSV deep-link `data.lacity.org/resource/m6g2-gc6c.csv?cmt_id=1485940` — one-click CSV download of Pratt-only records, no SPA hang |
+| `spencer-pratt-caruso-cross-reference` | Replaced with CSV deep-link `data.lacity.org/resource/m6g2-gc6c.csv?cmt_nm=Caruso%20for%20Mayor%202022` |
+| `spencer-pratt-schedule-c-delta` | Citation reframed with explicit search-portal reproduction instructions; DCA portal doesn't deep-link (state held in cookies) |
+| `spencer-pratt-grigsby-lawsuit` | Added inline citation linking to `palisadesfirelitigationportal.com/Home/CourtInfo` (verified via direct fetch: Department 7, Judge Samantha Jessner, McNulty Liaison Counsel) |
+| `spencer-pratt-highland-political-llc` | MAJOR correction (see above) + two documentary-evidence exhibits |
+| `spencer-pratt-corporate-contribution-ban` | URL added: `codelibrary.amlegal.com` for Charter §470; LAMC §49.7.13 retired |
+
+Also fixed two URLs damaged by the hyphen-removal pass earlier in the session: `ew.com` "wildfire-victims" and `therealdeal` "real-estate-money" had been incorrectly converted to space-separated forms; restored.
+
+#### Em-dash + AI-vernacular sweep
+
+Full scan against the rendered text: zero em dashes, zero en dashes. The 14 em dashes I added during the receipts pass were swept (replaced with commas, colons, parentheses, or period-restart). One late em dash leaked back via the Highland Political correction prose — swept on second pass. Confirmed clean via DOM eval against rendered innerText. Conservative compound-modifier hyphen pass also done: `out-of-state` → `out of state`, `long-time` → `longtime`, `campaign-finance` → `campaign finance`, `private-security` → `private security`, `conflict-of-interest` → `conflict of interest`, `real-estate` → `real estate`, `fire-victim` → `fire victim`, `self-employed` → `self employed`, `five-year` → `five year`, `four-figure` → `four figure`, `small-dollar` → `small dollar`, `high-dollar` → `high dollar`, `corporate-named` → `corporate named`, `three-quarters` → `three quarters`, `graphic-design` → `graphic design`, `crystal-merchandise` → `crystal merchandise`, `primary-source` → `primary source`. Kept hyphens in technical terms of art (in-kind, non-cash, non-monetary, off-duty, co-plaintiffs, max-out) and in URL slugs / proper names / ZIP codes / dates / class names.
+
+#### Officer-name discipline (Delta DSOC principals)
+
+After David raised the defamation-exposure question on naming individuals, the four BSIS-disclosed officers (Cho, Kang, Burroughs, Lee) were deliberately stripped from beat prose. The entity-level finding stands without naming them. The methodology block documents that the firm's roster of officers is disclosed on its public BSIS license but not surfaced in this beat's narrative. Saved this discipline as the operative pattern for any beat involving private individuals at a regulated entity. *Memory rule candidate: name entities, not individuals, unless the individuals are public-figure officeholders or have themselves made a public claim being challenged.*
+
+#### Ops wiring (Pratt visible in /site-preview + /active-beat)
+
+The Pratt beat was created in a prior session but had not been wired into ops. Added:
+- `ops/src/app/site-preview/page.tsx` — site-preview card with status `draft-isolated` and full description
+- `ops/src/lib/beats-catalog.ts` — full `BeatRecord` with 9 `verificationSeeds`, `perplexityRounds` (1 entry), `auditPasses` (2 entries), `editorialChecklist` (8 entries)
+- `prototype/server.cjs` already had route — no change
+
+After main-repo merge to v4, the running ops dev server at `localhost:3333` picked up the new records via hot-reload.
+
+### Independent verifications performed (Rule 13 + ADR-0030 §1/§11)
+
+Logged to `data/code-audit-fetches.jsonl`:
+
+✅ Confirmed via primary government sources:
+- LA City Ethics Socrata API: pulled 1,634 Pratt contributions + 248 Pratt expenditures (committee 1485940 contribs / internal 26519 expends)
+- Delaware Division of Corporations: confirmed Komos, Inc. (File #6990327, 2018) + Casa Komos Beverage Group LLC (File #7563318, 2019)
+- CA DCA BSIS license database: confirmed PPO #122040 = DSOC, four corporate officers disclosed
+- CA SOS bizfile: confirmed NO matching corporate registration for "Delta Special Operations" / "DSOC" / "Royce Burroughs" / "Hyon Suk" / "Lloyd Kang" → DSOC operates with corporate-officer governance but no underlying CA SOS entity record at the address
+- TN SOS tncab.tnsos.gov: confirmed HIGHLAND POLITICAL, LLC Control No. 001233345, Inactive-Dissolved status (David's manual search + screenshots)
+- OpenFEC Schedule B: confirmed 143 Highland Political disbursement records, $505,005 since 2009
+- Palisades Fire Litigation Portal: confirmed Grigsby v. City of LA case caption + Judge Jessner + McNulty as Liaison Counsel
+- codelibrary.amlegal.com: confirmed LA Charter §470 "Limitations on Campaign Contributions in City Elections" is the correct statutory authority
+
+❌ Falsified or retracted:
+- Original "Highland Political LLC not registered in TN" claim — FALSIFIED, firm exists but is administratively dissolved
+- Original "Highland Political LLC has zero other FEC clients" claim — FALSIFIED, 143 FEC records totaling $505K
+- LAMC §49.7.13 citation — RETRACTED, no such provision found; ban is at Charter §470 only
+- `ethicsdata.lacity.org` URL — DEAD (LA Ethics migrated to .gov domain)
+
+### Commits to v4 this session (in order)
+
+- `3f32e73a9` — Pratt beat: receipts pass + entity profiles + section reorg + ops wiring (worktree)
+- `7ace084ff` — merge to v4
+- `4dfcc7c4b` — URL pass fixes: Charter §470 + new LA Ethics .gov URLs + Grigsby + DCA/TN framing (worktree)
+- `90357b3d8` — merge to v4
+- `e013d2632` — upgrade LA Ethics citations to Socrata explore-URL deep-links (worktree only)
+- `462659754` — swap hanging Socrata explore URLs for stable CSV download URLs (worktree)
+- `fc2adbba9` — merge to v4
+- `f11d42280` — v4 push after CSV upgrade
+- `4432db54c` — Highland Political LLC major correction (worktree)
+- `d4ed2a38b` — merge to v4
+- `48c5fc061` — embed TN SOS documentary evidence for Highland Political LLC (worktree)
+- `f8c6049d4` — merge to v4
+
+### URL-pass status snapshot (end of session)
+
+Of 10 Pratt verification rows in `data/beat-verifications.jsonl`:
+
+- ✅ **Verified by David** (4): Komos legal · Real Deal Meldman dispute · Fox 11 Pratt quote · Tyler Treats portfolio
+- 🔄 **Reopened with corrected URLs/details, awaiting re-verify** (6): Pratt committee · Caruso x-ref · Delta BSIS · Grigsby · Highland Political (with embedded exhibits) · Charter §470
+
+### NEXT SESSION PRIORITIES
+
+1. **Apply the same documentary-evidence exhibit pattern to the remaining verification rows** that depend on JS-walled portals — Delta BSIS license (PPO #122040), DCA license citation, potentially others. David flagged he has more verifications he wants to handle this way. Reproduce the `.exhibit` CSS pattern with the state-license data inline.
+2. **Complete remaining 5 open Pratt verifications** in `/active-beat/spencer-pratt` workspace — mark verified once the new exhibits and CSV-download URLs are confirmed.
+3. **Tier 3 / David decision: publish Pratt?** The beat is correctness-complete and URL-passed except for the structural-portal items. Not yet in `data/public-routes.json`. Add to public-routes when ready (Tier 3 / David-only per memory rule).
+4. **Resume Second Floor beat work** — still owed: Jennifer Mitchell + Campaign Finance Services LLC Perplexity prompt was written but not yet run; that round, when complete, unlocks the structural-anchor revisions for `/second-floor` (single 2.5-acre parcel, Mills Act, HMI Corp ownership, named-Pacheco-only line, tribal-donor reframe, $101K BPP open question).
+5. **Continue session-save discipline.** This session shipped substantial editorial corrections; future sessions should preserve the corrections-log style in the methodology block.
+
+### OPEN DEFERRALS (from prior sessions, still open)
+
+- Fresh FEC bulk download (weball24 / weball26)
+- ProfileSearch browser verification
+- `donors_to` intent row splitting
+- ADR-0017 readiness tier sync into entities.jsonl
+- Rule 9 enforcement promotion
+- LA City Ethics Socrata API workflow rule (now formally documented in beats-catalog editorialChecklist; should also be saved as a memory rule)
+- The "Sprint-schedule.md past April 30 end date" issue is still open — should be transitioned to a May sprint with the URL-pass and editorial-exhibit work loaded as new tasks.
+
+---
+
 ## HANDOFF — 2026-05-09 through 2026-05-11 (cc_vibrant-williams, Code Claude · Riverside megabeat assembly + 6 beat drafts from scratch)
 
 **Context:** Code Claude. Worktree `claude/vibrant-williams-5b0381`, Opus 4.7 (1M context). Three-day session that started on Bass-Airbnb research (the Wesson family pipeline at LA City Hall) and pivoted into a deep Riverside County investigation that collapsed five separate beat candidates into a single structural megabeat: **The Second Floor** at 3649 Mission Inn Ave Floor 2 Rotunda. Six new beat drafts produced. Major Gemini Deep Research integrations. Distribution / pitch plan saved.
