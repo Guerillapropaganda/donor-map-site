@@ -166,6 +166,15 @@ const CHECKS = [
     queue: { bucket: 'blocking', leverage: 5, cost_min: 30 },
   },
   {
+    name: 'beats-freshness',
+    description:
+      "Cross-beat data-staleness monitor. Live beats render campaign-finance numbers 'as of <last pull>'; sources refresh on their own cadence, our ingests are manual. CA Governor beats back on Cal-Access bulk (SoS CDN daily dump); LA Mayoral beats back on LA Ethics Socrata (Schedule A/E frozen at last pre-election 460; Form 497s are PDF-only). findings_count = stale source count. Self-expires per RACE_WINDOWS (2026 cycle: monitoring_expires 2027-01-31) — goes dormant after the cycle's final filing deadline so it doesn't nag forever; re-arm RACE_WINDOWS for the next cycle.",
+    cmd: ['node', 'scripts/beats-freshness-check.cjs', '--json'],
+    parse: parseBeatsFreshness,
+    timeout_ms: 90000,
+    queue: { bucket: 'advisory', leverage: 4, cost_min: 30 },
+  },
+  {
     name: 'no-inline-field',
     description: 'Dataview-style `field:: value` in profile body (banned)',
     cmd: ['node', 'scripts/no-inline-field-sentinel.cjs', '--all'],
@@ -509,6 +518,29 @@ function parseRoleEmptyMonetary(stdout, _stderr, _exit) {
     };
   } catch {
     return { findings_count: 0, notes: 'role-empty-monetary parse failed' };
+  }
+}
+
+function parseBeatsFreshness(stdout, _stderr, _exit) {
+  try {
+    const j = JSON.parse(stdout);
+    if (j.expired) {
+      return { findings_count: 0, notes: 'All race windows expired — monitor dormant. Re-arm RACE_WINDOWS for next cycle.' };
+    }
+    const stale = j.findings_count || 0;
+    const unverifiable = j.unverifiable || 0;
+    const staleNames = (j.sources || []).filter((s) => s.stale).map((s) => s.race);
+    return {
+      findings_count: stale,
+      notes:
+        stale === 0
+          ? (unverifiable
+              ? `All monitored beat sources current (${unverifiable} unverifiable — source endpoint unreachable).`
+              : 'All monitored beat sources current.')
+          : `${stale} stale beat data source(s): ${staleNames.join(', ')}. Re-ingest / fold new filing before citing beat numbers as current.`,
+    };
+  } catch {
+    return { findings_count: 0, notes: 'beats-freshness parse failed' };
   }
 }
 
