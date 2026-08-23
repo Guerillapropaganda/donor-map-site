@@ -1403,8 +1403,8 @@
   "vault-audit": [
     {
       "bucket": "compounding",
-      "what": "vault-audit: librarian-gap-audit — 435 findings",
-      "why": "Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 435 high-leverage gap(s) (≥10 appearances) — 3910 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3746 alias-cand",
+      "what": "vault-audit: librarian-gap-audit — 436 findings",
+      "why": "Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — 436 high-leverage gap(s) (≥10 appearances) — 3912 total: 143 unresolvable, 17 node-isolated, 4 fec-committee-suspect, 3748 alias-cand",
       "where": "/system-health",
       "cost_min": 30,
       "leverage": 4,
@@ -1412,7 +1412,7 @@
       "created": "2026-04-30",
       "metadata": {
         "check": "librarian-gap-audit",
-        "findings_count": 435
+        "findings_count": 436
       }
     },
     {
@@ -1431,7 +1431,7 @@
     },
     {
       "bucket": "blocking",
-      "what": "vault-audit: type-specific-a-plus — 1323 findings",
+      "what": "vault-audit: type-specific-a-plus — 1302 findings",
       "why": "Per-type A+ publication bar (ADR-0022): universal floor + type-specific checks for politician/donor/corporation/think-tank — 446 scanned, 0 pass, 446 fail. By type: donor 0/266, corporation 0/6, politician 0/164, state-politician 0/7, local-politician 0/1, think-tank 0/2.",
       "where": "/system-health",
       "cost_min": 45,
@@ -1440,7 +1440,7 @@
       "created": "2026-04-30",
       "metadata": {
         "check": "type-specific-a-plus",
-        "findings_count": 1323
+        "findings_count": 1302
       }
     },
     {
@@ -1460,7 +1460,7 @@
     {
       "bucket": "deciding",
       "what": "vault-audit: reconciliation-framework-tier-1 — 7 findings",
-      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 7 error, 6685 warn (6692 findings total).",
+      "why": "Data integrity: absurd-value frontmatter, self-loop edges, duplicates, orphans — 7 error, 25672 warn (25679 findings total).",
       "where": "/system-health",
       "cost_min": 45,
       "leverage": 4,
@@ -1473,8 +1473,8 @@
     },
     {
       "bucket": "compounding",
-      "what": "vault-audit: story-pages-integrity — 25 findings",
-      "why": "Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings. — 25 integrity issue(s): 0 broken-ref, 1 stale, 24 duplicate",
+      "what": "vault-audit: story-pages-integrity — 1 finding",
+      "why": "Auto-detected story candidates (data/stories.jsonl): broken wikilinks, stale both-sides patterns (counterparty no longer in donors+opposes after edit), duplicate subject+counterparty pairs. Writes integrity_status flags so /stories surfaces warnings. — 1 integrity issue(s): 0 broken-ref, 1 stale, 0 duplicate",
       "where": "/system-health",
       "cost_min": 5,
       "leverage": 2,
@@ -1482,13 +1482,13 @@
       "created": "2026-04-30",
       "metadata": {
         "check": "story-pages-integrity",
-        "findings_count": 25
+        "findings_count": 1
       }
     },
     {
       "bucket": "deciding",
-      "what": "vault-audit: frontmatter-schema — 213 findings",
-      "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2955 scanned, 1684 with violations. 213 error(s) (universal/type-required/id/retired/unknown-type), 3085 info (proposed-required backfill per ADR-0023 Phase C/D).",
+      "what": "vault-audit: frontmatter-schema — 209 findings",
+      "why": "Frontmatter schema violations per ADR-0023 (universal/type-required/proposed-required/retired) — 2955 scanned, 1674 with violations. 209 error(s) (universal/type-required/id/retired/unknown-type), 3075 info (proposed-required backfill per ADR-0023 Phase C/D).",
       "where": "/system-health",
       "cost_min": 60,
       "leverage": 3,
@@ -1496,7 +1496,7 @@
       "created": "2026-04-30",
       "metadata": {
         "check": "frontmatter-schema",
-        "findings_count": 213
+        "findings_count": 209
       }
     },
     {
@@ -1515,8 +1515,22 @@
     },
     {
       "bucket": "compounding",
-      "what": "vault-audit: pathless-stub-entities — 13 findings",
-      "why": "Ghost entity records with no profile_path (Bob Casey class) — discovery-scanner stubs shadowing real profiles. — 13 ghost stub(s): 0 politician(s), 13 donor(s). 31 legitimate pathless (industry blocs, PAC-only, etc.).",
+      "what": "vault-audit: worktree-data-mirror — 3 findings",
+      "why": "Detects silent data divergence between worktree and main repo data/derived/. Catches the class of bug found 2026-04-29 where detectors ran on incomplete data without warning. — 0 missing, 3 size-mismatched. Remediate: node scripts/bootstrap-worktree-data.cjs",
+      "where": "/system-health",
+      "cost_min": 5,
+      "leverage": 4,
+      "source": "vault-audit",
+      "created": "2026-04-30",
+      "metadata": {
+        "check": "worktree-data-mirror",
+        "findings_count": 3
+      }
+    },
+    {
+      "bucket": "compounding",
+      "what": "vault-audit: pathless-stub-entities — 12 findings",
+      "why": "Ghost entity records with no profile_path (Bob Casey class) — discovery-scanner stubs shadowing real profiles. — 12 ghost stub(s): 0 politician(s), 12 donor(s). 31 legitimate pathless (industry blocs, PAC-only, etc.).",
       "where": "/system-health",
       "cost_min": 30,
       "leverage": 3,
@@ -1524,13 +1538,27 @@
       "created": "2026-04-30",
       "metadata": {
         "check": "pathless-stub-entities",
-        "findings_count": 13
+        "findings_count": 12
       }
     },
     {
       "bucket": "deciding",
-      "what": "vault-audit: duplicate-entity-profiles — 36 findings",
-      "why": "Two distinct vault profiles representing the same non-politician entity — donor/corporation/think-tank duplicates that the librarian sees as ambiguous and refuses to resolve. Detected via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. Editorial cleanup needed. — 36 duplicate group(s) found. Editorial cleanup: pick canonical profile per group, archive the other(s).",
+      "what": "vault-audit: duplicate-politician-profiles — 1 finding",
+      "why": "Two distinct vault profiles mapping to the same politician (Ed Markey + Edward J. Markey class) — editorial cleanup needed. — 1 politician(s) have >1 vault profile mapping to the same bioguide.",
+      "where": "/system-health",
+      "cost_min": 30,
+      "leverage": 4,
+      "source": "vault-audit",
+      "created": "2026-04-30",
+      "metadata": {
+        "check": "duplicate-politician-profiles",
+        "findings_count": 1
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "vault-audit: duplicate-entity-profiles — 39 findings",
+      "why": "Two distinct vault profiles representing the same non-politician entity — donor/corporation/think-tank duplicates that the librarian sees as ambiguous and refuses to resolve. Detected via shared FEC committee_id, EIN, SEC CIK, or identical normalized name. Editorial cleanup needed. — 39 duplicate group(s) found. Editorial cleanup: pick canonical profile per group, archive the other(s).",
       "where": "/system-health",
       "cost_min": 30,
       "leverage": 4,
@@ -1538,7 +1566,7 @@
       "created": "2026-04-30",
       "metadata": {
         "check": "duplicate-entity-profiles",
-        "findings_count": 36
+        "findings_count": 39
       }
     },
     {
@@ -1581,20 +1609,6 @@
       "metadata": {
         "check": "librarian-gap-decisions",
         "findings_count": 71
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "vault-audit: editorial-decision-provenance — 556 findings",
-      "why": "ADR-0029 Rule 16 enforcement. Verifies every editorial-decision record in non-candidate state has decided_by + decided_at provenance, and that auto_revert_eligible is consistent with decided_by. Without provenance the weekly sample-audit cant tell what Claude did vs David did, and the safety net degrades silently. Hard-fails: missing decided_by, invalid decided_by, missing decided_at, inconsistent",
-      "where": "/system-health",
-      "cost_min": 5,
-      "leverage": 5,
-      "source": "vault-audit",
-      "created": "2026-04-30",
-      "metadata": {
-        "check": "editorial-decision-provenance",
-        "findings_count": 556
       }
     },
     {
