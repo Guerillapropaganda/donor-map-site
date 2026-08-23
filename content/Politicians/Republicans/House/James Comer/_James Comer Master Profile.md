@@ -1,7 +1,7 @@
 ---
 title: James Comer
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The B...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -40,7 +40,11 @@ wikidata-id: Q6131602
 wikipedia-url: https://en.wikipedia.org/wiki/James_Comer
 wikipedia-extract: James Richardson Comer Jr. is an American politician from Kentucky who represents the state's 1st congressional district in the United States House of Representatives.
 born: "1972-08-19"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[ALLIANCE COAL, LLC PAC]] · [[TOGETHER WE THRIVE]] · [[Alliance Coal, LLC PAC]]"
 donors: "[[Alliance Coal, LLC PAC]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[TOGETHER WE THRIVE]] · [[ALLIANCE COAL, LLC PAC]] · [[Tyson Foods]] · [[AT&T - WarnerMedia]] · [[Anthem - Elevance Health]] · [[Tzedek PAC]] · [[Walmart - Walton Family]] · [[National Rifle Association]] · [[National Association of Realtors]] · [[Microsoft]] · [[Chevron]] · [[American Chemistry Council, INC]] · [[Gilead Sciences]] · [[Valero Energy]] · [[ADM - Archer Daniels Midland]] · [[Amgen Inc]] · [[Pfizer Inc.]] · [[Marathon Petroleum]] · [[American Gaming Association]] · [[Associated General Contractors of America Political Action Committee]] · [[Google - Alphabet]] · [[National Cattlemen's Beef Association]] · [[Lockheed Martin]] · [[American Hospital Association PAC]] · [[Humana]] · [[Honeywell]] · [[Save America PAC]] · [[Raytheon (RTX)]] · [[WinRed]] · [[AIPAC - American Israel Public Affairs Committee]] · [[MAJORITY PAC]] · [[Comcast - NBCUniversal]] · [[AbbVie]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[DoorDash]] · [[Ford Motor Company]] · [[Honeywell International]] · [[National Right to Life PAC]] · [[Majority PAC]] · [[AT&T]] · [[Raytheon (RTX Corporation)]] · [[Meta - Facebook]] · [[Brett Guthrie]] · [[Tom Emmer]] · [[Steve Scalise]] · [[Paul Ryan]] · [[Akin Gump Strauss Hauer & Feld]] · [[JASON SMITH FOR CONGRESS]] · [[NRA Political Victory Fund]] · [[Cargill]] · [[Koch Industries]] · [[AUSTIN SCOTT FOR CONGRESS INC]] · [[TEXANS FOR JODEY ARRINGTON]] · [[National Restaurant Association]] · [[Darin Lahood]] · [[DAVID ROUZER FOR CONGRESS]] · [[JIM JORDAN FOR CONGRESS]] · [[Jason Smith]] · [[David Rouzer]] · [[Jodey Arrington]] · [[Jim Jordan]] · [[Duke Energy]] · [[General Motors]] · [[CVS Health - Aetna]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
 bills-enacted: 0
@@ -54,6 +58,18 @@ known-gaps:
   - No FEC contribution data
 fec-committee-id: C00588764
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

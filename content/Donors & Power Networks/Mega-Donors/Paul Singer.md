@@ -1,7 +1,7 @@
 ---
 title: Paul Singer
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 aliases:
   - Paul Singer
@@ -17,6 +17,8 @@ net-assets: $276.4M
 tax-year: "2023"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 227044787
 total-assets: 172417068
 court-cases: 155
@@ -40,7 +42,22 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73,10 +90,10 @@ checklist-na:
 
 | Politician | Amount |
 |---|---:|
-| Kevin McCarthy | $500,800 |
+| Kevin McCarthy | $253,500 |
+| Paul Ryan | $10,200 |
 | John Boehner | $168,000 |
 | Mitt Romney | $25,800 |
-| Paul Ryan | $10,200 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

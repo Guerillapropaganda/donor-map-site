@@ -1,7 +1,7 @@
 ---
 title: Booz Allen Hamilton
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ lobbying-spend: 6460000
 lobbying-filings: 48
 federal-register-mentions: 139
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Antitrust Division
   - Commerce Department
@@ -72,7 +74,22 @@ federal-contracts: 4443
 employee-contributions: 6830
 employee-contributions-total: 1062512
 employee-donor-count: 1355
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

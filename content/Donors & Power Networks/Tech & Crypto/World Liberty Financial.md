@@ -1,7 +1,7 @@
 ---
 title: World Liberty Financial
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 ein: "813552287"
 nonprofit-status: 501(c)(3)
 lobbying-spend: 1859712
@@ -21,7 +23,22 @@ related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donal
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Debbie Stabenow
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Stabenow is the Farm Bill senator , the Democrat who controlled more agribusiness spending than any other member of her caucus for over a decade. Her Agriculture Committee chairmanship gave her jurisdiction over crop insurance subsidies (the large...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -36,6 +36,8 @@ donors: "[[Sam Bankman-Fried]] · [[Bill Gates]] · [[California Farm Bureau Fed
 bills-enacted: 0
 top-policy-area: Health
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 opposes: "[[Donald Trump]]"
 fec-committee-ids:
   - C00307710
@@ -43,7 +45,26 @@ fec-committee-ids:
   - C00355370
   - C00410480
   - C00495580
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Universal healthcare / Medicare expansion
+title: "Universal healthcare / Medicare expansion"
 type: policy
 slug: healthcare
 policy-id: pol_healthcare
@@ -13,10 +13,9 @@ class-analysis-tags:
   - anti-trust-defender
   - deregulatory
 content-readiness: draft
-last-updated: 2026-04-27T00:00:00.000Z
+last-updated: 2026-08-21
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-source-tier: 1
 ---
 
 # Universal healthcare / Medicare expansion
@@ -56,16 +55,16 @@ Opposition comes from **pharma-capital, finance-capital** — the capital fracti
 
 | Donor | Capital type | Total spend | Politicians funded | Cross-policy |
 |---|---|---|---|---|
-| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $6.5B | 137 | **4 of 5** |
+| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $8.5B | 139 | **4 of 5** |
+| [[National Philanthropic Trust|National Philanthropic Trust]] | finance-capital | $3.9B | 58 | **4 of 5** |
+| [[Schwab Charitable Fund|Schwab Charitable Fund]] | finance-capital | $3.4B | 67 | **4 of 5** |
+| [[Goldman Sachs Philanthropy Fund|Goldman Sachs Philanthropy Fund]] | finance-capital | $2.8B | 39 | **4 of 5** |
+| [[Silicon Valley Community Foundation|Silicon Valley Community Foundation]] | finance-capital | $2.0B | 46 | **4 of 5** |
+| [[American Endowment Foundation|American Endowment Foundation]] | finance-capital | $954.2M | 37 | **4 of 5** |
+| [[Vanguard Charitable Endowment Program|Vanguard Charitable Endowment Program]] | finance-capital | $739.2M | 49 | **4 of 5** |
+| [[Morgan Stanley Global Impact Funding Trust|Morgan Stanley Global Impact Funding Trust]] | finance-capital | $461.6M | 38 | **4 of 5** |
 | [[Blackstone Group|Blackstone Group]] | finance-capital | $99.9M | 109 | **4 of 5** |
-| [[Elliott Management|Elliott Management]] | finance-capital | $38.3M | 39 | **4 of 5** |
-| [[Charles Schwab|Charles Schwab]] | finance-capital | $33.9M | 82 | **4 of 5** |
-| [[PhRMA|PhRMA - Pharmaceutical Research and Manufacturers of America]] | pharma-capital | $30.9M | 45 | — |
-| [[Citadel - Kenneth Griffin|Citadel - Kenneth Griffin]] | finance-capital | $22.7M | 61 | **4 of 5** |
-| [[Pfizer|Pfizer Inc.]] | pharma-capital | $7.5M | 432 | — |
-| [[Apollo Global Management|Apollo Global Management]] | finance-capital | $7.4M | 54 | **4 of 5** |
-| [[Amgen Inc|Amgen Inc]] | pharma-capital | $6.6M | 375 | — |
-| [[Goldman Sachs|Goldman Sachs]] | finance-capital | $6.1M | 133 | **4 of 5** |
+| [[ImpactAssets|ImpactAssets]] | finance-capital | $69.0M | 28 | **4 of 5** |
 
 _See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
 

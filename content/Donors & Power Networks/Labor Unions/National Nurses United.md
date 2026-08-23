@@ -1,7 +1,7 @@
 ---
 title: National Nurses United
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -17,6 +17,8 @@ total-political-spend: $25,048,260
 politicians-funded: "[[Raul Grijalva]], [[Mark Takano]], [[Jim McGovern]], [[Ilhan Omar]], [[Tammy Baldwin]], [[Bernie Sanders]], [[Sarah Huckabee Sanders]], [[John Fetterman]], [[Rashida Tlaib]], [[Maxwell Frost]], [[Elizabeth Warren]], [[_Rashida Tlaib Master Profile]], [[Lateefah Simon]], [[Judy Chu]], [[Pramila Jayapal]], [[Dina Titus]], [[Raphael Warnock]], [[Daniel Biss]], [[Jamaal Bowman]], [[Sydney Kamlager-Dove]], [[Juliana Stratton]], [[National Nurses United]], [[Betty McCollum]], [[Dave Min]], [[Eric Swalwell]], [[Indivisible Action]], [[Alexandria Ocasio-Cortez]], [[George Whitesides]], [[Veronica Escobar]], [[Alex Padilla]], [[Nikema Williams]], [[Barbara Lee]], [[Summer Lee]], [[Jon Ossoff]], [[Sherrod Brown]], [[Working Families Party PAC]], [[Josh Harder]], [[Paul Tonko]], [[Lloyd Doggett]], [[Brad Sherman]], [[Ro Khanna]], [[Robert Garcia]], [[Nina Turner]], [[ActBlue]], [[Cori Bush]], [[Mark Pocan]], [[Jahana Hayes]], [[Debbie Dingell]], [[Ayanna Pressley]], [[Elissa Slotkin]], [[Diana Degette]], [[Jamie Raskin]], [[Steve Cohen]], [[Laura Friedman]], [[Jared Huffman]], [[Derek Tran]], [[Kevin Mullin]], [[Shri Thanedar]], [[Grace Meng]], [[Dan Goldman]], [[Dan Osborn]], [[Graham Platner]], [[WinSenate]], [[Mike Quigley]], [[Sara Jacobs]], [[Luz M. Rivas]], [[Jesus G. Chuy Garcia]], [[Patty Murray]], [[Janice D. Schakowsky]], [[John Garamendi]], [[Katie Porter]], [[Greg Casar]], [[Joe Biden]], [[Teresa Leger Fernandez]], [[Steven Horsford]], [[Eleanor Holmes Norton]], [[Julia Brownley]], [[Alma S. Adams]], [[Chellie Pingree]], [[Valerie P. Foushee]], [[Delia C. Ramirez]], [[Jared F. Golden]], [[Jonathan L. Jackson]], [[Darren Soto]], [[Maxine Waters]], [[Angela D. Alsobrooks]], [[Salud O. Carbajal]], [[Ami Bera]], [[John W. Mannion]], [[Katherine M. Clark]], [[Chris van Hollen]], [[Frederica S. Wilson]], [[Ed Markey]], [[William R. Keating]], [[Linda T. Sanchez]], [[Scott H. Peters]], [[Zoe Lofgren]], [[Chuck Schumer]], [[Angie Craig]], [[Yvette D. Clarke]], [[Melanie A. Stansbury]], [[Christian D. Menefee]], [[Kamala Harris]], [[Nikki Budzinski]], [[Barack Obama]]"
 federal-register-mentions: 28
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Antitrust Division
   - Consumer Financial Protection Bureau
@@ -44,7 +46,22 @@ employee-donor-count: 264
 fec-committee-ids:
   - C00446237
   - C70005376
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -79,16 +96,16 @@ fec-committee-ids:
 
 | Politician | Amount |
 |---|---:|
-| Raphael Warnock | $37,606 |
+| Raphael Warnock | $32,606 |
 | Bernie Sanders | $22,500 |
 | Pramila Jayapal | $17,500 |
 | Mark Takano | $15,500 |
-| Elizabeth Warren | $15,000 |
 | Raul Grijalva | $12,500 |
-| Judy Chu | $10,500 |
 | Janice D. Schakowsky | $10,000 |
 | Mark Pocan | $10,000 |
 | Tammy Baldwin | $10,000 |
+| Jim McGovern | $8,500 |
+| Jamaal Bowman | $8,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

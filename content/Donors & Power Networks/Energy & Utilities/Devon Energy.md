@@ -1,7 +1,7 @@
 ---
 title: Devon Energy
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
 lobbying-spend: 810000
 lobbying-filings: 18
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 ein: "365040938"
 annual-revenue: $1
 net-assets: $1
@@ -50,7 +52,22 @@ employee-contributions: 30436
 employee-contributions-total: 2360937
 employee-donor-count: 1972
 fec-committee-id: C00354753
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -83,16 +100,16 @@ fec-committee-id: C00354753
 
 | Politician | Amount |
 |---|---:|
-| Marco Rubio | $35,100 |
-| John Barrasso | $15,000 |
-| Tom Cole | $15,000 |
-| Frank Lucas | $15,000 |
-| August Pfluger | $10,350 |
-| Jim Costa | $10,000 |
-| Henry Cuellar | $10,000 |
-| Vicente Gonzalez | $10,000 |
-| Julie Fedorchak | $8,800 |
-| James Lankford | $7,500 |
+| Tom Cole | $68,000 |
+| Frank Lucas | $66,500 |
+| Marco Rubio | $55,100 |
+| Markwayne Mullin | $48,500 |
+| James Lankford | $47,500 |
+| John Barrasso | $40,000 |
+| Jim Inhofe | $37,000 |
+| John Boehner | $31,500 |
+| Paul Ryan | $28,500 |
+| Mitch McConnell | $26,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

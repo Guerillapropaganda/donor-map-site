@@ -1,7 +1,7 @@
 ---
 title: Alexandria Ocasio-Cortez Master Profile
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: AOC represents the donor class's nightmare AND its containment strategy. Her small-dollar funding model proves that politicians don't need corporate money — a demonstration effect that terrifies every institution that depends on the funding chokeh...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -46,7 +46,15 @@ opposes: "[[Donald Trump]] · [[AIPAC - American Israel Public Affairs Committee
 related: "[[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]"
 needs-reenrichment: true
 reenrich-reason: run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-18"
 committees:
   - House Committee on Energy and Commerce
@@ -59,6 +67,18 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 top-policy-area: Health
 fec-committee-id: C00639591
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

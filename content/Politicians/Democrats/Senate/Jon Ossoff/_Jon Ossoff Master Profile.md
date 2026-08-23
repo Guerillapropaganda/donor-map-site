@@ -1,7 +1,7 @@
 ---
 title: Jon Ossoff
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Jon Ossoff is the template for next-generation corporate Democrats: young, visually polished, media-savvy, positioned as anti-establishment 'outsider' despite strong establishment backing. His documentary filmmaker brand provided authenticity cove..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -22,6 +22,8 @@ phone: 202-224-3521
 total-received: $31,605,071
 fec-candidate-id: S8GA00180
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 source-types:
   - FEC
   - GovTrack
@@ -37,7 +39,26 @@ opposes: "[[Donald Trump]]"
 fec-committee-ids:
   - C00630426
   - C00718866
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

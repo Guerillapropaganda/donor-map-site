@@ -1,7 +1,7 @@
 ---
 title: Amazon
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
 ein: "873103053"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 lobbying-spend: 42075000
 lobbying-filings: 59
 related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[_Donald Trump Master Profile|Trump]] · [[Labor - Donors and Backers]] · [[Elon Musk]] · [[Cathy McMorris Rodgers Master Profile]] · [[Oracle]] · [[Microsoft]] · [[Pramila Jayapal]] · [[Meta - Facebook]] · [[Google - Alphabet]] · [[Apple]] · [[Anthropic]] · [[Starbucks]] · [[UPS]] · [[Jeff Bezos]] · [[Comcast - NBCUniversal]]"
@@ -57,7 +59,22 @@ epa-states: CA, FL, KY, NV, TX, WA
 employee-contributions: 50889
 employee-contributions-total: 8050153
 employee-donor-count: 8790
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

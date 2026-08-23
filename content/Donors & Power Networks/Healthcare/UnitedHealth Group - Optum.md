@@ -1,7 +1,7 @@
 ---
 title: UnitedHealth Group - Optum
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -33,6 +33,8 @@ subawards-issued: 50
 subawards-received: 50
 federal-register-mentions: 2
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Employment and Training Administration
   - Labor Department
@@ -44,7 +46,22 @@ epa-states: CA, MN, NV, TN
 employee-contributions: 13159
 employee-contributions-total: 1532687
 employee-donor-count: 2100
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 title: "Bill Cassidy Master Profile"
 type: politician
 bioguide-id: "C001075"
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Bill Cassidy is the vault's case study in how petrochemical and fossil fuel industry dominance in Louisiana's economy functions as a structural replacement for standard donor-class influence. Cassidy represents a state where the donor class and th..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -47,7 +47,11 @@ committees:
   - "Senate Committee on Veterans' Affairs"
   - Taxation and IRS Oversight
   - Water and Power
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fec-committee-ids:
@@ -55,6 +59,18 @@ fec-committee-ids:
   - C00543983
   - C00564203
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

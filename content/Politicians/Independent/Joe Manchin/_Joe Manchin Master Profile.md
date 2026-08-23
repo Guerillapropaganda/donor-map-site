@@ -2,7 +2,7 @@
 title: Joe Manchin
 type: politician
 bioguide-id: M001183
-content-readiness: ready
+content-readiness: draft
 central-thesis: Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator , one vote , killed $186 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -31,12 +31,33 @@ bills-cosponsored: 260
 bills-enacted: 1
 top-policy-area: Health
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-raised: $30.9M
 career-total-source: FEC weball summary (cycles 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024)
 fec-committee-ids:
   - C00486563
   - C00667501
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

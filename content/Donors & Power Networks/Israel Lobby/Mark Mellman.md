@@ -1,7 +1,7 @@
 ---
 title: "Mark Mellman"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: null
 parent: null
@@ -16,6 +16,8 @@ source-types:
 known-gaps:
   - "No lobbying disclosure data"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-political-spend: "$11,550"
 ein: 236224727
 annual-revenue: "$534"
@@ -25,7 +27,22 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -60,16 +77,16 @@ urls-first-triaged: "2026-04-15"
 
 | Politician | Amount |
 |---|---:|
-| Shontel Brown | $5,113,549 |
+| Shontel Brown | $5,111,803 |
+| Nina Turner | $3,050,272 |
 | George Latimer | $2,741,386 |
-| Nina Turner | $1,525,261 |
+| Bernie Sanders | $1,400,000 |
+| Jamaal Bowman | $855,225 |
 | Yassamin Ansari | $575,604 |
 | Wesley Bell | $493,753 |
-| Donald Trump | $435,400 |
-| Kamala Harris | $288,992 |
-| Raphael Warnock | $195,605 |
-| Jacky Rosen | $107,300 |
-| Jon Ossoff | $102,267 |
+| Joe Biden | $486,675 |
+| Donald Trump | $435,000 |
+| Sara Jacobs | $424,943 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

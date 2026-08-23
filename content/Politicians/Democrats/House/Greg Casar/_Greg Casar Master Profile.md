@@ -1,7 +1,7 @@
 ---
 title: "Greg Casar Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: '2026-04-10'
 source-tier: 2
 parent: null
@@ -39,13 +39,29 @@ top-policy-area: "Armed Forces and National Security"
 last-enriched: 2026-04-21
 needs-reenrichment: true
 reenrich-reason: "re-run CSV bulk: `node scripts/ingest-fec-pas2-bulk.cjs && node scripts/build-fec-lifetime-panels.cjs`"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fec-committee-ids:
   - C00791897
   - C00786194
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

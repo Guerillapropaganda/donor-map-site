@@ -1,7 +1,7 @@
 ---
 title: DMFI - Democratic Majority for Israel
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -41,7 +41,11 @@ known-gaps:
 related: ">- · [[AIPAC and the Progressive Purge]] · [[Sean Casten]] · [[Wesley Bell]] · [[Shontel Brown]] · [[Glenn Ivey]] · [[George Latimer]] · [[Bernie Sanders]] · [[John Fetterman]] · [[United Democracy Project - UDP]] · [[Summer Lee]] · [[Nina Turner]] · [[Ilhan Omar]] · [[Miriam Adelson]] · [[Mark Mellman]] · [[Fairshake PAC]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Think Big AI PAC]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[House Majority PAC]]"
 opposes: "[[Jamaal Bowman]]"
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
   - DMFI PAC
 checklist-na:
@@ -55,6 +59,18 @@ independent-expenditures: 51040
 individual-contributions: 121276
 contributions-to-committees: 38000
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -87,16 +103,16 @@ contributions-to-committees: 38000
 
 | Politician | Amount |
 |---|---:|
-| Shontel Brown | $5,113,549 |
+| Shontel Brown | $5,111,803 |
+| Nina Turner | $3,050,272 |
 | George Latimer | $2,741,386 |
-| Nina Turner | $1,525,261 |
+| Bernie Sanders | $1,400,000 |
+| Jamaal Bowman | $855,225 |
 | Yassamin Ansari | $575,604 |
 | Wesley Bell | $493,753 |
-| Donald Trump | $435,400 |
-| Kamala Harris | $288,992 |
-| Raphael Warnock | $195,605 |
-| Jacky Rosen | $107,300 |
-| Jon Ossoff | $102,267 |
+| Joe Biden | $486,675 |
+| Donald Trump | $435,000 |
+| Sara Jacobs | $424,943 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

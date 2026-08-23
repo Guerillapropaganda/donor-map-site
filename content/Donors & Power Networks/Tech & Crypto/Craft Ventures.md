@@ -1,7 +1,7 @@
 ---
 title: Craft Ventures
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -12,6 +12,8 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 related: "[[David Sacks Master Profile]] · [[The AI-Crypto Czar and the Portfolio Conflict]]"
 lobbying-spend: 1665000
 lobbying-filings: 38
@@ -22,7 +24,22 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 22
 employee-contributions-total: 116134
 employee-donor-count: 10
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

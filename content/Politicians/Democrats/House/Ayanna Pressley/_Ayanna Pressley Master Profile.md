@@ -1,7 +1,7 @@
 ---
 title: "Ayanna Pressley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Pressley is the Squad member who chose institutional integration over institutional confrontation — building power within committee structures rather than through media insurgency. Her Financial Services Committee seat gives her formal jurisdictio..."
 last-updated: 2026-04-18
 source-tier: 1
@@ -55,7 +55,11 @@ donors:
   - "Machinists/Aerospace Workers Union"
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (Congress.gov with verified bioguide P000617, FEC, GovTrack, Pressley official House.gov press releases), H.Res.702 and H.R.3412 with direct Congress.gov citations, nuanced class analysis distinguishing PAC capture from ambient committee-membership pressure, documented Capuano replacement logic, donor architecture broken down by industry with career totals. FIXED: stripped auto:doj-press block (false positive — 264,413 mentions from DOJ API index-size bug that main's engine fix now caps at 10K). FIXED: moved OpenSecrets career industries from Tier 1 to Archived per Vault Rules. FIXED: removed inline content-readiness/profile-status markers per frontmatter-only rule. Zero A000383 contamination. Zero (URL NEEDED) tags. Ready for editor review."
 related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Maxine Waters Master Profile|Waters]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Cory Booker Master Profile|Booker]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • The profile's own known-gaps field says it needs a fresh pipeline run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • The profile's own known-gaps field says it needs a fresh pipeline run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 
@@ -77,6 +81,18 @@ bills-data-scope: "Career total synced from auto:congress-legislation (Congress.
 top-policy-area: "Health"
 fec-committee-id: C00667741
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

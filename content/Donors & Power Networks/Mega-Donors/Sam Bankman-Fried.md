@@ -1,7 +1,7 @@
 ---
 title: Sam Bankman-Fried
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ total-political-spend: $45,943,261
 politicians-funded: "[[Debbie Stabenow]], [[Joe Biden]]"
 federal-register-mentions: 1
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Commodity Futures Trading Commission
 source-types:
@@ -40,7 +42,22 @@ related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

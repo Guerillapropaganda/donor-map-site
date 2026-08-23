@@ -1,7 +1,7 @@
 ---
 title: Mark Zuckerberg
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - Technology
   - Antitrust & Monopoly
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]] · [[Jeff Bezos]] · [[Marco Rubio]] · [[Chuck Schumer]] · [[Nancy Pelosi]]"
 total-political-spend: $114,701
 politicians-funded: "[[Marco Rubio]], [[John Boehner]], [[Chuck Schumer]], [[Paul Ryan]], [[Cory Booker]], [[Katie Porter]], [[Nancy Pelosi]]"
@@ -36,7 +38,22 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

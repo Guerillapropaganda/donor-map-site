@@ -1,7 +1,7 @@
 ---
 title: Enterprise Products Partners
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ lei: K4CDIF4M54DJZ6TB4Q48
 lei-jurisdiction: US-DE
 court-cases: 154
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
   - Court of Appeals for the Tenth Circuit
@@ -46,7 +48,22 @@ employee-contributions: 66
 employee-contributions-total: 239960
 employee-donor-count: 36
 politicians-funded: "[[_Jason Smith Master Profile]], [[_Beth van Duyne Master Profile]], [[MAGA Inc]], [[_Tony Gonzales Master Profile]], [[MoveOn.org Political Action]], [[WinRed]], [[_Ted Cruz Master Profile]], [[Congressional Leadership Fund]], [[RNC - Republican National Committee]], [[ActBlue]], [[Trump Victory]], [[_Jake Ellzey Master Profile]], [[_August Pfluger Master Profile]], [[_Martin Heinrich Master Profile]], [[_John James Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[John James]], [[Tony Gonzales]], [[Martin Heinrich]], [[Jason Smith]], [[Ted Cruz]], [[Beth van Duyne]], [[Jake Ellzey]], [[August Pfluger]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

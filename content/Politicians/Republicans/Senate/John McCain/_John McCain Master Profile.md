@@ -1,7 +1,7 @@
 ---
 title: John McCain
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: McCain positioned himself as a reformer fighting corruption and excess campaign spending, while simultaneously serving as one of the Senate's most reliable advocates for defense spending increases and weapons contractor interests. His 'maverick' b...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -23,7 +23,11 @@ total-raised: $707,083
 total-spent: $524,237
 cash-on-hand: "192781.00"
 fec-cycle: 1984
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 fec-committee-ids:
   - C00342154
@@ -50,6 +54,18 @@ fec-committee-ids:
   - C00594465
   - C00608497
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

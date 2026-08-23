@@ -1,7 +1,7 @@
 ---
 title: VIGOP
 type: donor
-content-readiness: ready
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -20,8 +20,25 @@ urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 politicians-funded: "[[John James]], [[Tim Scott]], [[Marsha Blackburn]], [[Brian Mast]], [[Hillary Clinton]], [[Tom Emmer]], [[Rick Scott]], [[Kevin Cramer]], [[Ted Cruz]], [[Byron Donalds]], [[Josh Hawley]], [[Wesley Hunt]], [[Mario Diaz-Balart]], [[Maria Elvira Salazar]], [[Donald Trump]], [[Susan Collins]], [[Marco Rubio]], [[Ryan Zinke]], [[Ron Johnson]], [[Cindy Hyde-Smith]], [[Vern Buchanan]], [[Burgess Owens]], [[Nancy Pelosi]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -51,8 +68,16 @@ politicians-funded: "[[John James]], [[Tim Scott]], [[Marsha Blackburn]], [[Bria
 
 | Politician | Amount |
 |---|---:|
-| Nancy Pelosi | $889,623 |
-| Maxine Waters | $321,313 |
+| Nancy Pelosi | $1,376,466 |
+| Bill Clinton | $490,776 |
+| Maxine Waters | $477,866 |
+| Ted Cruz | $476,516 |
+| Hillary Clinton | $383,279 |
+| John James | $223,369 |
+| Tim Scott | $178,341 |
+| Donald Trump | $48,275 |
+| Marsha Blackburn | $19,746 |
+| Cindy Hyde-Smith | $19,746 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

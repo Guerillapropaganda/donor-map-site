@@ -1,7 +1,7 @@
 ---
 title: California Apartment Association
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ lobbying-spend: 10419974
 lobbying-filings: 105
 court-cases: 123
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the Ninth Circuit
   - Court of Appeals for the Second Circuit
@@ -32,7 +34,22 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 21
 employee-contributions-total: 2500
 employee-donor-count: 7
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

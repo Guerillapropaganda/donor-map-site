@@ -1,7 +1,7 @@
 ---
 title: Blackstone Group
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -25,6 +25,8 @@ federal-grants-count: 0
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Koch Network - Charles Koch]] · [[Wall Street Finance Networks]] · [[Senate Leadership Fund]] · [[Stephen Schwarzman]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Carlyle Group]] · [[KKR]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Securities & Investment Industry]] · [[Private Equity Industry Bloc]] · [[Citadel - Kenneth Griffin]] · [[CalPERS]] · [[BlackRock]] · [[Real Estate Board of New York]] · [[Invitation Homes - Institutional Landlords]] · [[Business Roundtable]]"
 court-cases: 1595
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the Second Circuit
   - District Court, D. Delaware
@@ -48,7 +50,22 @@ epa-states: FL, MN, NJ, UT, WA
 employee-contributions: 3290
 employee-contributions-total: 99875997
 employee-donor-count: 1438
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

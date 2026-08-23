@@ -1,7 +1,7 @@
 ---
 title: Chris Larsen
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: null
 parent: null
@@ -27,7 +27,24 @@ employee-contributions: 2
 employee-contributions-total: 10500
 employee-donor-count: 1
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

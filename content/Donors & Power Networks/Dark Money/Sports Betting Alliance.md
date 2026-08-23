@@ -1,7 +1,7 @@
 ---
 title: "Sports Betting Alliance"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
@@ -16,6 +16,8 @@ net-assets: "$5.8M"
 tax-year: "2023"
 nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 31556683
 total-assets: 15423689
 sec-filings: 1
@@ -32,7 +34,22 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

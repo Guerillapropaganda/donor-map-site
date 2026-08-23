@@ -1,7 +1,7 @@
 ---
 title: Novo Nordisk
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ lobbying-spend: 17065000
 lobbying-filings: 70
 federal-register-mentions: 80
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Antitrust Division
   - Commerce Department
@@ -83,7 +85,22 @@ employee-contributions: 1366
 employee-contributions-total: 215904
 employee-donor-count: 311
 politicians-funded: "[[_Josh Hawley Master Profile]], [[Working Families Party PAC]], [[_Daniel Webster Master Profile]], [[_Maria Elvira Salazar Master Profile]], [[The Lincoln Project]], [[_Jon Ossoff Master Profile]], [[Emily's List]], [[NRSC - National Republican Senatorial Committee]], [[MAGA Inc]], [[314 ACTION FUND]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Tammy Baldwin Master Profile]], [[WinRed]], [[ActBlue]], [[NRCC - National Republican Congressional Committee]], [[_Nellie Pou Master Profile]], [[Chris Christie]], [[_Derek Schmidt Master Profile]], [[Bob Casey]], [[Elbert Guillory's America]], [[RNC - Republican National Committee]], [[_Jamie Raskin Master Profile]], [[_David Rouzer Master Profile]], [[MoveOn.org Political Action]], [[Mark Kelly]], [[_Donna Miller Master Profile]], [[_Pete Sessions Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lamonica McIver Master Profile]], [[_Emily Randall Master Profile]], [[Barbara Lee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Cory Booker Master Profile]], [[_Doug Burgum Master Profile]], [[_Michael Waltz Master Profile]], [[_Marco Rubio Master Profile]], [[_Shontel Brown Master Profile]], [[_Tim Scott Master Profile]], [[WinSenate]], [[_Rashida Tlaib Master Profile]], [[_Mark Harris Master Profile]], [[_Bonnie Watson Coleman Master Profile]], [[JUSTICE DEMOCRATS PAC]], [[David Rouzer]], [[Shontel Brown]], [[Emily Randall]], [[Michael Waltz]], [[Cory Booker]], [[Marco Rubio]], [[Lamonica McIver]], [[Rashida Tlaib]], [[Maria Elvira Salazar]], [[Pete Sessions]], [[Josh Hawley]], [[Derek Schmidt]], [[Doug Burgum]], [[Bonnie Watson Coleman]], [[Daniel Webster]], [[Jamie Raskin]], [[Mark Harris]], [[Jon Ossoff]], [[Tammy Baldwin]], [[Tim Scott]], [[Donna Miller]], [[Nellie Pou]], [[314 Action Fund]], [[Republican Party of Florida]], [[Justice Democrats PAC]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

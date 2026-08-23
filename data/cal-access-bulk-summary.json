@@ -1,47 +1,47 @@
 {
-  "run_at": "2026-05-03T19:02:36.867Z",
+  "run_at": "2026-05-17T16:12:13.971Z",
   "dry_run": false,
   "limit": null,
   "bulk_dir": "C:\\donor-map-data\\bulk\\CalAccess\\DATA",
   "dump_manifest": {
     "RCPT_CD": {
-      "size_bytes": 3650595516,
-      "mtime": "2026-04-30T01:44:47.128Z",
+      "size_bytes": 3653150435,
+      "mtime": "2026-05-17T08:24:52.000Z",
       "header_8kb_sha256_prefix": "dbdc465d294b013b"
     },
     "EXPN_CD": {
-      "size_bytes": 2950509781,
-      "mtime": "2026-04-30T01:44:27.730Z",
+      "size_bytes": 2951689678,
+      "mtime": "2026-05-17T07:35:08.000Z",
       "header_8kb_sha256_prefix": "4bbc8af4b9a6a509"
     },
     "LOAN_CD": {
-      "size_bytes": 18332551,
-      "mtime": "2026-04-30T01:44:31.631Z",
+      "size_bytes": 18349108,
+      "mtime": "2026-05-17T07:47:28.000Z",
       "header_8kb_sha256_prefix": "c7ad665e3ea30d58"
     },
     "FILER_FILINGS_CD": {
-      "size_bytes": 370635507,
-      "mtime": "2026-04-30T01:44:29.732Z",
+      "size_bytes": 372068731,
+      "mtime": "2026-05-17T07:44:44.000Z",
       "header_8kb_sha256_prefix": "1079f7fec612957e"
     },
     "FILERNAME_CD": {
-      "size_bytes": 178263437,
-      "mtime": "2026-04-30T01:44:28.372Z",
-      "header_8kb_sha256_prefix": "4ed9e3dcce08e459"
+      "size_bytes": 178478727,
+      "mtime": "2026-05-17T07:42:34.000Z",
+      "header_8kb_sha256_prefix": "06b15fcee8f7f250"
     },
     "FILER_TO_FILER_TYPE_CD": {
-      "size_bytes": 47887078,
-      "mtime": "2026-04-30T01:44:30.015Z",
+      "size_bytes": 47946020,
+      "mtime": "2026-05-17T07:45:22.000Z",
       "header_8kb_sha256_prefix": "a59a4315a311b054"
     }
   },
-  "rcpt_rows_scanned": 19358085,
-  "rcpt_rows_matched": 195695,
-  "rcpt_rows_unmatched": 15636121,
-  "aggregated_edges": 77107,
-  "monetary_edges": 77094,
+  "rcpt_rows_scanned": 19371620,
+  "rcpt_rows_matched": 195699,
+  "rcpt_rows_unmatched": 15647944,
+  "aggregated_edges": 77110,
+  "monetary_edges": 77097,
   "political_edges": 19,
-  "elapsed_seconds": 69,
+  "elapsed_seconds": 58,
   "candidates": {
     "Antonio Villaraigosa": {
       "edge_count": 14645,
@@ -60,12 +60,12 @@
       "total_dollars": 22928584.1
     },
     "Katie Porter": {
-      "edge_count": 15226,
-      "total_dollars": 7108298.29
+      "edge_count": 15227,
+      "total_dollars": 7113298.29
     },
     "Matt Mahan": {
-      "edge_count": 133,
-      "total_dollars": 26945687.22
+      "edge_count": 135,
+      "total_dollars": 27495687.22
     },
     "Steve Hilton": {
       "edge_count": 14989,
@@ -81,7 +81,7 @@
     },
     "Xavier Becerra": {
       "edge_count": 9100,
-      "total_dollars": 15951992.98
+      "total_dollars": 16151992.98
     }
   }
 }

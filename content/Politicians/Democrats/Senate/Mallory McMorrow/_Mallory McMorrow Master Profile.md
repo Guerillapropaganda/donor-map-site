@@ -1,7 +1,7 @@
 ---
 title: "Mallory McMorrow Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Mallory McMorrow represents the establishment progressive model: a viral moment + exceptional fundraising charisma that translates to national donor networks, allowing a relatively junior state legislator to compete in a Senate primary against mor..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -29,12 +29,29 @@ related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate
 urls-first-triaged: "2026-04-15"
 total-raised: "$8.6M"
 career-total-source: "FEC weball summary (cycles 2026)"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fec-committee-id: C00901173
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

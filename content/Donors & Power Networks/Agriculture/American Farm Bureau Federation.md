@@ -1,7 +1,7 @@
 ---
 title: American Farm Bureau Federation
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -20,6 +20,8 @@ tax-year: "2023"
 total-political-spend: $44,294
 nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 36693260
 total-assets: 125601852
 sec-filings: 519
@@ -84,7 +86,11 @@ regulatory-agencies:
   - Interior Department
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
-internal-notes: "[CODE @ 2026-04-13] Pipeline: lda completed for American Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359872848"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[CODE @ 2026-04-13] Pipeline: lda completed for American Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359872848"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -92,6 +98,18 @@ employee-contributions: 21
 employee-contributions-total: 7080
 employee-donor-count: 15
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

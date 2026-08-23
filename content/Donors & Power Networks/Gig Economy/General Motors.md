@@ -1,7 +1,7 @@
 ---
 title: General Motors
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -19,6 +19,8 @@ net-assets: $130K
 tax-year: "2023"
 court-cases: 52314
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - District Court, D. Colorado
   - District Court, E.D. Michigan
@@ -66,7 +68,22 @@ employee-contributions: 322474
 employee-contributions-total: 12192316
 employee-donor-count: 31124
 fec-committee-id: C00076810
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -99,16 +116,16 @@ fec-committee-id: C00076810
 
 | Politician | Amount |
 |---|---:|
-| Debbie Dingell | $33,500 |
-| Joseph Morelle | $30,000 |
-| Hakeem Jeffries | $28,500 |
-| Pete Aguilar | $28,250 |
-| John James | $25,885 |
-| Frank Pallone | $25,000 |
-| Richard Neal | $24,500 |
-| Donald Norcross | $22,500 |
-| Maxine Waters | $21,500 |
-| Brett Guthrie | $21,500 |
+| Debbie Dingell | $69,000 |
+| Marcy Kaptur | $60,000 |
+| Richard Neal | $57,000 |
+| Brett Guthrie | $55,500 |
+| Frank Pallone | $53,500 |
+| Tim Walberg | $53,500 |
+| Robert E. Latta | $53,000 |
+| Bill Huizenga | $53,000 |
+| John Boehner | $48,500 |
+| John R. Moolenaar | $48,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

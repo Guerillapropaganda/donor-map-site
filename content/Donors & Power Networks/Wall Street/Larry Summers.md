@@ -1,7 +1,7 @@
 ---
 title: Lawrence Summers
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -18,6 +18,8 @@ known-gaps:
   - No mapped relationships
 federal-register-mentions: 2
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Commodity Futures Trading Commission
   - State Department
@@ -27,7 +29,22 @@ related: "[[Sherrod Brown]] · [[Kamala Harris]] · [[Joe Biden]] · [[Barack Ob
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -62,6 +79,7 @@ checklist-na:
 | Politician | Amount |
 |---|---:|
 | Scott Wiener | $64,950 |
+| Jacky Rosen | $10,000 |
 | Josh Harder | $8,900 |
 | Susie Lee | $7,699 |
 | Lisa Blunt Rochester | $6,600 |
@@ -70,7 +88,6 @@ checklist-na:
 | Lauren Underwood | $2,700 |
 | Jon Ossoff | $2,400 |
 | Catherine Cortez Masto | $1,950 |
-| Mark Kelly | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

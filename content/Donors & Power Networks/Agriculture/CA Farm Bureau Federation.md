@@ -1,7 +1,7 @@
 ---
 title: CA Farm Bureau Federation
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 2
 parent: null
@@ -14,13 +14,31 @@ known-gaps:
 ein: "912158769"
 nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-13"
-internal-notes: "[CODE @ 2026-04-13] Pipeline: fec completed for CA Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24360089891"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[CODE @ 2026-04-13] Pipeline: fec completed for CA Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24360089891"
 total-political-spend: $216,324
 politicians-funded: "[[Robin L. Kelly]], [[Ketanji Brown Jackson]], [[Donald G. Davis]], [[Cindy Hyde-Smith]], [[Mike Kelly]], [[Trent Kelly]], [[Lindsey Graham]], [[Bennie Thompson]], [[Jonathan L. Jackson]], [[Danny K. Davis]], [[Russell Fry]], [[Gregory F. Murphy]], [[Mike Thompson]], [[Lisa Jackson]], [[Chris Murphy]], [[Mark Kelly]], [[Glenn Thompson]], [[Ronny Jackson]], [[Brad Knott]], [[John Kelly]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

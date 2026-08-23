@@ -1,7 +1,7 @@
 ---
 title: Nancy Pelosi
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — $1.6 billion since 2002. Her fundraising power is the structural basis of her political authority, and the donor class that makes her untouchable also dictates what legislation can pass.
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -236,6 +236,18 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 ---
 
 ## The Money
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

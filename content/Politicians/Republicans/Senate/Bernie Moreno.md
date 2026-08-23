@@ -3,7 +3,7 @@ title: Bernie Moreno
 type: politician
 chamber: Senate
 party: Republican
-content-readiness: ready
+content-readiness: draft
 central-thesis: Moreno's 2024 victory is the most concentrated single-industry political investment in recent Senate history. Crypto spent $40M+ (Defend American Jobs alone $22.8M) to elect a crypto entrepreneur who had already divested. Pure sector-capture of a Senate seat.
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -20,13 +20,29 @@ donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]] · [[Buckeye Leaders
 related: "[[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]"
 needs-reenrichment: false
 last-enriched: "2026-04-18"
-internal-notes: "[RC 2026-04-18] Janitor demotion flag cleared. Moreno's Senate tenure began January 2025 (119th Congress), so voting-record data starts fresh there. All 7 required editorial sections present. Truncated central-thesis rewritten."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[RC 2026-04-18] Janitor demotion flag cleared. Moreno's Senate tenure began January 2025 (119th Congress), so voting-record data starts fresh there. All 7 required editorial sections present. Truncated central-thesis rewritten."
 editorial-notes: "[RC 2026-04-18] Reviewed for launch-50 pass. Editorial sections complete. Fixed truncated thesis. Cleared janitor flag."
 fec-committee-ids:
   - C00837484
   - C00775585
   - C00829499
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

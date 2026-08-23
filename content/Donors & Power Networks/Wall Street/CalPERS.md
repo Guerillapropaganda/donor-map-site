@@ -1,7 +1,7 @@
 ---
 title: CalPERS
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -34,6 +34,8 @@ sec-form-types:
 related: "[[Betty Yee Master Profile]] · [[The Controller Record and the Fiscal Accountability Question]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CalSTRS]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Apollo Global Management]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[SEIU - Service Employees International Union|SEIU]]"
 court-cases: 1381
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
   - District Court, C.D. California
@@ -52,7 +54,22 @@ audit-a-plus-passed: "2026-04-11"
 employee-contributions: 645
 employee-contributions-total: 38564
 employee-donor-count: 78
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

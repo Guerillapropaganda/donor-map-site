@@ -1,7 +1,7 @@
 ---
 title: Josh Gottheimer
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -57,6 +57,18 @@ top-policy-area: Health
 opposes: "[[Donald Trump]]"
 fec-committee-id: C00573949
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

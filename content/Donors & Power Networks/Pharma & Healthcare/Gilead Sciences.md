@@ -1,7 +1,7 @@
 ---
 title: Gilead Sciences
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ lobbying-spend: 19612000
 lobbying-filings: 55
 court-cases: 2108
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the Fourth Circuit
   - Court of Appeals for the Third Circuit
@@ -95,7 +97,22 @@ employee-contributions-total: 2265505
 employee-donor-count: 1764
 politicians-funded: "[[Henry Cuellar]], [[ActBlue]], [[_Kamala Harris Master Profile]], [[Diana Harshbarger]], [[Gilead Sciences]], [[_Adam Gray Master Profile]], [[Markwayne Mullin]], [[DCCC - Democratic Congressional Campaign Committee]], [[Gregory Meeks]], [[Hmp]], [[Jimmy Panetta]], [[Marianne Williamson]], [[Brittany Pettersen]], [[Richard Hudson]], [[Trump Victory]], [[Marsha Blackburn]], [[Adriano Espaillat]], [[CHC BOLD PAC]], [[Bob Casey]], [[Mike Quigley]], [[Lloyd Smucker]], [[Mariannette Miller-Meeks]], [[Jodey Arrington]], [[_Chris Pappas Master Profile]], [[_Marco Rubio Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[EQUALITY PROJECT PAC]], [[Raul Ruiz]], [[Debbie Wasserman Schultz]], [[Tim Sheehy]], [[_Gabe Vasquez Master Profile]], [[Jacky Rosen]], [[Nicole Malliotakis]], [[John Hoeven]], [[Mark Kelly]], [[Darren Soto]], [[Julie Johnson]], [[Tim Walberg]], [[Claudia Tenney]], [[_Jon Ossoff Master Profile]], [[Darin Lahood]], [[Emily's List]], [[James Comer]], [[Roger Marshall]], [[Ron Estes]], [[Lisa Murkowski]], [[Adam Gray]], [[Cathy McMorris Rodgers]], [[Human Rights Campaign Equality Votes]], [[Barbara Lee]], [[_Jimmy Gomez Master Profile]], [[Steven Horsford]], [[Brett Guthrie]], [[Steve Daines]], [[Cindy Hyde-Smith]], [[Brian Jack]], [[Eric Schmitt]], [[MoveOn.org Political Action]], [[John Joyce]], [[George Whitesides]], [[Kyrsten Sinema]], [[Brad Knott]], [[Rudy Yakym]], [[_Kevin Mullin Master Profile]], [[_Christian D. Menefee Master Profile]], [[WinRed]], [[Todd Young]], [[Joni Ernst]], [[Jay Obernolte]], [[_Emily Randall Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Kim Schrier]], [[Kevin Mullin]], [[Thom Tillis]], [[RNC - Republican National Committee]], [[Catherine Cortez Masto]], [[Joe Manchin]], [[Lateefah Simon]], [[Lois Frankel]], [[Ted Lieu]], [[NRCC - National Republican Congressional Committee]], [[Virginia Foxx]], [[_Bill Foster Master Profile]], [[_George Whitesides Master Profile]], [[Steve Scalise]], [[Brendan Boyle]], [[Madeleine Dean]], [[Pete Aguilar]], [[Josh Gottheimer]], [[David Schweikert]], [[Lori Trahan]], [[The Lincoln Project]], [[David Kustoff]], [[Chris Coons]], [[Shelley Moore Capito]], [[Katie Britt]], [[Nathaniel Moran]], [[John Thune]], [[Tom Cole]], [[Adrian Smith]], [[Mario Diaz-Balart]], [[_Josh Riley Master Profile]], [[Richard Neal]], [[314 ACTION FUND]], [[Diana Degette]], [[Mark Warner]], [[MAGA Inc]], [[Robert Garcia]], [[DSCC - Democratic Senatorial Campaign Committee]], [[August Pfluger]], [[Jon Husted]], [[Judy Chu]], [[Guy Reschenthaler]], [[Patty Murray]], [[Erin Houchin]], [[Sydney Kamlager-Dove]], [[Maria Cantwell]], [[James Lankford]], [[John Barrasso]], [[Vince Fong]], [[Joseph Morelle]], [[Progressive Turnout Project]], [[Susan Collins]], [[_Melissa Bean Master Profile]], [[Grace Meng]], [[Jason Smith]], [[Giffords PAC]], [[John Cornyn]], [[Eric Swalwell]], [[Shomari Figures]], [[Tim Scott]], [[_Bonnie Watson Coleman Master Profile]], [[Jerry Moran]], [[Nancy Mace]], [[Donald Norcross]], [[_Pete Aguilar Master Profile]], [[_Elissa Slotkin Master Profile]], [[Kevin McCarthy]], [[Mike Carey]], [[WinSenate]], [[Jake Auchincloss]], [[Lisa Blunt Rochester]], [[_Yassamin Ansari Master Profile]], [[Troy Balderson]], [[Sierra Club Political Committee]], [[Roger Wicker]], [[_Susie Lee Master Profile]], [[_Jake Auchincloss Master Profile]], [[Sarah McBride]], [[_Tim Scott Master Profile]], [[Ashley Moody]], [[Aaron Bean]], [[Mitch McConnell]], [[_Nancy Pelosi Master Profile]], [[_Tammy Baldwin Master Profile]], [[Mike Thompson]], [[Nancy Pelosi]], [[Melissa Bean]], [[Kamala Harris]], [[Bonnie Watson Coleman]], [[Tammy Baldwin]], [[Jon Ossoff]], [[Gabe Vasquez]], [[Jimmy Gomez]], [[Chris Pappas]], [[Susie Lee]], [[Yassamin Ansari]], [[Christian D. Menefee]], [[Elissa Slotkin]], [[Josh Riley]], [[Emily Randall]], [[Bill Foster]], [[Marco Rubio]], [[HMP]], [[Equality Project PAC]], [[314 Action Fund]], [[Carol D. Miller]], [[H. Morgan Griffith]], [[James E. Clyburn]], [[Marc A. Veasey]], [[Jim Banks]], [[Suzan K. Delbene]], [[Scott H. Peters]], [[Julia Letlow]], [[Earl L. Buddy Carter]], [[Neal P. Dunn]], [[Randy Feenstra]], [[Linda T. Sanchez]], [[Margaret Wood Hassan]], [[Robin L. Kelly]], [[Darrell Issa]], [[Lisa C. McClain]], [[Robert B. Aderholt]], [[Thomas R. Suozzi]], [[Bob Menendez]], [[Vern Buchanan]], [[Michael Bennet]], [[Norma J. Torres]], [[Mike Crapo]], [[Mitt Romney]], [[Jasmine Crockett]], [[Sam T. Liccardo]], [[Mark Takano]], [[Brian K. Fitzpatrick]], [[Mazie K. Hirono]], [[Terri A. Sewell]], [[Jim Jordan]], [[Ami Bera]], [[John R. Moolenaar]], [[Jeanne Shaheen]], [[Dianne Feinstein]], [[Zoe Lofgren]], [[Chuck Grassley]], [[David G. Valadao]], [[Troy A. Carter]], [[Timothy M. Kennedy]], [[Mike Johnson]], [[Nicholas A. Langworthy]], [[J. Luis Correa]], [[Janelle S. Bynum]], [[Yvette D. Clarke]], [[Donald G. Davis]], [[Bradley Scott Schneider]], [[Blake D. Moore]], [[Jonathan L. Jackson]], [[Mike Kelly]], [[Frank J. Mrvan]], [[Patrick McHenry]], [[Bennie Thompson]], [[Tim Kaine]], [[Frank Pallone]], [[John R. Curtis]], [[Nanette Diaz Barragan]], [[Katherine M. Clark]], [[Michael A. Rulli]], [[Rick W. Allen]], [[Chuck Schumer]], [[Paul Ryan]], [[Laurel M. Lee]], [[Gregory F. Murphy]], [[Ted Budd]], [[Herbert C. Conaway]], [[Ben Ray Lujan]], [[Steny H. Hoyer]], [[Bill Cassidy]], [[Stacey E. Plaskett]], [[Gabe Amo]], [[April McClain Delaney]], [[Rand Paul]], [[Deborah K. Ross]], [[Stephanie I. Bice]], [[Kevin Hern]], [[Tom Emmer]], [[Andy Harris]], [[Xavier Becerra]], [[Angela D. Alsobrooks]], [[Glenn Ivey]], [[Robert Menendez]]"
 fec-committee-id: C00396895
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -133,11 +150,11 @@ fec-committee-id: C00396895
 | Brett Guthrie | $39,000 |
 | Scott H. Peters | $31,000 |
 | Bill Cassidy | $30,000 |
-| Patty Murray | $27,000 |
 | Mitch McConnell | $25,000 |
 | Lisa Blunt Rochester | $24,300 |
-| Richard Hudson | $23,500 |
+| Patty Murray | $22,500 |
 | Terri A. Sewell | $21,500 |
+| Mike Crapo | $21,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

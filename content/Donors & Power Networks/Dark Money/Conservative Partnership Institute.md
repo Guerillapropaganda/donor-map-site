@@ -1,7 +1,7 @@
 ---
 title: Conservative Partnership Institute
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
   - Dark Money & Campaign Finance
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Energy Department
 court-cases: 15
@@ -40,7 +42,22 @@ checklist-na:
 employee-contributions: 2
 employee-contributions-total: 3900
 employee-donor-count: 2
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

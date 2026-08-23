@@ -1,7 +1,7 @@
 ---
 title: John Hoeven
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federa...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -38,6 +38,8 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 bioguide-id: H001061
 govtrack-id: 412494
 bills-sponsored: 24
@@ -51,7 +53,22 @@ top-policy-area: International Affairs
 fec-committee-ids:
   - C00473371
   - C00493668
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

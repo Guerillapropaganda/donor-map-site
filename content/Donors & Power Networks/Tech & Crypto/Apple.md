@@ -1,7 +1,7 @@
 ---
 title: Apple
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -22,6 +22,8 @@ top-federal-agency: Department of Defense
 top-naics-code: "541330"
 court-cases: 123599
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - District Court, C.D. California
   - District Court, D. Puerto Rico
@@ -104,7 +106,22 @@ federal-contracts: 6
 employee-contributions: 61764
 employee-contributions-total: 13175028
 employee-donor-count: 9032
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

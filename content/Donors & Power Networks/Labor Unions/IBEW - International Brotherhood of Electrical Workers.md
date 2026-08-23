@@ -1,7 +1,7 @@
 ---
 title: IBEW - International Brotherhood of Electrical Workers
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -13,6 +13,8 @@ issues:
   - Infrastructure
 federal-register-mentions: 6
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Federal Railroad Administration
   - Labor Department
@@ -39,7 +41,22 @@ employee-contributions: 15609
 employee-contributions-total: 1039689
 employee-donor-count: 2313
 fec-committee-id: C00027342
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73,16 +90,16 @@ fec-committee-id: C00027342
 
 | Politician | Amount |
 |---|---:|
-| Lois Frankel | $35,000 |
-| Raja Krishnamoorthi | $35,000 |
-| Pramila Jayapal | $30,000 |
-| Brad Sherman | $30,000 |
-| Mark DeSaulnier | $30,000 |
-| Marie Gluesenkamp Perez | $30,000 |
-| Shontel Brown | $30,000 |
-| Emanuel Cleaver | $30,000 |
-| Greg Landsman | $30,000 |
-| Donald Norcross | $30,000 |
+| Rosa DeLauro | $196,000 |
+| Steny H. Hoyer | $190,950 |
+| Frank Pallone | $165,000 |
+| Brad Sherman | $162,000 |
+| Sanford D. Bishop | $158,500 |
+| Nancy Pelosi | $149,087 |
+| Lloyd Doggett | $143,800 |
+| Bennie Thompson | $141,500 |
+| Mike Thompson | $140,050 |
+| Diana Degette | $140,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

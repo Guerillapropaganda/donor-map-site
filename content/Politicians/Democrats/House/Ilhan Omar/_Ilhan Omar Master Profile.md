@@ -1,7 +1,7 @@
 ---
 title: Ilhan Omar
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Omar represents the structural limit of progressive foreign policy dissent within the Democratic Party: she can hold her seat in a safe progressive district but cannot advance her positions through the legislative process because the pro-Israel do..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -44,7 +44,11 @@ editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 3 
 related: "[[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[_Bernie Sanders Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[Americans for Tomorrow's Future]]"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-15"
 total-raised: $3,125,783
 total-spent: $2,329,199
@@ -60,6 +64,18 @@ bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: International Affairs
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

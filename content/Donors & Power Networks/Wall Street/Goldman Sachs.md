@@ -1,7 +1,7 @@
 ---
 title: Goldman Sachs
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ net-assets: $648.2M
 tax-year: "2023"
 federal-register-mentions: 800
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Comptroller of the Currency
   - Employee Benefits Security Administration
@@ -40,7 +42,22 @@ employee-contributions: 3975
 employee-contributions-total: 6036348
 employee-donor-count: 1647
 fec-committee-id: C00265124
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

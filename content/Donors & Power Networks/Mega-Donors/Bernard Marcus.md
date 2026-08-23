@@ -1,7 +1,7 @@
 ---
 title: Bernard Marcus
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -61,13 +61,30 @@ lei: 213800MWAHGQE6BU9654
 lei-jurisdiction: GB
 related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Heritage Foundation]] · [[Federalist Society]] · [[American Enterprise Institute]]"
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-political-spend: $31,938,031
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -99,16 +116,16 @@ checklist-na:
 
 | Politician | Amount |
 |---|---:|
-| David Kustoff | $94,447 |
+| Barack Obama | $4,570,429 |
 | Ted Cruz | $94,319 |
+| David Kustoff | $78,447 |
 | Rick Scott | $65,647 |
-| John Thune | $50,980 |
-| Michael Whatley | $50,021 |
-| David McCormick | $48,600 |
 | Susan Collins | $48,372 |
 | Randy Fine | $46,175 |
-| Lindsey Graham | $42,000 |
 | Bernie Moreno | $41,474 |
+| Lee Zeldin | $36,379 |
+| John Thune | $35,980 |
+| David McCormick | $35,400 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

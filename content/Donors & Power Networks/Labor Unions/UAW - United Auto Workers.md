@@ -1,7 +1,7 @@
 ---
 title: UAW - United Auto Workers
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -24,6 +24,8 @@ tax-year: "2016"
 related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]] · [[Ohio 2026 Special Senate Election]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Debbie Stabenow Master Profile|Stabenow]] · [[_Sherrod Brown Master Profile|Sherrod Brown]] · [[_Joe Biden Master Profile|Biden]] · [[_Kamala Harris Master Profile|Harris]] · [[_Donald Trump Master Profile|Trump]] · [[Pete Aguilar]] · [[Mark Takano]] · [[Frank Pallone]] · [[United Auto Workers]] · [[General Motors]] · [[Ford Motor Company]] · [[Tammy Baldwin]]"
 nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-political-spend: $3,283,200
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
@@ -33,7 +35,22 @@ checklist-na:
 employee-contributions: 484
 employee-contributions-total: 47228
 employee-donor-count: 93
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

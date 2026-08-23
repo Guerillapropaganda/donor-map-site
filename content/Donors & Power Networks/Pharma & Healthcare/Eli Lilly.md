@@ -1,7 +1,7 @@
 ---
 title: Eli Lilly
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - Healthcare
 court-cases: 31551
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - District Court, E.D. Pennsylvania
 lobbying-spend: 7030293
@@ -75,7 +77,22 @@ employee-contributions: 5158
 employee-contributions-total: 390631
 employee-donor-count: 498
 politicians-funded: "[[_Lauren Underwood Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jon Ossoff Master Profile]], [[_Pete Sessions Master Profile]], [[_Andre Carson Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Tammy Baldwin Master Profile]], [[MoveOn.org Political Action]], [[_Marco Rubio Master Profile]], [[Progressive Turnout Project]], [[NRCC - National Republican Congressional Committee]], [[ActBlue]], [[RNC - Republican National Committee]], [[_Chris Pappas Master Profile]], [[Mark Kelly]], [[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Ron Johnson Master Profile]], [[_Nancy Pelosi Master Profile]], [[_John James Master Profile]], [[_Kamala Harris Master Profile]], [[Giffords PAC]], [[Save America PAC]], [[The Lincoln Project]], [[MAJORITY PAC]], [[MAGA Inc]], [[Let America Vote PAC]], [[_Jake Auchincloss Master Profile]], [[_Victoria Spartz Master Profile]], [[_Lisa Blunt Rochester Master Profile]], [[_Scott Fitzgerald Master Profile]], [[_Jason Smith Master Profile]], [[Chris Christie]], [[_Christian D. Menefee Master Profile]], [[314 ACTION FUND]], [[Ron Johnson]], [[Andre Carson]], [[Jason Smith]], [[Scott Fitzgerald]], [[Tammy Baldwin]], [[Lauren Underwood]], [[Kamala Harris]], [[Jon Ossoff]], [[Christian D. Menefee]], [[John James]], [[Jake Auchincloss]], [[Nancy Pelosi]], [[Chris Pappas]], [[Victoria Spartz]], [[Lisa Blunt Rochester]], [[Marco Rubio]], [[Pete Sessions]], [[Majority PAC]], [[314 Action Fund]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

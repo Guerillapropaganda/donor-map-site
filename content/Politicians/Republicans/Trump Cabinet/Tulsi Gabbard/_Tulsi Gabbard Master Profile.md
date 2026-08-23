@@ -2,7 +2,7 @@
 title: Tulsi Gabbard
 type: politician
 bioguide-id: G000571
-content-readiness: ready
+content-readiness: draft
 central-thesis: Gabbard's journey from progressive Democrat (endorsed Bernie 2016) to Trump's DNI nominee is the most ideologically incoherent appointment in the Cabinet , unless understood through the lens of useful contrarianism. Her anti-establishment brand (l...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -26,11 +26,28 @@ known-gaps:
   - No mapped relationships
 related: "[[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_JD Vance Master Profile]] · [[Securus Technologies - Aventiv]] · [[The Anti-Donor Model - Two Presidential Campaigns]]"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 fec-committee-ids:
   - C00497396
   - C00693713
   - C00555078
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

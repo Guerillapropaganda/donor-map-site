@@ -1,7 +1,7 @@
 ---
 title: Anduril Industries
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 federal-awards-total: 1106252788
 federal-contracts-count: 25
 federal-grants-count: 0
@@ -69,7 +71,22 @@ employee-contributions: 727
 employee-contributions-total: 2714887
 employee-donor-count: 182
 politicians-funded: "[[_Tammy Baldwin Master Profile]], [[_Martin Heinrich Master Profile]], [[_Tony Gonzales Master Profile]], [[_Susie Lee Master Profile]], [[_Jason Crow Master Profile]], [[_Josh Riley Master Profile]], [[_Patrick Ryan Master Profile]], [[_Lauren Underwood Master Profile]], [[_Tom Barrett Master Profile]], [[_Young Kim Master Profile]], [[_Cory Mills Master Profile]], [[ActBlue]], [[_Gabe Vasquez Master Profile]], [[_Jon Ossoff Master Profile]], [[Trump Victory]], [[Catherine Cortez Masto]], [[_Scott Franklin Master Profile]], [[_Josh Harder Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Darren Soto Master Profile]], [[WinRed]], [[_Don Bacon Master Profile]], [[_Jimmy Panetta Master Profile]], [[_Veronica Escobar Master Profile]], [[_Dan Newhouse Master Profile]], [[_Gabe Amo Master Profile]], [[_Brad Knott Master Profile]], [[_Chris Pappas Master Profile]], [[_Alex Padilla Master Profile]], [[_Elissa Slotkin Master Profile]], [[_Chrissy Houlahan Master Profile]], [[_Jeff Crank Master Profile]], [[_George Whitesides Master Profile]], [[_Mario Diaz-Balart Master Profile]], [[_Ted Budd Master Profile]], [[AIPAC - American Israel Public Affairs Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Mark Kelly]], [[_Pete Aguilar Master Profile]], [[_Dave Min Master Profile]], [[_Mike Rogers Master Profile]], [[_Derek Schmidt Master Profile]], [[_August Pfluger Master Profile]], [[_Adam Gray Master Profile]], [[_Marco Rubio Master Profile]], [[_John James Master Profile]], [[_Vicente Gonzalez Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[_Mike Levin Master Profile]], [[_Derek Tran Master Profile]], [[RNC - Republican National Committee]], [[_Ted Cruz Master Profile]], [[FreedomWorks for America]], [[_Donald Norcross Master Profile]], [[_Jake Ellzey Master Profile]], [[_Nathaniel Moran Master Profile]], [[Congressional Leadership Fund]], [[Pete Aguilar]], [[Mike Rogers]], [[Don Bacon]], [[Chrissy Houlahan]], [[Dan Newhouse]], [[Elissa Slotkin]], [[Nathaniel Moran]], [[Gabe Vasquez]], [[Mario Diaz-Balart]], [[Dave Min]], [[Veronica Escobar]], [[Josh Riley]], [[Tom Barrett]], [[Chris Pappas]], [[John James]], [[George Whitesides]], [[Ted Budd]], [[Alex Padilla]], [[Lauren Underwood]], [[Adam Gray]], [[Jimmy Panetta]], [[August Pfluger]], [[Mike Levin]], [[Martin Heinrich]], [[Ted Cruz]], [[Jake Ellzey]], [[Scott Franklin]], [[Vicente Gonzalez]], [[Susie Lee]], [[Young Kim]], [[Jason Crow]], [[Josh Harder]], [[Patrick Ryan]], [[Jeff Crank]], [[Cory Mills]], [[Gabe Amo]], [[Derek Tran]], [[Derek Schmidt]], [[Donald Norcross]], [[Jon Ossoff]], [[Brad Knott]], [[Tammy Baldwin]], [[Darren Soto]], [[Tony Gonzales]], [[Marco Rubio]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

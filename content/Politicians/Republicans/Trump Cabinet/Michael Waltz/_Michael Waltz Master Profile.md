@@ -2,7 +2,7 @@
 title: Michael Waltz
 type: politician
 bioguide-id: W000823
-content-readiness: ready
+content-readiness: draft
 central-thesis: Waltz is a military-industrial revolving door figure who built personal wealth through defense contracting (Metis Solutions, $92M sale), then used that wealth and military credentials to enter Congress, then leveraged political loyalty to Trump in...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -26,10 +26,26 @@ donors: "[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]] · [[SPECIAL OPE
 opposes: "[[HOUSE MAJORITY PAC]] · [[AMERICAN JOBS AND GROWTH PAC]] · [[House Majority PAC]] · [[American Jobs and Growth PAC]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: 2026-04-20T00:00:00.000Z
 fec-committee-id: C00666396
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

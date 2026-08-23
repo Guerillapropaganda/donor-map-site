@@ -2,7 +2,7 @@
 title: Kristi Noem
 type: politician
 bioguide-id: N000184
-content-readiness: ready
+content-readiness: draft
 central-thesis: Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That bran...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -23,8 +23,25 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]]"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 top-donors: "[[Meta - Facebook]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[American College of Radiology Association PAC]], [[Family Research Council Action Political Action Committee]], [[INVEST IN A STRONG AND SECURE AMERICA]], [[Williams Companies]], [[Kevin McCarthy]], [[Cargill]], [[Koch Industries]], [[Shelley Moore Capito]], [[Humana]], [[Amgen Inc]], [[National Right to Life PAC]], [[Associated General Contractors of America Political Action Committee]], [[National Cattlemen's Beef Association]], [[Pfizer Inc.]], [[Occidental Petroleum]], [[Steve Scalise]], [[SCOTT, TIMOTHY]], [[NRA Political Victory Fund]], [[Google - Alphabet]], [[Tyson Foods]], [[Republican Jewish Coalition]], [[AbbVie]], [[National Restaurant Association]], [[Campaign for Working Families]], [[John Boehner]], [[John Thune]], [[CVS Health - Aetna]], [[Monsanto - Bayer]], [[ADM - Archer Daniels Midland]], [[Pete Sessions]], [[PETE SESSIONS FOR CONGRESS]], [[Southern Company]], [[American Gaming Association]], [[Tim Scott]], [[John F. Grundhofer]], [[Wilson G. Persinger]], [[Raytheon (RTX Corporation)]], [[Duke Energy]], [[Morgan Stanley]], [[Walmart - Walton Family]], [[ConocoPhillips]], [[Care Action]], [[NextEra Energy]], [[AT&T]], [[Majority PAC]], [[Halliburton]], [[Microsoft]], [[JPAC - Jewish Public Affairs Committee of California]], [[Chevron]], [[Marathon Petroleum]], [[Comcast - NBCUniversal]], [[Citigroup]], [[Honeywell International]], [[Northrop Grumman]], [[Devon Energy]], [[General Motors]], [[National Multifamily Housing Council]], [[National Association of Realtors]], [[BAE Systems]], [[Ford Motor Company]], [[Anthem - Elevance Health]], [[Bank of America]], [[VIEW PAC - Value in Electing Women]], [[Lockheed Martin]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Johnson & Johnson]], [[American Hospital Association PAC]], [[Americans for Tax Reform - Grover Norquist]], [[iHeartMedia]], [[NRCC - National Republican Congressional Committee]], [[Americans for Job Security]], [[Charles Schwab]], [[General Dynamics]], [[Darrell Issa]], [[Valero Energy]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

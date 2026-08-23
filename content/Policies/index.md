@@ -1,7 +1,7 @@
 ---
 title: "Policy Battles"
 type: policy-index
-last-updated: 2026-04-27
+last-updated: 2026-08-21
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
 ---

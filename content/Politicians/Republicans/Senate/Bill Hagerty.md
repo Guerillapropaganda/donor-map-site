@@ -3,7 +3,7 @@ title: Bill Hagerty
 type: politician
 chamber: Senate
 party: Republican
-content-readiness: ready
+content-readiness: draft
 central-thesis: Hagerty exemplifies the private equity-to-political-appointment-to-elected-office pipeline. His donor base is Blackstone, private equity networks, and Trump mega-donors seeking financial sector favorability. The Trump ambassador credential was pol...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -29,8 +29,25 @@ donors: "[[Winning Right PAC]], [[SENATE CONSERVATIVES FUND]], [[Standing With C
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 fec-committee-id: C00718627
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

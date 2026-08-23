@@ -1,7 +1,7 @@
 ---
 title: "Charles Koch"
 type: donor
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Charles Koch privatized the infrastructure of ideological politics, turning a fossil-fuel fortune into a dark-money apparatus that delivers regulatory capture and permanent tax cuts at a 4x annual return."
 last-updated: 2026-04-19
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, Core Contradiction, strengthened Donor Class Map, wrote Class Analysis and Analytical Patterns. Promoted draft → ready."
@@ -22,6 +22,8 @@ known-gaps:
   - "No lobbying disclosure data"
 federal-register-mentions: 3
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - "Civil Rights Commission"
   - "Interior Department"
@@ -29,7 +31,22 @@ regulatory-agencies:
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

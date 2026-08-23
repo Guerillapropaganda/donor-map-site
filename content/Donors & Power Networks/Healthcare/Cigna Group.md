@@ -1,7 +1,7 @@
 ---
 title: Cigna Group
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -32,7 +32,11 @@ court-jurisdictions:
   - District Court, S.D. New York
   - District Court, W.D. Texas
 cross-vault-triangulation-count: 11
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
 epa-states: CT
 employee-contributions: 8269
@@ -40,6 +44,18 @@ employee-contributions-total: 1009194
 employee-donor-count: 1246
 politicians-funded: "[[_Susie Lee Master Profile]], [[J Street]], [[Really American Pac]], [[Progressive Turnout Project]], [[Human Rights Campaign Equality Votes]], [[DCCC - Democratic Congressional Campaign Committee]], [[Mark Kelly]], [[Giffords PAC]], [[The Lincoln Project]], [[_Ron Johnson Master Profile]], [[_Jeff Hurd Master Profile]], [[_Angie Craig Master Profile]], [[ActBlue]], [[REPUBLICAN PARTY OF FLORIDA]], [[_Jon Ossoff Master Profile]], [[MoveOn.org Political Action]], [[_Tammy Baldwin Master Profile]], [[_Julie Johnson Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[RNC - Republican National Committee]], [[CHC BOLD PAC]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Lauren Underwood Master Profile]], [[Hmp]], [[_Chris Pappas Master Profile]], [[_George Whitesides Master Profile]], [[Let America Vote PAC]], [[_Jason Crow Master Profile]], [[_Ted Cruz Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_John James Master Profile]], [[Planned Parenthood Votes]], [[_Cory Booker Master Profile]], [[Save America PAC]], [[Emily's List]], [[MAGA Inc]], [[_Marco Rubio Master Profile]], [[Catherine Cortez Masto]], [[_Nancy Pelosi Master Profile]], [[WinRed]], [[_Gabe Vasquez Master Profile]], [[_Jim Jordan Master Profile]], [[_Morgan McGarvey Master Profile]], [[_Robert Garcia Master Profile]], [[Bob Casey]], [[Trump Victory]], [[_Cori Bush Master Profile]], [[_Marcia Fudge Master Profile]], [[_Adam Gray Master Profile]], [[_Eric Burlison Master Profile]], [[_Ted Budd Master Profile]], [[_Jamie Raskin Master Profile]], [[_Lamonica McIver Master Profile]], [[WinSenate]], [[_Lauren Boebert Master Profile]], [[_Tim Scott Master Profile]], [[Congressional Leadership Fund]], [[National Rifle Association]], [[_Ann Wagner Master Profile]], [[Protecting Our Vote Pac]], [[_Scott Franklin Master Profile]], [[Winning for Women PAC]], [[Senate Conservatives Fund]], [[_Shontel Brown Master Profile]], [[_Melissa Bean Master Profile]], [[_Nellie Pou Master Profile]], [[Chris Christie]], [[_Josh Riley Master Profile]], [[Ted Cruz]], [[Tammy Baldwin]], [[Ron Johnson]], [[Jamie Raskin]], [[Josh Riley]], [[Ted Budd]], [[Jon Ossoff]], [[John James]], [[Jeff Hurd]], [[George Whitesides]], [[Adam Gray]], [[Melissa Bean]], [[Gabe Vasquez]], [[Lauren Boebert]], [[Tim Scott]], [[Cory Booker]], [[Jim Jordan]], [[Scott Franklin]], [[Nellie Pou]], [[Lauren Underwood]], [[Shontel Brown]], [[Lamonica McIver]], [[Angie Craig]], [[Robert Garcia]], [[Susie Lee]], [[Eric Burlison]], [[Cori Bush]], [[Jason Crow]], [[Nancy Pelosi]], [[Marcia Fudge]], [[Marco Rubio]], [[Chris Pappas]], [[Morgan McGarvey]], [[Ann Wagner]], [[Julie Johnson]], [[Republican Party of Florida]], [[HMP]]"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

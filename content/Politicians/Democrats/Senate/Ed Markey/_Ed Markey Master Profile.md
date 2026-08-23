@@ -1,7 +1,7 @@
 ---
 title: Ed Markey
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Ed Markey is the telecom law architect who became the Green New Deal's Senate champion — a 50-year career arc from writing the laws that built the internet economy to proposing the framework to decarbonize it. His donor profile reflects the tensio...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -27,6 +27,8 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 govtrack-id: 400253
 bills-sponsored: 116
 bills-cosponsored: 364
@@ -40,7 +42,22 @@ fec-committee-ids:
   - C00175059
   - C00196774
   - C00543801
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

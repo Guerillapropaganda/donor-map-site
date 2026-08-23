@@ -1,7 +1,7 @@
 ---
 title: "Chip Roy Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Roy is the House Republican who most consistently applies fiscal conservatism against his own party's spending — but the consistency stops at revenue. He opposes government spending programs, bipartisan omnibus bills, and even Trump-backed reconci..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -29,6 +29,8 @@ known-gaps:
   - "No mapped relationships"
 related: "[[_Ted Cruz Master Profile|Cruz]] · [[Club for Growth]] · [[Koch Industries]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Mike Lee Master Profile|Mike Lee]] · [[_Mike Johnson Master Profile|Mike Johnson]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 bioguide-id: "R000614"
 issues:
   - "Congress"
@@ -45,7 +47,22 @@ bills-enacted: 0
 bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 fec-committee-id: C00662767
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

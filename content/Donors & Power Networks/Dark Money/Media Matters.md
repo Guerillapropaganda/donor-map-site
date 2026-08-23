@@ -1,7 +1,7 @@
 ---
 title: Media Matters
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -16,6 +16,8 @@ net-assets: $1K
 tax-year: "2023"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 5705
 total-assets: 261528
 federal-register-mentions: 4
@@ -55,7 +57,22 @@ checklist-na:
 employee-contributions: 7
 employee-contributions-total: 2075
 employee-donor-count: 4
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

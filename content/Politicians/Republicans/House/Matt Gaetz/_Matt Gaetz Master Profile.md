@@ -1,7 +1,7 @@
 ---
 title: Matt Gaetz
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Gaetz is the donor class's chaos agent , his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -50,6 +50,18 @@ total-raised: $22.3M
 career-total-source: FEC weball summary (cycles 2016, 2018, 2020, 2022, 2024, 2026)
 fec-committee-id: C00612432
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Kyrsten Sinema
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Kyrsten Sinema is the defining illustration of donor-class capture functioning at maximum efficiency. The carried interest kill alone , her decision to block a tax provision that would have cost the private equity industry $6.5–14 billion per deca...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -55,6 +55,18 @@ fec-committee-ids:
   - C00508804
   - C00685057
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

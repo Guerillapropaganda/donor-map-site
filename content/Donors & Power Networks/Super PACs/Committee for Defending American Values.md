@@ -1,7 +1,7 @@
 ---
 title: Committee for Defending American Values
 type: donor
-content-readiness: ready
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -23,7 +23,24 @@ related: "[[Roger Williams]]"
 source-types:
   - FEC
 last-enriched: 2026-04-21
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

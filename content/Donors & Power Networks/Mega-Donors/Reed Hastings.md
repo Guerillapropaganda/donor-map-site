@@ -1,7 +1,7 @@
 ---
 title: Reed Hastings
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -9,6 +9,8 @@ sector: Mega-Donors
 entity-type: Individual Donor
 court-cases: 218
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the Tenth Circuit
   - District Court, C.D. California
@@ -46,7 +48,22 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,7 +95,9 @@ checklist-na:
 
 | Politician | Amount |
 |---|---:|
+| Antonio Villaraigosa | $57,400 |
 | Michael Bennet | $10,800 |
+| Tony Thurmond | $7,300 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

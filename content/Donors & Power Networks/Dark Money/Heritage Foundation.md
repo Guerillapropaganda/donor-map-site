@@ -1,7 +1,7 @@
 ---
 title: Heritage Foundation
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
 ein: "237327730"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 147027845
 total-assets: 413819868
 sec-filings: 3784
@@ -73,7 +75,22 @@ federal-grants-total: 2444895
 employee-contributions: 241
 employee-contributions-total: 31214
 employee-donor-count: 43
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

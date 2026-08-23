@@ -1,7 +1,7 @@
 ---
 title: ADM - Archer Daniels Midland
 type: corporation
-content-readiness: ready
+content-readiness: draft
 central-thesis: "ADM converted the Renewable Fuel Standard into a permanent private revenue stream: 40% of the US corn crop now diverts to ethanol production by federal mandate, producing billions in guaranteed demand from a single policy that survives because Iowa holds the first presidential caucus."
 last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, Core Contradiction callout, Class Analysis, and Analytical Patterns. Pre-existing body content preserved."
@@ -15,6 +15,8 @@ issues:
 lobbying-spend: 2101600
 lobbying-filings: 96
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 lei: 549300KDUEM5IEU30490
 lei-jurisdiction: VN
 lei-parent: ARCHER-DANIELS-MIDLAND COMPANY
@@ -55,12 +57,28 @@ total-spent: 122810
 cash-on-hand: 83436
 individual-contributions: 147414
 contributions-to-committees: 95450
-internal-notes: "[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746 | [CODE @ 2026-04-16] Pipeline: usaspending completed for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24492256375"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746 | [CODE @ 2026-04-16] Pipeline: usaspending completed for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24492256375"
 employee-contributions: 23348
 employee-contributions-total: 1675589
 employee-donor-count: 1548
 fec-committee-id: C00093963
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -98,10 +116,10 @@ fec-committee-id: C00093963
 | Adrian Smith | $53,000 |
 | Darin Lahood | $52,000 |
 | Danny K. Davis | $38,000 |
-| Richard J. Durbin | $30,250 |
-| Austin Scott | $29,500 |
 | Mike Bost | $28,500 |
 | Sam Graves | $27,500 |
+| Roger Marshall | $27,000 |
+| John Hoeven | $26,200 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

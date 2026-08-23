@@ -1,7 +1,7 @@
 ---
 title: Cargill
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -92,7 +92,11 @@ court-jurisdictions:
 fda-recalls: 42
 fda-recalls-class-i: 10
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 nonprofit-status: 501(c)(3)
 total-revenue: 144285452
 total-assets: 307345903
@@ -126,6 +130,18 @@ employee-donor-count: 398
 politicians-funded: "[[ActBlue]], [[_Jim Jordan Master Profile]], [[WinRed]], [[Bob Casey]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Pete Stauber Master Profile]], [[NRCC - National Republican Congressional Committee]], [[_Ron Johnson Master Profile]], [[_Tammy Baldwin Master Profile]], [[Human Rights Campaign Equality Votes]], [[_Angie Craig Master Profile]], [[PRIORITIES USA ACTION]], [[RNC - Republican National Committee]], [[NRSC - National Republican Senatorial Committee]], [[_Tim Scott Master Profile]], [[_Ted Cruz Master Profile]], [[MAGA Inc]], [[_Lisa Blunt Rochester Master Profile]], [[Mark Kelly]], [[Emily's List]], [[Campaign for Working Families]], [[The Lincoln Project]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Marcia Fudge Master Profile]], [[Save America PAC]], [[Chris Christie]], [[CHC BOLD PAC]], [[FreedomWorks for America]], [[_Gabe Vasquez Master Profile]], [[_Thomas Massie Master Profile]], [[Trump Victory]], [[_Jimmy Panetta Master Profile]], [[_Mike Levin Master Profile]], [[_Josh Hawley Master Profile]], [[_Marco Rubio Master Profile]], [[Tim Scott]], [[Thomas Massie]], [[Marco Rubio]], [[Jimmy Panetta]], [[Ron Johnson]], [[Lisa Blunt Rochester]], [[Jim Jordan]], [[Ted Cruz]], [[Mike Levin]], [[Gabe Vasquez]], [[Angie Craig]], [[Josh Hawley]], [[Marcia Fudge]], [[Tammy Baldwin]], [[Pete Stauber]], [[Priorities USA Action]], [[Minnesota Democratic-Farmer-Labor Party]], [[Xavier Becerra]], [[Mike Pompeo]], [[Austin Scott]], [[Dianne Feinstein]], [[Thom Tillis]], [[Kat Cammack]], [[John Boozman]], [[Mike Bost]], [[Randy Feenstra]], [[Chris Coons]], [[Nancy Pelosi]], [[Susan Collins]], [[Mark Warner]], [[Chuck Grassley]], [[Tom Emmer]], [[Roger Marshall]], [[Joni Ernst]], [[Sanford D. Bishop]], [[Tim Walz]], [[Sharice Davids]], [[Mike Crapo]], [[James E. Clyburn]], [[Harry Reid]], [[Tim Kaine]], [[Adrian Smith]], [[Henry Cuellar]], [[John Boehner]], [[Robert B. Aderholt]], [[Jonathan L. Jackson]], [[Kristi Noem]], [[Mike Rounds]], [[David Scott]], [[Kay Granger]], [[Chuck Hagel]], [[Jim Costa]], [[Steve Cohen]], [[Gregory Meeks]], [[Frank Lucas]], [[John Thune]], [[Frank J. Mrvan]], [[Steve Daines]], [[Rick Crawford]], [[Kevin Cramer]], [[Ro Khanna]], [[Shontel Brown]], [[Sam Graves]], [[Deb Fischer]], [[Tammy Duckworth]], [[Marcy Kaptur]], [[Rosa DeLauro]], [[Debbie Stabenow]], [[Dusty Johnson]], [[Rick Larsen]], [[Ray LaHood]], [[David Rouzer]], [[Lindsey Graham]], [[Pete Ricketts]], [[Amy Klobuchar]], [[J. Luis Correa]], [[Tracey Mann]], [[Elise Stefanik]], [[Don Bacon]], [[Roger Williams]], [[Michael T. McCaul]], [[Tina Smith]], [[Terri A. Sewell]], [[Bill Cassidy]], [[Mitch McConnell]], [[Nicholas A. Langworthy]], [[Jerry Moran]], [[Jason Smith]], [[Pete Aguilar]], [[John Hoeven]], [[Michael K. Simpson]], [[Charles J. Chuck Fleischmann]], [[Paul Ryan]], [[Nanette Diaz Barragan]], [[Glenn Thompson]], [[Nikki Budzinski]], [[Brett Guthrie]], [[Ron Estes]], [[Mark Takano]], [[Seth Magaziner]], [[Michelle Fischbach]], [[Paul Tonko]], [[John R. Moolenaar]], [[Troy A. Carter]], [[David G. Valadao]], [[Mike Johnson]], [[Dan Coats]], [[John Cornyn]], [[Jahana Hayes]], [[Harold Rogers]], [[Mariannette Miller-Meeks]], [[James Comer]], [[Ashley Hinson]], [[Jodey Arrington]], [[Jeanne Shaheen]], [[Emanuel Cleaver]], [[Dick Durbin]], [[Ann Wagner]], [[Frank Pallone]], [[Bennie Thompson]], [[Steny H. Hoyer]], [[Salud O. Carbajal]], [[Mike Thompson]], [[Hakeem Jeffries]], [[Mike Flood]], [[Zachary Nunn]], [[John McCain]], [[John Barrasso]], [[Patty Murray]], [[Jim McGovern]], [[Jeff Sessions]], [[Jasmine Crockett]], [[Kevin McCarthy]], [[Kristen McDonald Rivet]], [[Darin Lahood]], [[Ami Bera]], [[Mark Green]], [[Brad Finstad]], [[Steve Womack]], [[Richard J. Durbin]], [[Darrell Issa]], [[Richard Neal]], [[Ben Cline]], [[Eric Swalwell]], [[Mike Lee]], [[Betty McCollum]], [[Adam Gray]], [[Zoe Lofgren]], [[Donald G. Davis]], [[Andy Harris]], [[Judy Chu]], [[Mark Alford]], [[Shomari Figures]], [[Katherine M. Clark]], [[Chuck Schumer]], [[Robin L. Kelly]], [[Adam Smith]], [[Ryan Zinke]], [[Michael Bennet]], [[Steve Scalise]], [[Jim Risch]], [[Lauren Underwood]], [[James R. Baird]], [[Todd Young]], [[Monica de la Cruz]], [[Dan Sullivan]], [[Steven Horsford]], [[Roger Wicker]]"
 fec-committee-id: C00067884
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

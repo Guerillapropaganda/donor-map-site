@@ -1,7 +1,7 @@
 ---
 title: Sinclair Broadcast Group
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ sector: Media & Entertainment
 entity-type: Corporation
 court-cases: 605
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
   - Court of Appeals for the Eighth Circuit
@@ -51,7 +53,22 @@ politicians-funded: "[[Mariannette Miller-Meeks]], [[Todd Young]], [[NRCC - Nati
 fec-committee-ids:
   - C00562660
   - C00327361
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

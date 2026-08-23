@@ -1,7 +1,7 @@
 ---
 title: Gregory Meeks
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Gregory Meeks is the donor class's man on foreign affairs. His committee position gives him veto authority over arms sales , and his donors know it. AIPAC and pro-Israel groups have given him $523,000+ career; Wall Street firms fund him through Fi...
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
@@ -40,11 +40,32 @@ related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American 
 bills-enacted: 0
 top-policy-area: International Affairs
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 opposes: "[[Donald Trump]]"
 fec-committee-ids:
   - C00329375
   - C00430991
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

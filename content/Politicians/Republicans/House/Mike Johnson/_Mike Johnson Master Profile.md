@@ -1,7 +1,7 @@
 ---
 title: Mike Johnson
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Mike Johnson's speakership demonstrates how the donor class captures institutions through the least-expected candidates. A constitutional lawyer with 9 years at Alliance Defending Freedom (anti-LGBTQ litigation), a 0/100 Human Rights Campaign scor...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -40,8 +40,24 @@ related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]]
 donors: "[[National Restaurant Association]] · [[Patrick Soon-Shiong]] · [[Western Growers Association]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[American Iron and Steel Institute]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Peter Thiel]] · [[Raytheon (RTX Corporation)]] · [[National Cattlemen's Beef Association]] · [[Meta - Facebook]] · [[Williams Companies]] · [[Associated General Contractors of America Political Action Committee]] · [[FreedomWorks for America]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[GEO Group - Private Prison Industrial Complex]] · [[JIM JORDAN FOR CONGRESS]] · [[Tyson Foods]] · [[Senate Conservatives Fund]] · [[NRA Political Victory Fund]] · [[TEXANS FOR JODEY ARRINGTON]] · [[Koch Industries]] · [[American College of Radiology Association PAC]] · [[National Association of Manufacturers]] · [[Cargill]] · [[American Gaming Association]] · [[Gilead Sciences]] · [[Humana]] · [[AbbVie]] · [[Family Research Council Action Political Action Committee]] · [[Paul Ryan]] · [[Google - Alphabet]] · [[Jim Banks]] · [[Leidos]] · [[Club for Growth INC PAC]] · [[CVS Health - Aetna]] · [[Akin Gump Strauss Hauer & Feld]] · [[Steve Scalise]] · [[ADM - Archer Daniels Midland]] · [[McDonalds Corporation]] · [[Pfizer Inc.]] · [[American Dental PAC Education Fund]] · [[Jodey Arrington]] · [[Jim Jordan]] · [[Maximo Mr. Alarez]] · [[WINRED]] · [[Michael Johnson]] · [[AT&T]] · [[National Association of Realtors]] · [[BAE Systems]] · [[Honeywell International]] · [[Care Action]] · [[General Dynamics]] · [[iHeartMedia]] · [[Majority PAC]] · [[National Multifamily Housing Council]] · [[Valero Energy]] · [[Anthem - Elevance Health]] · [[Chevron]] · [[Marathon Petroleum]] · [[Northrop Grumman]] · [[ConocoPhillips]] · [[Morgan Stanley]] · [[Save America PAC]] · [[Microsoft]] · [[NextEra Energy]] · [[Walmart - Walton Family]] · [[Halliburton]] · [[Citigroup]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Lockheed Martin]] · [[American Hospital Association PAC]] · [[Comcast - NBCUniversal]] · [[General Motors]] · [[American Chemistry Council, INC]] · [[Duke Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Johnson & Johnson]] · [[L3Harris Technologies]] · [[Ford Motor Company]]"
 bills-enacted: 0
 top-policy-area: Health
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

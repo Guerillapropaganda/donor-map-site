@@ -1,7 +1,7 @@
 ---
 title: "Joni Ernst Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Joni Ernst rode the Tea Party wave and rural authenticity (farm background, military service) into the Senate, but her donor base is Koch money and corporate agribusiness, not family farmers. Iowa's agricultural consolidation over the past 40 year..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -36,6 +36,8 @@ fec-candidate-id: "S4IA00129"
 bills-enacted: 3
 top-policy-area: "International Affairs"
 last-enriched: 2026-04-20
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 fec-committee-ids:
   - C00546788
   - C00705822
@@ -44,7 +46,26 @@ fec-committee-ids:
   - C00571927
   - C00610428
   - C00568634
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

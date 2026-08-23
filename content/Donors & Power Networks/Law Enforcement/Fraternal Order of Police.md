@@ -1,7 +1,7 @@
 ---
 title: Fraternal Order of Police
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: Individual Donor
 ein: "933414548"
 nonprofit-status: 501(c)(8)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-cases: 5883
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
@@ -68,7 +70,22 @@ checklist-na:
 employee-contributions: 3
 employee-contributions-total: 575
 employee-donor-count: 2
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

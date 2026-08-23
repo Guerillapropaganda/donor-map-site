@@ -1,7 +1,7 @@
 ---
 title: Business Roundtable
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -43,7 +43,11 @@ sec-form-types:
   - PX14A6N
   - SC 14F1
 cross-vault-triangulation-count: 14
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 nonprofit-status: 501(c)(6)
 total-revenue: 79436895
 total-assets: 50178043
@@ -58,6 +62,18 @@ employee-contributions: 224
 employee-contributions-total: 264749
 employee-donor-count: 80
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

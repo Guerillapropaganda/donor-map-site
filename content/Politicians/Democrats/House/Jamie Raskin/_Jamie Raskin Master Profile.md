@@ -1,7 +1,7 @@
 ---
 title: Jamie Raskin
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand , the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democrati...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -40,7 +40,11 @@ issues:
   - Education
   - Environmental Protection
   - Foreign Trade and International Finance
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $4,396,225
 total-spent: $2,984,270
 cash-on-hand: "6377157.84"
@@ -60,6 +64,18 @@ known-gaps:
   - No FEC contribution data
 fec-committee-id: C00575126
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

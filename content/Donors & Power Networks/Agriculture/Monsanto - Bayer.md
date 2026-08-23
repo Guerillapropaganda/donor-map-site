@@ -1,7 +1,7 @@
 ---
 title: Monsanto - Bayer
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - Agriculture
 federal-register-mentions: 1
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Antitrust Division
   - Justice Department
@@ -61,7 +63,22 @@ politicians-funded: "[[WinRed]], [[ActBlue]], [[Bob Casey]], [[RNC - Republican 
 total-political-spend: $1.0M
 spend-source: aggregated from canonical FEC/IRS edge stores across 1 store(s), cycles 1980, 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018
 fec-committee-id: C00042069
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

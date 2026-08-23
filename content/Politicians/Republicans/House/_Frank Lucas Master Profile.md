@@ -1,7 +1,7 @@
 ---
 title: "Frank Lucas Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Frank Lucas is the man who votes on his own subsidy checks. He sits on the committee that writes the Farm Bill, directly benefiting from the legislation he authors. This is not accidental. It is structural corruption protected by both parties and ..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -35,6 +35,8 @@ phone: "202-225-5565"
 total-received: "$472,295"
 fec-candidate-id: "H4OK06056"
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 source-types:
   - Congress
   - DOJ
@@ -51,7 +53,26 @@ top-policy-area: "Science, Technology, Communications"
 fec-committee-ids:
   - C00287912
   - C00268433
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

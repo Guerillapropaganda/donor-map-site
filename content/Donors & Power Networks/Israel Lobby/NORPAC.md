@@ -1,7 +1,7 @@
 ---
 title: NORPAC
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: Individual Donor
 politicians-funded: "[[Bill Cassidy]], [[Mike Lawler]], [[Jack Reed]], [[Tom Cotton]], [[Bernie Moreno]], [[John Hickenlooper]], [[Ritchie Torres]], [[Brian Mast]], [[Gregory Meeks]], [[Tim Walberg]], [[Michael Whatley]], [[Jim Risch]], [[Brad Sherman]], [[George Latimer]], [[Donald Norcross]], [[James Lankford]], [[Michael Lawler]], [[Darren Soto]], [[Tim Sheehy]], [[Roger Wicker]], [[Roger Marshall]], [[Marsha Blackburn]], [[ActBlue]], [[Josh Hawley]], [[Ron Estes]], [[Lindsey Graham]], [[Dusty Johnson]], [[Elise Stefanik]], [[Cory Booker]], [[Bob Casey]], [[Nancy Mace]], [[Jake Auchincloss]], [[NORPAC]], [[Ted Cruz]], [[Tim Scott]], [[John Fetterman]], [[Josh Gottheimer]], [[Hakeem Jeffries]], [[Jacky Rosen]], [[Ronny Jackson]], [[Virginia Foxx]], [[Guy Reschenthaler]], [[Grace Meng]], [[John James]], [[Maggie Goodlander]], [[Joni Ernst]], [[Mike Rounds]], [[RNC - Republican National Committee]], [[Thom Tillis]], [[NRCC - National Republican Congressional Committee]], [[Wesley Bell]], [[Mark Warner]], [[Frank Pallone]], [[Mark Green]], [[Shontel Brown]], [[Susan Collins]], [[Marie Gluesenkamp Perez]], [[NRSC - National Republican Senatorial Committee]], [[Brian K. Fitzpatrick]], [[Jeff Sessions]], [[Dick Durbin]], [[Robert Menendez]], [[Joe Manchin]], [[Gary Peters]], [[Mitch McConnell]], [[Steny H. Hoyer]], [[Chuck Grassley]], [[Nancy Pelosi]], [[Chris Coons]], [[Jim Costa]], [[Hillary Clinton]], [[Patty Murray]], [[John Hoeven]], [[Christopher H. Smith]], [[Linda T. Sanchez]], [[Ron Wyden]], [[Jim Banks]], [[John McCain]], [[Angie Craig]], [[Chuck Schumer]], [[John Kerry]], [[Jerrold Nadler]], [[Debbie Stabenow]], [[Dianne Feinstein]], [[Patrick McHenry]], [[Lisa Murkowski]], [[Don Bacon]], [[Deb Fischer]], [[Mike Rogers]], [[Kirsten E. Gillibrand]], [[Lois Frankel]], [[Dan Coats]], [[John Cornyn]], [[Max L. Miller]], [[Chris Pappas]], [[Jeanne Shaheen]], [[Joe Biden]], [[Thomas H. Kean]], [[Henry C. Hank Johnson]], [[Bob Menendez]], [[Harry Reid]], [[Nick Lalota]], [[Kevin Kiley]], [[Rosa DeLauro]], [[Cynthia M. Lummis]], [[Richard Blumenthal]], [[John Boozman]], [[John Barrasso]], [[Jared F. Golden]], [[Jim Inhofe]], [[Sherrod Brown]], [[Mike Thompson]], [[Marilyn Strickland]], [[Amy Klobuchar]], [[Lee Zeldin]], [[Kyrsten Sinema]], [[Ted Budd]], [[Adam Schiff]], [[Cathy McMorris Rodgers]]"
 federal-register-mentions: 42
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Commerce Department
   - Employment and Training Administration
@@ -53,7 +55,22 @@ employee-contributions: 84
 employee-contributions-total: 11571
 employee-donor-count: 16
 fec-committee-id: C00247403
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -87,16 +104,16 @@ fec-committee-id: C00247403
 
 | Politician | Amount |
 |---|---:|
-| Josh Gottheimer | $83,200 |
+| Chuck Schumer | $121,954 |
+| Josh Gottheimer | $114,265 |
+| Robert Menendez | $94,375 |
+| Cory Booker | $57,400 |
+| Frank Pallone | $49,850 |
+| Marsha Blackburn | $47,930 |
+| Joni Ernst | $44,970 |
+| Jim Banks | $43,600 |
 | George Latimer | $43,550 |
-| Marsha Blackburn | $42,380 |
-| Joni Ernst | $39,970 |
-| Josh Hawley | $35,086 |
-| Frank Pallone | $33,200 |
-| Lindsey Graham | $31,800 |
-| Tim Scott | $29,000 |
-| Roger Wicker | $27,100 |
-| Roger Marshall | $24,500 |
+| Jim Inhofe | $37,050 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

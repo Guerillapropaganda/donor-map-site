@@ -1,7 +1,7 @@
 ---
 title: George Soros
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -50,11 +50,27 @@ lobbying-spend: 1515500
 lobbying-filings: 100
 related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]] · [[The Biden Exit and Harris Installation]] · [[Wes Moore Master Profile]] · [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Center on Budget and Policy Priorities]] · [[Pod Save America]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Arabella Advisors]]"
 cross-vault-triangulation-count: 13
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

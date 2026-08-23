@@ -1,7 +1,7 @@
 ---
 title: Everytown for Gun Safety
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ politicians-funded: "[[Chris Murphy]], [[Hakeem Jeffries]], [[_Mike Levin Master
 total-political-spend: $39,062,644
 federal-register-mentions: 4
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Alcohol, Tobacco, Firearms, and Explosives Bureau
   - Justice Department
@@ -52,7 +54,22 @@ employee-donor-count: 93
 fec-committee-ids:
   - C90015025
   - C00640086
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -85,16 +102,16 @@ fec-committee-ids:
 
 | Politician | Amount |
 |---|---:|
-| Lucy McBath | $1,245,579 |
+| Lucy McBath | $1,256,579 |
 | Donald Trump | $96,042 |
-| Robin L. Kelly | $62,720 |
+| Robin L. Kelly | $69,220 |
 | Susan Collins | $29,424 |
 | Ron Johnson | $20,018 |
-| Hillary Clinton | $7,274 |
-| David P. Joyce | $4,816 |
-| Nancy Pelosi | $4,500 |
-| Pete Aguilar | $4,500 |
-| Ted Lieu | $3,500 |
+| Katherine M. Clark | $10,500 |
+| Nancy Pelosi | $10,500 |
+| James E. Clyburn | $9,500 |
+| Mike Thompson | $9,500 |
+| Steny H. Hoyer | $9,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

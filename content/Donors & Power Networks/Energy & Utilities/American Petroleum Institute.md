@@ -1,7 +1,7 @@
 ---
 title: American Petroleum Institute
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ net-assets: $122.9M
 tax-year: "2023"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 ofac-programs:
   - RUSSIA-EO14024
 nonprofit-status: 501(c)(6)
@@ -46,7 +48,22 @@ federal-awards-total: 10863
 employee-contributions: 143
 employee-contributions-total: 242765
 employee-donor-count: 51
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

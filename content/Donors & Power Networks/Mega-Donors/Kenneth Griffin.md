@@ -1,7 +1,7 @@
 ---
 title: Kenneth Griffin
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
   - Wall Street & Finance
 court-cases: 168
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the Eleventh Circuit
   - District Court, D. Massachusetts
@@ -57,7 +59,22 @@ checklist-na:
 employee-contributions: 1
 employee-contributions-total: 1000
 employee-donor-count: 1
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -90,11 +107,11 @@ employee-donor-count: 1
 
 | Politician | Amount |
 |---|---:|
+| Mitch McConnell | $10,000 |
 | John Boehner | $40,000 |
 | Joni Ernst | $10,400 |
 | Kevin McCarthy | $10,400 |
 | Paul Ryan | $10,000 |
-| Mitch McConnell | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

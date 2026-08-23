@@ -1,7 +1,7 @@
 ---
 title: Rand Paul
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Rand Paul sells libertarianism as principle but delivers it as policy that benefits the donor class , specifically: deregulation for finance and tech, tax cuts for the wealthy, and obstruction of social spending that the working class depends on. ..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -29,6 +29,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Jeffrey Yass]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 bioguide-id: P000603
 issues:
   - Crime and Law Enforcement
@@ -42,7 +44,26 @@ fec-committee-ids:
   - C00462069
   - C00486100
   - C00545848
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

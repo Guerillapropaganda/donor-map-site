@@ -3,7 +3,7 @@ title: Bug Queue
 type: admin-note
 note-type: bug
 status: active
-last-updated: 2026-04-29
+last-updated: 2026-08-08
 note-kind: ticket
 ---
 
@@ -34,6 +34,54 @@ Claude will normalize it on the next visit.
 
 *(no open bugs — all clear)*
 
+
+### bug-014: Calibration drift: Pfizer Inc. (readiness) failed fixture
+<!-- auto-bug-key: 9b130ac82b39 -->
+<!-- auto-resolve-when: harness-check=calibration-drift -->
+- **reported:** 2026-08-08
+- **severity:** high
+- **where:** data/calibration-fixture.jsonl + scripts/calibration-auto-revert.cjs
+- **what:** Fixture "Pfizer Inc." (bucket=readiness) started failing — auto-reverted 0 claude-auto decision(s) in blast radius. The fixture comparison says the data shape diverged from what we expect; review and re-validate before unfreezing.
+- **producer:** calibration-drift (auto-logged)
+- **fixture:** Pfizer Inc.
+- **bucket:** readiness
+- **reverted-count:** 0
+- **last-failure:** 2026-08-08T21:05:01.566Z
+
+### bug-013: Harness check 'leftover-artifacts' crashed
+<!-- auto-bug-key: 2453d6bd203d -->
+<!-- auto-resolve-when: harness-check=leftover-artifacts -->
+- **reported:** 2026-05-25
+- **severity:** high
+- **where:** scripts/vault-audit.cjs (check: leftover-artifacts)
+- **what:** Transient files (dedup .bak, temp, stray logs) not gitignored — commit-scope risk + disk cruft — timed out after 30027ms.
+- **producer:** harness-crash (auto-logged)
+- **check-cmd:** node scripts/leftover-artifacts-check.cjs --no-queue
+- **last-failure:** 2026-05-25T15:57:55.123Z
+
+### bug-012: Harness check 'librarian-gap-audit' crashed
+<!-- auto-bug-key: 7c362e47a921 -->
+<!-- auto-resolve-when: harness-check=librarian-gap-audit -->
+- **reported:** 2026-05-18
+- **severity:** high
+- **where:** scripts/vault-audit.cjs (check: librarian-gap-audit)
+- **what:** Diagnostic: classify every guarded-field wikilink against the librarian. Reports counts per gap class (unresolvable / node-isolated / fec-committee-suspect / alias-candidate / ok). Read-only — gives editorial + infra a priority queue ranked by appearance leverage. — timed out after 120072ms.
+- **producer:** harness-crash (auto-logged)
+- **check-cmd:** node scripts/librarian-gap-audit.cjs --json
+- **last-failure:** 2026-05-18T14:36:39.326Z
+
+### bug-011: Calibration drift: Mike Carey (pathless-stub-merge-target) failed fixture
+<!-- auto-bug-key: 336782ea9ca8 -->
+<!-- auto-resolve-when: harness-check=calibration-drift -->
+- **reported:** 2026-05-18
+- **severity:** high
+- **where:** data/calibration-fixture.jsonl + scripts/calibration-auto-revert.cjs
+- **what:** Fixture "Mike Carey" (bucket=pathless-stub-merge-target) started failing — auto-reverted 0 claude-auto decision(s) in blast radius. The fixture comparison says the data shape diverged from what we expect; review and re-validate before unfreezing.
+- **producer:** calibration-drift (auto-logged)
+- **fixture:** Mike Carey
+- **bucket:** pathless-stub-merge-target
+- **reverted-count:** 0
+- **last-failure:** 2026-05-18T14:36:39.826Z
 
 ### bug-009: audit-thesis-data-vs-sources voteview rollcall parser uses bioguide where voteview keys by ICPSR
 - **reported:** 2026-04-30

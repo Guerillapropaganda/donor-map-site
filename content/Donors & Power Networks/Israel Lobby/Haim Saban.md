@@ -1,7 +1,7 @@
 ---
 title: Haim Saban
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ tax-year: "2020"
 total-political-spend: $20,115,751
 related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Turkey - Erdogan Lobbying Operation]] · [[Israel - Government Lobbying Operation]] · [[California Charter Schools Association]] · [[American Petroleum Institute]] · [[2028 Presidential Landscape]] · [[Adam Schiff]] · [[Joe Biden]] · [[Jeffrey Katzenberg]] · [[Adelson Family]] · [[Hollywood Democratic Donor Network]] · [[Trump Donor Coalition]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Western Growers Association]] · [[California Farm Bureau Federation]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-cases: 31
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
@@ -36,7 +38,22 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -72,7 +89,9 @@ checklist-na:
 |---|---:|
 | Nancy Pelosi | $263,400 |
 | Joe Manchin | $21,600 |
+| Xavier Becerra | $17,300 |
 | Adam Schiff | $10,400 |
+| Antonio Villaraigosa | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

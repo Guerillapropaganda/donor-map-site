@@ -1,7 +1,7 @@
 ---
 title: Freedom Partners Chamber of Commerce
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - Dark Money & Campaign Finance
 court-cases: 4
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - District Court, D. New Jersey
   - District Court, District of Columbia
@@ -37,7 +39,22 @@ urls-first-triaged: "2026-04-15"
 politicians-funded: "[[Marco Rubio]], [[Todd Young]]"
 opposes: "[[Catherine Cortez Masto]]"
 fec-committee-id: C90016692
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

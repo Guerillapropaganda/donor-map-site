@@ -2,7 +2,7 @@
 title: Bob Menendez
 type: politician
 bioguide-id: M000639
-content-readiness: ready
+content-readiness: draft
 central-thesis: Menendez is the vault's most extreme case of the foreign policy-to-corruption pipeline. His SFRC chairmanship gave him unilateral power to block nominations, hold hearings, and shape every diplomatic relationship. He used that power to serve three...
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
@@ -30,7 +30,11 @@ bills-sponsored: 75
 bills-cosponsored: 263
 bills-enacted: 3
 top-policy-area: International Affairs
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 opposes: "[[Donald Trump]]"
 fec-committee-ids:
   - C00264564
@@ -40,6 +44,18 @@ fec-committee-ids:
   - C00427724
   - C00420539
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

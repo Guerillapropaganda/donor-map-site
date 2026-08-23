@@ -1,7 +1,7 @@
 ---
 title: Melissa Bean
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Melissa Bean represents a new prototype in the 2026 election cycle: the 'comeback candidate' funded by a coalition of emerging donor interests (AI tech, cryptocurrency, pro-Israel infrastructure). Her 2026 primary victory was almost entirely depen..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -58,6 +58,18 @@ fec-committee-ids:
   - C00919183
   - C00369710
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

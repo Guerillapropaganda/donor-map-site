@@ -1,7 +1,7 @@
 ---
 title: Josh Hawley
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Josh Hawley is the MAGA donor class's prototype for a new kind of Republican: the manufactured populist. His 2018 election was funded by $20.7M from McConnell's Senate Leadership Fund and $3.9M from the Koch network. His January 6 fist pump , whic..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -26,11 +26,28 @@ known-gaps:
 opposes: "[[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]] · [[PRIORITIES USA ACTION]] · [[Majority Forward]] · [[Emilys List]] · [[Priorities USA Action]] · [[Patriots Prevail PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 govtrack-id: 405245
 bills-sponsored: 0
 bills-cosponsored: 0
 donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[National Association of Realtors]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Senate Conservatives Fund]] · [[Campaign for Working Families]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Club for Growth INC PAC]] · [[NORPAC]] · [[WinRed]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Mad Dog PAC]] · [[Common Sense for America PAC]] · [[Really American Pac]] · [[The Lincoln Project]] · [[Let America Vote PAC]] · [[American Hospital Association PAC]] · [[UPS]] · [[UnitedHealth Group - Optum]] · [[Monsanto - Bayer]] · [[IBEW Local 440 - Riverside]] · [[Verizon]] · [[General Motors]] · [[Wells Fargo]] · [[Chevron]] · [[Goldman Sachs]] · [[Oracle]] · [[Federalist Society]] · [[Boeing]] · [[Citigroup]] · [[Uber]] · [[Walmart]] · [[ExxonMobil]] · [[Pfizer Inc.]] · [[HBW Resources]] · [[CNA - California Nurses Association]] · [[PG&E]] · [[Novo Nordisk]] · [[Blackstone Group]] · [[AT&T]] · [[Devon Energy]] · [[AMERICAN CROSSROADS]] · [[Humana]] · [[Northrop Grumman]] · [[Cargill]] · [[Lockheed Martin]] · [[Apple]] · [[Ford Motor Company]] · [[Comcast - NBCUniversal]] · [[McDonalds Corporation]] · [[Heritage Foundation]] · [[Merck]] · [[Aramark]] · [[Honeywell International]] · [[Google - Alphabet]] · [[Bank of America]] · [[Amgen Inc]] · [[Citadel - Kenneth Griffin]] · [[Kaiser Permanente]] · [[Centene Corporation]] · [[Las Vegas Sands]] · [[Amazon]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[American Crossroads]] · [[National Right to Life PAC]] · [[National Right to Life Victory Fund]] · [[Drain the DC Swamp PAC]] · [[Koch Industries]] · [[Leidos]] · [[Donald Trump]] · [[Republican Jewish Coalition]] · [[Women Speak Out Pac]] · [[Associated General Contractors of America Political Action Committee]] · [[Family Research Council Action Political Action Committee]] · [[NRA Political Victory Fund]] · [[Club for Growth]] · [[National Republican Senatorial Committee]] · [[Williams Companies]] · [[National Cattlemen's Beef Association]] · [[SLF PAC]] · [[American Principles Fund]] · [[Conservative Leadership PAC]] · [[COTTON, THOMAS]] · [[FreedomWorks for America]] · [[National Restaurant Association]] · [[Roger Marshall]] · [[GEO Group - Private Prison Industrial Complex]] · [[Tom Cotton]] · [[Matthew F. Dr. M.d. Gornet]] · [[Harold Mr. Wiese]] · [[CLUB FOR GROWTH PAC]] · [[Gerald A. Mr. Cook]] · [[Ronald F. Dr. M.d. Sprouse]] · [[Thomas S. Monaghan]] · [[Gayla C. Ms. Hancock]] · [[Robert G. Mr. Campbell]] · [[Harrison Butker]] · [[Mark Christopher Schell]] · [[George T. Carr]] · [[Kevin Mr. Perz]] · [[Thomas S. Ward]] · [[Robert J. Orscheln]] · [[Mark Mr. Cook]] · [[Reclaim America PAC]] · [[BAE Systems]] · [[iHeartMedia]] · [[Anthem - Elevance Health]] · [[Alliance Coal, LLC PAC]] · [[VIGOP]] · [[Majority PAC]] · [[Marathon Petroleum]] · [[RNC - Republican National Committee]] · [[Susan B. Anthony Pro-Life America PAC]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

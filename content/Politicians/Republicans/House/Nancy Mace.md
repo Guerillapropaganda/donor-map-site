@@ -3,7 +3,7 @@ title: Nancy Mace
 type: politician
 chamber: House
 party: Republican
-content-readiness: ready
+content-readiness: draft
 central-thesis: Nancy Mace is the donor-class weather vane. Her positions do not reflect a stable ideology or principle , they shift when the donor incentive structure changes. Her post-January 6 criticism of Trump was genuine, but only lasted as long as moderate...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -29,11 +29,28 @@ donors: "[[South Carolina Patriots PAC]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [
 bills-enacted: 0
 top-policy-area: Government Operations and Politics
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 fec-committee-ids:
   - C00710103
   - C00712521
   - C00702878
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

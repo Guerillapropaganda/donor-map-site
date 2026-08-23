@@ -1,7 +1,7 @@
 ---
 title: AFSCME - American Federation of State County and Municipal Employees
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
   - Labor & Workers
 ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 ofac-programs:
   - CAATSA - RUSSIA
   - RUSSIA-EO14024
@@ -54,7 +56,22 @@ employee-contributions: 3477
 employee-contributions-total: 242533
 employee-donor-count: 321
 fec-committee-id: C00149211
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

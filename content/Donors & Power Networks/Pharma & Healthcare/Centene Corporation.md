@@ -1,7 +1,7 @@
 ---
 title: Centene Corporation
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ federal-contracts-count: 12
 federal-grants-count: 0
 federal-register-mentions: 13
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Employee Benefits Security Administration
   - Federal Trade Commission
@@ -82,7 +84,22 @@ federal-contracts: 18
 employee-contributions: 8620
 employee-contributions-total: 1579148
 employee-donor-count: 945
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

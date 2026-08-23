@@ -1,7 +1,7 @@
 ---
 title: Microsoft
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -19,6 +19,8 @@ net-assets: $2.8M
 tax-year: "2022"
 court-cases: 92830
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the First Circuit
   - District Court, D. Delaware
@@ -70,7 +72,22 @@ employee-contributions: 195850
 employee-contributions-total: 22378287
 employee-donor-count: 23747
 fec-committee-id: C00227546
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -104,15 +121,15 @@ fec-committee-id: C00227546
 | Politician | Amount |
 |---|---:|
 | Jon Ossoff | $232,988 |
+| Adam Smith | $136,500 |
 | Mark Kelly | $133,475 |
-| Rashida Tlaib | $58,678 |
-| Josh Harder | $35,185 |
-| Catherine Cortez Masto | $33,695 |
-| Kamala Harris | $31,633 |
-| Ted Cruz | $27,913 |
-| Bob Casey | $26,963 |
-| Marco Rubio | $26,853 |
-| Frank Pallone | $25,000 |
+| Cathy McMorris Rodgers | $106,500 |
+| Darrell Issa | $92,600 |
+| James E. Clyburn | $88,500 |
+| Rick Larsen | $83,500 |
+| Frank Pallone | $81,500 |
+| Bennie Thompson | $68,500 |
+| Zoe Lofgren | $65,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

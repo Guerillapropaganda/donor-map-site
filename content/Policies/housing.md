@@ -1,5 +1,5 @@
 ---
-title: Housing affordability and rent control
+title: "Housing affordability and rent control"
 type: policy
 slug: housing
 policy-id: pol_housing
@@ -13,10 +13,9 @@ class-analysis-tags:
   - privatization
   - anti-trust-defender
 content-readiness: draft
-last-updated: 2026-04-27T00:00:00.000Z
+last-updated: 2026-08-21
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-source-tier: 1
 ---
 
 # Housing affordability and rent control
@@ -56,16 +55,16 @@ Opposition comes from **rentier-capital, finance-capital** — the capital fract
 
 | Donor | Capital type | Total spend | Politicians funded | Cross-policy |
 |---|---|---|---|---|
-| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $6.5B | 137 | **4 of 5** |
+| [[Fidelity Investments|Fidelity Investments]] | finance-capital | $8.5B | 139 | **4 of 5** |
+| [[National Philanthropic Trust|National Philanthropic Trust]] | finance-capital | $3.9B | 58 | **4 of 5** |
+| [[Schwab Charitable Fund|Schwab Charitable Fund]] | finance-capital | $3.4B | 67 | **4 of 5** |
+| [[Goldman Sachs Philanthropy Fund|Goldman Sachs Philanthropy Fund]] | finance-capital | $2.8B | 39 | **4 of 5** |
+| [[Silicon Valley Community Foundation|Silicon Valley Community Foundation]] | finance-capital | $2.0B | 46 | **4 of 5** |
+| [[American Endowment Foundation|American Endowment Foundation]] | finance-capital | $954.2M | 37 | **4 of 5** |
+| [[Vanguard Charitable Endowment Program|Vanguard Charitable Endowment Program]] | finance-capital | $739.2M | 49 | **4 of 5** |
+| [[Morgan Stanley Global Impact Funding Trust|Morgan Stanley Global Impact Funding Trust]] | finance-capital | $461.6M | 38 | **4 of 5** |
 | [[Las Vegas Sands|Las Vegas Sands]] | rentier-capital | $159.3M | 29 | **2 of 5** |
-| [[Blackstone Group|Blackstone Group]] | finance-capital | $99.9M | 109 | **4 of 5** |
-| [[National Association of Realtors|National Association of Realtors]] | rentier-capital | $62.8M | 369 | **2 of 5** |
-| [[Elliott Management|Elliott Management]] | finance-capital | $38.3M | 39 | **4 of 5** |
-| [[Charles Schwab|Charles Schwab]] | finance-capital | $33.9M | 82 | **4 of 5** |
-| [[Citadel - Kenneth Griffin|Citadel - Kenneth Griffin]] | finance-capital | $22.7M | 61 | **4 of 5** |
-| [[Apollo Global Management|Apollo Global Management]] | finance-capital | $7.4M | 54 | **4 of 5** |
-| [[Goldman Sachs|Goldman Sachs]] | finance-capital | $6.1M | 133 | **4 of 5** |
-| [[Morgan Stanley|Morgan Stanley]] | finance-capital | $5.5M | 237 | **4 of 5** |
+| [[National Association of Realtors|National Association of Realtors]] | rentier-capital | $157.9M | 608 | **2 of 5** |
 
 _See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
 

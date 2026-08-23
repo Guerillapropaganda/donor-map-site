@@ -1,7 +1,7 @@
 ---
 title: ConocoPhillips
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -52,6 +52,8 @@ tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 lei: WPTL2Z3FIYTHSP5V2253
 lei-jurisdiction: US-DE
 court-cases: 4295
@@ -85,7 +87,22 @@ employee-contributions: 19314
 employee-contributions-total: 2125152
 employee-donor-count: 1637
 fec-committee-id: C00112896
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -118,16 +135,16 @@ fec-committee-id: C00112896
 
 | Politician | Amount |
 |---|---:|
-| Steve Scalise | $30,000 |
-| Vicente Gonzalez | $25,000 |
-| August Pfluger | $25,000 |
-| John Thune | $20,000 |
-| Henry Cuellar | $20,000 |
-| Markwayne Mullin | $17,500 |
-| Cathy McMorris Rodgers | $17,500 |
-| Bruce Westerman | $17,500 |
-| Jodey Arrington | $15,000 |
-| Dan Crenshaw | $14,500 |
+| Steve Scalise | $72,500 |
+| Henry Cuellar | $64,000 |
+| Kevin McCarthy | $57,000 |
+| Jim Inhofe | $45,499 |
+| Cathy McMorris Rodgers | $42,500 |
+| Jim Costa | $38,500 |
+| John Cornyn | $37,500 |
+| Mitch McConnell | $37,200 |
+| James Lankford | $36,000 |
+| Lisa Murkowski | $35,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

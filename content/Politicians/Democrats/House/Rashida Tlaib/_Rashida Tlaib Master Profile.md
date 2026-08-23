@@ -1,7 +1,7 @@
 ---
 title: Rashida Tlaib
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Tlaib represents the intersection of Palestinian-American identity politics and working-class Detroit economics , a combination that makes her impossible for AIPAC to defeat in her district but perpetually marginalized within the Democratic caucus...
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
@@ -48,7 +48,11 @@ editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 
 related: "[[_Ilhan Omar Master Profile|Omar]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[J Street]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[Marathon Petroleum]] · [[Haim Saban]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
 total-raised: $1,896,063
 total-spent: $1,250,673
@@ -63,6 +67,18 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 top-policy-area: Health
 fec-committee-id: C00668608
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

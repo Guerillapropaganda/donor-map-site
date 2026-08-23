@@ -1,7 +1,7 @@
 ---
 title: "Mike Lawler Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Mike Lawler is a crucial swing seat Republican in a district Harris won in 2020 and 2024, where his vulnerability makes him a priority target for donor networks seeking influence over House Republicans. His donor profile reveals a coalition of fin..."
 last-updated: 2026-03-24
 source-tier: 1
@@ -25,13 +25,31 @@ urls-first-triaged: "2026-04-15"
 last-enriched: 2026-04-21
 needs-reenrichment: true
 reenrich-reason: "no fec-candidate-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-fec-pas2-bulk-bulk.cjs`, or demote to draft (admits no FEC coverage); no govtrack-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-voting-bulk.cjs`, or demote to draft (admits no voting record coverage); no bioguide-id resolved for this profile — either resolve ID upstream then run `node scripts/ingest-congress-bulk.cjs`, or demote to draft (admits no Congress coverage)"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fec-committee-id: C00815415
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

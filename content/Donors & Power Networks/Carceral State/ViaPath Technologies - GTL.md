@@ -1,7 +1,7 @@
 ---
 title: ViaPath Technologies - GTL
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ lobbying-filings: 17
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 2
 epa-states: AR, CA
@@ -24,7 +26,22 @@ employee-contributions: 145
 employee-contributions-total: 23633
 employee-donor-count: 26
 politicians-funded: "[[RNC - Republican National Committee]], [[WinRed]], [[_Marco Rubio Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Trump Victory]], [[ActBlue]], [[Emily's List]], [[NRCC - National Republican Congressional Committee]], [[MAGA Inc]], [[Marco Rubio]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

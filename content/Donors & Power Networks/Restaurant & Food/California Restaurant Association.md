@@ -1,7 +1,7 @@
 ---
 title: California Restaurant Association
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ politicians-funded: "[[Gavin Newsom]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 sec-filings: 284
 sec-form-types:
   - 10-K/A
@@ -63,7 +65,22 @@ lobbying-spend: 10579974
 lobbying-filings: 109
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

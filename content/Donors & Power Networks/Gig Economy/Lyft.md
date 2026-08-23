@@ -1,7 +1,7 @@
 ---
 title: Lyft
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 subawards-issued: 50
 subawards-received: 50
 top-federal-agency: Department of the Interior
@@ -77,7 +79,22 @@ employee-contributions: 4887
 employee-contributions-total: 1123672
 employee-donor-count: 831
 fec-committee-id: C00743823
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

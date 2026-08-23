@@ -1,7 +1,7 @@
 ---
 title: Hakeem Jeffries Master Profile
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -48,7 +48,15 @@ editorial-notes: "Promoted draft→ready. Strong editorial content (4 analytical
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Team Blue PAC]] · [[Jobs, Education and Family First]] · [[Real Estate Industry]]"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-15"
 total-raised: $10,327,241
 total-spent: $9,417,063
@@ -67,6 +75,18 @@ bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Civil Rights and Liberties, Minority Issues
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Lennar Corporation
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ net-assets: $22.6M
 tax-year: "2023"
 court-cases: 376
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - District Court, C.D. California
   - District Court, D. Arizona
@@ -57,7 +59,22 @@ epa-states: CA, MN
 employee-contributions: 832
 employee-contributions-total: 296652
 employee-donor-count: 195
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

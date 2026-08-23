@@ -1,7 +1,7 @@
 ---
 title: Deb Fischer
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Deb Fischer chairs the subcommittee that oversees the $141 billion Sentinel ICBM replacement program — built by Northrop Grumman — while STRATCOM headquarters sits in her state. She secured over $4 billion in Sentinel funding in the FY2026 NDAA al...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -31,7 +31,15 @@ last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 bioguide-id: F000463
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
@@ -40,6 +48,18 @@ fec-committee-ids:
   - C00522771
   - C00527424
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

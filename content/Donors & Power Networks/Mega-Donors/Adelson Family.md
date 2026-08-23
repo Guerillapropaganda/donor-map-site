@@ -1,7 +1,7 @@
 ---
 title: Adelson Family
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ net-assets: $5.9M
 tax-year: "2023"
 related: "[[Catherine Cortez Masto]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile|Trump]] · [[_Benjamin Netanyahu Master Profile|Netanyahu]] · [[_Marco Rubio Master Profile|Rubio]] · [[Preserve America]] · [[MAGA Inc]] · [[Koch Network - Charles Koch]] · [[Timothy Mellon]] · [[Haim Saban]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[UNITE HERE]] · [[Nikki Haley]]"
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-political-spend: $1,000
 nonprofit-status: 501(c)(3)
 total-revenue: 4067997
@@ -25,7 +27,22 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

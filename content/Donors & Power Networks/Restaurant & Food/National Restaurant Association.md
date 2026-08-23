@@ -1,7 +1,7 @@
 ---
 title: National Restaurant Association
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - Labor & Workers
 federal-register-mentions: 59
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Agriculture Department
   - Federal Trade Commission
@@ -66,7 +68,22 @@ employee-donor-count: 96
 fec-committee-ids:
   - C00003764
   - C70004700
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

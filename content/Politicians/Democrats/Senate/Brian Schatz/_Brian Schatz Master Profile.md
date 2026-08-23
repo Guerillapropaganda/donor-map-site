@@ -1,7 +1,7 @@
 ---
 title: Brian Schatz
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Schatz is the Democratic Party's next power broker , Schumer's chosen successor , building his leadership bid by signaling reliability to the donor class while maintaining a progressive public brand. His committee portfolio gives him jurisdiction ...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -29,6 +29,8 @@ website: https://www.schatz.senate.gov
 phone: 202-224-3934
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Gary Peters]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 bioguide-id: S001194
 issues:
   - Agriculture and Food
@@ -51,7 +53,22 @@ fec-committee-ids:
   - C00540732
   - C00558148
   - C00568873
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

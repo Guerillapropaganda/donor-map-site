@@ -1,5 +1,5 @@
 ---
-title: Federal minimum wage increase to $15+
+title: "Federal minimum wage increase to $15+"
 type: policy
 slug: minimum_wage
 policy-id: pol_minimum_wage
@@ -14,10 +14,9 @@ class-analysis-tags:
   - anti-trust-defender
   - tax-avoidance-lobby
 content-readiness: draft
-last-updated: 2026-04-27T00:00:00.000Z
+last-updated: 2026-08-21
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
-source-tier: 1
 ---
 
 # Federal minimum wage increase to $15+
@@ -57,16 +56,16 @@ Opposition comes from **retail-monopoly, agribusiness-capital, tech-monopoly** â
 
 | Donor | Capital type | Total spend | Politicians funded | Cross-policy |
 |---|---|---|---|---|
-| [[Fairshake PAC|Fairshake PAC]] | tech-monopoly | $349.3M | 22 | **2 of 5** |
-| [[Google - Alphabet|Google - Alphabet]] | tech-monopoly | $50.0M | 501 | **2 of 5** |
+| [[Fairshake PAC|Fairshake PAC]] | tech-monopoly | $353.6M | 28 | **2 of 5** |
+| [[Coinbase|Coinbase]] | tech-monopoly | $107.4M | 124 | **2 of 5** |
+| [[Google - Alphabet|Google - Alphabet]] | tech-monopoly | $49.7M | 500 | **2 of 5** |
+| [[Ben Horowitz|Ben Horowitz]] | tech-monopoly | $48.5M | 13 | **2 of 5** |
 | [[Oracle|Oracle]] | tech-monopoly | $47.8M | 134 | **2 of 5** |
 | [[FTX - Sam Bankman-Fried|FTX - Sam Bankman-Fried]] | tech-monopoly | $45.8M | 46 | **2 of 5** |
 | [[a16z - Andreessen Horowitz|a16z - Andreessen Horowitz]] | tech-monopoly | $33.4M | 45 | **2 of 5** |
 | [[OpenAI|OpenAI]] | tech-monopoly | $26.7M | 21 | **2 of 5** |
-| [[Microsoft|Microsoft]] | tech-monopoly | $18.1M | 282 | **2 of 5** |
-| [[Ripple|Ripple]] | tech-monopoly | $16.2M | 35 | **2 of 5** |
-| [[Apple|Apple]] | tech-monopoly | $13.2M | 140 | **2 of 5** |
-| [[Meta - Facebook|Meta - Facebook]] | tech-monopoly | $12.1M | 317 | **2 of 5** |
+| [[Jump Crypto|Jump Crypto]] | tech-monopoly | $25.0M | 1 | **2 of 5** |
+| [[Microsoft|Microsoft]] | tech-monopoly | $22.6M | 479 | **2 of 5** |
 
 _See [[who-blocks-us|Who Blocks Us]] for the cross-policy enemy list. Donor coverage is partial today; expanding._
 

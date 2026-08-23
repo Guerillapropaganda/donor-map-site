@@ -1,7 +1,7 @@
 ---
 title: Bill Gates
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ total-political-spend: $652,713
 politicians-funded: "[[Frank Lucas]], [[Martin Heinrich]], [[Rosa DeLauro]], [[Debbie Stabenow]]"
 related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[Martin Heinrich]] · [[Debbie Stabenow]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-cases: 1299
 court-jurisdictions:
   - Court of Appeals for the Eighth Circuit
@@ -32,7 +34,22 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

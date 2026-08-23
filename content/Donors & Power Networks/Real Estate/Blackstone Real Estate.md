@@ -1,7 +1,7 @@
 ---
 title: Blackstone Real Estate
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - Housing
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 ofac-programs:
   - SDNTK
   - UKRAINE-EO13662] [RUSSIA-EO14024
@@ -57,7 +59,22 @@ employee-contributions: 2
 employee-contributions-total: 5800
 employee-donor-count: 1
 politicians-funded: "[[_Susie Lee Master Profile]], [[Susie Lee]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 title: John Ratcliffe
 type: politician
 bioguide-id: R000601
-content-readiness: ready
+content-readiness: draft
 central-thesis: John Ratcliffe's career arc , small-town mayor → congressman → Trump impeachment defender → DNI → defense consultant ($2.2M+) → CIA Director , represents loyalty-as-qualification in its purest form. He has no intelligence community background, inf...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -27,8 +27,25 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[_Pam Bondi Master Profile]]"
 donors: "[[Senate Conservatives Fund]], [[MADISON PROJECT INC.]], [[SENATE CONSERVATIVES FUND]], [[CLUB FOR GROWTH ACTION]], [[Club for Growth]], [[Madison Project Inc.]], [[Northrop Grumman]], [[L3 Technologies]], [[John Ratcliffe]], [[Club for Growth INC PAC]], [[NRA Political Victory Fund]], [[Google - Alphabet]], [[PETE SESSIONS FOR CONGRESS]], [[Meta - Facebook]], [[Koch Industries]], [[Kevin McCarthy]], [[Leidos]], [[Pete Sessions]], [[Southern Company]], [[Steve Scalise]], [[Occidental Petroleum]], [[GEO Group - Private Prison Industrial Complex]], [[Paul Ryan]], [[Randy K. Weber]], [[Steven Stodghill]], [[L3Harris Technologies]], [[Microsoft]], [[Marathon Petroleum]], [[Lockheed Martin]], [[AT&T]], [[NextEra Energy]], [[American Chemistry Council, INC]], [[General Dynamics]], [[Honeywell International]], [[Comcast - NBCUniversal]], [[Walmart - Walton Family]], [[NRCC - National Republican Congressional Committee]], [[National Association of Realtors]], [[iHeartMedia]], [[Valero Energy]], [[Majority PAC]], [[Morgan Stanley]], [[Raytheon (RTX Corporation)]], [[Halliburton]], [[BAE Systems]], [[Citigroup]], [[Duke Energy]], [[Bank of America]], [[PG&E - Pacific Gas and Electric]], [[Anthem - Elevance Health]], [[JPAC - Jewish Public Affairs Committee of California]]"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 fec-committee-id: C00554113
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: California Nurses Association
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -20,6 +20,8 @@ lobbying-filings: 105
 total-political-spend: $19,855,072
 federal-register-mentions: 2
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - National Labor Relations Board
 sec-filings: 71
@@ -52,7 +54,22 @@ employee-contributions: 2887
 employee-contributions-total: 101609
 employee-donor-count: 264
 fec-committee-id: C00731372
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -90,8 +107,8 @@ fec-committee-id: C00731372
 | Joe Biden | $432,066 |
 | Jon Ossoff | $13,406 |
 | Raphael Warnock | $12,757 |
-| Raul Grijalva | $10,000 |
 | Cori Bush | $958 |
+| Raul Grijalva | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

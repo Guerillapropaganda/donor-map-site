@@ -1,7 +1,7 @@
 ---
 title: Starbucks
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -43,6 +43,8 @@ sec-form-types:
   - SD
 cpsc-recalls: 11
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[McDonalds Corporation]] · [[National Restaurant Association]] · [[Amazon]]"
@@ -60,7 +62,22 @@ employee-contributions: 6099
 employee-contributions-total: 464353
 employee-donor-count: 859
 politicians-funded: "[[ActBlue]], [[RNC - Republican National Committee]], [[Let America Vote PAC]], [[_Lisa Blunt Rochester Master Profile]], [[_Kamala Harris Master Profile]], [[Human Rights Campaign Equality Votes]], [[WinSenate]], [[_Anna Paulina Luna Master Profile]], [[Mark Kelly]], [[Microsoft]], [[Votevets]], [[NRSC - National Republican Senatorial Committee]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Emily's List]], [[JUSTICE DEMOCRATS PAC]], [[_Dave Min Master Profile]], [[MoveOn.org Political Action]], [[The Lincoln Project]], [[_Alex Padilla Master Profile]], [[WinRed]], [[_Melissa Bean Master Profile]], [[Democratic Party of Virginia]], [[Giffords PAC]], [[NRCC - National Republican Congressional Committee]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Ted Lieu Master Profile]], [[_Tammy Baldwin Master Profile]], [[Courage to Change PAC]], [[Progressive Turnout Project]], [[_Angie Craig Master Profile]], [[Marianne Williamson]], [[_Chris Pappas Master Profile]], [[_Emily Randall Master Profile]], [[_Jon Ossoff Master Profile]], [[MAGA Inc]], [[Indivisible Action]], [[_Nancy Pelosi Master Profile]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[Fairshake PAC]], [[Bob Casey]], [[_Tim Scott Master Profile]], [[Catherine Cortez Masto]], [[_Ted Cruz Master Profile]], [[_Thomas Massie Master Profile]], [[_Cory Booker Master Profile]], [[Dave Min]], [[Cory Booker]], [[Tammy Baldwin]], [[Nancy Pelosi]], [[Thomas Massie]], [[Angie Craig]], [[Anna Paulina Luna]], [[Kamala Harris]], [[Jon Ossoff]], [[Ted Lieu]], [[Melissa Bean]], [[Ted Cruz]], [[Emily Randall]], [[Lisa Blunt Rochester]], [[Alex Padilla]], [[Chris Pappas]], [[Tim Scott]], [[Justice Democrats PAC]], [[Minnesota Democratic-Farmer-Labor Party]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

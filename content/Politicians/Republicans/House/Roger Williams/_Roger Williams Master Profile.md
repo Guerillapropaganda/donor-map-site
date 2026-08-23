@@ -1,7 +1,7 @@
 ---
 title: Roger Williams
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Roger Williams is the donor class serving itself directly , no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealer...
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -28,6 +28,8 @@ website: https://williams.house.gov
 phone: 202-225-9896
 related: "[[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 bioguide-id: W000816
 issues:
   - Agriculture and Food
@@ -48,7 +50,22 @@ top-policy-area: Finance and Financial Sector
 fec-committee-ids:
   - C00457846
   - C00498121
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

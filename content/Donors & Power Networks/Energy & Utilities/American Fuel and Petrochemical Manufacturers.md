@@ -1,7 +1,7 @@
 ---
 title: American Fuel and Petrochemical Manufacturers
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - Energy & Climate
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 ofac-programs:
   - IRAN-EO13846
 ein: "530115970"
@@ -64,7 +66,22 @@ sec-form-types:
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[American Energy Alliance]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

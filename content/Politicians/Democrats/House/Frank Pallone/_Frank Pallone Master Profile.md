@@ -1,7 +1,7 @@
 ---
 title: Frank Pallone
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -46,7 +46,15 @@ total-raised: $1,311,209
 total-spent: $1,257,401
 cash-on-hand: "3125718.74"
 fec-cycle: 2026
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 wikidata-id: Q965289
 wikipedia-url: https://en.wikipedia.org/wiki/Frank_Pallone
 wikipedia-extract: Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party.
@@ -60,6 +68,18 @@ fec-committee-ids:
   - C00545905
   - C00409599
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

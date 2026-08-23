@@ -1,7 +1,7 @@
 ---
 title: Steve Scalise
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Scalise's donor-class function is to serve as the fossil fuel industry's highest-ranking legislative operator in the House. Representing Louisiana , a state whose economy is built on oil, gas, petrochemicals, and offshore drilling , Scalise transl...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -30,7 +30,11 @@ wikidata-id: Q1857141
 wikipedia-url: https://en.wikipedia.org/wiki/Steve_Scalise
 wikipedia-extract: Stephen Joseph Scalise is an American politician who has been the House majority leader since 2023 and the U.S. representative for Louisiana's 1st congressional district since 2008.
 born: "1965-10-06"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 0
 top-policy-area: International Affairs
 fec-committee-ids:
@@ -38,6 +42,18 @@ fec-committee-ids:
   - C00342790
   - C00568162
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

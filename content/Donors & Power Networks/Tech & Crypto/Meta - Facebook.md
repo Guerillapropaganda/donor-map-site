@@ -1,7 +1,7 @@
 ---
 title: Meta - Facebook
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -43,7 +43,11 @@ lobbying-filings: 107
 cross-vault-triangulation-count: 18
 needs-reenrichment: true
 reenrich-reason: run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 16
 epa-states: CA
 federal-contracts: 1
@@ -54,6 +58,18 @@ employee-donor-count: 6059
 last-enriched: 2026-04-20T00:00:00.000Z
 fec-committee-id: C00502906
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

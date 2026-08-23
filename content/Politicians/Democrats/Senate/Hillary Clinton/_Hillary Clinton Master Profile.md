@@ -1,7 +1,7 @@
 ---
 title: Hillary Clinton
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Clinton embodies the 'progressive who delivers for Wall Street' archetype. Her fundraising model and donor base are indistinguishable from Republican establishment finance , Goldman Sachs, Citigroup, JPMorgan Chase , yet she maintained credibility...
 last-updated: 2026-04-13T00:00:00.000Z
 needs-reenrichment: true
@@ -45,6 +45,18 @@ fec-committee-ids:
   - C00431569
   - C00347948
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

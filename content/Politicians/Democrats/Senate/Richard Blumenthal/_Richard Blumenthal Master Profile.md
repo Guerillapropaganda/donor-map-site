@@ -1,7 +1,7 @@
 ---
 title: Richard Blumenthal
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable , and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor p...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -30,7 +30,11 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline
 donors: "[[Google - Alphabet]] · [[Connecticut Patriots Pac]] · [[Restoration PAC]] · [[LEADERSHIP NOW]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC]] · [[National Committee to Preserve Social Security & Medicare PAC]] · [[Leadership Now]] · [[Pfizer Inc.]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[Sierra Club Independent Action]] · [[National Multifamily Housing Council]] · [[Raytheon (RTX)]] · [[League of Conservation Voters]] · [[Microsoft]] · [[Anthem - Elevance Health]] · [[AT&T - WarnerMedia]] · [[SEIU COPE]] · [[Votevets]] · [[National Committee to Preserve Social Security PAC]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[Tzedek PAC]] · [[L3Harris Technologies]] · [[Honeywell]] · [[Unite Here Tip Campaign Committee]] · [[CVS Health - Aetna]] · [[General Motors]] · [[BAE Systems]] · [[Sierra Club Political Committee]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]] · [[Walmart - Walton Family]] · [[NEA Fund for Children and Public Education]] · [[American Hospital Association PAC]] · [[Giffords PAC]] · [[Everytown for Gun Safety]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Lockheed Martin]] · [[National Association of Realtors]] · [[American Federation of State County & Municipal Employees P E O P L E]] · [[Leidos]] · [[AT&T]] · [[Honeywell International]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[Raytheon (RTX Corporation)]] · [[Environment America INC]] · [[Meta - Facebook]] · [[Bacardi - Bacardi USA]] · [[Blue Shield of California]] · [[Amgen Inc]] · [[Akin Gump Strauss Hauer & Feld]] · [[AFL-CIO]] · [[Sinclair Broadcast Group]] · [[NRA Political Victory Fund]] · [[Planned Parenthood Action Fund INC]] · [[National Education Association]] · [[Democratic Senatorial Campaign Committee]] · [[Jay Richard Ii Ray]] · [[Honora F Ahern]] · [[L3 Technologies]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[General Dynamics]] · [[Care Action]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Northrop Grumman]] · [[NORPAC]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Morgan Stanley]] · [[Tenet Healthcare]] · [[UA Political Action Committee]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jerry Moran Master Profile|Jerry Moran]] · [[_Ed Markey Master Profile|Ed Markey]] · [[_Donald Trump Master Profile|Trump]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 issues:
   - Agriculture and Food
   - Armed Forces and National Security
@@ -52,6 +56,18 @@ fec-committee-ids:
   - C00488346
   - C00489849
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

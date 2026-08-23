@@ -1,7 +1,7 @@
 ---
 title: UNITE HERE
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ total-political-spend: $51,678,221
 ein: "352455960"
 nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 lei: 54930053JDKWMZI3NN64
 lei-jurisdiction: CA
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]] · [[National Restaurant Association]] · [[Miriam Adelson]] · [[Adelson Family]]"
@@ -51,7 +53,22 @@ employee-donor-count: 983
 fec-committee-ids:
   - C00627372
   - C70004114
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -88,6 +105,8 @@ fec-committee-ids:
 | Joe Biden | $2,921,863 |
 | Donald Trump | $1,153,927 |
 | Steven Horsford | $395,563 |
+| Barack Obama | $324,796 |
+| John Kerry | $17,606 |
 | Rashida Tlaib | $500 |
 | Jon Ossoff | $465 |
 | Nancy Pelosi | $335 |

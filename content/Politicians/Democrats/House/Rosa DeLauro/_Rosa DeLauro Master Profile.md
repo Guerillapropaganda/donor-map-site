@@ -1,7 +1,7 @@
 ---
 title: Rosa DeLauro
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: DeLauro is the working-class progressive who controls the spending. Her Appropriations gavel gives her direct authority over federal spending allocations , and the industries that depend on those allocations fund her campaign. The contradiction is...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -42,7 +42,15 @@ issues:
   - Government Operations and Politics
   - Health
   - International Affairs
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $689,298
 total-spent: $675,149
 cash-on-hand: "239597.33"
@@ -57,6 +65,18 @@ top-policy-area: Health
 opposes: "[[Donald Trump]]"
 fec-committee-id: C00238865
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

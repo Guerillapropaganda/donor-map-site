@@ -1,7 +1,7 @@
 ---
 title: BAE Systems
 type: corporation
-content-readiness: ready
+content-readiness: draft
 central-thesis: BAE Systems is a UK-headquartered defense contractor that captured $12.7B in US federal contracts by embedding itself in politically critical states (New Hampshire, Pennsylvania, Alabama), turning foreign-owned defense revenue into local employment constituencies that discipline bipartisan congressional defense spending.
 last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, Core Contradiction callout, Class Analysis, and Analytical Patterns. Pre-existing body content preserved."
@@ -18,6 +18,8 @@ net-assets: $54.6M
 tax-year: "2022"
 court-cases: 1227
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - District Court, D. Hawaii
   - District Court, D. Maryland
@@ -70,7 +72,22 @@ employee-contributions: 15872
 employee-contributions-total: 1655397
 employee-donor-count: 1643
 fec-committee-id: C00281212
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -103,16 +120,16 @@ fec-committee-id: C00281212
 
 | Politician | Amount |
 |---|---:|
-| Ken Calvert | $35,000 |
-| Adam Smith | $30,000 |
-| Steve Womack | $30,000 |
-| Tom Cole | $30,000 |
-| Mario Diaz-Balart | $29,000 |
-| Pete Aguilar | $26,000 |
-| Joe Wilson | $24,500 |
-| Donald Norcross | $22,500 |
-| Betty McCollum | $22,500 |
-| Nancy Mace | $15,850 |
+| Steny H. Hoyer | $119,500 |
+| Mike Rogers | $113,500 |
+| Robert J. Wittman | $109,000 |
+| John R. Carter | $100,500 |
+| Kay Granger | $83,000 |
+| Adam Smith | $81,500 |
+| Ken Calvert | $76,500 |
+| Tom Cole | $75,000 |
+| Michael R. Turner | $70,000 |
+| Joe Wilson | $67,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

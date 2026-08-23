@@ -2,7 +2,7 @@
 title: Change Now
 type: donor
 ein: "831307183"
-content-readiness: ready
+content-readiness: draft
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
@@ -22,7 +22,24 @@ urls-first-triaged: "2026-04-15"
 source-types:
   - FEC
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -52,7 +69,16 @@ last-enriched: 2026-04-21T00:00:00.000Z
 
 | Politician | Amount |
 |---|---:|
-| Mario Diaz-Balart | $197,825 |
+| Donald Trump | $4,800,517 |
+| Joni Ernst | $1,406,203 |
+| Susan Collins | $1,153,067 |
+| Vern Buchanan | $808,396 |
+| Thom Tillis | $761,902 |
+| Mario Diaz-Balart | $296,737 |
+| Lucy McBath | $165,687 |
+| Brian Mast | $109,799 |
+| Maria Elvira Salazar | $98,912 |
+| Sharice Davids | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

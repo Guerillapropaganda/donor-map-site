@@ -1,7 +1,7 @@
 ---
 title: Richard and Elizabeth Uihlein
 type: donor
-content-readiness: ready
+content-readiness: draft
 central-thesis: The Uihleins converted a Schlitz-heiress shipping fortune into the largest single-donor funding stream for the hard-right Republican infrastructure, financing the Club for Growth primary machine, the federal abortion ban apparatus, and the January 6 rally logistics that preceded the Capitol breach.
 last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, Core Contradiction callout, formal Class Analysis, and Analytical Patterns. Cleared stale needs-reenrichment flag (FEC auto-block shows $152.6M across 58 committees as of 2026-04-18 full-database ingest). Promoted draft → ready."
@@ -13,13 +13,31 @@ politicians-funded: "[[Donald Trump]], [[Americas Pac]]"
 issues:
   - Reproductive Rights
 last-enriched: "2026-04-18"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[Americans for Prosperity]]"
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

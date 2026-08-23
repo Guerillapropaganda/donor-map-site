@@ -1,7 +1,7 @@
 ---
 title: Eli Broad Foundation
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18
 source-tier: 1
 parent: null
@@ -21,13 +21,29 @@ related: "[[CTA - California Teachers Association]] · [[Michael Bennet]] · [[_
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 source-types:
   - LDA
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

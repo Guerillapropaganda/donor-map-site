@@ -1,7 +1,7 @@
 ---
 title: Tom Cole
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Tom Cole is the man who writes the checks. As Appropriations Chairman, he controls the allocation of approximately content-readiness: ready.7 trillion in annual federal discretionary spending across 12 appropriations bills — half of which goes to defense. His district ..."
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -32,7 +32,11 @@ last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline; re-run congress pipeline
 bioguide-id: C001053
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-sponsored: 227
 bills-cosponsored: 3256
 bills-enacted: 4
@@ -44,6 +48,18 @@ fec-committee-ids:
   - C00438267
   - C00438481
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

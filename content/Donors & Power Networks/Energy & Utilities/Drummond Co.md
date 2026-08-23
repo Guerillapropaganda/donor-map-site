@@ -1,7 +1,7 @@
 ---
 title: Drummond Co.
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -20,6 +20,8 @@ sec-form-types:
   - N-Q
 federal-register-mentions: 4
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Employment and Training Administration
   - Environmental Protection Agency
@@ -55,7 +57,22 @@ employee-contributions: 289
 employee-contributions-total: 391911
 employee-donor-count: 93
 politicians-funded: "[[Drummond Co.]], [[Joe Manchin]], [[John Barrasso]], [[Tim Sheehy]], [[Deb Fischer]], [[Mario Diaz-Balart]], [[Brian Jack]], [[Shomari Figures]], [[NRCC - National Republican Congressional Committee]], [[Katie Britt]], [[WinRed]], [[MAGA Inc]], [[RNC - Republican National Committee]], [[Thom Tillis]], [[Lisa Murkowski]], [[Glenn Thompson]], [[_Michael Waltz Master Profile]], [[Steve Scalise]], [[Bernie Moreno]], [[Bill Hagerty]], [[NRSC - National Republican Senatorial Committee]], [[August Pfluger]], [[Steve Daines]], [[ActBlue]], [[Michael Lawler]], [[Save America PAC]], [[_Jim Jordan Master Profile]], [[Common Sense for America PAC]], [[Michael Waltz]], [[Jim Jordan]], [[Barry Moore]], [[Mike Rogers]], [[Dale W. Strong]], [[Gary J. Palmer]], [[Jeff Sessions]], [[Roger Wicker]], [[Terri A. Sewell]], [[Robert B. Aderholt]], [[Chuck Hagel]], [[George W. Bush]], [[Tommy Tuberville]], [[Shelley Moore Capito]], [[Charles J. Chuck Fleischmann]], [[Mitch McConnell]], [[Robert J. Wittman]], [[Harold Rogers]], [[Sanford D. Bishop]], [[Lindsey Graham]], [[John McCain]], [[Joni Ernst]], [[Kay Granger]], [[Paul Ryan]], [[John Boehner]], [[Pete Ricketts]], [[Bill Clinton]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -89,16 +106,16 @@ politicians-funded: "[[Drummond Co.]], [[Joe Manchin]], [[John Barrasso]], [[Tim
 
 | Politician | Amount |
 |---|---:|
+| Robert B. Aderholt | $114,000 |
+| Mike Rogers | $96,000 |
+| Terri A. Sewell | $60,000 |
+| Jeff Sessions | $48,500 |
+| Gary J. Palmer | $46,500 |
+| Barry Moore | $30,000 |
+| Dale W. Strong | $30,000 |
 | Katie Britt | $25,000 |
-| Mario Diaz-Balart | $20,000 |
-| John Barrasso | $16,000 |
-| Bernie Moreno | $15,000 |
-| Bill Hagerty | $13,000 |
-| Steve Scalise | $13,000 |
-| Shomari Figures | $10,000 |
-| Tim Sheehy | $7,000 |
-| Deb Fischer | $4,500 |
-| Brian Jack | $4,000 |
+| Tommy Tuberville | $20,000 |
+| Joe Manchin | $16,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: Demand Justice
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
 ein: "863689961"
 nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 566313
 total-assets: 1534141
 total-political-spend: $20,000
@@ -46,7 +48,22 @@ employee-contributions: 15
 employee-contributions-total: 4730
 employee-donor-count: 7
 fec-committee-id: C00760827
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

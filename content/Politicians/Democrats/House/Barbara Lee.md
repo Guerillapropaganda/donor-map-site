@@ -3,7 +3,7 @@ title: Barbara Lee
 type: politician
 chamber: House
 party: Democrat
-content-readiness: ready
+content-readiness: draft
 central-thesis: Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern U.S. history. She voted alone against indefinite military authorization. Yet in 2024, when Lee ran for the Senate from California, she was systematically outspent and elim...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -19,7 +19,11 @@ govtrack-id: 400237
 bills-sponsored: 186
 bills-cosponsored: 1649
 related: ">- · [[Adam Schiff]] · [[Rebekah Mercer]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $375,046
 total-spent: $427,255
 cash-on-hand: "144.39"
@@ -42,6 +46,18 @@ fec-committee-ids:
   - C00331769
   - C00833608
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

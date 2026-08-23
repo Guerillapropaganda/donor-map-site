@@ -2,7 +2,7 @@
 title: Ohio AFL-CIO
 type: donor
 ein: "314425064"
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -34,6 +34,8 @@ sec-form-types:
   - SC 14D9/A
 court-cases: 47
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - District Court, S.D. New York
   - District Court, S.D. Ohio
@@ -47,7 +49,22 @@ checklist-na:
 employee-contributions: 3
 employee-contributions-total: 300
 employee-donor-count: 2
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

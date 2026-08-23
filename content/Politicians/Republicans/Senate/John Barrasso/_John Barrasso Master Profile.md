@@ -1,7 +1,7 @@
 ---
 title: John Barrasso
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Barrasso's donor-class function is to serve as the fossil fuel industry's highest-ranking champion in the Senate leadership. From the Environment and Public Works Committee to Energy and Natural Resources to the Majority Whip position, his career ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -25,7 +25,11 @@ donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Mike Lee Master Profile|Mike Lee]] · [[WSPA - Western States Petroleum Association|WSPA]] · [[Halliburton]] · [[Honeywell]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 1
 top-policy-area: International Affairs
 last-enriched: 2026-04-20T00:00:00.000Z
@@ -35,6 +39,18 @@ fec-committee-ids:
   - C00637181
   - C00518597
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

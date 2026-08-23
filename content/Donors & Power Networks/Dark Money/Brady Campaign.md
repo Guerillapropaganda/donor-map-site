@@ -1,7 +1,7 @@
 ---
 title: Brady Campaign
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -29,7 +29,11 @@ nonprofit-status: 501(c)(4)
 total-revenue: 4821088
 total-assets: 6223865
 cross-vault-triangulation-count: 1
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 44
 sec-form-types:
   - 10-K
@@ -56,6 +60,18 @@ employee-contributions: 1
 employee-contributions-total: 250
 employee-donor-count: 1
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

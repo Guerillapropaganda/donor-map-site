@@ -2,7 +2,7 @@
 title: "Kevin McCarthy Master Profile"
 type: politician
 bioguide-id: "M001165"
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Kevin McCarthy is the fossil fuel industry's Speaker. His entire 16-year House career was funded by oil and gas money — $2.1 million lifetime, concentrated heavily after he became Leadership. As Speaker, he embedded $430 million in fossil fuel giv..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -27,7 +27,15 @@ last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 related: "[[Cathy McMorris Rodgers Master Profile]] · [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[_Matt Gaetz Master Profile]] · [[Fossil Fuel Bloc]] · [[Real Estate Industry]] · [[Defense Contractors]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
@@ -45,6 +53,18 @@ fec-committee-ids:
   - C00493908
   - C00548263
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

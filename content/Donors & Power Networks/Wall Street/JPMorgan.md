@@ -1,7 +1,7 @@
 ---
 title: JPMorgan Chase
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -44,6 +44,8 @@ top-federal-agency: Pension Benefit Guaranty Corporation
 top-naics-code: "523930"
 federal-register-mentions: 395
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Comptroller of the Currency
   - Consumer Financial Protection Bureau
@@ -71,7 +73,22 @@ epa-states: CA
 employee-contributions: 6014
 employee-contributions-total: 1023588
 employee-donor-count: 1116
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

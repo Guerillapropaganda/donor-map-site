@@ -1,7 +1,7 @@
 ---
 title: Insurance Industry
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ net-assets: $4.3M
 tax-year: "2023"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 ofac-programs:
   - UKRAINE-EO13662] [RUSSIA-EO14024
 federal-contracts: "10817"
@@ -40,7 +42,22 @@ checklist-na:
 employee-contributions: 20
 employee-contributions-total: 1635
 employee-donor-count: 3
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: David McIntosh
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16
 source-tier: 2
 parent: null
@@ -10,6 +10,8 @@ entity-type: Individual Donor
 politicians-funded: "[[Roy Cooper]], [[Raphael Warnock]], [[Donald Trump]], [[Kamala Harris]], [[Jon Ossoff]]"
 related: "[[Club for Growth]] · [[Donald Trump]] · [[Kamala Harris]] · [[Raphael Warnock]] · [[Jon Ossoff]]"
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 federal-register-mentions: 10
 regulatory-agencies:
   - Energy Department
@@ -24,7 +26,22 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

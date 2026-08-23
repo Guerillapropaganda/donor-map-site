@@ -1,7 +1,7 @@
 ---
 title: Oracle
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ net-assets: $342K
 tax-year: "2023"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 238199
 total-assets: 312779
 subawards-issued: 50
@@ -52,7 +54,22 @@ federal-contracts: 56
 employee-contributions: 32202
 employee-contributions-total: 47816625
 employee-donor-count: 4914
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

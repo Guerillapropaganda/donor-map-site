@@ -2,7 +2,7 @@
 title: Mark Green
 type: politician
 bioguide-id: G000590
-content-readiness: ready
+content-readiness: draft
 central-thesis: Mark Green is the national security performance artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most...
 last-updated: 2026-04-16T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Fixed typo in central-thesis ('performace'). Note: FEC and GovTrack auto-blocks show mismatched data from another politician — govtrack-id 400159 and the 2010/2012/2014 FEC cycles do not correspond to Mark Green (TN-7, elected 2018). Data needs pipeline correction."
@@ -32,11 +32,28 @@ opposes: "[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTE
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Bennie Thompson Master Profile|Thompson]]"
 donors: "[[Fraternal Order of Police]] · [[National Right to Life Victory Fund]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AT&T - WarnerMedia]] · [[WinRed]] · [[American Hospital Association PAC]] · [[Republican Jewish Coalition]] · [[Pete Stauber]] · [[American Chemistry Council, INC]] · [[Pfizer Inc.]] · [[AIPAC - American Israel Public Affairs Committee]] · [[National Association of Realtors]] · [[MAJORITY PAC]] · [[General Dynamics]] · [[Freedom's Defense Fund]] · [[Ben Cline]] · [[ADM - Archer Daniels Midland]] · [[National Rifle Association]] · [[Jim Jordan]] · [[NORPAC]] · [[Club for Growth INC PAC]] · [[CoreCivic - Private Prisons]] · [[TikTok - ByteDance]] · [[AT&T]] · [[CoreCivic]] · [[Hospital Corporation of America - HCA]] · [[Kelcy Warren - Energy Transfer Partners]] · [[UPS]] · [[Americans for Tax Reform - Grover Norquist]] · [[Goldman Sachs]] · [[Occidental Petroleum]] · [[National Right to Life PAC]] · [[Majority PAC]] · [[NRA Political Victory Fund]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[National Restaurant Association]] · [[Bacardi - Bacardi USA]] · [[Humana]] · [[JOE WILSON FOR CONGRESS]] · [[Koch Industries]] · [[Campaign for Working Families]] · [[American College of Radiology Association PAC]] · [[William R. Timmons]] · [[Democratic Senatorial Campaign Committee]] · [[TEXANS FOR JODEY ARRINGTON]] · [[MBNA Corporation]] · [[JIM JORDAN FOR CONGRESS]] · [[Steve Scalise]] · [[Cargill]] · [[Associated General Contractors of America Political Action Committee]] · [[Family Research Council Action Political Action Committee]] · [[John Thune]] · [[Darin Lahood]] · [[Club for Growth]] · [[American Principles Fund]] · [[Kevin McCarthy]] · [[Friends of THA]] · [[Jodey Arrington]] · [[Brett Guthrie]] · [[Joe Wilson]] · [[Jim Haslam]] · [[Jim Ayers]] · [[John Crabbe]] · [[NRCC - National Republican Congressional Committee]] · [[American Conservative Union]] · [[United Food and Commercial Workers International Union Active Ballot Club]] · [[ConocoPhillips]] · [[American Federation of State County & Municipal Employees  P E O P L E]] · [[RNC - Republican National Committee]] · [[Unite Here Tip Campaign Committee]] · [[Anthem - Elevance Health]] · [[Microsoft]] · [[Bank of America]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Citigroup]] · [[Comcast - NBCUniversal]] · [[Valero Energy]] · [[Lockheed Martin]] · [[Walmart - Walton Family]] · [[IBEW - International Brotherhood of Electrical Workers]]"
 last-enriched: 2026-04-21T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 fec-committee-ids:
   - C00658385
   - C00327874
   - C00319376
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

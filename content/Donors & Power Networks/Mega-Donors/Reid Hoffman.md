@@ -1,7 +1,7 @@
 ---
 title: Reid Hoffman
 type: donor
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Reid Hoffman is the Democratic donor class's credibility instrument: LinkedIn wealth converted into state-party infrastructure that legitimizes the same anonymous-dark-money architecture Democrats publicly oppose, while personal scandals that would end a politician's career produce only managed press cycles for the donor."
 last-updated: 2026-04-19T00:00:00.000Z
 editorial-notes: "[Research Claude 2026-04-19] Added formal Central Thesis, Core Contradiction callout, and Analytical Patterns sections. Class Analysis and Contradiction prose already present. Cleared stale needs-reenrichment flag; FEC auto-block shows 51.1M across 50 committees from 2026-04-18 ingest."
@@ -37,14 +37,32 @@ sec-form-types:
 related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Tech and Media Donors]] · [[Silicon Valley Donors]] · [[Silicon Valley Democratic Donor Network]]"
 federal-register-mentions: 2
 last-enriched: "2026-04-18"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Securities and Exchange Commission
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

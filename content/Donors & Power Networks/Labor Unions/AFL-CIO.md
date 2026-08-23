@@ -1,7 +1,7 @@
 ---
 title: AFL-CIO
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ total-political-spend: $5,644,162
 politicians-funded: "[[Adam Schiff]], [[Brendan Boyle]], [[Sheldon Whitehouse]], [[_Debbie Wasserman Schultz Master Profile]], [[ActBlue]], [[_Jamie Raskin Master Profile]], [[Mark Kelly]], [[Vicente Gonzalez]], [[Kristen McDonald Rivet]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Catherine Cortez Masto]], [[Seth Magaziner]], [[Dan Osborn]], [[Steven Horsford]], [[Nikki Budzinski]], [[Chris Murphy]], [[CHC BOLD PAC]], [[Rosa DeLauro]], [[AFL-CIO]], [[Morgan McGarvey]], [[Lisa Murkowski]], [[John Fetterman]], [[Bobby Scott]], [[Frank Pallone]], [[_Jon Ossoff Master Profile]], [[Mark Pocan]], [[Patty Murray]], [[Joyce Beatty]], [[Susie Lee]], [[_Jimmy Gomez Master Profile]], [[Jimmy Gomez]], [[Jahana Hayes]], [[Ron Johnson]], [[DNC - Democratic National Committee]], [[Marcy Kaptur]], [[Greg Landsman]], [[Robert Menendez]], [[Judy Chu]], [[Congressional Progressive Caucus PAC]], [[Josh Harder]], [[Donald Norcross]], [[Dina Titus]], [[Debbie Dingell]], [[Greg Stanton]], [[Sharice Davids]], [[WinRed]], [[Eric Sorensen]], [[Mad Dog PAC]], [[Brittany Pettersen]], [[Elissa Slotkin]], [[Adam Gray]], [[Teresa Leger Fernandez]], [[Raphael Warnock]], [[Kim Schrier]], [[DCCC - Democratic Congressional Campaign Committee]], [[Henry Cuellar]], [[Tammy Baldwin]], [[Summer Lee]], [[Andrea Salinas]], [[Shomari Figures]], [[Lloyd Doggett]], [[Mike Levin]], [[_Lauren Underwood Master Profile]], [[Sherrod Brown]], [[WinSenate]], [[Josh Gottheimer]], [[Jamie Raskin]], [[Jon Ossoff]], [[Debbie Wasserman Schultz]], [[Lauren Underwood]], [[AMALGAMATED BANK OF NEW YORK]], [[North Florida Neighbors]], [[Linda T. Sanchez]], [[Darin Lahood]], [[Michael K. Simpson]], [[Julia Brownley]], [[Betty McCollum]], [[Christopher H. Smith]], [[Riley M. Moore]], [[Barbara Lee]], [[Jack Reed]], [[Lois Frankel]], [[Dan Newhouse]], [[Mark Warner]], [[Harry Reid]], [[John Kerry]], [[Jason Crow]], [[Martin Heinrich]], [[Ron Wyden]], [[Diana Degette]], [[Jerrold Nadler]], [[Hillary Clinton]], [[Tim Burchett]], [[Jeff Merkley]], [[Sanford D. Bishop]], [[David G. Valadao]], [[Ami Bera]], [[Bernie Sanders]], [[Tim Walz]], [[Eleanor Holmes Norton]], [[Hilda Solis]], [[Hakeem Jeffries]], [[Chrissy Houlahan]], [[Greg Casar]], [[Marcia Fudge]], [[Jim McGovern]], [[William R. Keating]], [[John Garamendi]], [[Kirsten E. Gillibrand]], [[Michael Lawler]], [[Gregory Meeks]], [[Bryan Steil]], [[Pete Stauber]], [[John B. Larson]], [[Steve Cohen]], [[David Scott]], [[Chris van Hollen]], [[Joe Manchin]], [[Tom Emmer]], [[Raul Grijalva]], [[Dick Durbin]], [[Tina Smith]], [[Bennie Thompson]], [[Shelley Moore Capito]], [[Mark DeSaulnier]], [[Joe Wilson]], [[Brian K. Fitzpatrick]], [[Mike Kelly]], [[Jim Costa]], [[Xavier Becerra]], [[Troy Balderson]], [[Amy Klobuchar]], [[Elizabeth Warren]], [[Barack Obama]], [[Joe Neguse]], [[David P. Joyce]], [[George W. Bush]], [[Rahm Emanuel]], [[Jeanne Shaheen]], [[Nydia Velazquez]], [[Dianne Feinstein]], [[Debbie Stabenow]], [[Mike Thompson]], [[Ben Ray Lujan]], [[Emanuel Cleaver]], [[Frank J. Mrvan]], [[Madeleine Dean]], [[Stephen F. Lynch]], [[Scott H. Peters]], [[Brad Sherman]], [[Pablo Jose Hernandez]], [[John R. Carter]], [[Bob Menendez]], [[Robert Garcia]], [[Yvette D. Clarke]], [[Jacky Rosen]], [[Pramila Jayapal]], [[John W. Mannion]], [[Tammy Duckworth]], [[Don Bacon]], [[James E. Clyburn]], [[Dan Sullivan]], [[Mike Carey]], [[Gary Peters]], [[Rick Larsen]], [[Adam Smith]], [[Chellie Pingree]], [[Mario Diaz-Balart]], [[Gwen Moore]], [[Brian Mast]], [[Deborah K. Ross]], [[Bob Casey]], [[Zoe Lofgren]], [[Andre Carson]], [[Bradley Scott Schneider]], [[Mazie K. Hirono]], [[Lori Trahan]], [[Richard Neal]], [[Johnny Olszewski]], [[Maxine Waters]], [[Salud O. Carbajal]], [[Bonnie Watson Coleman]], [[Mike Quigley]], [[Janice D. Schakowsky]], [[Suzanne Bonamici]], [[Doris O. Matsui]], [[Brad Finstad]], [[Maria Cantwell]], [[Richard J. Durbin]], [[Joe Courtney]], [[Timothy M. Kennedy]], [[Gerry Connolly]], [[Emily Randall]], [[Angie Craig]], [[Randy Feenstra]], [[Tim Kaine]], [[Nancy Pelosi]], [[Dwight Evans]], [[Sam Graves]], [[Kweisi Mfume]], [[Danny K. Davis]], [[Henry C. Hank Johnson]], [[Gabe Vasquez]], [[Michael A. Rulli]], [[Donald G. Davis]], [[Suzan K. Delbene]], [[Margaret Wood Hassan]], [[Michael R. Turner]], [[Michael Bennet]], [[Edward J. Markey]], [[Mariannette Miller-Meeks]], [[Chuck Schumer]], [[Pete Aguilar]], [[Chris Coons]], [[Rick Crawford]], [[Peter Welch]], [[Steny H. Hoyer]], [[Steve Daines]], [[Daniel Webster]], [[Bill Foster]], [[James A. Himes]], [[Ray LaHood]], [[Thomas R. Suozzi]], [[Melissa Bean]], [[Paul Ryan]], [[Frederica S. Wilson]], [[Raja Krishnamoorthi]], [[Nicholas A. Langworthy]], [[Jared F. Golden]], [[Andrew R. Garbarino]], [[Austin Scott]], [[Richard Blumenthal]], [[Kathy Castor]], [[Tulsi Gabbard]], [[Emilia Strong Sykes]], [[John McCain]], [[Chris Pappas]], [[Seth Moulton]], [[Mike Bost]], [[Lee Zeldin]], [[Andy Kim]], [[Bill Clinton]], [[Marie Gluesenkamp Perez]], [[Haley M. Stevens]], [[Sarah Elfreth]], [[Brian Schatz]], [[Kamala Harris]], [[Katie Porter]], [[Joe Biden]], [[Al Green]], [[Joseph Morelle]], [[Tom Barrett]], [[Maria Elvira Salazar]], [[Nick Lalota]], [[Kyrsten Sinema]], [[Val T. Hoyle]], [[Joaquin Castro]], [[Guy Reschenthaler]], [[Mary Gay Scanlon]], [[Ruben Gallego]], [[Mark Takano]], [[Cleo Fields]], [[Thomas H. Kean]], [[Ken Salazar]], [[John Kelly]], [[Patrick Ryan]], [[Alex Padilla]], [[Norma J. Torres]], [[Paul Tonko]], [[Troy A. Carter]], [[Katherine M. Clark]], [[Terri A. Sewell]], [[Hillary J. Scholten]], [[Max L. Miller]], [[Cory Booker]], [[Christopher R. Deluzio]], [[Gabe Amo]], [[Mark E. Amodei]], [[Elise Stefanik]], [[Lizzie Fletcher]], [[Claudia Tenney]], [[Raul Ruiz]], [[Mark Harris]], [[Shontel Brown]], [[Jim Himes]], [[Ed Markey]]"
 court-cases: 38202
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
   - District Court, D. Massachusetts
@@ -58,7 +60,22 @@ fec-committee-ids:
   - C00003806
   - C70000112
   - C00003160
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,11 +111,11 @@ fec-committee-ids:
 |---|---:|
 | John Kerry | $8,724,757 |
 | Barack Obama | $2,257,767 |
-| Sherrod Brown | $1,367,079 |
+| Sherrod Brown | $1,358,079 |
 | Bill Clinton | $1,184,650 |
 | George W. Bush | $728,039 |
-| Bob Casey | $615,970 |
-| Bob Menendez | $347,848 |
+| Bob Casey | $589,970 |
+| Bob Menendez | $316,348 |
 | Debbie Stabenow | $276,388 |
 | Amy Klobuchar | $202,692 |
 | Suzanne Bonamici | $185,633 |

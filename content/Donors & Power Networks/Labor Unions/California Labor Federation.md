@@ -1,7 +1,7 @@
 ---
 title: California Labor Federation
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ tax-year: "2023"
 total-political-spend: $1,740,356
 federal-register-mentions: 3
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Federal Motor Carrier Safety Administration
   - Federal Railroad Administration
@@ -32,7 +34,22 @@ checklist-na:
 employee-contributions: 80
 employee-contributions-total: 7937
 employee-donor-count: 10
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

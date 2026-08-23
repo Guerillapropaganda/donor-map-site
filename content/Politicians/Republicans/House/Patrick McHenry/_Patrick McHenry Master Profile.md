@@ -1,7 +1,7 @@
 ---
 title: Patrick McHenry
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Patrick McHenry's congressional career is the perfected architecture of Wall Street legislative capture: a Congressman who spent 20 years writing financial regulation that explicitly benefited his donors, then cashed out to those same donors' firm..."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
@@ -26,6 +26,8 @@ top-donors: "[[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLI
 total-received: $2,203,814
 fec-candidate-id: H4NC10047
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 source-types:
   - Congress
   - DOJ
@@ -44,7 +46,22 @@ bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Finance and Financial Sector
 fec-committee-id: C00393629
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

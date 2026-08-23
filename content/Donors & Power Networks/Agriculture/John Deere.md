@@ -1,7 +1,7 @@
 ---
 title: John Deere
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -52,7 +52,11 @@ cpsc-recalls: 42
 lei: 969500UMN0I81FGDFL82
 lei-jurisdiction: FR
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 court-cases: 16497
 court-jurisdictions:
   - District Court, C.D. Illinois
@@ -78,6 +82,18 @@ employee-contributions-total: 144353
 employee-donor-count: 305
 politicians-funded: "[[JUSTICE DEMOCRATS PAC]], [[MAGA Inc]], [[WinSenate]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Catherine Cortez Masto]], [[NRSC - National Republican Senatorial Committee]], [[Indivisible Action]], [[ActBlue]], [[WinRed]], [[National Rifle Association]], [[The Lincoln Project]], [[NRCC - National Republican Congressional Committee]], [[RNC - Republican National Committee]], [[Save America PAC]], [[MoveOn.org Political Action]], [[_Ted Cruz Master Profile]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Marco Rubio Master Profile]], [[Let America Vote PAC]], [[_Ron Johnson Master Profile]], [[Emily's List]], [[_Tim Scott Master Profile]], [[Progressive Turnout Project]], [[_Jon Ossoff Master Profile]], [[National Victory Action Fund]], [[CHC BOLD PAC]], [[Ted Cruz]], [[Jon Ossoff]], [[Tim Scott]], [[Ron Johnson]], [[Marco Rubio]], [[Justice Democrats PAC]]"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: America Votes
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -22,6 +22,8 @@ net-assets: $24.3M
 tax-year: "2023"
 nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 91066512
 total-assets: 45486683
 federal-register-mentions: 1
@@ -54,7 +56,22 @@ employee-contributions: 109
 employee-contributions-total: 47117
 employee-donor-count: 43
 politicians-funded: "[[_Deb Haaland Master Profile]], [[League of Conservation Voters]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Emily's List]], [[Future Forward USA Action]], [[Majority Forward]], [[_Gabe Vasquez Master Profile]], [[Deb Haaland]], [[Gabe Vasquez]], [[Fair Share Action]], [[Living United for Change in Arizona]], [[United We Can]], [[Planned Parenthood Action Fund INC]], [[Planned Parenthood Votes]], [[PERKINS COIE, LLP]], [[GILBERT & WOLFAND, PC]], [[BATTLEGROUND RESEARCH, LLC]], [[WISCONSIN PROGRESS]], [[DELIVER STRATEGIES]], [[Citizens Against Aipac Corruption]], [[SIDDIQUI, SHABAB]], [[SHELLIE LEVIN SOLUTIONS]], [[AFSCME - American Federation of State County and Municipal Employees]], [[AMM POLITICAL STRATEGIES]], [[American Homes 4 Rent]], [[GREENBERG QUINLAN ROSNER RESEARCH]], [[PROJECT KEYSTONE]], [[BANK OF AMERICA VISA]], [[SOLIDARITY STRATEGIES]], [[MISSION CONTROL, INC.]], [[America Votes]], [[BENDIXEN & AMANDI INTL INC]], [[GBA STRATEGIES]], [[DIXON, MONICA]], [[Change Now]], [[BATTLEGROUND RESEARCH, INC.]], [[NGP VAN, INC.]], [[YOUNGDAHL STRATEGIES]], [[CATALIST, LLC]], [[CIVIS ANALYTICS]], [[PROJECT NEW AMERICA]], [[GRASSROOTS SOLUTIONS]], [[TARGETSMART COMMUNICATIONS]], [[THE ATLAS PROJECT, INC]], [[BLUEPRINT]], [[MATT LACKEY STRATEGIES LLC]], [[THE ANALYST INSTITUTE]], [[ONE MINUS BETA ANALYTICS, LLC]], [[THE ATLAS PROJECT, INC.]], [[FERGUSON, PHILLIP]], [[Sinclair Broadcast Group]], [[JVA CAMPAIGNS]], [[BOUCHARD GOLD COMMUNICATIONS]], [[INFORMATION STAFFING SERVICES INC]], [[Campaign for Community Change]], [[Hillary Clinton]], [[Margaret Wood Hassan]], [[Steven Horsford]], [[Jeanne Shaheen]], [[Susie Lee]], [[Barack Obama]], [[Jacky Rosen]], [[Chris Pappas]], [[Sherrod Brown]], [[Sierra Club Foundation]], [[Democratic Party of Virginia]], [[Verizon]], [[UPS]], [[Bank of America]], [[Activate America]], [[Bill Foster]], [[William R. Keating]], [[Rick Larsen]], [[Bob Casey]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -91,14 +108,14 @@ politicians-funded: "[[_Deb Haaland Master Profile]], [[League of Conservation V
 |---|---:|
 | Rick Scott | $64,608 |
 | Steven Horsford | $42,082 |
+| Barack Obama | $33,866 |
 | Donald Trump | $27,722 |
+| Bob Casey | $23,333 |
 | Thom Tillis | $17,500 |
+| David Schweikert | $14,633 |
+| Daniel Webster | $13,241 |
 | Chris Pappas | $12,716 |
 | Susie Lee | $12,630 |
-| Jacky Rosen | $12,630 |
-| Barack Obama | $10,533 |
-| Mike Kelly | $10,275 |
-| Brian K. Fitzpatrick | $10,275 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

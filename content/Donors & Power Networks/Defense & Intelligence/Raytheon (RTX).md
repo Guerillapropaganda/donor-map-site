@@ -1,7 +1,7 @@
 ---
 title: Raytheon (RTX Corporation)
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -26,6 +26,8 @@ subawards-received: 50
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[DoorDash]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]] · [[Fossil Fuel Bloc]] · [[Duke Energy]] · [[Devon Energy]] · [[ConocoPhillips]]"
 lobbying-spend: 2200000
 lobbying-filings: 50
@@ -58,7 +60,22 @@ employee-contributions: 204711
 employee-contributions-total: 15292373
 employee-donor-count: 24473
 fec-committee-id: C00097568
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -90,16 +107,16 @@ fec-committee-id: C00097568
 
 | Politician | Amount |
 |---|---:|
-| Mark Kelly | $82,193 |
-| Steve Womack | $35,000 |
-| Jim Himes | $33,000 |
-| Pete Aguilar | $30,285 |
-| Michael Guest | $30,000 |
-| Ken Calvert | $30,000 |
-| Steve Scalise | $30,000 |
-| Sam Graves | $29,000 |
-| Rosa DeLauro | $27,500 |
-| Jon Ossoff | $27,217 |
+| Mike Rogers | $134,000 |
+| Steny H. Hoyer | $113,000 |
+| Ken Calvert | $108,000 |
+| Robert B. Aderholt | $103,000 |
+| Richard Neal | $102,000 |
+| Robert J. Wittman | $100,000 |
+| Joe Courtney | $94,500 |
+| Kay Granger | $93,074 |
+| Michael R. Turner | $90,000 |
+| Harold Rogers | $89,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

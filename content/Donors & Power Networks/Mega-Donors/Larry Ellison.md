@@ -1,7 +1,7 @@
 ---
 title: Larry Ellison
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
@@ -20,6 +20,8 @@ source-types:
 known-gaps:
   - "No lobbying disclosure data"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-political-spend: $10,212
 related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]] · [[Marco Rubio]] · [[Rand Paul]] · [[Kamala Harris]]"
 federal-register-mentions: 2
@@ -30,7 +32,22 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 corroboration-count: 2
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

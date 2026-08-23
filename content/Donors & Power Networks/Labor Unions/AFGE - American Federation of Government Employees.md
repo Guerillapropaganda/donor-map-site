@@ -1,7 +1,7 @@
 ---
 title: AFGE - American Federation of Government Employees
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -15,6 +15,8 @@ total-political-spend: $664,400
 politicians-funded: "[[Rick Scott]], [[Bobby Scott]], [[Kyrsten Sinema]], [[Tammy Baldwin]], [[Gary Peters]], [[Lisa Murkowski]], [[Tim Scott]], [[Frank Pallone]], [[Let America Vote PAC]], [[ActBlue]], [[DCCC - Democratic Congressional Campaign Committee]], [[_Robert Garcia Master Profile]], [[_Jamie Raskin Master Profile]], [[Catherine Cortez Masto]], [[MoveOn.org Political Action]], [[_Bill Foster Master Profile]], [[DSCC - Democratic Senatorial Campaign Committee]], [[_Jon Ossoff Master Profile]], [[Bob Casey]], [[_Dwight Evans Master Profile]], [[Congressional Progressive Caucus PAC]], [[Bill Foster]], [[Dwight Evans]], [[Jon Ossoff]], [[Robert Garcia]], [[Jamie Raskin]], [[Hillary Clinton]], [[Steny H. Hoyer]]"
 federal-register-mentions: 1
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Homeland Security Department
   - Personnel Management Office
@@ -32,7 +34,22 @@ employee-contributions: 535
 employee-contributions-total: 39301
 employee-donor-count: 100
 fec-committee-id: C70000104
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -66,6 +83,8 @@ fec-committee-id: C70000104
 
 | Politician | Amount |
 |---|---:|
+| Hillary Clinton | $68,569 |
+| Steny H. Hoyer | $3,271 |
 | Bob Casey | $900 |
 | Catherine Cortez Masto | $725 |
 | Dwight Evans | $350 |

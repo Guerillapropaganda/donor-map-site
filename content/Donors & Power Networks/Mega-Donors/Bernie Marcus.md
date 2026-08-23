@@ -1,7 +1,7 @@
 ---
 title: Bernie Marcus
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15
 source-tier: null
 parent: null
@@ -22,13 +22,30 @@ net-assets: $39K
 tax-year: "2023"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 10716
 total-assets: 38536
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

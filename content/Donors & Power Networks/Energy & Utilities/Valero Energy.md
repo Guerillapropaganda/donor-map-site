@@ -1,7 +1,7 @@
 ---
 title: Valero Energy
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ lobbying-spend: 6500000
 lobbying-filings: 51
 federal-register-mentions: 79
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Antitrust Division
   - Commerce Department
@@ -63,7 +65,22 @@ employee-contributions: 343
 employee-contributions-total: 178322
 employee-donor-count: 121
 fec-committee-id: C00109546
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -96,16 +113,16 @@ fec-committee-id: C00109546
 
 | Politician | Amount |
 |---|---:|
-| Jodey Arrington | $30,000 |
-| Richard Hudson | $30,000 |
-| Pete Stauber | $30,000 |
-| Jason Smith | $30,000 |
-| August Pfluger | $30,000 |
-| John Joyce | $25,000 |
-| Monica de la Cruz | $25,000 |
-| Morgan Luttrell | $25,000 |
-| Tom Cole | $25,000 |
-| Ronny Jackson | $22,500 |
+| Tom Cole | $97,500 |
+| Pete Sessions | $80,000 |
+| Henry Cuellar | $68,500 |
+| Marsha Blackburn | $62,500 |
+| Richard Hudson | $58,500 |
+| H. Morgan Griffith | $54,500 |
+| Jodey Arrington | $52,500 |
+| Steve Scalise | $52,000 |
+| Randy K. Weber | $50,000 |
+| Tony Gonzales | $49,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

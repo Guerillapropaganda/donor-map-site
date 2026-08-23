@@ -1,7 +1,7 @@
 ---
 title: National Association of Manufacturers
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -19,6 +19,8 @@ tax-year: "2023"
 total-political-spend: $2,129,676
 nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 3628984
 total-assets: 6552030
 federal-register-mentions: 241
@@ -70,7 +72,22 @@ employee-donor-count: 27
 fec-committee-ids:
   - C00541169
   - C30001663
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -113,8 +130,8 @@ fec-committee-ids:
 | Darin Lahood | $20,500 |
 | Vern Buchanan | $18,500 |
 | Sam Graves | $18,000 |
-| Cathy McMorris Rodgers | $17,500 |
 | Don Bacon | $17,500 |
+| Tom Emmer | $17,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

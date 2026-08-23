@@ -1,7 +1,7 @@
 ---
 title: American Action Network
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ net-assets: $16.3M
 tax-year: "2023"
 court-cases: 56
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit
   - District Court, District of Columbia
@@ -44,7 +46,22 @@ employee-donor-count: 1
 fec-committee-ids:
   - C30001648
   - C90011230
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

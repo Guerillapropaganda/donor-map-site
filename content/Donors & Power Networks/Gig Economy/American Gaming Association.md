@@ -1,7 +1,7 @@
 ---
 title: American Gaming Association
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ total-political-spend: $695,569
 politicians-funded: "[[Glenn Thompson]], [[Adam Smith]], [[Susan Collins]], [[Kevin McCarthy]], [[Jason Smith]], [[Steve Scalise]], [[Mike Collins]], [[Bennie Thompson]], [[Jeanne Shaheen]], [[Tim Scott]], [[ActBlue]], [[Harold Rogers]], [[NRSC - National Republican Senatorial Committee]], [[Joseph Morelle]], [[Bill Hagerty]], [[Pete Aguilar]], [[Guy Reschenthaler]], [[Cindy Hyde-Smith]], [[Darin Lahood]], [[James Lankford]], [[Cathy McMorris Rodgers]], [[Steven Horsford]], [[Ron Wyden]], [[Susie Lee]], [[_Shontel Brown Master Profile]], [[WinRed]], [[Todd Young]], [[Michelle Fischbach]], [[Darren Soto]], [[Jimmy Panetta]], [[John Joyce]], [[Brendan Boyle]], [[Mike Thompson]], [[Joyce Beatty]], [[Hakeem Jeffries]], [[Frank Pallone]], [[Madeleine Dean]], [[Debbie Stabenow]], [[Richard Neal]], [[James Comer]], [[_Lisa Blunt Rochester Master Profile]], [[John Boozman]], [[Mitch McConnell]], [[John Thune]], [[Jimmy Gomez]], [[Darrell Issa]], [[Sherrod Brown]], [[American Gaming Association]], [[Shontel Brown]], [[Gary Peters]], [[Eric Swalwell]], [[Jared Moskowitz]], [[_Byron Donalds Master Profile]], [[Grace Meng]], [[Jacky Rosen]], [[NRCC - National Republican Congressional Committee]], [[_Ben Cline Master Profile]], [[David Schweikert]], [[Maria Cantwell]], [[Lloyd Smucker]], [[Brett Guthrie]], [[Alex Padilla]], [[Mike Carey]], [[Patrick McHenry]], [[Katie Britt]], [[Debbie Dingell]], [[John Hickenlooper]], [[Dina Titus]], [[Dwight Evans]], [[_Melissa Bean Master Profile]], [[Ted Cruz]], [[Catherine Cortez Masto]], [[Adrian Smith]], [[Josh Gottheimer]], [[_Marcia Fudge Master Profile]], [[Melissa Bean]], [[Ben Cline]], [[Marcia Fudge]], [[Byron Donalds]], [[Lisa Blunt Rochester]], [[David P. Joyce]], [[David G. Valadao]], [[Jim Banks]], [[Robin L. Kelly]], [[Lindsey Graham]], [[Haley M. Stevens]], [[Bobby Scott]], [[John Boehner]], [[John H. Rutherford]], [[Ashley Hinson]], [[Julia Brownley]], [[Nancy Pelosi]], [[James E. Clyburn]], [[John R. Curtis]], [[Randy Feenstra]], [[Gerry Connolly]], [[Ruben Gallego]], [[W. Gregory Steube]], [[Steve Cohen]], [[Steny H. Hoyer]], [[John Cornyn]], [[Andrew R. Garbarino]], [[Frederica S. Wilson]], [[Andy Barr]], [[Barbara Lee]], [[Chuck Schumer]], [[Gabe Amo]], [[Joe Neguse]], [[Kevin Hern]], [[Ann Wagner]], [[Chuck Grassley]], [[Thomas R. Suozzi]], [[Gregory Meeks]], [[Bob Menendez]], [[Mike Johnson]], [[Greg Casar]], [[Pete Sessions]], [[Ben Ray Lujan]], [[John Barrasso]], [[Mike Ezell]], [[John McCain]], [[Bill Cassidy]], [[Danny K. Davis]], [[Mary Gay Scanlon]], [[Shelley Moore Capito]], [[Troy A. Carter]], [[Mark E. Amodei]], [[Mike Rounds]], [[Bradley Scott Schneider]], [[Andre Carson]], [[Mark Takano]], [[John B. Larson]], [[Laurel M. Lee]], [[Donald S. Beyer]], [[Hillary Clinton]], [[Brian K. Fitzpatrick]], [[Johnny Olszewski]], [[Katherine M. Clark]], [[Matt Gaetz]], [[Andy Biggs]], [[Timothy M. Kennedy]], [[Bill Huizenga]], [[Tom Emmer]], [[Kristi Noem]], [[Tom McClintock]], [[Mike Kelly]], [[Lois Frankel]], [[Robert Menendez]]"
 nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 24597723
 total-assets: 36994357
 sec-filings: 2157
@@ -50,7 +52,22 @@ employee-contributions: 186
 employee-contributions-total: 151287
 employee-donor-count: 66
 fec-committee-id: C00309146
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -86,7 +103,6 @@ fec-committee-id: C00309146
 |---|---:|
 | Bennie Thompson | $20,500 |
 | Mitch McConnell | $17,500 |
-| Dina Titus | $10,500 |
 | James E. Clyburn | $10,500 |
 | Steven Horsford | $9,500 |
 | Mark E. Amodei | $9,500 |
@@ -94,6 +110,7 @@ fec-committee-id: C00309146
 | Darin Lahood | $8,000 |
 | Richard Neal | $7,500 |
 | Jason Smith | $7,500 |
+| John Boehner | $7,100 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -1,7 +1,7 @@
 ---
 title: Jodey Arrington
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Jodey Arrington's structural function is to translate corporate tax and energy priorities into the federal budget. As Budget Committee chair, he controls the reconciliation process , the procedural vehicle that bypasses the Senate filibuster and s...
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
@@ -43,12 +43,29 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[American Farm Bureau Federation]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 bioguide-id: A000375
 bills-enacted: 2
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
 top-policy-area: Health
 fec-committee-id: C00588657
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

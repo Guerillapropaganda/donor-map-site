@@ -1,7 +1,7 @@
 ---
 title: Blue Shield of California
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ net-assets: $77.4M
 tax-year: "2023"
 federal-register-mentions: 4
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Antitrust Division
   - Employment and Training Administration
@@ -43,7 +45,22 @@ employee-contributions: 1864
 employee-contributions-total: 817552
 employee-donor-count: 303
 fec-committee-id: C00340364
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -78,6 +95,7 @@ fec-committee-id: C00340364
 | Politician | Amount |
 |---|---:|
 | Nancy Pelosi | $76,384 |
+| Xavier Becerra | $58,800 |
 | Kevin McCarthy | $50,300 |
 | Doris O. Matsui | $47,500 |
 | Mike Thompson | $44,000 |
@@ -86,7 +104,6 @@ fec-committee-id: C00340364
 | Lauren Underwood | $38,412 |
 | Raul Ruiz | $38,000 |
 | Scott H. Peters | $36,500 |
-| Young Kim | $35,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

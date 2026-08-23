@@ -1,7 +1,7 @@
 ---
 title: Ted Cruz
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Ted Cruz is the perfect case study in donor-class override of personal unpopularity. He is consistently rated the least-liked senator among his own colleagues. His favorability ratings are among the lowest of any incumbent senator. He fled to Canc...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -60,6 +60,18 @@ fec-committee-ids:
   - C00625913
   - C00689471
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

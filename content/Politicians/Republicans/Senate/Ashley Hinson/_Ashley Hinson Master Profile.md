@@ -1,7 +1,7 @@
 ---
 title: Ashley Hinson Master Profile
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Ashley Hinson represents the post-Trump Republican establishment's preferred profile: media-savvy, young, female-presenting leadership that translates television credibility into electoral appeal while advancing conventional Republican donor prior..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -37,9 +37,30 @@ total-spent: "$1,650,040"
 cash-on-hand: "5170262.53"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 donors: "[[Winning for Women PAC]] · [[Senate Leadership Fund]]"
 fec-committee-id: C00706267
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

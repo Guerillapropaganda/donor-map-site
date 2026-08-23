@@ -1,7 +1,7 @@
 ---
 title: Paul Ryan
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Paul Ryan exemplifies the donor-class politician masked as principled conservative. His public brand is 'fiscal hawk' concerned about deficits and wasteful spending. But his legislative record contradicts this entirely: as Speaker, he authored the..."
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -27,7 +27,15 @@ total-received: $483,642,897
 fec-candidate-id: H8WI01024
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: 2026-04-20T00:00:00.000Z
 fec-committee-ids:
   - C00330894
@@ -35,6 +43,18 @@ fec-committee-ids:
   - C00494476
   - C00496984
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

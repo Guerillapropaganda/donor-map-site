@@ -1,7 +1,7 @@
 ---
 title: Stand Together
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ net-assets: $291K
 tax-year: "2021"
 federal-register-mentions: 35
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Alcohol, Tobacco, Firearms, and Explosives Bureau
   - Education Department
@@ -73,7 +75,22 @@ employee-contributions: 70
 employee-contributions-total: 33976
 employee-donor-count: 38
 fec-committee-id: C00737239
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

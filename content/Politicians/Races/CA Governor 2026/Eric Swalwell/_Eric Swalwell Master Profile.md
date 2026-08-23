@@ -1,7 +1,7 @@
 ---
 title: "Eric Swalwell Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Eric Swalwell is the media profile candidate — his visibility derives from cable news appearances (MSNBC, CNN, Fox News) and his prominent role in Trump impeachment proceedings, not from legislative accomplishment. His political brand is 'anti-Tru..."
 last-updated: 2026-04-08
 source-tier: 1
@@ -25,7 +25,12 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
 related: "[[SEIU - Service Employees International Union]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]]"
-internal-notes: "[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-05-18] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-26] Demoted ready→draft by pipeline-janitor.cjs because:
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
@@ -33,6 +38,18 @@ fec-committee-ids:
   - C00502294
   - C00701698
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -131,7 +148,7 @@ fec-committee-ids:
 
 **Direct contributions** (donor → candidate-controlled committees): **$8.13M** across 4408 edges, 4408 unique donors.
 **Same-name transfers** (likely self-fund / family vehicles): **$450** across 2 record(s).
-**IE supporting** (donor → independent expenditure PAC backing this candidate): **$20.80M** across 4 PAC(s).
+**IE supporting** (donor → independent expenditure PAC backing this candidate): **$14.80M** across 4 PAC(s).
 
 **Controlled committees:** SWALWELL FOR GOVERNOR 2026; ERIC `1485146` · SWALWELL JR. FOR CITY COUNCIL 2010, ERIC `1327203`
 
@@ -168,16 +185,6 @@ fec-committee-ids:
 
 #### Independent expenditure PACs supporting this candidate
 
-**SWALWELL FOR GOVERNOR 2026 SPONSORED BY SEIU CALIFORNIA STATE COUNCIL; NURSES AND EDUCATORS SUPPORTING** — $12.03M from 5 edges
-
-| Donor | Amount |
-|---|---:|
-| SEIU California State Council for Working People | $6.00M |
-| SEIU California State Council | $2.00M |
-| Dignity CA Service Employees International Union SEIU Local 2015 | $2.00M |
-| Canal Partners Media | $1.03M |
-| Service Employees International Union Local 1000 Issues PAC | $1.00M |
-
 **SWALWELL FOR GOVERNOR 2026; CALIFORNIANS FOR A FIGHTER IN SUPPORT OF ERIC** — $7.76M from 9 edges
 
 | Donor | Amount |
@@ -191,6 +198,15 @@ fec-committee-ids:
 | Driving California's Economy, Sponsored by CA New Car Dealers Association | $250.0K |
 | Andrew Nathan Schwartzberg | $250.0K |
 | California Association of Psychiatric Technicians, Inc. Political Action Fund | $160.0K |
+
+**SWALWELL FOR GOVERNOR 2026 SPONSORED BY SEIU CALIFORNIA STATE COUNCIL; NURSES AND EDUCATORS SUPPORTING** — $6.03M from 4 edges
+
+| Donor | Amount |
+|---|---:|
+| SEIU California State Council | $2.00M |
+| Dignity CA Service Employees International Union SEIU Local 2015 | $2.00M |
+| Canal Partners Media | $1.03M |
+| Service Employees International Union Local 1000 Issues PAC | $1.00M |
 
 **SWALWELL FOR GOVERNOR 2026, A PROJECT OF GLOBAL MEDICAL RESPONSE, INC.; EMS PROFESSIONALS FOR A HEALTHIER CALIFORNIA FOR** — $1.01M from 1 edges
 
@@ -252,7 +268,7 @@ fec-committee-ids:
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485146](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485146) · [1327203](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1327203). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1485146](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485146) · [1327203](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1327203). **As of: 2026-05-17**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

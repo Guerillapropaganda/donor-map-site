@@ -1,7 +1,7 @@
 ---
 title: National Education Association
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -27,6 +27,8 @@ lei-jurisdiction: US-DC
 related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CTA - California Teachers Association]] · [[AFL-CIO]] · [[American Federation for Children]] · [[DeVos Family]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[Republican Party Apparatus]] · [[Ohio Federation of Teachers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[National Cattlemen's Beef Association]] · [[Fanjul Family - Florida Crystals]] · [[American Farm Bureau Federation]]"
 federal-register-mentions: 57
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Agriculture Department
   - Civil Rights Commission
@@ -53,7 +55,22 @@ employee-contributions: 5087
 employee-contributions-total: 452140
 employee-donor-count: 507
 politicians-funded: "[[ActBlue]], [[MoveOn.org Political Action]], [[Progressive Turnout Project]], [[Susie Lee]], [[_Tammy Baldwin Master Profile]], [[NEA Fund for Children and Public Education]], [[Hakeem Jeffries]], [[League of Conservation Voters]], [[John Fetterman]], [[_Angie Craig Master Profile]], [[Mark Kelly]], [[Kamala Harris]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Patrick Ryan]], [[Catherine Cortez Masto]], [[Lisa Murkowski]], [[Sharice Davids]], [[DCCC - Democratic Congressional Campaign Committee]], [[John James]], [[Everytown for Gun Safety Victory Fund]], [[Lauren Underwood]], [[Patty Murray]], [[Greg Landsman]], [[Jahana Hayes]], [[Maria Elvira Salazar]], [[Raphael Warnock]], [[Dina Titus]], [[Greg Stanton]], [[Emily's List]], [[Derrick van Orden]], [[Ted Lieu]], [[Let America Vote PAC]], [[Teresa Leger Fernandez]], [[Josh Harder]], [[Brittany Pettersen]], [[Sean Casten]], [[Jamie Raskin]], [[_Nancy Pelosi Master Profile]], [[Pete Aguilar]], [[Debbie Dingell]], [[Seth Magaziner]], [[Sarah Elfreth]], [[_Jon Ossoff Master Profile]], [[Kweisi Mfume]], [[Andrea Salinas]], [[Adam Gray]], [[Josh Riley]], [[CHC BOLD PAC]], [[Ron Johnson]], [[Steven Horsford]], [[Kim Schrier]], [[Chris van Hollen]], [[Protect the Vote]], [[Nikki Budzinski]], [[Marcy Kaptur]], [[Tammy Baldwin]], [[Jon Ossoff]], [[Angie Craig]], [[Nancy Pelosi]], [[PINEDA CONSULTING]], [[CREATIVE LOGIC]], [[MANUFACTURERS & TRADERS TRUST CO.]], [[CHAMBERS LOPEZ AND GAITAN LLC]], [[Media Matters]], [[MACWILLIAMS ROBINSON & PARTNERS INC.]], [[National Republican Senatorial Committee]], [[IMS INC.]], [[M&T BANK]], [[M & T BANK 1120 POL TAX]], [[Working Families for Hawaii]], [[WACHOVIA BANK]], [[CHAMBERS LOPEZ & GAITAN]], [[NEA GENERAL FUND]], [[Andrew Klavan]], [[D.C. TREASURER]], [[ANDRES RAMIREZ]], [[KING COMMUNICATIONS, GEORGE]], [[National Education Association]], [[TRICE TALENT SERVICES INC.]], [[Sanford D. Bishop]], [[Jerrold Nadler]], [[Kyrsten Sinema]], [[Xavier Becerra]], [[Bennie Thompson]], [[Stephen F. Lynch]], [[Alma S. Adams]], [[Michael K. Simpson]], [[Veronica Escobar]], [[Mark Pocan]], [[Lucy McBath]], [[Rosa DeLauro]], [[Terri A. Sewell]], [[Adam Smith]], [[David Scott]], [[Marilyn Strickland]], [[Debbie Stabenow]], [[Dan Osborn]], [[Haley M. Stevens]], [[Richard Neal]], [[Brad Sherman]], [[Jack Reed]], [[Paul Tonko]], [[Jared Huffman]], [[Gerry Connolly]], [[Kristen McDonald Rivet]], [[Frank Pallone]], [[Gregory Meeks]], [[Lloyd Doggett]], [[Ayanna Pressley]], [[Madeleine Dean]], [[James A. Himes]], [[Melanie A. Stansbury]], [[Tom Barrett]], [[Suzan K. Delbene]], [[Daniel Webster]], [[Vicente Gonzalez]], [[Hillary Clinton]], [[Donald S. Beyer]], [[Yvette D. Clarke]], [[Bradley Scott Schneider]], [[Barbara Lee]], [[Ron Wyden]], [[Jeff Merkley]], [[Bobby Scott]], [[Kathy Castor]], [[John B. Larson]], [[Eleanor Holmes Norton]], [[Maxine Dexter]], [[Robin L. Kelly]], [[Cleo Fields]], [[Gus M. Bilirakis]], [[Eric Swalwell]], [[Emanuel Cleaver]], [[Zoe Lofgren]], [[Bonnie Watson Coleman]], [[James E. Clyburn]], [[Sam Graves]], [[Debbie Wasserman Schultz]], [[Mario Diaz-Balart]], [[Lizzie Fletcher]], [[Mike Levin]], [[Joseph Morelle]], [[Raul Ruiz]], [[Jesus G. Chuy Garcia]], [[Janice D. Schakowsky]], [[Gabe Amo]], [[Joe Biden]], [[John R. Carter]], [[Nydia Velazquez]], [[Josh Gottheimer]], [[Raja Krishnamoorthi]], [[Mark Takano]], [[Jimmy Panetta]], [[Jerry Moran]], [[Edward J. Markey]], [[Jim Costa]], [[Salud O. Carbajal]], [[Julia Brownley]], [[Dan Goldman]], [[Chellie Pingree]], [[Robert Menendez]], [[Gwen Moore]], [[Donald G. Davis]], [[Marie Gluesenkamp Perez]], [[Summer Lee]], [[Darren Soto]], [[Lois Frankel]], [[Steny H. Hoyer]], [[Joe Courtney]], [[Donald Norcross]], [[Danny K. Davis]], [[Linda T. Sanchez]], [[Bob Casey]], [[Suzanne Bonamici]], [[Joe Manchin]], [[John Garamendi]], [[Henry Cuellar]], [[Christopher H. Smith]], [[Susan Collins]], [[Bill Foster]], [[Rashida Tlaib]], [[Mark DeSaulnier]], [[Jeanne Shaheen]], [[Rick Larsen]], [[Betty McCollum]], [[Martin Heinrich]], [[Sherrod Brown]], [[Greg Casar]], [[Judy Chu]], [[Thomas R. Suozzi]], [[Kirsten E. Gillibrand]], [[Mike Thompson]], [[Jared F. Golden]], [[Jim McGovern]], [[Alexandria Ocasio-Cortez]], [[Adam Schiff]], [[Frederica S. Wilson]], [[Hilda Solis]], [[Peter Welch]], [[Jasmine Crockett]], [[Gilbert Ray Cisneros]], [[Andre Carson]], [[Marc A. Veasey]], [[Nikema Williams]], [[Diana Degette]], [[Leon Panetta]], [[Mike Quigley]], [[Ruben Gallego]], [[Maxine Waters]], [[Alex Padilla]], [[Amy Klobuchar]], [[Harry Reid]], [[Grace Meng]], [[Mazie K. Hirono]], [[Joaquin Castro]], [[Brian K. Fitzpatrick]], [[Melissa Bean]], [[Joyce Beatty]], [[Sara Jacobs]], [[John Hoeven]], [[Tulsi Gabbard]], [[Cori Bush]], [[Sheila Cherfilus-McCormick]], [[Bob Menendez]], [[George Whitesides]], [[Eugene Simon Vindman]], [[Dwight Evans]], [[Shri Thanedar]], [[Marcia Fudge]], [[Barack Obama]], [[Dave Min]], [[David P. Joyce]], [[Bernie Sanders]], [[Mark Warner]], [[Emily Randall]], [[Ben Ray Lujan]], [[Steve Cohen]], [[Elissa Slotkin]], [[Tina Smith]], [[George Latimer]], [[Richard J. Durbin]], [[Jamaal Bowman]], [[Ami Bera]], [[Katherine M. Clark]], [[Adriano Espaillat]], [[Laura Gillen]], [[Kelly Morrison]], [[Andy Kim]], [[Katie Porter]], [[Norma J. Torres]], [[Lamonica McIver]], [[Mary Gay Scanlon]], [[Chris Murphy]], [[Angela D. Alsobrooks]], [[Gabe Vasquez]], [[John McCain]], [[Juan Vargas]], [[Troy A. Carter]], [[Sydney Kamlager-Dove]], [[Elizabeth Warren]], [[Henry C. Hank Johnson]], [[William R. Keating]], [[Lateefah Simon]], [[Ilhan Omar]], [[Janelle S. Bynum]], [[Tammy Duckworth]], [[Robert Garcia]], [[Al Green]], [[Chris Pappas]], [[John Kerry]], [[Brett Guthrie]], [[Dianne Feinstein]], [[John Boehner]], [[Valerie P. Foushee]], [[Lori Trahan]], [[Doris O. Matsui]], [[Sheldon Whitehouse]], [[Tim Walz]], [[Pablo Jose Hernandez]], [[Glenn Thompson]], [[David G. Valadao]], [[Sylvia R. Garcia]], [[Julie Johnson]], [[Ritchie Torres]], [[Jennifer L. McClellan]], [[Raul Grijalva]], [[John Hickenlooper]], [[Joe Neguse]], [[Jimmy Gomez]], [[Brendan Boyle]], [[Sarah McBride]], [[Nellie Pou]], [[Maria Cantwell]], [[Pramila Jayapal]], [[John W. Mannion]], [[Mark Harris]], [[J. Luis Correa]], [[Ed Markey]], [[Jason Crow]], [[Mike Bost]], [[Dick Durbin]], [[Jonathan L. Jackson]], [[April McClain Delaney]], [[Scott H. Peters]], [[Becca Balint]], [[Derek Tran]], [[Frank J. Mrvan]], [[Chuck Schumer]], [[Adrian Smith]], [[Hillary J. Scholten]], [[Angus S. King]], [[Jared Moskowitz]], [[Jacky Rosen]], [[Deborah K. Ross]], [[Chris Coons]], [[Eric Sorensen]], [[Tim Kaine]], [[Gary Peters]], [[Nanette Diaz Barragan]], [[Chrissy Houlahan]], [[Cory Booker]], [[Emilia Strong Sykes]], [[Shontel Brown]], [[Christopher R. Deluzio]], [[Rahm Emanuel]], [[Johnny Olszewski]], [[John Thune]], [[Lisa Blunt Rochester]], [[Maxwell Frost]], [[David J. Taylor]], [[Lee Zeldin]], [[Jill N. Tokuda]], [[Morgan McGarvey]], [[Harold Rogers]], [[Vern Buchanan]], [[Maggie Goodlander]], [[Ken Salazar]], [[Elise Stefanik]], [[Mike Rogers]], [[Deb Haaland]], [[John Kelly]], [[Ed Case]], [[Brian Schatz]], [[Shomari Figures]], [[Wesley Bell]], [[Ro Khanna]], [[Jefferson van Drew]], [[Margaret Wood Hassan]], [[Mike Crapo]], [[Don Bacon]], [[Luz M. Rivas]], [[Tom Cole]], [[Ray LaHood]], [[Roger Marshall]], [[Val T. Hoyle]], [[Richard Blumenthal]], [[Kevin Mullin]], [[Chuck Hagel]], [[Michael R. Turner]], [[Andrew R. Garbarino]], [[Suhas Subramanyam]], [[Jake Auchincloss]], [[Michael Bennet]], [[Delia C. Ramirez]], [[Seth Moulton]], [[Laura Friedman]], [[Rick W. Allen]], [[Lindsey Graham]], [[Timothy M. Kennedy]], [[John Barrasso]], [[NEA Advocacy Fund]], [[Jim Himes]], [[Glenn Ivey]], [[Bill Clinton]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -85,16 +102,16 @@ politicians-funded: "[[ActBlue]], [[MoveOn.org Political Action]], [[Progressive
 
 | Politician | Amount |
 |---|---:|
+| Barack Obama | $2,862,117 |
+| John Kerry | $2,434,338 |
+| Hillary Clinton | $1,358,625 |
 | George W. Bush | $1,165,665 |
-| Henry C. Hank Johnson | $720,934 |
 | David Schweikert | $650,000 |
-| Jahana Hayes | $382,625 |
-| Rick Larsen | $299,068 |
-| John Kerry | $263,763 |
-| Steny H. Hoyer | $175,600 |
-| John Fetterman | $158,625 |
-| Nancy Pelosi | $158,550 |
-| Rosa DeLauro | $158,400 |
+| Bill Clinton | $473,741 |
+| Rick Larsen | $362,492 |
+| Bob Menendez | $331,427 |
+| Debbie Stabenow | $284,032 |
+| Patty Murray | $270,177 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

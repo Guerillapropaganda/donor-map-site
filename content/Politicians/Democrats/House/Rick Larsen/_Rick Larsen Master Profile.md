@@ -1,7 +1,7 @@
 ---
 title: Rick Larsen
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Rick Larsen is Boeing's Democratic guardian , the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -39,7 +39,15 @@ phone: 202-225-2605
 related: "[[_Sam Graves Master Profile|Graves]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Boeing]] · [[NARAL]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
 bioguide-id: L000560
 bills-enacted: 0
@@ -50,6 +58,18 @@ fec-committee-ids:
   - C00345546
   - C00386342
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

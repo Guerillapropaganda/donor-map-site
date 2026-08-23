@@ -1,7 +1,7 @@
 ---
 title: "Katie Porter Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: "Katie Porter is the donor class's mirror image: a politician whose fundraising model is built on rejecting the donor class itself. Her brand — the whiteboard, the consumer protection hearings, the refusal of corporate PAC money — functions as a fu..."
 last-updated: 2026-04-13
 source-tier: 1
@@ -61,7 +61,15 @@ last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 related: "[[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
@@ -72,6 +80,18 @@ fec-committee-ids:
   - C00636571
   - C00831107
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -164,9 +184,9 @@ fec-committee-ids:
 
 *Showing 2026-cycle data only. Re-run with `--cycle all` for lifetime aggregation across mayor / Assembly / prior gov runs.*
 
-**Direct contributions** (donor → candidate-controlled committees): **$6.69M** across 15232 edges, 15232 unique donors.
+**Direct contributions** (donor → candidate-controlled committees): **$6.68M** across 15219 edges, 15219 unique donors.
 **Same-name transfers** (likely self-fund / family vehicles): **$6.0K** across 16 record(s).
-**IE supporting** (donor → independent expenditure PAC backing this candidate): **$426.1K** across 1 PAC(s).
+**IE supporting** (donor → independent expenditure PAC backing this candidate): **$431.1K** across 1 PAC(s).
 
 **Controlled committees:** PORTER FOR GOVERNOR 2026; KATIE `1479597`
 
@@ -199,11 +219,11 @@ fec-committee-ids:
 | United Auto Workers | $39.2K | 2026 | 1 |
 | Chris Duro | $39.2K | 2026 | 1 |
 | Benjamin Stockton | $39.1K | 2026 | 1 |
-| _+15207 more donors_ | _$5.68M_ | | |
+| _+15194 more donors_ | _$5.68M_ | | |
 
 #### Independent expenditure PACs supporting this candidate
 
-**PORTER FOR GOVERNOR 2026; FRIENDS OF KATIE** — $426.1K from 7 edges
+**PORTER FOR GOVERNOR 2026; FRIENDS OF KATIE** — $431.1K from 8 edges
 
 | Donor | Amount |
 |---|---:|
@@ -211,6 +231,7 @@ fec-committee-ids:
 | California Teamsters Public Affairs Council PAC Small Contributor Committee | $100.0K |
 | Singleton Schreiber, LLP | $100.0K |
 | National Union of Healthcare Workers Candidate Committee for Quality Patient Care and Union Democracy | $75.0K |
+| Panish, Shea, Ravipudi, LLP | $5.0K |
 | Patrick Kelly | $500 |
 | Julianne Dalrymple | $500 |
 | Elizabeth Shedd | $100 |
@@ -262,7 +283,7 @@ fec-committee-ids:
 
 ---
 
-*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479597](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479597). **As of: 2026-05-03**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
+*Source: California Cal-Access bulk RCPT_CD via `scripts/ingest-cal-access-bulk.cjs`. Committees: [1479597](https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1479597). **As of: 2026-05-17**. Refresh: download fresh dump, re-run `ingest-cal-access-bulk.cjs` and `build-cal-access-panels.cjs --write`.*
 
 <!-- auto:cal-access end -->
 

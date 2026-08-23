@@ -112,3 +112,4 @@ scripts/backup/backup.log
 # cache) to drop stale snapshots. Machine-local; never commit.
 data/.last-mutation
 data/_unresolved-edges-summary.json
+*.local-backup

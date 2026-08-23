@@ -1,7 +1,7 @@
 ---
 title: Mike Rogers
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Mike Rogers is the defense industry's highest-paid congressional employee. Over $2 million in career defense donations , more than any other House member in the current Congress , bought the most reliable advocate the military-industrial complex h...
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
@@ -43,6 +43,18 @@ fec-committee-ids:
   - C00219584
   - C00610055
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

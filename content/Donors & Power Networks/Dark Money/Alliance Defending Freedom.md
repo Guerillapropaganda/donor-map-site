@@ -1,7 +1,7 @@
 ---
 title: Alliance Defending Freedom
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ total-political-spend: $250
 related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Arabella Advisors]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Enterprise Institute]] · [[American Action Network]] · [[America First Policy Institute]]"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-revenue: 125427282
 total-assets: 102769051
 federal-register-mentions: 1
@@ -34,7 +36,22 @@ employee-contributions: 43
 employee-contributions-total: 27121
 employee-donor-count: 21
 politicians-funded: "[[SLF PAC]], [[WinRed]], [[Trump Victory]], [[MAGA Inc]], [[RNC - Republican National Committee]], [[_Eric Burlison Master Profile]], [[NRSC - National Republican Senatorial Committee]], [[Women Speak Out Pac]], [[_Marco Rubio Master Profile]], [[_Claudia Tenney Master Profile]], [[Eric Burlison]], [[Marco Rubio]], [[Claudia Tenney]]"
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

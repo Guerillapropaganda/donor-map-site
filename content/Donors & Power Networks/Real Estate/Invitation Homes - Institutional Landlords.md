@@ -1,7 +1,7 @@
 ---
 title: Invitation Homes - Institutional Landlords
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -17,7 +17,11 @@ lobbying-filings: 14
 cross-vault-triangulation-count: 8
 needs-reenrichment: true
 reenrich-reason: run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 5
 epa-states: CA
 employee-contributions: 87
@@ -26,6 +30,18 @@ employee-donor-count: 25
 politicians-funded: "[[_Marco Rubio Master Profile]], [[_Tim Scott Master Profile]], [[WinRed]], [[ActBlue]], [[_Jon Ossoff Master Profile]], [[National Rental Home Council]], [[_Beth van Duyne Master Profile]], [[Tim Scott]], [[Beth van Duyne]], [[Jon Ossoff]], [[Marco Rubio]]"
 last-enriched: 2026-04-20
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

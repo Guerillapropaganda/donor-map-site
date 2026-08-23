@@ -1,7 +1,7 @@
 ---
 title: Tammy Duckworth
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -54,7 +54,15 @@ phone: 202-224-2854
 related: "[[_Dick Durbin Master Profile|Durbin]] · [[Boeing]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-19] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
 bills-enacted: 0
 bills-data-scope: Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs
@@ -70,6 +78,18 @@ fec-committee-ids:
   - C00591263
   - C00544981
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Harry Reid
 type: politician
-content-readiness: ready
+content-readiness: draft
 central-thesis: Reid was a powerful progressive on selected issues (labor alliance, some environmental stands, healthcare reform) while serving Nevada's gaming, real estate, and development donor base with absolute fidelity. He managed this by maintaining a progr...
 last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
@@ -26,6 +26,8 @@ donors: "[[First Amendment Alliance]] · [[NATIONAL REPUBLICAN SENATORIAL COMMIT
 urls-first-triaged: "2026-04-15"
 related: "[[Crossroads Grassroots Policy Strategies]]"
 last-enriched: 2026-04-20T00:00:00.000Z
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 total-raised: $49.2M
 career-total-source: FEC weball summary (cycles 1986, 1988, 1990, 1992, 1994, 1996, 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018)
 opposes: "[[Donald Trump]]"
@@ -35,7 +37,22 @@ fec-committee-ids:
   - C00460360
   - C00482943
   - C00458695
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

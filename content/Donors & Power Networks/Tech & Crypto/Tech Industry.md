@@ -1,7 +1,7 @@
 ---
 title: Tech Industry
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ total-political-spend: $336,000
 politicians-funded: "[[Gerry Connolly]], [[Jason Smith]], [[Zoe Lofgren]], [[Susan Collins]], [[Mark Warner]], [[Martin Heinrich]], [[Adam Smith]], [[Cathy McMorris Rodgers]], [[Mike Collins]], [[Hakeem Jeffries]], [[ActBlue]], [[WinRed]]"
 federal-register-mentions: 53
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 regulatory-agencies:
   - Commerce Department
   - Consumer Financial Protection Bureau
@@ -85,7 +87,22 @@ checklist-na:
 employee-contributions: 48
 employee-contributions-total: 1980
 employee-donor-count: 7
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

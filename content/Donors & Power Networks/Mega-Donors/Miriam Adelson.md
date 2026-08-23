@@ -1,7 +1,7 @@
 ---
 title: Miriam Adelson
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
@@ -34,12 +34,28 @@ total-revenue: 3842
 total-assets: 92607
 related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]] · [[Bill Hagerty]] · [[Brian Kemp]] · [[Catherine Cortez Masto]] · [[Jan Koum]] · [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[NORPAC]] · [[2028 Presidential Landscape]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Preserve America]] · [[MAGA Inc]] · [[Adelson Family]] · [[Republican Jewish Coalition]] · [[DMFI - Democratic Majority for Israel]] · [[American Friends of the Likud]] · [[American Gaming Association]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Trump Donor Coalition]] · [[Trump 2024 Campaign]]"
 cross-vault-triangulation-count: 28
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,8 +84,8 @@ urls-first-triaged: "2026-04-15"
 
 | Politician | Amount |
 |---|---:|
-| John Boehner | $17,600 |
 | Mitch McConnell | $10,400 |
+| John Boehner | $17,600 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

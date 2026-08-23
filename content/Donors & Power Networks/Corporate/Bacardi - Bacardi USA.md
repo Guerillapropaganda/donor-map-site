@@ -1,7 +1,7 @@
 ---
 title: Bacardi - Bacardi USA
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
@@ -19,13 +19,30 @@ lobbying-filings: 36
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 2
 last-enriched: "2026-04-11"
+needs-reenrichment: true
+reenrich-reason: "re-run pipelines"
 epa-facilities: 5
 epa-states: FL, PR
 employee-contributions: 40
 employee-contributions-total: 12995
 employee-donor-count: 18
 fec-committee-id: C00160838
+internal-notes: "[JANITOR 2026-08-08] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Last enrichment was over 90 days ago. Data is stale.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,13 +73,13 @@ fec-committee-id: C00160838
 | Debbie Wasserman Schultz | $17,000 |
 | Robert Menendez | $17,000 |
 | Mario Diaz-Balart | $16,000 |
-| Bob Menendez | $11,500 |
 | Darren Soto | $9,000 |
 | Marco Rubio | $9,000 |
 | Maria Elvira Salazar | $7,000 |
 | Marsha Blackburn | $6,000 |
 | Frederica S. Wilson | $5,500 |
 | Ted Cruz | $5,000 |
+| Bill Cassidy | $4,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
