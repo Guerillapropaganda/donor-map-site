@@ -1,0 +1,26 @@
+---
+title: "House Democrats add 12 GOP seats to target list"
+type: event
+date: 2026-08-05
+status: draft
+source: "The Hill"
+source-url: "https://thehill.com/homenews/campaign/6009504-house-democrats-offensive-targets-gop-seats/"
+profiles:
+  - "Lauren Boebert"
+  - "Richard Hudson"
+  - "DCCC - Democratic Congressional Campaign Committee"
+  - "NRCC - National Republican Congressional Committee"
+---
+
+#event #draft
+
+## House Democrats add 12 GOP seats to target list
+
+**Source:** [The Hill](https://thehill.com/homenews/campaign/6009504-house-democrats-offensive-targets-gop-seats/)
+**Date:** 2026-08-05
+
+The Democratic Congressional Campaign Committee (DCCC), House Democrats’ campaign arm, on Wednesday announced it is adding 12 Republican-held and -leaning seats to its target list — including seats held by Reps. Lauren Boebert (R-Colo.) and Richard Hudson (R-N.C.), the chair of the DCCC’s Republican counterpart, the National Republican Congressional Committee (NRCC). The 12 new “Districts…
+
+---
+
+**Linked Profiles:** [[Lauren Boebert|Lauren Boebert]] · [[Richard Hudson|Richard Hudson]] · [[DCCC - Democratic Congressional Campaign Committee|DCCC - Democratic Congressional Campaign Committee]] · [[NRCC - National Republican Congressional Committee|NRCC - National Republican Congressional Committee]]

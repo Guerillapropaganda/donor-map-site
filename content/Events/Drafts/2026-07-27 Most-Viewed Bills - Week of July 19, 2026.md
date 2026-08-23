@@ -1,0 +1,23 @@
+---
+title: "Most-Viewed Bills - Week of July 19, 2026"
+type: event
+date: 2026-07-27
+status: draft
+source: "Congress.gov — Most Viewed Bills"
+source-url: "https://www.congress.gov/most-viewed-bills"
+profiles:
+  - "Housing - Donors and Backers"
+---
+
+#event #draft
+
+## Most-Viewed Bills - Week of July 19, 2026
+
+**Source:** [Congress.gov — Most Viewed Bills](https://www.congress.gov/most-viewed-bills)
+**Date:** 2026-07-27
+
+H.R.4818 [118th] - Treat and Reduce Obesity Act of 2023 H.R.139 [119th] - Sunshine Protection Act of 2025 H.R.6509 [119th] - SAFE Drugs Act of 2025 H.R.22 [119th] - SAVE Act H.R.6644 [119th] - 21st Century ROAD to Housing Act H.R.9237 [119th] - Take Care of Americaâs Veterans Act H.R.8595 [119th] - National Security, Department of State, and Related Programs Appropriations Act, 2027 S.2296 [119th] - National Defense Authorization Act for Fiscal Year 2026 H.R.7296 [119th] - SAVE America Act H.R.3633 [119th] - Digital Asset Market Clarity Act
+
+---
+
+**Linked Profiles:** [[Housing - Donors and Backers|Housing - Donors and Backers]]
